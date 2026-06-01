@@ -1,0 +1,63 @@
+{
+  "_comment": "Controlled vocabularies. Agents MUST use these exact slugs for type / stage / sector / region / status / confidence so the dataset stays filterable and consistent.",
+  "types": [
+    { "slug": "vc", "label_en": "Venture Capital firm", "label_zh": "創業投資" },
+    { "slug": "accelerator", "label_en": "Accelerator", "label_zh": "加速器" },
+    { "slug": "incubator", "label_en": "Incubator", "label_zh": "育成中心" },
+    { "slug": "cvc", "label_en": "Corporate VC", "label_zh": "企業創投" },
+    { "slug": "angel-network", "label_en": "Angel network / group", "label_zh": "天使投資網絡" },
+    { "slug": "angel-syndicate", "label_en": "Angel syndicate / SPV", "label_zh": "天使聯合投資" },
+    { "slug": "government-program", "label_en": "Government / public program", "label_zh": "政府/公部門計畫" },
+    { "slug": "venture-studio", "label_en": "Venture studio / company builder", "label_zh": "創業工作室" },
+    { "slug": "micro-vc", "label_en": "Micro-VC / emerging fund", "label_zh": "微型創投" },
+    { "slug": "family-office", "label_en": "Family office (venture-active)", "label_zh": "家族辦公室" },
+    { "slug": "growth-equity", "label_en": "Growth equity / late-stage", "label_zh": "成長期股權" },
+    { "slug": "crowdfunding", "label_en": "Equity crowdfunding platform", "label_zh": "股權群眾募資" }
+  ],
+  "stages": [
+    { "slug": "pre-seed", "label_en": "Pre-seed" },
+    { "slug": "seed", "label_en": "Seed" },
+    { "slug": "series-a", "label_en": "Series A" },
+    { "slug": "series-b", "label_en": "Series B" },
+    { "slug": "series-c-plus", "label_en": "Series C and later" },
+    { "slug": "growth", "label_en": "Growth / late-stage" },
+    { "slug": "all", "label_en": "Multi-stage / all stages" }
+  ],
+  "sectors": [
+    { "slug": "generalist", "label_en": "Sector-agnostic / generalist" },
+    { "slug": "ai-ml", "label_en": "AI / Machine Learning" },
+    { "slug": "fintech", "label_en": "FinTech" },
+    { "slug": "web3-crypto", "label_en": "Web3 / Crypto / Blockchain" },
+    { "slug": "biotech", "label_en": "BioTech / Life Sciences" },
+    { "slug": "healthtech", "label_en": "HealthTech / Digital Health" },
+    { "slug": "deeptech", "label_en": "DeepTech / Frontier" },
+    { "slug": "hardware-semiconductor", "label_en": "Hardware / Semiconductor" },
+    { "slug": "robotics", "label_en": "Robotics / Automation" },
+    { "slug": "climate-energy", "label_en": "Climate / CleanTech / Energy" },
+    { "slug": "consumer", "label_en": "Consumer / D2C" },
+    { "slug": "ecommerce", "label_en": "E-commerce / Retail" },
+    { "slug": "saas-enterprise", "label_en": "SaaS / Enterprise software" },
+    { "slug": "gaming", "label_en": "Gaming / Entertainment" },
+    { "slug": "edtech", "label_en": "EdTech" },
+    { "slug": "proptech", "label_en": "PropTech / Real estate" },
+    { "slug": "agritech", "label_en": "AgriTech / FoodTech" },
+    { "slug": "mobility", "label_en": "Mobility / Automotive" },
+    { "slug": "logistics", "label_en": "Logistics / Supply chain" },
+    { "slug": "cybersecurity", "label_en": "Cybersecurity" },
+    { "slug": "spacetech", "label_en": "SpaceTech / Aerospace" },
+    { "slug": "impact", "label_en": "Impact / ESG / Social" }
+  ],
+  "regions": [
+    { "slug": "taiwan", "label_en": "Taiwan", "label_zh": "台灣", "prefix": "tw" },
+    { "slug": "united-states", "label_en": "United States", "label_zh": "美國", "prefix": "us" },
+    { "slug": "japan", "label_en": "Japan", "label_zh": "日本", "prefix": "jp" },
+    { "slug": "europe", "label_en": "Europe", "label_zh": "歐洲", "prefix": "eu" },
+    { "slug": "south-korea", "label_en": "South Korea", "label_zh": "南韓", "prefix": "kr" },
+    { "slug": "southeast-asia", "label_en": "Southeast Asia", "label_zh": "東南亞", "prefix": "sea" },
+    { "slug": "israel", "label_en": "Israel", "label_zh": "以色列", "prefix": "il" },
+    { "slug": "india", "label_en": "India", "label_zh": "印度", "prefix": "in" },
+    { "slug": "canada", "label_en": "Canada", "label_zh": "加拿大", "prefix": "ca" }
+  ],
+  "status": ["active", "inactive", "acquired", "merged", "dormant", "unknown"],
+  "confidence": ["high", "medium", "low"]
+}
