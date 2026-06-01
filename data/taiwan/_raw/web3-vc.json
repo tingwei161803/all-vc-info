@@ -1,0 +1,524 @@
+[
+  {
+    "id": "tw-sora-ventures",
+    "name": { "en": "Sora Ventures", "local": "Sora Ventures" },
+    "aka": ["Sora", "SORA Ventures"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" }
+    ],
+    "website": "https://sora.vc",
+    "links": {
+      "other": ["https://pitchbook.com/profiles/investor/231028-12"]
+    },
+    "capital": {
+      "funds": [
+        {
+          "name": "Fund I",
+          "vintage_year": 2018,
+          "size": { "raw": "$28 million", "usd": 28000000, "currency": "USD" }
+        },
+        {
+          "name": "Fund III (Bitcoin treasury flagship)",
+          "vintage_year": 2025,
+          "size": { "raw": "$1 billion", "usd": 1000000000, "currency": "USD" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "geo_focus": ["Asia", "Taiwan", "Japan", "South Korea", "Thailand", "Hong Kong"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Bitcoin-focused venture firm accelerating Bitcoin adoption across Asia — from broad Web3 investing in Fund I to operational acquisition of publicly traded companies implementing Bitcoin treasury strategies."
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "notable_investments": [
+        { "company": "Metaplanet", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Jason Fang", "role": "Founder & Managing Partner" }
+    ],
+    "tags": ["bitcoin", "web3", "crypto", "digital-assets", "bitcoin-treasury"],
+    "summary": {
+      "en": "Taipei-based, Bitcoin-focused crypto venture firm founded in 2018 by Jason Fang. Deployed $28M in Fund I across 70+ companies; now raising a $1B Bitcoin treasury flagship fund (Fund III) targeting Asian public companies. Over 100 portfolio companies across three funds.",
+      "local": "總部設於台北 101 的比特幣導向加密創投，2018 年由 Jason Fang 創立。Fund I 投入 2,800 萬美元、投資 70 多家公司，目前正募集 10 億美元的比特幣金庫旗艦基金 (Fund III)。三檔基金累計投資超過 100 家公司。"
+    },
+    "sources": [
+      {
+        "url": "https://sora.vc/about/",
+        "title": "About Sora Ventures",
+        "publisher": "Sora Ventures",
+        "accessed": "2026-06-02",
+        "supports": "founding year, HQ, fund sizes, portfolio count, focus",
+        "quote": "Founded in 2018 ... Fund I: deployed $28 million across 70+ companies ... Fund III: $1 billion flagship institutional fund ... 100+ companies invested across three funds"
+      },
+      {
+        "url": "https://decrypt.co/338318/taiwan-venture-capital-create-1-billion-bitcoin-fund-asia-treasuries",
+        "title": "Taiwan Venture Capital Firm to Create $1 Billion Bitcoin Fund to Support Asia Treasuries",
+        "publisher": "Decrypt",
+        "accessed": "2026-06-02",
+        "supports": "Taiwan-based, $1B fund target, $200M commitments",
+        "quote": "The Taiwan-based firm aims to put Asia on par with western markets ... $1 billion ... $200 million from partners and investors"
+      },
+      {
+        "url": "https://www.theblock.co/post/369596/sora-ventures-bitcoin-treasury-fund",
+        "title": "Sora Ventures launches $1 billion fund to support bitcoin treasury firms in Asia",
+        "publisher": "The Block",
+        "accessed": "2026-06-02",
+        "supports": "Taipei 101 HQ, deployment history",
+        "quote": "Founded in early 2018, Sora Ventures has deployed more than $100 million into 150+ Web3 companies ... headquartered at Taipei 101"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size figures conflict slightly across sources: official About page says Fund I = $28M and 100+ companies across three funds; secondary press (The Block) reported '$100M+ into 150+ companies'. Used primary (sora.vc) figures for capital; deployment range may reflect different accounting. Sora now trades on Nasdaq via AsiaStrategy.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "tw-appworks",
+    "name": { "en": "AppWorks", "local": "之初加速器 / 之初創投" },
+    "aka": ["AppWorks Ventures", "AppWorks Accelerator", "之初"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" }
+    ],
+    "website": "https://appworks.tw",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/appworks-ventures",
+      "other": ["https://appworks.tw/web3/"]
+    },
+    "capital": {
+      "aum": { "raw": "US$ 386 million in total fund size", "usd": 386000000, "currency": "USD" },
+      "funds": [
+        {
+          "name": "AppWorks Fund IV",
+          "vintage_year": 2022,
+          "size": { "raw": "USD 360m (target)", "usd": 360000000, "currency": "USD" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["Taiwan", "Southeast Asia", "Greater Southeast Asia"],
+      "sector_focus": ["web3-crypto", "ai-ml", "generalist"],
+      "thesis": "\"ABS\" thesis — Artificial Intelligence, Blockchain, and Southeast Asia. Runs the region's largest Web3 accelerator community and a venture fund to drive Web3 mass adoption."
+    },
+    "program": {
+      "length_weeks": 26,
+      "batches_per_year": 2,
+      "equity_taken_pct": "0",
+      "investment": { "raw": "free (no fee, no mandatory equity)", "usd": null, "currency": "USD" },
+      "format": "hybrid",
+      "location": "Taipei / Singapore",
+      "demo_day": true,
+      "application_url": "https://appworks.tw/accelerator-faq/",
+      "application_cycles": ["rolling"],
+      "eligibility": "AI, Web3 and Southeast Asia founders"
+    },
+    "track_record": {
+      "portfolio_count": "152 active Web3 teams",
+      "notable_investments": [
+        { "company": "Animoca Brands", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Dapper Labs", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Figment", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Blocto", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "XREX", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Jamie Lin (林之晨)", "role": "Founder, Chairman & Partner" },
+      { "name": "Ching Tseng", "role": "Principal, Web3 unit lead" }
+    ],
+    "application": {
+      "how_to_apply": "Apply to the AppWorks Accelerator on a rolling basis via the website; the accelerator is free for founders.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["web3", "accelerator", "ai", "southeast-asia", "blockchain"],
+    "summary": {
+      "en": "Greater-Southeast-Asia accelerator and VC founded in 2010 by Jamie Lin, with US$386M total fund size and an explicit 'ABS' (AI, Blockchain, Southeast Asia) thesis. Runs one of Asia's largest Web3 accelerator communities (152+ active Web3 teams, 313 founders) and has backed Animoca Brands, Dapper Labs, Figment, Blocto and XREX.",
+      "local": "2010 年由林之晨創立的大東南亞加速器暨創投,基金總規模 3.86 億美元,明確採「ABS」(AI、區塊鏈、東南亞)投資論點。經營亞洲最大 Web3 加速器社群之一(152+ 活躍 Web3 團隊、313 位創業者),投資過 Animoca Brands、Dapper Labs、Figment、Blocto、XREX。"
+    },
+    "sources": [
+      {
+        "url": "https://appworks.tw/accelerator-faq/",
+        "title": "The AppWorks Accelerator FAQ",
+        "publisher": "AppWorks",
+        "accessed": "2026-06-02",
+        "supports": "total fund size, founding year, HQ, Web3 ecosystem size, accelerator format",
+        "quote": "US$ 386 million in total fund size ... Web3 ecosystem of more than 152 active teams and 313 founders ... AppWorks Accelerator has always been free for founders"
+      },
+      {
+        "url": "https://www.avcj.com/avcj/news/3026474/appworks-targets-usd360m-for-fund-iv-launches-web3-arm",
+        "title": "AppWorks targets $360m for Fund IV, launches Web3 arm",
+        "publisher": "AVCJ",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV target, AUM, founding year, ABS thesis, Web3 portfolio",
+        "quote": "USD 360m ... Assets under management currently stand at about USD 212m ... Established in 2010 ... ABS ... backed 75 start-ups and 141 entrepreneurs in the Web3 space, including Animoca Brands, Dapper Labs, Figment, Blocto, and XREX"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AppWorks is a generalist accelerator/VC with a dedicated Web3 arm (launched 2022, ABS thesis) — included for THIS segment on the strength of its sizeable Web3 practice. AUM grew from ~US$212m (2022, AVCJ) to US$386m total fund size (current, official FAQ). Web3 ecosystem figures vary by report date (146-152 teams).",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "tw-infinity-ventures-crypto",
+    "name": { "en": "Infinity Ventures Crypto", "local": "Infinity Ventures Crypto" },
+    "aka": ["IVC", "IVcrypto"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" }
+    ],
+    "website": "https://ivcrypto.io",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/infinity-ventures-crypto"
+    },
+    "capital": {
+      "funds": [
+        {
+          "name": "IVC Fund I",
+          "vintage_year": 2022,
+          "size": { "raw": "$70 million", "usd": 70000000, "currency": "USD" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Asia", "Southeast Asia", "Americas"],
+      "sector_focus": ["web3-crypto", "gaming"],
+      "thesis": "Bridges East (especially Southeast Asia) and West to jumpstart and accelerate global GameFi, DeFi and Web3 innovation; portfolio split roughly 55% Asia / 35% Americas."
+    },
+    "track_record": {
+      "portfolio_count": "80 deals (as of early 2022)",
+      "notable_investments": [
+        { "company": "Yield Guild Games (YGG)", "sector": "gaming", "outcome": "active" },
+        { "company": "XY Finance", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "MetalCore", "sector": "gaming", "outcome": "active" },
+        { "company": "Heroes of Mavia", "sector": "gaming", "outcome": "active" }
+      ],
+      "co_investors": ["Circle", "Digital Currency Group", "Animoca Brands"]
+    },
+    "people": [
+      { "name": "Brian Lu (陸龍智)", "role": "Founding Partner" },
+      { "name": "Akio Tanaka", "role": "Founding Partner (also founder of Headline Asia)" }
+    ],
+    "tags": ["web3", "gamefi", "defi", "crypto", "gaming"],
+    "summary": {
+      "en": "Taipei-based Web3 venture fund that closed a $70M debut fund in Feb 2022 to back global GameFi, DeFi and Web3 startups, bridging Asia and the Americas. LPs include Circle, Digital Currency Group and Animoca Brands; portfolio includes Yield Guild Games and XY Finance.",
+      "local": "總部位於台北的 Web3 創投,2022 年 2 月完成 7,000 萬美元首檔基金,投資全球 GameFi、DeFi 與 Web3 新創,連結亞洲與美洲。LP 包括 Circle、Digital Currency Group、Animoca Brands;投資組合含 Yield Guild Games、XY Finance。"
+    },
+    "sources": [
+      {
+        "url": "https://www.dealstreetasia.com/stories/infinity-ventures-crypto-fund-280743",
+        "title": "Taiwan's Infinity Ventures Crypto closes debut fund at $70m to back GameFi, DeFi, Web 3.0",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-02",
+        "supports": "Taipei HQ, $70M fund, geo split, LPs, portfolio, deals count",
+        "quote": "Taipei-based Web 3 investor ... raised $70 million ... split of 55% Asia and 35% Americas ... Circle, Digital Currency Group and Animoca Brands participated ... 80 deals complete"
+      },
+      {
+        "url": "https://www.businesswire.com/news/home/20220208005128/en/Infinity-Ventures-Crypto-Announces-Close-of-Its-First-Fund-at-$70-Million",
+        "title": "Infinity Ventures Crypto Announces Close of Its First Fund at $70 Million",
+        "publisher": "BusinessWire",
+        "accessed": "2026-06-02",
+        "supports": "fund size, focus (GameFi/DeFi/Web3)",
+        "quote": "Close of Its First Fund at $70 Million"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year 2021 inferred from a 2022 debut-fund close; founding partner Brian Lu sits in Taipei. IVC is distinct from Headline Asia/Infinity Ventures (a separate generalist firm) though Akio Tanaka co-founded both.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "tw-red-building-capital",
+    "name": { "en": "Red Building Capital", "local": "紅樓資本" },
+    "aka": ["RBC", "紅樓資本股份有限公司"],
+    "type": "vc",
+    "subtypes": ["venture-studio"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" }
+    ],
+    "website": "https://www.rbcap.io",
+    "links": {
+      "linkedin": "https://tw.linkedin.com/company/redbuildingcapital",
+      "other": ["https://www.facebook.com/RedBuildingCapital/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Taiwan", "Asia"],
+      "sector_focus": ["web3-crypto", "deeptech"],
+      "thesis": "Taiwan's first venture firm focused on blockchain frontier tech, using a venture-studio model with 'pre-investment management' — validating portfolio products with real enterprise customers before investing."
+    },
+    "track_record": {
+      "portfolio_count": "40+",
+      "notable_investments": [
+        { "company": "Klaytn", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "GoFreight", "sector": "logistics", "outcome": "active" },
+        { "company": "Chelpis", "sector": "cybersecurity", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Ivan Lee", "role": "Co-founder (ex-TSMC R&D engineer)" },
+      { "name": "Denny", "role": "Co-founder" },
+      { "name": "Dennis", "role": "Co-founder" }
+    ],
+    "tags": ["blockchain", "web3", "venture-studio", "early-stage"],
+    "summary": {
+      "en": "Founded 2018 in Taipei, billed as Taiwan's first venture firm focused on blockchain frontier tech. Operates a venture-studio model with 'pre-investment management', has made 40+ investments, and is best known for backing Korean chain Klaytn (reported peak secondary-market returns of 50-60x).",
+      "local": "2018 年於台北成立,號稱台灣第一家專注區塊鏈前沿科技的投創基金。採創業工作室模式並首創「投前管理」,累積投資 40 個以上項目,以投資韓國公鏈 Klaytn(報導稱二級市場高峰報酬達 50-60 倍)最為知名。"
+    },
+    "sources": [
+      {
+        "url": "https://www.blocktempo.com/red-building-capital-an-early-investing-company-targeted-in-blockchain-and-startup-tech-company/",
+        "title": "台灣第一家區塊鏈投創基金:「紅樓資本」專精於區塊鏈和科技新創早期投資",
+        "publisher": "BlockTempo (動區動趨)",
+        "accessed": "2026-06-02",
+        "supports": "founding year, founders, Klaytn 50x, portfolio count, venture-studio model",
+        "quote": "Founded in 2018 ... Founders: Denny, Ivan, and Dennis ... Klaytn ... over 50x returns at peak secondary market valuation ... grew from three people to nearly thirty team members"
+      },
+      {
+        "url": "https://www.rbcap.io/about/",
+        "title": "About — Red Building Capital 紅樓資本",
+        "publisher": "Red Building Capital",
+        "accessed": "2026-06-02",
+        "supports": "HQ address, seed-to-Series-A stage, pre-investment thesis",
+        "quote": "104 台北市中山區復興北路156號2樓 ... 種子輪到Series A投入資金"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Klaytn return figures (50x vs 60x peak) vary between BlockTempo passages; reported as 'reported peak secondary-market returns'. Fund size / AUM not publicly disclosed — left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "tw-comma3-ventures",
+    "name": { "en": "Comma3 Ventures", "local": "Comma3 Ventures" },
+    "aka": ["Comma3"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" }
+    ],
+    "website": "https://comma3.co",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/comma3ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/comma3-ventures"
+    },
+    "capital": {
+      "funds": [
+        {
+          "name": "Comma3 Fund I",
+          "vintage_year": 2022,
+          "size": { "raw": "$45 million (target); $20 million first close", "usd": 45000000, "currency": "USD" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$250,000 to $1 million", "usd_min": 250000, "usd_max": 1000000 },
+      "geo_focus": ["Asia", "Singapore", "Taiwan", "Global"],
+      "sector_focus": ["web3-crypto", "gaming"],
+      "thesis": "Early-stage Web3 fund focused on blockchain infrastructure (L1/L2, cross-chain, ZK, dApps) with prioritization of DeFi, GameFi and creator economies; targets a portfolio of 80-100 projects."
+    },
+    "track_record": {
+      "portfolio_count": "80-100 (target)",
+      "notable_investments": [
+        { "company": "Zilliqa", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Polygon", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Klaytn", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Cetus", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Nicole Liu", "role": "General Partner (ex-Jubilee Capital Management)" },
+      { "name": "Ivan Li", "role": "General Partner" },
+      { "name": "Denny Yang", "role": "General Partner" }
+    ],
+    "tags": ["web3", "blockchain-infrastructure", "defi", "gamefi", "early-stage"],
+    "summary": {
+      "en": "Taipei-based early-stage Web3 VC founded in 2022 by three GPs (Nicole Liu, Ivan Li, Denny Yang). Raised a $20M first close toward a $45M fund from investors in Taiwan and Singapore; writes $250K-$1M cheques into blockchain infrastructure, DeFi, GameFi and creator-economy projects. Portfolio includes Zilliqa, Polygon, Klaytn and Cetus.",
+      "local": "總部位於台北的早期 Web3 創投,2022 年由三位 GP(Nicole Liu、Ivan Li、Denny Yang)創立。針對 4,500 萬美元基金完成 2,000 萬美元首次關閉,資金來自台灣與新加坡;單筆投資 25 萬至 100 萬美元,聚焦區塊鏈基礎設施、DeFi、GameFi 與創作者經濟。投資組合含 Zilliqa、Polygon、Klaytn、Cetus。"
+    },
+    "sources": [
+      {
+        "url": "https://www.nftgators.com/taiwan-based-comma3-ventures-raises-20m-to-fund-web3-early-stage-startups/",
+        "title": "Taiwan-Based Comma3 Ventures Raises $20M to Fund Web3 Early-Stage Startups",
+        "publisher": "NFTgators",
+        "accessed": "2026-06-02",
+        "supports": "GPs, fund size, first close, check size, portfolio target, focus",
+        "quote": "$20 million ... first close of a $45 million fundraising ... cheques in the region of $250,000 to $1 million ... 80-100 projects ... Nicole Liu, Ivan Li, and Denny Yang"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/comma3-ventures",
+        "title": "Comma3 Ventures — Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "founded 2022, Taipei HQ, Web3 focus",
+        "quote": "founded in 2022 and based in Taipei City, Taiwan"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Portfolio company lists differ slightly between NFTgators (Zilliqa, Polygon, Klaytn, Thetan Arena, Highstreet, Tranchess, Cetus) and CB Insights (81 investments incl. RSS3, AvocadoDAO). Used cross-confirmed names.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "tw-evernew-capital",
+    "name": { "en": "Evernew Capital", "local": "Evernew Capital" },
+    "aka": ["Evernew"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" }
+    ],
+    "website": "https://evernewcap.com",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/evernew-capital",
+      "crunchbase": "https://www.crunchbase.com/organization/evernew-capital"
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "geo_focus": ["Taiwan", "Asia", "Global"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Crypto venture fund backing seed-to-growth-stage companies and protocols across DeFi, NFT and infrastructure that add utility to the multi-chain ecosystem; runs a developer-focused Solana ecosystem fund in Taiwan."
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "notable_investments": [
+        { "company": "Saros Finance", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Jiritsu", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Benjamin Shyong", "role": "Founder" }
+    ],
+    "tags": ["web3", "defi", "nft", "infrastructure", "solana"],
+    "summary": {
+      "en": "Taipei-based crypto venture fund founded in 2018, backing seed-to-growth-stage DeFi, NFT and infrastructure projects across the multi-chain ecosystem. Has invested in 100+ projects globally and partnered with the Solana Foundation on a developer ecosystem fund in Taiwan.",
+      "local": "總部位於台北的加密創投,2018 年成立,投資 DeFi、NFT 與基礎設施類的種子至成長期項目。全球已投資 100 多個項目,並與 Solana 基金會合作在台灣設立開發者生態基金。"
+    },
+    "sources": [
+      {
+        "url": "https://evernewcap.com/",
+        "title": "Evernew Capital | Crypto Venture Fund",
+        "publisher": "Evernew Capital",
+        "accessed": "2026-06-02",
+        "supports": "crypto venture fund, seed-to-growth stage, DeFi/NFT/infra focus",
+        "quote": "Crypto Venture Fund ... backing seed to growth stage crypto companies and protocols"
+      },
+      {
+        "url": "https://www.coincarp.com/investor/evernew-capital/",
+        "title": "Evernew Capital crypto portfolio, founders & crypto investments",
+        "publisher": "CoinCarp",
+        "accessed": "2026-06-02",
+        "supports": "founded 2018, Taipei, portfolio count, founder, Solana fund",
+        "quote": "founded in 2018 ... based in Taipei, Taiwan ... invested in over 100+ projects globally ... 20M ecosystem fund in partnership with the Solana Foundation"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded year and Taipei HQ from CoinCarp (secondary). Fund size / AUM not disclosed. Founder listed as Benjamin Shyong (Crunchbase/CoinCarp); a co-founder Hu Xiaozhong is also referenced.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "tw-cherubic-ventures",
+    "name": { "en": "Cherubic Ventures", "local": "心元資本" },
+    "aka": ["Cherubic", "心元"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "website": "https://cherubic.com",
+    "links": {
+      "other": ["https://signal.nfx.com/firms/cherubic-ventures"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b"],
+      "check_size": { "raw": "$500K to $1 million", "usd_min": 500000, "usd_max": 1000000 },
+      "geo_focus": ["Taiwan", "United States", "Asia", "China"],
+      "sector_focus": ["generalist", "web3-crypto", "ai-ml", "consumer"],
+      "thesis": "Early-stage generalist VC that actively backs blockchain/Web3 teams (many from Taiwan), viewing blockchain as Taiwan's route to the global stage."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Highstreet", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Matt Cheng (鄭博仁)", "role": "Founder & Managing Partner" }
+    ],
+    "tags": ["early-stage", "web3", "blockchain", "ai", "consumer"],
+    "summary": {
+      "en": "Early-stage generalist VC (English: Cherubic Ventures) founded by Taiwanese investor Matt Cheng, investing seed-Series B with $500K-$1M checks. Not crypto-dedicated, but an active blockchain/Web3 backer — many of its blockchain teams are Taiwanese — with a published thesis that blockchain is 'Taiwan's ticket to the global stage'.",
+      "local": "心元資本是由台灣投資人鄭博仁(Matt Cheng)創立的早期通用型創投,投資種子至 B 輪,單筆 50 萬至 100 萬美元。雖非加密專注基金,但積極投資區塊鏈/Web3 團隊(許多來自台灣),並公開主張區塊鏈是「台灣登上全球舞台的門票」。"
+    },
+    "sources": [
+      {
+        "url": "https://cherubic.com/blog/why-blockchain-is-taiwans-ticket-to-the-global-stage/",
+        "title": "Why blockchain is Taiwan's ticket to the global stage",
+        "publisher": "Cherubic Ventures",
+        "accessed": "2026-06-02",
+        "supports": "active blockchain/Web3 investing thesis, Taiwanese teams",
+        "quote": "Cherubic Ventures is actively investing in blockchain teams, quite a few of which are from Taiwan"
+      },
+      {
+        "url": "https://signal.nfx.com/investors/matt-cheng",
+        "title": "Matt Cheng's Investing Profile — Cherubic Ventures Partner",
+        "publisher": "NFX Signal",
+        "accessed": "2026-06-02",
+        "supports": "founder, stages, check size, Web3 focus area",
+        "quote": "Web3/Blockchain ... seed through Series B stages ... typically invests between $500K and $1 million"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Cherubic is a generalist early-stage VC, NOT a crypto-dedicated fund — included for THIS segment only because of its sustained, publicly-stated Web3/blockchain practice (light overlap; dedup later). HQ reported variously as Taipei and San Francisco (and one source said Tokyo); founder Matt Cheng is Taiwanese, firm has Taipei + SF presence. Founding year 2014 per common profiles.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  }
+]

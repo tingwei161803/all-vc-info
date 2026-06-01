@@ -1,0 +1,609 @@
+[
+  {
+    "id": "tw-taipei-angels",
+    "name": { "en": "Taipei Angels", "local": "台安傑天使投資" },
+    "aka": ["Taipei Angels Investment", "TA", "台安傑國際天使投資"],
+    "type": "angel-network",
+    "subtypes": ["angel-syndicate"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.taipeiangels.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/taipei-angels-investment",
+      "other": [
+        "https://www.cbinsights.com/investor/taipei-angels-investment",
+        "https://pitchbook.com/profiles/investor/111891-61",
+        "https://www.taipeiangels.com/team"
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["biotech", "climate-energy", "consumer", "saas-enterprise", "hardware-semiconductor"],
+      "thesis": "Premium seed-funding angel group of 80+ executives and entrepreneurs who invest time, expertise and money into early-stage startups across five focus domains: biotech & cleantech, cultural creativity, mobile & commerce, software & services, and technology & hardware. Members convene monthly to evaluate selected startups."
+    },
+    "track_record": {
+      "portfolio_count": 20,
+      "notable_investments": [
+        { "company": "PopChill", "sector": "ecommerce", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Chester Ho", "role": "Founder & Honorary Chairman (創辦人暨榮譽董事長)" },
+      { "name": "Ivy Jean", "role": "Chairman (董事長)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Taipei Angels (台安傑) is a Taipei-based angel investment group founded in September 2012, comprising 80+ top executives and entrepreneurs. Members meet monthly to evaluate startups across biotech/cleantech, cultural creativity, mobile & commerce, software & services, and technology & hardware. CB Insights records 20 investments; its most recent disclosed deal was PopChill's Series A (Sept 2025).",
+      "local": "台安傑（Taipei Angels）是 2012 年 9 月成立的台北天使投資組織，由逾 80 位高階主管與創業家組成，每月召開會議評估新創，聚焦生技與潔淨科技、文創、行動商務、軟體服務及科技硬體五大領域。CB Insights 記錄其投資 20 件，近期案例為 PopChill A 輪（2025 年 9 月）。"
+    },
+    "sources": [
+      {
+        "url": "https://www.taipeiangels.com/about",
+        "title": "About - 台安傑 天使投資 | Taipei Angels Investment (TA)",
+        "publisher": "Taipei Angels",
+        "accessed": "2026-06-02",
+        "supports": "founding date Sept 2012, 80+ members, five sector focus, monthly meetings",
+        "quote": "TA began investing in September 2012 ... an angel investment group of more than 80 top executives and entrepreneurs"
+      },
+      {
+        "url": "https://www.cbinsights.com/investor/taipei-angels-investment",
+        "title": "Taipei Angels Investment Portfolio Investments, Funds, Exits",
+        "publisher": "CB Insights",
+        "accessed": "2026-06-02",
+        "supports": "20 investments, latest deal PopChill Series A $3M Sept 15 2025",
+        "quote": "Taipei Angels Investment has made 20 investments. Their latest investment was in PopChill ... September 15, 2025 ... $3M"
+      },
+      {
+        "url": "https://findit.org.tw/tw/Res/2529",
+        "title": "FINDIT — Taiwan angel investment organizations analysis",
+        "publisher": "FINDIT (III/經濟部)",
+        "accessed": "2026-06-02",
+        "supports": "Taipei Angels disclosed-deal count 10 (2015–Q1 2025) per FINDIT dataset",
+        "quote": "台安傑國際天使投資10件"
+      },
+      {
+        "url": "https://www.taipeiangels.com/team",
+        "title": "台安傑天使投資 天使投資人 Angel Investors",
+        "publisher": "Taipei Angels",
+        "accessed": "2026-06-02",
+        "supports": "Founder Chester Ho; Chairman Ivy Jean",
+        "quote": "Chester Ho — 創辦人暨榮譽董事長; Ivy Jean — 董事長"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding (Sept 2012) and 80+ members are from the official site. Portfolio/deal counts differ by source: CB Insights shows 20 investments while FINDIT counts 10 disclosed deals (2015–Q1 2025); these track only publicly disclosed rounds and likely undercount. No official cumulative invested-amount figure published.",
+    "last_updated": "2026-06-02",
+    "researched_by": "angel-network"
+  },
+  {
+    "id": "tw-smart-capital-angels",
+    "name": { "en": "Smart Capital", "local": "識富天使會" },
+    "aka": ["Smart Capital Angels Club", "識富天使會 Smart Capital", "識富"],
+    "type": "angel-network",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://angel-investor.org/",
+    "links": {
+      "linkedin": "https://tw.linkedin.com/company/%E8%AD%98%E5%AF%8C%E5%A4%A9%E4%BD%BF%E6%9C%83",
+      "other": ["https://angel-investor.org/web/en/about"]
+    },
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" },
+      { "country": "Taiwan", "city": "Kaohsiung" },
+      { "country": "Taiwan", "city": "Taichung" },
+      { "country": "Taiwan", "city": "Tainan" }
+    ],
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "geo_focus": ["Taiwan", "Asia"],
+      "sector_focus": ["ai-ml", "deeptech", "impact", "consumer", "web3-crypto"],
+      "thesis": "Taiwan's largest individual-angel community, grown out of WorkFace Taipei (2015). Members co-invest in early-to-growth-stage startups; the platform also runs an angel-investment academy and a startup acceleration program. Positions itself as a 'no-mentor, accompany-the-journey' (沒有導師，只陪跑) angel community."
+    },
+    "program": {
+      "format": "in-person",
+      "location": "Taipei",
+      "eligibility": "Formal membership requires passing a screening process and completing a paid 3-day angel-investment course (~NT$80,000)."
+    },
+    "track_record": {
+      "portfolio_count": "近40–50家 (nearly 40–50 startups across reports)",
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Kate Chen (陳怡蓉)", "role": "Co-Founder & CEO" },
+      { "name": "黃冠華", "role": "Co-Founder (旭榮集團執行董事)" },
+      { "name": "侯鈞耀", "role": "Co-Founder" },
+      { "name": "劉文帥", "role": "Co-Founder" }
+    ],
+    "application": {
+      "how_to_apply": "Apply for membership, pass screening, and complete the paid 3-day angel investment course.",
+      "accepts_cold_inbound": true
+    },
+    "summary": {
+      "en": "Smart Capital (識富天使會) is Taiwan's largest individual-angel community, founded in 2017 out of WorkFace Taipei. It reported 250+ members and ~40 startups (3 'funds', >NT$100M total) by 2021, growing to 500+ members and 50+ startups by 2025, with 94% of portfolio still active. It runs an angel academy and acceleration program, with branches in Kaohsiung, Taichung and Tainan and overseas links to Singapore, Tokyo and Beijing.",
+      "local": "識富天使會（Smart Capital）是全台最大的個人天使投資社群，2017 年由 WorkFace Taipei 發展而來。2021 年報導逾 250 位成員、近 40 家新創（3 支基金、總投資逾億元），至 2025 年成長至逾 500 位成員、投資 50 多家新創，94% 仍存續。旗下設天使學院與加速計畫，並擴展至高雄、台中、台南及新加坡、東京、北京。"
+    },
+    "sources": [
+      {
+        "url": "https://angel-investor.org/web/en/about",
+        "title": "Smart Capital — About",
+        "publisher": "Smart Capital",
+        "accessed": "2026-06-02",
+        "supports": "founded 2017 from WorkFace Taipei (2015), 500+ members, 50+ startups, 94% active, co-founders, branches",
+        "quote": "Founded in 2017 ... Surpassed 500 members ... Backed over 50 startups ... 94% of our portfolio companies remain active"
+      },
+      {
+        "url": "https://www.businesstoday.com.tw/article/category/183015/post/202105120043/",
+        "title": "識富天使會集結250位會員 投資近40家新創",
+        "publisher": "今周刊 (Business Today)",
+        "accessed": "2026-06-02",
+        "supports": "250+ members, ~40 startups, 3 funds, >NT$100M total, NT$80,000 3-day course, co-founders",
+        "quote": "逾二五○位成員 ... 已投資三支「基金」、近四十家新創公司，總投資金額逾億元 ... 為期三天、一門要價八萬元的天使投資課程"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Member/startup counts grew over time (250+/~40 in 2021 → 500+/50+ in 2025). The 'three funds' and >NT$100M total are 2021 figures from Business Today. FINDIT counts 26 disclosed angel deals (2015–Q1 2025), noting Smart Capital's investing concentrated in 2019–2022 and slowed recently. NT$80,000 course fee is a 2021 figure.",
+    "last_updated": "2026-06-02",
+    "researched_by": "angel-network"
+  },
+  {
+    "id": "tw-nctu-angel-club",
+    "name": { "en": "NCTU Angel Club", "local": "交大天使投資俱樂部" },
+    "aka": ["交大天使俱樂部", "Chiao Tung University Angel Club", "陽明交大天使俱樂部"],
+    "type": "angel-network",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Hsinchu",
+    "website": "https://www.angelclub.tw/",
+    "links": {
+      "other": ["https://angelclub.vc/aboutus", "https://www.winnews.com.tw/124775/"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "members invest smaller individual amounts; investees donate 10% of equity to NCTU Alumni Association", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["hardware-semiconductor", "ai-ml", "biotech", "ecommerce", "consumer", "fintech"],
+      "thesis": "Angel club founded by alumni of National Chiao Tung University (now NYCU) to back Taiwanese startups, leveraging the 'NCTU mafia' network. Guiding principle: '鼓勵創業、創造就業、活絡經濟、福國利民'. Each investee donates 10% of equity to the NCTU Alumni Association. Deals are vetted by a working group before investor matching."
+    },
+    "track_record": {
+      "portfolio_count": "30+ (38+ companies listed on site)",
+      "notable_investments": [
+        { "company": "Kneron (耐能)", "sector": "ai-ml", "outcome": "active" },
+        { "company": "MoBagel (行動貝果)", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Botrista", "sector": "consumer", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "陳俊秀 (Churchill Chen / Chen Jun-hsiu)", "role": "Founder; Executive Director, NCTU Alumni Association" },
+      { "name": "郭加泳", "role": "Co-Founder" },
+      { "name": "林嘉勳", "role": "Co-Founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "NCTU Angel Club (交大天使投資俱樂部) is an alumni-driven angel club founded around 2012 by NCTU Alumni Association executive director Chen Jun-hsiu, based at the Haoran Library in Hsinchu. It has cumulatively invested in 30+ startups (38+ listed on its site) including Kneron, MoBagel and Botrista, with ~12 expected to IPO within three years. Deals are vetted by an 8–9 person working group; investees donate 10% of equity to the alumni association.",
+      "local": "交大天使投資俱樂部由交大校友會執行長陳俊秀於約 2012 年發起，據點在新竹浩然圖書館 B1。累計投資 30 多家新創（官網列 38 家以上），包含耐能 Kneron、行動貝果 MoBagel、Botrista，預計 3 年內有 12 家上市櫃。投資案由 8–9 人工作小組審核，被投資公司須捐 10% 股權給校友會。"
+    },
+    "sources": [
+      {
+        "url": "https://www.winnews.com.tw/124775/",
+        "title": "交大天使俱樂部 整合「交大幫」扶植新創成果輝煌",
+        "publisher": "WinNews 威傳媒",
+        "accessed": "2026-06-02",
+        "supports": "founder Chen Jun-hsiu, 30+ startups, 12 expected IPOs in 3 years, notable companies",
+        "quote": "累計共投資30多家新創 ... 預計3年內會有12家上市櫃 ... 耐能 ... Botrista"
+      },
+      {
+        "url": "https://angelclub.vc/aboutus",
+        "title": "NCTU Angel Club — About Us",
+        "publisher": "NCTU Angel Club",
+        "accessed": "2026-06-02",
+        "supports": "established ~2012, co-founders, 10% equity donation, 9-member working group, mission",
+        "quote": "must donate 10% of equity to NCTU Alumni Association ... 鼓勵創業、創造就業、活絡經濟、福國利民"
+      },
+      {
+        "url": "https://findit.org.tw/tw/Res/2529",
+        "title": "FINDIT — Taiwan angel investment organizations analysis",
+        "publisher": "FINDIT (III/經濟部)",
+        "accessed": "2026-06-02",
+        "supports": "NCTU Angel disclosed-deal count 22 (2015–Q1 2025)",
+        "quote": "交大天使22件"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year ambiguous: official site shows both 2009 and 2012, secondary sources say 'about 10 years ago' (~2012–2013). Used 2012. Portfolio counts vary (30+ in press, 38+ listed on site; FINDIT counts 22 disclosed deals). No official cumulative invested-amount published; reported 'unrealized gains from donated equity could exceed NT$500M'.",
+    "last_updated": "2026-06-02",
+    "researched_by": "angel-network"
+  },
+  {
+    "id": "tw-mbc-angel-club",
+    "name": { "en": "MBC Angel Club", "local": "MBC天使俱樂部" },
+    "aka": ["MBC多元商", "MBC Angels", "多元資本顧問"],
+    "type": "angel-network",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://vip.mbsinv.com/",
+    "links": {
+      "other": [
+        "https://www.businessweekly.com.tw/business/indep/1003955",
+        "https://www.1111.com.tw/corp/72572559"
+      ]
+    },
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei (Zhongshan District)" },
+      { "country": "Malaysia", "city": "Petaling Jaya" }
+    ],
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Taiwan", "Malaysia", "Asia"],
+      "sector_focus": ["consumer", "climate-energy", "healthtech", "impact"],
+      "thesis": "Value-investing angel community billing itself as Asia's largest by membership. Focuses on businesses with stable cash flow (food/clothing/housing/transport/education/entertainment/healthcare), the silver economy, green energy and ESG. The club itself invests to pre-filter quality companies; emphasis on investing in 'people' with strict due diligence."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "林俊洲 (Lin Junzhou)", "role": "Founder" }
+    ],
+    "application": {
+      "how_to_apply": "Conditional membership; applicants must pass a NT$2 million financial-verification review.",
+      "accepts_cold_inbound": true
+    },
+    "summary": {
+      "en": "MBC Angel Club (MBC天使俱樂部) was founded in 2016 by Lin Junzhou and bills itself as Asia's largest angel-investment community by membership (~500 members, targeting 10,000). Members' cumulative investments exceed NT$300M and are said to have catalyzed over NT$1.5B of follow-on VC investment. It focuses on cash-flow businesses, green energy and healthcare, with a Taipei HQ and a Malaysia branch; entry requires a NT$2M financial-verification review.",
+      "local": "MBC天使俱樂部由林俊洲於 2016 年創立，自稱亞洲人數規模最大的天使投資社群（近 500 位會員，目標 1 萬人）。會員海內外投資總額逾新台幣 3 億元，並帶動創投對中小企業逾 15 億元的後續投資。聚焦穩定現金流產業、綠能與醫療，總部在台北中山區、設馬來西亞分部；入會須通過 200 萬元財力審核。"
+    },
+    "sources": [
+      {
+        "url": "https://www.businessweekly.com.tw/business/indep/1003955",
+        "title": "台灣規模最大的天使投資人組織 加入MBC天使俱樂部",
+        "publisher": "商業周刊 (Business Weekly)",
+        "accessed": "2026-06-02",
+        "supports": "founder Lin Junzhou, ~500 members, NT$300M member investment, NT$1.5B catalyzed, NT$2M entry review",
+        "quote": "林俊洲 ... 近500位會員 ... 海內外投資總額近新台幣3億 ... 帶動國內外創投對這些中小企業做出超過新台幣15億元的投資"
+      },
+      {
+        "url": "https://vip.mbsinv.com/",
+        "title": "MBC天使俱樂部 - 天使投資俱樂部",
+        "publisher": "MBC Angel Club",
+        "accessed": "2026-06-02",
+        "supports": "founded 2016, Asia's largest by membership claim, sector focus, NT$300M, Taipei/Malaysia",
+        "quote": "亞洲人數規模最大的天使投資社群 ... 會員投資總額已超過三億"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "'Asia's largest angel community' and 'highest success rate' are self-described marketing claims, not independently verified. NT$300M member-investment total and NT$1.5B catalyzed figures are from a Business Weekly sponsored/independent feature. Founder name 林俊洲 from Business Weekly; the club's own site does not name him. Founded 2016 (some sources cite Nov 2016).",
+    "last_updated": "2026-06-02",
+    "researched_by": "angel-network"
+  },
+  {
+    "id": "tw-ava-angels",
+    "name": { "en": "AVA Angels", "local": "安發天使投資" },
+    "aka": ["Angel to Venture", "安致勤資", "安發天使投資股份有限公司", "AVA天使投資"],
+    "type": "angel-syndicate",
+    "subtypes": ["micro-vc", "accelerator"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.angeltoventure.com/en",
+    "links": {
+      "other": [
+        "https://www.facebook.com/AngeltoVenture/",
+        "https://meet.bnext.com.tw/articles/view/49184",
+        "https://twincn.com/item.aspx?no=82870552"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "AUM 18M USD", "usd": 18000000, "currency": "USD" },
+      "funds": [
+        { "name": "安發元天使資本天使基金 (AVA Yuan Angel Capital Fund)", "vintage_year": 2021, "size": { "raw": "超過新台幣1億元", "usd": null, "currency": "TWD" } },
+        { "name": "安發永續基金 (AVA Sustainable Fund)", "vintage_year": null, "size": { "raw": "undisclosed (part of NT$300M total AUM reported across funds)", "usd": null, "currency": "TWD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "US$300K–1M per investment (約新台幣900–3,000萬元)", "usd_min": 300000, "usd_max": 1000000 },
+      "geo_focus": ["Taiwan", "Global"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "fintech", "consumer", "web3-crypto", "impact"],
+      "thesis": "Combines angel investing with a VC-fund structure — co-investing alongside experienced entrepreneurs and operators. Holds weekly investor meetings to review deals. Focus areas: AI industry transformation and vertical applications, software/SaaS, FinTech, consumer tech, Web3 and ESG. Runs the A2Growth Launchpad accelerator."
+    },
+    "program": {
+      "format": "hybrid",
+      "location": "Taipei",
+      "perks": ["AWS technology credits and partner ecosystem (A2Growth Launchpad)"],
+      "eligibility": "Digital-native startups scaling globally"
+    },
+    "track_record": {
+      "portfolio_count": 37,
+      "notable_investments": [
+        { "company": "Lypid", "sector": "agritech", "outcome": "active" },
+        { "company": "VOCUS", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Rosetta.ai", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Mr. Living", "sector": "consumer", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "JJ (方俊傑 / JJ Fang)", "role": "Founder" }
+    ],
+    "team_size": "30+ investors",
+    "application": {
+      "accepts_cold_inbound": true,
+      "contact": "AVA@angeltoventure.com"
+    },
+    "summary": {
+      "en": "AVA Angels (安發天使投資 / 安致勤資) is a Taipei angel-investment platform founded around 2020 by JJ Fang (方俊傑) that blends angel co-investment with a VC-fund structure and weekly investor meetings. It reports US$18M AUM, 37 portfolio companies and 30+ investors, focusing on AI, SaaS, FinTech, consumer tech, Web3 and ESG. Funds include the 2021 'AVA Yuan' angel fund (>NT$100M) and the AVA Sustainable Fund; checks run US$300K–1M. FINDIT ranks it Taiwan's most active angel org in recent years. It also runs the A2Growth Launchpad accelerator.",
+      "local": "安發天使投資（安致勤資 / AVA Angels）是約 2020 年由方俊傑（JJ）創立的台北天使投資平台，結合天使共同投資與創投基金架構，每週召開投資人會議。AUM 約 1,800 萬美元，投資組合 37 家、投資人 30 多位，聚焦 AI、SaaS、金融科技、消費科技、Web3 與 ESG。基金含 2021 年「安發元」天使基金（逾 1 億元）與安發永續基金，單筆投資 30–100 萬美元。FINDIT 指其為近年台灣最積極的天使組織，並設 A2Growth Launchpad 加速器。"
+    },
+    "sources": [
+      {
+        "url": "https://www.angeltoventure.com/en",
+        "title": "AVA Angels — Home",
+        "publisher": "AVA Angels",
+        "accessed": "2026-06-02",
+        "supports": "AUM US$18M, 37 portfolio, 30+ investors, founded 2020, sector focus, founder JJ, Taipei address",
+        "quote": "AUM 18M USD ... Portfolio 37 ... Investor 30+ ... AI Industry Transformation, AI Vertical Applications, Software Technology, SaaS, FinTech, Consumer Tech, Web3, ESG"
+      },
+      {
+        "url": "https://meet.bnext.com.tw/articles/view/49184",
+        "title": "AVA天使投資基金平台完成破億元資金募資，瞄準Web3",
+        "publisher": "Meet 創業小聚 / 數位時代",
+        "accessed": "2026-06-02",
+        "supports": "AVA Yuan fund >NT$100M (2021), platform founded 2021, founder 方俊傑, check US$300K–1M, 9 startups (then), Web3/ESG focus",
+        "quote": "募得超過新台幣1億元 ... 成立於2021年 ... 每筆投資金額預計落在30～100萬美元（約新台幣900～3,000萬元）"
+      },
+      {
+        "url": "https://findit.org.tw/tw/Res/2529",
+        "title": "FINDIT — Taiwan angel investment organizations analysis",
+        "publisher": "FINDIT (III/經濟部)",
+        "accessed": "2026-06-02",
+        "supports": "AVA most active angel org 2021–2024; 28 disclosed deals (2015–Q1 2025)",
+        "quote": "安發天使股份有限公司(AVA天使投資)投資件數共28件 ... 為國內近年最積極參與新創投資的天使組織之一"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year conflicts: official site says 2020, bnext says platform 'established 2021', and the legal entity 安發天使投資股份有限公司 was registered 9 May 2019 per company registry. Used 2020 (site). The AVA Yuan fund (>NT$100M, 2021) and AVA Sustainable Fund are distinct; a secondary report cites total managed scale reaching NT$300M. Portfolio count grew from 9 (2021) to 37 (current site). Check size US$300K–1M from bnext.",
+    "last_updated": "2026-06-02",
+    "researched_by": "angel-network"
+  },
+  {
+    "id": "tw-taiwan-global-angels",
+    "name": { "en": "Taiwan Global Angels", "local": "台灣全球天使投資俱樂部" },
+    "aka": ["TGA", "台灣天使俱樂部"],
+    "type": "angel-network",
+    "subtypes": ["angel-syndicate"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.taiwanglobalangels.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/taiwan-global-angels",
+      "other": [
+        "https://www.taiwanglobalangels.com/team-1",
+        "https://sunrisemedium.com/p/218/taiwan-global-angels",
+        "https://news.gbimonthly.com/tw/invest/show2.php?num=1422"
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["United States", "Silicon Valley"],
+      "sector_focus": ["healthtech", "robotics", "ai-ml", "hardware-semiconductor"],
+      "thesis": "A person-centric (not fund) angel network founded by Taiwanese entrepreneurs that aggregates angel investors, tech executives and serial entrepreneurs across the Pacific to co-invest in early-stage US Silicon Valley startups — primarily medical technology, automation solutions and smart IoT — leveraging Taiwan's R&D, manufacturing and healthcare strengths."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "詹益鑑 (IC Chan)", "role": "Co-Founder" },
+      { "name": "黃沛聲 (Bryan Huang)", "role": "Co-Founder; Managing Attorney, LiQin International Law Office" }
+    ],
+    "team_size": "~50 members",
+    "application": { "accepts_cold_inbound": false },
+    "summary": {
+      "en": "Taiwan Global Angels (TGA / 台灣全球天使投資俱樂部) was founded in early 2022 by IC Chan (詹益鑑, a Berkeley SkyDeck startup advisor) and attorney Bryan Huang (黃沛聲). It is a person-centric angel network (~50 members) that pools Taiwanese angels and operators across the Pacific to co-invest in early-stage Silicon Valley startups in medtech, automation and smart IoT. Reporting indicates cumulative investment surpassed NT$600M.",
+      "local": "台灣全球天使投資俱樂部（TGA）由 Berkeley SkyDeck 創業顧問詹益鑑與律師黃沛聲於 2022 年初創立，是以人為核心（非基金）的天使網絡（約 50 位成員），結合太平洋兩岸的台灣天使與科技經理人，共同投資矽谷早期新創，聚焦醫療科技、自動化與智慧物聯網。報導指其累計投資已逾新台幣 6 億元。"
+    },
+    "sources": [
+      {
+        "url": "https://sunrisemedium.com/p/218/taiwan-global-angels",
+        "title": "台灣天使俱樂部凝聚矽谷資源，群聚效益迎戰全球市場",
+        "publisher": "Sunrise 旭時報",
+        "accessed": "2026-06-02",
+        "supports": "founded early 2022, co-founders 詹益鑑/黃沛聲, Silicon Valley medtech/automation/IoT focus, >NT$600M cumulative",
+        "quote": "TGA創立於2022年初，由 ... 詹益鑑與創投律師黃沛聲共同成立 ... 投資金額已經超過台幣六億"
+      },
+      {
+        "url": "https://www.taiwanglobalangels.com/team-1",
+        "title": "Members | Taiwan Global Angels",
+        "publisher": "Taiwan Global Angels",
+        "accessed": "2026-06-02",
+        "supports": "~50 members; member domain expertise",
+        "quote": "we have 50 members to date"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding (early 2022) and co-founders confirmed by Sunrise interview; member count (~50) from official site. The >NT$600M cumulative-investment figure is from a single secondary interview and not independently audited. TGA invests into US/Silicon Valley startups but is organized and run from Taiwan by Taiwanese angels, so it is bucketed under Taiwan's ecosystem.",
+    "last_updated": "2026-06-02",
+    "researched_by": "angel-network"
+  },
+  {
+    "id": "tw-taiwan-angel-investment-association",
+    "name": { "en": "Taiwan Angel Investment Association", "local": "台灣天使投資協會" },
+    "aka": ["天使投資協會", "angel-book"],
+    "type": "angel-network",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://angel-book.com.tw/",
+    "links": {
+      "other": [
+        "https://www.bnext.com.tw/article/27158/BN-ARTICLE-27158",
+        "https://www.accupass.com/organizer/detail/1710230649271912103627"
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Non-profit association created to build a friendlier ecosystem for youth entrepreneurship and early-stage investment, pairing early-stage investors and entrepreneur-mentors with startup teams. Aimed to build Taiwan's first 'Super Angel Incubation Accelerator' public platform that screens, evaluates and mentors startup teams before providing value-added capital."
+    },
+    "program": {
+      "batches_per_year": 2,
+      "cohort_size": "~400 teams screened per year",
+      "format": "in-person",
+      "location": "Taipei",
+      "eligibility": "Early-stage startup teams; selected teams receive 6–12 months of mentoring before funding."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "The Taiwan Angel Investment Association (台灣天使投資協會) is a non-profit founded on 29 March 2013 (Youth Day) to build a friendlier early-stage investment ecosystem in Taiwan. It launched what it called Taiwan's first 'Super Angel Incubation Accelerator' public platform — running two cohorts a year and aiming to screen ~400 startup teams annually, providing selected teams 6–12 months of angel-investor mentoring before value-added funding.",
+      "local": "台灣天使投資協會是 2013 年 3 月 29 日青年節成立的非營利組織，旨在打造對早期投資更友善的生態系。其推出號稱台灣第一座「超級天使育成加速器」公共平台，一年兩梯次，預計篩選約 400 個創業團隊，入選團隊接受半年至一年的天使投資人輔導後再獲加值型資金。"
+    },
+    "sources": [
+      {
+        "url": "https://www.bnext.com.tw/article/27158/BN-ARTICLE-27158",
+        "title": "台灣天使投資協會成立，為青年創業與早期投資建立友善的體系",
+        "publisher": "數位時代 BusinessNext",
+        "accessed": "2026-06-02",
+        "supports": "founded 2013 (Mar 29), Super Angel Incubation Accelerator, 2 cohorts/yr, ~400 teams/yr, 6–12 mo mentoring",
+        "quote": "於3月29日青年節成立 ... 台灣第一座「超級天使育成加速器」的公共平台，一年兩個梯次，預計400個創業團隊"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year (2013) and program design from bnext launch coverage; official site (angel-book.com.tw) intermittently unreachable at access time, so current activity level and member count could not be independently re-confirmed. Listed leadership/chairperson not identified in available sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "angel-network"
+  },
+  {
+    "id": "tw-rac-angel-club",
+    "name": { "en": "RAC Angel Club", "local": "RAC創富家天使會" },
+    "aka": ["創富家天使會", "RAC"],
+    "type": "angel-network",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": null,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.tbvcrac.com/",
+    "links": {
+      "other": ["https://ohiddi.com/tiba/?p=6400"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Angel club operated by 台企創業投資股份有限公司 that gathers angel investors 'with vision, capability and resources' to source investment opportunities and match promising entrepreneurs with capital. Runs the annual RAC Entrepreneur Investment Summit (RAC創業家投資峰會) for deal showcasing and matchmaking."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Membership-based investor club; startups pitch at the RAC Entrepreneur Investment Summit.",
+      "accepts_cold_inbound": true
+    },
+    "summary": {
+      "en": "RAC Angel Club (RAC創富家天使會) is a Taipei angel-investment club operated by 台企創業投資股份有限公司 that gathers resourceful angel investors to fund promising entrepreneurs and runs the annual RAC Entrepreneur Investment Summit (its 3rd edition was held 20 June 2025 at Chinese Culture University). Founding year and membership numbers are not publicly disclosed.",
+      "local": "RAC創富家天使會是由台企創業投資股份有限公司營運的台北天使投資俱樂部，集結有眼光、能力與資源的天使投資人投資優秀創業者，並舉辦年度「RAC創業家投資峰會」（第三屆於 2025 年 6 月 20 日在文化大學舉行）。成立年份與會員人數未公開。"
+    },
+    "sources": [
+      {
+        "url": "https://www.tbvcrac.com/",
+        "title": "RAC創富家天使會 | 投資、學習、交流",
+        "publisher": "RAC Angel Club",
+        "accessed": "2026-06-02",
+        "supports": "operator 台企創業投資, mission, RAC Summit 3rd edition 20 Jun 2025, Taipei address",
+        "quote": "集結有眼光、能力和資源的天使投資人，提供優秀的項目投資機會 ... RAC創業家投資峰會"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Real, active club (annual summit held through 2025) but thinly documented: founding year, membership size, total invested and portfolio are not publicly disclosed. Operated by 台企創業投資股份有限公司 (not MAPECT, despite ecosystem adjacency). Confidence kept low pending more primary data.",
+    "last_updated": "2026-06-02",
+    "researched_by": "angel-network"
+  },
+  {
+    "id": "tw-taiwan-touzi-fund-syndicate",
+    "name": { "en": "Taiwan Touzi Fund Syndicate", "local": "" },
+    "aka": ["Taiwan Touzi Fund"],
+    "type": "angel-syndicate",
+    "subtypes": [],
+    "status": "dormant",
+    "founded_year": null,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "",
+    "website": "https://venture.angellist.com/taiwan-touzi-fund/syndicate",
+    "links": {
+      "other": ["https://venture.angellist.com/taiwan-touzi-fund/syndicate"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Taiwan", "Global"],
+      "sector_focus": ["generalist"],
+      "thesis": "AngelList syndicate (led by Jason Yeh) backing companies founded by Taiwanese founders at the earliest stages, syndicating the majority of its deals to a network of investors, entrepreneurs and executives. Projected ~3 deals per year."
+    },
+    "track_record": {
+      "portfolio_count": 0,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Jason Yeh", "role": "Syndicate lead / GP" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Taiwan Touzi Fund is an AngelList syndicate led by Jason Yeh focused on backing Taiwanese founders at the earliest stages, expecting to syndicate the majority of its deals (~3/year). As listed, it shows zero LPs committed and no closed deals, so it appears nascent or dormant.",
+      "local": "Taiwan Touzi Fund 是由 Jason Yeh 主持的 AngelList 聯合投資（syndicate），專注支持台灣裔創業者最早期的募資，預計多數案件採聯合投資（約一年 3 件）。目前頁面顯示尚無 LP 出資、無已完成投資，疑似尚未啟動或休眠。"
+    },
+    "sources": [
+      {
+        "url": "https://venture.angellist.com/taiwan-touzi-fund/syndicate",
+        "title": "Taiwan Touzi Fund's Syndicate | AngelList",
+        "publisher": "AngelList",
+        "accessed": "2026-06-02",
+        "supports": "lead Jason Yeh, Taiwanese-founder focus, syndicates most deals, ~3 deals/yr, 0 LPs to date",
+        "quote": "We believe Taiwanese founders have special qualities ... We expect to syndicate the vast majority of our deals ... Zero unique LPs have invested to date"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Listed AngelList syndicate but shows 0 committed LPs and 0 deals at access time — included for completeness as a real listing, but appears nascent/dormant. Lead Jason Yeh; HQ/city not specified. Marked status 'dormant' on this basis.",
+    "last_updated": "2026-06-02",
+    "researched_by": "angel-network"
+  }
+]

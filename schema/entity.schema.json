@@ -191,17 +191,17 @@
   "$defs": {
     "money": {
       "type": "object",
-      "description": "Money kept as reported (raw) to avoid fabricated conversions; usd optional when confidently derivable.",
+      "description": "Money kept as reported (raw) to avoid fabricated conversions; usd optional when confidently derivable. All fields nullable so 'undisclosed' figures can be left null rather than guessed.",
       "properties": {
-        "raw": { "type": "string", "description": "As reported, e.g. 'NT$2,000,000', '$150M', 'undisclosed'" },
+        "raw": { "type": ["string", "null"], "description": "As reported, e.g. 'NT$2,000,000', '$150M', 'undisclosed'; null if unknown" },
         "usd": { "type": ["number", "null"] },
-        "currency": { "type": "string" }
+        "currency": { "type": ["string", "null"] }
       }
     },
     "moneyRange": {
       "type": "object",
       "properties": {
-        "raw": { "type": "string", "description": "e.g. '$250K–$2M', 'up to NT$10M'" },
+        "raw": { "type": ["string", "null"], "description": "e.g. '$250K–$2M', 'up to NT$10M'; null if unknown" },
         "usd_min": { "type": ["number", "null"] },
         "usd_max": { "type": ["number", "null"] }
       }

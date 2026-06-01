@@ -1,0 +1,708 @@
+[
+  {
+    "id": "tw-cathay-venture",
+    "name": { "en": "Cathay Venture Inc.", "local": "國泰創業投資股份有限公司" },
+    "aka": ["Cathay Venture", "國泰創投", "Cathay Capital"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2003,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.cathayholdings.com/en/holdings/cathayventure",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/cathay-venture",
+      "other": ["https://pitchbook.com/profiles/investor/180366-22"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "evergreen", "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "Southeast Asia"],
+      "sector_focus": ["fintech", "deeptech", "ai-ml", "biotech", "healthcare", "hardware-semiconductor", "web3-crypto"],
+      "thesis": "Evergreen corporate venture fund of Cathay Financial Holdings investing from seed to pre-IPO, with FinTech (agentic AI, blockchain, next-generation financial infrastructure, stablecoins) as one of its four core focus areas."
+    },
+    "track_record": {
+      "portfolio_count": "400+",
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via Cathay Venture (part of Cathay Financial Holdings); typically warm intro / direct deal sourcing.",
+      "accepts_cold_inbound": null,
+      "contact": "80357826@cathaycapital.com.tw"
+    },
+    "tags": ["corporate-vc", "financial-holding", "fintech", "evergreen-fund"],
+    "summary": {
+      "en": "Corporate venture arm of Cathay Financial Holdings (the largest financial holding company in Taiwan by asset size), founded 2003. An evergreen fund investing from seed to pre-IPO across 400+ companies, with FinTech — agentic AI, blockchain, next-generation financial infrastructure and stablecoins — as one of four core focus areas.",
+      "local": "國泰金控旗下的企業創投，成立於2003年，為常青型(evergreen)基金，投資階段涵蓋種子期至上市前。投資逾400家公司，金融科技(代理型AI、區塊鏈、下一代金融基礎建設、穩定幣)為其四大投資主軸之一。"
+    },
+    "sources": [
+      {
+        "url": "https://www.cathayholdings.com/en/holdings/cathayventure",
+        "title": "Cathay Venture Inc. - Home",
+        "publisher": "Cathay Financial Holdings",
+        "accessed": "2026-06-02",
+        "supports": "founding year, parent, evergreen structure, 400+ portfolio, fintech focus",
+        "quote": "Founded: April 2003 ... Parent Company: Cathay Financial Holding Co., Ltd. ... characterized as an 'evergreen venture capital fund' ... Over 400 companies invested since establishment ... FinTech: 'agentic AI, blockchain, and next-generation financial infrastructure' including AI agents and stablecoins"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/cathay-venture",
+        "title": "Cathay Venture - Crunchbase Company Profile & Funding",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "fintech / financial services investment focus, CVC of Cathay FHC",
+        "quote": "Cathay Venture Inc. is an evergreen venture capital fund that flexibly invests in high-potential companies ... The firm focuses on making investments in sectors like financial technology and financial services."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year shown as April 2003 on official site; some secondary sources (Crunchbase summary) say 2004. AUM and check size undisclosed (evergreen balance-sheet fund). Portfolio_count '400+' per official site.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "tw-cdib-capital-group",
+    "name": { "en": "CDIB Capital Group", "local": "中華開發資本" },
+    "aka": ["CDIB Capital", "中華開發資本", "CDIB Capital Innovation Accelerator", "KGI / China Development Financial subsidiary"],
+    "type": "cvc",
+    "subtypes": ["vc", "growth-equity", "accelerator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.cdibcapitalgroup.com/en/",
+    "links": {
+      "other": ["https://www.kgi.com/en/about-page/cdib", "https://www.cdibcapitalgroup.com/en/about-us/subsidiaries"]
+    },
+    "capital": {
+      "aum": { "raw": "NT$85B+", "usd": null, "currency": "TWD" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "CDIB Cross Border Innovation Fund II LP", "vintage_year": 2024, "size": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "Asia", "Japan"],
+      "sector_focus": ["fintech", "web3-crypto", "healthtech", "biotech", "generalist"],
+      "thesis": "Private-equity / venture investing arm of KGI Financial Holdings (formerly China Development Financial), spanning VC, growth capital, healthcare and special situations; an active FinTech/blockchain investor (led the round in crypto-fiat fintech XREX) and operator of the CDIB Capital Innovation Accelerator."
+    },
+    "track_record": {
+      "portfolio_count": "250+",
+      "notable_investments": [
+        { "company": "XREX", "sector": "fintech / crypto-fiat", "outcome": "active" },
+        { "company": "KKday", "sector": "travel-tech", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": ["Tether", "SBI Investment", "AppWorks", "E.Sun Venture Capital"]
+    },
+    "people": [],
+    "team_size": "100+",
+    "application": {
+      "how_to_apply": "Deal sourcing via CDIB Capital Group / CDIB Capital Innovation Accelerator program.",
+      "accepts_cold_inbound": null,
+      "contact": null
+    },
+    "tags": ["corporate-vc", "private-equity", "fintech", "blockchain", "accelerator", "financial-holding"],
+    "summary": {
+      "en": "The private-equity and venture investing group of KGI Financial Holdings (formerly China Development Financial). With NT$85B+ AUM and 250+ portfolio companies, it spans VC, growth, healthcare and special situations, and is an active FinTech/blockchain investor — it led the funding round in crypto-fiat fintech XREX — and operates the CDIB Capital Innovation Accelerator (since 2017).",
+      "local": "凱基金控(原中華開發金控)旗下的私募股權與創投集團，管理資產逾新台幣850億元、投資逾250家公司，涵蓋創投、成長型、醫療與特殊情境。為活躍的金融科技/區塊鏈投資人(領投加密法幣金融科技 XREX)，並營運中華開發資本創新加速器(2017年起)。"
+    },
+    "sources": [
+      {
+        "url": "https://www.cdibcapitalgroup.com/en/",
+        "title": "CDIB Home",
+        "publisher": "CDIB Capital Group",
+        "accessed": "2026-06-02",
+        "supports": "AUM, portfolio count, team size, years of experience",
+        "quote": "Assets Under Management: '85 +' billion NTD ... Investment experience: '65 +' years in PE & VC ... Team size: '100+' investment professionals ... Portfolio scale: '250+' portfolio companies"
+      },
+      {
+        "url": "https://sg.news.yahoo.com/taiwan-xrex-blockchain-firm-raises-011543352.html",
+        "title": "Taiwan's XREX Blockchain Firm Raises $17M in Funding Round Led by CDIB Capital",
+        "publisher": "Yahoo News / CoinDesk",
+        "accessed": "2026-06-02",
+        "supports": "CDIB led XREX fintech round",
+        "quote": "The $17 million pre-Series A round was led by Taiwan's CDIB Capital Group, with participation from other global investors including Japan's SBI Investment, Estonia's Metaplanet Holdings, United States' AppWorks and Taiwan's Black Marble Capital Management."
+      },
+      {
+        "url": "https://www.kgi.com/en/about-page/cdib",
+        "title": "About Us - CDIB Capital Group",
+        "publisher": "KGI Financial",
+        "accessed": "2026-06-02",
+        "supports": "CDIB Capital Innovation Accelerator established 2017, CDIB Cross Border Innovation Fund II (2024)",
+        "quote": "In response to the emerging trends of innovation and entrepreneurship in Taiwan, CDIB set up the CDIB Capital Innovation Accelerator / Fund in 2017 ... CDIB Cross Border Innovation Fund II LP, a private equity fund in the Cayman Islands"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year of the CDIB Capital entity not pinned to a single figure (parent China Development Financial founded 1959; CDIB Capital Innovation Advisors Corp set up 2015, accelerator 2017) — left null. AUM 'NT$85B+' and portfolio '250+' per official homepage but covers all strategies, not fintech-only.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "tw-innovation-technology-fund-of-funds",
+    "name": { "en": "Innovation Technology Fund of Funds (FinTech Industry Alliance)", "local": "創新科技母基金" },
+    "aka": ["創新科技母基金", "Innovation Technology Mother Fund", "FinTech Industry Alliance investment fund", "金融科技產業聯盟創投母基金"],
+    "type": "government-program",
+    "subtypes": ["cvc", "growth-equity"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.fintechspace.com.tw/en/",
+    "links": {
+      "other": [
+        "https://www.bnext.com.tw/article/82355/fintech-industry-alliance-launch-2025",
+        "https://www.ctee.com.tw/news/20251024700156-439901"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "NT$6.0B–7.5B initial; up to NT$10B+ target", "usd": null, "currency": "TWD" },
+      "funds": [
+        { "name": "創新科技母基金 (Innovation Technology Fund of Funds)", "vintage_year": 2025, "size": { "raw": "NT$6.0B–7.5B initial, target NT$10B+ with NDF", "usd": null, "currency": "TWD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "Japan", "Southeast Asia", "Europe", "United States"],
+      "sector_focus": ["fintech", "web3-crypto", "ai-ml"],
+      "thesis": "Taiwan's first cross-financial-holding FinTech 'investment national team': a fund-of-funds led by KGI Financial Holdings (via CDIB Capital) within the FinTech Industry Alliance, investing in VC funds worldwide with at least 40% of capital kept in Taiwan and a mandate to prioritise FinTech (blockchain, AI, big data, digital payments, financial inclusion)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": ["Cathay Financial Holdings", "CTBC Financial", "Yuanta / E.Sun (alliance members)", "National Development Fund"]
+    },
+    "people": [
+      { "name": "郭大經 (Kuo Ta-Ching)", "role": "VP, CDIB Capital / KGI Financial Holdings (presenter of the fund)", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Fund-of-funds; invests into VC funds rather than directly into startups. Engagement via the FinTech Industry Alliance / KGI Financial Holdings DDT & CDIB Capital.",
+      "accepts_cold_inbound": null,
+      "contact": "fintechspace@iii.org.tw"
+    },
+    "tags": ["fund-of-funds", "fintech", "government-linked", "financial-holding-consortium", "national-team"],
+    "summary": {
+      "en": "A fintech-focused fund-of-funds announced under the FinTech Industry Alliance (launched 19 Feb 2025), convened by CTBC, E.Sun, KGI and Cathay financial holdings, with the investment working circle led by KGI Financial Holdings / CDIB Capital. Initial scale NT$6.0B–7.5B from financial holdings, targeting NT$10B+ with National Development Fund participation; at least 40% stays in Taiwan and it prioritises FinTech (blockchain, AI, big data, digital payments, financial inclusion). Targeted to launch around Q1 of the following year.",
+      "local": "金融科技產業聯盟(2025年2月19日成立)下規劃的金融科技創投母基金，由中信金、玉山金、凱基金、國泰金四大金控召集，投資工作圈由凱基金控/中華開發資本主導。初始規模新台幣60~75億元(來自金控業者出資)，若搭配國發基金總規模上看100億元以上；至少40%資金留在台灣，優先投資金融科技(區塊鏈、AI、大數據、數位支付與金融普惠技術)。"
+    },
+    "sources": [
+      {
+        "url": "https://www.fintechspace.com.tw/wp-content/uploads/2025/02/08-%E5%87%B1%E5%9F%BA%E9%87%91%E6%8E%A7-%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E6%8A%95%E8%B3%87%E4%BA%A4%E6%B5%81%E5%B7%A5%E4%BD%9C%E5%9C%88%E8%AA%AA%E6%98%8E_%E5%AA%92%E9%AB%94QA.pdf",
+        "title": "金融科技產業聯盟啟動記者會 凱基金控－金融科技投資交流工作圈 Q&A",
+        "publisher": "FinTechSpace / KGI Financial Holdings",
+        "accessed": "2026-06-02",
+        "supports": "fund size, 40% Taiwan allocation, target sectors, leadership",
+        "quote": "創新科技母基金規劃的初始規模為新台幣 60 至 75 億元，主要來自金控業者的出資 ... 未來也將尋求國發基金參與投資，預期總金額可達新台幣 100 億元以上。 ... 規劃分配至少 40%的資金在台灣創投市場 ... 將優先投資創新科技相關領域，涵蓋區塊鏈、人工智慧、大數據、數位支付與金融普惠技術等，並要求該基金有一定比例優先投資在金融科技相關公司。"
+      },
+      {
+        "url": "https://www.bnext.com.tw/article/82355/fintech-industry-alliance-launch-2025",
+        "title": "4大金控對手變朋友！「金融科技產業聯盟」用AI管AI、還要成立百億創新基金",
+        "publisher": "數位時代 BusinessNext",
+        "accessed": "2026-06-02",
+        "supports": "four convening financial holdings, KGI/CDIB lead investment circle, launch date 19 Feb 2025, fund size",
+        "quote": "中信金、玉山金、凱基金與國泰金，各家總經理都親自與會 ... 規模60億到75億元的創新科技母基金 ... 若獲國發基金參與，預期總金額將達100億元以上 ... 2月19日正式成立 ... 凱基金控中華開發資本副總經理郭大經"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "This is a fund-of-funds vehicle (not a direct-investing VC) announced Feb 2025; as of research date it is in formation, targeting a Q1 launch with NDF participation still being sought. NT$ figures verbatim from KGI's official QA and 數位時代. USD conversion left null (rate not provided).",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "tw-kyber-capital",
+    "name": { "en": "Kyber Capital", "local": "源鉑資本" },
+    "aka": ["源鉑資本", "Kyber Capital Group"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.kybercap.com/",
+    "links": {
+      "other": ["https://www.blocktempo.com/kyber-capital-thomas-hu-1/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "Asia", "United States"],
+      "sector_focus": ["fintech", "web3-crypto", "ai-ml", "cybersecurity"],
+      "thesis": "Principal investor in early-stage ventures and high-growth companies focused on decentralized financial technologies, innovative financial services, machine intelligence and cyber-security solutions; an early backer of Taiwan's largest digital-asset group MaiCoin."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "MaiCoin Group", "sector": "fintech / digital asset exchange", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": ["Fubon Financial Holdings", "SBI Group", "Infinity Ventures"]
+    },
+    "people": [
+      { "name": "Thomas Hu (胡一天)", "role": "Founder & CEO", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Direct outreach / warm intro to Kyber Capital.",
+      "accepts_cold_inbound": null,
+      "contact": null
+    },
+    "tags": ["fintech", "decentralized-finance", "blockchain", "early-stage"],
+    "summary": {
+      "en": "Taipei-based venture firm founded in 2015 making principal investments in early-stage ventures and high-growth companies focused on decentralized financial technologies, innovative financial services, machine intelligence and cyber-security. Founded by Thomas Hu (ex-co-founder of CDIB Capital's high-yield financing business in Hong Kong); an early investor in MaiCoin, Taiwan's largest digital-asset group.",
+      "local": "2015年成立的台北創投，專注於去中心化金融科技、創新金融服務、機器智慧與資安等領域的早期與高成長企業投資。創辦人為胡一天(曾為中華開發資本香港高收益融資業務共同創辦人)；為台灣最大數位資產集團 MaiCoin 的早期投資人之一。"
+    },
+    "sources": [
+      {
+        "url": "https://www.kybercap.com/",
+        "title": "About | kybercap",
+        "publisher": "Kyber Capital",
+        "accessed": "2026-06-02",
+        "supports": "investment focus on decentralized finance / fintech, principal investing model",
+        "quote": "make principal investments in early-stage ventures & high-growth companies focusing on decentralized financial technologies, innovative financial services, machine intelligence and cyber security solutions"
+      },
+      {
+        "url": "https://www.blocktempo.com/kyber-capital-thomas-hu-1/",
+        "title": "「區塊鏈金融體系的現象解讀」——源鉑資本 · 胡一天",
+        "publisher": "動區動趨 BlockTempo",
+        "accessed": "2026-06-02",
+        "supports": "founding year 2015, founder Thomas Hu / 胡一天, CDIB background",
+        "quote": "Founded in 2015, Kyber Capital (源鉑資本) makes principal investments in early-stage ventures & high-growth companies focusing on decentralized financial technologies ... founder and CEO Thomas Hu (胡一天) ... previously served as co-founder and Chief Analyst of CDIB Capital's high-yield financing business in Hong Kong"
+      },
+      {
+        "url": "https://group.maicoin.com/",
+        "title": "MaiCoin 集團",
+        "publisher": "MaiCoin Group",
+        "accessed": "2026-06-02",
+        "supports": "Kyber Capital among MaiCoin investors",
+        "quote": "MaiCoin's investors include Fubon Financial Holdings, Kyber Capital (源鉑資本), Industrial Innovation and Transformation Fund, SBI Group, and Infinity Ventures."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund size / AUM not publicly disclosed (left null). Founding year 2015 corroborated by official site language echoed in BlockTempo interview. HQ Taipei (firm has resource network across multiple cities but is Taiwan-based).",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "tw-infinity-ventures-crypto",
+    "name": { "en": "Infinity Ventures Crypto (IVC)", "local": "" },
+    "aka": ["IVC", "Infinity Ventures Crypto"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.ivcrypto.io/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/ivcrypto",
+      "crunchbase": "https://www.crunchbase.com/organization/infinity-ventures-crypto",
+      "other": ["https://www.dealstreetasia.com/stories/infinity-ventures-crypto-fund-280743"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$70M", "usd": 70000000, "currency": "USD" },
+      "funds": [
+        { "name": "IVC Fund I", "vintage_year": 2022, "size": { "raw": "$70M", "usd": 70000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "Southeast Asia", "Japan", "United States", "Global"],
+      "sector_focus": ["web3-crypto", "fintech", "gaming", "ai-ml"],
+      "thesis": "One of Taiwan's first all-crypto, all-token funds, backing global GameFi, DeFi and Web3 / fintech innovations; sister fund to traditional VC Headline Asia, backed by Circle, Digital Currency Group and Animoca Brands."
+    },
+    "track_record": {
+      "portfolio_count": "78",
+      "notable_investments": [
+        { "company": "Yield Guild Games", "sector": "gamefi / web3", "outcome": "active" },
+        { "company": "JPYC", "sector": "fintech / stablecoin", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": ["Circle", "Digital Currency Group", "Animoca Brands"]
+    },
+    "people": [
+      { "name": "Brian Lu", "role": "Partner", "linkedin": "" },
+      { "name": "Akio Tanaka", "role": "Partner (founder of Headline Asia)", "linkedin": "" },
+      { "name": "Herbie Fu", "role": "Partner", "linkedin": "" },
+      { "name": "JT Law", "role": "Partner", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Direct outreach via ivcrypto.io.",
+      "accepts_cold_inbound": null,
+      "contact": null
+    },
+    "tags": ["crypto", "web3", "fintech", "defi", "gamefi", "token-fund"],
+    "summary": {
+      "en": "A Taipei-based crypto venture fund founded in August 2021, IVC closed its inaugural fund at US$70 million — one of Taiwan's first all-crypto, all-token funds — to back global GameFi, DeFi and Web3 / fintech innovations. Backed by Circle, Digital Currency Group and Animoca Brands; sister fund of traditional VC Headline Asia. Has deployed into 78 portfolio companies (first investment: Yield Guild Games).",
+      "local": "總部位於台北的加密創投，成立於2021年8月。首支基金募集7,000萬美元收尾，是台灣最早的全加密/全代幣基金之一，投資全球 GameFi、DeFi 與 Web3 / 金融科技創新。由 Circle、Digital Currency Group 與 Animoca Brands 支持，為傳統創投 Headline Asia 的姊妹基金；已投資78家公司(首筆投資為 Yield Guild Games)。"
+    },
+    "sources": [
+      {
+        "url": "https://martechseries.com/technology/infinity-ventures-crypto-announces-close-of-its-first-fund-at-70-million/",
+        "title": "Infinity Ventures Crypto Announces Close of Its First Fund at $70 Million",
+        "publisher": "MarTech Series (BusinessWire release)",
+        "accessed": "2026-06-02",
+        "supports": "founding date Aug 2021, $70M first fund, backers, partners, 78 portfolio companies, focus",
+        "quote": "IVC was established in August 2021 and closed its inaugural fund at $70 million ... The fund received participation from Circle, Digital Currency Group, and Animoca Brands ... Partners include Brian Lu, Akio Tanaka (founder of Headline Asia), Herbie Fu ... JT Law ... 'The focus of the fund is to jumpstart and accelerate the growth of global GameFi, DeFi and Web 3 innovations.' ... IVC has deployed capital across 78 portfolio companies"
+      },
+      {
+        "url": "https://www.dealstreetasia.com/stories/infinity-ventures-crypto-fund-280743",
+        "title": "Taiwan's Infinity Ventures Crypto closes debut fund at $70m to back GameFi, DeFi, Web 3.0",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-02",
+        "supports": "Taipei HQ, $70M debut fund, focus on GameFi/DeFi/Web3",
+        "quote": "Inaugural Fund Size: $70 million ... Investment Focus: ... 'GameFi, DeFi, Web 3.0' ... Headquarters: Taiwan"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding Aug 2021; first fund $70M (closed Feb 2022). HQ listed as Taipei (and Tokyo on its own site) given the Headline Asia tie. Portfolio count cited as 78 in the BusinessWire-derived release (its own site states '200+ Investments', which likely reflects later activity) — used 78 with the dated, quoted source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "tw-red-building-capital",
+    "name": { "en": "Red Building Capital", "local": "紅樓資本" },
+    "aka": ["紅樓資本", "RBCap"],
+    "type": "vc",
+    "subtypes": ["venture-studio"],
+    "status": "active",
+    "founded_year": null,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.rbcap.io/",
+    "links": {
+      "linkedin": "https://tw.linkedin.com/company/redbuildingcapital",
+      "crunchbase": "https://www.crunchbase.com/organization/red-building-capital",
+      "other": ["https://www.rbcap.io/about/", "https://www.blocktempo.com/red-building-capital-an-early-investing-company-targeted-in-blockchain-and-startup-tech-company/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["web3-crypto", "fintech", "cybersecurity", "deeptech"],
+      "thesis": "Describes itself as Taiwan's first venture capital firm focused on blockchain, using a venture-studio / 'empowerment' model; invests in early-stage tech (blockchain, IoT, cybersecurity, supply-chain finance, data management) and runs both a venture fund and a crypto hedge fund."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Direct outreach via rbcap.io.",
+      "accepts_cold_inbound": null,
+      "contact": "info@rbcap.io"
+    },
+    "tags": ["blockchain", "fintech", "venture-studio", "crypto"],
+    "summary": {
+      "en": "Taipei-based early-stage firm describing itself as Taiwan's first venture capital company focused on blockchain forward-looking technology, operating a venture-studio model with a 'pre-investment management system'. Invests in blockchain, IoT, cybersecurity, supply-chain finance and data management since 2017, and runs both a venture fund and a crypto hedge fund. Team draws on traditional-finance and tech backgrounds (TSMC, UBS, MetLife, etc.).",
+      "local": "位於台北的早期投資機構，自稱為台灣第一家專注於區塊鏈前瞻科技的創投公司，採創投工作室(Venture Studio)賦能模式並設有「投資前管理系統」。自2017年起投資區塊鏈、物聯網、資安、供應鏈金融與資料管理，並同時營運創投基金與加密避險基金。團隊具備傳統金融與科技背景(台積電、UBS、MetLife 等)。"
+    },
+    "sources": [
+      {
+        "url": "https://www.rbcap.io/about/",
+        "title": "紅樓資本 | RED BUILDING CAPITAL - About",
+        "publisher": "Red Building Capital",
+        "accessed": "2026-06-02",
+        "supports": "HQ Taipei, blockchain-first positioning, venture-studio model, sectors, since 2017, fund types",
+        "quote": "Headquarters: Taipei, Taiwan (104 台北市中山區復興北路156號2樓) ... 'Taiwan's first venture capital company focused on blockchain forward-looking technology' ... Sectors: Blockchain, IoT, cybersecurity, supply chain finance, and data management ... 'layouts in blockchain since 2017' ... Two fund types are mentioned: Venture Fund and Crypto Hedge Fund"
+      },
+      {
+        "url": "https://www.blocktempo.com/red-building-capital-an-early-investing-company-targeted-in-blockchain-and-startup-tech-company/",
+        "title": "台灣第一家區塊鏈投創基金：「紅樓資本」專精於區塊鏈和科技新創早期投資",
+        "publisher": "動區動趨 BlockTempo",
+        "accessed": "2026-06-02",
+        "supports": "Taiwan's first blockchain-focused VC, early-stage blockchain/tech focus",
+        "quote": "Red Building Capital is an early stage investment firm based in Taiwan, focusing on investments and venture building of blockchain and other emerging tech startups."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year not clearly stated on official sources ('layouts in blockchain since 2017' indicates activity from 2017) — left null. Fund sizes/check sizes undisclosed. 'Taiwan's first blockchain VC' is the firm's self-description.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "tw-appworks",
+    "name": { "en": "AppWorks", "local": "之初加速器" },
+    "aka": ["AppWorks Ventures", "之初創投", "之初加速器"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2009,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://appworks.tw/",
+    "links": {
+      "other": ["https://appworks.tw/appworks-fund-iii/", "https://techcrunch.com/2021/08/11/appworks-closes-third-fund-with-150m-for-taiwan-and-southeast-asia-startups/"]
+    },
+    "capital": {
+      "aum": { "raw": "US$212M (as of Fund III)", "usd": 212000000, "currency": "USD" },
+      "current_fund": { "raw": "US$150M (Fund III)", "usd": 150000000, "currency": "USD" },
+      "funds": [
+        { "name": "AppWorks Fund II", "vintage_year": null, "size": { "raw": "US$50M", "usd": 50000000, "currency": "USD" } },
+        { "name": "AppWorks Fund III", "vintage_year": 2021, "size": { "raw": "US$150M", "usd": 150000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "Southeast Asia"],
+      "sector_focus": ["ai-ml", "web3-crypto", "fintech", "saas-enterprise"],
+      "thesis": "Greater Southeast Asia's leading early-stage VC and accelerator, organised around three themes — AI, Blockchain, and Southeast Asia ('ABS'). Its blockchain/fintech pillar (since first crypto investment in 2018) backs Web3 financial-infrastructure builders, with regional banking partners and fintech-investor access."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Blocto", "sector": "fintech / web3 wallet", "outcome": "active" },
+        { "company": "XREX", "sector": "fintech / crypto-fiat", "outcome": "active" },
+        { "company": "Dapper Labs / Flow", "sector": "web3", "outcome": "active" },
+        { "company": "Animoca Brands", "sector": "web3 / gaming", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Apply to AppWorks Accelerator (twice-yearly batches) at appworks.tw/accelerator, or pitch AppWorks Funds directly.",
+      "accepts_cold_inbound": true,
+      "contact": null
+    },
+    "tags": ["accelerator", "blockchain", "fintech", "ai", "southeast-asia", "web3"],
+    "summary": {
+      "en": "Founded in 2009, AppWorks is one of Greater Southeast Asia's largest early-stage VC firms and accelerators, with US$212M AUM after closing its US$150M Fund III (vs US$50M Fund II) in 2021. Its strategy centres on three themes — AI, Blockchain, Southeast Asia ('ABS') — making blockchain/fintech a primary pillar; since its first crypto investment in 2018 it has backed Web3 financial-infrastructure builders including Blocto, XREX, Dapper Labs/Flow and Animoca Brands.",
+      "local": "成立於2009年，AppWorks 是大東南亞最大的早期創投與加速器之一。2021年完成1.5億美元的第三號基金(第二號基金為5,000萬美元)後，管理資產達2.12億美元。投資策略圍繞三大主題——AI、區塊鏈、東南亞(ABS)——區塊鏈/金融科技為其核心主軸；自2018年首筆加密投資以來，已投資 Blocto、XREX、Dapper Labs/Flow 與 Animoca Brands 等 Web3 金融基礎建設企業。"
+    },
+    "sources": [
+      {
+        "url": "https://appworks.tw/appworks-fund-iii/",
+        "title": "AppWorks Successfully Closes US$150 Million Fund III",
+        "publisher": "AppWorks",
+        "accessed": "2026-06-02",
+        "supports": "founding year, Fund III $150M, Fund II $50M, AUM $212M, ABS thesis, blockchain co-investments",
+        "quote": "AppWorks Fund III: US$150 million ... AppWorks Fund II: US$50 million ... Total AUM: US$212 million ... AppWorks was established in 2009 ... 'AppWorks' three core themes of artificial intelligence, blockchain, and Southeast Asia (ABS)' ... co-investing in highly sought-after deals such as Dapper Labs/Flow, Animoca Brands and Splinterlands"
+      },
+      {
+        "url": "https://techcrunch.com/2021/08/11/appworks-closes-third-fund-with-150m-for-taiwan-and-southeast-asia-startups/",
+        "title": "AppWorks closes third fund with $150M for Taiwan and Southeast Asia startups",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund III $150M, Taiwan + Southeast Asia focus, blockchain/fintech activity",
+        "quote": "AppWorks closes third fund with $150M for Taiwan and Southeast Asia startups ... Since making its first blockchain investment in 2018, the firm has backed 75 start-ups and 141 entrepreneurs in the Web3 space, including Animoca Brands, Dapper Labs, Figment, Blocto, and XREX."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AppWorks is a generalist AI/Web3/SEA fund where FinTech/blockchain is a primary (named) pillar rather than its sole sector — included per the 'fintech as a primary theme' criterion. AUM figure is as of the 2021 Fund III close; a larger Fund IV has since been reported but its final close size was not confirmed here, so funds[] lists only II and III.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "tw-esun-venture-capital",
+    "name": { "en": "E.Sun Venture Capital", "local": "玉山創業投資股份有限公司" },
+    "aka": ["玉山創投", "E.SUN Venture Capital Co., Ltd."],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2002,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.esunfhc.com/en/about-esun/intro/Subsidiaries",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/e-sun-venture-capital",
+      "other": ["https://www.cbinsights.com/investor/e-sun-venture-capital"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["fintech", "web3-crypto", "ai-ml", "generalist"],
+      "thesis": "Wholly-owned venture arm of E.Sun Financial Holding; invests in and nurtures unlisted high-potential domestic and foreign companies, with active participation in FinTech / blockchain deals (e.g. crypto-fiat fintech XREX's pre-Series A)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "XREX", "sector": "fintech / crypto-fiat", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": ["CDIB Capital Group", "SBI Investment", "AppWorks", "Global Founders Capital"]
+    },
+    "people": [],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Deal sourcing via E.Sun Financial Holding group.",
+      "accepts_cold_inbound": null,
+      "contact": null
+    },
+    "tags": ["corporate-vc", "financial-holding", "fintech", "blockchain"],
+    "summary": {
+      "en": "Corporate venture arm of E.Sun Financial Holding (玉山金控), established in 2002. It invests in and nurtures unlisted high-potential domestic and foreign companies and is an active FinTech/blockchain investor within Taiwan's financial-holding ecosystem, participating in deals such as crypto-fiat fintech XREX's pre-Series A round.",
+      "local": "玉山金控旗下的企業創投，成立於2002年，投資並培育具潛力的國內外未上市公司。為台灣金控生態系中活躍的金融科技/區塊鏈投資人，曾參與加密法幣金融科技 XREX 的 Pre-A 輪投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.esunfhc.com/en/about-esun/intro/Subsidiaries",
+        "title": "Subsidiaries - E.SUN FHC",
+        "publisher": "E.Sun Financial Holding",
+        "accessed": "2026-06-02",
+        "supports": "wholly-owned venture arm of E.Sun FHC, founded 2002, investment mandate",
+        "quote": "E.SUN Venture Capital was established in 2002, and it is wholly owned by E.SUN Financial Holding Company ... It invests in and nurtures unlisted but promising domestic and foreign companies."
+      },
+      {
+        "url": "https://www.globenewswire.com/news-release/2021/08/23/2284432/0/en/XREX-Raises-17M-to-Expand-Fiat-Currency-Portfolio-and-Partnerships.html",
+        "title": "XREX Raises $17M to Expand Fiat Currency Portfolio and Partnerships",
+        "publisher": "GlobeNewswire / XREX",
+        "accessed": "2026-06-02",
+        "supports": "E.Sun Venture Capital participated in XREX (fintech) pre-Series A",
+        "quote": "This Pre-A round also included other investors such as SBI Investment, Global Founders Capital, ThreeD Capital, Systex Corporation, Metaplanet Holdings, AppWorks, Black Marble, New Economy Ventures, and Seraph Group ... E.Sun Venture Capital being among the publicly listed investors."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "E.Sun Venture is a financial-holding CVC that is generalist in mandate; included because FinTech/blockchain is a clear, recurring theme (XREX) and it is a FinTechSpace-affiliated financial-holding investor. Fund size/check size undisclosed. Establishment year shown as 2002 on official subsidiaries page (company-registry sources list 7 Oct 2002).",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "tw-fintechspace-accelerator",
+    "name": { "en": "FinTechSpace Accelerator", "local": "金融科技創新園區加速器" },
+    "aka": ["FinTechSpace", "金融科技創新園區", "FinTechBase"],
+    "type": "accelerator",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.fintechspace.com.tw/en/",
+    "links": {
+      "other": [
+        "https://www.fintechspace.com.tw/en/accelerator-programme-intro/",
+        "https://www.fintechspace.com.tw/en/funding-matchmaking-platform/"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["fintech"],
+      "thesis": "Taiwan's first fintech-focused hub/accelerator, empowered by the FSC and TFSR and operated by the Institute for Information Industry (III); supports fintech startups across AI, wealth management, blockchain, ID/eKYC/eAML, InsurTech, RegTech and payments, with a Regulation Clinic, Digital Sandbox, Funding Matchmaking Platform and Global Connection."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "13F., No.1, Nanhai Rd., Zhongzheng Dist., Taipei, Taiwan",
+      "demo_day": null,
+      "perks": ["subsidised rent / resident packages", "entrepreneurship mentoring", "Regulation Clinic", "Digital Sandbox", "international exchange / Global Connection", "Funding Matchmaking Platform", "cloud platform", "idea verification"],
+      "application_url": "https://www.fintechspace.com.tw/en/accelerator-programme-intro/",
+      "application_cycles": ["deadline around 15th October (per program page)"],
+      "acceptance_rate": null,
+      "eligibility": "Fintech startups and tech startups applying AI, wealth management, blockchain, ID identification, InsurTech, eKYC, eAML, RegTech and payments (not limited)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Lydia AI", "sector": "insurtech / fintech", "outcome": "active" },
+        { "company": "Fortuna Intelligence (Fugle)", "sector": "wealthtech / fintech", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": ["CDIB Capital Innovation Accelerator", "Paragon Investment", "National Development Fund"]
+    },
+    "people": [],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Apply to the FinTechSpace Accelerator Program; materials via the program page Download Documents section.",
+      "accepts_cold_inbound": true,
+      "contact": "fintechspace@iii.org.tw"
+    },
+    "tags": ["accelerator", "fintech", "government-program", "insurtech", "wealthtech", "regtech", "fsc"],
+    "summary": {
+      "en": "Taiwan's first fintech-focused co-working hub and accelerator, empowered by the Financial Supervisory Commission (FSC) and TFSR and operated by the Institute for Information Industry (III). It supports fintech startups across AI, wealth management, blockchain, ID/eKYC/eAML, InsurTech, RegTech and payments, offering subsidised resident packages, a Regulation Clinic, Digital Sandbox, Global Connection and a Funding Matchmaking Platform that connects startups with VCs (CDIB, Paragon, Sunsino, Top Taiwan VC, etc.) and the National Development Fund.",
+      "local": "台灣首座以金融科技為主軸的共享空間與加速器，由金管會(FSC)與台灣金融服務業聯合總會(TFSR)指導、資策會(III)營運。支持涵蓋 AI、財富管理、區塊鏈、身分識別/eKYC/eAML、保險科技、法遵科技與支付的金融科技新創，提供補貼進駐方案、法遵諮詢、數位沙盒、國際連結，以及媒合創投(中華開發、金石、華陽、華威等)與國發基金的募資媒合平台。"
+    },
+    "sources": [
+      {
+        "url": "https://www.fintechspace.com.tw/en/about-us/",
+        "title": "FinTechSpace Intro",
+        "publisher": "FinTechSpace (III / FSC / TFSR)",
+        "accessed": "2026-06-02",
+        "supports": "first Taiwan fintech hub, FSC/TFSR empowered",
+        "quote": "FinTechSpace ... is the first Taiwan fintech hub. Empowered by FSC and TFSR, FinTechSpace concentrates the energies from all fintech players in Taiwan, establishing the first fintech-focus co-working space brand as Taiwan Fintech Hub on the international level."
+      },
+      {
+        "url": "https://www.fintechspace.com.tw/en/accelerator-programme-intro/",
+        "title": "Accelerator Program - FinTechSpace",
+        "publisher": "FinTechSpace (Institute for Information Industry)",
+        "accessed": "2026-06-02",
+        "supports": "operator III, location, focus areas, perks, application deadline",
+        "quote": "Operator: III (Institute for Information Industry) ... '13F., No.1, Nanhai Rd., Zhongzheng Dist., Taipei, Taiwan' ... targets 'fintech startups, tech startups, and other solutions that applies for AI, wealthe management, Blockchain, ID Identification, Insurtech, eKYC, eAML, Regtech, and Payment (not limited)' ... '3 resident packages, along with subsided rent, entrepreneurship mentoring ... regulation clinic, pitch&matching, cloud platform, and idea verification' ... Deadline mentioned: '15th of October'"
+      },
+      {
+        "url": "https://www.fintechspace.com.tw/en/funding-matchmaking-platform/",
+        "title": "Funding Matchmaking Platform - FinTechSpace",
+        "publisher": "FinTechSpace",
+        "accessed": "2026-06-02",
+        "supports": "list of fintech-active VC/funding partners and example portfolio (Lydia AI)",
+        "quote": "Venture Capital Firms: AFG Partners ... CDIB Capital Innovation Accelerator ... Paragon Investment Corporation ... portfolio includes Lydia AI ... Saga Unitek Ventures ... Sunsino Venture Group ... Top Taiwan Venture Capital Co., Ltd ... fintech portfolio includes EUI Money and 91APP"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "FinTechSpace was inaugurated in 2018 (FSC initiative); precise founding year corroborated as 2018 by FSC/TFSR launch context but the about page itself does not state a year — founded_year set to 2018 with medium certainty. It is a government-linked accelerator/hub, not a direct-investing fund (no equity taken / investment amount disclosed); included as a fintech-dedicated ecosystem investor/program and gateway to fintech-active VCs.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  }
+]

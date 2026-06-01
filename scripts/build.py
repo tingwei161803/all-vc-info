@@ -96,6 +96,21 @@ def load_raw(region_dir: Path) -> list[dict]:
     return items
 
 
+def strip_nulls(obj):
+    """Recursively drop dict keys whose value is None.
+
+    Agents set unknown fields to null (e.g. "contact": null, money "raw": null).
+    Semantically null == absent, and every optional schema field is happy when
+    absent — so stripping nulls both satisfies the schema and de-clutters the
+    output, without chasing nullable types field-by-field.
+    """
+    if isinstance(obj, dict):
+        return {k: strip_nulls(v) for k, v in obj.items() if v is not None}
+    if isinstance(obj, list):
+        return [strip_nulls(v) for v in obj]
+    return obj
+
+
 def dedup(items: list[dict]) -> list[dict]:
     merged: list[dict] = []
     for item in items:
@@ -125,7 +140,7 @@ def main() -> None:
         items = load_raw(region_dir)
         if not items:
             continue
-        merged = dedup(items)
+        merged = [strip_nulls(e) for e in dedup(items)]
 
         for entity in merged:
             label = entity.get("id") or entity.get("name", {}).get("en", "?")

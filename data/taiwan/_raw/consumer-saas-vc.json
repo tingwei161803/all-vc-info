@@ -1,0 +1,547 @@
+[
+  {
+    "id": "tw-appworks",
+    "name": { "en": "AppWorks", "local": "之初創投 / 之初加速器" },
+    "aka": ["AppWorks Ventures", "AppWorks Accelerator"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2009,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://appworks.tw/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/appworks",
+      "other": ["https://appworks.tw/investments/"]
+    },
+    "capital": {
+      "aum": { "raw": "US$212 million", "usd": 212000000, "currency": "USD" },
+      "current_fund": { "raw": "US$150 million (Fund III)", "usd": 150000000, "currency": "USD" },
+      "funds": [
+        { "name": "AppWorks Fund III", "vintage_year": 2021, "size": { "raw": "US$150 million", "usd": 150000000, "currency": "USD" } },
+        { "name": "AppWorks Fund IV", "vintage_year": null, "size": { "raw": "USD 165m (reported target)", "usd": 165000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": "from US$2 million in Series A-C; plus seed-stage investments", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "Southeast Asia"],
+      "sector_focus": ["saas-enterprise", "consumer", "ecommerce", "ai-ml", "web3-crypto"],
+      "thesis": "Early-stage fund + accelerator for the Greater Southeast Asia region (Taiwan + Southeast Asia). Three core themes: AI, Blockchain, and Southeast Asia (ABS). Backs SaaS/enterprise software and consumer/marketplace startups, including omni-channel retail SaaS."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": 2,
+      "equity_taken_pct": "0",
+      "investment": { "raw": "no fee, no equity (accelerator)", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Taipei",
+      "demo_day": true,
+      "application_url": "https://appworks.tw/",
+      "eligibility": "Greater Southeast Asia startups; the region's leading startup accelerator, launched in 2010"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "91APP", "sector": "ecommerce / retail SaaS", "outcome": "IPO" },
+        { "company": "Omnichat", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "WeMo Scooter", "sector": "mobility", "outcome": "active" },
+        { "company": "Carousell", "sector": "ecommerce marketplace", "outcome": "active" },
+        { "company": "Lalamove", "sector": "logistics", "outcome": "active" },
+        { "company": "XREX", "sector": "fintech / crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Jamie Lin", "role": "Chairman & Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Apply to AppWorks Accelerator online; fund invests in accelerator alumni and direct deals",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["taiwan", "saas", "enterprise", "consumer", "accelerator", "southeast-asia"],
+    "summary": {
+      "en": "Taipei-based early-stage VC and the region's leading accelerator, focused on Greater Southeast Asia (Taiwan + SEA). Fund III closed at US$150M, bringing AUM to US$212M. Backs SaaS/enterprise software (e.g. 91APP, Omnichat) and consumer marketplaces.",
+      "local": "總部位於台北的早期創投與加速器,聚焦大東南亞(台灣+東南亞)。Fund III 募得 1.5 億美元,AUM 達 2.12 億美元,投資 SaaS/企業軟體(如 91APP、Omnichat)與消費/電商平台。"
+    },
+    "sources": [
+      {
+        "url": "https://appworks.tw/appworks-fund-iii/",
+        "title": "AppWorks Successfully Closes US$150 Million Fund III",
+        "publisher": "AppWorks",
+        "accessed": "2026-06-02",
+        "supports": "fund III size, AUM, founded year, chairman, HQ, themes, check size",
+        "quote": "AppWorks Successfully Closes US$150 Million Fund III ... brings AppWorks' total assets under management (AUM) to $212 million ... US$2 million in Series A-C companies and 20 seed-stage investments ... three main investment themes are Southeast Asia, blockchain and artificial intelligence."
+      },
+      {
+        "url": "https://techcrunch.com/2021/08/11/appworks-closes-third-fund-with-150m-for-taiwan-and-southeast-asia-startups/",
+        "title": "AppWorks closes third fund with $150M for Taiwan and Southeast Asia startups",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "fund III size, AUM, SaaS portfolio",
+        "quote": "AppWorks ... closed its oversubscribed third fund, raising $150 million ... brings AppWorks' total assets under management (AUM) to $212 million ... 91APP, a leading omni-channel retail storefront software-as-a-service (SaaS) provider."
+      },
+      {
+        "url": "https://ionanalytics.com/insights/mergermarket/taiwans-appworks-signs-up-asian-sovereigns-for-usd-165m-fund-iv/",
+        "title": "Taiwan's AppWorks signs up Asian sovereigns for USD 165m Fund IV",
+        "publisher": "ION Analytics / Mergermarket",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV reported target",
+        "quote": "Taiwan's AppWorks signs up Asian sovereigns for USD 165m Fund IV"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund III ($150M) and AUM ($212M) confirmed by official AppWorks post and TechCrunch. Fund IV figure (USD 165m) is a reported target from Mergermarket, not a confirmed final close; cohort size and accelerator equity terms (no fee/no equity) per AppWorks' long-standing public model but exact current terms not re-verified line by line.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "tw-cherubic-ventures",
+    "name": { "en": "Cherubic Ventures", "local": "心元資本" },
+    "aka": ["心元资本"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://cherubic.com/",
+    "links": {
+      "linkedin": "https://tw.linkedin.com/company/cherubic-ventures-%E5%BF%83%E5%85%83%E8%B5%84%E6%9C%AC",
+      "other": ["https://cherubic.com/company/", "https://cherubic.com/about/"]
+    },
+    "capital": {
+      "aum": { "raw": "over $400 million in committed capital", "usd": 400000000, "currency": "USD" },
+      "current_fund": { "raw": "$110 million (Fund V)", "usd": 110000000, "currency": "USD" },
+      "funds": [
+        { "name": "Cherubic Ventures Fund V", "vintage_year": 2022, "size": { "raw": "$110 million", "usd": 110000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "~$1M average; 'First Check' / first institutional check", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States", "Taiwan", "China"],
+      "sector_focus": ["consumer", "saas-enterprise", "healthtech", "web3-crypto"],
+      "thesis": "Sector-agnostic global seed-stage fund pursuing a 'First Check' strategy — investing in pre-product/market-fit companies across consumer, enterprise solutions and blockchain. Reserves >50% of Fund V for follow-on to pre-IPO."
+    },
+    "track_record": {
+      "portfolio_count": "150+",
+      "notable_investments": [
+        { "company": "91APP", "sector": "ecommerce / retail SaaS", "outcome": "IPO" },
+        { "company": "Hims & Hers", "sector": "healthtech / consumer", "outcome": "IPO" },
+        { "company": "Calm", "sector": "consumer", "outcome": "active" },
+        { "company": "Flexport", "sector": "logistics / enterprise", "outcome": "active" },
+        { "company": "Paidy", "sector": "fintech", "outcome": "acquired" },
+        { "company": "Pinkoi", "sector": "ecommerce marketplace", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Paidy", "type": "M&A", "year": 2021, "value": { "raw": "$2.7 billion (acquired by PayPal)", "usd": 2700000000, "currency": "USD" } },
+        { "company": "Hims & Hers", "type": "IPO", "year": 2021, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "91APP", "type": "IPO", "year": 2021, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Matt Cheng (鄭博仁)", "role": "Founder & Managing Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Pitch via cherubic.com/contact",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["taiwan", "consumer", "enterprise", "seed", "silicon-valley"],
+    "summary": {
+      "en": "Global seed-stage fund founded 2014 with team in San Francisco, Taipei and Shanghai. Sector-agnostic 'First Check' investor spanning consumer to enterprise to blockchain. Closed $110M Fund V (2022), bringing committed capital to over $400M. Portfolio includes Calm, Flexport, Hims & Hers, 91APP, Pinkoi.",
+      "local": "2014 年成立的全球種子期基金,團隊分布舊金山、台北、上海。採『第一張支票』策略、跨消費到企業到區塊鏈。2022 年募得 1.1 億美元 Fund V,累積管理資本超過 4 億美元。投資組合含 Calm、Flexport、Hims & Hers、91APP、Pinkoi。"
+    },
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/cherubic-ventures-successfully-completes-110m-fund-v-bringing-total-committed-capital-to-over-400m-301608349.html",
+        "title": "Cherubic Ventures successfully completes $110M Fund V",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-02",
+        "supports": "Fund V size, total committed capital, founded year, founder, offices, sector focus, exits, portfolio count",
+        "quote": "Cherubic Ventures successfully completes $110M Fund V, bringing total committed capital to over $400M ... Established in 2014 ... Matt Cheng, Founder and Managing Partner ... San Francisco, Taipei, and Shanghai ... industries ranging from consumer to enterprise solutions to blockchain technology ... Paidy acquired by PayPal for $2.7 billion ... more than 150 portfolio companies."
+      },
+      {
+        "url": "https://www.bnext.com.tw/article/64549/cherubic-ventures-taiwan-fund",
+        "title": "心元資本宣布成立專投台灣新創的基金",
+        "publisher": "數位時代 BusinessNext",
+        "accessed": "2026-06-02",
+        "supports": "Taiwan fund strategy, prior Taiwan investments, founder",
+        "quote": "台灣基金預計投資10～20家台灣新創 ... 一半投早期階段,成為新創團隊的『第一張支票』 ... 投資了20多個團隊、投入超過2,600萬美元的資金 ... 鄭博仁,Cherubic Ventures Founding Managing Partner"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund V ($110M) and committed capital (>$400M) confirmed by official PR Newswire release. Founder Chinese name 鄭博仁 = Matt Cheng confirmed via bnext. Average check ~$1M is from a secondary aggregator (Failory) and is approximate. Headquarters legally registered in Taipei per Taiwan-native listings; firm also operates in SF/Shanghai.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "tw-hive-ventures",
+    "name": { "en": "Hive Ventures", "local": "蜂行資本" },
+    "aka": ["Hive Ventures Taiwan", "蜂行創投"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": null,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.hiveventures.io/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/hive-ventures-0ae4",
+      "other": ["https://www.hiveventures.io/funds/taiwan-ai"]
+    },
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" },
+      { "country": "Singapore", "city": "Singapore" }
+    ],
+    "capital": {
+      "current_fund": { "raw": "$13.5 million (inaugural / debut fund)", "usd": 13500000, "currency": "USD" },
+      "funds": [
+        { "name": "Hive Ventures Taiwan AI Renaissance Fund (debut)", "vintage_year": 2021, "size": { "raw": "$13.5 million", "usd": 13500000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Taiwan", "Southeast Asia", "Asia"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "Described as the first dedicated Data & AI fund in Taiwan. Invests in Data, AI and Enterprise Software — from data/ML infrastructure to AI-powered industrial automation — backing founders accelerating digital transformation of industry, with Taiwan as a launchpad to Asia. Usually the first institutional investor."
+    },
+    "track_record": {
+      "portfolio_count": "20",
+      "notable_investments": [
+        { "company": "InfuseAI", "sector": "saas-enterprise / ml-infra", "outcome": "active" },
+        { "company": "Canner Data", "sector": "saas-enterprise / data", "outcome": "active" },
+        { "company": "PROFET AI", "sector": "saas-enterprise / ai-ml", "outcome": "active" },
+        { "company": "Botrista", "sector": "consumer / robotics", "outcome": "active" },
+        { "company": "KryptoGO", "sector": "fintech / crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Yan Lee", "role": "Founding Partner" },
+      { "name": "Wufu Chen", "role": "Founding Partner (also Acorn Campus Ventures)" },
+      { "name": "Hong Lu", "role": "Founding Chairman (formerly Softbank China Venture Capital)" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via hiveventures.io",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["taiwan", "ai", "saas", "enterprise", "data", "seed"],
+    "summary": {
+      "en": "Taipei- and Singapore-based seed/early-stage VC describing itself as the first dedicated Data & AI fund in Taiwan. Closed a $13.5M debut fund on 30 June 2021 (LPs include Taiwan's NDF, MiTAC-Synnex, Unitech, GMI). Focuses on enterprise software/SaaS and AI infrastructure; portfolio includes InfuseAI, Canner, PROFET AI.",
+      "local": "總部位於台北與新加坡的種子/早期創投,自稱台灣第一支專注 Data & AI 的基金。2021/6/30 完成 1,350 萬美元首支基金(LP 含國發基金、神達聯強、聯昌、廣閎科技)。聚焦企業軟體/SaaS 與 AI 基礎建設,投資組合含 InfuseAI、Canner、PROFET AI。"
+    },
+    "sources": [
+      {
+        "url": "https://www.avcj.com/avcj/news/3024341/taiwan-s-hive-ventures-closes-debut-fund-at-usd135m",
+        "title": "Taiwan's Hive Ventures closes debut fund at $13.5m",
+        "publisher": "AVCJ",
+        "accessed": "2026-06-02",
+        "supports": "fund size, close date, LPs, focus, founders",
+        "quote": "Taiwan's Hive Ventures closes debut fund at USD 13.5m ... 30 June 2021 ... enterprise-focused AI innovations and applications across Asia, especially for sectors such as smart manufacturing and smart enterprises ... Yan Lee (Founding Partner) ... Wufu Chen ... Hong Lu."
+      },
+      {
+        "url": "https://www.eetasia.com/hive-ventures-closes-13-5m-in-inaugural-seed-fund-for-ai-innovations-across-taiwan-and-asia/",
+        "title": "Hive Ventures Closes $13.5M in Inaugural Seed Fund for AI Innovations Across Taiwan and Asia",
+        "publisher": "EE Times Asia",
+        "accessed": "2026-06-02",
+        "supports": "fund size, LPs, AI/SaaS focus",
+        "quote": "Hive Ventures successfully closed $13.5 million in its inaugural seed fund ... prominent investors include the National Development Fund (NDF) of Taiwan, the investment arms of MITAC-SYNNEX Group, Unitech Electronics, and GMI Technology."
+      },
+      {
+        "url": "https://www.hiveventures.io/funds/taiwan-ai",
+        "title": "Hive Ventures Taiwan AI Renaissance Fund",
+        "publisher": "Hive Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Data/AI/enterprise software focus, stages, thesis",
+        "quote": "the First dedicated Data & AI fund in Taiwan ... Data, AI, and Enterprise Software ... From Pre-Seed to Series (x); From Zero to IPO."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Debut fund size ($13.5M, closed 30 Jun 2021) confirmed by AVCJ and EE Times Asia. Portfolio count (20, as of May 2025) is from secondary aggregator Tracxn. Founding year not cleanly stated in sources (fund closed 2021); left null. Check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "tw-darwin-venture-management",
+    "name": { "en": "Darwin Venture Management", "local": "達盈管理顧問" },
+    "aka": ["Darwin Ventures", "達盈管顧"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2009,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.darwinventures.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/darwin-venture-management",
+      "other": ["https://findit.org.tw/en/Investor/emVKSHFRYVRhT1o3TVNuQVlPK0ZPQT09"]
+    },
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" },
+      { "country": "Taiwan", "city": "Hsinchu" },
+      { "country": "United States", "city": "" }
+    ],
+    "capital": {
+      "funds": [
+        { "name": "Evergreen angel fund", "vintage_year": 2022, "size": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": "USD 100-300K and USD 1-3M", "usd_min": 100000, "usd_max": 3000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "United States", "Japan"],
+      "sector_focus": ["saas-enterprise", "consumer", "biotech", "ai-ml"],
+      "thesis": "Taipei-based fund manager (founded 2009) running multiple funds plus a 2022 evergreen angel fund. Invests across Enterprise Applications, Consumer and Life Sciences, primarily in Taiwan and Silicon Valley, with Series A/B, late-stage and secondary exposure."
+    },
+    "track_record": {
+      "portfolio_count": 69,
+      "notable_investments": [
+        { "company": "17LIVE", "sector": "consumer / live streaming", "outcome": "IPO" },
+        { "company": "KKday", "sector": "ecommerce / travel", "outcome": "active" },
+        { "company": "Gamma", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Foresee Pharmaceuticals", "sector": "biotech", "outcome": "IPO" }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Contact via darwinventures.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["taiwan", "enterprise", "consumer", "saas", "series-a"],
+    "summary": {
+      "en": "Taipei-headquartered VC fund manager founded 2009 (offices in Hsinchu and the US). Has managed eight funds plus a 2022 evergreen angel fund, investing across Enterprise Applications, Consumer and Life Sciences in Taiwan and Silicon Valley. As of Dec 2024 it had invested in 69 companies with 1 unicorn, 11 IPOs and 7 acquisitions (incl. 17LIVE, KKday, Gamma).",
+      "local": "總部位於台北、2009 年成立的創投基金管理公司(新竹及美國設辦公室)。已管理八支基金並於 2022 年成立常青天使基金,投資橫跨企業應用、消費與生技,主要在台灣與矽谷。截至 2024/12 投資 69 家公司,含 1 隻獨角獸、11 件 IPO、7 件併購(含 17LIVE、KKday、Gamma)。"
+    },
+    "sources": [
+      {
+        "url": "https://tracxn.com/d/venture-capital/darwin-venture-management/__1u-vU0VBta_h8CaxYEGhGH4GNiQVBmKTOpKpwx2ahH8",
+        "title": "Darwin Venture Management - Investor Profile",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "founded year, funds count, portfolio count, exits, sector focus, evergreen angel fund",
+        "quote": "founded in Taiwan in 2009 ... managed eight funds ... In 2022, Darwin also launched an evergreen angel fund ... As of December 2024, Darwin Venture Management has invested in 69 companies ... 1 unicorn, 11 IPOs and 7 acquisitions including key companies like Gamma, Foresee Pharmaceuticals and 17LIVE ... from Enterprise Applications to Consumer and Life Sciences."
+      },
+      {
+        "url": "https://findit.org.tw/en/Investor/emVKSHFRYVRhT1o3TVNuQVlPK0ZPQT09",
+        "title": "Darwin Venture Management Corporation",
+        "publisher": "FINDIT (經濟部)",
+        "accessed": "2026-06-02",
+        "supports": "founded year, geo focus, stages, ticket size, website",
+        "quote": "founded in Taiwan in 2009 ... Geographic Focus: Taiwan, Japan, US ... Funding Stages: Pre-Seed through Series C ... Ticket Size: USD 100-300K and USD 1-3M ranges ... Website: darwinventures.com"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded year (2009), 8 funds, 69 portfolio companies, exits and check sizes sourced from Tracxn and FINDIT (secondary aggregators). No official primary-source page fetched (crunchbase/official site returned 403). Fund sizes/AUM not disclosed. Sector mix spans beyond this segment (life sciences); included for clear enterprise + consumer exposure.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "tw-pinehurst-advisors",
+    "name": { "en": "Pinehurst Advisors", "local": "" },
+    "aka": [],
+    "type": "micro-vc",
+    "subtypes": ["angel-syndicate"],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://pinehurstadvisors.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/pinehurst-advisors",
+      "other": ["https://pinehurstadvisors.com/team/"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "United States", "Southeast Asia"],
+      "sector_focus": ["consumer", "ecommerce", "edtech"],
+      "thesis": "Early-stage angel & seed fund management company backing technology startups from Seed to Series A, with focus on digital media, mobile and e-commerce, plus consumer, EdTech and retail."
+    },
+    "track_record": {
+      "portfolio_count": "16",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Mark Hsu", "role": "Partner" },
+      { "name": "Kevin Chen", "role": "Partner" },
+      { "name": "Tammy Pan", "role": "Investment Director" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via pinehurstadvisors.com",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["taiwan", "consumer", "ecommerce", "seed", "micro-vc"],
+    "summary": {
+      "en": "Taipei-based early-stage angel & seed fund (founded 2010) focused on digital media, mobile, e-commerce and consumer/EdTech/retail startups, investing from Seed to Series A. As of 2016 it had invested in 16 companies, mostly in Taiwan. Led by partners Mark Hsu and Kevin Chen.",
+      "local": "總部位於台北、2010 年成立的早期天使/種子基金,聚焦數位媒體、行動、電商與消費/EdTech/零售新創,投資階段為種子至 A 輪。截至 2016 年投資 16 家公司,多數在台灣。合夥人為 Mark Hsu 與 Kevin Chen。"
+    },
+    "sources": [
+      {
+        "url": "https://tracxn.com/d/venture-capital/pinehurst-advisors/__ty7Ks73VhKcf6jrrmPQWP8sGl3PjGNs9X3bw1sgCyOQ",
+        "title": "Pinehurst Advisors - Investor Profile",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "founded year, HQ, sector focus, portfolio count, stage",
+        "quote": "early stage angel & seed fund management company with an investment focus in the digital media, mobile, and ecommerce space ... founded in 2010 and is primarily based out of Taipei, Taiwan ... As of 2016, Pinehurst Advisors has invested in 16 companies ... Consumer, EdTech, High Tech, Media & Entertainment and Retail sectors."
+      },
+      {
+        "url": "https://pinehurstadvisors.com/team/",
+        "title": "Team – Pinehurst Advisors",
+        "publisher": "Pinehurst Advisors",
+        "accessed": "2026-06-02",
+        "supports": "partners/people, stage focus",
+        "quote": "early-stage management company backing technology startups from Seed to series A ... Mark Hsu ... Kevin Chen ... Tammy Pan."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded 2010, Taipei HQ, sector focus (consumer/e-commerce/digital media/retail) and 16 portfolio companies sourced from Tracxn (secondary) plus official team page. Portfolio count is 'as of 2016' and may be outdated. Fund size and check size not disclosed. Type set to micro-vc given small/angel-seed scale.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "tw-taiwania-capital",
+    "name": { "en": "Taiwania Capital", "local": "台杉投資" },
+    "aka": ["Taiwania Capital Management Corporation", "台杉"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.taiwaniacapital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/taiwania-capital",
+      "other": ["https://www.taiwaniacapital.com/en/funds"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I (Buffalo/enterprise & deeptech)", "vintage_year": null, "size": { "raw": "US$150M", "usd": 150000000, "currency": "USD" } },
+        { "name": "Enterprise SaaS / automation fund", "vintage_year": null, "size": { "raw": "US$56M", "usd": 56000000, "currency": "USD" } },
+        { "name": "Edge/5G infrastructure fund", "vintage_year": null, "size": { "raw": "US$200M", "usd": 200000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "United States"],
+      "sector_focus": ["saas-enterprise", "deeptech", "ai-ml", "hardware-semiconductor", "healthtech"],
+      "thesis": "Founded 2017 by Taiwan's National Development Fund and private enterprises. Primarily a deeptech/enterprise generalist, but runs a dedicated sleeve in automation and enterprise SaaS (alongside 5G/networking, advanced manufacturing, digital health). Included here for its enterprise-SaaS focus."
+    },
+    "track_record": {
+      "portfolio_count": "75",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Contact via taiwaniacapital.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["taiwan", "enterprise", "saas", "deeptech", "national-development-fund"],
+    "summary": {
+      "en": "Taipei-based VC founded in 2017 by Taiwan's National Development Fund and private enterprises. Manages multiple funds (reported sizes incl. US$150M, US$56M, US$200M) across deeptech and enterprise. One fund focuses on automation and enterprise SaaS, 5G/networking, advanced manufacturing and digital health. As of Dec 2025 it had invested in 75 companies. Primarily deeptech — light overlap with this consumer/SaaS segment via its enterprise-SaaS sleeve.",
+      "local": "總部位於台北、2017 年由國發基金與民間企業共同成立的創投。管理多支基金(報導規模含 1.5 億、5,600 萬、2 億美元),橫跨深科技與企業。其中一支基金聚焦自動化與企業 SaaS、5G/網通、先進製造與數位健康。截至 2025/12 投資 75 家公司。主要為深科技,透過企業 SaaS 部分與本切片輕度重疊。"
+    },
+    "sources": [
+      {
+        "url": "https://tracxn.com/d/venture-capital/taiwania-capital/__pnxMqGVLKx19k7iupC8UOgZGMCZpvHSpbzsZdg_tLcc",
+        "title": "Taiwania Capital - Investor Profile",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "founded year, fund sizes, enterprise SaaS focus, portfolio count",
+        "quote": "founded in 2017 by the National Development Fund ... early startups specializing in automation, enterprise SaaS, 5G and networking, advanced manufacturing, and digital health ... Fund I ... US$150M ... a fund with a size of US$56M ... a fund with a size of US$200M ... As of December 2025, Taiwania Capital has invested in 75 companies."
+      },
+      {
+        "url": "https://www.taiwaniacapital.com/en/funds",
+        "title": "Taiwania Capital - Funds",
+        "publisher": "Taiwania Capital",
+        "accessed": "2026-06-02",
+        "supports": "official funds listing, enterprise software focus",
+        "quote": "Taiwania Capital ... funds ... enterprise software ... AI, IoT ... cloud infrastructure"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded year (2017) and enterprise-SaaS focus consistent across sources. Specific per-fund sizes (US$150M / US$56M / US$200M) and portfolio count (75) sourced from Tracxn (secondary aggregator); official funds page returned 403 on direct fetch so figures not cross-checked against primary. Taiwania is primarily a deeptech/enterprise generalist — included for its enterprise-SaaS sleeve (light overlap with this segment).",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "tw-top-taiwan-venture-capital",
+    "name": { "en": "TopTaiwan Venture Capital", "local": "益鼎創業投資" },
+    "aka": ["Top Taiwan", "益鼎創投", "TOP TAIWAN"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 1996,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.toptaiwan.com.tw/",
+    "links": {
+      "other": ["http://www.toptaiwan.com.tw/toptaiwan/", "https://findit.org.tw/twInvestorList.aspx"]
+    },
+    "capital": {
+      "aum": { "raw": "超過新台幣120億元 (over NT$12 billion managed)", "usd": null, "currency": "TWD" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["consumer", "ecommerce", "hardware-semiconductor", "generalist"],
+      "thesis": "One of Taiwan's largest venture capital managers (established 1996), historically focused on optoelectronics, IC design and electronic components, with consumer/retail among its investment areas. Generalist with light overlap with this consumer segment (e.g. PopChill, a second-hand marketplace)."
+    },
+    "track_record": {
+      "portfolio_count": "250+",
+      "notable_investments": [
+        { "company": "PopChill", "sector": "ecommerce / second-hand marketplace", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "邱德成 (Chiu De-cheng)", "role": "Founder" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via toptaiwan.com.tw",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["taiwan", "generalist", "consumer", "established"],
+    "summary": {
+      "en": "Established 1996, one of Taiwan's largest VC managers with over NT$12 billion under management and 250+ portfolio companies. Founded by Chiu De-cheng; historically optoelectronics/IC-design focused with consumer/retail among its areas (e.g. PopChill marketplace). Generalist — only light overlap with the consumer/SaaS segment.",
+      "local": "1996 年成立,台灣管理規模最大的創投之一,管理基金規模超過新台幣 120 億元、投資逾 250 家公司。創辦人邱德成;早期聚焦光電與 IC 設計,投資領域含消費/零售(如 PopChill 二手交易平台)。屬通用型,與消費/SaaS 切片僅輕度重疊。"
+    },
+    "sources": [
+      {
+        "url": "https://news.gbimonthly.com/tw/invest/show2.php?num=1096",
+        "title": "益鼎創業投資管理股份有限公司",
+        "publisher": "環球生技月刊 (GBI Monthly)",
+        "accessed": "2026-06-02",
+        "supports": "founded year, AUM, portfolio count, founder",
+        "quote": "益鼎創業投資管理股份有限公司 ... 1996 ... 管理的基金規模已超過新台幣120億元 ... 投資超過250家公司 ... 創辦人邱德成。"
+      },
+      {
+        "url": "https://shizune.co/investors/consumer-vc-funds-taiwan",
+        "title": "Top 30 Consumer VC Funds in Taiwan",
+        "publisher": "Shizune",
+        "accessed": "2026-06-02",
+        "supports": "consumer/retail focus, PopChill investment, founded year",
+        "quote": "TopTaiwan ... Taipei, Taiwan ... Founded: 1996 ... Focus Areas: Consumer retail, food/beverage among others ... Portfolio: PopChill (second-hand marketplace)."
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Founded 1996, AUM >NT$12bn and 250+ portfolio companies sourced from GBI Monthly (secondary, possibly promotional) and consumer focus/PopChill from Shizune aggregator. TopTaiwan is a large generalist VC with historical optoelectronics/IC focus; consumer/retail is only a partial area, so it is a light-overlap inclusion for this segment. Numbers not confirmed against a primary/official source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  }
+]

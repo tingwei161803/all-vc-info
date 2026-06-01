@@ -1,0 +1,11 @@
+# Generated build artifacts — rebuild with: uv run scripts/build.py
+# (kept out of per-batch commits to avoid cross-region churn during collection;
+#  a clean full build is force-added in the final batch.)
+data/all-entities.json
+data/stats.json
+reports/
+
+# Python / uv
+__pycache__/
+*.pyc
+.venv/
