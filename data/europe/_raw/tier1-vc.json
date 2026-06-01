@@ -1,0 +1,652 @@
+[
+  {
+    "id": "eu-index-ventures",
+    "name": { "en": "Index Ventures" },
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 1996,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "offices": [
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "United States", "city": "San Francisco" },
+      { "country": "United States", "city": "New York" },
+      { "country": "Switzerland", "city": "Geneva" }
+    ],
+    "website": "https://www.indexventures.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/index-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/index-ventures",
+      "other": ["https://en.wikipedia.org/wiki/Index_Ventures"]
+    },
+    "capital": {
+      "aum": { "raw": "€11.7 billion", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": "$3.1 billion total across funds (2021)", "usd": 3100000000, "currency": "USD" },
+      "funds": [
+        { "name": "Index Ventures 2021 funds (early + growth + seed)", "vintage_year": 2021, "size": { "raw": "$3.1 billion ($900M early-stage, $2B growth-stage, $200M seed)", "usd": 3100000000, "currency": "USD" } },
+        { "name": "Index Ventures seed fund", "vintage_year": 2022, "size": { "raw": "$300 million", "usd": 300000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United States", "Israel"],
+      "sector_focus": ["generalist", "saas-enterprise", "fintech", "cybersecurity", "consumer", "ai-ml"],
+      "thesis": "Pan-European/transatlantic multi-stage generalist backing founders from seed to growth across enterprise software, fintech, security, consumer and AI. 'We invest in who you are, not just what you do.'"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Adyen", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Wiz", "sector": "cybersecurity", "outcome": "unicorn" },
+        { "company": "Figma", "sector": "saas-enterprise", "outcome": "exit" },
+        { "company": "Revolut", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Datadog", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Anthropic", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Skype", "sector": "consumer", "outcome": "acquired" }
+      ],
+      "exits": [
+        { "company": "Adyen", "type": "IPO", "year": 2018, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Figma", "type": "M&A", "year": 2025, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Neil Rimer", "role": "Co-founder, Partner" },
+      { "name": "David Rimer", "role": "Co-founder" },
+      { "name": "Giuseppe Zocco", "role": "Co-founder, Partner" },
+      { "name": "Danny Rimer", "role": "Partner" },
+      { "name": "Jan Hammer", "role": "Partner" },
+      { "name": "Martin Mignot", "role": "Partner" },
+      { "name": "Shardul Shah", "role": "Partner" }
+    ],
+    "application": { "how_to_apply": "Contact partners / warm intro; reachable via website.", "accepts_cold_inbound": null, "contact": "https://www.indexventures.com/" },
+    "tags": ["tier-1", "brand-name", "multi-stage", "generalist", "pan-european", "transatlantic"],
+    "summary": {
+      "en": "Index Ventures is one of Europe's most successful and best-known multi-stage generalist VC firms, founded in Geneva in 1996 and now operating a transatlantic platform from London, San Francisco and New York with roughly €11.7B AUM. It has backed category leaders including Adyen, Revolut, Wiz, Figma, Datadog, Skype and Anthropic."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Index_Ventures", "title": "Index Ventures - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "founding year, founders, offices, AUM, fund history, sectors, partners", "quote": "Founding Year: 1996; Founders: Neil Rimer, David Rimer, and Giuseppe Zocco; Total Assets Under Management: €11.7 billion; 2021: $3.1 billion total across multiple funds ($900M early-stage, $2B growth-stage, $200M seed); 2022: $300 million seed-focused fund" },
+      { "url": "https://www.indexventures.com/", "title": "Index Ventures", "publisher": "Index Ventures", "accessed": "2026-06-02", "supports": "offices, notable portfolio, partners", "quote": "Offices: San Francisco, New York, London ... Figma, Revolut, Wiz, Anthropic, Discord, Adyen, Datadog, Roblox" },
+      { "url": "https://visible.vc/blog/largest-vc-investors/", "title": "The Largest Venture Capital Firms in 2026", "publisher": "Visible.vc / Dealroom", "accessed": "2026-06-02", "supports": "AUM, founding, HQ", "quote": "Index Ventures - AUM: $13.0B - Headquarters: San Francisco, CA and London, UK - Founded: 1996" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Index is a transatlantic firm with a debated single 'HQ'; founded in Geneva (1996), primary European base in London since 2002, with major US presence (SF since 2011, NY since 2022). AUM cited as €11.7B (Wikipedia) and $13.0B (Dealroom/Visible) — both reputable; figure depends on date and FX. Country set to United Kingdom (London) as primary European operating HQ.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "eu-atomico",
+    "name": { "en": "Atomico" },
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2006,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "offices": [
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "France", "city": "Paris" },
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "Sweden", "city": "Stockholm" }
+    ],
+    "website": "https://www.atomico.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/atomico",
+      "crunchbase": "https://www.crunchbase.com/organization/atomico",
+      "other": ["https://en.wikipedia.org/wiki/Atomico"]
+    },
+    "capital": {
+      "aum": { "raw": "$4.7 billion", "usd": 4700000000, "currency": "USD" },
+      "current_fund": { "raw": "$1.24 billion (2024: $754M growth + $485M early-stage)", "usd": 1240000000, "currency": "USD" },
+      "funds": [
+        { "name": "Atomico II", "vintage_year": null, "size": { "raw": "$165 million", "usd": 165000000, "currency": "USD" } },
+        { "name": "Atomico III", "vintage_year": 2013, "size": { "raw": "$476 million", "usd": 476000000, "currency": "USD" } },
+        { "name": "Atomico IV", "vintage_year": null, "size": { "raw": "$765 million", "usd": 765000000, "currency": "USD" } },
+        { "name": "Atomico V", "vintage_year": null, "size": { "raw": "$820 million", "usd": 820000000, "currency": "USD" } },
+        { "name": "Atomico VI", "vintage_year": null, "size": { "raw": "$1.1 billion", "usd": 1100000000, "currency": "USD" } },
+        { "name": "Atomico VII", "vintage_year": 2024, "size": { "raw": "$1.24 billion ($754M growth + $485M early-stage)", "usd": 1240000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["generalist", "ai-ml", "deeptech", "fintech", "climate-energy", "robotics"],
+      "thesis": "Largest Europe-only multi-stage platform, founded by Skype co-founder Niklas Zennström, using an operational team to help category-defining European founders scale from Series A through growth. Publisher of the annual State of European Tech report."
+    },
+    "track_record": {
+      "portfolio_count": "155+",
+      "notable_investments": [
+        { "company": "Supercell", "sector": "gaming", "outcome": "acquired" },
+        { "company": "Rovio Entertainment", "sector": "gaming", "outcome": "IPO" },
+        { "company": "The Climate Corporation", "sector": "agritech", "outcome": "acquired" },
+        { "company": "Klarna", "sector": "fintech", "outcome": "active" },
+        { "company": "Lilium", "sector": "mobility", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Supercell", "type": "M&A", "year": 2013, "value": { "raw": "valued at $3 billion (2013)", "usd": 3000000000, "currency": "USD" } },
+        { "company": "The Climate Corporation", "type": "M&A", "year": 2013, "value": { "raw": "$1.1 billion", "usd": 1100000000, "currency": "USD" } },
+        { "company": "Rovio Entertainment", "type": "IPO", "year": 2017, "value": { "raw": "$1 billion IPO", "usd": 1000000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Niklas Zennström", "role": "Founder & CEO" }
+    ],
+    "application": { "how_to_apply": "Warm intro / contact via website.", "accepts_cold_inbound": null, "contact": "https://www.atomico.com/" },
+    "tags": ["tier-1", "brand-name", "multi-stage", "generalist", "europe-only", "state-of-european-tech"],
+    "summary": {
+      "en": "Atomico, founded in 2006 by Skype co-founder Niklas Zennström, is the largest Europe-only multi-stage VC platform with roughly $4.7B AUM. It has raised seven funds (latest $1.24B in 2024), backed companies such as Supercell, Rovio, Klarna and Lilium, and publishes the annual State of European Tech report."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Atomico", "title": "Atomico - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "founding year, founder, HQ, fund history, portfolio, exits", "quote": "Founding Year: 2006; Founder: Niklas Zennström; raised across 7 funds totaling approximately $5.47 billion cumulatively; Atomico II: $165 million; Atomico III: $476 million; Atomico IV: $765 million; Atomico V: $820 million; Atomico VI: $1.1 billion; Atomico VII: $1.24 billion; Supercell ... valued at $3 billion in 2013; The Climate Corporation (acquired by Monsanto for $1.1 billion in 2013); Rovio Entertainment ($1 billion IPO in September 2017); Over 155 companies invested across 7 funds" },
+      { "url": "https://pitchbook.com/news/articles/european-vc-enters-mega-fund-land-as-atomico-closes-on-820-million", "title": "European VC enters mega-fund land as Atomico closes on $820 million", "publisher": "PitchBook", "accessed": "2026-06-02", "supports": "Atomico V fund size", "quote": "Atomico closes on $820 million" },
+      { "url": "https://basepoint.vc/guides/top-european-venture-capital-firms-2026", "title": "Top European Venture Capital Firms 2026", "publisher": "Basepoint", "accessed": "2026-06-02", "supports": "latest fund composition, AUM", "quote": "Atomico | London, UK | 2006 | ~$4–5B | $1.24B (2024: $754M growth + $485M early-stage)" },
+      { "url": "https://visible.vc/blog/largest-vc-investors/", "title": "The Largest Venture Capital Firms in 2026", "publisher": "Visible.vc / Dealroom", "accessed": "2026-06-02", "supports": "AUM", "quote": "Atomico ... is the largest Europe-only platform with $4.7 billion in AUM and the publisher of the annual State of European Tech report" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM reported as $4.7B (Visible/Dealroom) while Wikipedia sums cumulative fund commitments at ~$5.47B — different metrics (live AUM vs cumulative raised). Fund vintages partially undated in sources; left null where unverified.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "eu-balderton-capital",
+    "name": { "en": "Balderton Capital" },
+    "aka": ["Benchmark Capital Europe"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2000,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "offices": [
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "website": "https://www.balderton.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/balderton-capital",
+      "crunchbase": "https://www.crunchbase.com/organization/balderton-capital",
+      "other": ["https://en.wikipedia.org/wiki/Balderton_Capital"]
+    },
+    "capital": {
+      "aum": { "raw": "$7.0 billion", "usd": 7000000000, "currency": "USD" },
+      "current_fund": { "raw": "$1.3 billion across Early and Growth funds (2024)", "usd": 1300000000, "currency": "USD" },
+      "funds": [
+        { "name": "Balderton VII (Series A)", "vintage_year": 2019, "size": { "raw": "$400 million", "usd": 400000000, "currency": "USD" } },
+        { "name": "Balderton Growth fund", "vintage_year": 2021, "size": { "raw": "$680 million", "usd": 680000000, "currency": "USD" } },
+        { "name": "Balderton Early-stage fund", "vintage_year": 2021, "size": { "raw": "$600 million", "usd": 600000000, "currency": "USD" } },
+        { "name": "Balderton Early + Growth (2024)", "vintage_year": 2024, "size": { "raw": "$1.3 billion (largest raise for a European venture firm at the time)", "usd": 1300000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["generalist", "fintech", "saas-enterprise", "consumer", "ai-ml", "healthtech"],
+      "thesis": "London-based multi-stage firm focused exclusively on European-founded technology companies, able to lead from seed through Series C and growth without handing founders off, via parallel early-stage and growth funds."
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "notable_investments": [
+        { "company": "Revolut", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Depop", "sector": "ecommerce", "outcome": "acquired" },
+        { "company": "GoCardless", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Wayve", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Dream Games", "sector": "gaming", "outcome": "unicorn" },
+        { "company": "The Hut Group", "sector": "ecommerce", "outcome": "IPO" }
+      ],
+      "exits": [
+        { "company": "Depop", "type": "M&A", "year": 2021, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "The Hut Group", "type": "IPO", "year": 2020, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Bernard Liautaud", "role": "Managing Partner" },
+      { "name": "Tim Bunting", "role": "Partner" },
+      { "name": "Suranga Chandratillake", "role": "Partner" },
+      { "name": "Rob Moffat", "role": "Partner" },
+      { "name": "James Wise", "role": "Partner" },
+      { "name": "Rana Yared", "role": "Partner" }
+    ],
+    "application": { "how_to_apply": "Warm intro / contact via website.", "accepts_cold_inbound": null, "contact": "https://www.balderton.com/" },
+    "tags": ["tier-1", "brand-name", "multi-stage", "generalist", "europe-focused"],
+    "summary": {
+      "en": "Balderton Capital, founded in 2000 as Benchmark Capital Europe and independent since 2007, is a London-based multi-stage VC focused exclusively on European tech founders. It manages around $7B AUM, raised $1.3B in 2024, and has backed Revolut, GoCardless, Depop, Wayve and Dream Games."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Balderton_Capital", "title": "Balderton Capital - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "founding, history, HQ, AUM, fund history, portfolio, partners", "quote": "Founding Year: 2000 ... Originally established as Benchmark Capital Europe in 2000 ... became fully independent in 2007 ... Assets Under Management: $7.0 billion ... 2019: Balderton VII - $400 million fund for Series A ... 2021: Growth fund with $680 million ... 2021: Early-stage fund with $600 million ... 2024: Raised $1.3 billion across Early and Growth funds, described as the largest raise for a European venture firm at the time" },
+      { "url": "https://visible.vc/blog/largest-vc-investors/", "title": "The Largest Venture Capital Firms in 2026", "publisher": "Visible.vc / Dealroom", "accessed": "2026-06-02", "supports": "multi-stage positioning", "quote": "Balderton is one of the few European firms with a multi-stage platform that can lead seed and follow all the way through Series C without handing off" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM cited as $7.0B (Wikipedia) and '~$3B+ across eight funds' / '$4.5B' in some secondary lists — figures vary by date and methodology; used Wikipedia's $7.0B with the spread noted. Basepoint lists a Fund VIII of $1.7B (2022) not in Wikipedia; left out pending stronger confirmation.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "eu-northzone",
+    "name": { "en": "Northzone" },
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 1996,
+    "region": "europe",
+    "country": "Sweden",
+    "hq_city": "Stockholm",
+    "offices": [
+      { "country": "Sweden", "city": "Stockholm" },
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "United States", "city": "New York" },
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "Netherlands", "city": "Amsterdam" }
+    ],
+    "website": "https://northzone.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/northzone",
+      "crunchbase": "https://www.crunchbase.com/organization/northzone-ventures",
+      "other": ["https://nordic9.com/companies/northzone-investor6213159527/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "€1 billion (Fund X, 2022)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Northzone X", "vintage_year": 2022, "size": { "raw": "€1 billion (largest fund to date)", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": "$1 million to $40 million", "usd_min": 1000000, "usd_max": 40000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United States"],
+      "sector_focus": ["generalist", "fintech", "consumer", "saas-enterprise", "ai-ml", "climate-energy", "healthtech"],
+      "thesis": "Multi-stage venture fund (seed to growth/IPO) backing category-defining European tech founders for nearly 30 years, with the ~40% of its €1B fund allocatable to later-stage rounds."
+    },
+    "track_record": {
+      "portfolio_count": "250+",
+      "notable_investments": [
+        { "company": "Spotify", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Klarna", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Trustpilot", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Personio", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Kahoot", "sector": "edtech", "outcome": "IPO" },
+        { "company": "Einride", "sector": "mobility", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Spotify", "type": "IPO", "year": 2018, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Trustpilot", "type": "IPO", "year": 2021, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Sam Endacott", "role": "Partner (early-stage AI)" }
+    ],
+    "application": { "how_to_apply": "Warm intro / contact via website.", "accepts_cold_inbound": null, "contact": "https://northzone.com/" },
+    "tags": ["tier-1", "brand-name", "multi-stage", "generalist", "nordic", "spotify", "klarna"],
+    "summary": {
+      "en": "Northzone is a multi-stage (seed to growth) European VC founded in 1996, with offices across Stockholm, London, New York, Berlin and Amsterdam. Its 10th and largest fund closed at €1 billion in 2022. It has backed 250+ companies including Spotify, Klarna, Trustpilot, Personio and Kahoot.",
+      "local": "Northzone är en svensk-nordisk riskkapitalfond grundad 1996 som investerar i alla skeden (seed till tillväxt). Dess tionde och största fond stängde på 1 miljard euro 2022. Bland portföljbolagen finns Spotify, Klarna och Trustpilot."
+    },
+    "sources": [
+      { "url": "https://www.siliconrepublic.com/start-ups/northzone-fund-1-billion-europe-tech-entrepreneurs-startups", "title": "Northzone raises €1bn fund to back European tech entrepreneurs", "publisher": "Silicon Republic", "accessed": "2026-06-02", "supports": "fund X size, year, stages, check size, portfolio", "quote": "Northzone has raised a €1bn fund to back tech entrepreneurs in Europe ... This is the largest ever fund from Spotify and Klarna-backer Northzone ... from seed stage all the way up to IPO, with individual investments ranging between $1 million to $40 million ... 10th fund cycle since its establishment in 1996" },
+      { "url": "https://northzone.com/", "title": "Northzone is a multi-stage venture capital fund", "publisher": "Northzone", "accessed": "2026-06-02", "supports": "founding year, offices, multi-stage positioning, portfolio", "quote": "Founding Year: 1996; Offices: London, New York, Stockholm, Berlin, Amsterdam ... 'a multi-stage venture capital fund' ... Spotify, Klarna, Trustpilot, Personio, Kahoot ... Einride" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Northzone was founded in Norway/Oslo (1996) by Bjørn Stray and Tellef Thorleifsson; today it is most commonly described as Stockholm/London-based. Country set to Sweden (Stockholm) reflecting current primary base; Nordic/Oslo origin noted. Total AUM not cleanly disclosed; left null (only latest fund size verified).",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "eu-hv-capital",
+    "name": { "en": "HV Capital" },
+    "aka": ["Holtzbrinck Ventures", "HV Holtzbrinck Ventures"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2000,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Munich",
+    "offices": [
+      { "country": "Germany", "city": "Munich" },
+      { "country": "Germany", "city": "Berlin" }
+    ],
+    "website": "https://www.hvcapital.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/hv-capital",
+      "crunchbase": "https://www.crunchbase.com/organization/holtzbrinck-ventures",
+      "other": ["https://tech.eu/2020/10/29/hv-capital-fund/"]
+    },
+    "capital": {
+      "aum": { "raw": "over €2.8 billion", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": "€710 million (Fund IX)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "HV Fund VIII", "vintage_year": 2020, "size": { "raw": "€535 million", "usd": null, "currency": "EUR" } },
+        { "name": "HV Capital continuation fund", "vintage_year": 2022, "size": { "raw": "over €430 million", "usd": null, "currency": "EUR" } },
+        { "name": "HV Fund IX", "vintage_year": 2023, "size": { "raw": "€710 million", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "Germany"],
+      "sector_focus": ["generalist", "consumer", "ecommerce", "fintech", "saas-enterprise", "agritech"],
+      "thesis": "One of Germany's most prominent multi-stage VCs, backing market-leading digital companies from the earliest days through all phases of growth (seed to Series D), with checks across the full lifecycle."
+    },
+    "track_record": {
+      "portfolio_count": "225+",
+      "notable_investments": [
+        { "company": "Zalando", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "HelloFresh", "sector": "agritech", "outcome": "IPO" },
+        { "company": "SumUp", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Flixbus", "sector": "mobility", "outcome": "unicorn" },
+        { "company": "Scalable Capital", "sector": "fintech", "outcome": "unicorn" }
+      ],
+      "exits": [
+        { "company": "Zalando", "type": "IPO", "year": 2014, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "HelloFresh", "type": "IPO", "year": 2017, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Warm intro / contact via website.", "accepts_cold_inbound": null, "contact": "https://www.hvcapital.com/" },
+    "tags": ["tier-1", "brand-name", "multi-stage", "generalist", "germany", "dach"],
+    "summary": {
+      "en": "HV Capital (formerly Holtzbrinck Ventures), founded in 2000 and independent since 2010, is one of Europe's most prominent multi-stage VCs, based in Munich and Berlin with over €2.8B AUM. Its largest fund, Fund IX, closed at €710M. It has backed 225+ startups including Zalando, HelloFresh, SumUp and Flixbus.",
+      "local": "HV Capital (früher Holtzbrinck Ventures), gegründet 2000, ist einer der bekanntesten Multi-Stage-VCs Europas mit Sitz in München und Berlin und über 2,8 Mrd. Euro verwaltetem Vermögen. Der größte Fonds, Fund IX, hat ein Volumen von 710 Mio. Euro. Zu den Beteiligungen zählen Zalando, HelloFresh, SumUp und Flixbus."
+    },
+    "sources": [
+      { "url": "https://www.hvcapital.com/", "title": "HV Capital | Backing those who dare", "publisher": "HV Capital", "accessed": "2026-06-02", "supports": "HQ cities, stages, sample portfolio", "quote": "Berlin and Munich ... 'from the earliest days through all phases of growth' ... Scalable Capital (entry 2015) ... HelloFresh (entry 2011)" },
+      { "url": "https://hub.waveup.com/funds/hv-capital", "title": "HV Capital — VC Fund Profile", "publisher": "Waveup", "accessed": "2026-06-02", "supports": "AUM, Fund IX size, portfolio count, founding, continuation fund", "quote": "founded in 2000 ... With over €2.8 billion in assets under management, HV Capital has backed more than 225 startups, including ... Zalando, HelloFresh, SumUp, and Flixbus ... launched its largest fund, Fund IX, at €710 million ... in 2022 HV Capital announced the first continuation fund in the German tech sector with a size of over €430m" },
+      { "url": "https://tech.eu/2020/10/29/hv-capital-fund/", "title": "HV Holtzbrinck Ventures, now HV Capital, launches €535 million fund", "publisher": "Tech.eu", "accessed": "2026-06-02", "supports": "Fund VIII size (2020), name change", "quote": "HV Holtzbrinck Ventures, now HV Capital, launches €535 million fund with broader investment focus" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund IX reported as 'recently launched' / 2023 by secondary sources; vintage year set to 2023 per Waveup framing. AUM €2.8B and 225+ portfolio consistent across multiple secondary sources. Partner names not individually verified from primary site in this pass (left empty).",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "eu-eqt-ventures",
+    "name": { "en": "EQT Ventures" },
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "europe",
+    "country": "Sweden",
+    "hq_city": "Stockholm",
+    "offices": [
+      { "country": "Sweden", "city": "Stockholm" },
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "France", "city": "Paris" },
+      { "country": "Netherlands", "city": "Amsterdam" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "website": "https://eqtgroup.com/private-capital/eqt-ventures",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/eqt-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/eqtventures",
+      "other": ["https://techcrunch.com/2022/11/08/swedens-eqt-ventures-closes-a-its-third-fund-at-e1-1b-to-double-down-on-european-and-early-stage-startups/"]
+    },
+    "capital": {
+      "aum": { "raw": "€2.3 billion total raised since 2016", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": "€1.1 billion (EQT Ventures III, 2022)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "EQT Ventures I", "vintage_year": 2016, "size": { "raw": "€566 million", "usd": null, "currency": "EUR" } },
+        { "name": "EQT Ventures II", "vintage_year": 2019, "size": { "raw": "€660 million", "usd": null, "currency": "EUR" } },
+        { "name": "EQT Ventures III", "vintage_year": 2022, "size": { "raw": "€1.1 billion", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "€2-50 million", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United States"],
+      "sector_focus": ["generalist", "ai-ml", "fintech", "robotics", "spacetech", "edtech"],
+      "thesis": "Early-stage lead investor (part of listed PE group EQT) backing 'Generation-Defining Companies', writing €2-50M checks across Europe and into the US, supported by EQT's Motherbrain data platform."
+    },
+    "track_record": {
+      "portfolio_count": "140+",
+      "notable_investments": [
+        { "company": "Wolt", "sector": "consumer", "outcome": "acquired" },
+        { "company": "Einride", "sector": "mobility", "outcome": "active" },
+        { "company": "Netlify", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Nothing", "sector": "consumer", "outcome": "active" },
+        { "company": "1X", "sector": "robotics", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Wolt", "type": "M&A", "year": 2022, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Carolina Brochado", "role": "Head / Partner" },
+      { "name": "Ted Persson", "role": "Partner" },
+      { "name": "Sandra Malmberg", "role": "Partner" },
+      { "name": "Kaushik Subramanian", "role": "Partner" }
+    ],
+    "application": { "how_to_apply": "Warm intro / contact via website.", "accepts_cold_inbound": null, "contact": "https://eqtgroup.com/private-capital/eqt-ventures" },
+    "tags": ["tier-1", "brand-name", "early-stage", "generalist", "nordic", "eqt-group", "motherbrain"],
+    "summary": {
+      "en": "EQT Ventures is the early-stage venture arm of listed Swedish PE group EQT, founded in 2015 and based in Stockholm with advisors across six cities. It has raised about €2.3B across three funds (latest €1.1B in 2022, then Europe's largest early-stage fund), writing €2-50M checks into companies like Wolt, Einride, Netlify and Nothing.",
+      "local": "EQT Ventures är riskkapitalarmen för den börsnoterade svenska private equity-gruppen EQT, grundad 2015 med bas i Stockholm. Bolaget har rest cirka 2,3 miljarder euro i tre fonder (senaste 1,1 miljarder euro 2022). Bland portföljbolagen finns Wolt, Einride och Netlify."
+    },
+    "sources": [
+      { "url": "https://eqtgroup.com/private-capital/eqt-ventures", "title": "EQT Ventures", "publisher": "EQT Group", "accessed": "2026-06-02", "supports": "offices, fund sizes, check size, stages, portfolio, partners", "quote": "EQT Ventures is domiciled in Luxembourg, with investment advisors located in Stockholm, Paris, London, New York, Berlin and Amsterdam ... EQT Ventures III: 1.1B EUR (launched 2022) ... EQT Ventures II: 660M EUR (launched 2019) ... EQT Ventures I: 566M EUR (launched 2016) ... Investment Range: 2-50M EUR" },
+      { "url": "https://techcrunch.com/2022/11/08/swedens-eqt-ventures-closes-a-its-third-fund-at-e1-1b-to-double-down-on-european-and-early-stage-startups/", "title": "Sweden's EQT Ventures closes its third fund at €1.1B", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "founding, total raised, fund III, portfolio, unicorns", "quote": "EQT Ventures was founded in 2015 ... the total raised by EQT to €2.3 billion since EQT Ventures launched in 2016 ... 100 companies, with 18 exits and nine unicorns (Wolt, Small Giant Games, Einride, Handshake, Netlify and Instabox/Instabee ...)" },
+      { "url": "https://arcticstartup.com/eqt-ventures-iii-e1-1-billion-fund/", "title": "Swedish VC firm closes Europe's largest venture capital fund committed to early-stage tech startups", "publisher": "ArcticStartup", "accessed": "2026-06-02", "supports": "fund III being Europe's largest early-stage fund", "quote": "EQT Ventures III €1.1 billion fund" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Funds are domiciled in Luxembourg, but the team and identity are Stockholm-led (Swedish EQT group) — country set to Sweden. 'AUM' represented as cumulative €2.3B raised since 2016 rather than a live AUM figure. Portfolio counts vary (100 to 140+) across sources by date.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "eu-lakestar",
+    "name": { "en": "Lakestar" },
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "europe",
+    "country": "Switzerland",
+    "hq_city": "Zurich",
+    "offices": [
+      { "country": "Switzerland", "city": "Zurich" },
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "website": "https://lakestar.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/lakestar-vc/",
+      "crunchbase": "https://www.crunchbase.com/organization/lakestar",
+      "other": ["https://en.wikipedia.org/wiki/Klaus_Hommels"]
+    },
+    "capital": {
+      "aum": { "raw": "over €2 billion across four early-stage funds and two growth funds", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["generalist", "deeptech", "fintech", "healthtech", "saas-enterprise", "gaming", "logistics"],
+      "thesis": "Founded by Klaus Hommels, one of Europe's leading venture capitalists, Lakestar invests across early and growth stages with priorities in deep tech, fintech, healthcare, B2B commerce, games/media, logistics and travel."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Spotify", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Skype", "sector": "consumer", "outcome": "acquired" },
+        { "company": "Revolut", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Isar Aerospace", "sector": "spacetech", "outcome": "active" },
+        { "company": "Sennder", "sector": "logistics", "outcome": "unicorn" }
+      ],
+      "exits": [
+        { "company": "Spotify", "type": "IPO", "year": 2018, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Klaus Hommels", "role": "Founder & Chairman" }
+    ],
+    "application": { "how_to_apply": "Warm intro / contact via website.", "accepts_cold_inbound": null, "contact": "https://lakestar.com/" },
+    "tags": ["tier-1", "brand-name", "multi-stage", "generalist", "dach", "deeptech"],
+    "summary": {
+      "en": "Lakestar is a Zurich-based multi-stage VC founded in 2012 by Klaus Hommels, managing over €2 billion across four early-stage and two growth funds, with offices in Berlin and London. An early backer of Spotify, Skype and Facebook, its portfolio spans deep tech, fintech, healthcare and logistics (Revolut, Isar Aerospace, Sennder).",
+      "local": "Lakestar ist ein in Zürich ansässiger Multi-Stage-VC, gegründet 2012 von Klaus Hommels, der über 2 Milliarden Euro in vier Frühphasen- und zwei Wachstumsfonds verwaltet, mit Büros in Berlin und London. Frühe Investments in Spotify, Skype und Facebook."
+    },
+    "sources": [
+      { "url": "https://lakestar.com/", "title": "Home | Lakestar", "publisher": "Lakestar", "accessed": "2026-06-02", "supports": "stages, sectors, portfolio", "quote": "Seed to Growth stage investments across all stages ... Deep Tech ... Healthcare ... Fintech ... Spotify, Revolut, Blockchain.com, Auterion, Isar Aerospace, Sennder" },
+      { "url": "https://lakestar.com/team/klaus-hommels", "title": "Klaus Hommels | Lakestar", "publisher": "Lakestar", "accessed": "2026-06-02", "supports": "founder, founding year, AUM, offices", "quote": "Lakestar ... founded in 2012 by Klaus Hommels ... manages an aggregated volume of over €2 billion across four early stage funds and two growth funds ... offices in Zurich, Berlin and London" },
+      { "url": "https://www.eu-startups.com/investor/lakestar/", "title": "Lakestar | EU-Startups", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "founder, AUM, sectors, offices", "quote": "founded in 2012 by Klaus Hommels. The firm manages an aggregated volume of over €2 billion across four early stage funds and two growth funds ... B2B commerce, digitization and deep tech, fintech, games and media, healthcare, logistics ... travel ... Berlin and London" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM '€2bn+' is the firm's own aggregate figure; individual fund sizes not cleanly itemized in this pass (funds[] left empty). Facebook/Spotify/Skype credited to Klaus Hommels personally (some pre-Lakestar) as well as the firm.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "eu-creandum",
+    "name": { "en": "Creandum" },
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2003,
+    "region": "europe",
+    "country": "Sweden",
+    "hq_city": "Stockholm",
+    "offices": [
+      { "country": "Sweden", "city": "Stockholm" },
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "website": "https://www.creandum.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/creandum",
+      "crunchbase": "https://www.crunchbase.com/organization/creandum",
+      "other": ["https://siliconcanals.com/creandum-closes-seventh-fund-at-500m/"]
+    },
+    "capital": {
+      "aum": { "raw": "approximately $2 billion", "usd": 2000000000, "currency": "USD" },
+      "current_fund": { "raw": "€500 million (Fund VII)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Creandum I", "vintage_year": 2003, "size": { "raw": "€40 million", "usd": null, "currency": "EUR" } },
+        { "name": "Creandum VI", "vintage_year": 2022, "size": { "raw": "€448 million", "usd": null, "currency": "EUR" } },
+        { "name": "Creandum VII", "vintage_year": null, "size": { "raw": "€500 million", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["generalist", "fintech", "consumer", "saas-enterprise", "ai-ml", "edtech"],
+      "thesis": "One of the earliest believers that global category leaders could be built from Europe; an early-stage (seed and Series A) generalist aiming to make 35-40 investments per fund, with roughly one in eight portfolio companies reaching unicorn status."
+    },
+    "track_record": {
+      "portfolio_count": "150+",
+      "notable_investments": [
+        { "company": "Spotify", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Klarna", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Bolt", "sector": "mobility", "outcome": "unicorn" },
+        { "company": "Pleo", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Kahoot", "sector": "edtech", "outcome": "IPO" },
+        { "company": "Trade Republic", "sector": "fintech", "outcome": "unicorn" }
+      ],
+      "exits": [
+        { "company": "iZettle", "type": "M&A", "year": 2018, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Spotify", "type": "IPO", "year": 2018, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Staffan Helgesson", "role": "Founder, General Partner" }
+    ],
+    "application": { "how_to_apply": "Warm intro / contact via website.", "accepts_cold_inbound": null, "contact": "https://www.creandum.com/" },
+    "tags": ["tier-1", "brand-name", "early-stage", "generalist", "nordic", "spotify"],
+    "summary": {
+      "en": "Creandum is a Stockholm-based early-stage (seed/Series A) generalist VC founded in 2003 by Staffan Helgesson, with offices in Berlin, London and San Francisco and about $2B AUM. Its latest fund (VII) closed at €500M; it has invested in ~150 companies including Spotify, Klarna, Bolt, Pleo and Trade Republic.",
+      "local": "Creandum är en Stockholmsbaserad riskkapitalfond i tidigt skede (seed/Series A), grundad 2003 av Staffan Helgesson, med kontor i Berlin, London och San Francisco och cirka 2 miljarder dollar under förvaltning. Den senaste fonden (VII) stängde på 500 miljoner euro. Portföljen omfattar Spotify, Klarna, Bolt och Pleo."
+    },
+    "sources": [
+      { "url": "https://siliconcanals.com/creandum-closes-seventh-fund-at-500m/", "title": "Klarna, Spotify and Bolt investor Creandum closes seventh fund at €500M", "publisher": "Silicon Canals", "accessed": "2026-06-02", "supports": "founding year, founder, Fund VII size, portfolio", "quote": "Creandum ... founded in 2003 by Staffan Helgesson ... close of Fund VII at €500M ... offices in Stockholm, Berlin, London, and San Francisco ... Bolt, Klarna, Trade Republic, Spotify, iZettle ... Pleo ... Kahoot!" },
+      { "url": "https://www.thevccorner.com/p/how-creandum-built-2b-vc-fund-spotify-lovable", "title": "How Creandum Built a $2B VC Fund Backing Spotify and Lovable", "publisher": "The VC Corner", "accessed": "2026-06-02", "supports": "AUM, first fund size, portfolio count", "quote": "starting with a €40m fund in 2003 ... approximately $2 billion in AUM and has invested in close to 150 companies" },
+      { "url": "https://www.eu-startups.com/2022/03/stockholm-based-vc-firm-creandum-closes-new-e448-million-fund-to-back-eu-founders-at-the-earliest-stages/", "title": "Stockholm-based VC firm Creandum closes new €448 million fund", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "Fund VI size and year", "quote": "Creandum closes new €448 million fund to back EU founders at the earliest stages" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund VII year not pinned to an exact date in fetched sources (left null); Fund VI €448M dated 2022. AUM '~$2B' and 'close to 150 companies' from secondary sources, consistent across multiple outlets.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "eu-earlybird-venture-capital",
+    "name": { "en": "Earlybird Venture Capital" },
+    "aka": ["Earlybird"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 1997,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "offices": [
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "Germany", "city": "Munich" },
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "Italy", "city": "Milan" }
+    ],
+    "website": "https://earlybird.com/",
+    "links": {
+      "linkedin": "https://de.linkedin.com/company/earlybird-venture-capital",
+      "crunchbase": "https://www.crunchbase.com/organization/earlybird-venture-capital",
+      "other": ["https://www.privateequityinternational.com/institution-profiles/earlybird-venture-capital.html"]
+    },
+    "capital": {
+      "aum": { "raw": "€2.5 billion", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "growth"],
+      "check_size": { "raw": "initial tickets up to €12 million", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["generalist", "saas-enterprise", "deeptech", "fintech", "ai-ml"],
+      "thesis": "Pan-European VC investing in tech-enabled companies across all development and growth phases, spanning software applications & infrastructure, deep tech and a dedicated health practice; initial tickets up to €12M (Pre-Seed 20% / Seed 60% / Series A 20%)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "UiPath", "sector": "ai-ml", "outcome": "IPO" },
+        { "company": "N26", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Aleph Alpha", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Trendyol", "sector": "ecommerce", "outcome": "unicorn" },
+        { "company": "Aiven", "sector": "saas-enterprise", "outcome": "unicorn" }
+      ],
+      "exits": [
+        { "company": "UiPath", "type": "IPO", "year": 2021, "value": { "raw": "$1.3bn / 2,200x return on the Digital East fund's stake", "usd": null, "currency": null } }
+      ]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Warm intro / contact via website.", "accepts_cold_inbound": null, "contact": "https://earlybird.com/" },
+    "tags": ["tier-1", "brand-name", "multi-stage", "generalist", "germany", "deeptech"],
+    "summary": {
+      "en": "Earlybird Venture Capital, founded in 1997, is one of Europe's most established pan-European VCs, headquartered in Berlin with €2.5B AUM and a track record of 9 IPOs and 41 trade sales. It invests Pre-Seed to Series A (tickets up to €12M) and has backed UiPath, N26, Aleph Alpha and Trendyol.",
+      "local": "Earlybird Venture Capital, gegründet 1997, ist einer der etabliertesten paneuropäischen VCs mit Sitz in Berlin und 2,5 Mrd. Euro verwaltetem Vermögen sowie 9 Börsengängen und 41 Trade Sales. Investiert wird von Pre-Seed bis Series A (Tickets bis 12 Mio. Euro); Beteiligungen umfassen UiPath, N26 und Aleph Alpha."
+    },
+    "sources": [
+      { "url": "https://earlybird.com/", "title": "Earlybird", "publisher": "Earlybird Venture Capital", "accessed": "2026-06-02", "supports": "founding year, AUM, exits, offices, stages, check size, portfolio", "quote": "Founded: 1997; Assets Under Management: €2.5B; 9 IPOs; 41 trade sales; offices Berlin, London, Milan, Munich; Pre-Seed (20%), Seed (60%), Series A (20%); Initial ticket sizes up to €12m; UiPath, N26, Aleph Alpha, Marvel Fusion, Black Forest Labs, Aiven" },
+      { "url": "https://sifted.eu/articles/uipath-seed-investors", "title": "Early investors in UiPath on track to make a 220,000% return", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "UiPath exit / return", "quote": "Earlybird Digital East ... made as much as a 2,200x return on its UiPath investment when the company went public for $1.3bn in 2021" },
+      { "url": "https://www.eu-startups.com/", "title": "Earlybird Venture Capital profile", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "pan-European positioning, unicorns/IPOs/acquisitions", "quote": "Earlybird's portfolio has seen 8 unicorns, 8 IPOs and 65 acquisitions including key companies like N26, Trendyol and Snyk" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Earlybird operates multiple fund families (e.g. Earlybird-X / UNI-X early-stage, Earlybird Health, and historically Earlybird Digital East, which led UiPath and spun out in 2024). UiPath credited via the Digital East fund. Exit/unicorn counts differ slightly between the firm's own site (9 IPOs / 41 trade sales) and EU-Startups (8 unicorns / 8 IPOs / 65 acquisitions) — both retained with attribution. Individual fund sizes not itemized this pass.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  }
+]

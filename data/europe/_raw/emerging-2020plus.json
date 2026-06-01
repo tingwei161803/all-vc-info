@@ -1,0 +1,1284 @@
+[
+  {
+    "id": "eu-pale-blue-dot",
+    "name": { "en": "Pale Blue Dot" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "europe",
+    "country": "Sweden",
+    "hq_city": "Malmö",
+    "website": "https://paleblue.vc/",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/pale-blue-dot",
+      "other": ["https://climatebase.org/company/822463/pale-blue-dot"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2020, "size": { "raw": "€87M", "usd": null, "currency": "EUR" } },
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "€93M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Europe"],
+      "sector_focus": ["climate-energy", "agritech", "logistics", "biotech"],
+      "thesis": "Early-stage climate tech fund backing founders solving big climate problems across foodtech, agtech, energy, logistics and biotech."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Monta", "sector": "EV charging", "outcome": "active" },
+        { "company": "Hived", "sector": "logistics", "outcome": "active" },
+        { "company": "Overstory", "sector": "climate/AI", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Hampus Jakobsson", "role": "General Partner / Co-founder" },
+      { "name": "Heidi Lindvall", "role": "General Partner / Co-founder" },
+      { "name": "Joel Larsson", "role": "General Partner / Co-founder" }
+    ],
+    "summary": {
+      "en": "Malmö-based climate tech VC founded in 2020, investing pre-seed and seed into European startups solving big climate problems. Closed a €87M debut fund and a €93M Fund II."
+    },
+    "sources": [
+      { "url": "https://techcrunch.com/2020/06/16/pale-blue-dot/", "title": "Pale Blue Dot is a new early-stage fund backing 'climate-focused' startups in Europe", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "founding 2020, Malmö, founders, climate focus", "quote": "Founded in 2020 by Joel Larsson, Heidi Lindvall, and Hampus Jakobsson" },
+      { "url": "https://sifted.eu/articles/pale-blue-dot-vc-87m-fund", "title": "Pooping carbon: Pale Blue Dot closes €87m climate tech fund", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "fund size €87M", "quote": "Pale Blue Dot has raised €87 million after a final close of its debut fund" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I €87M and Fund II €93M reported across TechCrunch, Sifted, Green Queen. Check sizes not disclosed in sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-revent",
+    "name": { "en": "Revent" },
+    "aka": ["Revent VC", "Revent Ventures"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://www.revent.vc/",
+    "links": {
+      "other": ["https://hub.waveup.com/funds/revent"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2022, "size": { "raw": "€60 million ($68 million)", "usd": 68000000, "currency": "EUR" } },
+        { "name": "Fund II", "vintage_year": 2025, "size": { "raw": "€100 million", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Europe"],
+      "sector_focus": ["climate-energy", "healthtech", "impact"],
+      "thesis": "Early-stage impact VC backing companies in climate tech, health and well-being, and economic empowerment across Europe."
+    },
+    "track_record": {
+      "portfolio_count": 26,
+      "notable_investments": [
+        { "company": "Avelios Medical", "sector": "healthtech", "outcome": "active" },
+        { "company": "Granular Energy", "sector": "climate-energy", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Otto Birnbaum", "role": "General Partner / Co-founder" },
+      { "name": "Dr. Lauren Lentz", "role": "General Partner / Co-founder" },
+      { "name": "Emily Brooke MBE", "role": "Founding Partner" },
+      { "name": "Henrik Grosse Hokamp", "role": "Founding Partner" }
+    ],
+    "summary": {
+      "en": "Berlin-based early-stage impact VC launched in 2020/2021, investing across Europe in climate tech, health and economic empowerment. Closed a €60M ($68M) debut fund and a €100M Fund II.",
+      "local": "Berliner Impact-VC, gegründet 2020/2021, investiert europaweit in Klimatechnologie, Gesundheit und wirtschaftliche Teilhabe."
+    },
+    "sources": [
+      { "url": "https://techcrunch.com/2021/02/16/new-european-early-stage-vc-revent-launches-with-its-sights-set-on-a-60m-first-close/", "title": "New European early-stage VC Revent launches with an impact focus", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "Berlin, founders, sectors, €50M target", "quote": "Headquartered in Berlin and investing across Europe, it focuses on climate tech, health and well-being, and economic empowerment" },
+      { "url": "https://techcrunch.com/2022/02/22/europes-revent-hits-68m-hard-cap-on-its-climate-health-impact-focused-fund-2/", "title": "Europe's Revent hits $68M hard cap on its climate, health & impact-focused fund", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "fund size €60M/$68M", "quote": "the final close of a €60 million ($68 million) hard cap" },
+      { "url": "https://sifted.eu/articles/revent-closes-100m", "title": "Early-stage VC Revent closes €100m", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "Fund II €100M, portfolio 26", "quote": "Revent closes €100m to back European climate, health and 'empowerment' startups" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year reported as both 2020 and 2021 across sources; firm launched publicly Feb 2021 with first fund closed 2022.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-vsquared-ventures",
+    "name": { "en": "Vsquared Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Munich",
+    "website": "https://www.vsquared.vc/",
+    "links": {
+      "other": ["https://signal.nfx.com/firms/vsquared-ventures"]
+    },
+    "capital": {
+      "aum": { "raw": "around €450 million", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Fund II", "vintage_year": 2024, "size": { "raw": "€214 million", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "€500,000 to €5 million", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Europe"],
+      "sector_focus": ["deeptech", "spacetech", "ai-ml", "hardware-semiconductor"],
+      "thesis": "Munich-based early-stage deeptech investor backing frontier technology startups across Europe; describes itself as Europe's largest early-stage deep tech fund."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Thomas Oehl", "role": "General Partner / Co-founder" },
+      { "name": "Herbert Mangesius", "role": "General Partner / Co-founder" },
+      { "name": "Benedikt von Schoeler", "role": "Co-founder" }
+    ],
+    "summary": {
+      "en": "Munich deeptech VC founded in 2020, investing €0.5M–€5M into early-stage frontier-tech startups across Europe. Closed a €214M Fund II (2024); ~€450M AUM.",
+      "local": "Münchner Deeptech-VC, gegründet 2020, investiert €0,5–5 Mio. in europäische Frontier-Tech-Startups."
+    },
+    "sources": [
+      { "url": "https://sifted.eu/articles/vsquared-third-deep-tech-fund-news", "title": "Vsquared closes second fund of €214m", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "fund size €214M, founded 2020", "quote": "Vsquared closes second fund of €214m to cash in on Europe's deeptech boom" },
+      { "url": "https://www.eu-startups.com/2024/06/munich-based-vc-vsquared-ventures-closes-e214-million-for-largest-european-early-stage-deep-tech-fund-to-date/", "title": "Munich-based VC Vsquared Ventures closes €214 million", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "founders, founding 2020, ticket size, AUM", "quote": "Vsquared Ventures was founded in 2020 by Thomas Oehl, Herbert Mangesius, and Benedikt von Schoeler" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM ~€450M and ticket €0.5M–€5M reported via EU-Startups/Vestbee.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-possible-ventures",
+    "name": { "en": "Possible Ventures" },
+    "aka": ["Inventures Collective"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Munich",
+    "website": "https://www.possible.ventures/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/possible-ventures"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2021, "size": { "raw": "$65M", "usd": 65000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2023, "size": { "raw": "€60,000,000", "usd": null, "currency": "EUR" } },
+        { "name": "Fund III", "vintage_year": null, "size": { "raw": "€130M+", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Global", "Europe"],
+      "sector_focus": ["deeptech", "climate-energy", "healthtech", "spacetech", "biotech"],
+      "thesis": "Backs ambitious teams building frontier technology to positively impact people and the planet, investing as early as pre-seed or seed in deeptech, healthtech and software platforms."
+    },
+    "people": [],
+    "summary": {
+      "en": "Munich-based early-stage frontier-tech investor; the Possible Ventures brand dates to ~2020 (formerly Inventures Collective) with a first dedicated fund in 2021. Invests pre-seed/seed in deeptech, healthtech and climate."
+    },
+    "sources": [
+      { "url": "https://www.vestbee.com/insights/articles/new-vc-funds-investing-in-european-startups-overview-2021", "title": "New VC Funds Investing In European Startups - Overview 2021", "publisher": "Vestbee", "accessed": "2026-06-02", "supports": "Possible Ventures 2021 fund $65M", "quote": "Possible Ventures | Germany | \"$65M\" | 2021 | N/A | Early-stage tech startups" },
+      { "url": "https://pitchbook.com/profiles/fund/24207-49F", "title": "Possible Ventures Fund III: Performance", "publisher": "PitchBook", "accessed": "2026-06-02", "supports": "Fund III €130M+", "quote": "their fund III was oversubscribed at €130M+" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year ambiguous: some sources say 2013 (as Inventures Collective), others say the Possible Ventures brand launched ~2020 with a first fund in 2021. Founders not consistently disclosed in fetched sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-cusp-capital",
+    "name": { "en": "Cusp Capital" },
+    "aka": ["Cusp Capital Partners"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Essen",
+    "website": "https://www.cuspcapital.com/",
+    "offices": [
+      { "country": "Germany", "city": "Essen" },
+      { "country": "Germany", "city": "Berlin" }
+    ],
+    "links": {},
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2021, "size": { "raw": "€300 million ($361M)", "usd": 361000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Germany", "Europe"],
+      "sector_focus": ["saas-enterprise", "generalist"],
+      "thesis": "Early-stage software and technology investor based in Essen, backing young tech companies across Europe; plans 25-30 investments per fund."
+    },
+    "people": [
+      { "name": "Christian Winter", "role": "Partner" },
+      { "name": "Jan Sessenhausen", "role": "Partner" },
+      { "name": "Helmut Klawitter", "role": "Partner" },
+      { "name": "Wilken Engelbracht", "role": "Partner" }
+    ],
+    "summary": {
+      "en": "Essen-based early-stage VC that launched in 2021 with a €300M ($361M) debut fund for software and tech companies across Germany and Europe.",
+      "local": "VC mit Sitz in Essen, 2021 mit einem €300-Mio-Debütfonds gestartet, investiert in Software- und Tech-Unternehmen in Deutschland und Europa."
+    },
+    "sources": [
+      { "url": "https://techcrunch.com/2021/04/20/cusp-capital-launches-with-a-361m-fund-for-early-stage-startups-in-germany-and-europe/", "title": "Cusp Capital launches with a $361M fund", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "fund size €300M/$361M, Essen, founders, 2021", "quote": "Cusp Capital launches with a $361M fund for early-stage startups in Germany and Europe" }
+    ],
+    "confidence": "high",
+    "verification_notes": "HQ Essen with a second Berlin office; €300M/$361M debut fund confirmed via TechCrunch/PitchBook/Tech.eu.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-10x-founders",
+    "name": { "en": "10x Founders" },
+    "type": "vc",
+    "subtypes": ["angel-network"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Munich",
+    "website": "https://www.10xfounders.com/",
+    "links": {
+      "other": ["https://www.northdata.com/10x%20Founders%20GmbH,%20M%C3%BCnchen/HRB%20259670"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2022, "size": { "raw": "€160 million", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "€500k to €2.5m", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Europe", "United States"],
+      "sector_focus": ["generalist", "saas-enterprise"],
+      "thesis": "Network-driven European early-stage investor backed by 200+ entrepreneurs and 50 angels, investing €0.5M–€2.5M in ambitious founders."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Felix Haas", "role": "Founding Partner" },
+      { "name": "Jan Becker", "role": "Founding Partner" },
+      { "name": "Jan Reichelt", "role": "Founding Partner" },
+      { "name": "Andreas Etten", "role": "Founding Partner" },
+      { "name": "Robert Wuttke", "role": "Founding Partner" }
+    ],
+    "summary": {
+      "en": "Munich-based network-driven early-stage fund set up in 2021/2022 by serial founders, backed by 200+ entrepreneurs and 50 angels, with a €160M debut fund investing €0.5M–€2.5M.",
+      "local": "Münchner Frühphasenfonds, 2021/2022 von Seriengründern aufgesetzt, getragen von über 200 Unternehmern; €160-Mio-Debütfonds."
+    },
+    "sources": [
+      { "url": "https://sifted.eu/articles/german-venture-network-launches-with-160m", "title": "German venture network 10x Founders launches with €160m, backed by 200 entrepreneurs", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "fund size €160M, Munich, 200 entrepreneurs", "quote": "10x Founders launches with €160m, backed by 200 entrepreneurs" },
+      { "url": "https://www.ypog.law/en/press/ypog-advises-10x-founders-on-structuring-160-million-fund", "title": "YPOG advises 10x Founders on structuring €160 million fund", "publisher": "YPOG", "accessed": "2026-06-02", "supports": "€160M fund structure", "quote": "structuring €160 million fund" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund set up in 2021, publicly revealed 2022. Ticket size €0.5M–€2.5M per Startup Intros/OpenVC.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-plural",
+    "name": { "en": "Plural" },
+    "aka": ["Plural Platform"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.pluralplatform.com/",
+    "links": {},
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2022, "size": { "raw": "€250m", "usd": null, "currency": "EUR" } },
+        { "name": "Fund II", "vintage_year": 2024, "size": { "raw": "€400 million ($432M)", "usd": 432000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "€1 and €10m", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["generalist", "climate-energy", "healthtech", "deeptech"],
+      "thesis": "Investment platform whose partners are exclusively former founders and operators (Wise, Skype, Songkick, Teleport), leading early-stage rounds of €1m–€10m in transformational European startups."
+    },
+    "people": [
+      { "name": "Taavet Hinrikus", "role": "Founding Partner (Wise co-founder)" },
+      { "name": "Sten Tamkivi", "role": "Founding Partner" },
+      { "name": "Ian Hogarth", "role": "Founding Partner" },
+      { "name": "Khaled Helioui", "role": "Founding Partner" }
+    ],
+    "summary": {
+      "en": "Founder-led European VC launched June 2022 with a €250M Fund I, followed by a €400M ($432M) Fund II in 2024. Partners are ex-founders/operators who lead €1m–€10m early-stage rounds."
+    },
+    "sources": [
+      { "url": "https://www.businesswire.com/news/home/20220628005148/en/Founders-launch-Plural-a-%E2%82%AC250m-fund-for-fellow-%E2%80%98Unemployables%E2%80%99-building-Europe%E2%80%99s-next-generation-of-tech-companies", "title": "Founders launch Plural: a €250m fund", "publisher": "Business Wire", "accessed": "2026-06-02", "supports": "fund size €250M, June 2022, founders, check size", "quote": "Founders launch Plural: a €250m fund for fellow 'Unemployables'" },
+      { "url": "https://techcrunch.com/2024/01/22/plural-the-vc-led-by-founders-pulls-together-a-new-432m-fund-to-back-european-startups/", "title": "Plural pulls together a new $432M fund", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "Fund II $432M", "quote": "Plural, the VC led by founders, pulls together a new $432M fund to back European startups" }
+    ],
+    "confidence": "high",
+    "verification_notes": "London-HQ (hub) but included for the 2020+ emerging criterion. Launched June 2022.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-climentum-capital",
+    "name": { "en": "Climentum Capital" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "Denmark",
+    "hq_city": "Copenhagen",
+    "website": "https://climentum.com/",
+    "offices": [
+      { "country": "Denmark", "city": "Copenhagen" },
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "Sweden", "city": "Stockholm" }
+    ],
+    "links": {},
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2022, "size": { "raw": "€150 million", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "€1 million to €5 million", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Europe"],
+      "sector_focus": ["climate-energy", "agritech", "mobility", "proptech"],
+      "thesis": "Pan-European Article 9 climate fund using a 'dual carry' tied to CO2 reduction; backs ~25 late-seed to Series A startups in renewables, food/agriculture, industry, buildings, mobility and waste/materials."
+    },
+    "people": [
+      { "name": "Dörte Hirschberg", "role": "General Partner / Co-founder" },
+      { "name": "Yoann Berno", "role": "General Partner / Co-founder" },
+      { "name": "Stefan Maard", "role": "General Partner / Co-founder" },
+      { "name": "Morten Halborg", "role": "General Partner / Co-founder" }
+    ],
+    "summary": {
+      "en": "Pan-European climate VC founded in 2021 with bases in Copenhagen, Berlin and Stockholm. €150M Fund I backs ~25 late-seed/Series A climate startups with €1M–€5M tickets; among Europe's first Article 9 funds."
+    },
+    "sources": [
+      { "url": "https://sifted.eu/articles/climentum-launch-climate-fund", "title": "Climentum launches €150m climate fund", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "fund size €150M", "quote": "Climentum launches €150m climate fund to back moonshot sustainability startups" },
+      { "url": "https://www.eu-startups.com/2022/07/pan-european-climentum-capital-to-launch-a-e150-million-fund-to-support-innovators-accelerating-the-green-transition/", "title": "Pan-European Climentum Capital to launch a €150 million Fund", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "founded 2021, bases, ticket size, 25 startups", "quote": "Founded in 2021, Climentum Capital is a pan-European venture with bases in Copenhagen, Berlin and Stockholm" }
+    ],
+    "confidence": "high",
+    "verification_notes": "HQ stated as Copenhagen with Berlin/Stockholm offices. €150M Fund I, €1M–€5M tickets confirmed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-sandwater",
+    "name": { "en": "Sandwater" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "Norway",
+    "hq_city": "Oslo",
+    "website": "https://sandwater.com/",
+    "links": {},
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2024, "size": { "raw": "1.4bn NOK (approx. €123.2 million / €125M)", "usd": null, "currency": "NOK" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Nordics", "Northern Europe"],
+      "sector_focus": ["climate-energy", "healthtech", "impact"],
+      "thesis": "Article 8 impact investor in early-stage companies tackling global challenges across four verticals: Resource Efficiency, Energy Transition, Impact Enablers and HealthTech."
+    },
+    "track_record": {
+      "portfolio_count": 13,
+      "notable_investments": []
+    },
+    "people": [],
+    "summary": {
+      "en": "Oslo-based impact VC founded in 2021, focused on late-seed to Series B in climate, energy and healthcare across the Nordics/Northern Europe. Closed Fund I at ~1.4bn NOK (~€125M) in 2024 — one of the largest first-time Nordic venture funds.",
+      "local": "Oslo-basert impact-VC, grunnlagt 2021, investerer i klima, energi og helse i Norden. Fond I lukket på ca. 1,4 mrd. NOK i 2024."
+    },
+    "sources": [
+      { "url": "https://sandwater.com/sandwater-announces-successful-final-close-of-venture-fund-at1-4bn-nok", "title": "Sandwater announces successful final close of venture fund at 1.4bn NOK", "publisher": "Sandwater", "accessed": "2026-06-02", "supports": "fund size 1.4bn NOK", "quote": "Sandwater announces successful final close of venture fund at 1.4bn NOK" },
+      { "url": "https://arcticstartup.com/sandwater-closes-venture-fund-at-e1232m/", "title": "Norwegian VC firm Sandwater announces successful final close of venture fund at approx. €125M", "publisher": "ArcticStartup", "accessed": "2026-06-02", "supports": "founded 2021, Oslo, €123.2M, 13 companies, verticals", "quote": "Sandwater closed its venture fund at €123.2 million (1.4 billion NOK)" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding 2021; fund final close ~€123–125M (1.4bn NOK) Jan 2024; ~500M NOK deployed across 13 companies.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-photonventures",
+    "name": { "en": "PhotonVentures" },
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "europe",
+    "country": "Netherlands",
+    "hq_city": "Eindhoven",
+    "website": "https://photonventures.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/photonventures"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2023, "size": { "raw": "€75M (raised); target €100–150M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "€1 million – €2.5 million", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Europe"],
+      "sector_focus": ["deeptech", "hardware-semiconductor"],
+      "thesis": "Deep-tech VC purely focused on integrated photonics, prioritising Series A rounds in photonic chip startups for data transmission, health diagnostics and smart sensor systems."
+    },
+    "people": [
+      { "name": "Ewit Roos", "role": "Partner & Co-founder" },
+      { "name": "Rijkman Groenink", "role": "Partner & Co-founder" },
+      { "name": "Pieter Klinkert", "role": "Partner & Co-founder" },
+      { "name": "Joachim de Sterke", "role": "Partner & Co-founder" }
+    ],
+    "summary": {
+      "en": "Eindhoven-based deep-tech VC spun off from PhotonDelta in 2023, exclusively backing integrated-photonics (photonic chip) startups. Raised €60M first close (rising to €75M), targeting €100–150M, with €1M–€2.5M Series A tickets.",
+      "local": "Deep-tech-VC uit Eindhoven, in 2023 afgesplitst van PhotonDelta, investeert uitsluitend in geïntegreerde fotonica (fotonische chips)."
+    },
+    "sources": [
+      { "url": "https://www.photondelta.com/news/photonventures-raises-e60-million-to-supercharge-europes-photonics-startups/", "title": "PhotonVentures raises €60 million to supercharge Europe's photonics startups", "publisher": "PhotonDelta", "accessed": "2026-06-02", "supports": "€60M first close, target €100-150M, Series A €1-2.5M", "quote": "€60 million was raised in its first financing round... PhotonVentures plans to raise a total of €100 to €150 million" },
+      { "url": "https://photonventures.vc/about.php", "title": "PhotonVentures — About", "publisher": "PhotonVentures", "accessed": "2026-06-02", "supports": "founded 2023, spun off from PhotonDelta, partners", "quote": "In 2023, PhotonVentures, initially a private investment arm within PhotonDelta, spun off as an independent entity." },
+      { "url": "https://siliconcanals.com/photonventures-closes-second-fundraising-round/", "title": "Eindhoven's PhotonVentures closes second fundraising round for its fund at €75M", "publisher": "Silicon Canals", "accessed": "2026-06-02", "supports": "total €75M raised", "quote": "PhotonVentures closes second fundraising round for its fund at €75M" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Spun off from PhotonDelta (founded 2014) as an independent entity in 2023. €1M–€2.5M Series A tickets confirmed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-axeleo-capital",
+    "name": { "en": "Axeleo Capital" },
+    "aka": ["Axeleo", "AXC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Lyon",
+    "website": "https://www.axc.vc/",
+    "links": {},
+    "capital": {
+      "funds": [
+        { "name": "GreenTech Industry I", "vintage_year": 2024, "size": { "raw": "€125m first close, targeting €250m", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": "€3M to €10M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["climate-energy", "agritech", "mobility"],
+      "thesis": "First-of-a-kind (FOAK) climate tech fund helping European founders industrialise; 15-20 investments in energy, chemicals/materials, agriculture/food and mobility with €3M–€10M lead tickets."
+    },
+    "people": [
+      { "name": "Marc Lechantre", "role": "Partner (leads FOAK fund)" }
+    ],
+    "summary": {
+      "en": "Lyon-based VC (founded 2017) whose 2024 first-of-a-kind climate fund reached a €125M first close, targeting €250M, to solve climate tech's FOAK financing gap with €3M–€10M tickets across Europe.",
+      "local": "VC basé à Lyon (créé en 2017) ; son fonds climat « first-of-a-kind » 2024 a réalisé un premier closing de 125 M€, objectif 250 M€."
+    },
+    "sources": [
+      { "url": "https://sifted.eu/articles/axeleo-capital-foak-fund-climate-tech-news", "title": "Axeleo Capital's new fund hopes to help solve climate tech's FOAK problem", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "€125M first close, €250M target, €3M-€10M tickets, 15-20 investments", "quote": "Axeleo Capital's new fund has reached a first close of €125m, targeting €250m by 2026" },
+      { "url": "https://tech.eu/2024/11/06/french-axeleo-capital-launches-125m-fund-for-climate-tech/", "title": "French Axeleo Capital launches €125M fund for climate tech", "publisher": "Tech.eu", "accessed": "2026-06-02", "supports": "Lyon-based, €125M climate fund", "quote": "Lyon-based VC Axeleo Capital" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Firm founded 2017 (not 2020+); included for non-hub (Lyon) criterion. The featured FOAK climate fund is a 2024 vehicle.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-northern-gritstone",
+    "name": { "en": "Northern Gritstone" },
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "Manchester",
+    "website": "https://www.northern-gritstone.com/",
+    "offices": [
+      { "country": "United Kingdom", "city": "Manchester" },
+      { "country": "United Kingdom", "city": "Leeds" },
+      { "country": "United Kingdom", "city": "Sheffield" }
+    ],
+    "links": {},
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2023, "size": { "raw": "£312m", "usd": null, "currency": "GBP" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["United Kingdom"],
+      "sector_focus": ["deeptech", "biotech", "healthtech", "ai-ml", "hardware-semiconductor"],
+      "thesis": "Investment business focused on university spin-outs and IP-rich businesses in the North of England, commercialising research from the Universities of Manchester, Leeds and Sheffield."
+    },
+    "track_record": {
+      "portfolio_count": 15,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Lord Jim O'Neill", "role": "Chair" },
+      { "name": "Duncan Johnson", "role": "Chief Executive" }
+    ],
+    "summary": {
+      "en": "Northern England spin-out investor launched July 2021 by the Universities of Manchester, Leeds and Sheffield. Closed a £312m fund (2023), anchored by local authority pension funds, and has backed 15 regional companies in advanced materials, life sciences, healthtech and AI."
+    },
+    "sources": [
+      { "url": "https://www.manchester.ac.uk/about/news/northern-gritstone-secures-final-close-of-312m-with-broad-base-of-investors/", "title": "Northern Gritstone secures final close of £312m", "publisher": "University of Manchester", "accessed": "2026-06-02", "supports": "fund size £312m, 15 companies", "quote": "has announced a final close of £312m, anchored by investments from local authority pension funds" },
+      { "url": "https://www.leeds.ac.uk/news-university/news/article/4808/northern-universities-launch-new-investment-company", "title": "Northern universities launch new investment company", "publisher": "University of Leeds", "accessed": "2026-06-02", "supports": "launched July 2021, three universities", "quote": "launched in July 2021 by the Universities of Manchester, Leeds and Sheffield" }
+    ],
+    "confidence": "high",
+    "verification_notes": "£312m final close (Oct 2023). Launched July 2021. Offices across Manchester/Leeds/Sheffield.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-par-equity",
+    "name": { "en": "Par Equity" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2008,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "Edinburgh",
+    "website": "https://www.parequity.com/",
+    "offices": [
+      { "country": "United Kingdom", "city": "Edinburgh" },
+      { "country": "United Kingdom", "city": "Leeds" }
+    ],
+    "links": {},
+    "capital": {
+      "funds": [
+        { "name": "Par Equity Ventures I LP", "vintage_year": 2023, "size": { "raw": "£67m first close, targeting £100m", "usd": null, "currency": "GBP" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a"],
+      "check_size": { "raw": "£5m to £20m (rounds led/supported)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United Kingdom"],
+      "sector_focus": ["deeptech", "saas-enterprise", "generalist"],
+      "thesis": "Edinburgh-based VC investing in high-growth tech companies in the North of England, Northern Ireland and Scotland; leads or supports Series A rounds of £5m–£20m."
+    },
+    "track_record": {
+      "portfolio_count": 77,
+      "notable_investments": []
+    },
+    "people": [],
+    "summary": {
+      "en": "Edinburgh-based (with Leeds office) VC focused on Northern UK, Northern Ireland and Scotland. Its 2023 Par Equity Ventures I fund had a £67m first close, targeting £100m, backed by the Scottish National Investment Bank and British Business Investments. Founded 2008; £160m invested across 77 companies."
+    },
+    "sources": [
+      { "url": "https://www.british-business-bank.co.uk/news-and-events/news/par-equity-launches-ps100m-fund-help-scale-high-growth-tech-companies-north", "title": "Par Equity launches £100m fund to help scale high-growth tech companies in the North", "publisher": "British Business Bank", "accessed": "2026-06-02", "supports": "£67m first close, £100m target, £5m-£20m Series A, regions", "quote": "secured a first close of £67m... full £100m target fund size" },
+      { "url": "https://www.parequity.com/", "title": "Par Equity", "publisher": "Par Equity", "accessed": "2026-06-02", "supports": "founded 2008, £160m across 77 companies", "quote": "Since it was founded in 2008, Par Equity has invested over £160m across 77 companies" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Firm founded 2008 (not 2020+); included for non-hub criterion (Edinburgh + Leeds, Northern UK focus). The £100m Ventures I fund is a 2023 vehicle.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-underline-ventures",
+    "name": { "en": "Underline Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "Romania",
+    "hq_city": "Bucharest",
+    "website": "https://underline.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/person/bogdan-iordache"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2023, "size": { "raw": "$20m (€18.4M)", "usd": 20000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "average $500K", "usd_min": 500000, "usd_max": 500000 },
+      "geo_focus": ["Central and Eastern Europe"],
+      "sector_focus": ["generalist", "saas-enterprise"],
+      "thesis": "Eastern Europe's first solo-GP venture fund, backing 20+ early-stage startups founded by Eastern European founders with global ambitions; average $500K ticket."
+    },
+    "track_record": {
+      "portfolio_count": 7,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Bogdan Iordache", "role": "General Partner / Founder (How to Web founder)" }
+    ],
+    "summary": {
+      "en": "Bucharest-based solo-GP fund launched in 2022 by Bogdan Iordache, billed as Eastern Europe's first solo-GP venture fund. Closed Fund I at $20M (€18.4M) in 2023 to back 20+ Eastern European early-stage startups with ~$500K tickets."
+    },
+    "sources": [
+      { "url": "https://tech.eu/2023/11/15/eastern-europe-s-first-solo-gp-venture-fund-underline-ventures-achieves-20m-target/", "title": "Eastern Europe's first solo GP venture fund, Underline Ventures, achieves $20M target", "publisher": "Tech.eu", "accessed": "2026-06-02", "supports": "$20M fund, solo GP, launched 2022", "quote": "Eastern Europe's first solo GP venture fund, Underline Ventures, achieves $20M target" },
+      { "url": "https://siliconcanals.com/underline-ventures-closes-fund-at-18-4m/", "title": "Romania's Underline Ventures closes first fund at €18.4M", "publisher": "Silicon Canals", "accessed": "2026-06-02", "supports": "€18.4M, Eastern Europe early-stage", "quote": "Underline Ventures closes first fund at €18.4M to back early-stage Eastern European founders" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Launched 2022, final close Nov 2023 at $20M. Average ticket $500K; 7 investments at close.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-orbit-capital",
+    "name": { "en": "Orbit Capital" },
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "europe",
+    "country": "Czech Republic",
+    "hq_city": "Prague",
+    "website": "https://www.orbitcapital.eu/",
+    "offices": [
+      { "country": "Czech Republic", "city": "Prague" },
+      { "country": "Poland", "city": "Warsaw" }
+    ],
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/orbit-capital"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Growth Debt I", "vintage_year": 2019, "size": { "raw": "€40 million", "usd": null, "currency": "EUR" } },
+        { "name": "Growth Debt II", "vintage_year": 2025, "size": { "raw": "€100 million", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-b", "series-c-plus"],
+      "check_size": { "raw": "€3 million and €10 million (loans)", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Central and Eastern Europe"],
+      "sector_focus": ["saas-enterprise", "fintech", "generalist"],
+      "thesis": "Venture/growth debt provider offering alternative financing to fast-growing CEE tech companies underserved by traditional banks, with €3M–€10M loans."
+    },
+    "track_record": {
+      "portfolio_count": 15,
+      "notable_investments": [
+        { "company": "Rohlík", "sector": "ecommerce", "outcome": "active" },
+        { "company": "Twisto", "sector": "fintech", "outcome": "active" },
+        { "company": "CloudTalk", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "summary": {
+      "en": "Prague- and Warsaw-based venture/growth debt manager founded in 2019, providing €3M–€10M loans to CEE tech scaleups overlooked by banks. Debut €40M fund followed by a €100M Growth Debt II (2025); 15 companies financed including Rohlík, Twisto and CloudTalk."
+    },
+    "sources": [
+      { "url": "https://www.eu-startups.com/2025/06/czech-investment-manager-orbit-capital-launches-e100-million-growth-debt-ii-fund-to-support-tech-companies-overlooked-by-banks/", "title": "Czech investment manager Orbit Capital launches €100 million Growth Debt II fund", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "founded 2019, Prague/Warsaw, €100M fund, €40M debut, €3-10M loans, 15 companies", "quote": "Orbit Capital was founded in 2019 and is based in Prague and Warsaw" },
+      { "url": "https://techfundingnews.com/orbit-capital-launches-e100m-venture-debt-fund-to-fuel-central-and-eastern-europes-tech-scaleups/", "title": "Orbit Capital launches €100M venture debt fund", "publisher": "Tech Funding News", "accessed": "2026-06-02", "supports": "€100M venture debt fund for CEE", "quote": "Orbit Capital launches €100M venture debt fund to fuel Central and Eastern Europe's tech scaleups" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2019 (just outside 2020+); strongly qualifies on non-hub (Prague/Warsaw, CEE) criterion. Provides growth/venture debt rather than equity.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-radix-ventures",
+    "name": { "en": "Radix Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "europe",
+    "country": "Poland",
+    "hq_city": "Warsaw",
+    "website": "https://www.radix-vc.com/",
+    "links": {},
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2024, "size": { "raw": "€41M first close, targeting €60M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "€1-2M", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Central and Eastern Europe"],
+      "sector_focus": ["deeptech", "climate-energy", "hardware-semiconductor"],
+      "thesis": "Backs late-seed deep tech startups and spinouts in Central and Eastern Europe, aiming to boost Europe's competitiveness in energy and manufacturing; 16-20 companies."
+    },
+    "people": [
+      { "name": "Paweł Bochniarz", "role": "Managing Partner / Co-founder" },
+      { "name": "Wojciech Ratymirski", "role": "Partner / Co-founder" },
+      { "name": "Michał Urbanowski", "role": "Partner / Co-founder" }
+    ],
+    "summary": {
+      "en": "Warsaw-based deep tech VC established in 2024, backing late-seed CEE startups and spinouts with €1–2M tickets. First close of €41M (target €60M), anchored by the EIF and PFR Ventures.",
+      "local": "Warszawski fundusz deep tech założony w 2024 r., inwestujący w startupy i spin-outy z Europy Środkowo-Wschodniej; pierwsze zamknięcie €41 mln."
+    },
+    "sources": [
+      { "url": "https://sifted.eu/articles/radix-polish-vc-cee-deeptech-startups-spinouts-news", "title": "Meet Radix, a new Polish VC for CEE deeptech startups and spinouts", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "Warsaw, CEE deeptech, spinouts", "quote": "Meet Radix, a new Polish VC for CEE deeptech startups and spinouts" },
+      { "url": "https://ucluster.org/en/blog/2024/06/radix-ventures-announces-first-closing/", "title": "Radix Ventures Announces First Closing of €41M Fund Backed by the EIF and PFR Ventures", "publisher": "U!Cluster", "accessed": "2026-06-02", "supports": "€41M first close, €60M target, EIF/PFR, founders, established 2024", "quote": "Radix Ventures was established in 2024... announced its first closing of €41 million in June 2024" }
+    ],
+    "confidence": "high",
+    "verification_notes": "€41M first close (June 2024), €60M target. Founders previously ran ValueTech. €1-2M tickets, 16-20 startups planned.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-33n-ventures",
+    "name": { "en": "33N Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "Portugal",
+    "hq_city": "Porto",
+    "website": "https://www.33n.vc/",
+    "offices": [
+      { "country": "Portugal", "city": "Porto" },
+      { "country": "Spain", "city": "Madrid" }
+    ],
+    "links": {},
+    "capital": {
+      "funds": [
+        { "name": "Cybersecurity and Infrastructure Software Fund", "vintage_year": 2024, "size": { "raw": "€50 million first close, €150 million target", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": "€4-12 million per deal", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Europe", "Israel", "United States"],
+      "sector_focus": ["cybersecurity", "saas-enterprise", "ai-ml"],
+      "thesis": "Early growth-stage cybersecurity and infrastructure software investor backing Series A/B B2B companies with proven technology and commercial revenues across Europe, Israel and the US."
+    },
+    "people": [
+      { "name": "Carlos Alberto Silva", "role": "Managing Partner / Co-founder" },
+      { "name": "Carlos Moreira da Silva", "role": "Managing Partner / Co-founder" }
+    ],
+    "summary": {
+      "en": "Porto- and Madrid-based cybersecurity and infrastructure-software VC founded in 2022. Its inaugural fund targets €150M (first close €50M, Jan 2024), writing €4–12M Series A/B cheques across Europe, Israel and the US."
+    },
+    "sources": [
+      { "url": "https://www.investporto.pt/en/news/33n-ventures-launches-with-150m-cybersecurity-and-infrastructure-software-fund/", "title": "33N Ventures launches with €150m cybersecurity and infrastructure software fund", "publisher": "InvestPorto", "accessed": "2026-06-02", "supports": "€150M fund, Porto, cybersecurity", "quote": "33N Ventures launches with €150m cybersecurity and infrastructure software fund" },
+      { "url": "https://ecs-org.eu/33n-cybersecurity-and-infrastructure-software-fund-announces-first-close-at-e50-million-to-invest-across-the-globe/", "title": "33N Cybersecurity and Infrastructure Software Fund Announces First Close at €50 million", "publisher": "ECSO", "accessed": "2026-06-02", "supports": "€50M first close", "quote": "33N Cybersecurity and Infrastructure Software Fund Announces First Close at €50 million" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2022 by Carlos Alberto Silva and Carlos Moreira da Silva. €50M first close Jan 2024, €150M target. €4-12M tickets.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-faber",
+    "name": { "en": "Faber" },
+    "aka": ["Faber Ventures", "Faber VC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "Portugal",
+    "hq_city": "Lisbon",
+    "website": "https://faber.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/faber-ventures"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Faber Blue Pioneers I", "vintage_year": 2022, "size": { "raw": "€32 million", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Portugal", "Southern Europe", "Iberia"],
+      "sector_focus": ["deeptech", "climate-energy", "biotech", "agritech"],
+      "thesis": "Faber Blue Pioneers is the first deep tech fund for blue economy and climate action in Iberia, backing 20-25 early-stage startups in blue biotech, ocean health and decarbonization."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Rita Sousa", "role": "Partner (Faber Blue Pioneers)" },
+      { "name": "Carlos Esteban", "role": "Partner (Faber Blue Pioneers)" },
+      { "name": "Bruno Ferreira", "role": "Venture Partner" }
+    ],
+    "summary": {
+      "en": "Lisbon-based deep tech VC. Its Faber Blue Pioneers I fund (launched 2021, closed €32M in 2022) is the first deep tech fund for the blue economy and climate action in Iberia, backing 20-25 early-stage startups.",
+      "local": "VC deep tech de Lisboa; o fundo Faber Blue Pioneers I (€32M, 2022) é o primeiro fundo deep tech para a economia azul e ação climática na Península Ibérica."
+    },
+    "sources": [
+      { "url": "https://www.eu-startups.com/2022/06/lisbon-based-faber-closes-climate-focused-fund-at-e32-million/", "title": "Lisbon-based Faber completes first close of climate-focused fund at €32 million", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "€32M close, Lisbon, partners", "quote": "Lisbon-based Faber completes first close of climate-focused fund at €32 million" },
+      { "url": "https://www.eif.org/what_we_do/equity/news/2021/portugal-blue-approves-investment-in-faber-blue-pioneers.htm", "title": "PORTUGAL BLUE approves investment in Faber Blue Pioneers I", "publisher": "European Investment Fund", "accessed": "2026-06-02", "supports": "first deep tech fund for blue economy/climate in Iberia", "quote": "Faber Blue Pioneers I, the first \"deep tech\" fund for blue economy and climate action in Iberia" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Faber the firm has earlier roots; the Faber Blue Pioneers I fund launched 2021 and closed €32M in 2022. Included for the new fund + Lisbon (non-hub) angle.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-baltic-sandbox-ventures",
+    "name": { "en": "Baltic Sandbox Ventures" },
+    "aka": ["BSV Ventures"],
+    "type": "vc",
+    "subtypes": ["accelerator", "micro-vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "Lithuania",
+    "hq_city": "Vilnius",
+    "website": "https://bsv.ventures/",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/baltic-sandbox-ventures",
+      "linkedin": "https://lt.linkedin.com/company/baltic-sandbox-ventures"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I (deeptech)", "vintage_year": 2022, "size": { "raw": "€10m raised, targeting €13m", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "acceleration €25,500; pre-seed up to €100,000; seed follow-on €200,000–€400,000", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Baltics", "Europe"],
+      "sector_focus": ["deeptech", "biotech"],
+      "thesis": "First Baltic fund focused on early-stage deeptech and life sciences; combines an accelerator with pre-seed and seed follow-on investing, aiming to accelerate up to 60 teams."
+    },
+    "program": {
+      "cohort_size": "up to 60 teams (total)",
+      "investment": { "raw": "€25,500 acceleration ticket", "usd": null, "currency": "EUR" },
+      "eligibility": "Early-stage deeptech and life science teams in the Baltics/Europe"
+    },
+    "people": [
+      { "name": "Sandra Golbreich", "role": "Co-founder" },
+      { "name": "Andrius Milinavičius", "role": "Co-founder" },
+      { "name": "Erik Bhullar", "role": "Co-founder" }
+    ],
+    "summary": {
+      "en": "Vilnius-based deeptech fund and accelerator launched in 2022 — the first in the Baltics focused on early-stage deeptech and life sciences. Raised €10M of a €13M target, cornerstoned by Lithuanian agency INVEGA.",
+      "local": "Vilniuje įsikūręs deeptech fondas ir akseleratorius, įsteigtas 2022 m. — pirmasis Baltijos šalyse, orientuotas į ankstyvosios stadijos deeptech ir gyvybės mokslus."
+    },
+    "sources": [
+      { "url": "https://sifted.eu/articles/baltic-sandbox-fund-deeptech-lithuania-baltics", "title": "Baltic Sandbox targets €13m fund to develop deeptech ecosystem in the region", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "€10m raised, €13m target, first Baltic deeptech fund", "quote": "raised €10m for its first deeptech fund, out of a target final close of €13m" },
+      { "url": "https://arcticstartup.com/baltic-sandbox-ventures-e13m-vc-fund/", "title": "Lithuanian VC firm Baltic Sandbox Ventures lines up €13M fund", "publisher": "ArcticStartup", "accessed": "2026-06-02", "supports": "founders, INVEGA, ticket sizes, 60 teams", "quote": "The firm was founded by regional investors Sandra Golbreich, Andrius Milinavičius, and Erik Bhullar" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Rebranded to BSV Ventures. Tickets: €25,500 acceleration, up to €100k pre-seed, €200k–€400k seed follow-on.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-evercurious-vc",
+    "name": { "en": "Evercurious VC" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "europe",
+    "country": "Greece",
+    "hq_city": "Athens",
+    "website": "https://www.evercurious.vc/",
+    "links": {
+      "linkedin": "https://gr.linkedin.com/company/evercurious"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2024, "size": { "raw": "€12.5m closed, target €20m", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Greece", "Europe"],
+      "sector_focus": ["deeptech", "robotics", "climate-energy", "healthtech", "mobility"],
+      "thesis": "Backs purpose-driven founders at the intersection of hardware and software in clean energy, medtech, advanced mobility and robotics, building a portfolio of ~20 pre-seed/seed companies."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Alex Vamvakas", "role": "General Partner / Co-founder (ex-CERN)" },
+      { "name": "George Georgiadis", "role": "General Partner / Co-founder (ex-Volkswagen)" }
+    ],
+    "summary": {
+      "en": "Athens-based early-stage deep tech fund launched in 2024 by two engineers-turned-investors, backed by the Hellenic Development Bank of Investments. Closed €12.5M of a €20M target for hardware/software convergence startups.",
+      "local": "Νέο fund deep tech με έδρα την Αθήνα (2024) από δύο μηχανικούς-επενδυτές, με υποστήριξη της HDBI· έκλεισε €12,5 εκατ. με στόχο τα €20 εκατ."
+    },
+    "sources": [
+      { "url": "https://therecursive.com/evercurious-vc-fund-greece-europe-deep-tech-george-georgiadis/", "title": "Evercurious VC, a New Venture Fund for Greek Startups by Engineers-Turned-Investors", "publisher": "The Recursive", "accessed": "2026-06-02", "supports": "founders, ex-CERN/Volkswagen, deeptech focus, HDBI", "quote": "Evercurious VC, a New Venture Fund for Greek Startups by Engineers-Turned-Investors" },
+      { "url": "https://sifted.eu/articles/new-european-vc-funds-2024", "title": "All the new first-time European VC funds of 2024", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "€12.5m closed, €20m target, Athens", "quote": "Evercurious VC | Athens | \"Closed €12.5m, target €20m\"" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Launched 2024, €12.5M first close, €20M target. Second closing planned for 2025.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-rialto-ventures",
+    "name": { "en": "Rialto Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2023,
+    "region": "europe",
+    "country": "Italy",
+    "hq_city": "Venice",
+    "website": "https://rialto.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/rialto-ventures"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Rialto I", "vintage_year": 2024, "size": { "raw": "€55 million raised, targeting €100M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Europe"],
+      "sector_focus": ["deeptech", "robotics", "ai-ml", "cybersecurity", "saas-enterprise"],
+      "thesis": "Backs European founders in hard tech sectors (developer tools, robotics, non-gen AI, cybersecurity, AR/VR, enterprise SaaS, tech-enabled healthcare) at Series A with industrial-scale digital transformation potential."
+    },
+    "track_record": {
+      "portfolio_count": 8,
+      "notable_investments": [
+        { "company": "Keyless", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "V-Nova", "sector": "deeptech", "outcome": "active" },
+        { "company": "Roboze", "sector": "robotics", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Simone Brunozzi", "role": "General Partner (ex-AWS, ex-VMware)" },
+      { "name": "Stefano Quintarelli", "role": "Partner" },
+      { "name": "Alessandro Profumo", "role": "Partner" }
+    ],
+    "summary": {
+      "en": "Venice-based hard tech VC that emerged from stealth in 2024 with €55M raised (targeting €100M) and 8 investments already made, backing European Series A founders in deeptech, robotics, AI and cybersecurity.",
+      "local": "VC hard tech con sede a Venezia, uscito dallo stealth nel 2024 con €55M raccolti (obiettivo €100M) e 8 investimenti già effettuati."
+    },
+    "sources": [
+      { "url": "https://tech.eu/2024/05/28/european-hardtech-vc-emerges-with-eur55m-already-backs-8-investments-pen-spark/", "title": "European hardtech VC emerges with €55M and has already backed 8 investments", "publisher": "Tech.eu", "accessed": "2026-06-02", "supports": "€55M raised, 8 investments, Venice, €100M target", "quote": "European hardtech VC emerges with €55M and has already backed 8 investments" },
+      { "url": "https://sifted.eu/articles/new-european-vc-funds-2024", "title": "All the new first-time European VC funds of 2024", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "Venice, €55M closed, €100M target, founders", "quote": "Rialto Ventures | Venice, Italy | \"Closed €55m, target €100m\" | Simone Brunozzi, Stefano Quintarelli, Alessandro Profumo" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Emerged from stealth May 2024 with €55M and 8 investments; targeting €100M Rialto I.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-italian-founders-fund",
+    "name": { "en": "Italian Founders Fund" },
+    "aka": ["IFF"],
+    "type": "vc",
+    "subtypes": ["angel-network"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "europe",
+    "country": "Italy",
+    "hq_city": "Milan",
+    "website": "https://www.italianfoundersfund.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/italian-founders-fund"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2024, "size": { "raw": "€50m", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€500,000 to €1.5 million (plus up to €2.5M follow-on)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Italy", "Europe"],
+      "sector_focus": ["generalist"],
+      "thesis": "First Italian VC created by founders for founders; leads pre-seed and seed rounds of startups led by Italian founders (in Italy or abroad) and foreign startups entering the Italian market; 25 deals planned."
+    },
+    "people": [
+      { "name": "Lorenzo Franzi", "role": "Managing Partner (ex-Global Founders Capital)" }
+    ],
+    "summary": {
+      "en": "Milan-based €50M debut fund (2024) managed by Koinos Capital and backed by 100+ Italian founders. Leads pre-seed/seed rounds (€0.5M–€1.5M) for Italian-founded startups globally; 25 deals planned.",
+      "local": "Fondo italiano da €50M (2024) gestito da Koinos Capital e sostenuto da oltre 100 founder italiani; investe in pre-seed/seed di startup fondate da italiani."
+    },
+    "sources": [
+      { "url": "https://sifted.eu/articles/italian-founders-fund-vc-news", "title": "Italian Founders Fund: a new €50m VC fund with 100 founder backers", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "€50M, 100 founders, Milan", "quote": "Italian Founders Fund: a new €50m VC fund with 100 founder backers" },
+      { "url": "https://www.eu-startups.com/2024/06/milan-based-vc-italian-founders-fund-raises-inaugural-e50-million-for-seed-and-pre-seed-startups/", "title": "Milan-based VC Italian Founders Fund raises inaugural €50 million", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "€50M debut, Koinos Capital, ticket €0.5-1.5M, 25 deals, Lorenzo Franzi", "quote": "IFF aims to complete 25 transactions over its investment period, with initial investments ranging from €500,000 to €1.5 million" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Launched 2024, €50M, managed by Koinos Capital (Milan). Led by Lorenzo Franzi (ex-Global Founders Capital).",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-kost-capital",
+    "name": { "en": "Kost Capital" },
+    "type": "vc",
+    "subtypes": ["venture-studio", "micro-vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "europe",
+    "country": "Denmark",
+    "hq_city": "Frederiksberg",
+    "website": "https://www.kost.capital/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/kost-capital/"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2024, "size": { "raw": "€25 million (target)", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€750,000 and €1 million (average)", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Europe"],
+      "sector_focus": ["agritech", "climate-energy", "biotech"],
+      "thesis": "Early-stage foodtech fund with an attached test kitchen and food-development studio (Kost Studio), investing in 20-25 European startups using renewable biological resources to produce food."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Äio", "sector": "agritech", "outcome": "active" },
+        { "company": "Numi", "sector": "agritech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Bodil Sidén", "role": "General Partner / Co-founder" },
+      { "name": "Mark Emil Hermansen", "role": "Co-founder / Founding LP" },
+      { "name": "Kasper Hulthin", "role": "Founding LP" }
+    ],
+    "summary": {
+      "en": "Copenhagen-area (Frederiksberg) foodtech fund launched January 2024 with a €25M target, backed by Danish sovereign fund EIFO. Runs a test kitchen/food-development studio and invests €750k–€1M in 20-25 European bioeconomy foodtech startups.",
+      "local": "Foodtech-fond i Frederiksberg lanceret januar 2024 med et mål på €25M, støttet af den danske statsfond EIFO; investerer €750k–€1M i europæiske foodtech-startups."
+    },
+    "sources": [
+      { "url": "https://www.eu-startups.com/2024/01/copenhagen-based-kost-capital-completes-first-close-of-e25-million-target-fund-to-invest-in-foodtech-in-europe/", "title": "Copenhagen-based Kost Capital completes first close of €25 million target fund", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "€25M target, foodtech, Europe", "quote": "Kost Capital completes first close of €25 million target fund to invest in foodtech in Europe" },
+      { "url": "https://techcrunch.com/2024/01/26/kost-capital-europe-food-tech-startups/", "title": "Kost Capital raising inaugural fund to invest in European food tech startups", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "ticket €750k-€1M, founders, EIFO, 20-25 startups, test kitchen", "quote": "average ticket size expected to be between €750,000 and €1 million" }
+    ],
+    "confidence": "high",
+    "verification_notes": "HQ Frederiksberg (Copenhagen area). €25M target, first close Jan 2024. EIFO-backed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-psv-hafnium",
+    "name": { "en": "PSV Hafnium" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "europe",
+    "country": "Denmark",
+    "hq_city": "Lyngby",
+    "website": "https://www.psvtech.vc/",
+    "links": {},
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2024, "size": { "raw": "€60m final close (DKK 455m); €55m initial close, capped at €80m", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Nordics", "Denmark"],
+      "sector_focus": ["deeptech", "ai-ml", "climate-energy", "hardware-semiconductor"],
+      "thesis": "Technical University of Denmark (DTU) spinout fund backing Nordic deeptech with origins in research — quantum, clean energy and science-based AI — at the pre-seed/early-seed technology-maturation stage."
+    },
+    "people": [
+      { "name": "Marianne Hyltoft", "role": "Founding Partner" },
+      { "name": "Anders Kjær", "role": "Founding Partner" },
+      { "name": "Jakob Rybak-Andersen", "role": "Founding Partner" }
+    ],
+    "summary": {
+      "en": "Lyngby-based DTU spinout deeptech fund launched 2024 — described as Denmark's first deep tech venture fund. Initial €55M close, €60M final (DKK 455m), capped at €80m; backed by EIF, EIFO and DTU's PSV Foundry.",
+      "local": "Lyngby-baseret DTU spinout deeptech-fond lanceret 2024 — Danmarks første deep tech-venturefond; €60M endeligt close, støttet af EIF, EIFO og PSV Foundry."
+    },
+    "sources": [
+      { "url": "https://sifted.eu/articles/psv-hafnium-closes-first-e60m-fund", "title": "Danish deeptech spinout fund PSV Hafnium closes first €60m fund", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "€60M close, DTU spinout, deeptech", "quote": "Danish deeptech spinout fund PSV Hafnium closes first €60m fund" },
+      { "url": "https://siliconcanals.com/meet-psv-hafnium/", "title": "PSV Hafnium secures backing from EIF and EIFO", "publisher": "Silicon Canals", "accessed": "2026-06-02", "supports": "Lyngby, €55M initial/€80M cap, founders, backers", "quote": "Founding partners Marianne Hyltoft, Anders Kjær, and Jakob Rybak-Andersen draw from PSV's 20-year legacy at DTU" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Launched 2024, €55M initial close, €60M final (DKK 455m), €80m cap. DTU (Lyngby) spinout fund.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-caesar-ventures",
+    "name": { "en": "Caesar Ventures" },
+    "aka": ["caesar."],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2023,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Munich",
+    "website": "https://www.caesar.vc/",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/caesar-ventures"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2023, "size": { "raw": "€30m closed (May 2023), targeting €80m", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€200k-800k", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Europe"],
+      "sector_focus": ["deeptech", "climate-energy", "fintech", "healthtech"],
+      "thesis": "Munich-based early-stage fund investing €200k–€800k into impact-driven deeptech, climate tech, fintech and healthtech startups."
+    },
+    "people": [],
+    "summary": {
+      "en": "Munich-based early-stage VC founded in 2023, targeting €80M (€30M closed by May 2023). Writes €200k–€800k cheques into deeptech, climate, fintech and healthtech.",
+      "local": "Münchner Frühphasen-VC, gegründet 2023, Zielvolumen €80M (€30M bis Mai 2023); investiert €200k–€800k in Deeptech, Klima, Fintech und Healthtech."
+    },
+    "sources": [
+      { "url": "https://sifted.eu/articles/first-time-european-vc-funds-2023", "title": "All the new first-time European VC funds of 2023", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "Munich, €80m target, €30m closed May 2023, sectors", "quote": "Caesar Ventures | Munich | \"Target €80m, closed €30m in May 2023\"" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded 2023; €30M closed of €80M target per Sifted. Ticket €200k-800k per Sifted/EU-Startups. Partner names not confirmed in fetched sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-concept-ventures",
+    "name": { "en": "Concept Ventures" },
+    "aka": ["RLC Ventures"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://concept.vc/",
+    "links": {},
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2022, "size": { "raw": "£50m", "usd": null, "currency": "GBP" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "£100,000 and £600,000", "usd_min": null, "usd_max": null },
+      "geo_focus": ["United Kingdom"],
+      "sector_focus": ["generalist", "saas-enterprise", "gaming"],
+      "thesis": "The UK's largest dedicated pre-seed fund, investing £100k–£600k in 60+ UK startups; LP base is 80% ethnic minority and 70%+ current/exited founders."
+    },
+    "track_record": {
+      "portfolio_count": "100+ founders backed"
+    },
+    "people": [],
+    "summary": {
+      "en": "London-based pre-seed VC (rebranded from RLC Ventures, founded 2018). Its £50m 2022 fund, cornerstoned £30m by the British Business Bank, is the UK's largest dedicated pre-seed fund, investing £100k–£600k in 60+ startups."
+    },
+    "sources": [
+      { "url": "https://concept.vc/news/concept-raises-50m-fund", "title": "We've Raised £50m to become the Largest UK Dedicated Pre-seed Fund", "publisher": "Concept Ventures", "accessed": "2026-06-02", "supports": "£50m fund, largest UK pre-seed", "quote": "We've Raised £50m to become the Largest UK Dedicated Pre-seed Fund" },
+      { "url": "https://www.uktech.news/funding/vc-funding/concept-ventures-launches-fund-pre-seed-20220727", "title": "Concept Ventures launches £50m fund to plug 'major' pre-seed gap", "publisher": "UKTN", "accessed": "2026-06-02", "supports": "£100k-£600k, 60 startups, BBB £30m, rebrand from RLC 2018", "quote": "The fund invests between £100,000 and £600,000 in more than 60 startups" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Rebranded from RLC Ventures (launched 2018), so not strictly 2020+; London-HQ (hub). Included as a notable emerging pre-seed fund whose flagship £50m fund launched 2022. £30m BBB cornerstone.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-project-europe",
+    "name": { "en": "Project Europe" },
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.projecteurope.co/",
+    "links": {},
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2025, "size": { "raw": "€10 million", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "€200,000", "usd_min": 200000, "usd_max": 200000 },
+      "ownership_target_pct": "6.66",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["generalist", "deeptech", "ai-ml"],
+      "thesis": "Backs founders under the age of 25 with global ambitions, investing €200k for 6.66% equity; a mix of the Thiel Fellowship and Y Combinator, backed by 125+ European founders to fight talent brain drain."
+    },
+    "program": {
+      "cohort_size": "10 to 20 founders per year",
+      "investment": { "raw": "€200,000", "usd": 200000, "currency": "EUR" },
+      "equity_taken_pct": "6.66"
+    },
+    "people": [
+      { "name": "Harry Stebbings", "role": "Founder (20VC)" }
+    ],
+    "summary": {
+      "en": "London-based €10M fund launched March 2025 by Harry Stebbings (20VC), backing under-25 European founders with €200k for 6.66% equity. Backed by 125+ founders (Mistral, Klarna) and funds incl. Point Nine and Adjacent."
+    },
+    "sources": [
+      { "url": "https://techcrunch.com/2025/03/12/project-europe-a-new-early-stage-fund-will-back-under-25s-with-200k-to-build-the-next-tech-titan/", "title": "Project Europe, a new early-stage fund, will back people under 25", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "€200k, under-25, March 2025 launch", "quote": "back under-25s with €200k to build the next tech titan" },
+      { "url": "https://deepnewz.com/europe/harry-stebbings-project-europe-launches-eur10-million-fund-under-25-backed-125-95063684", "title": "Harry Stebbings' Project Europe Launches €10 Million Fund for Under-25 Entrepreneurs", "publisher": "DeepNewz", "accessed": "2026-06-02", "supports": "€10M fund, 125+ founders, 6.66% equity", "quote": "Project Europe Launches €10 Million Fund for Under-25 Entrepreneurs, Backed by 125+ Founders" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Launched March 2025. €10M fund, €200k per founder, 6.66% equity, 10-20 founders/year. London-HQ (hub) but notable 2020+ emerging vehicle.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "eu-euratechnologies",
+    "name": { "en": "EuraTechnologies" },
+    "type": "incubator",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2009,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Lille",
+    "website": "https://www.euratechnologies.com/en",
+    "links": {
+      "other": ["https://pitchbook.com/profiles/investor/87280-48"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "2022 raise", "vintage_year": 2022, "size": { "raw": "€24 million", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["France", "Europe", "Eastern Europe", "North Africa"],
+      "sector_focus": ["deeptech", "cybersecurity", "agritech", "proptech"],
+      "thesis": "Lille-based incubator/accelerator — among Europe's largest — bringing together research and deeptech startups; in 2022 raised €24M to back deeptech and open ~10 incubators abroad."
+    },
+    "program": {
+      "format": "in-person",
+      "location": "Lille, France",
+      "eligibility": "Deeptech and tech startups, with international expansion"
+    },
+    "people": [],
+    "summary": {
+      "en": "Lille-based incubator/accelerator founded in 2009 (one of Europe's largest). In 2022 it raised €24M, backed by the Mulliez family among others, to invest in deeptech startups and expand with ~10 incubators in Eastern Europe, the Balkans and North Africa.",
+      "local": "Incubateur/accélérateur lillois fondé en 2009 ; a levé 24 M€ en 2022 pour investir dans la deeptech et ouvrir une dizaine d'incubateurs à l'étranger."
+    },
+    "sources": [
+      { "url": "https://tech.eu/2022/06/24/euratechnologies-raises-eur24-million-to-back-deep-tech-startups-and-open-10-incubators-in-eastern-europe/", "title": "EuraTechnologies raises €24 million to back deep tech startups and open 10 incubators in Eastern Europe", "publisher": "Tech.eu", "accessed": "2026-06-02", "supports": "€24M raise, Lille, deeptech, 10 incubators", "quote": "EuraTechnologies raises €24 million to back deep tech startups and open 10 incubators in Eastern Europe" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded 2009 (not 2020+); included for non-hub (Lille) criterion. The €24M raise is a 2022 event. Primarily an incubator/accelerator that also invests.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  }
+]

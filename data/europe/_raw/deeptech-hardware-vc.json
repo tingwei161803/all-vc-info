@@ -1,0 +1,1332 @@
+[
+  {
+    "id": "eu-cloudberry-vc",
+    "name": { "en": "Cloudberry VC" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "europe",
+    "country": "Finland",
+    "hq_city": "Helsinki",
+    "offices": [
+      { "country": "Finland", "city": "Helsinki" },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "website": "https://cloudberry.vc/",
+    "links": {
+      "other": ["https://siliconsemiconductor.net/article/124152/Cloudberry_VC_launches_Europe%E2%80%99s_first_semiconductor_venture_fund"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€30M", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Cloudberry VC Fund I", "vintage_year": 2026, "size": { "raw": "€30M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€400k–€1M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["hardware-semiconductor", "deeptech"],
+      "thesis": "Europe's first dedicated semiconductor venture fund, investing early in companies building the foundation of computing — semiconductors, photonics and advanced materials."
+    },
+    "track_record": {
+      "co_investors": ["GlobalFoundries", "Radiant Opto-Electronics", "Tesi"]
+    },
+    "people": [
+      { "name": "René Kromhof", "role": "Founding Partner" },
+      { "name": "Veera Pietikäinen", "role": "Founding Partner" },
+      { "name": "Lawrence Lundy-Bryan", "role": "General Partner & Head of Research" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["semiconductor", "photonics", "advanced-materials", "first-mover"],
+    "summary": {
+      "en": "Helsinki- and London-based Cloudberry VC is Europe's first dedicated semiconductor venture fund, a €30M vehicle writing €400k–€1M pre-seed and seed checks into semiconductors, photonics and advanced materials, anchored by Finnish state investor Tesi and backed by GlobalFoundries."
+    },
+    "sources": [
+      {
+        "url": "https://cloudberry.vc/",
+        "title": "Cloudberry VC — Europe's First Dedicated Semiconductor VC",
+        "publisher": "Cloudberry VC",
+        "accessed": "2026-06-02",
+        "supports": "fund size, check size, stages, sector focus, HQ, partners",
+        "quote": "We invest early in the companies building the foundation of computing ... €400K to €1M ... semiconductors, photonics, and advanced materials"
+      },
+      {
+        "url": "https://sifted.eu/articles/cloudberry-30m-fund-semiconductors",
+        "title": "Tackling Europe's chip bottleneck: Semiconductor VC Cloudberry closes €30m fund",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "fund size, HQ, sector focus",
+        "quote": "closed €30m for its first-time fund ... Helsinki and London-based VC ... back European startups tackling the bottlenecks faced by the semiconductor industry"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year not stated on site; fund launch reported January/February 2026. LP roster (Tesi, GlobalFoundries, Radiant Opto-Electronics) per official site and Silicon Semiconductor coverage.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-hcvc",
+    "name": { "en": "HCVC (Hardware Club Venture Capital)" },
+    "aka": ["Hardware Club", "HCVC Fund"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://www.hcvc.co/",
+    "links": {
+      "other": ["https://www.crunchbase.com/organization/hardwareclub", "https://en.wikipedia.org/wiki/Hardware_Club"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "HCVC Fund 1", "vintage_year": 2018, "size": { "raw": "$50M", "usd": 50000000, "currency": "USD" } },
+        { "name": "HCVC Fund 2", "vintage_year": 2023, "size": { "raw": "$75M", "usd": 75000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€250k–€2.5M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United States"],
+      "sector_focus": ["hardware-semiconductor", "deeptech", "robotics", "spacetech", "climate-energy"],
+      "thesis": "Backs founders industrializing scientific and technological progress — hardtech at the intersection of hardware and software across robotics, aerospace, decarbonisation, defence and advanced materials."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Renaissance Fusion", "sector": "energy/fusion", "outcome": "active" },
+        { "company": "Cowboy", "sector": "hardware/e-bike", "outcome": "active" },
+        { "company": "Automata", "sector": "robotics", "outcome": "active" },
+        { "company": "Chiral", "sector": "semiconductor/nanomaterials", "outcome": "active" },
+        { "company": "Karman+", "sector": "spacetech", "outcome": "active" }
+      ],
+      "co_investors": ["European Investment Fund", "Isomer Capital", "Molten Ventures"]
+    },
+    "people": [
+      { "name": "Alexis Houssou", "role": "Founder / Managing Partner" },
+      { "name": "Barbara Belvisi", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["hardtech", "hardware", "deeptech", "robotics", "aerospace"],
+    "summary": {
+      "en": "Paris-based HCVC (Hardware Club) is a hardtech specialist backing pre-seed/seed startups building physical technology. Its $75M Fund 2 (2023) follows a $50M debut fund (2018), writing €250k–€2.5m checks across robotics, space, fusion, defence and advanced materials.",
+      "local": "HCVC, basé à Paris, est un fonds spécialisé dans la hardtech qui investit en pre-seed et seed dans la robotique, le spatial, la fusion et les matériaux avancés."
+    },
+    "sources": [
+      {
+        "url": "https://tech.eu/2023/10/03/hcvc-raises-75m-for-second-fund-aiming-at-10-deals-hardtech-per-year/",
+        "title": "HCVC raises $75M for second fund, aiming at 10 deals hardtech per year",
+        "publisher": "Tech.eu",
+        "accessed": "2026-06-02",
+        "supports": "fund sizes, check size, founding year, founders, HQ, LPs",
+        "quote": "closes its second fund at $75 million ... Ticket sizes are expected to range between €250,000 to €2.5 million ... Founded by Alexis Houssou and Barbara Belvisi ... inaugural fund at $50 million ... In 2018 that focus shifted, with Houssou going on to launch HCVC's inaugural fund ... backed by LPs including the European Investment Fund, Isomer Capital, and Molten Ventures"
+      },
+      {
+        "url": "https://www.hcvc.co/",
+        "title": "HCVC — We back founders on a mission to industrialize scientific and technological progress",
+        "publisher": "HCVC",
+        "accessed": "2026-06-02",
+        "supports": "thesis, sector focus, portfolio",
+        "quote": "We back founders on a mission to industrialize scientific and technological progress."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund sizes in USD as reported; check size in EUR as reported by Tech.eu. Portfolio companies drawn from official site and Tech.eu.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-vsquared-ventures",
+    "name": { "en": "Vsquared Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Munich",
+    "website": "https://vsquared.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/vsquared-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "~€450M", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": "€214M", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Vsquared II", "vintage_year": 2024, "size": { "raw": "€214M (target €165M)", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "€500k–€5M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["deeptech", "robotics", "hardware-semiconductor", "spacetech", "ai-ml", "climate-energy"],
+      "thesis": "Invest early in technologies validated in the lab — new computing, sensing, robotics, space, energy, AI and techbio — that are ready to scale into global market leaders."
+    },
+    "track_record": {
+      "portfolio_count": "~25 (Fund II)",
+      "notable_investments": [
+        { "company": "Isar Aerospace", "sector": "spacetech", "outcome": "active" },
+        { "company": "Neura Robotics", "sector": "robotics", "outcome": "active" },
+        { "company": "IQM Quantum Computers", "sector": "quantum/hardware", "outcome": "active" },
+        { "company": "The Exploration Company", "sector": "spacetech", "outcome": "active" },
+        { "company": "Cylib", "sector": "climate/battery recycling", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Thomas Oehl", "role": "Founder & Managing Partner" },
+      { "name": "Herbert Mangesius", "role": "Founder & General Partner" },
+      { "name": "Benedikt von Schoeler", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["deeptech", "robotics", "space", "quantum", "frontier-tech"],
+    "summary": {
+      "en": "Munich-based Vsquared Ventures (founded 2020) is one of Europe's leading early-stage deep tech investors, managing ~€450M. Its 2024 Vsquared II closed at €214M — billed as Europe's largest early-stage deep tech fund — backing ~25 companies with €500k–€5M tickets across robotics, space, new computing and AI.",
+      "local": "Die Münchner Vsquared Ventures ist einer der führenden europäischen Frühphasen-Deeptech-Investoren; der zweite Fonds wurde mit 214 Mio. Euro geschlossen."
+    },
+    "sources": [
+      {
+        "url": "https://www.munich-startup.de/en/102147/vsquared-ventures-closes-second-fund-with-214-million-euros/",
+        "title": "Vsquared Ventures closes second fund with €214 million",
+        "publisher": "Munich Startup",
+        "accessed": "2026-06-02",
+        "supports": "fund size, target, ticket size, portfolio count, themes, HQ",
+        "quote": "closed its second fund, raising a total of €214 million ... originally targeted a volume of €165 million ... initial ticket sizes ranging from €500,000 to €5 million ... distributed to around 25 companies ... Cylib, Synthara, Neura Robotics, Isar Aerospace ... Munich-based investor"
+      },
+      {
+        "url": "https://sifted.eu/articles/vsquared-third-deep-tech-fund-news",
+        "title": "Vsquared closes second fund of €214m to cash in on Europe's deeptech boom",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "AUM, fund size, largest early-stage deeptech fund claim",
+        "quote": "Vsquared II, which was oversubscribed at €214 million, above the initial target size of €165 million ... brings Vsquared's assets under management to around €450 million ... the largest European early-stage deep tech fund to date"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/vsquared-ventures",
+        "title": "Vsquared Ventures — Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "founding year 2020, founders, Munich HQ",
+        "quote": "Founded in 2020 by Thomas Oehl, Herbert Mangesius, and Benedikt von Schoeler ... based in Munich, Germany"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM ~€450M and founding year 2020 corroborated by Sifted and Crunchbase/secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-matterwave-ventures",
+    "name": { "en": "Matterwave Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Munich",
+    "website": "https://www.matterwave.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/matterwave-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "€250M AUM", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Matterwave Industrial Technologies II", "vintage_year": null, "size": { "raw": "€130M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "€1M–€4M (initial), up to €10M follow-on", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["hardware-semiconductor", "deeptech", "robotics", "climate-energy"],
+      "thesis": "Backs hardware and software companies building a sustainable, sovereign and digitalized European industry — industrial tech, deep tech and climate tech."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Equal1", "sector": "quantum computing", "outcome": "active" },
+        { "company": "Akhetonics", "sector": "semiconductor/optical processors", "outcome": "active" },
+        { "company": "Cybus", "sector": "industrial IoT/software", "outcome": "active" },
+        { "company": "Xampla", "sector": "advanced materials", "outcome": "active" }
+      ]
+    },
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["industrial-tech", "deeptech", "hardware", "semiconductor", "robotics"],
+    "summary": {
+      "en": "Munich-based Matterwave Ventures (founded 2021) invests in hardware and software companies in industrial tech and deep tech, with €250M AUM. Its €130M second fund backs 20–25 companies with €1–4M initial tickets across semiconductors, photonics, quantum, robotics and industrial automation.",
+      "local": "Matterwave Ventures aus München investiert in Hardware- und Software-Unternehmen im Bereich Industrietechnologie und Deep Tech."
+    },
+    "sources": [
+      {
+        "url": "https://www.matterwave.vc/",
+        "title": "Matterwave Ventures — backing hardware and software companies in the Industrial Technologies space",
+        "publisher": "Matterwave Ventures",
+        "accessed": "2026-06-02",
+        "supports": "AUM, check size, stages, sector focus, HQ, portfolio",
+        "quote": "€250M AUM ... €1-4M Initial ticket sizes ... We fund companies that create a sustainable, sovereign, and digitalized European industry"
+      },
+      {
+        "url": "https://www.vestbee.com/insights/articles/most-active-european-vc-funds-investing-in-robotics-startups",
+        "title": "Most active European VC funds investing in robotics startups",
+        "publisher": "Vestbee",
+        "accessed": "2026-06-02",
+        "supports": "fund size €130M, company count, follow-on, founding year, themes",
+        "quote": "Founded in 2021 ... €130M Matterwave Industrial Technologies II fund backs 20-25 companies, with initial investments ranging from €1M-4M and up to €10M in follow-on rounds ... semiconductors, photonics, robotics"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Official site states €250M AUM; Vestbee reports the current fund (Industrial Technologies II) at €130M and founding year 2021. Both figures retained.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-uvc-partners",
+    "name": { "en": "UVC Partners" },
+    "aka": ["Unternehmertum Venture Capital Partners"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2011,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Munich",
+    "offices": [
+      { "country": "Germany", "city": "Munich" },
+      { "country": "Germany", "city": "Berlin" }
+    ],
+    "website": "https://www.uvcpartners.com/",
+    "links": {},
+    "capital": {
+      "aum": { "raw": "over €700M", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": "€400M (incl. €150M growth)", "usd": null, "currency": "EUR" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": "€500k–€10M initial, up to €30M per company", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["deeptech", "robotics", "hardware-semiconductor", "climate-energy", "mobility", "saas-enterprise"],
+      "thesis": "Partners with B2B startups across Europe from earliest stages up to Series A, focused on DeepTech, industrial technologies, ClimateTech, Mobility and Software/AI; closely tied to TU Munich's UnternehmerTUM."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Isar Aerospace", "sector": "spacetech", "outcome": "active" },
+        { "company": "Proxima Fusion", "sector": "energy/fusion", "outcome": "active" },
+        { "company": "planqc", "sector": "quantum computing", "outcome": "active" },
+        { "company": "fruitcore robotics", "sector": "robotics", "outcome": "active" },
+        { "company": "Q.ANT", "sector": "semiconductor/photonics", "outcome": "active" }
+      ]
+    },
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["deeptech", "industrial", "b2b", "robotics", "tum"],
+    "summary": {
+      "en": "Munich/Berlin-based UVC Partners (founded 2011, linked to TU Munich's UnternehmerTUM) backs European B2B deep tech and industrial startups from seed to Series B. It manages over €700M, with a €400M latest fund (incl. €150M for growth) and checks from €500k up to €30M per company.",
+      "local": "UVC Partners aus München/Berlin investiert in europäische B2B-Deeptech- und Industrie-Startups; verwaltet über 700 Mio. Euro."
+    },
+    "sources": [
+      {
+        "url": "https://www.vestbee.com/insights/articles/uvc-partners-raises-400-m",
+        "title": "UVC Partners raises €400M growth fund for multi-stage European B2B tech investments",
+        "publisher": "Vestbee",
+        "accessed": "2026-06-02",
+        "supports": "fund size, AUM, check size, stages, founding year, HQ, sectors",
+        "quote": "€400 million, including €150 million for growth-stage investments ... manages over €700 million in assets ... initial investments ranging from €500,000 to €10 million and the ability to allocate up to €30 million per company ... Established in 2011 ... Munich-based VC firm ... DeepTech, ClimateTech, Mobility, and Software/AI"
+      },
+      {
+        "url": "https://www.uvcpartners.com/",
+        "title": "UVC Partners",
+        "publisher": "UVC Partners",
+        "accessed": "2026-06-02",
+        "supports": "HQ, stages, check size, sector focus, portfolio",
+        "quote": "€500,000 to €10 million ... We partner with B2B startups across Europe at their earliest stages up to Series A"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM/fund figures from Vestbee; official site confirms HQ, stages, check range and portfolio. Spans deeptech/industrial — included as a strong industrial-deeptech specialist.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-innovation-industries",
+    "name": { "en": "Innovation Industries" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "europe",
+    "country": "Netherlands",
+    "hq_city": "Amsterdam",
+    "offices": [
+      { "country": "Netherlands", "city": "Amsterdam" },
+      { "country": "Netherlands", "city": "Eindhoven" }
+    ],
+    "website": "https://www.innovationindustries.com/",
+    "links": {},
+    "capital": {
+      "aum": { "raw": "~€900M", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Innovation Industries Fund III", "vintage_year": null, "size": { "raw": "€500M", "usd": null, "currency": "EUR" } },
+        { "name": "Strategic Partners Fund", "vintage_year": null, "size": { "raw": "€100M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Netherlands", "Benelux", "Germany"],
+      "sector_focus": ["hardware-semiconductor", "deeptech", "robotics", "agritech", "healthtech"],
+      "thesis": "Invests in nano- and microtechnologies, semiconductors and integrated photonics, clean technology, food/agritech, robotics and medical technology — financing deeptech companies in Benelux and Germany."
+    },
+    "track_record": {
+      "portfolio_count": "30+",
+      "notable_investments": [
+        { "company": "Nearfield Instruments", "sector": "semiconductor metrology", "outcome": "active" },
+        { "company": "Luxexcel", "sector": "advanced manufacturing/3D-printed optics", "outcome": "acquired" }
+      ],
+      "exits": [
+        { "company": "Luxexcel", "type": "M&A", "year": 2021, "value": { "raw": "undisclosed (acquired by Meta)", "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Nard Sintenie", "role": "Partner" },
+      { "name": "Harm de Vries", "role": "Partner" },
+      { "name": "Chris Sonnenberg", "role": "Partner & Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["deeptech", "semiconductor", "photonics", "robotics", "netherlands"],
+    "summary": {
+      "en": "Amsterdam-based Innovation Industries (active since 2017) is a leading Dutch deep tech investor with ~€900M under management. It raised €500M for its third fund and €100M for a strategic partners fund, backing 30+ companies in semiconductors, integrated photonics, robotics and agri/medtech across Benelux and Germany.",
+      "local": "Innovation Industries uit Amsterdam is een toonaangevende Nederlandse deeptech-investeerder met circa €900 miljoen onder beheer in halfgeleiders, fotonica en robotica."
+    },
+    "sources": [
+      {
+        "url": "https://www.innovationindustries.com/news/innovation-industries-raises-eu500-million-for-investments-in-deeptech",
+        "title": "Innovation Industries raises €500 million for investments in deeptech",
+        "publisher": "Innovation Industries",
+        "accessed": "2026-06-02",
+        "supports": "fund size, AUM, founding year, portfolio count, sectors, notable companies, partners",
+        "quote": "€500 million for its third fund ... €100 million for another fund, the Strategic Partners Fund ... currently around €900 million in capital under management ... active since 2017 ... investments in more than 30 deeptech companies ... Nearfield Instruments ... Luxexcel"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Check size not disclosed in source — left null. Sector list combines official news and company 'about' descriptions.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-iq-capital",
+    "name": { "en": "IQ Capital" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2007,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "Cambridge",
+    "offices": [
+      { "country": "United Kingdom", "city": "Cambridge" },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "website": "https://www.iqcapital.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/iq-capital-partners"
+    },
+    "capital": {
+      "aum": { "raw": "$1bn in deep tech", "usd": 1000000000, "currency": "USD" },
+      "funds": [
+        { "name": "IQ Capital Venture Fund IV", "vintage_year": null, "size": { "raw": "$200M", "usd": 200000000, "currency": "USD" } },
+        { "name": "IQ Capital Growth Fund II", "vintage_year": null, "size": { "raw": "$200M", "usd": 200000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "check_size": { "raw": "~$2.5M seed, up to $5M in hardware; up to $15M follow-on; up to $30M from growth fund", "usd_min": 2500000, "usd_max": 30000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United Kingdom", "Europe"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "ai-ml", "spacetech", "robotics", "cybersecurity"],
+      "thesis": "Backs IP-rich breakthrough deep tech at Seed and Series A — quantum hardware, novel AI, robotics, space-tech, synthetic biology, new energy — with a dedicated growth fund for outperformers."
+    },
+    "track_record": {
+      "portfolio_count": "100+ deep tech startups",
+      "notable_investments": [
+        { "company": "Thought Machine", "sector": "fintech infrastructure", "outcome": "unicorn" },
+        { "company": "Nyobolt", "sector": "hardware/fast-charging batteries", "outcome": "active" },
+        { "company": "Speechmatics", "sector": "ai-ml/speech", "outcome": "active" }
+      ]
+    },
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["deeptech", "quantum", "hardware", "cambridge", "ip-rich"],
+    "summary": {
+      "en": "Cambridge/London-based IQ Capital (founded 2007) is a long-standing UK deep tech investor with $1bn AUM. It closed a $200M fourth venture fund and a $200M second growth fund, backing 100+ IP-rich deep tech startups in quantum, robotics, space-tech and advanced engineering, with seed checks ~$2.5M (up to $5M in hardware)."
+    },
+    "sources": [
+      {
+        "url": "https://www.iqcapital.vc/news/iq-capital-raises-400m-to-invest-in-transformative-deep-tech-companies",
+        "title": "IQ Capital raises $400m to invest in transformative deep tech companies",
+        "publisher": "IQ Capital",
+        "accessed": "2026-06-02",
+        "supports": "fund sizes, AUM, founding year, sectors, portfolio count",
+        "quote": "$400 million across two funds ... Fourth Venture Fund: $200m ... Second Growth Fund: $200m ... $1bn in deep tech ... 2007 in Cambridge ... over 100 deep tech start-ups ... robotics and space-tech, quantum computing"
+      },
+      {
+        "url": "https://sifted.eu/articles/iq-capital-200m-deeptech-fund-news",
+        "title": "IQ Capital announces final close of $200m deeptech fund",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "check size, hardware cheque, follow-on",
+        "quote": "average cheque size at seed stage tends to be around $2.5m, but that can go up to $5m in areas like hardware ... follow-on investments of up to $15m"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "HQ listed as London (HQ) with Cambridge founding/roots; both retained as offices. Figures in USD as reported.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-cambridge-innovation-capital",
+    "name": { "en": "Cambridge Innovation Capital" },
+    "aka": ["CIC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "Cambridge",
+    "website": "https://www.cic.vc/",
+    "links": {
+      "other": ["https://pitchbook.com/profiles/investor/65898-19"]
+    },
+    "capital": {
+      "aum": { "raw": "over €693M / £693M+", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "CIC Fund III", "vintage_year": null, "size": { "raw": "£250M (€288M)", "usd": null, "currency": "GBP" } },
+        { "name": "CIC Opportunity Fund", "vintage_year": null, "size": { "raw": "£100M", "usd": null, "currency": "GBP" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": "up to £20M per investment in later-stage rounds", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United Kingdom", "Cambridge ecosystem"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "robotics", "biotech", "healthtech"],
+      "thesis": "Backs deep tech and life science spinouts from the University of Cambridge — from surgical robotics and semiconductors to AI and quantum computing."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "CMR Surgical", "sector": "robotics/surgical", "outcome": "active" },
+        { "company": "Pragmatic Semiconductor", "sector": "semiconductor", "outcome": "active" },
+        { "company": "Riverlane", "sector": "quantum computing", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Gyroscope Therapeutics", "type": "M&A", "year": null, "value": { "raw": "$1.5bn (acquired by Novartis)", "usd": 1500000000, "currency": "USD" } },
+        { "company": "PetMedix", "type": "M&A", "year": null, "value": { "raw": "$285M (acquired by Zoetis)", "usd": 285000000, "currency": "USD" } }
+      ]
+    },
+    "application": { "accepts_cold_inbound": false },
+    "tags": ["deeptech", "semiconductor", "quantum", "surgical-robotics", "cambridge-spinouts"],
+    "summary": {
+      "en": "Cambridge Innovation Capital (founded 2013) backs deep tech and life science spinouts from the University of Cambridge, managing over £693M. Its £250M Fund III and £100M opportunity fund support semiconductors (Pragmatic), quantum (Riverlane) and surgical robotics (CMR Surgical), investing up to £20M per later-stage round."
+    },
+    "sources": [
+      {
+        "url": "https://www.cic.vc/cic-tackles-uk-late-stage-funding-gap-with-100m-deep-tech-fund/",
+        "title": "CIC tackles UK late-stage funding gap with £100m deep tech fund",
+        "publisher": "Cambridge Innovation Capital",
+        "accessed": "2026-06-02",
+        "supports": "opportunity fund size, founding year, check size, semiconductor/quantum portfolio, exits",
+        "quote": "£100m 'opportunity fund' backed by Aviva and British Patient Capital ... up to £20m per investment in later-stage rounds ... investment group was founded in 2013 ... Pragmatic Semiconductor ... quantum computing specialist Riverlane ... Gyroscope Therapeutics (bought by Novartis for $1.5bn) ... PetMedix (acquired by Zoetis in a $285m deal)"
+      },
+      {
+        "url": "https://www.eu-startups.com/2025/08/vc-firm-cambridge-innovation-capital-commits-e115-million-to-back-university-of-cambridge-spinouts/",
+        "title": "VC firm Cambridge Innovation Capital commits €115 million to back University of Cambridge spinouts",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-02",
+        "supports": "Fund III size, AUM, sectors",
+        "quote": "Fund III ... £250 million ... CIC manages over €693 million of capital and invests across DeepTech and life sciences ... surgical robotics, to AI, semiconductors and quantum computing"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund III (£250M) and £100M opportunity fund reported separately; relationship between the two not fully clarified in sources. AUM ~£693M/€693M per EU-Startups.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-supernova-invest",
+    "name": { "en": "Supernova Invest" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://supernovainvest.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/supernova-invest/",
+      "other": ["https://www.cbinsights.com/investor/supernova-invest"]
+    },
+    "capital": {
+      "aum": { "raw": "more than €800M", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Supernova Innovation 3 (seed fund)", "vintage_year": null, "size": { "raw": "€100M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["France", "Europe"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "spacetech", "climate-energy", "healthtech"],
+      "thesis": "Deeptech specialist born from the alliance of Amundi (Crédit Agricole) and CEA, backing pioneering companies from seed to exit in advanced materials, microelectronics/semiconductors, quantum technologies, space tech and energy transition."
+    },
+    "track_record": {
+      "portfolio_count": "70+ companies (~100 investments)",
+      "notable_investments": [
+        { "company": "Quobly", "sector": "quantum computing", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["deeptech", "microelectronics", "semiconductor", "quantum", "cea"],
+    "summary": {
+      "en": "Paris-based Supernova Invest (founded 2017 from an Amundi–CEA alliance) is a French deeptech specialist managing more than €800M. It backs 70+ companies across microelectronics/semiconductors, quantum, advanced materials, space and energy, and recently closed a €100M seed fund (Supernova Innovation 3).",
+      "local": "Supernova Invest, basé à Paris et issu de l'alliance entre Amundi et le CEA, est un spécialiste français de la deeptech qui gère plus de 800 millions d'euros."
+    },
+    "sources": [
+      {
+        "url": "https://supernovainvest.com/reaching-our-e100m-target-to-close-a-new-seed-fund/",
+        "title": "Reaching our €100M target to close a new seed fund",
+        "publisher": "Supernova Invest",
+        "accessed": "2026-06-02",
+        "supports": "seed fund size €100M",
+        "quote": "successful closing of its new seed fund, Supernova Innovation 3, at its €100 million target"
+      },
+      {
+        "url": "https://supernovainvest.com/invest-in-solutions-that-address-major-problems-the-leitmotiv-of-the-boss-of-supernova-invest-a-fund-specialized-in-deeptech/",
+        "title": "Invest in Solutions That Address Major Problems",
+        "publisher": "Supernova Invest",
+        "accessed": "2026-06-02",
+        "supports": "founding year, AUM, portfolio count, sectors, CEA origin",
+        "quote": "Supernova Invest emerged in 2017 from the alliance between Amundi (Crédit Agricole Group) and the CEA ... now manages more than 800 million ... about 100 investments and more than 70 portfolio companies ... advanced materials, medical devices, semiconductors, quantum technologies, and energy transition"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Check size not disclosed publicly — null. AUM stated as 'more than €800M'.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-elaia",
+    "name": { "en": "Elaia (Elaia Partners)" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2002,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "offices": [
+      { "country": "France", "city": "Paris" },
+      { "country": "Spain", "city": "Barcelona" },
+      { "country": "Israel", "city": "Tel Aviv" }
+    ],
+    "website": "https://www.elaia.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/elaia-partners"
+    },
+    "capital": {
+      "aum": { "raw": "~$850M under management", "usd": 850000000, "currency": "USD" },
+      "current_fund": { "raw": "€134M (DTS3)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Elaia DeepTech Seed Fund III (DTS3)", "vintage_year": 2026, "size": { "raw": "€134M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€1M–€13M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "robotics", "ai-ml", "biotech"],
+      "thesis": "Backs B2B deep tech spinouts from leading European research institutions across the future of computing (AI, semiconductors/photonics, quantum), the future of industry (physical AI, robotics, materials, energy) and life sciences."
+    },
+    "track_record": {
+      "portfolio_count": "100 investments",
+      "notable_investments": [
+        { "company": "Alice & Bob", "sector": "quantum computing", "outcome": "active" },
+        { "company": "Aqemia", "sector": "biotech/AI drug discovery", "outcome": "active" },
+        { "company": "Mirakl", "sector": "saas/marketplace", "outcome": "unicorn" }
+      ],
+      "exits": []
+    },
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["deeptech", "spinouts", "quantum", "semiconductor", "robotics"],
+    "summary": {
+      "en": "Paris-based Elaia (founded ~2002, ~$850M AUM) is a French deep tech and digital VC. Its third DeepTech Seed fund DTS3 closed at €134M (2026), investing €1M–€13M into pre-seed/seed B2B deep tech across computing, semiconductors/photonics, quantum, physical AI and robotics, sourced via research partnerships with PSL, INRIA, CNRS and Max Planck.",
+      "local": "Elaia, basé à Paris, est un investisseur français en deeptech ; son troisième fonds DeepTech Seed (DTS3) a été clôturé à 134 millions d'euros."
+    },
+    "sources": [
+      {
+        "url": "https://www.eu-startups.com/2026/03/french-vc-elaia-closes-third-deeptech-seed-fund-at-e134-million/",
+        "title": "Elaia closes third DeepTech Seed fund at €134 million",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-02",
+        "supports": "fund size, check size, number of investments, sectors",
+        "quote": "closing of its third DeepTech Seed fund (DTS3) at €134 million ... invest from €1M to €13M in pre-Seed and Seed-stage B2B startups ... the future of computing (AI, cybersecurity, semiconductor/photonics, quantum), the future of industry (physical AI, robotics, material, energy)"
+      },
+      {
+        "url": "https://www.elaia.com/",
+        "title": "Elaia — full stack investor",
+        "publisher": "Elaia",
+        "accessed": "2026-06-02",
+        "supports": "AUM, portfolio count, HQ, founding era",
+        "quote": "$850 ... 100 Investments ... 80 exits"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year ~2002 inferred from '20 years of existence' on site; AUM ~$850M from site. DTS3 €134M and check range from EU-Startups/Tech.eu.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-quantonation",
+    "name": { "en": "Quantonation (Quantonation Ventures)" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "offices": [
+      { "country": "France", "city": "Paris" },
+      { "country": "United States", "city": "Boston" }
+    ],
+    "website": "https://www.quantonation.com/",
+    "links": {
+      "other": ["https://www.deep-tech-week.com/organizations/quantonation-fund"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Quantonation I", "vintage_year": 2018, "size": { "raw": "€91M", "usd": null, "currency": "EUR" } },
+        { "name": "Quantonation II", "vintage_year": 2026, "size": { "raw": "€220M (target €200M)", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United States", "Global"],
+      "sector_focus": ["deeptech", "hardware-semiconductor"],
+      "thesis": "The leading VC dedicated to quantum technologies and deep physics — quantum computing, sensing, communications, error correction and enabling hardware — investing from pre-seed to Series B."
+    },
+    "track_record": {
+      "portfolio_count": "27 (Fund I); ~25 target (Fund II)",
+      "notable_investments": [
+        { "company": "Quobly", "sector": "quantum computing", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "Christophe Jurczak", "role": "Founder & Managing Partner" },
+      { "name": "Will Zeng", "role": "Partner" },
+      { "name": "Olivier Tonneau", "role": "Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["quantum", "deeptech", "deep-physics", "hardware"],
+    "summary": {
+      "en": "Paris- and Boston-based Quantonation (founded 2018) is the leading VC dedicated to quantum technologies and deep physics. Its €220M second fund (target €200M) more than doubles the €91M Quantonation I, investing pre-seed to Series B in quantum computing, sensing and enabling hardware, targeting ~25 startups.",
+      "local": "Quantonation, basé à Paris et Boston, est le principal fonds de capital-risque dédié aux technologies quantiques et à la physique de pointe."
+    },
+    "sources": [
+      {
+        "url": "https://www.quantonation.com/2025/06/24/eif-invests-30-million-in-quantonation-ii/",
+        "title": "EIF Invests €30 Million in Quantonation II",
+        "publisher": "Quantonation",
+        "accessed": "2026-06-02",
+        "supports": "Fund II target size, stages, sector focus, leadership, HQ, EIF investment",
+        "quote": "target fund size of €200 million ... early-stage rounds (from pre-seed to Series B) ... dedicated to quantum technologies and deep physics ... managed by Christophe Jurczak and Will Zeng ... headquartered in Paris, France, and in Boston, USA ... €30 million investment into Quantonation II"
+      },
+      {
+        "url": "https://thequantuminsider.com/2026/02/18/quantonation-launches-e220-million-fund-with-eye-on-error-correction-and-quantum-infrastructure/",
+        "title": "Quantonation Launches €220 Million Fund",
+        "publisher": "The Quantum Insider",
+        "accessed": "2026-06-02",
+        "supports": "Fund II final size €220M, Fund I €91M, founding year, portfolio counts",
+        "quote": "closed a €220 million early-stage fund focused on quantum technologies, more than doubling the size of its first fund ... Founded in 2018 and led by Christophe Jurczak, the first fund, Quantonation I, raised €91m and made investments in 27 companies"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund II reached €220M final close (above €200M target). Check size not specifically disclosed — null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-jolt-capital",
+    "name": { "en": "Jolt Capital" },
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://www.jolt-capital.com/",
+    "links": {
+      "other": ["https://www.preqin.com/data/profile/fund-manager/jolt-capital/113892"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€600M first close (Fund V, target/hard cap €1.1B)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Jolt Capital V", "vintage_year": 2025, "size": { "raw": "€600M first close, €1.1B hard cap", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "cybersecurity", "ai-ml"],
+      "thesis": "Growth-equity investor scaling responsible European deeptech scaleups in semiconductors, photonics, advanced materials, smart sensors, electrification, medtech and applied AI."
+    },
+    "track_record": {
+      "portfolio_count": "~20 companies per fund",
+      "co_investors": ["European Investment Fund"]
+    },
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["deeptech", "growth", "semiconductor", "photonics", "sensors"],
+    "summary": {
+      "en": "Paris-based Jolt Capital (founded 2012) is a deeptech growth-equity investor. Its Fund V closed a €600M first round (hard cap €1.1B) anchored by a €260M EIF commitment, financing ~20 European deeptech scaleups in semiconductors, smart sensors, photonics, advanced materials, medtech and applied AI.",
+      "local": "Jolt Capital, basé à Paris, est un investisseur en capital-croissance deeptech ; son cinquième fonds a réalisé un premier closing de 600 millions d'euros."
+    },
+    "sources": [
+      {
+        "url": "https://techfundingnews.com/jolt-capital-closes-e600m-first-tranche-fund-v-deeptech-sovereignty/",
+        "title": "Jolt Capital closes €600M first round for deeptech fund V, targeting €1.1B cap",
+        "publisher": "Tech Funding News",
+        "accessed": "2026-06-02",
+        "supports": "Fund V first close, hard cap, sectors, company count",
+        "quote": "closed €600 million in its first round for Fund V with a hard cap of €1.1 billion ... semiconductors, medical devices, technical software, advanced materials, applied artificial intelligence ... around twenty deeptech companies"
+      },
+      {
+        "url": "https://www.eif.org/what_we_do/news/2025/european-investment-fund-invests-eur260-million-in-jolt-capital-v-as-anchor-investor-with-support-from-the-european-tech-champions-initiative.htm",
+        "title": "EIF invests €260 million in Jolt Capital V as anchor investor",
+        "publisher": "European Investment Fund",
+        "accessed": "2026-06-02",
+        "supports": "EIF anchor commitment",
+        "quote": "The European Investment Fund (EIF) invests €260 million in Jolt Capital V as anchor investor"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year 2012 per firm history (commonly cited); Fund V first close €600M with €1.1B hard cap. Check size not specifically disclosed — null. Classified growth-equity given mid/late-stage deeptech focus.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-c4-ventures",
+    "name": { "en": "C4 Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2014,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://c4v.com/",
+    "links": {},
+    "capital": {
+      "current_fund": { "raw": "€100M (Fund III)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "C4 Ventures III", "vintage_year": 2025, "size": { "raw": "€100M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["ai-ml", "deeptech", "robotics", "hardware-semiconductor"],
+      "thesis": "Operator-led VC pursuing a dual AI strategy across software and 'Physical AI' — robotics, autonomous systems, quantum computing and AI semiconductors — backing European deep tech sovereignty."
+    },
+    "track_record": {
+      "portfolio_count": "54 startups (12 unicorns)",
+      "notable_investments": [
+        { "company": "Graphcore", "sector": "semiconductor/AI processors", "outcome": "acquired" },
+        { "company": "Neura Robotics", "sector": "robotics", "outcome": "active" },
+        { "company": "Alice & Bob", "sector": "quantum computing", "outcome": "active" },
+        { "company": "PsiQuantum", "sector": "quantum computing", "outcome": "active" },
+        { "company": "Arago", "sector": "semiconductor/AI", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Graphcore", "type": "M&A", "year": null, "value": { "raw": "undisclosed (acquired by SoftBank/ARM)", "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Pascal Cagni", "role": "Founder & CEO" },
+      { "name": "Boris Bakech", "role": "Co-Founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["deeptech", "physical-ai", "semiconductor", "robotics", "quantum"],
+    "summary": {
+      "en": "Paris-based C4 Ventures (founded 2014 by ex-Apple executive Pascal Cagni) launched a €100M Fund III in 2025 to back European AI and deep tech, with a dual focus on software and 'Physical AI' — robotics, AI semiconductors and quantum. Portfolio includes Graphcore, Neura Robotics, Alice & Bob and PsiQuantum; 54 startups backed, 12 unicorns.",
+      "local": "C4 Ventures, basé à Paris et fondé par Pascal Cagni, a lancé un fonds III de 100 millions d'euros pour soutenir l'IA et la deeptech européennes, y compris la robotique et les semiconducteurs."
+    },
+    "sources": [
+      {
+        "url": "https://c4v.com/news/c4-ventures-launches-e100m-fund-iii-to-back-europes-next-generation-of-ai-and-deep-tech-leaders/",
+        "title": "C4 Ventures launches €100M Fund III to back Europe's next generation of AI and Deep Tech leaders",
+        "publisher": "C4 Ventures",
+        "accessed": "2026-06-02",
+        "supports": "fund size, founding year, founders, track record, sectors, portfolio",
+        "quote": "target fund size of €100 million ... Software and Physical AI ... robotics, quantum computing ... Founded 2014 ... Pascal Cagni and Co-Founder Boris Bakech ... invested in 54 tech startups, 12 of which have become unicorns ... NEURA Robotics ... Graphcore ... Alice & Bob, PsiQuantum ... Arago (AI semiconductors)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pascal_Cagni",
+        "title": "Pascal Cagni — Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "founder background, founding year/location",
+        "quote": "C4 Ventures was founded in Paris in 2014 by Pascal Cagni, a former Apple executive"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Check size not disclosed — null. Graphcore exit reported as acquired (by SoftBank/ARM); value undisclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-first-momentum-ventures",
+    "name": { "en": "First Momentum Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Karlsruhe",
+    "offices": [
+      { "country": "Germany", "city": "Karlsruhe" },
+      { "country": "Germany", "city": "Munich" }
+    ],
+    "website": "https://www.firstmomentum.vc/",
+    "links": {
+      "other": ["https://www.cbinsights.com/investor/first-momentum-ventures"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€35M (Fund II)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "First Momentum Fund II", "vintage_year": 2025, "size": { "raw": "€35M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "€200k–€1M (first check; up to €1.5M)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "robotics", "climate-energy", "ai-ml"],
+      "thesis": "'Engineers at heart, investors by choice' — writes first checks into pre-seed deep tech and hardware startups across compute, manufacturing/robotics, energy, novel materials, aerospace and AI."
+    },
+    "track_record": {
+      "portfolio_count": "50 startups",
+      "notable_investments": [
+        { "company": "Daedalus", "sector": "manufacturing/robotics", "outcome": "active" },
+        { "company": "Quantum Diamonds", "sector": "quantum sensing/hardware", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Sebastian Böhmer", "role": "Founding Partner" },
+      { "name": "Andreas Fischer", "role": "Founding Partner" },
+      { "name": "David Meiborg", "role": "Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["deeptech", "hardware", "pre-seed", "robotics", "germany"],
+    "summary": {
+      "en": "German student-spinout VC First Momentum Ventures (debut 2018, HQ Karlsruhe) closed a €35M Fund II in 2025 — nearly 10x its debut — writing €200k–€1M first checks into ~35 pre-seed B2B deep tech and hardware startups across compute, energy, automation, novel materials and industrial tech. Portfolio of 50; authors the 'Deep Tech Hardware Napkin' fundraising guide.",
+      "local": "First Momentum Ventures aus Karlsruhe ist ein deutscher Pre-Seed-Deeptech-Investor; der zweite Fonds wurde mit 35 Mio. Euro geschlossen."
+    },
+    "sources": [
+      {
+        "url": "https://tech.eu/2025/04/23/first-momentum-ventures-closes-eur35m-fund-ii-for-deep-tech-startups/",
+        "title": "Student spinout First Momentum Ventures closes €35M Fund II for deep tech startups",
+        "publisher": "Tech.eu",
+        "accessed": "2026-06-02",
+        "supports": "fund size, check size, company count, sectors, debut year, HQ, portfolio",
+        "quote": "closed its €35 million Fund II ... almost 10x increase from its debut in 2018 ... first checks between €200k and €1M ... up to 35 early-stage B2B startups ... AI, computing, energy, automation, novel materials, and industrial tech ... headquarters in Karlsruhe, Germany ... portfolio of 50 startups"
+      },
+      {
+        "url": "https://www.firstmomentum.vc/",
+        "title": "First Momentum — Engineers At Heart, Investors By Choice",
+        "publisher": "First Momentum Ventures",
+        "accessed": "2026-06-02",
+        "supports": "thesis, check size, sectors, team",
+        "quote": "€0.25 - 1.5m in Pre-Seed Deep Tech Startups ... manufacturing & robotics ... Sebastian Böhmer (Founding Partner) ... Andreas Fischer (Founding Partner)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Tech.eu states HQ Karlsruhe; official site shows a Munich address — both retained as offices. Check size €200k–€1M (Tech.eu) / up to €1.5M (site).",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-promus-ventures",
+    "name": { "en": "Promus Ventures" },
+    "aka": ["Orbital Ventures (space fund)"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "europe",
+    "country": "Luxembourg",
+    "hq_city": "Luxembourg City",
+    "offices": [
+      { "country": "Luxembourg", "city": "Luxembourg City" },
+      { "country": "United States", "city": "Chicago" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "website": "https://promus.vc/",
+    "links": {},
+    "capital": {
+      "funds": [
+        { "name": "Orbital Ventures (space fund)", "vintage_year": 2021, "size": { "raw": "€120M", "usd": 139000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United States", "United Kingdom", "New Zealand"],
+      "sector_focus": ["spacetech", "deeptech", "robotics", "hardware-semiconductor"],
+      "thesis": "Deep-tech VC focused on space, robotics, sensors, autonomy and frontier hardware; its Luxembourg-anchored €120M Orbital Ventures fund backs early-stage commercial space and physical-AI companies."
+    },
+    "track_record": {
+      "portfolio_count": "90+ early-stage startups invested",
+      "notable_investments": [
+        { "company": "Rocket Lab", "sector": "spacetech", "outcome": "IPO" },
+        { "company": "Iceye", "sector": "spacetech/satellites", "outcome": "active" },
+        { "company": "Spire", "sector": "spacetech", "outcome": "active" },
+        { "company": "Swift Navigation", "sector": "hardware/positioning", "outcome": "active" }
+      ],
+      "co_investors": ["European Investment Fund", "SNCI", "SES", "OHB"]
+    },
+    "people": [
+      { "name": "Pierre Festal", "role": "Partner (Luxembourg)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["spacetech", "deeptech", "robotics", "physical-ai", "luxembourg"],
+    "summary": {
+      "en": "Promus Ventures (founded 2012; offices in Luxembourg, Chicago and San Francisco) is a deep-tech VC focused on space, robotics and frontier hardware. Its Luxembourg-anchored Orbital Ventures fund closed at €120M ($139M) in 2021 with a €40M EIF commitment, backing early-stage commercial space and physical-AI companies; firm has invested in 90+ startups.",
+      "local": "Promus Ventures, avec un fonds Orbital Ventures ancré au Luxembourg de 120 millions d'euros, investit dans l'espace, la robotique et le matériel de pointe."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2021/10/25/promus-ventures-closes-e120-million-139-million-space-fund-amid-investment-boom/",
+        "title": "Promus Ventures closes €120 million ($139 million) space fund amid investment boom",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Orbital Ventures fund size, year, focus, portfolio",
+        "quote": "Promus Ventures closes €120 million ($139 million) space fund ... robotics, sensors and data ... Iceye, Rocket Lab, Spire and Swift Navigation"
+      },
+      {
+        "url": "https://tech.eu/2021/10/25/with-a-new-e120-million-space-fund-orbital-ventures-loves-startups-to-the-moon-and-back/",
+        "title": "With a new €120 million Space Fund, Orbital Ventures loves startups to the moon and back",
+        "publisher": "Tech.eu",
+        "accessed": "2026-06-02",
+        "supports": "founding year, offices, EIF commitment, portfolio count",
+        "quote": "Founded in 2012, Promus Ventures ... offices in Chicago, San Francisco and Luxembourg ... over 90 early-stage startups ... European Investment Fund, which committed 40 million euros"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Cross-border firm (US roots, Luxembourg-anchored Orbital Ventures fund); included under europe/Luxembourg for the EU deeptech/space-hardware vehicle. Check size not disclosed — null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-360-capital-poli360",
+    "name": { "en": "360 Capital" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1997,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "offices": [
+      { "country": "France", "city": "Paris" },
+      { "country": "Italy", "city": "Milan" }
+    ],
+    "website": "https://www.360cap.vc/",
+    "links": {},
+    "capital": {
+      "aum": { "raw": "€700M AUM", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": "€85M close (Poli360 2, target €100M)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Poli360 2", "vintage_year": 2026, "size": { "raw": "€85M (target €100M)", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "€150k–€2M (pre-seed/seed); €2M–€10M (Series A/B)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Italy", "France", "Europe"],
+      "sector_focus": ["deeptech", "robotics", "hardware-semiconductor", "climate-energy"],
+      "thesis": "French-Italian VC investing in early-stage European deeptech, climate and digital. Its Poli360 tech-transfer funds back industrial automation (robotics, Industry 4.0, semiconductors), AI, IoT and new materials, with ≥80% deployed in Italy."
+    },
+    "track_record": {
+      "portfolio_count": "20 (Poli360 1)",
+      "notable_investments": [
+        { "company": "Energy Dome", "sector": "climate/energy storage", "outcome": "active" },
+        { "company": "Phononic Vibes", "sector": "hardware/acoustics", "outcome": "active" },
+        { "company": "Inxpect", "sector": "robotics/industrial safety", "outcome": "active" },
+        { "company": "PhotonPath", "sector": "semiconductor/photonics", "outcome": "active" }
+      ],
+      "co_investors": ["European Investment Fund", "CDP Venture Capital", "MBDA", "Brembo"]
+    },
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["deeptech", "robotics", "semiconductor", "italy", "tech-transfer"],
+    "summary": {
+      "en": "French-Italian 360 Capital (founded 1997, offices Paris and Milan, €700M AUM) invests in early-stage European deeptech, climate and digital. Its Poli360 2 tech-transfer fund closed €85M of a €100M target in 2026, backing robotics, Industry 4.0, semiconductors, AI and new materials, with ≥80% deployed in Italy.",
+      "local": "360 Capital, franco-italien (Paris/Milan), investit dans la deeptech européenne en phase précoce ; son fonds Poli360 2 a clôturé 85 millions d'euros."
+    },
+    "sources": [
+      {
+        "url": "https://www.eu-startups.com/2026/03/french-vc-360-capital-launches-poli360-2-with-e85-million-to-back-european-deeptech-startups/",
+        "title": "French VC 360 Capital launches Poli360 2 with €85 million to back European DeepTech startups",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-02",
+        "supports": "founding year, AUM, fund size, target, sectors, portfolio, Italy allocation",
+        "quote": "360 Capital was founded in 1997 and operates from offices in Milan and Paris ... €700M AUM ... €85 million for Poli360 2 ... target size of €100 million ... robotics, Industry 4.0, semiconductors, cybersecurity, AI, IoT ... at least 80% of the capital deployed in Italy ... Energy Dome, Isaac, Phononic Vibes, PhotonPath, Inxpect"
+      },
+      {
+        "url": "https://www.vestbee.com/insights/articles/most-active-european-vc-funds-investing-in-robotics-startups",
+        "title": "Most active European VC funds investing in robotics startups",
+        "publisher": "Vestbee",
+        "accessed": "2026-06-02",
+        "supports": "check size ranges",
+        "quote": "€150K-€2M (pre-seed/seed); €2M-€10M (Series A/B)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Poli360 is 360 Capital's tech-transfer line co-developed with Politecnico di Milano. Firm is broader than pure deeptech but Poli360 vehicle is a clear deeptech/hardware specialist.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-verve-ventures",
+    "name": { "en": "Verve Ventures" },
+    "aka": ["investiere"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2010,
+    "region": "europe",
+    "country": "Switzerland",
+    "hq_city": "Zurich",
+    "website": "https://www.verve.vc/",
+    "links": {
+      "other": ["https://pitchbook.com/profiles/investor/157481-47"]
+    },
+    "capital": {
+      "aum": { "raw": "over CHF 500M facilitated across 200+ companies", "usd": null, "currency": "CHF" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "EUR 1–2M initial ticket", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "robotics", "climate-energy", "biotech"],
+      "thesis": "European deep tech investor across three theses — Energy & Resources, Future of Computing, and Health & Bio — that systematically tracks academic research teams before they spin out, blending a venture fund with a curated investor platform."
+    },
+    "track_record": {
+      "portfolio_count": "200+ companies",
+      "notable_investments": [
+        { "company": "Q.ant", "sector": "semiconductor/optical processors", "outcome": "active" },
+        { "company": "C12", "sector": "quantum/hardware", "outcome": "active" },
+        { "company": "Ecorobotix", "sector": "robotics/agritech", "outcome": "active" },
+        { "company": "Verity", "sector": "robotics/drones", "outcome": "active" }
+      ]
+    },
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["deeptech", "future-of-computing", "robotics", "semiconductor", "switzerland"],
+    "summary": {
+      "en": "Zurich-based Verve Ventures (founded 2010) is a European deep tech investor that has facilitated over CHF 500M across 200+ companies. It writes EUR 1–2M initial tickets into seed-stage Energy & Resources, Future of Computing (incl. optical/quantum processors) and Health & Bio, systematically tracking academic spinouts.",
+      "local": "Verve Ventures aus Zürich ist ein europäischer Deeptech-Investor, der über 500 Mio. CHF in mehr als 200 Unternehmen vermittelt hat."
+    },
+    "sources": [
+      {
+        "url": "https://www.verve.vc/",
+        "title": "European Deep Tech Venture Capital Investor — Verve Ventures",
+        "publisher": "Verve Ventures",
+        "accessed": "2026-06-02",
+        "supports": "HQ, check size, stages, sector theses, portfolio",
+        "quote": "EUR 1-2M Initial ticket size ... Energy & Resources ... Future of Computing ... Health & Bio ... Metafuels, Q.ant ... C12 (quantum processors)"
+      },
+      {
+        "url": "https://www.verve.vc/blog/verve-ventures-loves-deep-tech-startups/",
+        "title": "Invest in deep tech startups — Verve Ventures",
+        "publisher": "Verve Ventures",
+        "accessed": "2026-06-02",
+        "supports": "founding year, CHF facilitated, company count",
+        "quote": "Founded in 2010 ... over CHF 500 million in startup investment across more than 200 companies"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Operates a hybrid fund + co-investment platform model, so 'AUM' is reported as CHF facilitated rather than a single fund. Founding year 2010 and CHF 500M+ from firm sources/secondary; HQ stated variously as Zurich/Zug.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-robocap",
+    "name": { "en": "Robocap" },
+    "aka": ["RoboCap LLP", "RoboCap UCITS Fund"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.robocap.com/",
+    "links": {
+      "linkedin": "https://uk.linkedin.com/company/robocap-ltd",
+      "crunchbase": "https://www.crunchbase.com/organization/robocap"
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Global"],
+      "sector_focus": ["robotics", "ai-ml", "hardware-semiconductor"],
+      "thesis": "London-based investment manager running the world's first 'pure play' robotics, automation and AI listed-equity fund (RoboCap UCITS), selecting ~25–40 pure-play stocks (≥40% of sales from robotics/automation/AI) from a universe of ~350–400 companies."
+    },
+    "track_record": {
+      "portfolio_count": "~25–40 listed positions"
+    },
+    "application": { "accepts_cold_inbound": false },
+    "tags": ["robotics", "automation", "ai", "listed-equity", "ucits"],
+    "summary": {
+      "en": "Robocap (founded 2015, London) is an investment manager focused on robotics, automation and AI. Its RoboCap UCITS Fund — launched January 2016 — is described as the world's first 'pure play' robotics listed-equity fund, holding ~25–40 stocks with ≥40% of sales from robotics/automation/AI out of a ~350–400 company universe.",
+      "local": "Robocap, basé à Londres, gère le premier fonds coté 'pure play' au monde dédié à la robotique, à l'automatisation et à l'IA."
+    },
+    "sources": [
+      {
+        "url": "https://www.robocap.com/",
+        "title": "Founded in 2015 Robocap is a pioneer of robotics and AI investing",
+        "publisher": "Robocap",
+        "accessed": "2026-06-02",
+        "supports": "founding year, focus, HQ",
+        "quote": "Founded in 2015 Robocap is a pioneer of robotics and AI investing ... companies which are key beneficiaries of the increasing impact of AI and robotics"
+      },
+      {
+        "url": "https://www.robocap.com/products/robocap-ucits-fund/",
+        "title": "Robocap UCITS Fund",
+        "publisher": "Robocap",
+        "accessed": "2026-06-02",
+        "supports": "fund type, launch date, stock selection, pure-play definition",
+        "quote": "world's first 'pure play' fund in robotics listed stocks, launched on 4 January 2016 ... 40% of sales coming from Robotics, Automation and AI related end markets ... around 25-40 positions out of a target universe of about 400 stocks"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Robocap invests in listed (public) robotics equities via a UCITS fund rather than private venture rounds — included as a robotics-focused investment manager. Classified 'vc' loosely; truly a specialist listed-equity manager. NAV/fund size not reliably confirmed — left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-cybernetix-ventures",
+    "name": { "en": "Cybernetix Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "United States",
+    "hq_city": "Boston",
+    "offices": [
+      { "country": "United States", "city": "Boston" }
+    ],
+    "website": "https://www.cybernetix.vc/",
+    "links": {},
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["North America", "Europe"],
+      "sector_focus": ["robotics", "hardware-semiconductor", "ai-ml"],
+      "thesis": "Specialist fund investing exclusively in robotics, automation and industrial AI — autonomy, advanced manufacturing, sensing, robotics cybersecurity and cloud infrastructure — across North America and Europe."
+    },
+    "track_record": {},
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["robotics", "industrial-ai", "automation", "hardware"],
+    "summary": {
+      "en": "Cybernetix Ventures is a specialist fund investing exclusively in robotics, automation and industrial AI at pre-seed to Series A, across North America and Europe (autonomy, advanced manufacturing, sensing, cloud and robotics cybersecurity). HQ is in Boston with an explicit European investment mandate."
+    },
+    "sources": [
+      {
+        "url": "https://www.peony.ink/blog/top-robotics-vcs-europe",
+        "title": "Top Robotics VCs in Europe",
+        "publisher": "Peony",
+        "accessed": "2026-06-02",
+        "supports": "robotics-only focus, geography, stages",
+        "quote": "Cybernetix Ventures is a specialist fund investing exclusively in robotics, automation and industrial AI, with a geographic focus on North America and Europe, backing early-stage companies across autonomy, advanced manufacturing, cybersecurity for robotics, sensing and cloud infrastructure"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "US-headquartered (Boston) robotics fund with an explicit Europe mandate; included for European deal coverage but is not a Europe-domiciled fund. Fund size and check size not verified from a primary source — null. Single secondary source; confidence low.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "eu-earlybird-x",
+    "name": { "en": "Earlybird-X (Earlybird Venture Capital)" },
+    "aka": ["Earlybird UNI-X"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://earlybird.com/",
+    "links": {
+      "other": ["https://www.vestbee.com/vc-list/earlybird-uni-x"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Earlybird-X (UNI-X) Fund", "vintage_year": 2021, "size": { "raw": "€75M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["deeptech", "robotics", "ai-ml", "mobility"],
+      "thesis": "Earlybird's dedicated deep tech fund backing pre-seed and seed European university spin-offs in robotics, artificial intelligence and mobility."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Philipp Semmer", "role": "Partner" },
+      { "name": "Michael Schmitt", "role": "Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["deeptech", "robotics", "university-spinouts", "ai", "mobility"],
+    "summary": {
+      "en": "Earlybird-X (UNI-X) is the dedicated deep tech fund of Berlin-based Earlybird Venture Capital, a €75M vehicle launched in 2021 backing pre-seed/seed European university spinouts in robotics, AI and mobility. Its partners later spun out a successor university-spinout fund (U2V).",
+      "local": "Earlybird-X ist der spezialisierte Deeptech-Fonds der Berliner Earlybird Venture Capital, ein 75-Mio.-Euro-Fonds für europäische Universitäts-Spin-offs in Robotik, KI und Mobilität."
+    },
+    "sources": [
+      {
+        "url": "https://www.eu-startups.com/2025/12/earlybird-x-spin-off-u2v-launches-e60-million-fund-back-deeptech-startups-from-european-tech-universities/",
+        "title": "Earlybird-X spin-off U2V launches €60 million fund to back DeepTech startups",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-02",
+        "supports": "Earlybird-X focus, partners, successor fund",
+        "quote": "spin-off from Earlybird-X ... back early-stage DeepTech startups from European tech universities ... launched by Philipp Semmer, Michael Schmitt and Johannes Triebs, who are partners at Earlybird X"
+      },
+      {
+        "url": "https://www.vestbee.com/vc-list/earlybird-uni-x",
+        "title": "Earlybird UNI-X",
+        "publisher": "Vestbee",
+        "accessed": "2026-06-02",
+        "supports": "fund size €75M, focus, launch year, HQ",
+        "quote": "Earlybird X is a €75m fund launched in 2021 to back university spinouts ... robotics, artificial intelligence, and mobility ... based in Berlin"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Earlybird-X is a thematic deeptech fund within the broader Earlybird platform; €75M and 2021 launch per Vestbee/EU-Startups. Successor U2V (€60M, 2025) is a related spinout, not separately entered here.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  }
+]

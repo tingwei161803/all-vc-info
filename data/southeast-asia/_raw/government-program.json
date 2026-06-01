@@ -1,0 +1,1140 @@
+[
+  {
+    "id": "sea-startup-sg",
+    "name": { "en": "Startup SG (Enterprise Singapore)" },
+    "aka": ["Startup SG", "StartupSG", "Enterprise Singapore startup schemes"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.startupsg.gov.sg/",
+    "links": {
+      "other": ["https://www.enterprisesg.gov.sg/grow-your-business/partner-with-singapore/innovation-and-startups/join-startup-sg"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "Founder grant S$20,000–S$50,000; Tech POC up to S$250,000, POV up to S$500,000", "usd_min": 15000, "usd_max": 370000 },
+      "geo_focus": ["Singapore"],
+      "sector_focus": ["generalist", "deeptech"],
+      "thesis": "National umbrella brand administered by Enterprise Singapore that unifies government support schemes for startups: Founder grants, equity co-investment, deep-tech proof-of-concept funding, accelerator support, talent and loans."
+    },
+    "program": {
+      "equity_taken_pct": "0",
+      "investment": { "raw": "S$20,000–S$50,000 (Founder grant, 1:1 matching)", "usd": null, "currency": "SGD" },
+      "format": "in-person",
+      "location": "Singapore",
+      "application_url": "https://www.startupsg.gov.sg/",
+      "eligibility": "Singapore-registered startups; Startup SG Founder requires first-time entrepreneurs applying through an Accredited Mentor Partner."
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to individual schemes via Enterprise Singapore; Startup SG Founder applications go through Accredited Mentor Partners (AMPs).",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "singapore", "national-program", "grant", "co-investment"],
+    "summary": {
+      "en": "Startup SG is Singapore's national umbrella programme, administered by Enterprise Singapore, bundling support schemes including Startup SG Founder (S$20K–S$50K matched grants for first-time founders), Startup SG Tech (POC up to S$250K, POV up to S$500K), Startup SG Equity (government co-investment), Accelerator, Talent and Loan."
+    },
+    "sources": [
+      {
+        "url": "https://www.enterprisesg.gov.sg/grow-your-business/partner-with-singapore/innovation-and-startups/join-startup-sg",
+        "title": "Join Startup SG",
+        "publisher": "Enterprise Singapore",
+        "accessed": "2026-06-02",
+        "supports": "Administered by Enterprise Singapore; sub-schemes Founder, Tech, Equity, Accelerator, Talent, Loan",
+        "quote": "Startup SG Equity ... Co-invest with independent, qualified third party investors into eligible startups"
+      },
+      {
+        "url": "https://grants.sg/grants/startup-sg-founder/",
+        "title": "Startup SG Founder grant",
+        "publisher": "grants.sg",
+        "accessed": "2026-06-02",
+        "supports": "Founder grant amount and 1:1 matching from 1 April 2024",
+        "quote": "Startup SG Founder — S$20,000 to S$50,000 (1:1 matching ratio with founder's capital injection)"
+      },
+      {
+        "url": "https://www.enterprisesg.gov.sg/grow-your-business/partner-with-singapore/innovation-and-startups/join-startup-sg",
+        "title": "Startup SG Tech",
+        "publisher": "Enterprise Singapore / Acclime guide",
+        "accessed": "2026-06-02",
+        "supports": "Startup SG Tech POC/POV funding amounts",
+        "quote": "POC projects can receive funding of up to S$250,000. POV projects can receive up to S$500,000 in funding."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Startup SG launched in 2017 as an umbrella brand. Founder grant amounts revised effective 1 April 2024 to 1:1 matching (S$20K–S$50K). POC/POV figures sourced from secondary guides reflecting Enterprise Singapore terms.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-sginnovate",
+    "name": { "en": "SGInnovate" },
+    "aka": ["SG Innovate"],
+    "type": "government-program",
+    "subtypes": ["cvc", "vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.sginnovate.com/",
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/SGInnovate"]
+    },
+    "capital": {
+      "current_fund": { "raw": "~S$200M (portion of Startup SG Equity)", "usd": null, "currency": "SGD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Singapore"],
+      "sector_focus": ["deeptech", "ai-ml", "biotech", "climate-energy"],
+      "thesis": "Government-owned deep-tech investing and venture-building platform that co-invests in research-driven, science-based startups spun out of Singapore's universities and research institutes."
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Engage via SGInnovate's deep-tech programmes and co-investment as a Startup SG Equity fund manager.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "singapore", "deep-tech", "co-investment"],
+    "summary": {
+      "en": "SGInnovate is a government-owned innovation platform established in 2016 to develop and scale deep-tech startups from Singapore. It manages a roughly S$200 million portion of the Startup SG Equity fund and co-invests in research-driven technology companies."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/SGInnovate",
+        "title": "SGInnovate - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2016, government-owned, deep tech, manages $200M of Startup SG Equity",
+        "quote": "SGInnovate is a government-owned innovation platform in Singapore centred on the development of deep technology. It was established in 2016 ... SGInnovate manages a portion of the Startup SG Equity fund worth $200 million."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Government-owned (Government of Singapore). Specific check sizes not disclosed publicly.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-seeds-capital",
+    "name": { "en": "SEEDS Capital" },
+    "aka": ["SEEDS Capital Pte Ltd", "SPRING SEEDS"],
+    "type": "government-program",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.seedscapital.sg/",
+    "links": {
+      "linkedin": "https://sg.linkedin.com/company/seedscapitalsg",
+      "other": ["https://www.enterprisesg.gov.sg/financial-support/seeds-capital"]
+    },
+    "capital": {
+      "current_fund": { "raw": "S$150M over three years (to catalyse ~S$300M with partners)", "usd": null, "currency": "SGD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Singapore"],
+      "sector_focus": ["deeptech", "agritech", "healthtech", "climate-energy", "spacetech", "hardware-semiconductor"],
+      "thesis": "The investment arm of Enterprise Singapore; co-invests alongside qualified private VC partners under Startup SG Equity into Singapore-based deep-tech startups with global potential."
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Startups raise from one of SEEDS Capital's appointed co-investment partners, who can then trigger matched government co-investment.",
+      "accepts_cold_inbound": false
+    },
+    "tags": ["government", "singapore", "deep-tech", "co-investment"],
+    "summary": {
+      "en": "SEEDS Capital is Enterprise Singapore's investment arm, co-investing with private VC partners under the Startup SG Equity scheme into Singapore-based deep-tech startups. It set aside S$150M over three years to catalyse a further ~S$300M and has 100+ deep-tech startups in its portfolio. In 2025 it merged with EDBI to form SG Growth Capital."
+    },
+    "sources": [
+      {
+        "url": "https://www.seedscapital.sg/",
+        "title": "SEEDS Capital",
+        "publisher": "SEEDS Capital / Enterprise Singapore",
+        "accessed": "2026-06-02",
+        "supports": "Investment arm of EnterpriseSG; co-investment under Startup SG Equity; S$150M to catalyse S$300M; 100+ portfolio",
+        "quote": "Under the Startup SG Equity scheme, SEEDS sets aside S$150 million over three years to catalyze another S$300 million through private sector partners ... there are over 100 deep tech startups in SEEDS Capital's portfolio"
+      },
+      {
+        "url": "https://technode.global/2025/02/04/seeds-capital-appoints-20-new-partners-to-catalyze-at-least-220m-of-investments-into-singapore-based-deep-tech-startups/",
+        "title": "SEEDS Capital appoints 20 new partners",
+        "publisher": "TNGlobal",
+        "accessed": "2026-06-02",
+        "supports": "Recent partner appointments and target investment of at least US$220M",
+        "quote": "SEEDS Capital appoints 20 new partners to catalyze at least $220M of investments into Singapore-based deep tech startups"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "SEEDS Capital traces to SPRING SEEDS; in August 2024 SEEDS Capital and EDBI agreed to merge into SG Growth Capital Pte Ltd, effective April 2025. Exact founding year unclear, set null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-edbi",
+    "name": { "en": "EDBI" },
+    "aka": ["EDB Investments", "Economic Development Board Investments"],
+    "type": "government-program",
+    "subtypes": ["cvc", "growth-equity"],
+    "status": "active",
+    "founded_year": 1991,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://edbi.com/",
+    "links": {
+      "other": ["https://edbi.com/about/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Singapore", "Asia", "Global"],
+      "sector_focus": ["deeptech", "healthtech", "biotech", "ai-ml", "saas-enterprise"],
+      "thesis": "The corporate investment arm of Singapore's Economic Development Board; invests in high-growth global technology and healthcare companies and runs a fund-of-funds model, helping firms scale in and anchor to Singapore."
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Direct outreach to EDBI investment teams; selective late-stage and growth investing.",
+      "accepts_cold_inbound": false
+    },
+    "tags": ["government", "singapore", "growth", "fund-of-funds"],
+    "summary": {
+      "en": "EDBI, established in 1991, is the corporate investment arm of Singapore's Economic Development Board. It invests in high-growth global technology and healthcare companies (direct and via fund-of-funds) and is an appointed fund manager under Startup SG Equity. In 2025 it merged with SEEDS Capital to form SG Growth Capital."
+    },
+    "sources": [
+      {
+        "url": "https://edbi.com/about/",
+        "title": "About EDBI",
+        "publisher": "EDBI",
+        "accessed": "2026-06-02",
+        "supports": "Established 1991, corporate investment arm of EDB, invests in high-growth tech",
+        "quote": "EDBI, established in 1991, is the corporate investment arm of the Singapore Economic Development Board (EDB)."
+      },
+      {
+        "url": "https://edbi.com/formation-of-sg-growth-capital-to-bolster-singapores-efforts-in-building-innovative-enterprises/",
+        "title": "Formation of SG Growth Capital",
+        "publisher": "EDBI",
+        "accessed": "2026-06-02",
+        "supports": "EDBI and SEEDS Capital merged to form SG Growth Capital",
+        "quote": "Formation of SG Growth Capital to bolster Singapore's efforts in building innovative enterprises"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "EDBI and SEEDS Capital merged into SG Growth Capital Pte Ltd in August 2024, effective from April 2025; both brands still referenced. AUM not publicly disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-cradle-fund",
+    "name": { "en": "Cradle Fund", "local": "Cradle Fund Sdn Bhd" },
+    "aka": ["Cradle", "Cradle Investment Programme"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2003,
+    "region": "southeast-asia",
+    "country": "Malaysia",
+    "hq_city": "Kuala Lumpur",
+    "website": "https://www.cradle.com.my/",
+    "links": {
+      "other": ["https://www.mystartup.gov.my/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Malaysia"],
+      "sector_focus": ["generalist"],
+      "thesis": "Malaysia's early-stage startup funding agency, providing grants and conditional/equity investment to high-calibre tech startups through programmes such as CIP Spark, CIP Sprint and DEQ800."
+    },
+    "track_record": {
+      "portfolio_count": "1000+"
+    },
+    "program": {
+      "investment": { "raw": "CIP Spark and CIP Sprint grants; amounts vary by programme", "usd": null, "currency": "MYR" },
+      "location": "Kuala Lumpur",
+      "application_url": "https://www.cradle.com.my/",
+      "eligibility": "Malaysian-incorporated technology startups."
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to specific Cradle programmes (CIP Spark, CIP Sprint, etc.) via the Cradle website.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "malaysia", "grant", "early-stage"],
+    "summary": {
+      "en": "Cradle Fund Sdn Bhd is Malaysia's early-stage startup funding agency, established in 2003. It funds high-calibre technology startups through its Cradle Investment Programme and related grants, and has supported over 1,000 Malaysian technology-based companies. Cradle also powers the national MYStartup platform."
+    },
+    "sources": [
+      {
+        "url": "https://www.cradle.com.my/",
+        "title": "Cradle Fund",
+        "publisher": "Cradle Fund Sdn Bhd",
+        "accessed": "2026-06-02",
+        "supports": "Established 2003; over 1000 companies supported; HQ Kuala Lumpur; programmes",
+        "quote": "Cradle has supported over 1000 Malaysian Technology-Based companies across multiple sectors"
+      },
+      {
+        "url": "https://worq.space/blog/startups-fundings-malaysia/",
+        "title": "Ways to Get Startup Funding in Malaysia",
+        "publisher": "WORQ",
+        "accessed": "2026-06-02",
+        "supports": "Incorporated under Ministry of Finance in 2003 (per secondary source); later placed under MOSTI",
+        "quote": "Cradle Fund Sdn Bhd is Malaysia's early stage start-up influencer, incorporated under the Ministry of Finance Malaysia (MOF) in 2003"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Originally incorporated under the Ministry of Finance (2003); now operates as the focal-point agency under the Ministry of Science, Technology and Innovation (MOSTI). Specific grant amounts vary by programme and were not consistently disclosed; set null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-jelawang-capital",
+    "name": { "en": "Jelawang Capital" },
+    "aka": ["Jelawang Capital Sdn Bhd", "Malaysia National Fund-of-Funds", "NFOF"],
+    "type": "government-program",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "southeast-asia",
+    "country": "Malaysia",
+    "hq_city": "Kuala Lumpur",
+    "website": "https://www.jelawangcapital.com/",
+    "links": {
+      "other": ["https://www.khazanah.com.my/news_press_releases/khazanah-launches-jelawang-capital-as-national-fund-of-funds-to-accelerate-growth-of-malaysias-venture-capital-ecosystem/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "RM1 billion initial allocation", "usd": null, "currency": "MYR" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Malaysia", "Southeast Asia"],
+      "sector_focus": ["generalist"],
+      "thesis": "Malaysia's national fund-of-funds under Khazanah's Dana Impak, investing into VC fund managers (not directly into startups) to deepen the domestic venture capital ecosystem via the Emerging Fund Managers' Programme and Regional Managers' Initiative."
+    },
+    "people": [
+      { "name": "Bryan Lim", "role": "Chief Executive Officer (also Khazanah Head of Dana Impak)" }
+    ],
+    "application": {
+      "how_to_apply": "VC fund managers apply to the Emerging Fund Managers' Programme (EMP) or Regional Managers' Initiative (RMI).",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "malaysia", "fund-of-funds", "khazanah"],
+    "summary": {
+      "en": "Jelawang Capital is Malaysia's national fund-of-funds, launched in 2024 by Khazanah Nasional after consolidating MAVCAP and Penjana Kapital. With an initial RM1 billion allocation under Khazanah's Dana Impak, it invests into VC fund managers via the Emerging Fund Managers' Programme and Regional Managers' Initiative to accelerate Malaysia's venture capital ecosystem."
+    },
+    "sources": [
+      {
+        "url": "https://www.khazanah.com.my/news_press_releases/khazanah-launches-jelawang-capital-as-national-fund-of-funds-to-accelerate-growth-of-malaysias-venture-capital-ecosystem/",
+        "title": "Khazanah launches Jelawang Capital as national fund-of-funds",
+        "publisher": "Khazanah Nasional Berhad",
+        "accessed": "2026-06-02",
+        "supports": "Launch 2024; RM1 billion; merger of MAVCAP and Penjana Kapital; EMP and RMI; CEO Bryan Lim",
+        "quote": "Jelawang Capital has an initial allocation of RM1 billion under Khazanah's Dana Impak initiative."
+      },
+      {
+        "url": "https://technode.global/2024/10/28/malaysias-khazanah-launches-jelawang-capital-as-national-fund-of-funds-to-boost-vc-ecosystem/",
+        "title": "Malaysia's Khazanah launches Jelawang Capital",
+        "publisher": "TNGlobal",
+        "accessed": "2026-06-02",
+        "supports": "Consolidation of MAVCAP and Penjana Kapital in July 2024",
+        "quote": "following the consolidation of Malaysia Venture Capital Management and Penjana Kapital in July"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Launched October 2024 (announced in Budget 2025). Replaces and consolidates the former MAVCAP and Penjana Kapital government VC vehicles. Operates as a fund-of-funds, not a direct startup investor.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-mystartup",
+    "name": { "en": "MYStartup" },
+    "aka": ["MYStartup Malaysia"],
+    "type": "government-program",
+    "subtypes": ["accelerator", "incubator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "southeast-asia",
+    "country": "Malaysia",
+    "hq_city": "Kuala Lumpur",
+    "website": "https://www.mystartup.gov.my/",
+    "links": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Malaysia"],
+      "sector_focus": ["generalist"],
+      "thesis": "National startup ecosystem platform initiated by MOSTI and powered by Cradle Fund; centralises funding directories and runs accelerator, pre-accelerator, bootcamp and hackathon programmes."
+    },
+    "program": {
+      "format": "hybrid",
+      "location": "Malaysia",
+      "application_url": "https://www.mystartup.gov.my/",
+      "eligibility": "Malaysian founders and early-stage startups."
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to MYStartup Accelerator, Pre-Accelerator, Bootcamp or VentureX via the platform.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "malaysia", "national-platform", "accelerator"],
+    "summary": {
+      "en": "MYStartup is Malaysia's national startup ecosystem platform, an initiative of the Ministry of Science, Technology and Innovation (MOSTI) powered by Cradle Fund. It centralises a directory of national funding agencies and runs programmes including MYStartup Accelerator, Pre-Accelerator, Bootcamp, VentureX and MYHackathon."
+    },
+    "sources": [
+      {
+        "url": "https://www.mystartup.gov.my/",
+        "title": "MYStartup: Malaysia's Startup Ecosystem Directory",
+        "publisher": "MYStartup / Cradle Fund",
+        "accessed": "2026-06-02",
+        "supports": "Initiated by MOSTI, powered by Cradle Fund; programmes list",
+        "quote": "An Initiative By ... Ministry of Science, Technology and Innovation (MOSTI) ... Powered By ... Cradle Fund"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year not stated on site (program launched circa 2022). Operated as a platform/program rather than a fund; equity and cohort figures not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-gerakan-1000-startup-digital",
+    "name": { "en": "National Movement of 1000 Digital Startups", "local": "Gerakan Nasional 1000 Startup Digital" },
+    "aka": ["1000 Startup Digital", "Gerakan 1000 Startup Digital"],
+    "type": "government-program",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "hq_city": "Jakarta",
+    "website": "https://1000startupdigital.id/",
+    "links": {
+      "other": ["https://id.wikipedia.org/wiki/Gerakan_Nasional_1000_Startup_Digital"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Indonesia"],
+      "sector_focus": ["agritech", "healthtech", "edtech", "logistics", "generalist"],
+      "thesis": "Government mentoring and incubation movement (no direct funding) to nurture thousands of new Indonesian digital startups across priority sectors such as agriculture, marine, health, education, tourism and logistics."
+    },
+    "program": {
+      "equity_taken_pct": "0",
+      "investment": { "raw": "No funding provided", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Multiple Indonesian cities",
+      "application_url": "https://1000startupdigital.id/",
+      "eligibility": "Aspiring Indonesian digital founders."
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Register for the program cohorts via 1000startupdigital.id.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "indonesia", "incubation", "mentoring", "no-funding"],
+    "summary": {
+      "en": "Gerakan Nasional 1000 Startup Digital is an early-stage mentoring and incubation programme launched in 2016 by Indonesia's Ministry of Communication and Information (Kominfo). It does not provide funding; instead it facilitates networking, team formation and mentoring across six priority sectors.",
+      "local": "Gerakan Nasional 1000 Startup Digital adalah program pendampingan startup tahap awal yang diinisiasi Kementerian Komunikasi dan Informatika sejak 2016; program ini tidak memberikan dukungan dalam bentuk pendanaan."
+    },
+    "sources": [
+      {
+        "url": "https://id.wikipedia.org/wiki/Gerakan_Nasional_1000_Startup_Digital",
+        "title": "Gerakan Nasional 1000 Startup Digital",
+        "publisher": "Wikipedia (id)",
+        "accessed": "2026-06-02",
+        "supports": "Launched 2016 by Kominfo; no funding; six focus sectors",
+        "quote": "Gerakan Nasional 1000 Startup Digital tidak memberikan dukungan dalam bentuk pendanaan."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Mentoring/incubation program with no capital deployment; included as a public-sector startup program per segment scope.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-baparekraf-for-startup",
+    "name": { "en": "Baparekraf for Startup (BEKUP)", "local": "Baparekraf for Startup" },
+    "aka": ["BEKUP", "BEKRAF for Pre-Startup", "Baparekraf Digital Startup"],
+    "type": "government-program",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "hq_city": "Jakarta",
+    "website": "https://bekup.kemenparekraf.go.id/",
+    "links": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Indonesia"],
+      "sector_focus": ["generalist"],
+      "thesis": "Public-sector pre-startup and startup capacity-building program run by Indonesia's tourism and creative economy authority (Kemenparekraf/Baparekraf), equipping founders with skills and knowledge to reduce failure risk."
+    },
+    "program": {
+      "equity_taken_pct": "0",
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Indonesia",
+      "application_url": "https://bekup.kemenparekraf.go.id/",
+      "eligibility": "Indonesian prospective and early-stage startup founders."
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to BEKUP program cohorts via the Baparekraf for Startup site.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "indonesia", "creative-economy", "incubation"],
+    "summary": {
+      "en": "Baparekraf for Startup (BEKUP), originally BEKRAF for Pre-Startup, is an Indonesian government capacity-building program (launched 2016) run by the Ministry of Tourism and Creative Economy / Baparekraf. It equips prospective and early-stage founders with the skills and knowledge to build startups, minimising the risk of failure.",
+      "local": "Baparekraf for Startup (BEKUP) bertujuan meningkatkan jumlah startup berkualitas di Indonesia melalui program yang membekali calon pendiri startup dengan keterampilan dan pengetahuan."
+    },
+    "sources": [
+      {
+        "url": "https://bekup.kemenparekraf.go.id/",
+        "title": "Baparekraf for Startup",
+        "publisher": "Kemenparekraf / Baparekraf",
+        "accessed": "2026-06-02",
+        "supports": "Government program under Kemenparekraf/Baparekraf; capacity building; originally BEKRAF",
+        "quote": "BEKUP aims to increase the number of quality startups in Indonesia through a program to equip prospective startup founders with the skills and knowledge needed"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Originated as BEKRAF for Pre-Startup (2016) under the now-merged Creative Economy Agency (BEKRAF); now run by Kemenparekraf/Baparekraf. Capacity-building/incubation, not a funding vehicle.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-indonesia-investment-authority",
+    "name": { "en": "Indonesia Investment Authority (INA)", "local": "Lembaga Pengelola Investasi" },
+    "aka": ["INA", "LPI", "Lembaga Pengelola Investasi"],
+    "type": "government-program",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "hq_city": "Jakarta",
+    "website": "https://www.ina.go.id/",
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/Indonesia_Investment_Authority"]
+    },
+    "capital": {
+      "aum": { "raw": "~Rp118.87 trillion (~US$7.9B, 2023); target US$24.5B", "usd": 7900000000, "currency": "IDR" }
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "geo_focus": ["Indonesia"],
+      "sector_focus": ["generalist", "healthtech", "logistics", "climate-energy"],
+      "thesis": "Indonesia's sovereign wealth fund, co-investing with global partners primarily in infrastructure, energy, logistics and select strategic sectors; largely late-stage/mature companies rather than early-stage startups."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Traveloka", "sector": "travel-tech", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Institutional co-investment partnerships; not a startup application program.",
+      "accepts_cold_inbound": false
+    },
+    "tags": ["government", "indonesia", "sovereign-fund", "late-stage"],
+    "summary": {
+      "en": "The Indonesia Investment Authority (INA) is Indonesia's sovereign wealth fund, launched in February 2021 with a target to manage US$24.5 billion. It co-invests with global partners mainly in infrastructure, energy and logistics; its only notable tech exposure is a US$300M late-stage investment in Traveloka, so it is only tangentially a startup-funding body."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Indonesia_Investment_Authority",
+        "title": "Indonesia Investment Authority - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founded Feb 2021; sovereign wealth fund; AUM ~Rp118.87T; Traveloka US$300M investment",
+        "quote": "The INA was launched in February 2021 ... It has a target of managing $24.5 billion of assets."
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Included because segment scope mentions national/sovereign funds, but INA is predominantly an infrastructure/late-stage co-investor, not a startup-focused fund. May be integrated into Danantara, Indonesia's larger 2025 sovereign fund, over time.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-nia-thailand",
+    "name": { "en": "National Innovation Agency (Thailand)", "local": "สำนักงานนวัตกรรมแห่งชาติ" },
+    "aka": ["NIA", "NIA Thailand", "Startup Thailand"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2003,
+    "region": "southeast-asia",
+    "country": "Thailand",
+    "hq_city": "Bangkok",
+    "website": "https://www.nia.or.th/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/national-innovation-agency-public-organization",
+      "other": ["https://www.devex.com/organizations/national-innovation-agency-thailand-245373"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "Grants up to ฿5M per business; corporate co-funding up to ฿10M (seed to pre-Series A)", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Thailand"],
+      "sector_focus": ["agritech", "climate-energy", "ai-ml", "robotics", "mobility", "deeptech"],
+      "thesis": "Thailand's national innovation agency under MHESI, supporting startups and innovators via a 'Groom-Grant-Growth-Global' strategy with grants, thematic innovation funding and a corporate co-funding (equity) scheme."
+    },
+    "program": {
+      "investment": { "raw": "Thematic Innovation grants up to ฿5M; over ฿200M total (2022)", "usd": null, "currency": "THB" },
+      "location": "Bangkok",
+      "application_url": "https://www.nia.or.th/",
+      "eligibility": "Thai-owned (51%+) startups/companies with their own technology or innovation; typically 3+ years industry experience for thematic grants."
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to NIA grant/co-funding schemes (e.g. Thematic Innovation, corporate co-funding) via nia.or.th.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "thailand", "grant", "co-investment", "startup-thailand"],
+    "summary": {
+      "en": "The National Innovation Agency (NIA) is Thailand's public agency under the Ministry of Higher Education, Science, Research and Innovation (MHESI), established in 2003. It supports startups via a 'Groom-Grant-Growth-Global' strategy, offering thematic innovation grants (over ฿200M in 2022, up to ฿5M per business) and a corporate co-funding scheme investing up to ฿10M at seed to pre-Series A. It also runs the Startup Thailand brand."
+    },
+    "sources": [
+      {
+        "url": "https://www.nationthailand.com/thailand/policies/40021452",
+        "title": "State agency offers THB200m grants to startups",
+        "publisher": "The Nation Thailand",
+        "accessed": "2026-06-02",
+        "supports": "Over ฿200M grants in 2022; up to ฿5M per business via Thematic Innovation; 51% Thai ownership",
+        "quote": "Thailand's National Innovation Agency (NIA) offered over 200 million baht to startups in 2022 through the \"Thematic Innovation\" programme ... Up to 5 million baht available per business"
+      },
+      {
+        "url": "https://www.bangkokpost.com/business/general/2858292/nia-targets-startups-for-global-expansion",
+        "title": "NIA corporate co-funding scheme",
+        "publisher": "Bangkok Post",
+        "accessed": "2026-06-02",
+        "supports": "Corporate co-funding invests up to ฿10M at seed to pre-Series A",
+        "quote": "NIA's corporate co-funding scheme mainly invests in startups at the seed to pre-series A levels by investing up to 10 million baht."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Established by Cabinet resolution 2003; constituted as a Public Organization in 2009, now under MHESI. Grant figures are program/year specific.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-ted-fund-thailand",
+    "name": { "en": "Technology and Innovation-Based Enterprise Development Fund (TED Fund)", "local": "กองทุนพัฒนาผู้ประกอบการเทคโนโลยีและนวัตกรรม" },
+    "aka": ["TED Fund", "TEDFund"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "southeast-asia",
+    "country": "Thailand",
+    "hq_city": "Bangkok",
+    "website": "https://tedfund.mhesi.go.th/",
+    "links": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "TED Youth Startup ฿100,000–฿1,500,000; Market Scaling Up / Startups-for-Startups up to ฿2,000,000", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Thailand"],
+      "sector_focus": ["generalist", "deeptech"],
+      "thesis": "Government grant fund under MHESI providing capital to technology and innovation entrepreneurs, students and startups, including youth-startup grants and market scale-up support."
+    },
+    "program": {
+      "equity_taken_pct": "0",
+      "investment": { "raw": "Up to ฿1.5M (TED Youth Startup); up to ฿2M (scaling); ~฿200–220M annual target", "usd": null, "currency": "THB" },
+      "location": "Bangkok",
+      "application_url": "https://tedfund.mhesi.go.th/",
+      "eligibility": "Thai tech/innovation entrepreneurs; TED Youth Startup targets students and graduates up to 5 years post-graduation."
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to TED Fund programs (TED Youth Startup, Market Scaling Up, Startups for Startups) via tedfund.mhesi.go.th.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "thailand", "grant", "youth-startup"],
+    "summary": {
+      "en": "TED Fund is Thailand's Technology and Innovation-Based Enterprise Development Fund under MHESI. It provides grants to tech/innovation entrepreneurs and startups, including TED Youth Startup (฿100,000–฿1,500,000 for students/graduates), Market Scaling Up and Startups-for-Startups (up to ฿2,000,000 per project), with annual support targets around ฿200–220M.",
+      "local": "กองทุนพัฒนาผู้ประกอบการเทคโนโลยีและนวัตกรรม (TED Fund) สนับสนุนเงินทุนแก่ผู้ประกอบการเทคโนโลยีและนวัตกรรมและสตาร์ทอัพ"
+    },
+    "sources": [
+      {
+        "url": "https://tedfund.mhesi.go.th/index.php/join-proj/startups-for-startups",
+        "title": "Startups for Startups / TED Fund programs",
+        "publisher": "TED Fund, MHESI",
+        "accessed": "2026-06-02",
+        "supports": "Program grant amounts and MHESI affiliation",
+        "quote": "the Startups for Startups program ... supports up to 2,000,000 baht per project, with the fund covering no more than 90% of the total project value"
+      },
+      {
+        "url": "https://tedfund.mhesi.go.th/index.php/pr-news/news/429-tedfund-news-26102565",
+        "title": "TED Fund 2566 funding target",
+        "publisher": "TED Fund, MHESI",
+        "accessed": "2026-06-02",
+        "supports": "Annual funding target ~220M baht (2023)",
+        "quote": "ปี 2566 ตั้งเป้าสนับสนุนทุน ... วงเงิน 220 ล้านบาท"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Operates under the Ministry of Higher Education, Science, Research and Innovation (MHESI). Founding year not clearly stated; grant amounts are program-specific.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-depa-thailand",
+    "name": { "en": "Digital Economy Promotion Agency (depa)", "local": "สำนักงานส่งเสริมเศรษฐกิจดิจิทัล" },
+    "aka": ["depa", "DEPA", "Digital Economy Promotion Agency"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "southeast-asia",
+    "country": "Thailand",
+    "hq_city": "Bangkok",
+    "website": "https://www.depa.or.th/",
+    "links": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Thailand"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "deeptech", "generalist"],
+      "thesis": "Government agency promoting Thailand's digital economy; runs a startup fund and co-investment/voucher mechanisms, the Smart City initiative and digital innovation institutes to elevate Thai digital startups."
+    },
+    "program": {
+      "investment": { "raw": null, "usd": null, "currency": "THB" },
+      "location": "Bangkok",
+      "application_url": "https://www.depa.or.th/",
+      "eligibility": "Thai digital startups and SMEs."
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to depa funds, vouchers and co-investment programs via depa.or.th.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "thailand", "digital-economy", "co-investment"],
+    "summary": {
+      "en": "The Digital Economy Promotion Agency (depa) is a Thai government agency that promotes the country's digital economy. It manages a startup fund, runs digital innovation institutes, the Smart City initiative and co-investment/voucher mechanisms aimed at developing Thai digital startups."
+    },
+    "sources": [
+      {
+        "url": "https://startupchiangmai.com/thai-government-agencies-startups",
+        "title": "Thailand's Digital Departments and Agencies",
+        "publisher": "Startup Chiang Mai",
+        "accessed": "2026-06-02",
+        "supports": "depa manages a startup fund, IoT/digital institute, co-working, Smart City",
+        "quote": "DEPA manages a startup fund, runs an IoT & Digital Innovation Institute ... including overseeing the Smart City initiative."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "depa was established under the Digital Development for Economy and Society Act B.E. 2560 (2017). Specific co-investment amounts not consistently disclosed; set null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-nssc-vietnam",
+    "name": { "en": "National Startup Support Center (Vietnam)", "local": "Trung tâm Hỗ trợ khởi nghiệp sáng tạo Quốc gia" },
+    "aka": ["NSSC", "NSSC Vietnam", "Project 844 office"],
+    "type": "government-program",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "southeast-asia",
+    "country": "Vietnam",
+    "hq_city": "Hanoi",
+    "website": "https://nssc.gov.vn/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/nsscvietnam/",
+      "other": ["https://www.crunchbase.com/organization/national-startup-support-center"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Vietnam"],
+      "sector_focus": ["deeptech", "climate-energy", "agritech", "healthtech", "generalist"],
+      "thesis": "Vietnam's leading public hub for innovation and entrepreneurship under the Ministry of Science and Technology; implements Project 844 (the national startup support scheme) and runs the flagship Techfest Vietnam to support early- and growth-stage startups."
+    },
+    "program": {
+      "equity_taken_pct": "0",
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Hanoi",
+      "application_url": "https://nssc.gov.vn/",
+      "eligibility": "Vietnamese innovative startups and ecosystem builders."
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Engage via Techfest Vietnam and NSSC/Project 844 support programs.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "vietnam", "techfest", "project-844"],
+    "summary": {
+      "en": "The National Startup Support Center (NSSC) is Vietnam's leading public hub for innovation and entrepreneurship, established by the Ministry of Science and Technology. It implements Project 844 (the national startup support scheme, established by Decision 844/QD-TTg in 2016) and runs the flagship Techfest Vietnam, supporting startups across deeptech, greentech, agritech, healthtech and digital transformation.",
+      "local": "Trung tâm Hỗ trợ khởi nghiệp sáng tạo Quốc gia (NSSC) là đầu mối công lập hàng đầu của Việt Nam hỗ trợ đổi mới sáng tạo và khởi nghiệp, trực thuộc Bộ Khoa học và Công nghệ."
+    },
+    "sources": [
+      {
+        "url": "https://www.linkedin.com/company/nsscvietnam/",
+        "title": "National Startup Support Centre of Vietnam",
+        "publisher": "NSSC / LinkedIn",
+        "accessed": "2026-06-02",
+        "supports": "Established by Ministry of Science and Technology; flagship Techfest Vietnam; sectors",
+        "quote": "The National Startup Support Center (NSSC) was established by the Ministry of Science and Technology of Vietnam and is the country's leading public hub for supporting innovation and entrepreneurship."
+      },
+      {
+        "url": "https://ven.vn/project-844-a-catalyst-for-vietnamese-startup-surge-35715.html",
+        "title": "Project 844: A catalyst for Vietnamese startup surge",
+        "publisher": "Vietnam Economic News",
+        "accessed": "2026-06-02",
+        "supports": "Project 844 launched 2016 via Decision 844/QD-TTg; expanded 2021",
+        "quote": "The Vietnamese government launched Project 844 in 2016 (Decision No. 844/QD-TTg)"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "NSSC operates as the implementing hub of Project 844 under the Ministry of Science and Technology. It provides support/networking and runs Techfest rather than direct equity funding. Exact founding year of NSSC not clearly stated; set null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-natec-vietnam",
+    "name": { "en": "National Agency for Technology Entrepreneurship and Commercialization Development (NATEC)", "local": "Cục Phát triển thị trường và doanh nghiệp khoa học và công nghệ" },
+    "aka": ["NATEC", "NATEC Vietnam"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": null,
+    "region": "southeast-asia",
+    "country": "Vietnam",
+    "hq_city": "Hanoi",
+    "website": "https://natec.gov.vn/",
+    "links": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Vietnam"],
+      "sector_focus": ["deeptech", "generalist"],
+      "thesis": "Agency under Vietnam's Ministry of Science and Technology responsible for technology entrepreneurship and commercialization; co-leads the national innovative startup ecosystem (Project 844) and international startup connections."
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Engage via Project 844 and NATEC programs under the Ministry of Science and Technology.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "vietnam", "project-844", "commercialization"],
+    "summary": {
+      "en": "NATEC is Vietnam's National Agency for Technology Entrepreneurship and Commercialization Development, under the Ministry of Science and Technology. It co-leads the national innovative startup ecosystem through Project 844, supports technology commercialization and builds international startup connections (e.g. Silicon Valley, Startup World Cup)."
+    },
+    "sources": [
+      {
+        "url": "https://us.acrofan.com/detail.php?number=731613",
+        "title": "Vietnam-US Innovative Startup Ecosystem by NATEC / Techfest",
+        "publisher": "Acrofan",
+        "accessed": "2026-06-02",
+        "supports": "NATEC under Ministry of Science and Technology; supports Project 844 ecosystem",
+        "quote": "NATEC is the National Agency for Technology Entrepreneurship and Commercialization Development under the Ministry of Science and Technology."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "NATEC and NSSC both operate under the Ministry of Science and Technology supporting Project 844; their mandates overlap. Founding year not clearly stated; set null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-startup-venture-fund-philippines",
+    "name": { "en": "Startup Venture Fund (Philippines)" },
+    "aka": ["SVF", "Philippine Startup Venture Fund"],
+    "type": "government-program",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "southeast-asia",
+    "country": "Philippines",
+    "hq_city": "Manila",
+    "website": "https://www.ndc.gov.ph/latest-updates/ndcs-startup-venture-fund",
+    "links": {
+      "other": ["https://innovate.dti.gov.ph/dti-launches-p250m-philippine-startup-venture-fund/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "PHP 250 million (~US$5M)", "usd": 5000000, "currency": "PHP" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Philippines"],
+      "sector_focus": ["generalist"],
+      "thesis": "Government venture capital fund established under the Innovative Startup Act, deployed by DTI and the National Development Company to co-invest in innovative Philippine startups from Seed to Series B."
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Co-investment through DTI/NDC and QBO Innovation Hub processes.",
+      "accepts_cold_inbound": false
+    },
+    "tags": ["government", "philippines", "venture-fund", "co-investment"],
+    "summary": {
+      "en": "The Startup Venture Fund (SVF) is a Philippine government venture capital fund created under the Innovative Startup Act (R.A. 11337) and launched in November 2021 by the Department of Trade and Industry and the National Development Company, with QBO Innovation Hub. The NDC allocated PHP 250 million (~US$5M) to co-invest in innovative startups from Seed to Series B."
+    },
+    "sources": [
+      {
+        "url": "https://innovate.dti.gov.ph/dti-launches-p250m-philippine-startup-venture-fund/",
+        "title": "DTI launches P250M Philippine Startup Venture Fund",
+        "publisher": "DTI Philippines",
+        "accessed": "2026-06-02",
+        "supports": "PHP 250M fund launched by DTI and NDC; Seed to Series B",
+        "quote": "The NDC allocated PHP 250 million (US$5M) venture fund for innovative Philippine startups in the Seed to Series B stage."
+      },
+      {
+        "url": "https://www.phildev.org/news/11-government-funding-opportunities-for-startups-in-the-philippines/",
+        "title": "Government Funding Opportunities for Startups in the Philippines",
+        "publisher": "PhilDev",
+        "accessed": "2026-06-02",
+        "supports": "SVF under DTI-NDC; created by Innovative Startup Act",
+        "quote": "DTI-NDC launched the Startup Venture Fund (SVF), a venture capital fund developed to support the startup ecosystem in the Philippines"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Launched 19 November 2021 during Philippine Startup Week. Initial seed allocation PHP 250M (~US$5M).",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-qbo-innovation-hub",
+    "name": { "en": "QBO Innovation Hub" },
+    "aka": ["QBO", "QBO Innovation"],
+    "type": "government-program",
+    "subtypes": ["incubator", "accelerator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "southeast-asia",
+    "country": "Philippines",
+    "hq_city": "Makati",
+    "website": "https://www.qboinnovation.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/qbophilippines"
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Philippines"],
+      "sector_focus": ["generalist"],
+      "thesis": "The Philippines' first public-private partnership startup innovation hub, providing incubation, mentorship, programs, coworking and access to investors for Filipino startups."
+    },
+    "track_record": {
+      "portfolio_count": "700+"
+    },
+    "program": {
+      "equity_taken_pct": "0",
+      "format": "in-person",
+      "location": "Makati, Metro Manila",
+      "application_url": "https://www.qboinnovation.com/",
+      "eligibility": "Filipino and foreign startup founders in the Philippines."
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to QBO programs and the J.P. Morgan Incubation Program via the QBO site.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "philippines", "public-private", "incubation"],
+    "summary": {
+      "en": "QBO Innovation Hub, established in 2016, is the Philippines' first public-private partnership startup innovation hub, founded by IdeaSpace, J.P. Morgan, the Department of Science and Technology (DOST) and the Department of Trade and Industry (DTI). It provides incubation, mentorship, programs, coworking and investor access, and reports supporting 700+ startups."
+    },
+    "sources": [
+      {
+        "url": "https://www.ideaspace.vc/post/about-ideaspace-qbo-driving-innovation-and-startup-growth-in-the-philippines",
+        "title": "About IdeaSpace & QBO",
+        "publisher": "IdeaSpace / QBO",
+        "accessed": "2026-06-02",
+        "supports": "Established 2016 by IdeaSpace, J.P. Morgan, DOST and DTI; first PPP startup hub; 700+ startups",
+        "quote": "In 2016, QBO Innovation was established through a pioneering collaboration between Ideaspace, J.P. Morgan, the Department of Science and Technology (DOST), and the Department of Trade and Industry (DTI). The QBO Innovation Hub is the first ever Public-Private Partnership startup innovation hub in the Philippines."
+      },
+      {
+        "url": "https://www.adobomagazine.com/philippine-news/brand-business-dost-gives-p33-million-grant-to-qbo-innovation-hub-to-build-stronger-startup-ecosystem-in-the-philippines/",
+        "title": "DOST gives P33 million grant to QBO Innovation Hub",
+        "publisher": "adobo Magazine",
+        "accessed": "2026-06-02",
+        "supports": "DOST government grant funding to QBO",
+        "quote": "DOST Gives P33 Million Grant to QBO Innovation Hub to Build Stronger Startup Ecosystem in the Philippines"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Public-private partnership (government partners DOST and DTI alongside private IdeaSpace and J.P. Morgan). Equity-free programs; QBO facilitates but does not directly take equity.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-dare-brunei",
+    "name": { "en": "Darussalam Enterprise (DARe)" },
+    "aka": ["DARe", "Darussalam Enterprise"],
+    "type": "government-program",
+    "subtypes": ["accelerator", "incubator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "southeast-asia",
+    "country": "Brunei",
+    "hq_city": "Bandar Seri Begawan",
+    "website": "https://www.dare.gov.bn/",
+    "links": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Brunei"],
+      "sector_focus": ["generalist"],
+      "thesis": "Brunei statutory government agency enabling growth of MSMEs and startups via bootcamp accelerators, the iCentre incubator/co-working space, financing schemes and business academies."
+    },
+    "program": {
+      "length_weeks": 14,
+      "equity_taken_pct": "0",
+      "investment": { "raw": "DARe bears all program expenses; no equity taken", "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Bandar Seri Begawan",
+      "batches_per_year": 6,
+      "application_url": "https://www.dare.gov.bn/",
+      "eligibility": "Brunei-based startups and micro/small enterprises."
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to DARe Startup Bootcamp (Accelerate) or Micro Business Bootcamp via dare.gov.bn.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "brunei", "accelerator", "icentre"],
+    "summary": {
+      "en": "Darussalam Enterprise (DARe) is a Brunei government agency established in 2016 to grow MSMEs and startups. It runs a ~100-day Startup Bootcamp accelerator and Micro Business Bootcamp (six cycles a year), the iCentre incubator/co-working space, financing schemes and the Industry Business Academy. DARe bears program costs and takes no equity; its first three Accelerate cycles saw startups raise hundreds of thousands of BND."
+    },
+    "sources": [
+      {
+        "url": "https://www.bizbrunei.com/2018/05/dare-ceo-aspiring-entrepreneurs-invited-to-join-business-bootcamps/",
+        "title": "DARe CEO: Aspiring entrepreneurs invited to join business bootcamps",
+        "publisher": "Biz Brunei",
+        "accessed": "2026-06-02",
+        "supports": "100-day Startup Bootcamp; six cycles/year; first cycle late 2016; DARe bears costs; investment raised per cycle",
+        "quote": "Startup Bootcamp: 100-day accelerator equipping startups with tools and connections to scale rapidly ... Cycle 1 (2016): 21 companies raised $411,000"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "DARe established 2016 under Brunei government. Program length ~100 days (set ~14 weeks). Equity-free; investment figures are startup-raised amounts per cycle, not DARe capital.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-khmer-enterprise",
+    "name": { "en": "Khmer Enterprise", "local": "Khmer Enterprise (Entrepreneurship Promotion Center)" },
+    "aka": ["Khmer Enterprise", "KE", "Entrepreneurship Promotion Center"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "southeast-asia",
+    "country": "Cambodia",
+    "hq_city": "Phnom Penh",
+    "website": "https://startupcambodia.gov.kh/",
+    "links": {
+      "linkedin": "https://kh.linkedin.com/company/khmer-enterprise"
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "Grants US$5,000–US$20,000 per recipient (max 1 year)", "usd_min": 5000, "usd_max": 20000 },
+      "geo_focus": ["Cambodia"],
+      "sector_focus": ["agritech", "generalist"],
+      "thesis": "Implementation unit of Cambodia's Entrepreneurship Development Fund under the Ministry of Economy and Finance; provides financial grants and non-financial support to startups, SMEs and ecosystem builders."
+    },
+    "program": {
+      "equity_taken_pct": "0",
+      "investment": { "raw": "US$5,000–US$20,000 grants", "usd": 20000, "currency": "USD" },
+      "location": "Phnom Penh",
+      "application_url": "https://startupcambodia.gov.kh/",
+      "eligibility": "Cambodian startups and SMEs in priority sectors (tech, services, agro-processing, manufacturing for import substitution)."
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to Khmer Enterprise grant/assistance packages via Startup Cambodia.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "cambodia", "grant", "edf"],
+    "summary": {
+      "en": "Khmer Enterprise (Entrepreneurship Promotion Center) is the implementation unit of Cambodia's Entrepreneurship Development Fund, established in early 2019 under the Ministry of Economy and Finance. It provides financial grants (typically US$5,000–US$20,000 per recipient) and non-financial support to startups, SMEs and ecosystem builders, and co-coordinates the national Startup Cambodia program."
+    },
+    "sources": [
+      {
+        "url": "https://www.khmertimeskh.com/50785809/27-startups-and-smes-chosen-for-special-government-grants/",
+        "title": "27 startups and SMEs chosen for special government grants",
+        "publisher": "Khmer Times",
+        "accessed": "2026-06-02",
+        "supports": "EDF established 2019 by Prakas of MEF; grants US$5,000–US$20,000 max 1 year",
+        "quote": "Khmer Enterprise ... is an implementation unit of Entrepreneurship Development Fund (EDF) which is established as a government trust fund mandated under Prakas No. 136 SHV/BrK dated on 06-February-2019 by the Ministry of Economy and Finance ... a single fund ranging from $5,000 to $20,000 with a maximum period of one year"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded early 2019 under Cambodia's Ministry of Economy and Finance. Grants are non-dilutive (equity-free).",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "sea-techo-startup-center",
+    "name": { "en": "Techo Startup Center", "local": "Techo Startup Center (TSC)" },
+    "aka": ["TSC", "Techo Startup Center"],
+    "type": "government-program",
+    "subtypes": ["incubator", "accelerator"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "southeast-asia",
+    "country": "Cambodia",
+    "hq_city": "Phnom Penh",
+    "website": "https://startupcambodia.gov.kh/",
+    "links": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Cambodia"],
+      "sector_focus": ["generalist", "deeptech"],
+      "thesis": "Government-funded startup center under Cambodia's Ministry of Economy and Finance, fostering tech startups and digital business through nurturing programs, community, digital platforms, research and enterprise digitalisation; co-coordinates Startup Cambodia."
+    },
+    "program": {
+      "format": "in-person",
+      "location": "Phnom Penh",
+      "application_url": "https://startupcambodia.gov.kh/",
+      "eligibility": "Cambodian early-stage tech startups and entrepreneurs."
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Engage via Techo Startup Center / Startup Cambodia programs.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "cambodia", "incubation", "digital"],
+    "summary": {
+      "en": "Techo Startup Center (TSC), established in 2019, is a government-funded startup center under Cambodia's Ministry of Economy and Finance. It fosters tech startups and digital business through five focus areas (startup nurturing, community, digital platform, research, enterprise go-digital) and, with Khmer Enterprise, co-coordinates the national Startup Cambodia program."
+    },
+    "sources": [
+      {
+        "url": "https://kr-asia.com/cambodia-launches-government-funded-startup-center",
+        "title": "Cambodia launches government-funded Startup Center",
+        "publisher": "KrASIA",
+        "accessed": "2026-06-02",
+        "supports": "Government-funded Techo Startup Center to foster tech startups",
+        "quote": "Government-funded Techo Startup Center was launched earlier with the aim to foster new tech startups in the country."
+      },
+      {
+        "url": "https://startupcambodia.gov.kh/about",
+        "title": "Startup Cambodia - About Us",
+        "publisher": "Startup Cambodia (RGC, Ministry of Economy and Finance)",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2019; under Ministry of Economy and Finance; co-coordinates Startup Cambodia",
+        "quote": "Established in 2019, Techo Startup Center was created to support the government's strategic vision of fostering startups and promoting digital business in Cambodia."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Established 2019 under Cambodia's Ministry of Economy and Finance; primarily an incubator/ecosystem builder. Cambodia's PM pledged an annual ~US$5M tech fund (separate pledge).",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  }
+]

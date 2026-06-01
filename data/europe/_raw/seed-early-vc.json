@@ -1,0 +1,1317 @@
+[
+  {
+    "id": "eu-seedcamp",
+    "name": { "en": "Seedcamp" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2007,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://seedcamp.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/seedcamp",
+      "other": ["https://en.wikipedia.org/wiki/Seedcamp"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€166M", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Fund III", "vintage_year": 2014, "size": { "raw": "€20M", "usd": null, "currency": "EUR" } },
+        { "name": "Fund IV", "vintage_year": 2017, "size": { "raw": "£41M", "usd": null, "currency": "GBP" } },
+        { "name": "Fund VI", "vintage_year": 2023, "size": { "raw": "€166M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "up to €200,000 into rounds between €300,000 and €2M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["generalist", "fintech", "ai-ml", "saas-enterprise"],
+      "thesis": "Pan-European pre-seed/seed fund; one of Europe's earliest and most prolific seed investors, backing fintech, SaaS and frontier tech founders from day one."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Wise", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Revolut", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "UiPath", "sector": "ai-ml", "outcome": "IPO" }
+      ],
+      "exits": [
+        { "company": "Mobclix", "type": "M&A", "year": null, "value": { "raw": "$50M", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Reshma Sohoni", "role": "Co-founder & Managing Partner" },
+      { "name": "Saul Klein", "role": "Co-founder" }
+    ],
+    "summary": {
+      "en": "London-based pan-European pre-seed and seed fund founded in 2007, an early backer of Wise, Revolut and UiPath; Fund VI closed at €166M."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Seedcamp", "title": "Seedcamp - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "founding year, founders, HQ, fund sizes, check size, exits", "quote": "Seedcamp was originally created by Saul Klein and Reshma Sohoni ... launched in May 2007 by a group of 30 European investors ... €166 million Fund VI ... up to €200,000 into rounds between €300,000 and €2M ... Mobclix (acquired by Velti for $50M)" },
+      { "url": "https://seedcamp.com/", "title": "Seedcamp", "publisher": "Seedcamp", "accessed": "2026-06-02", "supports": "portfolio companies", "quote": "Synthesia, Revolut, ... UiPath, Wise ... portfolio companies" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-kima-ventures",
+    "name": { "en": "Kima Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc", "family-office"],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://www.kimaventures.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/kima-ventures"
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "150k one off tickets", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["France", "Europe", "Global"],
+      "sector_focus": ["generalist"],
+      "thesis": "Xavier Niel's family-office pre-seed fund investing ~2 startups per week globally with fast €150k one-off tickets; bets primarily on entrepreneurs across all sectors."
+    },
+    "track_record": {
+      "portfolio_count": "1,170",
+      "notable_investments": [
+        { "company": "PayFit", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Spendesk", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Mirakl", "sector": "ecommerce", "outcome": "unicorn" },
+        { "company": "Front", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Xavier Niel", "role": "Founder" },
+      { "name": "Jean de La Rochebrochard", "role": "Managing Partner" }
+    ],
+    "summary": {
+      "en": "Paris-based pre-seed fund founded in 2010 by Xavier Niel, one of Europe's most prolific early-stage investors with ~1,170 companies backed and €150k one-off tickets.",
+      "local": "Fonds d'amorçage parisien fondé en 2010 par Xavier Niel, l'un des investisseurs early-stage les plus actifs d'Europe avec environ 1 170 sociétés financées."
+    },
+    "sources": [
+      { "url": "https://www.kimaventures.com/", "title": "Kima Ventures", "publisher": "Kima Ventures", "accessed": "2026-06-02", "supports": "check size, cadence", "quote": "150k one off tickets ... 2 STARTUPS PER WEEK ... 100 new deals per year ... Any stage, deal size & sector" },
+      { "url": "https://hub.waveup.com/funds/kima-ventures", "title": "Kima Ventures — VC Fund Profile", "publisher": "Waveup", "accessed": "2026-06-02", "supports": "founding year, founder, HQ, portfolio count", "quote": "Kima Ventures was established in 2010 by Xavier Niel and is based in Paris, France ... Kima has backed 1,170 companies, of which 850 are still operating ... 17 unicorns ... including Docker, Front, Swile, PayFit, Younited, Spendesk and Mirakl" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-localglobe",
+    "name": { "en": "LocalGlobe" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://localglobe.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/localglobe"
+    },
+    "capital": {
+      "funds": [
+        { "name": "LocalGlobe 7", "vintage_year": 2015, "size": { "raw": "£45M", "usd": null, "currency": "GBP" } },
+        { "name": "LocalGlobe 8", "vintage_year": 2017, "size": { "raw": "£70M", "usd": null, "currency": "GBP" } },
+        { "name": "Seed Fund XI", "vintage_year": null, "size": { "raw": "$150M", "usd": 150000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "£500k to £2M at seed stage", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United Kingdom", "Europe"],
+      "sector_focus": ["generalist", "fintech", "mobility", "climate-energy", "ecommerce"],
+      "thesis": "London seed firm founded by Saul and Robin Klein focused on UK/European founders; leads seed rounds and supports companies pre-seed through later-stage via its Latitude funds."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Wise", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Improbable", "sector": "deeptech", "outcome": "unicorn" }
+      ]
+    },
+    "people": [
+      { "name": "Saul Klein", "role": "Co-founder & Partner" },
+      { "name": "Robin Klein", "role": "Co-founder & Partner" }
+    ],
+    "summary": {
+      "en": "London (King's Cross) seed VC founded in 2015 by the Klein family, one of the UK's most prolific seed investors; seed Fund XI closed at $150M."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Robin_Klein_(venture_capitalist)", "title": "Robin Klein - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "founding year, founders, fund sizes", "quote": "LocalGlobe was founded in April 2015 by Saul and Robin Klein ... LocalGlobe 7, a fund of £45m ... LocalGlobe 8, a £70m fund ... seed fund XI of $150 million" },
+      { "url": "https://pitchbook.com/news/articles/meet-localglobe-one-of-the-uks-most-prolific-seed-investors", "title": "Meet LocalGlobe, one of the UK's most prolific seed investors", "publisher": "PitchBook", "accessed": "2026-06-02", "supports": "check size, stage, HQ", "quote": "Ticket sizes typically range from £500k to £2M at seed stage ... headquartered in London's King's Cross area" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-point-nine-capital",
+    "name": { "en": "Point Nine Capital" },
+    "aka": ["Point Nine", "P9"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2011,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://www.pointnine.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/point-nine-capital"
+    },
+    "capital": {
+      "aum": { "raw": "~$500M", "usd": 500000000, "currency": "USD" },
+      "current_fund": { "raw": "€180M", "usd": null, "currency": "EUR" }
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": "$1-10 million per company", "usd_min": 1000000, "usd_max": 10000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "Global"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "fintech"],
+      "thesis": "Berlin seed-stage specialist in B2B SaaS and marketplaces; an early backer of category-defining software companies, investing globally from Europe."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Revolut", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Loom", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Docplanner", "sector": "healthtech", "outcome": "unicorn" }
+      ],
+      "exits": [
+        { "company": "Loom", "type": "M&A", "year": 2023, "value": { "raw": "~$1B (acquired by Atlassian)", "usd": 1000000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Christoph Janz", "role": "Co-founder & Managing Partner" },
+      { "name": "Pawel Chudzinski", "role": "Co-founder & Managing Partner" },
+      { "name": "Louis Coppey", "role": "Partner" }
+    ],
+    "summary": {
+      "en": "Berlin-based seed VC founded in 2011 specialising in B2B SaaS and marketplaces, investing $1-10M per company; raised a €180M seed fund."
+    },
+    "sources": [
+      { "url": "https://www.pointnine.com/", "title": "Point Nine", "publisher": "Point Nine", "accessed": "2026-06-02", "supports": "check size, sectors, portfolio, Loom exit", "quote": "We invest $1-10 million per company ... Revolut (seed 2015) ... Loom (seed 2017, acquired by Atlassian ~$1B in 2023)" },
+      { "url": "https://sifted.eu/articles/point-nine-raised-seed-fund-news", "title": "Point Nine raises €180m seed fund to invest in B2B startups", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "founding year, founders, HQ, fund size, AUM", "quote": "Point Nine was established by co-founders Christoph Janz, Louis Coppey, Ricardo Sequerra Amram, and Pawel Chudzinski in 2011, and is based in Berlin, Germany ... approximately $500M in assets under management ... raised a new seed fund of €180m" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-cherry-ventures",
+    "name": { "en": "Cherry Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://cherry.vc",
+    "offices": [
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "Sweden", "city": "Stockholm" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/cherry-ventures"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Cherry II", "vintage_year": 2016, "size": { "raw": "€150M", "usd": null, "currency": "EUR" } },
+        { "name": "Cherry III", "vintage_year": 2019, "size": { "raw": "€175M", "usd": null, "currency": "EUR" } },
+        { "name": "Cherry IV", "vintage_year": 2022, "size": { "raw": "€320M", "usd": null, "currency": "EUR" } },
+        { "name": "Cherry V", "vintage_year": 2025, "size": { "raw": "$500M", "usd": 500000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "between €2 million and €7 million", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise", "fintech", "consumer", "climate-energy", "healthtech"],
+      "thesis": "Berlin early-stage firm with seed as its core stage, making ~10-12 investments per year across B2B software, fintech, climate, health and consumer in Europe."
+    },
+    "track_record": {
+      "portfolio_count": "130+",
+      "notable_investments": [
+        { "company": "FlixBus", "sector": "mobility", "outcome": "unicorn" },
+        { "company": "Auto1", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "Forto", "sector": "logistics", "outcome": "unicorn" }
+      ]
+    },
+    "people": [
+      { "name": "Filip Dames", "role": "Founding Partner" },
+      { "name": "Christian Meermann", "role": "Founding Partner" }
+    ],
+    "summary": {
+      "en": "Berlin-based early-stage VC founded in 2012, seed as its core stage; offices in Berlin, London and Stockholm. Latest fund Cherry V closed at $500M."
+    },
+    "sources": [
+      { "url": "https://cherry.vc/about", "title": "Cherry Ventures — About", "publisher": "Cherry Ventures", "accessed": "2026-06-02", "supports": "founding year, founders, stages, check size, fund sizes, offices, cadence", "quote": "seed as our core stage. We're early-stage investors, from pre-seed to Series A ... we invest between €2 million and €7 million ... 2016: Cherry II - €150 million ... 2019: Cherry III - €175 million ... 2022: Cherry IV - €320 million ... 2025: Cherry V - $500 million ... 2012 by Filip Dames and Christian Meermann ... Berlin, London, and Stockholm" },
+      { "url": "https://techcrunch.com/2019/06/19/cherry-ventures-iii/", "title": "Berlin's Cherry Ventures raises new €175M fund", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "portfolio (FlixBus, Auto1)", "quote": "successful exits from companies like FlixBus and Auto1" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-project-a-ventures",
+    "name": { "en": "Project A Ventures" },
+    "type": "vc",
+    "subtypes": ["venture-studio"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://www.project-a.com",
+    "offices": [
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/project-a-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "€1.2 billion", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": "€325 million", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Fund V", "vintage_year": 2025, "size": { "raw": "€325M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€1 million to €8 million", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["fintech", "ai-ml", "logistics", "saas-enterprise", "deeptech"],
+      "thesis": "Berlin operational VC investing at pre-seed/seed with an embedded platform team of 140+ experts; focuses on defence, fintech, AI and supply chain software."
+    },
+    "track_record": {
+      "portfolio_count": "130+",
+      "notable_investments": [
+        { "company": "Trade Republic", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Sennder", "sector": "logistics", "outcome": "unicorn" },
+        { "company": "Quantum Systems", "sector": "spacetech", "outcome": "unicorn" }
+      ]
+    },
+    "summary": {
+      "en": "Berlin operational VC founded in 2012 with €1.2B AUM; backs European pre-seed/seed startups with a 140+ person platform team. Fund V closed at €325M in 2025."
+    },
+    "sources": [
+      { "url": "https://www.vestbee.com/insights/articles/project-a-raises-325-m-fund", "title": "Berlin-based VC Project A raises €325M fund", "publisher": "Vestbee", "accessed": "2026-06-02", "supports": "fund size, AUM, stage, check size, founding year, portfolio", "quote": "Project A closed its fifth and largest fund in June 2025, totaling €325 million, to back European startups at the pre-seed and seed stages ... €1.2 billion in assets under management ... initial cheque sizes ranging from €1 million to €8 million ... Founded in 2012 ... Trade Republic, Sennder, Zepz, and the recent unicorn Quantum Systems" },
+      { "url": "https://sifted.eu/articles/project-a-ventures-raises-largest-fund", "title": "Project A Ventures raises largest fund to date", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "operational platform team", "quote": "platform team of over 140 functional experts" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-speedinvest",
+    "name": { "en": "Speedinvest" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2011,
+    "region": "europe",
+    "country": "Austria",
+    "hq_city": "Vienna",
+    "website": "https://www.speedinvest.com",
+    "offices": [
+      { "country": "Austria", "city": "Vienna" },
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "Germany", "city": "Munich" },
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "France", "city": "Paris" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/speedinvest"
+    },
+    "capital": {
+      "aum": { "raw": "more than €1B", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": "€500M", "usd": null, "currency": "EUR" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "between €500,000 and €3 million", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["deeptech", "fintech", "healthtech", "saas-enterprise", "consumer"],
+      "thesis": "Pan-European pre-seed/seed firm with sector-focused teams across deep tech, fintech, health, industrial tech, marketplaces & consumer, and SaaS & infrastructure."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Bitpanda", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "GoStudent", "sector": "edtech", "outcome": "unicorn" },
+        { "company": "Wefox", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "TIER Mobility", "sector": "mobility", "outcome": "unicorn" }
+      ]
+    },
+    "summary": {
+      "en": "Vienna-based pan-European pre-seed/seed VC founded in 2011, now €1B+ AUM with a €500M latest fund; backed unicorns Bitpanda, GoStudent, Wefox and TIER."
+    },
+    "sources": [
+      { "url": "https://siliconcanals.com/speedinvest-raises-500m/", "title": "Vienna-based early-stage VC Speedinvest raises €500M, reaches €1B AUM", "publisher": "Silicon Canals", "accessed": "2026-06-02", "supports": "founding year, HQ, fund size, AUM, offices, unicorns", "quote": "Speedinvest is a venture capital fund based in Vienna, Austria, founded in 2011 ... more than €1B AuM ... €500M ... investors based in Berlin, London, Munich, Paris, and Vienna ... 6 unicorns: Bitpanda, GoStudent, Open, TIER Mobility, Wayflyer, and wefox" },
+      { "url": "https://therecursive.com/pre-seed-and-seed-startups-in-cee-can-tap-into-speedinvest-s-e500m-new-fund-pool/", "title": "What Is Speedinvest Looking for With Its €500M European Fund?", "publisher": "The Recursive", "accessed": "2026-06-02", "supports": "stages, check size, sectors", "quote": "focuses on pre-seed and seed European startups from six sectors: deep tech, fintech, health, industrial tech, marketplaces & consumer, and SaaS & infrastructure ... typically invests between €500,000 and €3 million" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-connect-ventures",
+    "name": { "en": "Connect Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.connectventures.co",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/connect-ventures"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund II", "vintage_year": 2016, "size": { "raw": "~$62M", "usd": 62000000, "currency": "USD" } },
+        { "name": "Fund III", "vintage_year": 2020, "size": { "raw": "$80M", "usd": 80000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500k-$5m", "usd_min": 500000, "usd_max": 5000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "cybersecurity", "fintech", "healthtech", "deeptech"],
+      "thesis": "London product-led pre-seed/seed firm investing in 'product-first' founders; leads or co-leads rounds and backs companies from pre-product to product-market fit."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Typeform", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Citymapper", "sector": "mobility", "outcome": "acquired" }
+      ]
+    },
+    "people": [
+      { "name": "Pietro Bezza", "role": "General Partner" },
+      { "name": "Sitar Teli", "role": "General Partner" },
+      { "name": "Rory Stirling", "role": "General Partner" }
+    ],
+    "summary": {
+      "en": "London product-led pre-seed/seed VC investing since 2012, leading rounds of $500k-$5m across product companies in Europe; Fund III closed at $80M."
+    },
+    "sources": [
+      { "url": "https://tech.eu/2020/06/25/connect-ventures-third-fund", "title": "London's Connect Ventures closes its third fund at $80 million", "publisher": "Tech.eu", "accessed": "2026-06-02", "supports": "founding year, fund sizes, stage, check size, GPs", "quote": "Connect Ventures' third fund closed at $80 million ... previous fund raised in 2016 was around $62 million ... pre-seed and seed stage product companies since 2012 ... leads or co-leads rounds between $500k-$5m ... Pietro Bezza, Rory Stirling and Sitar Teli" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-hoxton-ventures",
+    "name": { "en": "Hoxton Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.hoxtonventures.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/hoxton-ventures"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2013, "size": { "raw": "$40M", "usd": 40000000, "currency": "USD" } },
+        { "name": "Fund III", "vintage_year": 2022, "size": { "raw": "$215M", "usd": 215000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "pre-seed"],
+      "check_size": { "raw": "between $500,000 and $5M", "usd_min": 500000, "usd_max": 5000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["generalist", "ai-ml", "healthtech", "cybersecurity"],
+      "thesis": "London early-stage firm backing technology companies across Europe; known for an unusually high unicorn hit rate from a small fund."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Deliveroo", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Darktrace", "sector": "cybersecurity", "outcome": "IPO" },
+        { "company": "Babylon Health", "sector": "healthtech", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Hussein Kanji", "role": "Co-founder & Partner" },
+      { "name": "Rob Kniaz", "role": "Co-founder & Partner" }
+    ],
+    "summary": {
+      "en": "London-based early-stage VC founded in 2013 by Hussein Kanji and Rob Kniaz; backed Deliveroo, Darktrace and Babylon, with a $215M latest fund."
+    },
+    "sources": [
+      { "url": "https://fortune.com/2022/03/17/hoxton-ventures-215-million-dollar-seed-fund-european-startups-kanji/", "title": "Hoxton Ventures raises new $215 million fund for seed stage European startups", "publisher": "Fortune", "accessed": "2026-06-02", "supports": "fund III size, stage", "quote": "Hoxton Ventures raises new $215 million fund for seed stage European startups" },
+      { "url": "https://techcrunch.com/2013/12/04/hoxton-ventures/", "title": "Targeting Next $1B+ European Exit, Hoxton Ventures Pulls Back Curtain On New $40M Early-Stage VC Fund", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "founding year, founders, fund I size, check size, portfolio", "quote": "founded on November 26, 2013, by Hussein Kanji and Rob Kniaz. Fund I was a $40m fund ... typically invests between $500,000 and $5M ... Deliveroo ... Darktrace ... Babylon Health" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-byfounders",
+    "name": { "en": "byFounders" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "europe",
+    "country": "Denmark",
+    "hq_city": "Copenhagen",
+    "website": "https://www.byfounders.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/byfounders"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2019, "size": { "raw": "€100M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€500,000 to €4 million", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Nordics", "Baltics"],
+      "sector_focus": ["generalist", "ai-ml", "saas-enterprise"],
+      "thesis": "Community-powered early-stage fund backing globally ambitious teams connected to the Nordic and Baltic countries; sweet spot is pre-seed and seed."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Lovable", "sector": "ai-ml", "outcome": "unicorn" },
+        { "company": "Corti", "sector": "healthtech", "outcome": "active" },
+        { "company": "Monta", "sector": "mobility", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "Copenhagen-based community-powered pre-seed/seed fund founded in 2017 for Nordic and Baltic founders; debut fund closed at €100M, backed Lovable and Corti."
+    },
+    "sources": [
+      { "url": "https://techcrunch.com/2019/04/02/byfounders/", "title": "Early-stage VC byFounders closes €100M fund", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "founding year, HQ, fund size, stages, check size", "quote": "byFounders is a venture capital firm founded in 2017 and based in Copenhagen, Denmark ... debut fund has closed at €100 million ... pre-seed, seed and in some instances Series A ... €200,000 in pre-seed ... €1-2m seed stage rounds ... Series A rounds of up to €5m" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-entrepreneur-first",
+    "name": { "en": "Entrepreneur First" },
+    "aka": ["EF"],
+    "type": "venture-studio",
+    "subtypes": ["accelerator", "pre-seed"],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.joinef.com",
+    "offices": [
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "France", "city": "Paris" },
+      { "country": "India", "city": "Bangalore" },
+      { "country": "United States", "city": "New York" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/entrepreneur-first"
+    },
+    "capital": {
+      "aum": { "raw": "$158 million", "usd": 158000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "$55,000 to $250,000 for pre-seed investments", "usd_min": 55000, "usd_max": 250000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe", "United Kingdom", "France", "India", "United States"],
+      "sector_focus": ["deeptech", "ai-ml", "generalist"],
+      "thesis": "'Talent investor' that backs exceptional individuals before they have a team or idea, helping them find co-founders and build companies through its FORM program."
+    },
+    "program": {
+      "length_weeks": 12,
+      "equity_taken_pct": "~8%",
+      "investment": { "raw": "~$125,000", "usd": 125000, "currency": "USD" },
+      "format": "in-person",
+      "demo_day": true,
+      "application_url": "https://www.joinef.com/apply/"
+    },
+    "track_record": {
+      "portfolio_count": "600+",
+      "notable_investments": [
+        { "company": "Tractable", "sector": "ai-ml", "outcome": "unicorn" },
+        { "company": "Cleo", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Aztec", "sector": "web3-crypto", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Magic Pony Technology", "type": "M&A", "year": 2016, "value": { "raw": "~$150M (acquired by Twitter)", "usd": 150000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Matt Clifford", "role": "Co-founder" },
+      { "name": "Alice Bentinck", "role": "Co-founder & CEO" }
+    ],
+    "summary": {
+      "en": "London-founded (2011) global 'talent investor' that backs individuals pre-team via its 12-week FORM program, taking ~8% equity for ~$125k; has created 600+ companies worth $11B+."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Entrepreneur_First", "title": "Entrepreneurs First - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "founding year, founders, HQ, program length, offices, portfolio, exits", "quote": "Founded in 2011 by Matt Clifford and Alice Bentinck ... 12-week-long program, called 'FORM' ... London, Paris, Bangalore, New York and San Francisco ... Magic Pony Technology: sold to Twitter for a reported $150m ... Tractable: valued at $1 billion ... more than 600 companies with a combined value of over $11 billion as of 2025" },
+      { "url": "https://superscout.co/investor/entrepreneur-first", "title": "Entrepreneur First: The Early Stage Founder's Guide", "publisher": "Superscout", "accessed": "2026-06-02", "supports": "equity, investment amount, AUM, check size", "quote": "typically around $125,000 from EF for an equity stake of about 8% ... fund size of $158 million, with check sizes ranging from $55,000 to $250,000 for pre-seed investments" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-frst",
+    "name": { "en": "Frst" },
+    "aka": ["Otium Venture"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://www.frst.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/frst-d3d4"
+    },
+    "capital": {
+      "current_fund": { "raw": "€100M (Frst 3)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Frst 3", "vintage_year": 2023, "size": { "raw": "€100M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€100K–€5M (sweet spot €1.5M)", "usd_min": 100000, "usd_max": 5000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["France"],
+      "sector_focus": ["generalist", "ai-ml", "fintech", "biotech", "web3-crypto"],
+      "thesis": "High-conviction seed firm (formerly Otium Venture) backing a new generation of French entrepreneurs with global ambitions; 'first believers'."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Pierre Entremont", "role": "Co-founder & Managing Partner" },
+      { "name": "Bruno Raillard", "role": "Co-founder & Managing Partner" }
+    ],
+    "summary": {
+      "en": "Paris seed-focused firm (rebranded from Otium Venture in 2019) backing French founders with €100K–€5M checks; Frst 3 fund targets €100M.",
+      "local": "Société d'amorçage parisienne (ex-Otium Venture, rebaptisée Frst en 2019) qui finance les entrepreneurs français avec des tickets de 100 K€ à 5 M€."
+    },
+    "sources": [
+      { "url": "https://techcrunch.com/2023/06/25/french-vc-firm-frst-reaches-80-million-first-close-for-its-new-seed-fund/", "title": "French VC firm Frst reaches $80 million first close for its new seed fund", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "fund size, seed focus", "quote": "reach the upper limit of €100 million ($110 million)" },
+      { "url": "https://signal.nfx.com/investors/pierre-entremont", "title": "Pierre Entremont's Investing Profile - Frst Managing Partner", "publisher": "Signal/NFX", "accessed": "2026-06-02", "supports": "founders, check size, sectors", "quote": "Pierre Entremont is Co-founder & Managing Partner at Frst in Paris, France ... investing typically €100K–€5M (sweet spot €1.5M)" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-stride-vc",
+    "name": { "en": "Stride.VC" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://stride.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/stride-vc"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2018, "size": { "raw": "£100M", "usd": null, "currency": "GBP" } },
+        { "name": "Fund II", "vintage_year": 2021, "size": { "raw": "£100M ($138.6M)", "usd": 138600000, "currency": "GBP" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "pre-seed"],
+      "check_size": { "raw": "£750,000 to £4 million (usually £2 million), lower rounds from £250,000", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United Kingdom", "Europe"],
+      "sector_focus": ["generalist"],
+      "thesis": "London seed-stage fund co-founded by Fred Destin, firmly committed to seed, usually leading or co-leading rounds."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Fred Destin", "role": "Founder & General Partner" }
+    ],
+    "summary": {
+      "en": "London seed fund founded in 2018 by Fred Destin (and originally Harry Stebbings); two £100M funds, leads seed rounds of ~£2M."
+    },
+    "sources": [
+      { "url": "https://techcrunch.com/2021/05/04/londons-stride-vc-raised-second-138-6m-seed-fund-hunts-for-third-partner/", "title": "London's Stride VC raised second $138.6M seed fund", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "founding year, founders, fund sizes, check size, stage", "quote": "co-founded by Fred Destin and Harry Stebbings in 2018 ... London-based seed-stage tech fund ... second fund of £100 million ($138.6 million) ... ranging from £750,000 to £4 million (usually £2 million) and lower rounds from £250,000" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-ada-ventures",
+    "name": { "en": "Ada Ventures" },
+    "type": "vc",
+    "subtypes": ["impact"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.adaventures.com",
+    "offices": [
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "United Kingdom", "city": "Bristol" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/ada-vemtires"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2019, "size": { "raw": "$34M (£27M)", "usd": 34000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2024, "size": { "raw": "£63M ($80M)", "usd": 80000000, "currency": "GBP" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "£250k to £1mn in your first funding round", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United Kingdom", "Northern Europe"],
+      "sector_focus": ["impact", "climate-energy", "fintech", "healthtech"],
+      "thesis": "London inclusive pre-seed/seed VC investing in 'the best, not just the best-connected', focused on climate equity, economic empowerment and healthy ageing; leads >70% of deals."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Materials Nexus", "sector": "deeptech", "outcome": "active" },
+        { "company": "Flexa", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Check Warner", "role": "Co-founding Partner" },
+      { "name": "Matt Penneycard", "role": "Co-founding Partner" }
+    ],
+    "summary": {
+      "en": "London inclusive pre-seed/seed VC founded in 2019 backing diverse founders; £250k-£1m first checks across climate, economic empowerment and healthy ageing. Fund II closed at £63M."
+    },
+    "sources": [
+      { "url": "https://www.adaventures.com/", "title": "Ada Ventures", "publisher": "Ada Ventures", "accessed": "2026-06-02", "supports": "stage, check size, sectors, geo, lead %, offices", "quote": "We invest £250k to £1mn in your first funding round ... We lead >70% of the investments we make ... Climate Equity, Economic Empowerment, and Healthy Ageing ... offices in London and Bristol" },
+      { "url": "https://sifted.eu/articles/ada-ventures-63m-second-fund", "title": "Ada Ventures closes £63m second fund to back diverse founders", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "founding year, fund sizes", "quote": "Ada Ventures' second fund closed at £63m. Its initial fund was $34 million (£27 million) ... launched in 2019" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-episode-1-ventures",
+    "name": { "en": "Episode 1 Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.episode1.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/episode"
+    },
+    "capital": {
+      "current_fund": { "raw": "£76M (€88.8M)", "usd": null, "currency": "GBP" },
+      "funds": [
+        { "name": "Fund III", "vintage_year": 2024, "size": { "raw": "£76M", "usd": null, "currency": "GBP" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "between £250k and £3 million", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United Kingdom"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "healthtech"],
+      "thesis": "London pre-seed/seed VC for B2B software companies in the UK, run by entrepreneurs/operators; makes 10-15 investments per year in AI, infrastructure, healthtech and marketplaces."
+    },
+    "track_record": {},
+    "summary": {
+      "en": "London B2B software pre-seed/seed VC founded in 2013; third fund of £76M deploying £250k-£3m checks into UK software companies."
+    },
+    "sources": [
+      { "url": "https://tech.eu/2024/02/06/episode-1-announces-ps76m-fund-for-pre-seed-and-seed-stage-investments/", "title": "Episode 1 announces £76M fund for Pre-Seed and Seed-stage investments", "publisher": "Tech.eu", "accessed": "2026-06-02", "supports": "fund size, stage", "quote": "Episode 1 announces £76M fund for Pre-Seed and Seed-stage investments" },
+      { "url": "https://www.eu-startups.com/2024/02/london-based-episode-1-closes-e88-8-million-fund-to-back-early-stage-b2b-innovators/", "title": "London-based Episode 1 closes €88.8 million fund to back early-stage B2B innovators", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "founding year, fund size, check size, sectors", "quote": "Founded in 2013, Episode 1 is a VC fund ... investments of between £250k and £3 million in pre-seed and seed-stage startups ... 10 to 15 investments per year" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-la-famiglia",
+    "name": { "en": "La Famiglia" },
+    "type": "vc",
+    "status": "merged",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://www.lafamiglia.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/la-famiglia"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Seed Fund I", "vintage_year": 2017, "size": { "raw": "€35M", "usd": null, "currency": "EUR" } },
+        { "name": "Seed Fund III + Growth co-investment fund", "vintage_year": 2023, "size": { "raw": "€250M (€165M seed + €90M growth)", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "logistics", "fintech", "climate-energy"],
+      "thesis": "European seed (and growth) fund investing in technology companies enabling or disrupting large industries (B2B, AI/data, logistics, fintech, Industry 4.0). Merged into General Catalyst in 2024."
+    },
+    "track_record": {
+      "portfolio_count": "98"
+    },
+    "people": [
+      { "name": "Jeannette zu Fürstenberg", "role": "Founder & Managing Partner" },
+      { "name": "Robert Lacher", "role": "Founding Partner" }
+    ],
+    "summary": {
+      "en": "Berlin B2B seed (and growth) fund founded in 2016 by Jeannette zu Fürstenberg; raised €250M in 2023 (€165M seed + €90M growth). Merged into General Catalyst in 2024."
+    },
+    "sources": [
+      { "url": "https://techcrunch.com/2023/03/08/berlin-vc-fund-la-famiglia-raises-e250m-for-both-seed-and-growth-b2b-startups/", "title": "Berlin VC fund La Famiglia raises €250M for both seed and growth B2B startups", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "founding year, founders, fund sizes, sectors", "quote": "La Famiglia was founded in 2016 and is based in Berlin, Germany ... raised €250 million for its combined third seed fund (which is €165 million) and its first growth co-investment fund (€90 million) ... first €35 million seed fund ... established by Jeannette Fuerstenberg and Robert Lacher" }
+    ],
+    "verification_notes": "La Famiglia announced a merger with General Catalyst in 2024, becoming GC's European seed presence; status set to 'merged'.",
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-k-fund",
+    "name": { "en": "K Fund" },
+    "aka": ["Kfund"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "Spain",
+    "hq_city": "Madrid",
+    "website": "https://www.kfund.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/kfund"
+    },
+    "capital": {
+      "aum": { "raw": "more than €500 million", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2016, "size": { "raw": "€50M", "usd": null, "currency": "EUR" } },
+        { "name": "K3", "vintage_year": null, "size": { "raw": "€70M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "from €100k, follow-ons of up to €10 million", "usd_min": 100000, "usd_max": 10000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Spain", "Italy", "Portugal", "Southern Europe"],
+      "sector_focus": ["generalist", "saas-enterprise", "fintech", "ai-ml"],
+      "thesis": "Madrid firm investing pre-seed to Series B in technology startups across Southern Europe (Spain, Italy, Portugal)."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Iñaki Arrola", "role": "Co-founder & Managing Partner" },
+      { "name": "Ian Noel", "role": "Co-founder & Partner" }
+    ],
+    "summary": {
+      "en": "Madrid-based VC founded in 2016 investing pre-seed to Series B across Southern Europe; first checks from €100k, €500M+ AUM. Newest fund K3 at €70M.",
+      "local": "Fondo de capital riesgo con sede en Madrid, fundado en 2016, que invierte de pre-seed a Serie B en el sur de Europa; primeros cheques desde 100.000 €."
+    },
+    "sources": [
+      { "url": "https://www.vestbee.com/insights/articles/kfund-raises-a-70-m-fund", "title": "Madrid-based Kfund raises a €70M fund to support Southern European founders", "publisher": "Vestbee", "accessed": "2026-06-02", "supports": "founders, fund sizes, AUM, check size, geo", "quote": "K Fund was founded in 2016 by Iñaki Arrola ... and Ian Noel ... K Fund has raised €70 million for its sixth fund called K3 ... first checks from €100k and follow-ons of up to €10 million ... assets worth more than €500 million ... Italy, Spain, and Portugal" },
+      { "url": "https://techcrunch.com/2016/10/16/k-fund/", "title": "K Fund is a new €50M VC fund investing in early-stage Spanish startups", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "first fund size", "quote": "K Fund is a new €50M VC fund investing in early-stage Spanish startups" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-peak-capital",
+    "name": { "en": "Peak" },
+    "aka": ["Peak Capital"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2007,
+    "region": "europe",
+    "country": "Netherlands",
+    "hq_city": "Amsterdam",
+    "website": "https://peak.capital",
+    "offices": [
+      { "country": "Netherlands", "city": "Amsterdam" },
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "Sweden", "city": "Stockholm" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/peak-capital"
+    },
+    "capital": {
+      "current_fund": { "raw": "€150 million (5th seed fund)", "usd": null, "currency": "EUR" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€250,000 to €4,200,000 (sweet spot ~€2,200,000)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Northwestern Europe", "Europe"],
+      "sector_focus": ["saas-enterprise", "ecommerce", "consumer"],
+      "thesis": "Founder-funded Amsterdam VC investing in SaaS, marketplace and platform businesses in Northwestern Europe; up to €4m per company."
+    },
+    "track_record": {},
+    "summary": {
+      "en": "Amsterdam founder-funded VC (founded 2007) investing pre-seed/seed in SaaS and marketplaces across NW Europe; 5th seed fund closed at €150M."
+    },
+    "sources": [
+      { "url": "https://techfundingnews.com/vc-firm-peak-closes-new-fund-with-e150m-to-invest-up-to-e4m-in-each-company/", "title": "Dutch VC Peak closes new €150M European seed fund", "publisher": "Tech Funding News", "accessed": "2026-06-02", "supports": "fund size, check size", "quote": "Peak's 5th seed fund closed with €150 million" },
+      { "url": "https://peak.capital/", "title": "Peak - Founder-Funded Venture Capital Investors", "publisher": "Peak", "accessed": "2026-06-02", "supports": "founding year, focus, check size, offices", "quote": "Peak Capital was established in 2007 ... ticket size ranges from €250,000 to €4,200,000, with an investment sweet spot of approximately €2,200,000 ... offices in Amsterdam, Berlin, and Stockholm" }
+    ],
+    "verification_notes": "Sources conflict on founding year (2007 establishment vs a 2017 founding-team reference); 2007 is the establishment year cited for Peak Capital.",
+    "confidence": "medium",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-henq",
+    "name": { "en": "henQ" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2004,
+    "region": "europe",
+    "country": "Netherlands",
+    "hq_city": "Amsterdam",
+    "website": "https://www.henq.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/henq-invest"
+    },
+    "capital": {
+      "current_fund": { "raw": "€67.57M (Fund V, of €90M target)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Fund V", "vintage_year": 2025, "size": { "raw": "€67.57M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "€1 to €10 million", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise"],
+      "thesis": "Amsterdam B2B software VC backing the 'odd ones out' — contrarian European founders — at seed and Series A; plans 8-12 investments per fund."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Jan Andriessen", "role": "Partner" },
+      { "name": "Coen van Duiven", "role": "Partner" }
+    ],
+    "summary": {
+      "en": "Amsterdam B2B software VC founded in 2004 investing €1-10M at seed/Series A; Fund V raised €67.57M to back 8-12 contrarian European software teams."
+    },
+    "sources": [
+      { "url": "https://www.eu-startups.com/2025/11/why-henq-chooses-the-roads-less-travelled-inside-the-dutch-vcs-new-e67-6-million-fund-for-the-odd-ones-out/", "title": "Inside the Dutch VC's new €67.6 million fund for the 'odd ones out'", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "founding year, fund size, check size, stage, team", "quote": "Founded in 2004, henQ is a venture capital fund for B2B software startups ... initial checks ranging from €1 to €10 million ... henQ's fifth fund raised €67.57 million out of their €90 million target ... invests throughout Europe in Seed and Series A rounds ... run by Mick Mackaay, Coen van Duiven, Rob Rousseau and Jan Andriessen" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-luminar-ventures",
+    "name": { "en": "Luminar Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "europe",
+    "country": "Sweden",
+    "hq_city": "Stockholm",
+    "website": "https://www.luminarventures.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/luminar-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "over €130m (two funds)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2017, "size": { "raw": "600 MSEK (~$60M)", "usd": 60000000, "currency": "SEK" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Nordics"],
+      "sector_focus": ["saas-enterprise", "deeptech", "ai-ml"],
+      "thesis": "Stockholm pre-seed/seed fund focused on Nordic B2B SaaS and deep tech; one of Sweden's most active early-stage investors."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Magnus Bergman", "role": "Co-founder & Partner" },
+      { "name": "Jacob Key", "role": "Co-founder & Partner" }
+    ],
+    "summary": {
+      "en": "Stockholm pre-seed/seed VC founded in 2017 focused on Nordic B2B SaaS and deep tech; first fund 600 MSEK (~$60M), now >€130M across two funds."
+    },
+    "sources": [
+      { "url": "https://www.luminarventures.com/about", "title": "Luminar Ventures — About Us", "publisher": "Luminar Ventures", "accessed": "2026-06-02", "supports": "founding year, founders, focus, fund sizes", "quote": "Luminar Ventures was founded in 2017 and is based in Stockholm, Sweden ... most active pre-seed and seed-stage VC fund in Sweden ... 600 MSEK ($60M) Seed stage VC ... two funds totalling over €130m ... Nordic B2B SaaS and deep tech ... founded by ... Magnus Bergman and Jacob Key" }
+    ],
+    "confidence": "medium",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-cavalry-ventures",
+    "name": { "en": "Cavalry Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://cavalry.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/cavalry-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "EUR 260+ million", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Fund II", "vintage_year": 2020, "size": { "raw": "€80M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "between €500,000 and €4 million", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "logistics", "proptech"],
+      "thesis": "Berlin 'expert founder fund' leading pre-seed and seed rounds in European software startups with €500k-€4m checks, combining priced rounds and convertibles."
+    },
+    "track_record": {
+      "portfolio_count": "50+",
+      "notable_investments": [
+        { "company": "Forto", "sector": "logistics", "outcome": "unicorn" },
+        { "company": "PlanRadar", "sector": "proptech", "outcome": "active" },
+        { "company": "Aleph Alpha", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Claude Ritter", "role": "Co-founder & Managing Partner" },
+      { "name": "Rouven Dresselhaus", "role": "Co-founder & Managing Partner" }
+    ],
+    "summary": {
+      "en": "Berlin pre-seed/seed 'expert founder fund' founded in 2016 with €260M+ AUM; €500k-€4m checks, backed Forto, PlanRadar and Aleph Alpha."
+    },
+    "sources": [
+      { "url": "https://www.vestbee.com/vc-list/cavalry-ventures", "title": "Cavalry Ventures", "publisher": "Vestbee", "accessed": "2026-06-02", "supports": "founding year, HQ, AUM, stage, check size, fund II, portfolio", "quote": "European early-stage venture capital fund focusing on pre-seed and seed stages with EUR 260+ million in assets under management ... founded in 2016 and is based in Berlin ... between €500,000 and €4 million ... closed its second fund at €80 million in 2020 ... Aleph Alpha, Forto, PlanRadar, and BRYTER" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-fly-ventures",
+    "name": { "en": "Fly Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://fly.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/fly-ventures"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund II", "vintage_year": 2020, "size": { "raw": "€53M", "usd": null, "currency": "EUR" } },
+        { "name": "Fund III", "vintage_year": 2024, "size": { "raw": "€80M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "pre-seed"],
+      "check_size": { "raw": "between €1 million and €4 million", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["deeptech", "saas-enterprise", "ai-ml"],
+      "thesis": "Berlin seed-stage firm backing technical founders building enterprise and deep tech companies across Europe."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Gabriel Matuschka", "role": "Co-founder & Partner" },
+      { "name": "Fredrik Bergenlid", "role": "Co-founder & Partner" }
+    ],
+    "summary": {
+      "en": "Berlin seed VC founded in 2016 for enterprise and deep tech technical founders across Europe; Fund III closed at €80M with €1-4m tickets."
+    },
+    "sources": [
+      { "url": "https://tech.eu/2024/12/06/fly-ventures-closes-eur80m-fund-iii-to-support-deeptech-founders-in-europe/", "title": "Fly Ventures closes €80M Fund III to support deeptech founders in Europe", "publisher": "Tech.eu", "accessed": "2026-06-02", "supports": "fund III size, focus", "quote": "Fly Ventures closes €80M Fund III to support deeptech founders in Europe" },
+      { "url": "https://siliconcanals.com/berlin-based-vc-fly-ventures-launches-e53m-fund-ii/", "title": "Berlin-based VC Fly Ventures launches €53M Fund II", "publisher": "Silicon Canals", "accessed": "2026-06-02", "supports": "founding year, founders, fund II, check size, sectors", "quote": "Fly Ventures was established in 2016 by Gabriel Matuschka and Fredrik Bergenlid ... Berlin-based VC that supports seed-stage European startups within enterprise and deeptech ... tickets between €1 million and €4 million ... Fund II: €53 million" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-elaia-partners",
+    "name": { "en": "Elaia Partners" },
+    "aka": ["Elaia"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2002,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://www.elaia.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/elaia-partners"
+    },
+    "capital": {
+      "aum": { "raw": "approximately €1 billion", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": "€134M (DTS3 deeptech seed fund)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "DeepTech Seed Fund III (DTS3)", "vintage_year": 2026, "size": { "raw": "€134M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "from €1M to €13M (DTS3, pre-Seed and Seed)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["France", "Europe"],
+      "sector_focus": ["deeptech", "ai-ml", "biotech", "hardware-semiconductor"],
+      "thesis": "Paris deeptech investor (with research-lab partnerships) backing B2B pre-seed and seed startups; €1B AUM, three unicorns and ~80 exits to date."
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "notable_investments": [
+        { "company": "Criteo", "sector": "ai-ml", "outcome": "IPO" },
+        { "company": "Mirakl", "sector": "ecommerce", "outcome": "unicorn" },
+        { "company": "Shift Technology", "sector": "ai-ml", "outcome": "unicorn" }
+      ]
+    },
+    "summary": {
+      "en": "Paris deeptech VC founded in 2002 with ~€1B AUM; its third deeptech seed fund (DTS3) closed at €134M investing €1M-€13M into pre-seed/seed B2B startups.",
+      "local": "Société de capital-risque deeptech parisienne fondée en 2002 (~1 Md€ sous gestion) ; son troisième fonds d'amorçage deeptech (DTS3) a été clôturé à 134 M€."
+    },
+    "sources": [
+      { "url": "https://www.eu-startups.com/2026/03/french-vc-elaia-closes-third-deeptech-seed-fund-at-e134-million/", "title": "Elaia closes third DeepTech Seed fund at €134 million", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "fund size, stage, check size, portfolio", "quote": "Elaia's third DeepTech Seed fund (DTS3) closed at €134 million ... DTS3 will invest from €1M to €13M in pre-Seed and Seed-stage B2B startups across Europe" },
+      { "url": "https://www.crunchbase.com/organization/elaia-partners", "title": "Elaia - Crunchbase", "publisher": "Crunchbase", "accessed": "2026-06-02", "supports": "founding year, AUM, exits, portfolio", "quote": "Founded in 2002, Elaia ... manages approximately €1 billion in assets ... over 100 investments ... three companies in reaching unicorn status ... around 80 exits ... Criteo, Mirakl, Shift Technology" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-antler",
+    "name": { "en": "Antler" },
+    "type": "venture-studio",
+    "subtypes": ["accelerator", "vc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.antler.co",
+    "offices": [
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "Sweden", "city": "Stockholm" },
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "Netherlands", "city": "Amsterdam" },
+      { "country": "France", "city": "Paris" }
+    ],
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/Antler_(venture_capital_firm)"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "$100,000 to $250,000 (up to $500,000 possible)", "usd_min": 100000, "usd_max": 500000 },
+      "ownership_target_pct": "7%–10%",
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe", "Global"],
+      "sector_focus": ["generalist", "ai-ml"],
+      "thesis": "'Day Zero' investor that runs residency programs to help founders form teams and companies from scratch, then invests at pre-seed; present in 30+ cities globally."
+    },
+    "program": {
+      "cohort_size": "varies by location",
+      "equity_taken_pct": "7%–10%",
+      "investment": { "raw": "$100,000 to $250,000", "usd": 250000, "currency": "USD" },
+      "format": "in-person",
+      "demo_day": true
+    },
+    "track_record": {
+      "portfolio_count": "1,800+"
+    },
+    "people": [
+      { "name": "Magnus Grimeland", "role": "Founder & CEO" },
+      { "name": "Fridtjof Berge", "role": "Co-founder" }
+    ],
+    "summary": {
+      "en": "Global 'Day Zero' / pre-seed investor and company builder founded in 2017, highly active across European hubs (London, Stockholm, Berlin, Amsterdam, Paris); ~$100k-$250k for 7-10% equity. Was the most active VC globally in 2024 by deal count."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Antler_(venture_capital_firm)", "title": "Antler (venture capital firm) - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "founding year, founders, scale, deal count", "quote": "Antler was founded in 2017 by Magnus Grimeland and Fridtjof Berge ... over 1,500 investments ... topped the 'Most Active Venture Capital Globally' category in PitchBook's Annual Global League Table, with 443 deals ... over 1,800 startups globally" },
+      { "url": "https://superscout.co/investor/antler", "title": "Antler: The Early Stage Founder's Guide", "publisher": "Superscout", "accessed": "2026-06-02", "supports": "check size, equity", "quote": "For Pre-Seed / Seed stage, Antler's typical investment is $100,000 to $250,000 ... equity typically 7%–10%" }
+    ],
+    "verification_notes": "Antler is globally headquartered (originally Singapore) but runs major dedicated programs/funds across European hubs; classified here for its highly active European pre-seed presence. HQ listed as London given its prominent European base; country attribution is approximate.",
+    "confidence": "medium",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-concept-ventures",
+    "name": { "en": "Concept Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://concept.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/concept-ventures"
+    },
+    "capital": {
+      "current_fund": { "raw": "$88m (Fund II)", "usd": 88000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2022, "size": { "raw": "£50M", "usd": null, "currency": "GBP" } },
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "$88M", "usd": 88000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "up to $1.5m in first rounds", "usd_min": null, "usd_max": 1500000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United Kingdom", "Europe"],
+      "sector_focus": ["generalist", "ai-ml"],
+      "thesis": "Self-described 'Europe's largest pre-seed fund', backing founders at the concept stage with conviction rather than requiring traction; British Business Bank-backed."
+    },
+    "track_record": {
+      "portfolio_count": "50+",
+      "notable_investments": [
+        { "company": "ElevenLabs", "sector": "ai-ml", "outcome": "unicorn" },
+        { "company": "Treefera", "sector": "climate-energy", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Reece Chowdhry", "role": "Founder & Managing Partner" },
+      { "name": "Oliver Kicks", "role": "Partner" }
+    ],
+    "summary": {
+      "en": "London dedicated pre-seed fund founded in 2018, backed by British Business Bank; raised an $88M second fund (Europe's largest pre-seed), early backer of ElevenLabs."
+    },
+    "sources": [
+      { "url": "https://concept.vc/", "title": "Concept Ventures | Europe's Largest Pre-seed Fund", "publisher": "Concept Ventures", "accessed": "2026-06-02", "supports": "stage, check size, fund II, HQ, founders, portfolio", "quote": "We invest up to $1.5m in first rounds ... Concept Ventures Launches Second Fund of $88m ... ElevenLabs ... reaching a '$11bn valuation' from its pre-seed investment ... Reece Chowdhry, Oliver Kicks" },
+      { "url": "https://sifted.eu/articles/concept-ventures-raises-pre-seed-fund-88m", "title": "ElevenLabs backer Concept Ventures raises Europe's biggest pre-seed fund, at $88m", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "fund size, pre-seed positioning", "quote": "Concept Ventures raises Europe's biggest pre-seed fund, at $88m" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-plural",
+    "name": { "en": "Plural" },
+    "aka": ["Plural Platform"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.plural.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/plural-9df0"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2022, "size": { "raw": "€250M", "usd": null, "currency": "EUR" } },
+        { "name": "Fund II", "vintage_year": 2024, "size": { "raw": "€400M ($432M)", "usd": 432000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "between €1 million and €10 million", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["deeptech", "ai-ml", "climate-energy", "generalist"],
+      "thesis": "Founder-led European early-stage firm (the partners are all founders) that leads early rounds, backing technically ambitious companies across Europe."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Ian Hogarth", "role": "Partner" },
+      { "name": "Taavet Hinrikus", "role": "Partner" },
+      { "name": "Sten Tamkivi", "role": "Partner" },
+      { "name": "Khaled Helioui", "role": "Partner" }
+    ],
+    "summary": {
+      "en": "London founder-led European early-stage VC founded in 2022; €250M Fund I and €400M ($432M) Fund II, leading seed/Series A rounds of €1-10M across Europe."
+    },
+    "sources": [
+      { "url": "https://techcrunch.com/2024/01/22/plural-the-vc-led-by-founders-pulls-together-a-new-432m-fund-to-back-european-startups/", "title": "Plural, the VC led by founders, pulls together a new $432M fund", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "founding year, fund sizes, stage, check size", "quote": "Plural raised a €250 million fund in 2022 and a €400 million fund in 2024 ... leading early-stage funding rounds, typically investing between €1 million and €10 million" },
+      { "url": "https://www.eu-startups.com/2024/01/london-based-plural-doubles-down-on-founder-investment-model-with-new-e400-million-fund/", "title": "London-based Plural doubles down on founder investment model with new €400 million fund", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "founder-led model, fund II", "quote": "London-based Plural doubles down on founder investment model with new €400 million fund" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  },
+  {
+    "id": "eu-creandum",
+    "name": { "en": "Creandum" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2003,
+    "region": "europe",
+    "country": "Sweden",
+    "hq_city": "Stockholm",
+    "website": "https://creandum.com",
+    "offices": [
+      { "country": "Sweden", "city": "Stockholm" },
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/creandum"
+    },
+    "capital": {
+      "aum": { "raw": "approximately €500 million (latest fund)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2003, "size": { "raw": "€40M", "usd": null, "currency": "EUR" } },
+        { "name": "Creandum VII", "vintage_year": 2024, "size": { "raw": "€500M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$1 million and $10 million (sweet spot around €3 million)", "usd_min": 1000000, "usd_max": 10000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe", "Nordics"],
+      "sector_focus": ["generalist", "saas-enterprise", "consumer", "fintech"],
+      "thesis": "Stockholm early-stage firm backing companies 'before it's obvious' at seed and Series A; an early investor in Spotify, Klarna and Bolt with a high unicorn hit rate."
+    },
+    "track_record": {
+      "portfolio_count": "130+",
+      "notable_investments": [
+        { "company": "Spotify", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Klarna", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Bolt", "sector": "mobility", "outcome": "unicorn" }
+      ]
+    },
+    "summary": {
+      "en": "Stockholm early-stage VC founded in 2003, an early backer of Spotify, Klarna and Bolt; invests $1-10M at seed/Series A with a ~€500M latest fund."
+    },
+    "sources": [
+      { "url": "https://www.vestbee.com/insights/articles/creandum-closes-a-500-m-fund", "title": "Creandum closes a €500M fund to back European early-stage startups", "publisher": "Vestbee", "accessed": "2026-06-02", "supports": "latest fund size, early-stage focus", "quote": "Creandum closes a €500M fund to back European early-stage startups" },
+      { "url": "https://www.thevccorner.com/p/how-creandum-built-2b-vc-fund-spotify-lovable", "title": "How Creandum Built a $2B VC Fund Backing Spotify and Lovable", "publisher": "The VC Corner", "accessed": "2026-06-02", "supports": "founding year, first fund, check size, portfolio, offices", "quote": "founded in 2003 and headquartered in Stockholm, Sweden ... started with a €40m fund in 2003 ... one in six of their 130+ seed/Series A companies becoming unicorns ... typically invest between $1 million and $10 million, with a sweet spot around €3 million ... Spotify, Klarna, and Bolt ... offices in Stockholm, Berlin, London, and San Francisco" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "eu-seed-early-vc"
+  }
+]

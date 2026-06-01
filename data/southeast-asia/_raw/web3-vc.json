@@ -1,0 +1,772 @@
+[
+  {
+    "id": "sea-spartan-group",
+    "name": { "en": "The Spartan Group" },
+    "aka": ["Spartan", "Spartan Capital", "Spartan Labs"],
+    "type": "vc",
+    "subtypes": ["venture-studio"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "offices": [
+      { "country": "Singapore", "city": "Singapore" },
+      { "country": "Hong Kong", "city": "Hong Kong" }
+    ],
+    "website": "https://www.spartangroup.io",
+    "links": {
+      "linkedin": "https://sg.linkedin.com/company/spartangroup",
+      "crunchbase": "https://www.crunchbase.com/organization/the-spartan-group-4202",
+      "other": ["https://www.spartangroup.io/team"]
+    },
+    "capital": {
+      "aum": { "raw": "$500M Assets Under Management", "usd": 500000000, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Asia", "Global"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Crypto-native digital asset advisor, multi-strategy asset manager and Web3 venture studio founded by ex-Goldman Sachs bankers; invests across DeFi, infrastructure and consumer Web3 and incubates ventures via Spartan Labs."
+    },
+    "track_record": {
+      "portfolio_count": "171",
+      "notable_investments": [
+        { "company": "Polygon", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Solana Labs", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Coin98", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Band Protocol", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Kaito", "sector": "web3-crypto", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "Kelvin Koh", "role": "Co-founder, Managing Partner & CIO" },
+      { "name": "Casper Johansen", "role": "Co-founder & Co-Head of Advisory", "linkedin": "https://sg.linkedin.com/in/casperbjohansen" },
+      { "name": "Melody He", "role": "Co-founder" }
+    ],
+    "team_size": 30,
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["web3", "crypto", "advisory", "asset-management", "venture-studio", "singapore"],
+    "summary": {
+      "en": "The Spartan Group (founded 2017) is a Singapore- and Hong Kong-based crypto-native digital asset advisor, asset manager and Web3 venture studio with ~US$500M AUM and 171 portfolio companies, founded by ex-Goldman Sachs veterans Kelvin Koh, Casper Johansen and Melody He."
+    },
+    "sources": [
+      {
+        "url": "https://www.spartangroup.io/",
+        "title": "The Spartan Group",
+        "publisher": "The Spartan Group",
+        "accessed": "2026-06-02",
+        "supports": "AUM, dealmaking value, business units",
+        "quote": "$500M Assets Under Management ... $1B+ Dealmaking Transactional Value ... A leading multi-strategy crypto asset manager, managing 3 funds"
+      },
+      {
+        "url": "https://tracxn.com/d/venture-capital/spartan-group/___9dHCj3UBUp7-9xaHsXJD546ftItNjSNbz798Ebr0xA",
+        "title": "Spartan Group - Investor Profile",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "portfolio count, team size, partners",
+        "quote": "Spartan Group has a team of 30 people including 10 partners ... invested in 171 companies"
+      },
+      {
+        "url": "https://iq.wiki/wiki/kelvin-koh",
+        "title": "Kelvin Koh / The Spartan Group",
+        "publisher": "IQ.wiki",
+        "accessed": "2026-06-02",
+        "supports": "founders, founding year, HQ",
+        "quote": "headquartered in Singapore and Hong Kong, founded in 2018 by Kelvin Koh, Melody He, and Casper Johansen"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year cited as 2017 by the firm's own site/Tracxn but 2018 by IQ.wiki/some profiles; used 2017 per official messaging. AUM ~US$500M per the firm's homepage. Casper Johansen's LinkedIn states he co-founded Spartan in 2017.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "sea-defiance-capital",
+    "name": { "en": "DeFiance Capital" },
+    "type": "vc",
+    "subtypes": ["family-office"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "offices": [{ "country": "Singapore", "city": "Singapore" }],
+    "website": "https://defiance.capital",
+    "links": {
+      "linkedin": "https://vg.linkedin.com/company/defiance-capital",
+      "crunchbase": "https://www.crunchbase.com/organization/defiance-capital-96c1",
+      "other": ["https://cryptoslate.com/people/arthur-cheong/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$100 million liquid token fund (first close 2023, raised eight figures)", "usd": 100000000, "currency": "USD" },
+      "funds": [
+        { "name": "DeFiance liquid token fund", "vintage_year": 2023, "size": { "raw": "$100 million target", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Asia", "Global"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Asia-focused digital asset investment firm investing exclusively in DeFi, blockchain gaming and early-stage token networks and consumer crypto applications, including liquid tokens trading below venture valuations."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Aave", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "dYdX", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Lido", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Axie Infinity", "sector": "gaming", "outcome": "active" },
+        { "company": "LayerZero", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Offchain Labs (Arbitrum)", "sector": "web3-crypto", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "Arthur Cheong", "role": "Founder, CEO & CIO" }
+    ],
+    "team_size": null,
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["web3", "crypto", "defi", "liquid-tokens", "singapore"],
+    "summary": {
+      "en": "DeFiance Capital (founded 2020, Singapore) is an Asia-focused digital asset investment firm led by Arthur Cheong, investing in DeFi, blockchain gaming and early token networks. It completed first close of a US$100M liquid token fund in 2023; portfolio includes Aave, dYdX, Lido, Axie Infinity and LayerZero."
+    },
+    "sources": [
+      {
+        "url": "https://cryptoslate.com/people/arthur-cheong/",
+        "title": "Arthur Cheong - CEO at DeFiance Capital",
+        "publisher": "CryptoSlate",
+        "accessed": "2026-06-02",
+        "supports": "founder role, focus, portfolio",
+        "quote": "founder, CEO, and Chief Investment Officer of DeFiance Capital ... an Asia-focused digital asset investment firm"
+      },
+      {
+        "url": "https://www.theblock.co/post/219264/defiance-capital-completes-first-close-of-100-million-liquid-token-fund",
+        "title": "DeFiance Capital completes first close of $100 million liquid token fund",
+        "publisher": "The Block",
+        "accessed": "2026-06-02",
+        "supports": "fund size, first close, founding year, HQ",
+        "quote": "DeFiance Capital completes first close of $100 million liquid token fund ... founded in 2020 in Singapore by Cheong"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "US$100M is the announced fund target; first close in 2023 raised 'eight figures' (under $50M per The Block) after FTX-related commitment reductions. AUM not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "sea-signum-capital",
+    "name": { "en": "Signum Capital" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "offices": [{ "country": "Singapore", "city": "Singapore" }],
+    "website": "https://www.signum.capital",
+    "links": {
+      "linkedin": "https://sg.linkedin.com/company/signum-capital",
+      "crunchbase": "https://www.crunchbase.com/organization/signum-capital",
+      "other": ["https://cryptorank.io/funds/signum-capital"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "UOB-Signum Blockchain Fund (first close $30M)", "usd": 30000000, "currency": "USD" },
+      "funds": [
+        { "name": "UOB-Signum Blockchain Fund", "vintage_year": null, "size": { "raw": "first close at $30m", "usd": 30000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Asia", "Global"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Singapore-based firm investing exclusively in blockchain-enabled companies, distributed ledger technologies and crypto assets via token presales, token generation events and equity investments."
+    },
+    "track_record": {
+      "portfolio_count": "155",
+      "notable_investments": [
+        { "company": "Polkadot", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Moonbeam", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Acala", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Mina Protocol", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Safe", "sector": "web3-crypto", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "John Ng Pangilinan", "role": "Founder & Managing Partner" }
+    ],
+    "team_size": null,
+    "application": { "how_to_apply": "Via website (management@signum.capital)", "accepts_cold_inbound": null, "contact": "management@signum.capital" },
+    "tags": ["web3", "crypto", "blockchain", "singapore"],
+    "summary": {
+      "en": "Signum Capital (founded 2017, Singapore) invests exclusively in blockchain-enabled companies and crypto assets. Its MAS-regulated fund (the UOB-Signum Blockchain Fund) hit a first close of ~US$30M; portfolio spans Polkadot, Moonbeam, Acala, Mina and 150+ others."
+    },
+    "sources": [
+      {
+        "url": "https://www.signum.capital/",
+        "title": "Home - Signum Capital",
+        "publisher": "Signum Capital",
+        "accessed": "2026-06-02",
+        "supports": "investment focus, portfolio names, contact",
+        "quote": "Distributed ledger technologies and crypto assets ... Fantom, Polymer Labs, Moonbeam, Threshold, Oasis Labs, Acala, Arweave, Polkadot, Kyber Network, Mina Protocol, imToken ... management@signum.capital"
+      },
+      {
+        "url": "https://www.dealstreetasia.com/stories/signum-capital-blockchain-fund-234581",
+        "title": "Signum Capital said to hit first close of blockchain-focused fund at $30m",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-02",
+        "supports": "fund first close size",
+        "quote": "Signum Capital said to hit first close of blockchain-focused fund at $30m"
+      },
+      {
+        "url": "https://cryptorank.io/funds/signum-capital",
+        "title": "Signum Capital - Investment Fund Review",
+        "publisher": "CryptoRank",
+        "accessed": "2026-06-02",
+        "supports": "portfolio count, HQ",
+        "quote": "Headquarters: Singapore ... 155 investments"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year 2017 and founder John Ng Pangilinan per secondary sources (homepage does not list them). Portfolio count cited as 155 by CryptoRank but '45 companies' (2019) and '40+' on homepage at other times. Fund first close ~$30M with reported total corpus up to $100M (unverified).",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "sea-longhash-ventures",
+    "name": { "en": "LongHash Ventures" },
+    "aka": ["LongHashX"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "offices": [{ "country": "Singapore", "city": "Singapore" }],
+    "website": "https://www.longhash.vc",
+    "links": {
+      "linkedin": "https://sg.linkedin.com/company/longhashventures",
+      "other": ["https://techcrunch.com/2022/08/10/longhash-ventures-launches-second-fund-for-100m-to-support-web3-infrastructure/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$100 million (Fund II, 2022)", "usd": 100000000, "currency": "USD" },
+      "funds": [
+        { "name": "LongHash Ventures Fund I", "vintage_year": 2021, "size": { "raw": "$15 million", "usd": 15000000, "currency": "USD" } },
+        { "name": "LongHash Ventures Fund II", "vintage_year": 2022, "size": { "raw": "$100 million", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Asia", "Global"],
+      "sector_focus": ["web3-crypto", "ai-ml"],
+      "thesis": "Web3-native accelerator and VC investing pre-seed to Series A in Web3 infrastructure (DeFi, NFTs, GameFi, metaverse) and the convergence of AI, robotics and digital assets; runs the LongHashX accelerator."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Singapore / Asia",
+      "demo_day": true,
+      "perks": ["ecosystem partner access (Polkadot, Filecoin, Algorand)", "mentor network"],
+      "application_url": "https://www.longhash.vc",
+      "application_cycles": ["rolling / cohort-based"],
+      "acceptance_rate": null,
+      "eligibility": "Early-stage Web3 protocols and startups"
+    },
+    "track_record": {
+      "portfolio_count": "60+",
+      "notable_investments": [
+        { "company": "Polkadot", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Astar", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Acala", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Balancer", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Instadapp", "sector": "web3-crypto", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "Emma Cui", "role": "Founding Partner & CEO" }
+    ],
+    "team_size": null,
+    "application": { "how_to_apply": "Apply to LongHashX accelerator or pitch via website", "accepts_cold_inbound": true },
+    "tags": ["web3", "crypto", "accelerator", "infrastructure", "singapore", "mas-licensed"],
+    "summary": {
+      "en": "LongHash Ventures (founded 2018, Singapore) is a Web3-native accelerator and VC. Its Fund I was US$15M (Feb 2021) and Fund II targeted US$100M (2022), investing pre-seed to Series A. It has backed 60+ projects (Polkadot, Astar, Acala, Balancer) and runs the LongHashX accelerator. MAS-licensed."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2022/08/10/longhash-ventures-launches-second-fund-for-100m-to-support-web3-infrastructure/",
+        "title": "LongHash Ventures launches second fund for $100M to support web3 infrastructure",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund I and II sizes/dates, portfolio count, CEO, accelerator stats",
+        "quote": "second fund for $100 million ... first fund of $15 million launched in February 2021 ... invested in more than 60 ... LongHashX ... partnered with more than 50 web3 projects ... raised more than $150 million ... Emma Cui is the founding partner"
+      },
+      {
+        "url": "https://www.longhash.vc/",
+        "title": "LongHash Ventures",
+        "publisher": "LongHash Ventures",
+        "accessed": "2026-06-02",
+        "supports": "focus, AI/robotics/digital assets thesis",
+        "quote": "specializes in bootstrapping Web3 ecosystems ... Investing at the Convergence of AI, Robotics, and Digital Assets"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Inception of LongHashX accelerator cited as 2018; Fund II was at first close / still raising toward $100M target as of Aug 2022. Accelerator program length/cohort size and equity terms not disclosed publicly.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "sea-saison-capital",
+    "name": { "en": "Saison Capital" },
+    "aka": ["Saison Crypto"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "offices": [{ "country": "Singapore", "city": "Singapore" }],
+    "website": "https://www.saisoncapital.com",
+    "links": {
+      "linkedin": "https://sg.linkedin.com/company/saisoncapital",
+      "crunchbase": "https://www.crunchbase.com/organization/saison-capital",
+      "other": ["https://coinmarketcap.com/academy/article/saison-capital-crossing-the-crypto-chasm-in-southeast-asia"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "deploys $25-30 million per year (backed by Credit Saison)", "usd": null, "currency": "USD" },
+      "funds": [
+        { "name": "Saison Capital (debut SEA/India fund)", "vintage_year": null, "size": { "raw": "up to $55 million for Series-A equity", "usd": 55000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "up to $1 million per company (6-8 per year)", "usd_min": null, "usd_max": 1000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Southeast Asia", "India"],
+      "sector_focus": ["fintech", "web3-crypto"],
+      "thesis": "Corporate VC arm of Japan's Credit Saison investing seed to Series A in fintech and Web3 across Southeast Asia and India; via Saison Crypto (2022) it makes token investments (incl. SAFTs) in DeFi and blockchain infrastructure with a SEA bias."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Coinhako", "sector": "web3-crypto", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "team_size": null,
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["cvc", "web3", "crypto", "fintech", "credit-saison", "singapore"],
+    "summary": {
+      "en": "Saison Capital (founded 2019) is the Singapore-based corporate VC arm of Japan's Credit Saison, investing seed to Series A across Southeast Asia and India. It began backing fintech and Web3 startups in 2021 and launched Saison Crypto in 2022 for token investments (including SAFTs) in DeFi and blockchain infrastructure, biased toward Southeast Asia."
+    },
+    "sources": [
+      {
+        "url": "https://medium.com/tokyo-fintech/credit-saison-launched-new-token-fund-for-web3-investments-a75e31f22a24",
+        "title": "Credit Saison launched new token fund for web3 investments",
+        "publisher": "Tokyo FinTech (Medium)",
+        "accessed": "2026-06-02",
+        "supports": "Saison Crypto, token/SAFT strategy, SEA focus",
+        "quote": "Credit Saison established a new company in Singapore in September 2022, 'Saison Crypto' ... invest in tokens, including new methods such as SAFT ... investment focus biased towards South East Asia"
+      },
+      {
+        "url": "https://www.finews.asia/finance/30008-credit-saison-launches-southeast-asia-india-vc-fund-saison-capital",
+        "title": "Credit Saison Launches Southeast Asia, India VC Fund - Saison Capital",
+        "publisher": "finews.asia",
+        "accessed": "2026-06-02",
+        "supports": "fund size, check size, geography, founding",
+        "quote": "Up to $55 million will be deployed ... as equity investments in Series-A companies across Southeast Asia and India ... up to $1 million in six to eight companies per year"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded 2019 as Credit Saison's CVC arm; began Web3/fintech investing in 2021 and launched Saison Crypto for token investments in Sept 2022. Annual deployment cited as $25-30M; the $55M figure refers to the debut SEA/India equity fund. Crypto-specific fund size not separately disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "sea-whampoa-digital",
+    "name": { "en": "Whampoa Digital" },
+    "aka": ["Whampoa Group (digital assets fund)"],
+    "type": "vc",
+    "subtypes": ["family-office"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "offices": [{ "country": "Singapore", "city": "Singapore" }],
+    "website": "https://www.whampoagroup.com",
+    "links": {
+      "other": [
+        "https://www.whampoagroup.com/news/singapores-whampoa-group-to-invest-100-mln-via-fund-for-digital-assets",
+        "https://blockworks.co/news/whampoa-to-wield-100m-for-web3-report"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$100 million digital assets / Web3 fund", "usd": 100000000, "currency": "USD" },
+      "funds": [
+        { "name": "Whampoa $100M private market digital asset fund", "vintage_year": 2022, "size": { "raw": "$100 million", "usd": 100000000, "currency": "USD" } },
+        { "name": "Whampoa public market hedge fund", "vintage_year": null, "size": { "raw": "$50 million", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Asia", "Global", "Middle East"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Digital assets arm of Singapore multi-family office Whampoa Group; invests $100M in equity and tokens of products that enable mass adoption of Web3, including DeFi, remittances and entertainment, with a later $100M Middle East fund via partnership with Wemade."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [
+      { "name": "Amy Lee", "role": "Co-founder, Whampoa Group" },
+      { "name": "Lee Han Shih", "role": "Co-founder, Whampoa Group" },
+      { "name": "Aureole Foong", "role": "Senior Partner" }
+    ],
+    "team_size": null,
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["web3", "crypto", "family-office", "digital-assets", "singapore"],
+    "summary": {
+      "en": "Whampoa Digital is the digital-assets arm of Singapore multi-family office Whampoa Group (co-founded by Amy Lee and Lee Han Shih). In 2022 it launched a US$100M Web3/digital-asset venture fund (plus a US$50M public-market hedge fund) investing in equity and tokens that enable mass adoption of Web3, and later partnered with Wemade on a US$100M Middle East Web3 fund."
+    },
+    "sources": [
+      {
+        "url": "https://www.whampoagroup.com/news/singapores-whampoa-group-to-invest-100-mln-via-fund-for-digital-assets",
+        "title": "Singapore's Whampoa Group to invest $100 mln via fund for digital assets",
+        "publisher": "Whampoa Group",
+        "accessed": "2026-06-02",
+        "supports": "fund size, strategy, founders",
+        "quote": "launched a $100 million crypto fund to invest in web3 startups ... $100 million private market asset fund and a $50 million public market hedge fund"
+      },
+      {
+        "url": "https://www.crowdfundinsider.com/2023/12/219228-singapores-whampoa-digital-wemade-to-establish-100m-web3-fund-to-support-crypto-asset-initiatives-in-middle-east/",
+        "title": "Singapore's Whampoa Digital, Wemade To Establish $100M Web3 Fund ... Middle East",
+        "publisher": "Crowdfund Insider",
+        "accessed": "2026-06-02",
+        "supports": "Wemade Middle East fund",
+        "quote": "Whampoa Digital, Wemade To Establish $100M Web3 Fund To Support Crypto-Asset Initiatives In Middle East"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "$100M Web3 venture fund announced 2022 by Whampoa Group's digital arm (Whampoa Digital). Founders Amy Lee and Lee Han Shih confirmed; full deployment status and portfolio not publicly detailed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "sea-scb-10x",
+    "name": { "en": "SCB 10X" },
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "southeast-asia",
+    "country": "Thailand",
+    "hq_city": "Bangkok",
+    "offices": [{ "country": "Thailand", "city": "Bangkok" }],
+    "website": "https://www.scb10x.com",
+    "links": {
+      "other": [
+        "https://www.scb10x.com/venture-capital",
+        "https://www.thailand4.com/en/1053663"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$50 million Blockchain/DeFi/Digital Assets dedicated VC fund", "usd": 50000000, "currency": "USD" },
+      "funds": [
+        { "name": "SCB 10X Blockchain, DeFi & Digital Assets fund", "vintage_year": null, "size": { "raw": "$50 million", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Global", "Asia"],
+      "sector_focus": ["web3-crypto", "ai-ml", "fintech", "deeptech"],
+      "thesis": "Venture and innovation arm of Thailand's Siam Commercial Bank; an early adopter of decentralized tech investing globally across blockchain/Web3, DeFi and digital-asset infrastructure alongside AI/DeepTech and FinTech, via a dedicated $50M blockchain/digital-assets fund."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Fireblocks", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Sygnum", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "The Sandbox", "sector": "gaming", "outcome": "active" },
+        { "company": "Nansen", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Axelar", "sector": "web3-crypto", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "team_size": null,
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["cvc", "web3", "crypto", "defi", "bank-backed", "thailand"],
+    "summary": {
+      "en": "SCB 10X is the venture and innovation arm of Thailand's Siam Commercial Bank (created ~2020-2021). One of the region's earliest blockchain/Web3 investors, it set up a dedicated US$50M Blockchain, DeFi and Digital Assets VC fund and backs crypto-infra leaders such as Fireblocks, Sygnum, The Sandbox, Nansen and Axelar.",
+      "local": "SCB 10X เป็นหน่วยงานด้านการลงทุนและนวัตกรรมของธนาคารไทยพาณิชย์ เป็นหนึ่งในผู้ลงทุนด้านบล็อกเชน/Web3 รายแรก ๆ ของภูมิภาค และได้จัดตั้งกองทุน VC ด้านบล็อกเชน DeFi และสินทรัพย์ดิจิทัลมูลค่า 50 ล้านดอลลาร์สหรัฐ"
+    },
+    "sources": [
+      {
+        "url": "https://www.scb10x.com/venture-capital",
+        "title": "SCB 10X - Venture Capital",
+        "publisher": "SCB 10X",
+        "accessed": "2026-06-02",
+        "supports": "investment areas, Web3 portfolio companies",
+        "quote": "invests across three main areas: AI/DEEP TECH, BLOCKCHAIN/WEB3, and FINTECH ... Fireblocks ... Sygnum ... Sandbox ... Nansen ... Axelar"
+      },
+      {
+        "url": "https://www.thailand4.com/en/1053663",
+        "title": "SCB 10X to launch $50m Blockchain, DeFi and Digital Assets dedicated VC fund",
+        "publisher": "Thailand4 News",
+        "accessed": "2026-06-02",
+        "supports": "blockchain fund size",
+        "quote": "SCB 10X ... to launch $50m Blockchain, Decentralized Finance, and Digital Assets dedicated VC fund to invest in early and growth stage startups globally"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "SCB 10X created by Siam Commercial Bank in 2020-2021; the dedicated blockchain/digital-assets fund is US$50M (separate from SCB's $600M Global Disruptive Technology fund). It is a multi-sector CVC, not crypto-exclusive, but runs a dedicated Web3/blockchain mandate.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "sea-arche-fund",
+    "name": { "en": "Arche Fund" },
+    "aka": ["Coin98 Ventures", "Arche Ventures", "Arche Capital"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "southeast-asia",
+    "country": "Vietnam",
+    "hq_city": "Ho Chi Minh City",
+    "offices": [{ "country": "Vietnam", "city": "Ho Chi Minh City" }],
+    "website": "https://blog.ninetyeight.world",
+    "links": {
+      "other": [
+        "https://blog.ninetyeight.world/ninety-eight-launches-25m-ecosystem-fund-to-support-web3-startups-in-asia/",
+        "https://cointelegraph.com/news/vietnamese-web3-coalition-ninety-eight-launches-25-million-ecosystem-fund"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$25 million ecosystem fund (2023)", "usd": 25000000, "currency": "USD" },
+      "funds": [
+        { "name": "Ninety Eight Ecosystem Fund", "vintage_year": 2023, "size": { "raw": "$25 million", "usd": 25000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Vietnam", "Asia"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Venture arm of Vietnamese Web3 coalition Ninety Eight (formerly Coin98); manages a $25M ecosystem fund supporting early-stage Web3 builders in Asia, providing capital plus access to the Viction layer-1 blockchain. Includes the Kompass accelerator."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Vietnam / Asia",
+      "demo_day": null,
+      "perks": ["Viction layer-1 infrastructure access", "Ninety Eight ecosystem support"],
+      "application_url": "https://blog.ninetyeight.world",
+      "application_cycles": ["cohort-based"],
+      "acceptance_rate": null,
+      "eligibility": "Early-stage Web3 startups building in Asia"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "DeFi Land", "sector": "gaming", "outcome": "active" },
+        { "company": "Viction (TomoChain)", "sector": "web3-crypto", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "team_size": null,
+    "application": { "how_to_apply": "Apply via Ninety Eight / Kompass accelerator", "accepts_cold_inbound": true },
+    "tags": ["web3", "crypto", "vietnam", "ninety-eight", "coin98", "viction"],
+    "summary": {
+      "en": "Arche Fund (rebranded from Coin98 Ventures in Aug 2023) is the venture arm of Vietnamese Web3 coalition Ninety Eight (creator of Coin98). It manages a US$25M ecosystem fund (launched Nov 2023) supporting early-stage Web3 startups across Asia, offering capital and access to the Viction layer-1 blockchain, and runs the Kompass accelerator.",
+      "local": "Arche Fund (đổi tên từ Coin98 Ventures tháng 8/2023) là cánh tay đầu tư của liên minh Web3 Việt Nam Ninety Eight (nhà sáng lập Coin98), quản lý quỹ hệ sinh thái trị giá 25 triệu USD ra mắt tháng 11/2023 nhằm hỗ trợ các startup Web3 giai đoạn đầu tại châu Á."
+    },
+    "sources": [
+      {
+        "url": "https://cointelegraph.com/news/vietnamese-web3-coalition-ninety-eight-launches-25-million-ecosystem-fund",
+        "title": "Vietnamese Web3 coalition Ninety Eight launches $25M ecosystem fund",
+        "publisher": "Cointelegraph",
+        "accessed": "2026-06-02",
+        "supports": "fund size, manager (Arche Fund), Viction, strategy",
+        "quote": "Vietnamese Web3 coalition, Ninety Eight ... introduced a $25 million ecosystem fund ... entrusted to Arche Fund, a venture arm within the Ninety Eight ecosystem"
+      },
+      {
+        "url": "https://www.binance.com/en/square/post/1672589",
+        "title": "Coin98 Creator Ninety-Eight Launches $25M Ecosystem Fund",
+        "publisher": "Binance Square / NFTgators",
+        "accessed": "2026-06-02",
+        "supports": "Coin98 Ventures rebrand to Arche Fund",
+        "quote": "Coin98 Ventures officially underwent a rebranding to 'Arche Fund'"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Coin98 Ventures (est. ~2021) rebranded to Arche Fund on 31 Aug 2023; manages Ninety Eight's $25M ecosystem fund announced Nov 2023. Founded year approximate. Sub-units include Arche Ventures, Arche Capital and the Kompass accelerator.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "sea-kyros-ventures",
+    "name": { "en": "Kyros Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "southeast-asia",
+    "country": "Vietnam",
+    "hq_city": "Ho Chi Minh City",
+    "offices": [{ "country": "Vietnam", "city": "Ho Chi Minh City" }],
+    "website": "https://kyros.ventures",
+    "links": {
+      "linkedin": "https://vn.linkedin.com/company/kyros-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/kyros-ventures",
+      "other": ["https://cryptorank.io/funds/kyros-ventures"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Vietnam", "Asia", "Global"],
+      "sector_focus": ["web3-crypto", "gaming"],
+      "thesis": "Early-stage crypto VC built on the Coin68 ecosystem (leading Vietnamese crypto media), backing boundary-pushing project teams with new-wave products in the blockchain space."
+    },
+    "track_record": {
+      "portfolio_count": "118",
+      "notable_investments": [
+        { "company": "Aleph Zero", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Onomy Protocol", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Coin98", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "DeFi Land", "sector": "gaming", "outcome": "active" },
+        { "company": "DeRace", "sector": "gaming", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "team_size": null,
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["web3", "crypto", "vietnam", "coin68", "gamefi"],
+    "summary": {
+      "en": "Kyros Ventures (founded 2020, Ho Chi Minh City) is an early-stage crypto VC built on Vietnam's Coin68 media ecosystem. It backs blockchain project teams and has made 118 investments including Aleph Zero, Onomy Protocol, Coin98, DeFi Land and DeRace.",
+      "local": "Kyros Ventures (thành lập 2020, TP.HCM) là quỹ đầu tư mạo hiểm crypto giai đoạn đầu, xây dựng trên hệ sinh thái truyền thông Coin68 của Việt Nam, đã thực hiện 118 khoản đầu tư bao gồm Aleph Zero, Coin98, DeFi Land."
+    },
+    "sources": [
+      {
+        "url": "https://kyros.ventures/",
+        "title": "Kyros Ventures",
+        "publisher": "Kyros Ventures",
+        "accessed": "2026-06-02",
+        "supports": "focus, Coin68 ecosystem",
+        "quote": "early-stage VC fund that invests in boundary-pushing project teams with new-wave products in the blockchain space ... built upon the solid foundation of the Coin68 ecosystem"
+      },
+      {
+        "url": "https://www.rootdata.com/Investors/detail/Kyros%20Ventures?k=NTA4",
+        "title": "Kyros Ventures Overview",
+        "publisher": "RootData",
+        "accessed": "2026-06-02",
+        "supports": "founding year, HQ, portfolio count, investments",
+        "quote": "based in Ho Chi Minh City, Vietnam, founded in 2020 ... made 118 investments ... Aleph Zero, Onomy Protocol, Coin98, DeFi Land, GameFi, and DeRace"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded 2020, Ho Chi Minh City; investment arm of Coin68 Media. Portfolio count (118) per RootData/Tracxn; fund size not publicly disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "sea-kyber-ventures",
+    "name": { "en": "Kyber Ventures" },
+    "type": "cvc",
+    "status": "active",
+    "founded_year": null,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "offices": [{ "country": "Singapore", "city": "Singapore" }],
+    "website": "https://kyber.network",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/kyber-ventures",
+      "other": ["https://tracxn.com/d/venture-capital/kyber-ventures/__Ia-8jm2xqMNRluxGMgf0IoBI-PjkU8DWZB7q5RK36c0"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Singapore", "Vietnam", "Asia"],
+      "sector_focus": ["web3-crypto", "fintech"],
+      "thesis": "Venture arm backed by Kyber Network (the DeFi liquidity protocol founded by Vietnamese builders), investing primarily at seed stage in blockchain, FinTech and high-tech startups across Singapore, Vietnam and beyond."
+    },
+    "track_record": {
+      "portfolio_count": "36",
+      "notable_investments": [
+        { "company": "Frictionless Markets", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Fwen.io", "sector": "web3-crypto", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "team_size": null,
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["web3", "crypto", "defi", "kyber-network", "singapore", "vietnam"],
+    "summary": {
+      "en": "Kyber Ventures is the venture arm backed by Kyber Network (the DeFi liquidity protocol with Vietnamese roots), based in Singapore. It invests primarily at seed stage in blockchain, FinTech and high-tech startups and has made ~36 investments across Singapore, Vietnam and other markets."
+    },
+    "sources": [
+      {
+        "url": "https://tracxn.com/d/venture-capital/kyber-ventures/__Ia-8jm2xqMNRluxGMgf0IoBI-PjkU8DWZB7q5RK36c0",
+        "title": "Kyber Ventures - Investor Profile",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "HQ, stage, portfolio count, geography, investments",
+        "quote": "backed by Kyber Network ... primarily based out of Singapore ... invested in 36 companies ... most investments in Singapore (6), followed by Vietnam ... Frictionless Markets and Fwen.io"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Limited primary disclosure; details (HQ Singapore, ~36 investments, seed focus) sourced from Tracxn. Founding year not verified. Kyber Network itself has strong Vietnamese founding roots; the ventures arm is registered/based in Singapore.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  }
+]

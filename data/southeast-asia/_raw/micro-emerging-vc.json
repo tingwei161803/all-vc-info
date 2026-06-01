@@ -1,0 +1,755 @@
+[
+  {
+    "id": "sea-iseed-sea",
+    "name": { "en": "iSeed SEA" },
+    "aka": ["iSeed", "WV Fund II", "Wing Vasiksiri Fund"],
+    "type": "micro-vc",
+    "subtypes": ["solo-gp"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Bangkok",
+    "website": "https://www.wingvasiksiri.com/",
+    "links": {
+      "other": ["https://investorlist.com/investor/iseed-sea"]
+    },
+    "capital": {
+      "aum": { "raw": "$14M", "usd": 14000000, "currency": "USD" },
+      "funds": [
+        { "name": "iSeed SEA (Fund I)", "vintage_year": 2020, "size": { "raw": "undisclosed", "usd": null, "currency": "USD" } },
+        { "name": "WV Fund II", "vintage_year": 2023, "size": { "raw": "undisclosed", "usd": null, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "pre-seed"],
+      "check_size": { "raw": "$100,000 to $500,000", "usd_min": 100000, "usd_max": 500000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Singapore", "Vietnam", "Indonesia", "Philippines", "Malaysia", "Thailand"],
+      "sector_focus": ["generalist", "fintech", "gaming", "agritech", "climate-energy"],
+      "thesis": "Solo-GP seed fund whose thesis is to close the gap between Southeast Asia and Silicon Valley by connecting SEA seed-stage founders to US-based LPs, investors and operators; sector-agnostic with interest in fintech, gaming and climate tech."
+    },
+    "track_record": {
+      "portfolio_count": 30,
+      "notable_investments": [
+        { "company": "Dat Bike", "sector": "mobility", "outcome": "active" },
+        { "company": "Skuad", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Upmesh", "sector": "ecommerce", "outcome": "active" },
+        { "company": "HD", "sector": "healthtech", "outcome": "active" },
+        { "company": "Virtual Internships", "sector": "edtech", "outcome": "active" },
+        { "company": "Delos", "sector": "agritech", "outcome": "active" }
+      ],
+      "co_investors": ["Sequoia Capital", "Y Combinator"]
+    },
+    "people": [
+      { "name": "Wing Vasiksiri", "role": "Solo General Partner / Founder", "linkedin": "https://www.linkedin.com/in/wingvasiksiri/" }
+    ],
+    "team_size": 1,
+    "application": {
+      "how_to_apply": "Reach out to Wing Vasiksiri directly; solo-GP can commit within days or hours.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["solo-gp", "micro-vc", "seed", "us-network"],
+    "summary": {
+      "en": "iSeed SEA is a solo-GP seed fund led by Wing Vasiksiri (ex-AngelList, ex-500 Startups), operating from Bangkok and investing across Singapore, Vietnam and Indonesia. With his second vehicle WV Fund II (2023), total AUM reached ~$14M; he writes $100K-$500K checks and connects SEA founders to a US-heavy network of LPs and operators."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2023/02/05/wing-vasiksiri/",
+        "title": "The solo GP behind iSeed SEA launches his second fund for Southeast Asia",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Solo-GP structure, check size, AUM, portfolio, follow-on funding, thesis",
+        "quote": "The 30 startups in Vasiksiri's portfolio have raised a combined total of more than $85 million in follow-on funding"
+      },
+      {
+        "url": "https://www.backscoop.com/newsletter-posts/goin-solo-gp-again-iseed-seas-wing-vasiksiri-raises-second-fund",
+        "title": "Goin' solo (GP) again: iSeed SEA's Wing Vasiksiri raises second fund",
+        "publisher": "Backscoop",
+        "accessed": "2026-06-02",
+        "supports": "Total AUM $14M, check size, geographic focus, co-investors",
+        "quote": "Total assets under management across both funds: \"$14M\""
+      },
+      {
+        "url": "https://www.dealstreetasia.com/stories/iseed-seasia-new-micro-vc-fund-210817",
+        "title": "AngelList US-backed iSeed enters SE Asia with new micro VC fund",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-02",
+        "supports": "Micro VC fund classification, AngelList backing, 2020 launch"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Country set to Singapore as a primary investment market and common fund domicile; Vasiksiri personally operates from Bangkok (set as hq_city). Individual fund sizes were not disclosed; only combined AUM of $14M is reported. Portfolio count of 30 from TechCrunch (Feb 2023) may have grown since.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "sea-first-move",
+    "name": { "en": "First Move" },
+    "aka": ["First Move Fund", "Consumer Tech Angel Syndicate"],
+    "type": "micro-vc",
+    "subtypes": ["angel-syndicate"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "southeast-asia",
+    "country": "Malaysia",
+    "hq_city": "Kuala Lumpur",
+    "website": "https://www.firstmovefund.com/",
+    "links": {
+      "other": ["https://www.digitalnewsasia.com/startups/first-move-launches-pre-seed-fund-support-consumer-focused-startups-southeast-asia"]
+    },
+    "capital": {
+      "current_fund": { "raw": "~US$3M-US$4M (market estimate; undisclosed)", "usd": null, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "up to US$100,000", "usd_min": null, "usd_max": 100000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Singapore", "Malaysia", "Indonesia"],
+      "sector_focus": ["consumer", "ecommerce", "mobility", "fintech"],
+      "thesis": "Founder-led pre-seed fund for consumer-focused startups across Southeast Asia, providing capital plus mentorship and a Consumer Tech Angel Syndicate of D2C, e-commerce, mobility and fintech operators who co-invest."
+    },
+    "track_record": {
+      "portfolio_count": 7,
+      "co_investors": ["500 Global"]
+    },
+    "people": [
+      { "name": "Joel Neoh", "role": "Co-founder (ex-Fave co-founder)" },
+      { "name": "Audra Pakalnyte", "role": "Co-founder (ex-Fave)" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via firstmovefund.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["pre-seed", "consumer", "founder-led", "emerging-manager"],
+    "summary": {
+      "en": "First Move is a founder-led pre-seed fund for consumer-focused startups in Southeast Asia, launched in 2023 by former Fave executives Joel Neoh and Audra Pakalnyte and backed by 500 Global. It writes pre-seed checks of up to US$100,000 and runs a Consumer Tech Angel Syndicate; market talk pegs the fund at US$3M-US$4M though the size was undisclosed."
+    },
+    "sources": [
+      {
+        "url": "https://fintechnews.my/37355/funding/two-former-fave-execs-launch-first-move-fund-backed-by-500-global/",
+        "title": "Two Former Fave Execs Launch 'First Move' Fund Backed by 500 Global",
+        "publisher": "Fintech News Malaysia",
+        "accessed": "2026-06-02",
+        "supports": "Founders, check size, backer, portfolio count, syndicate, launch year",
+        "quote": "up to US$100,000 ... Portfolio: Seven companies across Singapore, Malaysia, and Indonesia ... Backer: 500 Global"
+      },
+      {
+        "url": "https://technode.global/2023/07/04/former-fave-execs-launches-pre-seed-fund-to-support-consumer-focused-startups-in-southeast-asia/",
+        "title": "Former Fave Execs launches pre-seed fund to support consumer-focused startups in Southeast Asia",
+        "publisher": "TechNode Global",
+        "accessed": "2026-06-02",
+        "supports": "Pre-seed consumer focus, 2023 launch"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund size is undisclosed; the ~US$3M-US$4M figure is reported as market estimate (DealStreetAsia/Nikkei) and left null in capital.usd. Country assigned as Malaysia (founders' base); the fund invests across SG/MY/ID. First Move later announced an AI-focused expansion anchored by Jelawang Capital (Digital News Asia, 2024-25) but those figures could not be retrieved (article behind paywall/403).",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "sea-kenangan-fund",
+    "name": { "en": "Kenangan Fund", "local": "Kenangan Fund" },
+    "aka": ["Kopi Kenangan founders' angel fund"],
+    "type": "angel-syndicate",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "hq_city": "Jakarta",
+    "website": "",
+    "links": {
+      "other": ["https://www.dealstreetasia.com/stories/kopi-kenangan-angel-vehicle-230858"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "US$10,000 to US$150,000", "usd_min": 10000, "usd_max": 150000 },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Indonesia"],
+      "sector_focus": ["generalist"],
+      "thesis": "Angel investment vehicle set up by the founders of Indonesian coffee chain Kopi Kenangan, investing as a 'passion project' in early-stage Indonesian internet-economy startups; sector-agnostic."
+    },
+    "track_record": {
+      "portfolio_count": "nearly 8 (within first year)"
+    },
+    "people": [
+      { "name": "Edward Tirtanata", "role": "Co-founder (Kopi Kenangan CEO)" },
+      { "name": "James Prananto", "role": "Co-founder" },
+      { "name": "Cynthia Chaerunnissa", "role": "Co-founder" }
+    ],
+    "application": {
+      "how_to_apply": "Through the founders' network; informal angel vehicle.",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["angel", "indonesia", "founder-led", "sector-agnostic"],
+    "summary": {
+      "en": "Kenangan Fund is an angel investment vehicle set up around 2020 by Kopi Kenangan co-founders Edward Tirtanata, James Prananto and Cynthia Chaerunnissa to back early-stage Indonesian startups. It writes sector-agnostic tickets of US$10,000-US$150,000 and had made nearly 8 investments within its first year.",
+      "local": "Kenangan Fund adalah wahana investasi angel yang dibentuk oleh para pendiri Kopi Kenangan (Edward Tirtanata, James Prananto, Cynthia Chaerunnissa) untuk mendukung startup tahap awal di Indonesia, dengan tiket US$10.000-US$150.000 dan bersifat sector-agnostic."
+    },
+    "sources": [
+      {
+        "url": "https://e27.co/kopi-kenangan-founders-launch-angel-investment-fund-for-indonesian-startups-20210311/",
+        "title": "Kopi Kenangan founders launch angel fund to support Indonesian startups",
+        "publisher": "e27",
+        "accessed": "2026-06-02",
+        "supports": "Founders, angel vehicle, Indonesia focus"
+      },
+      {
+        "url": "https://www.dealstreetasia.com/stories/kopi-kenangan-angel-vehicle-230858",
+        "title": "Kopi Kenangan co-founders set up angel investment vehicle to back early-stage startups",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-02",
+        "supports": "Ticket size, number of investments, sector-agnostic",
+        "quote": "The fund's average ticket size ranges from US$10,000 to US$150,000 per investment and is sector-agnostic. The vehicle has already clocked nearly 8 investments in less than a year."
+      },
+      {
+        "url": "https://beamstart.com/content/129580/kopi-kenangan-angel-fund",
+        "title": "Kopi Kenangan founders set up Angel Investment Fund; investing $10k - $150k per startup",
+        "publisher": "BEAMSTART",
+        "accessed": "2026-06-02",
+        "supports": "Ticket size range"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "An informal angel vehicle rather than a structured institutional fund; no official website found. Founded year approximated to 2020 based on 'nearly 8 investments in less than a year' reported in early-2021 coverage. Portfolio count kept as reported string.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "sea-1982-ventures",
+    "name": { "en": "1982 Ventures" },
+    "aka": ["1982 VC"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.1982.vc/",
+    "links": {
+      "other": ["https://www.1982.vc/team", "https://www.1982.vc/news"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "1982 Ventures Fund I", "vintage_year": 2021, "size": { "raw": "over $20 million", "usd": 20000000, "currency": "USD" } },
+        { "name": "1982 Ventures Fund II", "vintage_year": 2024, "size": { "raw": "target $50 million", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$250,000 and $1 million", "usd_min": 250000, "usd_max": 1000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Indonesia", "Vietnam", "Singapore", "Philippines"],
+      "sector_focus": ["fintech", "ai-ml", "saas-enterprise"],
+      "thesis": "Pre-seed and seed fund focused on fintech and AI/automation 'rails' for Southeast Asia; was named the most active SEA-based fintech investor of 2021."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Brick", "sector": "fintech", "outcome": "active" },
+        { "company": "Infina", "sector": "fintech", "outcome": "active" },
+        { "company": "Homebase", "sector": "proptech", "outcome": "active" },
+        { "company": "wagely", "sector": "fintech", "outcome": "active" },
+        { "company": "Bluesheets", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Herston Elton Powers", "role": "Managing Partner / Co-founder", "linkedin": "https://www.linkedin.com/in/herston/" },
+      { "name": "Scott Krivokopich", "role": "Managing Partner / Co-founder" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via 1982.vc",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["fintech", "pre-seed", "seed", "emerging-manager"],
+    "summary": {
+      "en": "1982 Ventures is a Singapore-based seed fund founded in late 2019 by ex-tryb Group principals Herston Powers and Scott Krivokopich (the name reflects their shared birth year). Its debut fund closed oversubscribed at over US$20M, focused on pre-seed/seed fintech and AI across Indonesia, Vietnam, Singapore and the Philippines; checks run $250K-$1M. A $50M Fund II was targeted from Q1 2024."
+    },
+    "sources": [
+      {
+        "url": "https://technode.global/2022/05/26/singapores-1982-ventures-closes-oversubscribed-debut-20m-southeast-asia-fintech-fund/",
+        "title": "Singapore's 1982 Ventures closes oversubscribed debut $20M Southeast Asia FinTech fund",
+        "publisher": "TechNode Global",
+        "accessed": "2026-06-02",
+        "supports": "Debut fund size over $20M, oversubscribed, target was $15M, check size, geographic focus",
+        "quote": "the final close of its debut seed fund with over $20 million in committed capital, exceeding its original target of $15 million"
+      },
+      {
+        "url": "https://www.dealstreetasia.com/stories/1982-ventures-fund-ii-363084",
+        "title": "Singapore-based 1982 Ventures plans to launch $50m Fund II by Q1 2024",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-02",
+        "supports": "Fund II target $50M, Q1 2024",
+        "quote": "1982 Ventures plans to launch its second fund by the first quarter of 2024 with a target corpus of $50 million"
+      },
+      {
+        "url": "https://kr-asia.com/former-principals-of-tryb-group-launch-new-vc-firm",
+        "title": "Former principals of Tryb Group launch new VC firm",
+        "publisher": "KrASIA",
+        "accessed": "2026-06-02",
+        "supports": "Founders (ex-tryb), founding, firm name origin (birth year 1982)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded December 2019 per KrASIA/DealStreetAsia; some sources say 'early 2020'. Fund II target of $50M was announced (Q1 2024) but a confirmed final-close figure for Fund II was not located, so it is recorded as 'target'. Check size $250K-$1M reported by search aggregation of firm materials.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "sea-cocoon-capital",
+    "name": { "en": "Cocoon Capital" },
+    "aka": ["Cocoon Cap"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://cocooncap.com/",
+    "links": {
+      "linkedin": "https://sg.linkedin.com/company/cocoon-capital",
+      "crunchbase": "https://www.crunchbase.com/organization/cocoon-capital"
+    },
+    "capital": {
+      "aum": { "raw": "USD 80M+", "usd": 80000000, "currency": "USD" },
+      "funds": [
+        { "name": "Cocoon Capital Fund I", "vintage_year": 2016, "size": { "raw": "US$7 million", "usd": 7000000, "currency": "USD" } },
+        { "name": "Cocoon Capital Fund II", "vintage_year": 2020, "size": { "raw": "US$21 million", "usd": 21000000, "currency": "USD" } },
+        { "name": "Cocoon Capital Fund III", "vintage_year": 2025, "size": { "raw": "USD 50 Million (first close)", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "USD 500K – 1.5M", "usd_min": 500000, "usd_max": 1500000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Singapore", "Vietnam", "Indonesia", "Philippines", "India", "Australia", "Bangladesh"],
+      "sector_focus": ["saas-enterprise", "deeptech", "healthtech", "climate-energy", "robotics"],
+      "thesis": "Pre-seed and seed fund that leads every round and takes a board seat in B2B enterprise and deep-tech startups, supporting founders through its in-house 'Cocoon Academy'. Will Klippgen: 'With the billions of dollars available in venture capital in the region, only a fraction is targeting seed-stage companies'."
+    },
+    "track_record": {
+      "portfolio_count": 31,
+      "notable_investments": [
+        { "company": "SensorFlow", "sector": "climate-energy", "outcome": "active" },
+        { "company": "SEE-MODE Technologies", "sector": "healthtech", "outcome": "active" },
+        { "company": "Augmentus", "sector": "robotics", "outcome": "active" },
+        { "company": "TransTRACK", "sector": "logistics", "outcome": "active" },
+        { "company": "Aprisium", "sector": "deeptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Michael Blakey", "role": "Managing Partner / Co-founder", "linkedin": "https://www.crunchbase.com/person/michael-blakey" },
+      { "name": "Will Klippgen", "role": "Managing Partner / Co-founder" }
+    ],
+    "application": {
+      "how_to_apply": "Pitch via cocooncap.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["seed", "deeptech", "enterprise", "lead-investor", "board-seat"],
+    "summary": {
+      "en": "Cocoon Capital is a Singapore early-stage VC founded in 2016 by Will Klippgen and Michael Blakey, focused on B2B enterprise and deep-tech startups in Southeast Asia. It started with a US$7M Fund I, raised a US$21M Fund II (2020), and reached a first close of USD 50M for Fund III in 2025; AUM is USD 80M+. It leads every round with USD 500K-1.5M checks and runs Cocoon Academy."
+    },
+    "sources": [
+      {
+        "url": "https://cocooncap.com/cocoon-capital-raises-second-20m-fund-to-target-southeast-asia/",
+        "title": "Cocoon Capital raises second US$21m fund to target Southeast Asia",
+        "publisher": "Cocoon Capital",
+        "accessed": "2026-06-02",
+        "supports": "Fund I $7M (2016), Fund II $21M, founders, sectors, seed stage",
+        "quote": "Fund Size: US$21 million ... First Fund: US$7 million (launched in 2016)"
+      },
+      {
+        "url": "https://cocooncap.com/cocoon-capital-first-close-of-fund-iii/",
+        "title": "Cocoon Capital Announces First Close of USD 50 Million Fund III",
+        "publisher": "Cocoon Capital",
+        "accessed": "2026-06-02",
+        "supports": "Fund III first close USD 50M, 20 companies over 4-5 years",
+        "quote": "Cocoon Capital Fund III announced its first close securing USD 50 million, with plans to invest in 20 companies over four to five years"
+      },
+      {
+        "url": "https://cocooncap.com/",
+        "title": "Early-stage Investor in Southeast Asia | Cocoon Capital",
+        "publisher": "Cocoon Capital",
+        "accessed": "2026-06-02",
+        "supports": "AUM USD 80M+, check size USD 500K-1.5M, 31 portfolio companies, pre-seed/seed",
+        "quote": "Assets Under Management: \"USD 80M+\" ... Check Size: \"USD 500K – 1.5M\""
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Borderline micro-VC: Fund III's $50M first close pushes it toward small-fund rather than micro, but its origins (US$7M Fund I, US$21M Fund II) and seed-stage strategy place it firmly in the emerging-manager segment. Portfolio count of 31 from official site; an aggregated search elsewhere reported 42 — kept the site figure.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "sea-forge-ventures",
+    "name": { "en": "Forge Ventures" },
+    "aka": ["Forge VC"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.forge.vc/",
+    "links": {
+      "linkedin": "https://sg.linkedin.com/company/forgevc",
+      "other": ["https://e27.co/investor/forge-ventures/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Forge Ventures Fund I", "vintage_year": 2021, "size": { "raw": "around $24 million", "usd": 24000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Singapore", "Indonesia"],
+      "sector_focus": ["generalist"],
+      "thesis": "Concentrated seed fund backing category-defining founders in Southeast Asia, building a portfolio of just ~15 companies; LP base is heavily founders and operators from Airbnb, Carousell, Grab, Stripe, Kopi Kenangan and others."
+    },
+    "track_record": {
+      "portfolio_count": 15
+    },
+    "people": [
+      { "name": "Tiang Lim Foo", "role": "Co-founder / General Partner" },
+      { "name": "Kaspar Hidayat", "role": "Co-founder / General Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via forge.vc",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["seed", "concentrated-portfolio", "debut-fund", "emerging-manager"],
+    "summary": {
+      "en": "Forge Ventures is a Singapore seed fund founded in 2021 by Tiang Lim Foo and Kaspar Hidayat (with Alto Partners). Its debut fund first-closed at $21.9M and closed at around $24M, above its $15-20M target, to back a concentrated portfolio of ~15 seed-stage companies focused on Singapore and Indonesia; its LPs are largely founders/operators from Airbnb, Carousell, Grab, Stripe and Kopi Kenangan."
+    },
+    "sources": [
+      {
+        "url": "https://www.dealstreetasia.com/stories/forge-ventures-debut-fund-2-319272",
+        "title": "Singapore's Forge Ventures closes debut fund above target at around $24m",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-02",
+        "supports": "Final close ~$24M, above $15-20M target",
+        "quote": "the fund eventually closed at $24 million, higher than the initial target of $15-20 million"
+      },
+      {
+        "url": "https://technode.global/2021/09/28/singapore-based-forge-ventures-hits-first-close-of-maiden-fund-at-21-9m/",
+        "title": "Singapore-based Forge Ventures hits first close of maiden fund at $21.9M",
+        "publisher": "TechNode Global",
+        "accessed": "2026-06-02",
+        "supports": "First close $21.88M, founders, 15-company concentrated portfolio, SG/ID focus, LP base",
+        "quote": "Forge Ventures made a first close of its debut fund at $21.88 million ... build a concentrated portfolio of just 15 companies"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Check size not disclosed in available sources; left null. Founded in partnership with Alto Partners. Country: Singapore (also invests in Indonesia).",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "sea-kaya-founders",
+    "name": { "en": "Kaya Founders" },
+    "aka": ["Kaya"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "southeast-asia",
+    "country": "Philippines",
+    "hq_city": "Manila",
+    "website": "",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/kaya-founders/",
+      "other": ["https://www.cbinsights.com/investor/kaya-founders"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Zero to One (Pre-seed Fund)", "vintage_year": 2023, "size": { "raw": null, "usd": null, "currency": "USD" } },
+        { "name": "One to Ten (Seed to Series A Fund)", "vintage_year": 2023, "size": { "raw": null, "usd": null, "currency": "USD" } }
+      ],
+      "aum": { "raw": "$25 million (final close, 2025)", "usd": 25000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$150K to $250K (pre-seed); up to $500K (seed-Series A)", "usd_min": 150000, "usd_max": 500000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Philippines"],
+      "sector_focus": ["generalist", "consumer", "ecommerce", "fintech"],
+      "thesis": "Stapled two-fund structure backing Filipino startups 'from Day 0': a Zero to One pre-seed fund ($150K-$250K into 20-30 companies) and a One to Ten seed-to-Series-A fund (up to $500K into 30-40 startups)."
+    },
+    "track_record": {
+      "portfolio_count": 30
+    },
+    "people": [
+      { "name": "Paulo (Paolo) Campos", "role": "Managing General Partner / Co-founder (ex-Zalora PH CEO)" },
+      { "name": "Lisa Gokongwei-Cheng", "role": "General Partner / Co-founder" },
+      { "name": "Constantin Robertz", "role": "Co-founder (Locad CEO)" },
+      { "name": "Ray Alimurung", "role": "General Partner (ex-Lazada PH CEO)" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via Kaya Founders' channels",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["pre-seed", "philippines", "day-0", "stapled-fund", "emerging-manager"],
+    "summary": {
+      "en": "Kaya Founders is a Manila-based early-stage VC founded in 2021 by Paolo Campos (ex-Zalora PH), Lisa Gokongwei-Cheng and Constantin Robertz to back Filipino startups 'from Day 0'. It raised $12M across two stapled funds in 2023 and reached a $25M final close in 2025; its Zero to One pre-seed fund writes $150K-$250K into 20-30 companies, with up to $500K from its One to Ten fund."
+    },
+    "sources": [
+      {
+        "url": "https://www.backscoop.com/newsletter-posts/kaya-founders-gets-a-12m-fund-to-invest-in-more-local-startups",
+        "title": "Kaya Founders gets a $12M fund to invest in more local startups",
+        "publisher": "Backscoop",
+        "accessed": "2026-06-02",
+        "supports": "Founders, 2021 founding, $12M across two funds, fund structure, check sizes",
+        "quote": "Zero to One: \"$150K to $250K in 20 to 30 pre-seed companies\" ... One to Ten: \"30 to 40 startups who can receive up to $500K in funding\" ... raised \"$12M across two new funds\""
+      },
+      {
+        "url": "https://www.esquiremag.ph/money/industry/kaya-founders-bags-25-m-in-final-close-of-fund-a8072-20251111",
+        "title": "Kaya Founders Secures $25 Million in Final Close to Back PH Startups",
+        "publisher": "Esquire Philippines",
+        "accessed": "2026-06-02",
+        "supports": "$25M final close (2025)",
+        "quote": "Kaya Founders Secures $25 Million in Final Close to Back PH Startups"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Individual fund sizes within the stapled structure not separately disclosed; the $12M (2023) and $25M (2025 final close) are total committed-capital milestones. Portfolio count reported as 'over 30 SEA-based startups'.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "sea-foxmont-capital-partners",
+    "name": { "en": "Foxmont Capital Partners" },
+    "aka": ["Foxmont", "Foxmont Capital"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "southeast-asia",
+    "country": "Philippines",
+    "hq_city": "Makati",
+    "offices": [
+      { "country": "Philippines", "city": "Makati" },
+      { "country": "Singapore", "city": "Singapore" }
+    ],
+    "website": "https://foxmontcapital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/foxmont-capital-partners",
+      "other": ["https://e27.co/investor/foxmont-capital-partners/", "https://pitchbook.com/profiles/investor/235207-72"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Foxmont Fund I", "vintage_year": 2018, "size": { "raw": "undisclosed", "usd": null, "currency": "USD" } },
+        { "name": "Foxmont Fund II", "vintage_year": 2021, "size": { "raw": "$21.3 million (first close $12M)", "usd": 21300000, "currency": "USD" } },
+        { "name": "Foxmont Fund III", "vintage_year": 2024, "size": { "raw": "$30 million (first close)", "usd": 30000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Philippines", "Singapore"],
+      "sector_focus": ["generalist", "fintech", "ecommerce", "consumer"],
+      "thesis": "Described as the Philippines' first institutional early-growth capital firm, investing in Filipino-focused or Filipino-founded early-stage technology startups; plans to deploy up to eight high-conviction deals annually with Fund III, anchored by the Dutch Good Growth Fund (DGGF)."
+    },
+    "track_record": {
+      "co_investors": ["General Atlantic", "Grab Holdings", "Susquehanna Group", "Pavilion Capital", "Asian Development Bank", "Philippines' Startup Venture Fund"]
+    },
+    "people": [
+      { "name": "Franco Varona", "role": "Managing Partner / Co-founder" },
+      { "name": "Jelmer Ikink", "role": "Managing Partner / Co-founder" },
+      { "name": "Kenneth Albolote", "role": "General Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via foxmontcapital.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["philippines", "early-stage", "first-institutional", "emerging-manager"],
+    "summary": {
+      "en": "Foxmont Capital Partners, founded in 2018 by Franco Varona and Jelmer Ikink, is described as the Philippines' first institutional early-growth capital firm, investing in Filipino-founded early-stage tech startups from Makati with a Singapore outpost. Fund II reached $21.3M (first close $12M in 2021) and Fund III first-closed at $30M anchored by the Dutch Good Growth Fund, more than doubling its AUM."
+    },
+    "sources": [
+      {
+        "url": "https://foxmontcapital.com/insights/foxmont-secures-30m-first-close-for-fund-iii",
+        "title": "Foxmont Secures $30M First Close for Fund III, Anchored by Dutch DFI",
+        "publisher": "Foxmont Capital Partners",
+        "accessed": "2026-06-02",
+        "supports": "Founders, 2018 founding, Fund III $30M first close (DGGF anchor, Grab invested), Makati/Singapore offices, co-investors",
+        "quote": "Fund III: \"$30 million\" first close, anchored by Dutch Good Growth Fund (DGGF) ... Founded in 2018 ... Managing Partners: Jelmer Ikink and Franco Varona"
+      },
+      {
+        "url": "https://www.bworldonline.com/corporate/2021/11/23/412313/foxmont-secures-initial-12m-fund/",
+        "title": "Foxmont secures initial $12-M fund",
+        "publisher": "BusinessWorld",
+        "accessed": "2026-06-02",
+        "supports": "Fund II first close $12M (2021)",
+        "quote": "Foxmont secures initial $12-M fund"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I size never publicly disclosed (set null). Fund II final size reported by multiple secondary sources as $21.3M after a $12M first close. Per-deal check size not specified in sources; left null. Fund III $30M first close more than doubles prior combined AUM, per Foxmont.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "sea-orvel-ventures",
+    "name": { "en": "Orvel Ventures" },
+    "aka": ["Orvel"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.orvel.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/orvel-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/orvel-ventures",
+      "other": ["https://pitchbook.com/profiles/fund/24261-67F"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Orvel Early Stage Fund I", "vintage_year": 2022, "size": { "raw": "undisclosed", "usd": null, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Singapore", "Indonesia", "Malaysia", "Thailand"],
+      "sector_focus": ["healthtech", "fintech", "edtech", "ai-ml", "climate-energy"],
+      "thesis": "Network-driven venture fund 'finding the diamond in the rough early' in pre-seed/seed technology companies across Southeast Asia, with a thesis spanning health-tech, future of finance, education, sustainability and AI."
+    },
+    "track_record": {
+      "portfolio_count": 35,
+      "notable_investments": [
+        { "company": "Staple", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Broiler X", "sector": "agritech", "outcome": "active" },
+        { "company": "Ringkas", "sector": "proptech", "outcome": "active" },
+        { "company": "Zi.Care", "sector": "healthtech", "outcome": "active" },
+        { "company": "HD Mall", "sector": "healthtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Arya Setiadharma", "role": "Venture Partner (Indonesia)" },
+      { "name": "Carlos Otermin", "role": "Venture Partner (Philippines)" }
+    ],
+    "application": {
+      "how_to_apply": "Pitch via orvel.vc; email info@orvel.vc",
+      "accepts_cold_inbound": true,
+      "contact": "info@orvel.vc"
+    },
+    "tags": ["pre-seed", "seed", "network-driven", "emerging-manager"],
+    "summary": {
+      "en": "Orvel Ventures is a Singapore network-driven pre-seed/seed fund founded in 2022 (backed by Ascend Angels and Farquhar/Vulpes Investment Management), investing in early-stage tech across Singapore, Indonesia, Malaysia and Thailand. It has made ~35 investments in sectors spanning health-tech, fintech, edtech, AI and sustainability; fund size and check size are not publicly disclosed."
+    },
+    "sources": [
+      {
+        "url": "https://www.orvel.vc/",
+        "title": "Orvel",
+        "publisher": "Orvel Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Thesis, backers (Ascend Angels, Farquhar VC), portfolio companies, SEA focus, contact",
+        "quote": "Backers: Ascend Angels, Farquhar Venture Capital ... \"high-potential early-stage companies in the challenging and opaque market of South-East Asia\""
+      },
+      {
+        "url": "https://tracxn.com/d/venture-capital/orvel-ventures/__bRMmTWhG85gGNGIO-Oh00Iga1Z3VM09XeBbnwpNs6F0",
+        "title": "Orvel Ventures - 2025 Investor Profile",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2022 by Ascend Angels and Vulpes; pre-seed/seed SEA focus; ~35 investments",
+        "quote": "Orvel was founded in 2022 by Ascend Angels and Vulpes Investment Management"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund size and check size not publicly disclosed (null). Backers reported as Ascend Angels with Vulpes Investment Management (Tracxn) and 'Farquhar Venture Capital' (own site) — likely the same/related entity. Portfolio count ~35 per Tracxn.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "sea-iterative",
+    "name": { "en": "Iterative" },
+    "aka": ["Iterative VC", "Iterative Capital", "Iterative Accelerator"],
+    "type": "micro-vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.iterative.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/iterative-capital-e970"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Iterative Fund I", "vintage_year": 2020, "size": { "raw": "US$10 million", "usd": 10000000, "currency": "USD" } },
+        { "name": "Iterative Fund II", "vintage_year": 2022, "size": { "raw": "$55M", "usd": 55000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$150K-$500K (up to $500K)", "usd_min": 150000, "usd_max": 500000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Singapore", "Indonesia", "Vietnam", "Philippines"],
+      "sector_focus": ["generalist", "saas-enterprise", "fintech"],
+      "thesis": "YC-style accelerator and early-stage fund aiming to 'increase the GDP of Southeast Asia through entrepreneurship'; runs an accelerator twice a year and invests up to $500K per company."
+    },
+    "program": {
+      "batches_per_year": 2,
+      "investment": { "raw": "$150K-$500K", "usd": null, "currency": "USD" },
+      "format": "hybrid",
+      "demo_day": true,
+      "application_url": "https://www.iterative.vc/"
+    },
+    "track_record": {
+      "portfolio_count": "65+ (over 5 cohorts)",
+      "notable_investments": [
+        { "company": "Spenmo", "sector": "fintech", "outcome": "active" },
+        { "company": "GoZayaan", "sector": "consumer", "outcome": "active" },
+        { "company": "Propseller", "sector": "proptech", "outcome": "active" },
+        { "company": "Sendhelper", "sector": "consumer", "outcome": "acquired" }
+      ],
+      "exits": [
+        { "company": "Sendhelper", "type": "M&A", "year": null, "value": { "raw": "acquired by PropertyGuru", "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Brian Ma", "role": "Co-founder (ex-Divvy Homes CEO)" },
+      { "name": "Hsu Ken Ooi", "role": "Co-founder" }
+    ],
+    "application": {
+      "how_to_apply": "Apply to the accelerator at iterative.vc; runs twice a year",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["accelerator", "yc-style", "seed", "founders-supporting-founders"],
+    "summary": {
+      "en": "Iterative is a Singapore YC-style accelerator and early-stage fund founded in 2020 by Brian Ma (ex-Divvy Homes) and Hsu Ken Ooi. It started with a US$10M Fund I and closed a $55M Fund II in 2022 to back 100+ Southeast Asian companies with checks up to $500K, running its accelerator twice a year. Portfolio companies (Spenmo, GoZayaan, Propseller, Sendhelper) had raised $163M in follow-on funding, with total portfolio value cited at $1.2B."
+    },
+    "sources": [
+      {
+        "url": "https://www.iterative.vc/post/iterative-closes-55m-fund-ii-to-back-100-more-companies-with-up-to-500k-usd",
+        "title": "Iterative Closes $55M Fund II To Back 100+ More Companies With Up to $500K USD",
+        "publisher": "Iterative",
+        "accessed": "2026-06-02",
+        "supports": "Founders, Fund II $55M, check size up to $500K, twice-yearly accelerator, follow-on $163M, portfolio value $1.2B, 65+ companies",
+        "quote": "closed its second fund at $55M ... writes checks up to $500k USD ... companies have gone on to raise $163M in follow-on funding ... Iterative's total portfolio is worth $1.2B USD ... over 65 companies over 5 cohorts"
+      },
+      {
+        "url": "https://asianbusinessmen.com/yc-style-accelerator-iterative-raises-us10m-to-fund-50-sea-early-stage-startups/",
+        "title": "YC style accelerator Iterative raises US$10M to fund 50 SEA early-stage startups",
+        "publisher": "Asianbusinessmen",
+        "accessed": "2026-06-02",
+        "supports": "Fund I US$10M, 2020 founding, accelerator model, $150K-$500K per company",
+        "quote": "Iterative closed its US $10 million Iterative Fund I to invest in early-stage entrepreneurs in the region"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Classified as micro-vc with accelerator subtype: Fund I ($10M) is squarely micro/emerging; Fund II ($55M) has grown beyond micro but the firm's accelerator-led, sub-$500K-check model keeps it in the emerging-manager segment. Equity %, cohort size and program length not disclosed in sources (left null). Portfolio count kept as reported string.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  }
+]

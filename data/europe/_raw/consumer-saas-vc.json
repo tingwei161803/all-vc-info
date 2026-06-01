@@ -1,0 +1,1359 @@
+[
+  {
+    "id": "eu-notion-capital",
+    "name": { "en": "Notion Capital" },
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2009,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.notioncapital.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/notion-capital/",
+      "crunchbase": "https://www.crunchbase.com/organization/notion-capital",
+      "other": ["https://www.notion.vc/"]
+    },
+    "capital": {
+      "aum": { "raw": "$1bn AUM", "usd": 1000000000, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "Growth Opportunities III", "vintage_year": 2025, "size": { "raw": "$130M", "usd": 130000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise", "fintech", "ai-ml"],
+      "thesis": "Europe's leading early-stage business software (SaaS) investor, backing B2B cloud and AI-driven 'services as software' companies on the journey from $1m to $100m in revenues."
+    },
+    "track_record": {
+      "portfolio_count": "200+",
+      "notable_investments": [
+        { "company": "GoCardless", "sector": "fintech", "outcome": "active" },
+        { "company": "Paddle", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Mews", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Currencycloud", "sector": "fintech", "outcome": "acquired" },
+        { "company": "Aikido Security", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Upvest", "sector": "fintech", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["b2b-saas", "enterprise-software", "early-stage"],
+    "summary": {
+      "en": "London-based VC describing itself as Europe's leading early-stage business software investor, with ~$1bn AUM and 200+ portfolio companies across SaaS, fintech and AI-driven software. Recently closed a $130M Growth Opportunities III fund."
+    },
+    "sources": [
+      {
+        "url": "https://www.notioncapital.com/about",
+        "title": "About — Notion Capital",
+        "publisher": "Notion Capital",
+        "accessed": "2026-06-02",
+        "supports": "AUM, sector focus, portfolio count, positioning",
+        "quote": "$1bn AUM ... 200+ Companies invested in ... Europe's leading early-stage business software investor"
+      },
+      {
+        "url": "https://seedblink.com/blog/ready-to-invest-european-vcs-with-fresh-funds-raised-in-h2-2025",
+        "title": "European VCs with fresh funds raised in H2 2025",
+        "publisher": "SeedBlink",
+        "accessed": "2026-06-02",
+        "supports": "Growth Opportunities III fund size",
+        "quote": "Notion Capital ... has closed its $130M Growth Opportunities III fund to back high-performing SaaS and AI-driven European scaleups."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded_year 2009 from widely reported history (firm launched by Stephen Chandler, Jos White, Ben White); not stated on the About page fetched, so treated as medium-confidence on that single field.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "eu-point-nine-capital",
+    "name": { "en": "Point Nine" },
+    "aka": ["Point Nine Capital", "P9"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://www.pointnine.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/point-nine-capital/",
+      "crunchbase": "https://www.crunchbase.com/organization/point-nine-capital",
+      "other": []
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "€180m", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Point Nine VI", "vintage_year": 2022, "size": { "raw": "€180m", "usd": null, "currency": "EUR" } },
+        { "name": "Point Nine III", "vintage_year": 2015, "size": { "raw": "$60M", "usd": 60000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "€500k-5m", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe", "United States", "Canada", "Turkey", "Global"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "Software-focused seed VC based in Europe, investing globally in the future of software built on AI — especially B2B SaaS, B2B marketplaces, vertical SaaS, developer tools and creative software."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Revolut", "sector": "fintech", "outcome": "active" },
+        { "company": "Typeform", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Contentful", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Algolia", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Docplanner", "sector": "healthtech", "outcome": "active" },
+        { "company": "Loom", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Delivery Hero", "sector": "consumer", "outcome": "IPO" }
+      ],
+      "exits": [
+        { "company": "Loom", "type": "M&A", "year": 2023, "value": { "raw": "~$1B (acquired by Atlassian)", "usd": 1000000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Christoph Janz", "role": "Managing Partner" },
+      { "name": "Pawel Chudzinski", "role": "Managing Partner" },
+      { "name": "Louis Coppey", "role": "Partner" },
+      { "name": "Ricardo Sequerra Amram", "role": "Partner" }
+    ],
+    "team_size": 8,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["b2b-saas", "seed", "marketplaces"],
+    "summary": {
+      "en": "Berlin-based seed-stage software VC founded in 2011. Closed a €180m sixth fund in 2022, writing €500k–5m cheques into B2B SaaS and B2B marketplaces. Early backer of Revolut, Typeform, Contentful, Algolia, Docplanner and Loom (acquired by Atlassian for ~$1B).",
+      "local": "Berliner Seed-VC mit Fokus auf B2B-SaaS und B2B-Marktplätze; sechster Fonds über €180m im Jahr 2022."
+    },
+    "sources": [
+      {
+        "url": "https://www.pointnine.com/",
+        "title": "Point Nine",
+        "publisher": "Point Nine",
+        "accessed": "2026-06-02",
+        "supports": "check size, geo focus, partners, team size, portfolio",
+        "quote": "We invest $1-10 million per company ... based in Europe, investing globally in the future of software built on AI"
+      },
+      {
+        "url": "https://sifted.eu/articles/point-nine-raised-seed-fund-news",
+        "title": "Point Nine raises €180m seed fund to invest in B2B startups",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "fund VI size, check size, HQ, sector focus, geo split, portfolio",
+        "quote": "Berlin-based VC firm Point Nine raised a new seed fund of €180m ... sixth fund ... invests €500k-5m into seed-stage startups ... 20-30% of its investments are in the US, Canada, and Turkey"
+      },
+      {
+        "url": "https://techcrunch.com/2015/06/03/point-nine-capital-iii/",
+        "title": "Berlin's Point Nine Capital Closes $60M Third Fund",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund III size $60M, founded 2011",
+        "quote": "Berlin's Point Nine Capital Closes $60M Third Fund"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Check-size figures differ between the firm's website ($1–10m) and the €180m fund announcement (€500k–5m); the latter reflects seed entry cheques, the former includes follow-ons. Founded 2011 corroborated by multiple secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "eu-dawn-capital",
+    "name": { "en": "Dawn Capital" },
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2007,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.dawncapital.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/dawn-capital/",
+      "crunchbase": "https://www.crunchbase.com/organization/dawn-capital",
+      "other": ["https://www.dawncapital.com/team"]
+    },
+    "capital": {
+      "aum": { "raw": "over $1bn AUM; over $2 billion raised", "usd": 2000000000, "currency": "USD" },
+      "current_fund": { "raw": "$620m (Dawn V)", "usd": 620000000, "currency": "USD" },
+      "funds": [
+        { "name": "Dawn V", "vintage_year": 2023, "size": { "raw": "$620m", "usd": 620000000, "currency": "USD" } },
+        { "name": "Dawn Opportunities III", "vintage_year": 2023, "size": { "raw": "$80m", "usd": 80000000, "currency": "USD" } },
+        { "name": "Dawn Opportunities Fund II", "vintage_year": 2021, "size": { "raw": "$120 million", "usd": 120000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": "$10m to $40m initial (Dawn V)", "usd_min": 10000000, "usd_max": 40000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise", "fintech"],
+      "thesis": "Europe's leading specialist B2B software investor, backing category-defining enterprise software and fintech founders at Series A and B with capital to follow on through later rounds."
+    },
+    "track_record": {
+      "portfolio_count": "80+",
+      "notable_investments": [
+        { "company": "Collibra", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Dataiku", "sector": "ai-ml", "outcome": "unicorn" },
+        { "company": "Quantexa", "sector": "ai-ml", "outcome": "unicorn" },
+        { "company": "Mimecast", "sector": "cybersecurity", "outcome": "acquired" },
+        { "company": "iZettle", "sector": "fintech", "outcome": "acquired" },
+        { "company": "Tink", "sector": "fintech", "outcome": "acquired" },
+        { "company": "LeanIX", "sector": "saas-enterprise", "outcome": "acquired" }
+      ],
+      "exits": [
+        { "company": "Mimecast", "type": "M&A", "year": 2022, "value": { "raw": "$5.8bn (taken private by Permira)", "usd": 5800000000, "currency": "USD" } },
+        { "company": "iZettle", "type": "M&A", "year": 2018, "value": { "raw": "$2.2bn cash (sold to PayPal)", "usd": 2200000000, "currency": "USD" } },
+        { "company": "Tink", "type": "M&A", "year": 2022, "value": { "raw": "$2.0bn (purchased by Visa)", "usd": 2000000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Haakon Overli", "role": "Co-founder & General Partner" },
+      { "name": "Norman Fiore", "role": "Co-founder & General Partner" },
+      { "name": "Josh Bell", "role": "General Partner" },
+      { "name": "Evgenia Plotnikova", "role": "General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["b2b-software", "enterprise-software", "fintech"],
+    "summary": {
+      "en": "London-based VC founded in 2007 and billed as Europe's leading specialist B2B software investor. Raised $700m across Dawn V ($620m, the largest dedicated early-stage B2B software fund in Europe) and Opportunities III ($80m) in 2023. Backer of Mimecast, iZettle, Tink, Collibra and Dataiku."
+    },
+    "sources": [
+      {
+        "url": "https://www.eu-startups.com/2023/09/london-based-dawn-capital-raises-e660-million-to-double-down-on-european-b2b-software-champions/",
+        "title": "London-based Dawn Capital raises €660 million ...",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-02",
+        "supports": "total raise, fund sizes, stages, check size, exits, portfolio",
+        "quote": "the $620m flagship fund Dawn V being the largest dedicated early-stage B2B software fund ever raised in Europe"
+      },
+      {
+        "url": "https://sifted.eu/articles/dawn-capital-record-620m-fund-news",
+        "title": "Dawn Capital raises record $620m flagship fund",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "Dawn V $620m, Opportunities III $80m, check size $10m-$40m, exits Mimecast/iZettle/Tink",
+        "quote": "Dawn V will back European software innovators at Series A and B stage with initial investments of $10m to $40m ... An $80m follow-on fund, Dawn Opportunities III ... Mimecast ... taken private by Permira in a $5.8bn transaction ... iZettle (sold to PayPal for $2.2bn cash) ... Tink (purchased by Visa for $2.0bn)"
+      },
+      {
+        "url": "https://www.globenewswire.com/news-release/2021/07/22/2267257/0/en/Dawn-Capital-raises-120-million-for-second-later-stage-fund-Dawn-Opportunities-Fund-II-bringing-total-raised-over-last-12-months-to-520-million.html",
+        "title": "Dawn Capital raises $120 million for second later-stage fund",
+        "publisher": "GlobeNewswire",
+        "accessed": "2026-06-02",
+        "supports": "Opportunities Fund II $120m",
+        "quote": "Dawn Capital raises $120 million for second later-stage fund, Dawn Opportunities Fund II"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2007 by Norman Fiore and Haakon Overli per multiple secondary sources. AUM described variously as 'over $1bn' and 'over $2 billion raised'.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "eu-northzone",
+    "name": { "en": "Northzone" },
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 1996,
+    "region": "europe",
+    "country": "Sweden",
+    "hq_city": "Stockholm",
+    "website": "https://northzone.com/",
+    "offices": [
+      { "country": "Sweden", "city": "Stockholm" },
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "United States", "city": "New York" },
+      { "country": "Netherlands", "city": "Amsterdam" },
+      { "country": "Germany", "city": "Berlin" }
+    ],
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/northzone/",
+      "crunchbase": "https://www.crunchbase.com/organization/northzone-ventures",
+      "other": []
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "€1bn (Fund X)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Northzone X", "vintage_year": 2022, "size": { "raw": "€1bn / £868m", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": "€1 million to €40 million", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe", "United States"],
+      "sector_focus": ["fintech", "healthtech", "saas-enterprise", "consumer"],
+      "thesis": "Multi-stage 'full-stack' venture firm investing from Seed through to IPO in category-defining entrepreneurs across fintech, healthtech, SaaS and consumer."
+    },
+    "track_record": {
+      "portfolio_count": "250+",
+      "notable_investments": [
+        { "company": "Spotify", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Klarna", "sector": "fintech", "outcome": "active" },
+        { "company": "Trustpilot", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Personio", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "iZettle", "sector": "fintech", "outcome": "acquired" },
+        { "company": "TrueLayer", "sector": "fintech", "outcome": "active" },
+        { "company": "Kahoot!", "sector": "edtech", "outcome": "IPO" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "team_size": 36,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["multi-stage", "consumer", "saas", "fintech"],
+    "summary": {
+      "en": "One of Europe's oldest VCs (founded 1996), Stockholm-rooted with offices across Europe and New York. Raised a record €1bn Fund X in 2022, writing €1m–€40m cheques from Seed to growth across fintech, healthtech, SaaS and consumer. First investor in Spotify; backed Klarna, Trustpilot, Personio and iZettle.",
+      "local": "En av Europas äldsta riskkapitalfonder (grundad 1996); reste en rekordstor fond X på €1 miljard 2022."
+    },
+    "sources": [
+      {
+        "url": "https://northzone.com/2022/09/13/weve-raised-e1bn-investing-from-seed-to-growth-in-category-defining-entrepreneurs/",
+        "title": "We've raised €1bn",
+        "publisher": "Northzone",
+        "accessed": "2026-06-02",
+        "supports": "Fund X size, stages, sector focus, offices, team size, portfolio",
+        "quote": "€1bn ... from Seed through to IPO ... fintech, healthtech, SaaS, and consumer ... Spotify, iZettle, Klarna, Trustpilot, Kahoot!, Tier, Personio, Zopa, Forto, TrueLayer"
+      },
+      {
+        "url": "https://www.uktech.news/funding/vc-funding/northzone-fund-x-20220913",
+        "title": "Northzone secures £868m for Fund X",
+        "publisher": "UKTN",
+        "accessed": "2026-06-02",
+        "supports": "Fund X size £868m, check size, founded 1996, 250+ companies",
+        "quote": "Northzone secures £868m for Fund X ... Since 1996, Northzone has backed more than 250 companies ... checks between €1 million to €40 million"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund X reported as €1bn (firm) and £868m (UKTN) — same fund, different currencies at the time. Some secondary sources also list Founded year as 1996.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "eu-creandum",
+    "name": { "en": "Creandum" },
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2003,
+    "region": "europe",
+    "country": "Sweden",
+    "hq_city": "Stockholm",
+    "website": "https://creandum.com/",
+    "offices": [
+      { "country": "Sweden", "city": "Stockholm" },
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/creandum/",
+      "crunchbase": "https://www.crunchbase.com/organization/creandum",
+      "other": []
+    },
+    "capital": {
+      "aum": { "raw": "~$2B", "usd": 2000000000, "currency": "USD" },
+      "current_fund": { "raw": "€500M (Fund VII)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Creandum VII", "vintage_year": 2024, "size": { "raw": "€500M", "usd": null, "currency": "EUR" } },
+        { "name": "Creandum VI", "vintage_year": 2022, "size": { "raw": "€448M / $500M", "usd": 500000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe", "Global"],
+      "sector_focus": ["consumer", "fintech", "saas-enterprise", "ai-ml"],
+      "thesis": "Early-stage, largely industry-agnostic European VC with a strong heritage in consumer apps, fintech and SaaS; backs category-defining founders at Seed and Series A."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Spotify", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Klarna", "sector": "fintech", "outcome": "active" },
+        { "company": "Bolt", "sector": "mobility", "outcome": "active" },
+        { "company": "Pleo", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Depop", "sector": "ecommerce", "outcome": "acquired" },
+        { "company": "iZettle", "sector": "fintech", "outcome": "acquired" },
+        { "company": "Trade Republic", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Epidemic Sound", "sector": "consumer", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["consumer", "fintech", "saas", "early-stage"],
+    "summary": {
+      "en": "Stockholm-founded (2003) early-stage VC with offices in Stockholm, London, Berlin and San Francisco. Closed its seventh fund at €500M (after a €448M sixth fund). Early backer of Spotify, Klarna, Bolt, Pleo, Depop and iZettle, with roughly $2B managed.",
+      "local": "Stockholmsbaserad tidig-fas-VC (grundad 2003); sjunde fonden stängdes på €500M."
+    },
+    "sources": [
+      {
+        "url": "https://siliconcanals.com/creandum-closes-seventh-fund-at-500m/",
+        "title": "Klarna, Spotify and Bolt investor Creandum closes seventh fund at €500M",
+        "publisher": "Silicon Canals",
+        "accessed": "2026-06-02",
+        "supports": "Fund VII €500M, founded 2003, offices, stages, portfolio",
+        "quote": "€500M ... Founded in 2003 ... Stockholm, London, Berlin, and San Francisco ... Seed and Series A ... Spotify, iZettle, Depop, Klarna, Bolt, KRY, Epidemic Sound"
+      },
+      {
+        "url": "https://www.eu-startups.com/2022/03/stockholm-based-vc-firm-creandum-closes-new-e448-million-fund-to-back-eu-founders-at-the-earliest-stages/",
+        "title": "Creandum closes new €448 million fund",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-02",
+        "supports": "Fund VI €448M / $500M",
+        "quote": "Creandum closes new €448 million fund to back EU founders at the earliest stages"
+      },
+      {
+        "url": "https://www.thevccorner.com/p/how-creandum-built-2b-vc-fund-spotify-lovable",
+        "title": "How Creandum Built a $2B VC Fund Backing Spotify and Lovable",
+        "publisher": "The VC Corner",
+        "accessed": "2026-06-02",
+        "supports": "approx $2B AUM",
+        "quote": "How Creandum Built a $2B VC Fund Backing Spotify and Lovable"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM (~$2B) is an estimate from a secondary newsletter; treated cautiously. Check sizes not consistently disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "eu-index-ventures",
+    "name": { "en": "Index Ventures" },
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 1996,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.indexventures.com/",
+    "offices": [
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "United States", "city": "San Francisco" },
+      { "country": "United States", "city": "New York" },
+      { "country": "Switzerland", "city": "Geneva" }
+    ],
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/index-ventures/",
+      "crunchbase": "https://www.crunchbase.com/organization/index-ventures",
+      "other": ["https://en.wikipedia.org/wiki/Index_Ventures"]
+    },
+    "capital": {
+      "aum": { "raw": "$15 billion total raised since founding", "usd": 15000000000, "currency": "USD" },
+      "current_fund": { "raw": "$2.3 billion (2024 funds)", "usd": 2300000000, "currency": "USD" },
+      "funds": [
+        { "name": "Index Ventures XII (venture)", "vintage_year": 2024, "size": { "raw": "$800 million", "usd": 800000000, "currency": "USD" } },
+        { "name": "Index Growth VII", "vintage_year": 2024, "size": { "raw": "$1.5 billion", "usd": 1500000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe", "United States", "Global"],
+      "sector_focus": ["saas-enterprise", "fintech", "consumer", "ai-ml", "gaming", "cybersecurity"],
+      "thesis": "Trans-Atlantic VC backing early- and growth-stage technology companies across enterprise software, fintech, consumer, AI, gaming and security; one of the most prolific producers of European and US unicorns."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Figma", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Revolut", "sector": "fintech", "outcome": "active" },
+        { "company": "Wiz", "sector": "cybersecurity", "outcome": "acquired" },
+        { "company": "Scale AI", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Roblox", "sector": "gaming", "outcome": "IPO" },
+        { "company": "Adyen", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Discord", "sector": "consumer", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "Neil Rimer", "role": "Co-founder & Partner" },
+      { "name": "David Rimer", "role": "Co-founder & Partner" },
+      { "name": "Giuseppe Zocco", "role": "Co-founder & Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["multi-stage", "enterprise", "consumer", "fintech", "transatlantic"],
+    "summary": {
+      "en": "Founded in Geneva in 1996, now London-HQ'd with US offices. Raised $2.3bn in new 2024 funds (a $800m 12th venture fund and $1.5bn 7th growth fund); ~$15bn raised since inception. Backer of Figma, Revolut, Wiz, Adyen, Roblox and Scale AI, with 108 unicorns and 57 IPOs to date."
+    },
+    "sources": [
+      {
+        "url": "https://www.indexventures.com/perspectives/relationships-that-reshape-industries-index-launches-23bn-in-new-funds/",
+        "title": "Index launches $2.3bn in new funds",
+        "publisher": "Index Ventures",
+        "accessed": "2026-06-02",
+        "supports": "2024 fund sizes, unicorn/IPO counts, portfolio, offices",
+        "quote": "$800 million ... $1.5 billion ... 108 Index-backed startups have beaten the odds to reach a $1 billion valuation ... 23 have surpassed a $10 billion valuation, and 57 went on to be publicly traded"
+      },
+      {
+        "url": "https://techcrunch.com/2024/07/09/index-ventures-raises-23-billion-for-new-venture-and-growth-funds/",
+        "title": "Index Ventures raises $2.3B for new venture and growth funds",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "total $2.3bn, $15bn since founding, founded 1996 Geneva",
+        "quote": "$2.3 billion in new capital across their 12th venture fund of $800 million and their 7th growth fund of $1.5 billion ... total capital raised since its founding to $15 billion ... founded in Geneva in 1996"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Trans-Atlantic firm with deep US activity, but European-founded and London-HQ'd; included for its strong European consumer/SaaS/enterprise footprint. Light overlap with other (fintech/AI) segments expected.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "eu-balderton-capital",
+    "name": { "en": "Balderton Capital" },
+    "aka": ["Benchmark Capital Europe"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2000,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.balderton.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/balderton-capital/",
+      "crunchbase": "https://www.crunchbase.com/organization/balderton-capital",
+      "other": ["https://en.wikipedia.org/wiki/Balderton_Capital"]
+    },
+    "capital": {
+      "aum": { "raw": "over $5B", "usd": 5000000000, "currency": "USD" },
+      "current_fund": { "raw": "$1.3bn (2024: Early Stage IX + Growth II)", "usd": 1300000000, "currency": "USD" },
+      "funds": [
+        { "name": "Early Stage Fund IX", "vintage_year": 2024, "size": { "raw": "$615 million", "usd": 615000000, "currency": "USD" } },
+        { "name": "Growth Fund II", "vintage_year": 2024, "size": { "raw": "$685 million", "usd": 685000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise", "fintech", "consumer", "ecommerce", "gaming"],
+      "thesis": "Europe's leading venture firm focused exclusively on backing European-founded technology companies from seed stage through IPO, across SaaS, fintech, consumer and marketplaces."
+    },
+    "track_record": {
+      "portfolio_count": "125+",
+      "notable_investments": [
+        { "company": "Revolut", "sector": "fintech", "outcome": "active" },
+        { "company": "Depop", "sector": "ecommerce", "outcome": "acquired" },
+        { "company": "GoCardless", "sector": "fintech", "outcome": "active" },
+        { "company": "Dream Games", "sector": "gaming", "outcome": "unicorn" },
+        { "company": "The Hut Group", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "Citymapper", "sector": "consumer", "outcome": "acquired" },
+        { "company": "Wayve", "sector": "ai-ml", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "team_size": 65,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["multi-stage", "european-only", "saas", "consumer", "fintech"],
+    "summary": {
+      "en": "London-based VC, founded in 2000 as Benchmark Capital Europe and independent since 2007, investing exclusively in European-founded tech. Raised a record $1.3bn in 2024 across Early Stage Fund IX ($615m) and Growth Fund II ($685m), bringing total AUM over $5B. Backed Revolut, Depop, GoCardless and Dream Games."
+    },
+    "sources": [
+      {
+        "url": "https://www.balderton.com/news/balderton-announces-1-3b-in-new-funds-to-back-europes-top-entrepreneurs-as-they-build-world-changing-businesses/",
+        "title": "Balderton announces $1.3B in new funds",
+        "publisher": "Balderton Capital",
+        "accessed": "2026-06-02",
+        "supports": "2024 fund sizes, team size, portfolio count",
+        "quote": "its $615 million Early Stage Fund IX and $685 million Growth Fund II ... 65 team members across Europe, $1.3bn in new funds, and a strong portfolio of more than 125 companies"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Balderton_Capital",
+        "title": "Balderton Capital — Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "founded 2000 as Benchmark Capital Europe, independent 2007, AUM over $5B, portfolio",
+        "quote": "Founded in 2000 as Benchmark Capital Europe, Balderton Capital became fully independent in 2007 ... over $5B"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Generalist European VC with strong consumer/SaaS/marketplace exposure; included for that footprint. AUM 'over $5B' from secondary source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "eu-felix-capital",
+    "name": { "en": "Felix Capital" },
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.felixcap.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/felix-capital/",
+      "crunchbase": "https://www.crunchbase.com/organization/felix-capital",
+      "other": []
+    },
+    "capital": {
+      "aum": { "raw": "$1.2bn", "usd": 1200000000, "currency": "USD" },
+      "current_fund": { "raw": "$600m (Fund IV)", "usd": 600000000, "currency": "USD" },
+      "funds": [
+        { "name": "Felix Capital IV", "vintage_year": 2022, "size": { "raw": "$600m", "usd": 600000000, "currency": "USD" } },
+        { "name": "Felix Capital I", "vintage_year": 2015, "size": { "raw": "$120m", "usd": 120000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": "$5m and $10m in up to 25 companies (initial); up to $50m at growth", "usd_min": 5000000, "usd_max": 50000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe", "United States"],
+      "sector_focus": ["consumer", "ecommerce", "saas-enterprise"],
+      "thesis": "Venture firm investing at the intersection of technology and creativity — digital lifestyle products and brands, consumer-facing startups and related enabling SaaS/marketplaces."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Farfetch", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "Deliveroo", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Mirakl", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Sorare", "sector": "gaming", "outcome": "unicorn" },
+        { "company": "TravelPerk", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Forter", "sector": "fintech", "outcome": "unicorn" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "Frederic Court", "role": "Founder & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["consumer", "digital-lifestyle", "ecommerce", "growth"],
+    "summary": {
+      "en": "London-based consumer-focused VC founded in 2015 by Frederic Court, investing in 'digital lifestyle' brands and enabling technologies. Doubled its funds to $1.2bn AUM with a $600m fourth fund, writing $5m–$10m initial cheques (up to $50m at growth). Backed Farfetch, Deliveroo, Mirakl, Sorare and TravelPerk."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/felix-capital-600m-fund",
+        "title": "Felix Capital raises new $600m fund",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV $600m, $1.2bn AUM, founded 2015, check sizes, sector focus, portfolio",
+        "quote": "$600m ... $1.2bn ... 2015 ... digital lifestyle products and brands ... $5m and $10m in up to 25 companies ... Farfetch, Deliveroo, Sorare, HungryPanda, Dott, Mirakl, Forter, SellerX, Lightspeed, Lassie, Travelperk"
+      },
+      {
+        "url": "https://medium.com/felix-capital/felix-capital-doubles-size-of-funds-to-over-1-2bn-and-closes-its-4th-fundraising-at-600m-3e70ad263623",
+        "title": "Felix Capital doubles size of funds to over $1.2bn",
+        "publisher": "Felix Capital (Medium)",
+        "accessed": "2026-06-02",
+        "supports": "AUM $1.2bn, fourth fundraising at $600m, founder",
+        "quote": "Felix Capital doubles size of funds to over $1.2bn and closes its 4th fundraising at $600m"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "First fund $120m (June 2015) from secondary sources. Founder Frederic Court confirmed across multiple profiles.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "eu-highland-europe",
+    "name": { "en": "Highland Europe" },
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "offices": [
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "Switzerland", "city": "Geneva" }
+    ],
+    "website": "https://www.highlandeurope.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/highland-europe/",
+      "crunchbase": "https://www.crunchbase.com/organization/highland-capital-partners-europe",
+      "other": []
+    },
+    "capital": {
+      "aum": { "raw": "€2.75 billion total raised", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": "€1 billion (Fund V)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Highland Europe Fund V", "vintage_year": 2023, "size": { "raw": "€1 billion", "usd": null, "currency": "EUR" } },
+        { "name": "Highland Europe Fund IV", "vintage_year": 2020, "size": { "raw": "€700M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise", "consumer", "ecommerce"],
+      "thesis": "Growth-stage investor backing exceptional, European-rooted software (SaaS) and consumer-internet/ecommerce companies, typically with €10m+ in annualized revenue."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Wolt", "sector": "consumer", "outcome": "acquired" },
+        { "company": "GetYourGuide", "sector": "consumer", "outcome": "unicorn" },
+        { "company": "WeTransfer", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "ContentSquare", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Camunda", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Zwift", "sector": "consumer", "outcome": "active" },
+        { "company": "Supermetrics", "sector": "saas-enterprise", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["growth-stage", "saas", "consumer-internet", "ecommerce"],
+    "summary": {
+      "en": "London- and Geneva-based growth-stage firm (launched 2012) backing European software and consumer-internet companies. Closed a €1 billion fifth fund (2023), bringing total raised to €2.75 billion. Portfolio includes Wolt, GetYourGuide, WeTransfer, ContentSquare and Zwift."
+    },
+    "sources": [
+      {
+        "url": "https://www.highlandeurope.com/highland-europe-announces-e1-billion-fund-to-continue-backing-exceptional-european-rooted-growth-stage-software-and-consumer-internet-companies/",
+        "title": "Highland Europe announces €1 billion fund",
+        "publisher": "Highland Europe",
+        "accessed": "2026-06-02",
+        "supports": "Fund V €1bn, total raised €2.75bn, sector focus, offices, portfolio",
+        "quote": "€1 billion ... €2.75 billion ... growth-stage software and consumer internet companies ... Adjust, AMCS, Camunda, ContentSquare ... GetYourGuide ... WeTransfer, Wolt and Zwift"
+      },
+      {
+        "url": "https://techcrunch.com/2020/12/07/tech-growth-fund-highland-europe-raises-e700m-to-double-down-strengthens-team/",
+        "title": "Highland Europe raises €700M",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV €700M, launched 2012, €10m+ revenue threshold",
+        "quote": "Highland Europe raises €700M ... rapidly growing European internet, mobile, and software companies ... over €10 million in annualized revenues"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Launched 2012 as the growth arm spun out of Highland Capital Partners. Check sizes and revenue threshold from secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "eu-cherry-ventures",
+    "name": { "en": "Cherry Ventures" },
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "offices": [
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "Sweden", "city": "Stockholm" },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "website": "https://cherry.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/cherry-ventures/",
+      "crunchbase": "https://www.crunchbase.com/organization/cherry-ventures",
+      "other": ["https://cherry.vc/team"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$500m across two funds (2024)", "usd": 500000000, "currency": "USD" },
+      "funds": [
+        { "name": "Cherry V (early-stage) + Opportunity fund", "vintage_year": 2024, "size": { "raw": "$500m total", "usd": 500000000, "currency": "USD" } },
+        { "name": "Cherry IV", "vintage_year": 2022, "size": { "raw": "€300m / $362M", "usd": 362000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-b"],
+      "check_size": { "raw": "€500,000 and €5 million (sweet spot ~€1.5 million)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["consumer", "fintech", "saas-enterprise", "ecommerce", "climate-energy"],
+      "thesis": "Berlin-rooted early-stage VC led by ex-Zalando founders, backing pre-seed and seed founders across consumer, ecommerce, fintech, software and climate, with a later-stage opportunity fund for winners."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Flink", "sector": "ecommerce", "outcome": "unicorn" },
+        { "company": "Forto", "sector": "logistics", "outcome": "unicorn" },
+        { "company": "SellerX", "sector": "ecommerce", "outcome": "active" },
+        { "company": "FlixBus", "sector": "mobility", "outcome": "active" },
+        { "company": "Auto1", "sector": "ecommerce", "outcome": "IPO" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "Filip Dames", "role": "Founding Partner" },
+      { "name": "Christian Meermann", "role": "Founding Partner" },
+      { "name": "Sophia Bendz", "role": "Partner" },
+      { "name": "Dinika Mahtani", "role": "Partner" },
+      { "name": "Jasper Masemann", "role": "Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["seed", "consumer", "saas", "ecommerce"],
+    "summary": {
+      "en": "Berlin-based early-stage VC founded in 2012 by ex-Zalando team members Filip Dames and Christian Meermann, with offices in Stockholm and London. Raised $500m in new funds in 2024 (after a €300m fourth fund), writing €500k–€5m cheques into consumer, fintech, SaaS, commerce and climate. Backed Flink, Forto and SellerX.",
+      "local": "Berliner Frühphasen-VC, 2012 von Ex-Zalando-Gründern gegründet; 2024 wurden $500m in neuen Fonds aufgelegt."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/cherry-ventures-raises-500m",
+        "title": "Cherry Ventures raises $500m in new funds",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "2024 $500m raise, offices, partners, portfolio",
+        "quote": "$500m across two funds ... Berlin, Stockholm, and London ... Flink (German grocery startup) ... Forto (logistics unicorn) ... Filip Dames and Christian Meermann (ex-Zalando)"
+      },
+      {
+        "url": "https://tech.eu/2022/01/20/berlins-cherry-ventures-goes-for-the-whole-pie-with-new-e300-million-fund/",
+        "title": "Berlin's Cherry Ventures goes for the whole pie with new €300 million fund",
+        "publisher": "Tech.eu",
+        "accessed": "2026-06-02",
+        "supports": "Cherry IV €300m, founded 2012, founders, sectors",
+        "quote": "Cherry Ventures ... founded in 2012 by Filip Dames, Christian Meermann, and Daniel Glasner ... €300m ... climate tech, agritech, fintech, ecommerce and software"
+      },
+      {
+        "url": "https://pitchbook.com/profiles/fund/19745-38F",
+        "title": "Cherry Ventures Fund IV: Performance",
+        "publisher": "PitchBook",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV size $362M / €300m, vintage 2022, check size",
+        "quote": "Cherry Ventures Fund IV has a size of $362M ... typically invests between €500,000 and €5 million"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "2024 $500m raise reported as 'two funds' (early-stage + opportunity); exact split per fund not disclosed in the source. Check-size figures from PitchBook/secondary.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "eu-project-a-ventures",
+    "name": { "en": "Project A Ventures" },
+    "aka": ["Project A"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://www.project-a.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/project-a-ventures/",
+      "crunchbase": "https://www.crunchbase.com/organization/project-a-ventures",
+      "other": []
+    },
+    "capital": {
+      "aum": { "raw": "€1.2 billion AUM", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": "€325 million (fifth fund)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Project A Fund V", "vintage_year": 2024, "size": { "raw": "€325 million", "usd": null, "currency": "EUR" } },
+        { "name": "Project A Fund IV", "vintage_year": 2022, "size": { "raw": "$375m / €358.2M", "usd": 375000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "€1 million to €8 million initial", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise", "fintech", "ecommerce", "logistics", "climate-energy"],
+      "thesis": "Operational early-stage VC with 100+ in-house experts, mostly B2B-focused (fintech, commerce, enterprise software, data infrastructure, supply chain, climate) while continuing select consumer investments."
+    },
+    "track_record": {
+      "portfolio_count": "130+",
+      "notable_investments": [
+        { "company": "Trade Republic", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Sennder", "sector": "logistics", "outcome": "unicorn" },
+        { "company": "Zepz", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Kry", "sector": "healthtech", "outcome": "unicorn" },
+        { "company": "Spryker", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Voi", "sector": "mobility", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "Florian Heinemann", "role": "Founding Partner" },
+      { "name": "Uwe Horstmann", "role": "Founding Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["operational-vc", "b2b", "commerce", "enterprise-software"],
+    "summary": {
+      "en": "Berlin-based operational early-stage VC founded in 2012, managing €1.2bn with 100+ in-house experts. Raised a €325m fifth fund (largest to date), writing €1m–€8m cheques mostly into B2B fintech, commerce, enterprise software, supply chain and climate, plus select consumer deals. Backed Trade Republic, Sennder and Zepz.",
+      "local": "Berliner operativer Frühphasen-VC (gegründet 2012); fünfter Fonds über €325 Mio., schwerpunktmäßig B2B."
+    },
+    "sources": [
+      {
+        "url": "https://www.vestbee.com/insights/articles/project-a-raises-325-m-fund",
+        "title": "Berlin-based VC Project A raises €325M fund",
+        "publisher": "Vestbee",
+        "accessed": "2026-06-02",
+        "supports": "Fund V €325m, AUM €1.2bn, check size, founded 2012, 130+ portfolio, sectors",
+        "quote": "managing €1.2 billion in assets ... €325 million fund ... firm's fifth — and the largest ... Initial cheque sizes range from €1 million to €8 million ... over 130 startups ... fintech, commerce, enterprise software, data infrastructure, supply chain and climate tech"
+      },
+      {
+        "url": "https://sifted.eu/articles/project-a-ventures-raises-largest-fund",
+        "title": "Project A Ventures raises largest fund to date of $375m",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV $375m, founded 2012, HQ Berlin, sector focus, portfolio",
+        "quote": "Latest fund: $375m (fourth fund) ... €1m to 10m ... fintech, commerce, enterprise software, data infrastructure, supply chain and climate tech ... Kry, Sennder, WorldRemit, Voi"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Check size cited as €1–8m (Fund V) and €1–10m (Fund IV era). Founded 2012 by six founders including Florian Heinemann and Uwe Horstmann.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "eu-visionaries-club",
+    "name": { "en": "Visionaries Club" },
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://visionaries.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/visionaries-club/",
+      "crunchbase": "https://www.crunchbase.com/organization/visionaries-club",
+      "other": []
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "€400 million (across three funds, 2022)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Seed Fund", "vintage_year": 2022, "size": { "raw": "€150m", "usd": null, "currency": "EUR" } },
+        { "name": "Early Growth Fund", "vintage_year": 2022, "size": { "raw": "€200m", "usd": null, "currency": "EUR" } },
+        { "name": "Tomorrow Fund", "vintage_year": 2022, "size": { "raw": "€50m", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise", "logistics"],
+      "thesis": "Berlin-based VC focused on European B2B technology — especially B2B SaaS, digitisation of the enterprise supply chain (sourcing to sales) and tools enabling remote work."
+    },
+    "track_record": {
+      "portfolio_count": "56",
+      "notable_investments": [
+        { "company": "n8n", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Lovable", "sector": "ai-ml", "outcome": "unicorn" },
+        { "company": "TrueLayer", "sector": "fintech", "outcome": "unicorn" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "Robert Lacher", "role": "Founding Partner" },
+      { "name": "Sebastian Pollok", "role": "Founding Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["b2b-saas", "enterprise", "supply-chain"],
+    "summary": {
+      "en": "Berlin-based B2B technology VC launched in 2019 by Robert Lacher and Sebastian Pollok. Raised €400m across a €150m seed fund, €200m early growth fund and €50m Tomorrow Fund (2022). Focused on B2B SaaS and enterprise supply-chain digitisation; portfolio includes n8n, Lovable and TrueLayer.",
+      "local": "Berliner B2B-Tech-VC, 2019 gegründet; €400 Mio. über drei Fonds (Seed, Early Growth, Tomorrow)."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/b2b-fund-visionaries-club-raises-400m",
+        "title": "Berlin-based Visionaries Club raises €400m to invest in European B2B tech",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "founded 2019, fund structure, sector focus, founders",
+        "quote": "launched by partners Robert Lacher and Sebastian Pollok in 2019 ... a €150m seed fund; a €200m early growth fund ... a new so-called Tomorrow Fund of €50m"
+      },
+      {
+        "url": "https://techcrunch.com/2022/09/22/berlins-visionaries-club-vc-boosts-its-funds-with-e350m-worth-of-fresh-capital-for-b2b-investments/",
+        "title": "Berlin's Visionaries Club VC boosts its funds with €400M",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "€400m fresh capital for B2B investments",
+        "quote": "Berlin's Visionaries Club VC boosts its funds with €400M worth of fresh capital for B2B investments"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Portfolio count (56) and unicorn list from a secondary intelligence profile (Feb 2026); treated as medium-confidence on those specific figures.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "eu-frontline-ventures",
+    "name": { "en": "Frontline Ventures" },
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "europe",
+    "country": "Ireland",
+    "hq_city": "Dublin",
+    "offices": [
+      { "country": "Ireland", "city": "Dublin" },
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "website": "https://frontline.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/frontline-vc/",
+      "crunchbase": "https://www.crunchbase.com/organization/frontline-ventures",
+      "other": ["https://frontline.vc/frontline-seed/"]
+    },
+    "capital": {
+      "aum": { "raw": "over $500 million total raised", "usd": 500000000, "currency": "USD" },
+      "current_fund": { "raw": "$200 million across Frontline Seed and Frontline Growth (2024)", "usd": 200000000, "currency": "USD" },
+      "funds": [
+        { "name": "Frontline Seed / Frontline Growth (2024)", "vintage_year": 2024, "size": { "raw": "$200 million combined", "usd": 200000000, "currency": "USD" } },
+        { "name": "Frontline Seed fund (2021)", "vintage_year": 2021, "size": { "raw": "$83.8M", "usd": 83800000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-b", "series-c-plus"],
+      "check_size": { "raw": "€250,000 to €2.5 million (seed); $1.5m to $3m typical", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe", "United States"],
+      "sector_focus": ["saas-enterprise"],
+      "thesis": "Transatlantic B2B software VC: Frontline Seed backs European B2B SaaS founders targeting the US market, while Frontline Growth backs US companies (Series B–D) expanding into Europe."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Navan", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Signal AI", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Workvivo", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Pointy", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Clearco", "sector": "fintech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Pointy", "type": "M&A", "year": 2020, "value": { "raw": "acquired by Google", "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Will Prendergast", "role": "Partner / Co-founder" },
+      { "name": "William McQuillan", "role": "Partner / Co-founder" },
+      { "name": "Shay Garvey", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["b2b-saas", "transatlantic", "seed"],
+    "summary": {
+      "en": "Dublin-founded (2012) transatlantic B2B software VC with offices in London and San Francisco. Raised $200m across Frontline Seed and Frontline Growth in 2024 (over $500m total to date). Seed fund backs European B2B SaaS expanding into the US; growth fund backs US firms entering Europe. Backed Navan, Workvivo and Pointy."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2024/03/21/frontline-ventures-seed-growth/",
+        "title": "Frontline Ventures raises $200M targeting B2B startups straddling the Atlantic",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "2024 $200m raise, transatlantic B2B software focus",
+        "quote": "Frontline Ventures raises $200M targeting B2B startups straddling the Atlantic"
+      },
+      {
+        "url": "https://techcrunch.com/2021/02/05/dublins-frontline-ventures-raises-new-83-8m-seed-fund-for-european-b2b-startups/",
+        "title": "Dublin's Frontline Ventures raises new $83.8M seed fund",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "2021 seed fund $83.8M, founded 2012, HQ Dublin, B2B focus",
+        "quote": "Dublin's Frontline Ventures raises new $83.8M seed fund for European B2B startups"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Check-size ranges and 'over $500m total' from secondary sources. Founders Garvey/Prendergast/McQuillan corroborated across profiles.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "eu-seedcamp",
+    "name": { "en": "Seedcamp" },
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2007,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://seedcamp.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/seedcamp/",
+      "crunchbase": "https://www.crunchbase.com/organization/seedcamp",
+      "other": ["https://en.wikipedia.org/wiki/Seedcamp"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "€166 million / $180M (Fund VI)", "usd": 180000000, "currency": "EUR" },
+      "funds": [
+        { "name": "Seedcamp Fund VI", "vintage_year": 2023, "size": { "raw": "€166 million / $180M", "usd": 180000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "first cheques of up to $1M in Angel to Seed rounds", "usd_min": null, "usd_max": 1000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise", "fintech", "ai-ml", "cybersecurity"],
+      "thesis": "Europe's seed fund: sector-agnostic but heavily weighted to foundational software — SaaS, fintech, AI, cybersecurity and open source — backing companies at Angel to Seed stage."
+    },
+    "track_record": {
+      "portfolio_count": "250+",
+      "notable_investments": [
+        { "company": "Wise", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Revolut", "sector": "fintech", "outcome": "active" },
+        { "company": "UiPath", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Pleo", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Sorare", "sector": "gaming", "outcome": "unicorn" },
+        { "company": "Hopin", "sector": "saas-enterprise", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "Reshma Sohoni", "role": "Co-founder & Managing Partner" },
+      { "name": "Carlos Espinal", "role": "Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["seed", "saas", "fintech", "europe"],
+    "summary": {
+      "en": "London-based seed-stage fund launched in 2007 by ~30 European investors. Closed its largest fund, €166m ($180M) Fund VI, in 2023, writing first cheques up to $1M from Angel to Seed. Sector-agnostic but software-heavy; early backer of Wise, Revolut, UiPath, Pleo and Sorare."
+    },
+    "sources": [
+      {
+        "url": "https://siliconcanals.com/seedcamp-launches-165-8m-fund-vi/",
+        "title": "UK-based VC Seedcamp launches €165.8M Fund VI",
+        "publisher": "Silicon Canals",
+        "accessed": "2026-06-02",
+        "supports": "Fund VI €166m/$180M, check size, founded 2007, portfolio, partners",
+        "quote": "€166 million Fund VI ... up to $1M in Angel to Seed rounds ... launched in May 2007 ... Wise, Revolut, UiPath ... Reshma Sohoni and Carlos Espinal"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Seedcamp",
+        "title": "Seedcamp — Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "founded 2007, London HQ, portfolio 250+",
+        "quote": "European seed-stage venture capital fund, headquartered in London, launched in May 2007"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Seedcamp is sector-agnostic; included for its dominant SaaS/enterprise/fintech seed footprint. Began as an accelerator-style program, now primarily a seed fund (subtype: accelerator retained).",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "eu-partech",
+    "name": { "en": "Partech" },
+    "aka": ["Partech Partners", "Partech Ventures", "Paribas Technologies"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 1982,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "offices": [
+      { "country": "France", "city": "Paris" },
+      { "country": "United States", "city": "San Francisco" },
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "Senegal", "city": "Dakar" }
+    ],
+    "website": "https://partechpartners.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/partech-partners/",
+      "crunchbase": "https://www.crunchbase.com/organization/partech-international",
+      "other": ["https://partechpartners.com/funds"]
+    },
+    "capital": {
+      "aum": { "raw": "over EUR 2.5 billion AUM", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "Partech Africa II", "vintage_year": 2023, "size": { "raw": "€280M ($300M+)", "usd": 300000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": "€200K to €50M (sweet spot ~$5 million)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United States", "Africa"],
+      "sector_focus": ["saas-enterprise", "consumer", "ecommerce", "fintech", "deeptech"],
+      "thesis": "Global, partner-owned VC platform investing from seed to growth across enterprise software/SaaS, digital brands and consumer services, with dedicated Seed, Venture, Growth and Africa strategies."
+    },
+    "track_record": {
+      "portfolio_count": "220+",
+      "notable_investments": [
+        { "company": "Sennder", "sector": "logistics", "outcome": "unicorn" },
+        { "company": "ManoMano", "sector": "ecommerce", "outcome": "unicorn" },
+        { "company": "Wave", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Made.com", "sector": "ecommerce", "outcome": "IPO" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["multi-stage", "enterprise", "consumer", "global"],
+    "summary": {
+      "en": "Paris-headquartered global VC tracing its roots to 1982 (originally Paribas Technologies), managing over €2.5bn across 220+ companies in 40 countries. Invests €200K–€50M from seed to growth in enterprise SaaS, digital brands and consumer services, with dedicated Seed, Venture, Growth and Africa funds.",
+      "local": "VC mit Pariser Hauptsitz und globaler Aufstellung; verwaltet über 2,5 Mrd. € und investiert von Seed bis Growth in Enterprise-Software und Consumer-Services."
+    },
+    "sources": [
+      {
+        "url": "https://partechpartners.com/funds",
+        "title": "Funds | Partech",
+        "publisher": "Partech",
+        "accessed": "2026-06-02",
+        "supports": "AUM, sector/stage focus, check size, fund strategies, started 1982",
+        "quote": "Partech started in 1982 ... managing over EUR 2.5 billion in assets under management ... more than 220 companies across 40 countries ... invests from €200K to €50M ... software, digital brands and services to hardware and deep tech"
+      },
+      {
+        "url": "https://partechpartners.com/news/partech-africa-ii-fund-reaches-final-close-at-hard-cap-above-300-million-expands-team-and-portfolio",
+        "title": "Partech Africa II Fund Reaches Final Close above $300 Million",
+        "publisher": "Partech",
+        "accessed": "2026-06-02",
+        "supports": "Partech Africa II €280M/$300M+",
+        "quote": "Partech Africa II reached its final closing at €280M ($300M+)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Generalist global platform with strong enterprise SaaS and consumer activity; included for that footprint. Current flagship Europe fund size not freshly confirmed in this pass (left null).",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "eu-hoxton-ventures",
+    "name": { "en": "Hoxton Ventures" },
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.hoxtonventures.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/hoxton-ventures/",
+      "crunchbase": "https://www.crunchbase.com/organization/hoxton-ventures",
+      "other": []
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$500,000 to $5 million", "usd_min": 500000, "usd_max": 5000000 },
+      "ownership_target_pct": "10% to 20%",
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise", "consumer", "ai-ml"],
+      "thesis": "European early-stage fund with a Silicon Valley mindset, leading pre-seed/seed rounds to build large, category-defining technology companies — across enterprise software, consumer and AI."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Deliveroo", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Darktrace", "sector": "cybersecurity", "outcome": "IPO" },
+        { "company": "Babylon Health", "sector": "healthtech", "outcome": "IPO" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["pre-seed", "seed", "category-defining"],
+    "summary": {
+      "en": "London-based early-stage VC (founded 2013) leading pre-seed and seed rounds of $500k–$5m for 10–20% ownership, aiming to back category-defining European companies across software, consumer and AI. Early backer of Deliveroo and Darktrace."
+    },
+    "sources": [
+      {
+        "url": "https://www.openvc.app/investor-lists/saas-investors",
+        "title": "List of SaaS Investors & VC Firms for Startups",
+        "publisher": "OpenVC",
+        "accessed": "2026-06-02",
+        "supports": "check size, ownership target, stage, positioning",
+        "quote": "leads pre-seed or seed rounds with investments ranging from $500,000 to $5 million for an ownership stake of 10% to 20% ... build large, category-defining companies in Europe"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Check size, ownership target and stage from a single aggregator (OpenVC) plus general knowledge; specific current fund size not confirmed in this pass. Founded year (2013) from secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "eu-seaya",
+    "name": { "en": "Seaya" },
+    "aka": ["Seaya Ventures"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "europe",
+    "country": "Spain",
+    "hq_city": "Madrid",
+    "website": "https://seaya.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/seaya-ventures/",
+      "crunchbase": "https://www.crunchbase.com/organization/seaya-ventures",
+      "other": []
+    },
+    "capital": {
+      "aum": { "raw": "over €650 million AUM", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "Seaya III", "vintage_year": 2021, "size": { "raw": "€165M", "usd": null, "currency": "EUR" } },
+        { "name": "Seaya II", "vintage_year": 2017, "size": { "raw": "€103M", "usd": null, "currency": "EUR" } },
+        { "name": "Seaya I", "vintage_year": 2013, "size": { "raw": "€57M", "usd": null, "currency": "EUR" } },
+        { "name": "Seaya Andromeda (climate)", "vintage_year": 2023, "size": { "raw": "€300m", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": "up to €20 million per company across rounds", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Spain", "Southern Europe", "Latin America"],
+      "sector_focus": ["consumer", "saas-enterprise", "fintech", "climate-energy"],
+      "thesis": "Spain's largest VC, leading Series A and B rounds in consumer, marketplace, SaaS and fintech companies across Southern Europe and Latin America, with a separate climate-tech fund."
+    },
+    "track_record": {
+      "portfolio_count": "65",
+      "notable_investments": [
+        { "company": "Glovo", "sector": "consumer", "outcome": "acquired" },
+        { "company": "Cabify", "sector": "mobility", "outcome": "unicorn" },
+        { "company": "Wallbox", "sector": "climate-energy", "outcome": "IPO" },
+        { "company": "Payflow", "sector": "fintech", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["consumer", "marketplace", "saas", "spain"],
+    "summary": {
+      "en": "Madrid-based VC founded in 2013, now Spain's largest with over €650m AUM across five early-stage funds plus a €300m climate fund. Leads Series A/B rounds (up to €20m per company) in consumer, marketplace, SaaS and fintech across Southern Europe and Latin America. Backed Glovo, Cabify and Wallbox.",
+      "local": "VC con sede en Madrid (fundado en 2013), la mayor gestora de España, con más de 650 M€ bajo gestión; lidera rondas Series A y B en consumo, marketplace, SaaS y fintech."
+    },
+    "sources": [
+      {
+        "url": "https://www.private-equitynews.com/news/seaya-ventures-launches-its-third-fund-with-an-initial-closing-of-e85-million-reaching-e250-million-in-assets-under-management/",
+        "title": "Seaya Ventures launches its third fund",
+        "publisher": "Private Equity News",
+        "accessed": "2026-06-02",
+        "supports": "fund history, check size, stage focus",
+        "quote": "Seaya Ventures launches its third fund with an initial closing of €85 million ... leading Series A and B rounds, being able to invest up to €20 million per company throughout several rounds"
+      },
+      {
+        "url": "https://sifted.eu/articles/seaya-ventures-climate-tech",
+        "title": "Seaya Ventures closes €300m climate fund and becomes Spain's largest VC",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "AUM €650m, climate fund €300m, founded 2013, portfolio",
+        "quote": "closed its latest climate tech fund at €300m, bringing its assets under management to €650m and making it the largest venture firm in Spain ... Glovo, Cabify"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Seaya now spans consumer/marketplace/SaaS and a separate climate fund (Andromeda). Included here for its strong consumer/SaaS footprint; light overlap with climate segment. Fund I/II/III sizes from secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  }
+]
