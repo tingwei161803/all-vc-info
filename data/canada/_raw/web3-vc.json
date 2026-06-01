@@ -1,0 +1,323 @@
+[
+  {
+    "id": "ca-round13-digital-asset-fund",
+    "name": {
+      "en": "Round13 Digital Asset Fund"
+    },
+    "aka": ["Round13 DAF", "R13 DAF", "Round13 Capital Digital Asset Fund"],
+    "type": "vc",
+    "subtypes": ["crypto-fund"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://round13.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/round-13-digital-asset-fund",
+      "other": ["https://betakit.com/round13-launches-new-venture-fund-with-initial-70-million-usd-to-back-blockchain-companies-providing-the-base-for-web3/"]
+    },
+    "capital": {
+      "aum": { "raw": "~US$80 million (total raised, per Feb 2024)", "usd": 80000000, "currency": "USD" },
+      "current_fund": { "raw": "US$70M raised toward initial US$100M target (May 2022)", "usd": 70000000, "currency": "USD" },
+      "funds": [
+        {
+          "name": "Round13 Digital Asset Fund",
+          "vintage_year": 2022,
+          "size": { "raw": "US$70M raised (initial target US$100M)", "usd": 70000000, "currency": "USD" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "US$300,000 to US$5 million per company ($250,000 to $5 million per some reports)", "usd_min": 300000, "usd_max": 5000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Global", "Canada"],
+      "sector_focus": ["web3-crypto", "gaming", "ai-ml"],
+      "thesis": "Canada's first institutional crypto-native venture fund. Backs blockchain infrastructure companies solving interoperability and scalability, plus teams building top-tier applications on those rails. Open-ended structure with quarterly investment opportunities; spans AI, gaming/metaverse, identity, and infrastructure."
+    },
+    "track_record": {
+      "portfolio_count": 20,
+      "notable_investments": [
+        { "company": "ChainSafe", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Wombo", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Improbable Worlds", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Trust Machines", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Ibex", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Satraj Bambra", "role": "Managing Partner" },
+      { "name": "Khaled Verjee", "role": "Managing Partner" }
+    ],
+    "application": {
+      "accepts_cold_inbound": null,
+      "contact": null
+    },
+    "tags": ["crypto", "blockchain", "web3", "digital-assets", "toronto"],
+    "summary": {
+      "en": "Toronto-based crypto-native venture fund launched by Round13 Capital in 2022. Branded 'Canada's first institutional crypto-native venture fund,' it raised US$70M (toward an initial US$100M target, ~US$80M total by 2024) led by a major Canadian pension fund. Invests US$300K–$5M into ~20 seed/Series A blockchain and Web3 companies including ChainSafe, Wombo, Improbable Worlds and Trust Machines."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/round13-launches-new-venture-fund-with-initial-70-million-usd-to-back-blockchain-companies-providing-the-base-for-web3/",
+        "title": "Round13 launches new venture fund with initial $70 million USD to back blockchain companies providing 'the base' for Web3",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Toronto HQ, US$70M raised, US$100M target, US$300K-$5M check, Series A and below, managing partners, thesis, named portfolio",
+        "quote": "Round13 has set an 'initial target' of $100 million USD for the open Digital Asset Fund ... secured $70 million USD for its recently launched Digital Asset Fund ... invest between $300,000 and $5 million USD per company ... generally at the Series A-stage or below ... managed by managing partners Satraj Bambra and Khaled Verjee"
+      },
+      {
+        "url": "https://www.crowdfundinsider.com/2024/02/221720-canada-round13-digital-asset-fund-claims-40-gain-since-launch/",
+        "title": "Canada: Round13 Digital Asset Fund Claims 40% Gain Since Launch",
+        "publisher": "Crowdfund Insider",
+        "accessed": "2026-06-02",
+        "supports": "Launched April 2022, 20 portfolio companies, $250K-$5M checks, seed/Series A, ~$80M raised, Wombo / Improbable / ChainSafe portfolio",
+        "quote": "launched in April 2022 ... invested in 20 different portfolio firms ... investments from $250,000 to $5 million ... raised about $80 million USD in total ... including Wombo, Improbable, Confirm, and ChainSafe"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Check-size figures differ slightly across sources (US$300K–$5M per BetaKit launch coverage vs $250K–$5M per 2024 performance coverage); both reported. Dedicated fund site r13daf.com has lapsed (domain now parked/for sale) and round13.com no longer lists a crypto/digital-asset strategy on its homepage, so the fund may be winding down or no longer actively raising — status set to 'active' based on investments recorded through 2024–2025, but this is uncertain.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "ca-aqn-digital-ventures",
+    "name": {
+      "en": "AQN Digital Ventures Fund"
+    },
+    "aka": ["AQN Digital", "Aquanow Ventures", "Aquanow AQN Digital Ventures"],
+    "type": "cvc",
+    "subtypes": ["crypto-fund"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Vancouver",
+    "website": "https://www.aqndigital.com/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/aqn-digital",
+      "crunchbase": "https://www.crunchbase.com/organization/aquanow",
+      "other": ["https://www.aquanow.com/news-insights/aquanow-launches-aqn-digital-ventures-fund-to-back-digital-asset-companies"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$13.4 million CAD ($10 million USD)", "usd": 10000000, "currency": "CAD" },
+      "funds": [
+        {
+          "name": "AQN Digital Ventures Fund",
+          "vintage_year": 2023,
+          "size": { "raw": "$13.4 million CAD ($10 million USD)", "usd": 10000000, "currency": "CAD" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$100,000 to $500,000 per investment", "usd_min": 100000, "usd_max": 500000 },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Global"],
+      "sector_focus": ["web3-crypto", "fintech"],
+      "thesis": "Venture arm of digital-asset infrastructure firm Aquanow. Backs early-stage companies addressing problems across the technology stack for financial-service businesses building in crypto — payments, infrastructure and compliance — that tie into Aquanow's core digital-asset infrastructure business."
+    },
+    "track_record": {
+      "portfolio_count": 7,
+      "notable_investments": [
+        { "company": "BoomFi", "sector": "fintech", "outcome": "active" },
+        { "company": "Mash", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Michael Kwok", "role": "Head of Venture Capital, AQN Digital" },
+      { "name": "Phil Sham", "role": "Co-founder & CEO, Aquanow" }
+    ],
+    "application": {
+      "accepts_cold_inbound": null,
+      "contact": null
+    },
+    "tags": ["crypto", "blockchain", "web3", "digital-assets", "fintech", "vancouver", "corporate-vc"],
+    "summary": {
+      "en": "Venture fund of Aquanow, a Canadian digital-asset infrastructure firm established in 2018 (offices in Toronto and Vancouver). Launched September 2023 and valued at $13.4M CAD (US$10M), the fund writes $100K–$500K checks into early-stage blockchain startups across payments, infrastructure and compliance. By launch it had deployed ~$1M into seven companies including BoomFi and Mash, targeting up to two investments per month."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/aquanow-launches-aqn-digital-ventures-fund-to-back-next-generation-of-blockchain-startups/",
+        "title": "Aquanow launches AQN Digital Ventures Fund to back next generation of blockchain startups",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Fund size $13.4M CAD/$10M USD, $100K-$500K checks, Aquanow established 2018, Toronto and Vancouver offices, $1M deployed into seven companies, BoomFi and Mash, Michael Kwok head of VC, two investments per month",
+        "quote": "valued at $13.4 million CAD ($10 million USD) ... targeting between $100,000 and $500,000 per investment ... the fund has deployed $1 million into seven companies ... Established in 2018 and headquartered in Canada with offices in Toronto and Vancouver ... Michael Kwok, head of venture capital at AQN Digital ... aiming to make up to two investments per month going forward"
+      },
+      {
+        "url": "https://www.aquanow.com/news-insights/aquanow-launches-aqn-digital-ventures-fund-to-back-digital-asset-companies",
+        "title": "Aquanow Launches AQN Digital Ventures Fund to Back Digital Asset Companies",
+        "publisher": "Aquanow",
+        "accessed": "2026-06-02",
+        "supports": "Seven portfolio companies, BoomFi $3.8M seed and Mash $6M seed, Aquanow established 2018, Phil Sham CEO, Michael Kwok head of VC, sector focus on crypto financial-services stack",
+        "quote": "The Fund has invested in seven portfolio companies to date ... companies that address problems at various parts of the technology stack for financial service businesses building in crypto ... Established in 2018 ... Phil Sham ... Aquanow co-founder and CEO ... Michael Kwok ... AQN Digital's Head of Venture Capital"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Aquanow's HQ is reported as 'headquartered in Canada' with offices in Toronto and Vancouver; Vancouver is widely cited as the principal Canadian office, so hq_city set to Vancouver (medium certainty). Fund is structured as the corporate venture arm of an operating crypto-infrastructure company, hence type 'cvc'. Aquanow's main site now emphasizes UAE/Dubai operations, but the venture fund and Canadian roots are well documented.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "ca-contango-digital-assets",
+    "name": {
+      "en": "Contango Digital Assets"
+    },
+    "aka": ["Contango", "Contango Blockchain x AI Fund"],
+    "type": "vc",
+    "subtypes": ["crypto-fund"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.contango.digital/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/contango-digital-assets",
+      "twitter": "https://twitter.com/ContangoDigital",
+      "crunchbase": "https://www.crunchbase.com/organization/contango-digital-assets",
+      "other": ["https://www.globenewswire.com/news-release/2024/04/16/2863259/0/en/Contango-Reaches-5M-Close-on-10M-Blockchain-x-AI-Seed-Fund.html"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$5M first close of targeted $10M Blockchain x AI Seed Fund", "usd": 5000000, "currency": "USD" },
+      "funds": [
+        {
+          "name": "Contango Blockchain x AI Seed Fund",
+          "vintage_year": 2024,
+          "size": { "raw": "$5M first close (April 2024), $10M target", "usd": 5000000, "currency": "USD" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$150,000 to $250,000", "usd_min": 150000, "usd_max": 250000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["North America"],
+      "sector_focus": ["web3-crypto", "ai-ml"],
+      "thesis": "Web3 venture fund focused on the intersection of blockchain and AI ('decentralized AI'), with emphasis on infrastructure, dev tooling and the Bittensor ecosystem. Plans to support 40-50 projects in a follow-on to co-lead capacity over five to seven years."
+    },
+    "track_record": {
+      "portfolio_count": "100+ AI and Web3 projects (incl. 80+ prior angel investments)",
+      "notable_investments": [
+        { "company": "Hivello", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Koat.ai", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Coinweb", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Kado", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Mike Grantis", "role": "Managing Partner (co-founder; previously founded Ad Turbine)" },
+      { "name": "Joshua Field", "role": "Managing Partner (former Coinsquare wealth director)" }
+    ],
+    "application": {
+      "accepts_cold_inbound": null,
+      "contact": "mike@contango.digital"
+    },
+    "tags": ["crypto", "blockchain", "web3", "ai", "decentralized-ai", "bittensor", "toronto"],
+    "summary": {
+      "en": "Toronto-based Web3 venture firm focused on the blockchain x AI ('decentralized AI') intersection. In April 2024 it announced a $5M first close on a targeted $10M Blockchain x AI Seed Fund, writing $150K–$250K checks into North American seed-stage companies. Run by managing partners Mike Grantis and Joshua Field, who have made 80+ angel investments since the firm's 2021 inception; portfolio includes Hivello, Koat.ai, Coinweb and Kado."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/contango-digital-assets-closes-5-million-for-blockchain-x-ai-seed-fund/",
+        "title": "Contango Digital Assets closes $5 million for 'Blockchain x AI' seed fund",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Toronto HQ, $5M first close of $10M target, $150K-$250K check, seed-stage blockchain x AI, managing partners Mike Grantis and Joshua Field, Hivello investment, 40-50 projects over 5-7 years, established 2020",
+        "quote": "Toronto-based venture capital firm ... closed the first $5 million of its targeted $10-million Blockchain x AI Seed Fund ... The fund's cheque size ranges from $150,000 to $250,000 ... Mike Grantis, who formerly founded digital marketing agency Ad Turbine, and former Coinsquare wealth director Joshua Field ... will support 40 to 50 projects in a follow-on to co-lead capacity over the next five to seven years"
+      },
+      {
+        "url": "https://www.globenewswire.com/news-release/2024/04/16/2863259/0/en/Contango-Reaches-5M-Close-on-10M-Blockchain-x-AI-Seed-Fund.html",
+        "title": "Contango Reaches $5M Close on $10M Blockchain x AI Seed Fund",
+        "publisher": "GlobeNewswire",
+        "accessed": "2026-06-02",
+        "supports": "$5M first close, $10M target, Toronto Canada HQ, 80+ angel investments since June 2021 inception, managing partners",
+        "quote": "$5 million in LP capital, to date ... $10M Blockchain x AI Seed Fund ... Toronto, Canada ... more than 80 related Angel investments since the company's inception in June, 2021 ... Mike Grantis and Joshua Field"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year is reported inconsistently: the GlobeNewswire release says 'Established in 2020' but also dates the firm's angel-investing track record to a 'June, 2021' inception; founded_year set to 2021 to match the inception date, but 2020 is also cited. Portfolio count combines the fund's investments with 80+ prior personal angel deals by the partners.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "ca-dapper-labs-flow-ecosystem-fund",
+    "name": {
+      "en": "Dapper Labs / Flow Ecosystem Fund"
+    },
+    "aka": ["Flow Ecosystem Fund", "Dapper Ventures", "Dapper Labs"],
+    "type": "cvc",
+    "subtypes": ["ecosystem-fund"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Vancouver",
+    "website": "https://www.dapperlabs.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/dapper-labs",
+      "other": ["https://betakit.com/dapper-labs-launches-725-million-ecosystem-fund-for-flow-blockchain-innovation/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$725 million ecosystem fund (joint commitment)", "usd": 725000000, "currency": "USD" },
+      "funds": [
+        {
+          "name": "Flow Ecosystem Fund",
+          "vintage_year": 2022,
+          "size": { "raw": "$725 million", "usd": 725000000, "currency": "USD" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Global"],
+      "sector_focus": ["web3-crypto", "gaming", "consumer"],
+      "thesis": "$725M ecosystem fund to drive innovation across the Flow blockchain (created by Dapper Labs). Supports developers building on Flow via investments, FLOW token grants and in-kind support, focused on gaming, infrastructure, decentralized finance, content and creators. Capital is jointly committed alongside external VCs including a16z, Coatue, USV, CoinFund and DCG."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "NBA Top Shot (Dapper Labs)", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Genies", "sector": "web3-crypto", "outcome": "active" }
+      ],
+      "co_investors": ["a16z", "Coatue", "Union Square Ventures", "CoinFund", "Digital Currency Group", "AppWorks", "HashKey", "Spartan Group"]
+    },
+    "people": [
+      { "name": "Roham Gharegozlou", "role": "CEO & Co-founder, Dapper Labs" }
+    ],
+    "application": {
+      "accepts_cold_inbound": null,
+      "contact": null
+    },
+    "tags": ["crypto", "blockchain", "web3", "nft", "flow", "gaming", "ecosystem-fund", "vancouver"],
+    "summary": {
+      "en": "Vancouver-based Dapper Labs (creator of Flow, NBA Top Shot and CryptoKitties) launched a $725M Flow Ecosystem Fund in May 2022 — described as the largest joint commitment to any blockchain ecosystem. It funds developers building on Flow through investments, FLOW token grants and in-kind support across gaming, infrastructure, DeFi and creators, with capital committed alongside external VCs such as a16z, Coatue, USV, CoinFund and DCG."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/dapper-labs-launches-725-million-ecosystem-fund-for-flow-blockchain-innovation/",
+        "title": "Dapper Labs launches $725 million ecosystem fund for Flow blockchain innovation",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Vancouver-based Dapper Labs, $725M ecosystem fund, focus areas gaming/infrastructure/DeFi/content/creators, co-investors list, Dapper Ventures",
+        "quote": "$725 million ecosystem fund ... Vancouver-based Dapper Labs ... a16z, AppWorks, Cadenza Ventures, Coatue, Coinfund, Digital Currency Group (DCG), Dispersion Capital, Fabric Ventures, Greenfield One, HashKey, L1 Digital, Mirana Ventures, OP Crypto, SkyVision Capital, Spartan Group, Union Square Ventures, and Dapper Ventures ... gaming, infrastructure, decentralized finance, content, and creators"
+      },
+      {
+        "url": "https://www.dapperlabs.com/newsroom/flow-launches-725-million-ecosystem-fund-to-drive-innovation-across-the-flow-ecosystem",
+        "title": "Flow Launches $725 Million Ecosystem Fund to Drive Innovation Across the Flow Ecosystem",
+        "publisher": "Dapper Labs",
+        "accessed": "2026-06-02",
+        "supports": "$725M fund largest joint commitment to a blockchain ecosystem, supports developers via investments, FLOW token grants and in-kind support, focus areas",
+        "quote": "new $725 million Ecosystem Fund ... largest joint commitment made towards any blockchain ecosystem ... support in building applications on the Flow blockchain through investments, FLOW token grants and in-kind support ... gaming, infrastructure, decentralized finance, content and creators"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Borderline inclusion: the $725M figure is a joint commitment pooled across many external VCs (a16z, Coatue, USV, etc.), not a single Canadian-managed fund — Dapper Labs' own vehicle is 'Dapper Ventures.' Included because Dapper Labs (Vancouver) is the Canadian operator anchoring the fund. Investment mechanics blend equity, FLOW token grants and in-kind support rather than pure VC checks, so check_size left null. founded_year reflects the fund's 2022 launch, not Dapper Labs' company founding (~2018).",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  }
+]

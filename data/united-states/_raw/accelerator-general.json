@@ -1,0 +1,901 @@
+[
+  {
+    "id": "us-y-combinator",
+    "name": { "en": "Y Combinator" },
+    "aka": ["YC"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2005,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://www.ycombinator.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/y-combinator/",
+      "twitter": "https://twitter.com/ycombinator",
+      "crunchbase": "https://www.crunchbase.com/organization/y-combinator",
+      "other": ["https://en.wikipedia.org/wiki/Y_Combinator", "https://www.ycombinator.com/deal"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Canada", "Global"],
+      "sector_focus": ["generalist", "ai-ml", "saas-enterprise", "fintech"],
+      "thesis": "The original seed-stage accelerator. Sector-agnostic; funds large batches of very early-stage startups on standardized terms and culminates in Demo Day. Has shifted to four batches per year since 2025."
+    },
+    "program": {
+      "length_weeks": 12,
+      "cohort_size": "250-300 per batch",
+      "batches_per_year": 4,
+      "equity_taken_pct": "7% (for the $125K post-money SAFE) plus an uncapped MFN SAFE for the remaining $375K",
+      "investment": { "raw": "$500,000", "usd": 500000, "currency": "USD" },
+      "format": "in-person",
+      "location": "San Francisco, California",
+      "demo_day": true,
+      "perks": ["Standardized non-negotiable deal", "Bookface alumni network", "Follow-on investment rights", "Office hours"],
+      "application_url": "https://www.ycombinator.com/apply",
+      "application_cycles": ["Four batches per year (since 2025)"],
+      "eligibility": "Invests in US, Canada, Cayman and Singapore corporations; companies incorporated elsewhere must restructure."
+    },
+    "track_record": {
+      "portfolio_count": "5,000+",
+      "notable_investments": [
+        { "company": "Airbnb", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Stripe", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Dropbox", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Coinbase", "sector": "web3-crypto", "outcome": "IPO" },
+        { "company": "DoorDash", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Reddit", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Instacart", "sector": "ecommerce", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Paul Graham", "role": "Co-founder" },
+      { "name": "Jessica Livingston", "role": "Co-founder" },
+      { "name": "Robert Tappan Morris", "role": "Co-founder" },
+      { "name": "Trevor Blackwell", "role": "Co-founder" },
+      { "name": "Garry Tan", "role": "President & CEO (since 2023)" }
+    ],
+    "application": { "how_to_apply": "Online application each batch", "accepts_cold_inbound": true },
+    "tags": ["seed-accelerator", "demo-day", "generalist", "tier-1"],
+    "summary": {
+      "en": "Y Combinator, founded in March 2005 in San Francisco by Paul Graham, Jessica Livingston, Robert Morris and Trevor Blackwell, is the pioneering and most prestigious US seed accelerator. Its standard deal invests $500,000 ($125K for 7% on a post-money SAFE plus a $375K uncapped MFN SAFE) over a 12-week, four-batches-per-year program ending in Demo Day. It has funded more than 5,000 companies with a combined valuation around $600B, including Airbnb, Stripe, Dropbox, Coinbase, DoorDash, Reddit and Instacart."
+    },
+    "sources": [
+      {
+        "url": "https://www.ycombinator.com/deal",
+        "title": "The Y Combinator Standard Deal",
+        "publisher": "Y Combinator",
+        "accessed": "2026-06-02",
+        "supports": "Investment amount, equity %, SAFE structure",
+        "quote": "We invest $500,000, and our investment gives YC 7% of your company ... $125,000 on a post-money safe in return for 7% of your company ... $375,000 on an uncapped safe with a Most Favored Nation (\"MFN\") provision ... we don't charge any fees to the companies to be part of YC"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Y_Combinator",
+        "title": "Y Combinator - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founders, HQ, batches per year, companies funded, combined valuation, notable companies",
+        "quote": "founded in March 2005 ... Paul Graham, Jessica Livingston, Robert Tappan Morris, Trevor Blackwell ... Garry Tan (since January 2023) ... Four cohorts selected annually ... $500,000 in seed money ... more than 5,000 companies ... $600 billion ... Airbnb, Stripe, Dropbox, Coinbase, DoorDash, Reddit, Instacart, Twitch, Cruise"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Investment/equity terms from official YC deal page (primary). Founding, founders, batch cadence, company count, valuation and notable companies from Wikipedia. Program length (~12 weeks/3 months) is widely reported; YC moved to four batches/year in 2025, roughly halving cohort size to ~250-300 each.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "us-techstars",
+    "name": { "en": "Techstars" },
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2006,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York City, New York",
+    "website": "https://www.techstars.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/techstars/",
+      "twitter": "https://twitter.com/techstars",
+      "crunchbase": "https://www.crunchbase.com/organization/techstars",
+      "other": ["https://en.wikipedia.org/wiki/Techstars", "https://www.techstars.com/newsroom/investment-terms"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["generalist", "ai-ml", "saas-enterprise", "fintech"],
+      "thesis": "Global, mentor-driven accelerator network running dozens of programs across many cities, many in partnership with corporates. Sector-agnostic across most programs; 'Give First' community ethos."
+    },
+    "program": {
+      "length_weeks": 13,
+      "cohort_size": "~12 companies per cohort",
+      "batches_per_year": null,
+      "equity_taken_pct": "5% common stock (via a $20,000 CEA) plus the future value of a $200,000 uncapped MFN SAFE",
+      "investment": { "raw": "$220,000", "usd": 220000, "currency": "USD" },
+      "format": "in-person",
+      "location": "Many cities worldwide",
+      "demo_day": true,
+      "perks": ["Mentor network", "Corporate partnerships", "Global Accelerator Network", "No program fee"],
+      "application_url": "https://accelerate.techstars.com/startup",
+      "application_cycles": ["Multiple terms per year across programs"],
+      "acceptance_rate": "~1-2% of applicants",
+      "eligibility": "Early-stage startups; terms updated for Fall 2025 batch onward (Asia-Pacific programs use a $100K SAFE component)."
+    },
+    "track_record": {
+      "portfolio_count": "3,500+",
+      "notable_investments": [
+        { "company": "SendGrid", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "DigitalOcean", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Uber", "sector": "mobility", "outcome": "IPO" },
+        { "company": "Chainalysis", "sector": "web3-crypto", "outcome": "unicorn" },
+        { "company": "Zipline", "sector": "logistics", "outcome": "unicorn" }
+      ],
+      "exits": [
+        { "company": "SendGrid", "type": "M&A", "year": 2019, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "DigitalOcean", "type": "IPO", "year": 2021, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "David Cohen", "role": "Co-founder" },
+      { "name": "Brad Feld", "role": "Co-founder" },
+      { "name": "David Brown", "role": "Co-founder" },
+      { "name": "Jared Polis", "role": "Co-founder" }
+    ],
+    "application": { "how_to_apply": "Apply to a specific program via accelerate.techstars.com", "accepts_cold_inbound": true },
+    "tags": ["mentor-driven", "demo-day", "generalist", "global-network", "tier-1"],
+    "summary": {
+      "en": "Techstars, founded in 2006 in Boulder, Colorado (now HQ'd in New York City) by David Cohen, Brad Feld, David Brown and Jared Polis, is a global mentor-driven accelerator network. As of its Fall 2025 terms it invests $220,000 ($20K for 5% common stock plus a $200K uncapped MFN SAFE) over a ~13-week program. It admits roughly 1-2% of applicants (~12 per cohort) and has backed 3,500+ companies including SendGrid, DigitalOcean, Uber, Chainalysis and Zipline, with portfolio market cap reported around $124B."
+    },
+    "sources": [
+      {
+        "url": "https://www.techstars.com/newsroom/investment-terms",
+        "title": "Techstars Investment Terms Update",
+        "publisher": "Techstars",
+        "accessed": "2026-06-02",
+        "supports": "Investment amount, equity %, SAFE structure, program length",
+        "quote": "$220,000 ... $20,000 fixed percentage convertible equity agreement (CEA) for 5% common stock ... $200,000 uncapped MFN post-money Safe ... a 3-month mentorship-driven accelerator program ... Applications for our Fall 2025 programs open today"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Techstars",
+        "title": "Techstars - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founders, HQ, program length, equity, acceptance rate, cohort size, notable companies",
+        "quote": "founded in 2006 ... David Cohen, Brad Feld, David Brown, and Jared Polis ... moved from Boulder, Colorado in February 2024 ... The accelerator program spans three months ... In exchange for 6% common stock, each company accepted into Techstars receives $220,000 in funding ... Techstars admits approximately 1-2% of applicants, typically selecting 12 companies per cohort ... Uber ... DigitalOcean, SendGrid"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Current (Fall 2025+) terms of $220K total ($20K/5% common + $200K uncapped MFN SAFE) from official Techstars newsroom. Note Wikipedia still cites the older '6% common stock' framing; the official page specifies 5% common via the CEA. Portfolio cumulative market cap (~$124B) and unicorn examples from secondary reporting.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "us-500-global",
+    "name": { "en": "500 Global" },
+    "aka": ["500 Startups", "500 Global Flagship Accelerator"],
+    "type": "accelerator",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://500.co/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/500-global/",
+      "crunchbase": "https://www.crunchbase.com/organization/500-startups",
+      "other": ["https://500.co/founders/flagship"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["generalist", "saas-enterprise", "fintech", "healthtech", "ai-ml", "ecommerce"],
+      "thesis": "Sector-agnostic, highly global accelerator and VC. The Flagship Accelerator scales early-stage tech startups across SaaS, marketplaces, AI and more; 30-40% of each cohort is typically international."
+    },
+    "program": {
+      "length_weeks": 16,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": 6,
+      "investment": { "raw": "$150,000", "usd": 150000, "currency": "USD" },
+      "format": "in-person",
+      "location": "Silicon Valley, California",
+      "demo_day": true,
+      "perks": ["400+ mentors", "5,000+ alumni network", "Rolling admissions", "Growth curriculum"],
+      "application_url": "https://500.co/founders/flagship",
+      "application_cycles": ["Rolling admissions"],
+      "eligibility": "Early-stage tech startups; ~30-40% international per cohort."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Canva", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Grab", "sector": "mobility", "outcome": "IPO" },
+        { "company": "Credit Karma", "sector": "fintech", "outcome": "acquired" },
+        { "company": "Talkdesk", "sector": "saas-enterprise", "outcome": "unicorn" }
+      ]
+    },
+    "people": [
+      { "name": "Christine Tsai", "role": "CEO & Founding Partner" },
+      { "name": "Dave McClure", "role": "Co-founder (departed 2017)" }
+    ],
+    "application": { "how_to_apply": "Apply to Flagship Accelerator online (rolling)", "accepts_cold_inbound": true },
+    "tags": ["sector-agnostic", "global", "demo-day", "accelerator-vc"],
+    "summary": {
+      "en": "500 Global (formerly 500 Startups), which pioneered its accelerator program in 2010 in Silicon Valley, is a sector-agnostic, highly global accelerator and venture firm. Its Flagship Accelerator offers a $150,000 investment for a 6% stake over a four-month in-person program in Silicon Valley with rolling admissions and a Demo Day, drawing on 400+ mentors and 5,000+ alumni. Portfolio includes Canva, Grab, Credit Karma and Talkdesk."
+    },
+    "sources": [
+      {
+        "url": "https://500.co/founders/flagship",
+        "title": "Flagship Accelerator | 500 Global",
+        "publisher": "500 Global",
+        "accessed": "2026-06-02",
+        "supports": "Investment amount, equity %, program length, location, 2010 origin",
+        "quote": "$150,000 investment for a 6% stake, subject to terms and diligence ... four-month in-person program ... hosted in Silicon Valley ... pioneered an accelerator program ... back in 2010"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Flagship terms ($150K for 6%, four months, Silicon Valley) from official 500 Global page. 500 Global also operates VC funds (subtype vc). Notable portfolio companies are widely reported across secondary sources. Cohort size and batches/year not precisely disclosed (rolling admissions).",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "us-plug-and-play-tech-center",
+    "name": { "en": "Plug and Play Tech Center" },
+    "aka": ["Plug and Play", "PnP"],
+    "type": "accelerator",
+    "subtypes": ["cvc", "vc"],
+    "status": "active",
+    "founded_year": 2006,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Sunnyvale, California",
+    "website": "https://www.plugandplaytechcenter.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/plug-and-play-tech-center/",
+      "crunchbase": "https://www.crunchbase.com/organization/plug-and-play-ventures",
+      "other": ["https://en.wikipedia.org/wiki/Plug_and_Play_Tech_Center"]
+    },
+    "capital": {
+      "aum": { "raw": "US$500 million (2023)", "usd": 500000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Europe", "Asia", "Global"],
+      "sector_focus": ["generalist", "fintech", "healthtech", "mobility", "climate-energy", "saas-enterprise"],
+      "thesis": "Runs 60+ industry-focused accelerator batches connecting startups to 550+ corporate partners; an early-stage investor and corporate innovation platform. Most programs are equity-free unless the startup takes investment from PnP Ventures."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": "0% to participate; PnP Ventures investments typically take 1-5% equity",
+      "investment": { "raw": "$25,000-$500,000 (PnP Ventures, optional)", "usd": null, "currency": "USD" },
+      "format": "in-person",
+      "location": "35+ global locations (HQ Sunnyvale, CA)",
+      "demo_day": true,
+      "perks": ["550+ corporate partners", "Reverse pitches", "Weekly mentor sessions", "Friday pitch sessions"],
+      "application_url": "https://www.plugandplaytechcenter.com/innovation-services/startups/accelerator-programs",
+      "application_cycles": ["Multiple industry batches per year"],
+      "eligibility": "Pre-seed and seed-stage tech startups across many verticals."
+    },
+    "track_record": {
+      "portfolio_count": "2,000+ investments; 90,000+ startups engaged",
+      "notable_investments": [
+        { "company": "PayPal", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Dropbox", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "LendingClub", "sector": "fintech", "outcome": "IPO" },
+        { "company": "N26", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Honey", "sector": "ecommerce", "outcome": "acquired" }
+      ]
+    },
+    "people": [
+      { "name": "Saeed Amidi", "role": "Founder & CEO" }
+    ],
+    "application": { "how_to_apply": "Apply to an industry-specific accelerator batch", "accepts_cold_inbound": true },
+    "tags": ["corporate-innovation", "equity-free-option", "global", "most-active-accelerator"],
+    "summary": {
+      "en": "Plug and Play Tech Center, founded in 2006 in Sunnyvale, California by Saeed Amidi, is an early-stage investor, accelerator and corporate innovation platform. It runs 60+ industry-focused accelerator batches across 35+ locations connecting startups with 550+ corporate partners; participation is generally equity-free, with optional PnP Ventures investment ($25K-$500K, ~1-5% equity). From 2020-2022 it was the most active startup accelerator in the world (~929 deals/year). Reported ~US$500M AUM (2023); portfolio includes PayPal, Dropbox, LendingClub, N26 and Honey."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Plug_and_Play_Tech_Center",
+        "title": "Plug and Play Tech Center - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founder, HQ, AUM, most-active ranking, notable companies",
+        "quote": "Founded in 2006 by Saeed Amidi ... Sunnyvale, California ... US$500 million (2023) ... the most active startup accelerator in the world with an average deal count of 929 per year ... PayPal, LendingClub and Dropbox"
+      },
+      {
+        "url": "https://www.plugandplaytechcenter.com/about-us/our-history",
+        "title": "Our History | Plug and Play",
+        "publisher": "Plug and Play Tech Center",
+        "accessed": "2026-06-02",
+        "supports": "Startups engaged, investments, unicorns, notable companies",
+        "quote": "over 90,000 startups, made over 2,000 investments, and boasts over 30 unicorns including Dropbox, PayPal, Lending Club, N26, and Honey"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding, founder, HQ, AUM and most-active ranking from Wikipedia (primary-adjacent). Program is equity-free to join; PnP Ventures invests separately ($25K-$500K, ~1-5%) per official site and secondary sources. Program length and per-cohort size vary widely by vertical and are not uniformly disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "us-masschallenge",
+    "name": { "en": "MassChallenge" },
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2009,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Boston, Massachusetts",
+    "website": "https://masschallenge.org/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/masschallenge/",
+      "crunchbase": "https://www.crunchbase.com/organization/masschallenge",
+      "other": ["https://en.wikipedia.org/wiki/MassChallenge"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "lead_or_follow": "follow",
+      "geo_focus": ["United States", "Israel", "Switzerland", "United Kingdom", "Global"],
+      "sector_focus": ["generalist", "healthtech", "biotech", "climate-energy", "fintech", "agritech"],
+      "thesis": "Global nonprofit, zero-equity accelerator funded by corporate partners and sponsors. Awards non-dilutive cash prizes at the end of each program; focuses on high-impact founders in regulated, high-stakes industries."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": "0% (zero-equity)",
+      "investment": { "raw": "Non-dilutive cash awards (amount varies by program)", "usd": null, "currency": "USD" },
+      "format": "hybrid",
+      "location": "Boston & Dallas (US), plus Jerusalem, Renens, London",
+      "demo_day": true,
+      "perks": ["Zero equity", "No application fee", "Corporate partner introductions", "Cash awards"],
+      "application_url": "https://masschallenge.org/programs-all/",
+      "application_cycles": ["Annual global application windows"],
+      "eligibility": "Early-stage startups, especially in healthcare/life sciences, security/resiliency, sustainable food, climate, and financial systems."
+    },
+    "track_record": {
+      "portfolio_count": "5,000+ startups supported",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "John Harthorne", "role": "Co-founder" },
+      { "name": "Akhil Nigam", "role": "Co-founder" }
+    ],
+    "application": { "how_to_apply": "Free online application; no equity or fee taken", "accepts_cold_inbound": true },
+    "tags": ["zero-equity", "nonprofit", "cash-awards", "impact", "demo-day"],
+    "summary": {
+      "en": "MassChallenge, founded in 2009 in Boston by John Harthorne and Akhil Nigam, is a global nonprofit, zero-equity startup accelerator funded by corporate partners and sponsors. It takes no equity and charges no application fee, and awards non-dilutive cash prizes. Since founding it has supported 5,000+ startups that have raised over $16 billion. It operates hubs in Boston and Dallas (US), Jerusalem, Renens (Switzerland) and London."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/MassChallenge",
+        "title": "MassChallenge - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founders, HQ, zero-equity model, startups supported, total funding raised",
+        "quote": "MassChallenge is a global, nonprofit, zero-equity startup accelerator, founded in Boston, Massachusetts, in 2009 by John Harthorne and Akhil Nigam ... takes no equity from the startups it supports ... supported more than 5,000 startups ... helping them raise over $16 billion in funding"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding, founders, HQ, zero-equity model and portfolio stats from Wikipedia. Cash-award amounts vary by program/year and are not uniformly disclosed, so investment.usd is null. Program length and cohort size vary by program.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "us-gener8tor",
+    "name": { "en": "gener8tor" },
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Madison, Wisconsin",
+    "website": "https://www.gener8tor.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/gener8tor/",
+      "crunchbase": "https://www.crunchbase.com/organization/gener8tor",
+      "other": ["https://en.wikipedia.org/wiki/Gener8tor"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Puerto Rico", "Luxembourg", "India", "Saudi Arabia"],
+      "sector_focus": ["generalist", "saas-enterprise", "fintech", "healthtech"],
+      "thesis": "Concierge, mentorship-driven accelerator that decentralizes startup capital to communities outside the coasts. Runs equity investment accelerators plus free gBETA pre-accelerators; very small cohorts (5-6 companies)."
+    },
+    "program": {
+      "length_weeks": 12,
+      "cohort_size": "5-6 companies per cohort",
+      "batches_per_year": null,
+      "equity_taken_pct": "7.5% (MSP Equity Accelerator, via SAFE); varies by program",
+      "investment": { "raw": "$100,000", "usd": 100000, "currency": "USD" },
+      "format": "in-person",
+      "location": "Madison/Milwaukee, WI and many other US cities",
+      "demo_day": true,
+      "perks": ["100+ network connections", "Concierge mentorship", "Free gBETA pre-accelerator option"],
+      "application_url": "https://www.gener8tor.com/investment-accelerators",
+      "application_cycles": ["Multiple programs/cities per year"],
+      "eligibility": "Early-stage high-growth startups; many programs tied to specific regions/communities."
+    },
+    "track_record": {
+      "portfolio_count": "180+ (investment accelerator companies)",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Joe Kirgues", "role": "Co-founder" },
+      { "name": "Troy Vosseller", "role": "Co-founder" }
+    ],
+    "application": { "how_to_apply": "Apply to a specific city/program accelerator or gBETA", "accepts_cold_inbound": true },
+    "tags": ["concierge", "regional", "small-cohort", "demo-day", "gbeta"],
+    "summary": {
+      "en": "gener8tor, founded in 2012 in Madison, Wisconsin by Joe Kirgues and Troy Vosseller, is a concierge, mentorship-driven accelerator network focused on decentralizing startup capital to communities across the US. Its 12-week investment accelerators take very small cohorts (5-6 companies); the MSP Equity Accelerator invests $100,000 for 7.5% equity via a SAFE. It also runs free gBETA pre-accelerators. Portfolio companies (180+) have raised over $1B in follow-on financing."
+    },
+    "sources": [
+      {
+        "url": "https://www.gener8tor.com/investment-accelerators/msp-equity-accelerator/",
+        "title": "MSP Equity Accelerator - gener8tor",
+        "publisher": "gener8tor",
+        "accessed": "2026-06-02",
+        "supports": "Investment amount, equity %, SAFE, program length, cohort size",
+        "quote": "$100,000 investment in return for 7.5% equity in your company using a Simple Agreement for Future Equity (SAFE) ... 12-week ... five startups"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gener8tor",
+        "title": "Gener8tor - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founders, HQ, portfolio count, follow-on funding",
+        "quote": "2012 ... Troy Vosseller, Joe Kirgues ... Madison, Wisconsin ... invested in 180 companies, which have gone on to raise more than $1 billion in total follow-on financing"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Current investment terms ($100K for 7.5% via SAFE, 12 weeks, 5-company cohorts) from official MSP Equity Accelerator page. Wikipedia cites older 2012-era terms ($20K for 6-7% + $80K convertible note) and 180-company count; current terms supersede. Free gBETA pre-accelerators take no equity. Equity % varies somewhat by program.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "us-angelpad",
+    "name": { "en": "AngelPad" },
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2010,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://angelpad.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/angelpad",
+      "other": ["https://angelpad.com/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "consumer", "fintech"],
+      "thesis": "Highly selective, small-cohort accelerator run hands-on by ex-Google founders out of SF and NYC. Emphasizes deep 1-on-1 coaching over large batches."
+    },
+    "program": {
+      "length_weeks": 12,
+      "cohort_size": "~15 teams",
+      "batches_per_year": 2,
+      "equity_taken_pct": 7,
+      "investment": { "raw": "$120,000", "usd": 120000, "currency": "USD" },
+      "format": "in-person",
+      "location": "San Francisco & New York City",
+      "demo_day": true,
+      "perks": ["$300,000+ in cloud credits (AWS, Google, Digital Ocean)", "Hands-on founder coaching"],
+      "application_url": "https://angelpad.com/",
+      "application_cycles": ["Two cohorts per year (every six months)"],
+      "acceptance_rate": "<1% (about 15 of ~2,000 applicants)",
+      "eligibility": "Very early-stage startups; founders the partners want to work closely with."
+    },
+    "track_record": {
+      "portfolio_count": "150 companies funded",
+      "notable_investments": [
+        { "company": "Postmates", "sector": "logistics", "outcome": "acquired" },
+        { "company": "Buffer", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "MoPub", "sector": "saas-enterprise", "outcome": "acquired" }
+      ]
+    },
+    "people": [
+      { "name": "Thomas Korte", "role": "Co-founder" },
+      { "name": "Carine Magescas", "role": "Co-founder" }
+    ],
+    "application": { "how_to_apply": "Online application each cycle", "accepts_cold_inbound": true },
+    "tags": ["highly-selective", "small-cohort", "hands-on", "demo-day"],
+    "summary": {
+      "en": "AngelPad, founded in 2010 by ex-Google's Thomas Korte and Carine Magescas, is a highly selective, small-cohort accelerator operating from San Francisco and New York City. It invests $120,000 per company (~7% equity) plus $300K+ in cloud credits over an intensive ~3-month program with two cohorts per year of ~15 teams. Acceptance is under 1% (about 15 of ~2,000 applicants). It has funded 150 companies including Postmates and Buffer, and has been ranked #1/top-tier US accelerator by the MIT/Brown Seed Accelerator Rankings Project."
+    },
+    "sources": [
+      {
+        "url": "https://angelpad.com/",
+        "title": "AngelPad – #1 U.S Accelerator based in SF and NYC",
+        "publisher": "AngelPad",
+        "accessed": "2026-06-02",
+        "supports": "Investment amount, cohort size, program length, locations, founders, acceptance rate, companies funded, ranking",
+        "quote": "$120,000 in each company ... $300,000 in cloud credits from AWS, Google and Digital Ocean ... about 15 teams ... three very intense months ... less than 1% ... usually around 2000 ... Number 1 and in the Top Tier every year since 2015 ... 150 Companies Funded ... $2.2 b Total Funds Raised"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Investment, cohort size, program length, acceptance rate, companies funded and ranking from official AngelPad site. The 7% equity figure is widely reported in secondary sources (the official site states the $120K investment but not the exact %); flagged as such. Two cohorts/year (every six months) per official messaging.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "us-entrepreneurs-roundtable-accelerator",
+    "name": { "en": "Entrepreneurs Roundtable Accelerator" },
+    "aka": ["ERA", "ER Accelerator"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2011,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York City, New York",
+    "website": "https://www.eranyc.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/er-accelerator",
+      "other": ["https://en.wikipedia.org/wiki/Entrepreneurs_Roundtable_Accelerator", "https://www.eranyc.com/apply/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "fintech", "consumer", "ai-ml"],
+      "thesis": "New York City's largest and most active accelerator. Sector-agnostic, mentor-matched program with one of NYC's deepest mentor networks (1,000+ experts across industries)."
+    },
+    "program": {
+      "length_weeks": 16,
+      "cohort_size": "10-15 startups",
+      "batches_per_year": 2,
+      "equity_taken_pct": 6,
+      "investment": { "raw": "$150,000", "usd": 150000, "currency": "USD" },
+      "format": "in-person",
+      "location": "New York City, New York",
+      "demo_day": true,
+      "perks": ["1,000+ mentor network", "Lead mentor matching", "Follow-on funding potential"],
+      "application_url": "https://www.eranyc.com/apply/",
+      "application_cycles": ["Two four-month programs per year"],
+      "acceptance_rate": "~1% (10-15 admitted of 1,000-2,000 applicants)",
+      "eligibility": "Early-stage startups across all major industries represented in NYC."
+    },
+    "track_record": {
+      "portfolio_count": "375+",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Murat Aktihanoglu", "role": "Co-founder & Managing Partner" },
+      { "name": "Jonathan Axelrod", "role": "General Partner" }
+    ],
+    "application": { "how_to_apply": "Online application each cycle", "accepts_cold_inbound": true },
+    "tags": ["nyc", "mentor-driven", "highly-selective", "demo-day"],
+    "summary": {
+      "en": "Entrepreneurs Roundtable Accelerator (ERA), founded in 2011 in New York City, is NYC's largest and most active accelerator. It invests $150,000 on a 6% post-money SAFE over a four-month program, running two cohorts per year of 10-15 startups admitted from 1,000-2,000 applicants (~1% acceptance). It has backed 375+ companies whose alumni have collectively raised more than $2 billion and exceed $10 billion in market value, drawing on a network of 1,000+ mentors."
+    },
+    "sources": [
+      {
+        "url": "https://www.eranyc.com/apply/",
+        "title": "Apply - Entrepreneurs Roundtable Accelerator",
+        "publisher": "Entrepreneurs Roundtable Accelerator",
+        "accessed": "2026-06-02",
+        "supports": "Investment amount, equity/SAFE %, program length, founding year, follow-on funding",
+        "quote": "$150,000 ... 6% post-money SAFE ... four-month ... Since its founding in 2011 ... raised more than $2 billion in investor capital ... $10 billion"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Entrepreneurs_Roundtable_Accelerator",
+        "title": "Entrepreneurs Roundtable Accelerator - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Cohort size, batches per year, acceptance rate, portfolio count",
+        "quote": "two, four-month programs per year ... admits 10 to 15 startup applicants (approximately 1%) ... 1,000 to 2,000 web applications ... 375+ companies invested at $150K each"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Investment terms ($150K, 6% post-money SAFE, four months) and founding year from official apply page. Cohort size, cadence, acceptance rate and 375+ portfolio count from Wikipedia/secondary. People list reflects ERA's founding/managing partners as commonly reported.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "us-founder-institute",
+    "name": { "en": "Founder Institute" },
+    "aka": ["FI"],
+    "type": "accelerator",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2009,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Palo Alto, California",
+    "website": "https://fi.co/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/founder-institute/",
+      "crunchbase": "https://www.crunchbase.com/organization/founder-institute",
+      "other": ["https://en.wikipedia.org/wiki/The_Founder_Institute", "https://fi.co/faq"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed"],
+      "lead_or_follow": "follow",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["generalist"],
+      "thesis": "World's largest pre-seed startup accelerator / company builder, running structured virtual programs in 100+ countries. Uses a shared 'Equity Collective' warrant model so local leaders, mentors and HQ are aligned with founder outcomes."
+    },
+    "program": {
+      "length_weeks": 14,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": "2.5% (via a warrant exercised at first qualified priced equity financing)",
+      "investment": { "raw": "No upfront cash investment (training/launch program; FI takes a 2.5% warrant)", "usd": null, "currency": null },
+      "format": "remote",
+      "location": "Palo Alto HQ; chapters in 100+ countries / 200+ cities",
+      "demo_day": true,
+      "perks": ["Equity Collective alignment", "Global mentor network", "Structured launch curriculum"],
+      "application_url": "https://fi.co/",
+      "application_cycles": ["Rolling enrollment by city/chapter"],
+      "acceptance_rate": "~30% of applicants admitted; <30% of accepted founders graduate",
+      "eligibility": "Aspiring and very early-stage founders; min. ~20 hrs/week commitment."
+    },
+    "track_record": {
+      "portfolio_count": "7,500+ companies launched",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Adeo Ressi", "role": "Co-founder & CEO" },
+      { "name": "Jonathan Greechan", "role": "Co-founder & CEO" }
+    ],
+    "application": { "how_to_apply": "Apply to a local chapter / virtual program", "accepts_cold_inbound": true },
+    "tags": ["pre-seed", "company-builder", "global", "equity-collective", "virtual"],
+    "summary": {
+      "en": "The Founder Institute, founded in 2009 in Palo Alto by Adeo Ressi and Jonathan Greechan, is the world's largest pre-seed startup accelerator / company builder, running structured ~14-week virtual programs across 100+ countries and 200+ cities. It takes no upfront cash; instead it uses a 2.5% warrant 'Equity Collective' exercised at a startup's first qualified priced equity financing. Roughly 30% of applicants are admitted and under 30% of those graduate; the program has helped launch 7,500+ companies."
+    },
+    "sources": [
+      {
+        "url": "https://fi.co/faq",
+        "title": "Founder Institute FAQ",
+        "publisher": "Founder Institute",
+        "accessed": "2026-06-02",
+        "supports": "Equity warrant %, program length, format, admission/graduation rates, companies launched",
+        "quote": "we reduced it to 2.5% ... virtual unless otherwise specified ... minimum of 20 hours of work per week ... less than 30% of accepted founders generally make it through the program ... only roughly 30% of applicants are admitted ... helped over 9,000 entrepreneurs raise over 2BN in funding"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Founder_Institute",
+        "title": "The Founder Institute - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founders, HQ, geographic reach, companies created",
+        "quote": "founded in Palo Alto, California in 2009 ... Adeo Ressi ... Jonathan Greechan ... chapters in over 200 cities ... more than 100 countries ... over 7,500 companies had been created from the program ... raised over $1.85BN"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Equity warrant (2.5%), program length, format and admission stats from official FI FAQ. Founding, founders, HQ and reach from Wikipedia. FI provides no upfront cash (it is a training/launch program), so investment.usd is null. Slightly classifiable as incubator/company-builder (subtype added); listed here as a general multi-sector accelerator with a demo day.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "us-startx",
+    "name": { "en": "StartX" },
+    "aka": ["Stanford-StartX"],
+    "type": "accelerator",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Palo Alto, California",
+    "website": "https://startx.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/startxfounders/",
+      "crunchbase": "https://www.crunchbase.com/organization/startx",
+      "other": ["https://en.wikipedia.org/wiki/StartX"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "lead_or_follow": "follow",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "biotech", "saas-enterprise", "ai-ml", "consumer"],
+      "thesis": "Nonprofit, equity-free, mission-driven accelerator in Stanford Research Park for top Stanford-affiliated founders. Takes no equity and no fees; the affiliated Stanford-StartX Fund provides separate follow-on capital."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": "0% (zero equity, zero fees)",
+      "investment": { "raw": "No equity/no fee (Stanford-StartX Fund invests separately)", "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Stanford Research Park, Palo Alto, California",
+      "demo_day": true,
+      "perks": ["Equity-free", "Stanford network", "Stanford-StartX Fund follow-on"],
+      "application_url": "https://web.startx.com/",
+      "application_cycles": ["Rolling cohorts"],
+      "eligibility": "At least one founder must have a Stanford University connection."
+    },
+    "track_record": {
+      "portfolio_count": "1,300+ companies; 2,700+ founders",
+      "notable_investments": [
+        { "company": "Patreon", "sector": "consumer", "outcome": "unicorn" },
+        { "company": "Life360", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Protocol Labs", "sector": "web3-crypto", "outcome": "unicorn" },
+        { "company": "Kodiak Sciences", "sector": "biotech", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Cameron Teitelman", "role": "Founder" },
+      { "name": "Dan Ha", "role": "Co-founder" }
+    ],
+    "application": { "how_to_apply": "Online application; one founder needs a Stanford tie", "accepts_cold_inbound": true },
+    "tags": ["equity-free", "nonprofit", "stanford", "demo-day"],
+    "summary": {
+      "en": "StartX, founded in 2011 by Cameron Teitelman and Dan Ha, is a nonprofit (501(c)(3)), equity-free accelerator in Stanford Research Park for top Stanford-affiliated entrepreneurs. It takes zero equity and zero fees; the separate Stanford-StartX Fund provides follow-on capital. Its 1,300+ companies (2,700+ founders) include 20 unicorns and 165 startups valued over $100M, such as Patreon, Life360, Protocol Labs and Kodiak Sciences. At least one founder must have a Stanford connection."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/StartX",
+        "title": "StartX - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founders, nonprofit/zero-equity model, eligibility, portfolio count, unicorns, notable companies",
+        "quote": "founded by Cameron Teitelman and Dan Ha in 2011 ... non-profit 501(c)(3) organization that takes no equity ... at least one member of each company must have some Stanford connection ... 1,300 companies, with alumni creating 20 unicorns and 165 startups valued over $100 million ... Protocol Labs, LimeBike, OpenSea, Patreon, Branch, Life360, Kodiak Sciences"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding, founders, equity-free/nonprofit model, Stanford eligibility, and portfolio stats from Wikipedia. StartX takes no equity/no fees so investment.usd is null; the affiliated Stanford-StartX Fund invests separately. Program length/cohort cadence not precisely standardized.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "us-capital-factory",
+    "name": { "en": "Capital Factory" },
+    "type": "accelerator",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2009,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Austin, Texas",
+    "website": "https://capitalfactory.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/capital-factory/",
+      "crunchbase": "https://www.crunchbase.com/organization/capital-factory",
+      "other": ["https://capitalfactory.com/startups/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Texas"],
+      "sector_focus": ["generalist", "ai-ml", "saas-enterprise", "spacetech", "cybersecurity"],
+      "thesis": "Self-described 'center of gravity for entrepreneurs outside Silicon Valley.' Combines accelerator, coworking, mentorship and VC funds; a strong defense/dual-use and AI/SaaS focus. The most active investor in Texas per PitchBook."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": "~1% (for the accelerator/All Access program; small equity stake)",
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Austin, Dallas, Houston, San Antonio, Washington DC",
+      "demo_day": true,
+      "perks": ["Coworking space", "Mentor and investor introductions", "Texas Fund / Fellowship Fund access"],
+      "application_url": "https://capitalfactory.com/startups/",
+      "application_cycles": ["Rolling / All Access program"],
+      "eligibility": "Seed/early-stage Texas-connected startups."
+    },
+    "track_record": {
+      "portfolio_count": "1,000+ startups that have raised venture capital",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Joshua Baer", "role": "Founder & CEO" }
+    ],
+    "application": { "how_to_apply": "Apply to All Access / accelerator program", "accepts_cold_inbound": true },
+    "tags": ["texas", "coworking", "accelerator-vc", "defense-dual-use", "most-active-texas"],
+    "summary": {
+      "en": "Capital Factory, founded in 2009 in Austin by Joshua Baer, bills itself as 'the center of gravity for entrepreneurs outside of Silicon Valley.' It combines an accelerator, coworking community, mentorship and VC funds (All Access, Texas Fund, Fellowship Fund), typically taking a roughly 1% equity stake for its accelerator/All Access program. With locations in Austin, Dallas, Houston, San Antonio and Washington DC, it has been the most active investor in Texas since 2010 (per PitchBook) and supports 1,000+ venture-backed startups, with strength in AI, SaaS and defense."
+    },
+    "sources": [
+      {
+        "url": "https://capitalfactory.com/",
+        "title": "Capital Factory - The Center of Gravity for Entrepreneurs Outside of Silicon Valley",
+        "publisher": "Capital Factory",
+        "accessed": "2026-06-02",
+        "supports": "Positioning, locations, most-active Texas, funds, portfolio count",
+        "quote": "the most active investor in Texas since 2010 ... All Access ... The Texas Fund ... The Fellowship Fund ... boots on the ground in Austin, Dallas, Houston, San Antonio, and Washington, DC ... more than 1,000 startups that have raised venture capital"
+      },
+      {
+        "url": "https://www.peony.ink/blog/accelerators-austin",
+        "title": "12 Best Startup Accelerators in Austin (Capital Factory Takes 1%)",
+        "publisher": "Peony",
+        "accessed": "2026-06-02",
+        "supports": "Equity stake (~1%), founding year, founder",
+        "quote": "For a one percent equity stake, they offer startups six months of office space and mentorship ... Joshua Baer founded Capital Factory in 2009"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding (2009, Joshua Baer), locations, most-active-Texas ranking and portfolio count from official site. Specific accelerator investment amount is not clearly disclosed (investment.usd null); the ~1% equity figure is from secondary sources (Peony/CNN-era reporting), so confidence is medium. Program length/cohort cadence not standardized (coworking + rolling program model).",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "us-quake-capital-partners",
+    "name": { "en": "Quake Capital Partners" },
+    "aka": ["Quake Capital"],
+    "type": "accelerator",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Austin, Texas",
+    "website": "https://quakecapital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/quake-capital-partners",
+      "other": ["https://tracxn.com/d/accelerator-incubator/quake-capital/__FcK-dWrvy_OG-qgW-6yXtjoe5dUFkIc1Qv9q2cjCoqg"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Germany", "Europe"],
+      "sector_focus": ["generalist", "ai-ml", "web3-crypto", "cybersecurity", "saas-enterprise", "healthtech"],
+      "thesis": "Multi-vertical accelerator and seed fund building startup ecosystems across cities and geographies; works with corporate partners. Strong affinity for AdTech, AI, blockchain, cybersecurity, healthtech, SaaS and transportation across diverse industries."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "$100,000-$150,000 (Quake and corporate partners)", "usd": null, "currency": "USD" },
+      "format": "in-person",
+      "location": "Austin, Los Angeles, New York City (US); Cologne, Germany",
+      "demo_day": true,
+      "perks": ["Corporate partners (Deutsche Telekom, RTL)", "Multi-city network", "Seed investment"],
+      "application_url": "https://quakecapital.com/",
+      "application_cycles": ["Multiple programs across cities"],
+      "eligibility": "Early-stage startups across many verticals; recruits teams globally."
+    },
+    "track_record": {
+      "portfolio_count": "~157 startups supported",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": { "how_to_apply": "Apply to a city-specific program", "accepts_cold_inbound": true },
+    "tags": ["multi-vertical", "multi-city", "corporate-partners", "demo-day"],
+    "summary": {
+      "en": "Quake Capital Partners, founded in 2016 and based in Austin, is a multi-vertical accelerator and seed fund running programs in Austin, Los Angeles, New York City and Cologne (Germany, with partners including Deutsche Telekom and RTL). Quake and its corporate partners typically invest $100K-$150K per team. It has supported roughly 157 startups across diverse industries and remains active as of 2025 (recent portfolio activity includes the May 2025 acquisition of Lucky by SPINS)."
+    },
+    "sources": [
+      {
+        "url": "https://tracxn.com/d/accelerator-incubator/quake-capital/__FcK-dWrvy_OG-qgW-6yXtjoe5dUFkIc1Qv9q2cjCoqg",
+        "title": "Quake Capital - 2025 Investor Profile - Tracxn",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, HQ, portfolio count, active status",
+        "quote": "founded in 2016 that is based in Austin, United States, with a presence in 14 countries and has supported around 157 startups ... most recent acquisition from Quake Capital's portfolio was Lucky in May 2025 by SPINS"
+      },
+      {
+        "url": "https://quakecapital.com/",
+        "title": "Quake Capital Partners",
+        "publisher": "Quake Capital Partners",
+        "accessed": "2026-06-02",
+        "supports": "Investment amount, locations, corporate partners, multi-vertical focus",
+        "quote": "accelerator programs in Austin, Los Angeles, and New York City ... facility in Cologne, Germany formed with leading European partners including Deutsche Telekom and RTL ... typically invest $100k to $150k in each team"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding (2016), Austin HQ, ~157 portfolio companies and active status from Tracxn; investment range, locations and corporate partners from secondary sources reflecting the official site. Exact equity %, program length, cohort size and batch cadence are not clearly disclosed (set null). Confidence medium due to reliance on aggregators for several figures.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  }
+]

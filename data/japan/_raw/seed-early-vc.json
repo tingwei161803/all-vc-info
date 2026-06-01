@@ -1,0 +1,876 @@
+[
+  {
+    "id": "jp-incubate-fund",
+    "name": { "en": "Incubate Fund", "local": "インキュベイトファンド株式会社" },
+    "aka": ["Incubate Fund KK"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://incubatefund.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/incubate-fund",
+      "other": ["https://initial.inc/investors/V06998"]
+    },
+    "capital": {
+      "aum": { "raw": "約148億円 (cumulative, per secondary source)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "5th flagship fund", "vintage_year": 2020, "size": { "raw": "250億円 (¥25bn)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "seed to up to ¥3bn per company (5th fund)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan", "Asia"],
+      "sector_focus": ["generalist", "deeptech", "saas-enterprise"],
+      "thesis": "Japan's largest seed-specialist VC; invests as the 'First Round, Lead Position' in pre-seed/seed startups and builds industries through hands-on support and the Incubate Camp accelerator."
+    },
+    "track_record": {
+      "portfolio_count": "400+",
+      "notable_investments": [
+        { "company": "Gunosy", "sector": "media", "outcome": "IPO" },
+        { "company": "Coiney / hey", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Toru Akaura", "role": "Representative Partner / GP" },
+      { "name": "Masahiko Homma", "role": "Representative Partner / GP" },
+      { "name": "Keisuke Wada", "role": "GP" },
+      { "name": "Yusuke Murata", "role": "GP" },
+      { "name": "Paul McInerney", "role": "GP" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Founded 2010, Incubate Fund is Japan's largest seed-stage-specialist independent VC, with 400+ portfolio companies and a 'first round, lead position' philosophy. It also runs the Incubate Camp accelerator.",
+      "local": "2010年設立。国内最大規模のシード特化型独立系VC。「First Round, Lead Position」を掲げ創業期に投資、400社以上に出資。"
+    },
+    "sources": [
+      { "url": "https://incubatefund.com/en/aboutus/", "title": "Company Profile - Incubate Fund", "publisher": "Incubate Fund", "accessed": "2026-06-02", "supports": "founding year, portfolio count, seed focus, GPs, HQ", "quote": "Founding Year: 2010 ... operates Incubate Camp accelerator since 2010 ... General Partners/Representatives: Toru Akaura, Masahiko Homma, Keisuke Wada, Yusuke Murata, Paul McInerney" },
+      { "url": "https://thebridge.jp/2020/07/incubatefund-raised-25b-yen-in-5th-flagship-fund", "title": "インキュベイトFの250億円ファンドに年金基金が出資、シードから最大30億円まで投資可能", "publisher": "The Bridge", "accessed": "2026-06-02", "supports": "5th fund size ¥25bn, seed to ¥3bn checks", "quote": "シードから最大30億円まで投資可能 ... 250億円ファンド" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Cumulative AUM ~¥148bn / 400+ companies reported via secondary sources; official EN page phrasing for fund total was garbled. 5th fund ¥25bn confirmed via The Bridge headline.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-seed-early-vc"
+  },
+  {
+    "id": "jp-anri",
+    "name": { "en": "ANRI", "local": "ANRI株式会社" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://anri.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/anri",
+      "other": ["https://initial.inc/investors/V07379"]
+    },
+    "capital": {
+      "aum": { "raw": "累計約530億円 (cumulative across funds, 2023)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "ANRI 3号", "vintage_year": 2017, "size": { "raw": "60億円", "usd": null, "currency": "JPY" } },
+        { "name": "ANRI 5号", "vintage_year": 2023, "size": { "raw": "400億円規模 (一次募集約140億円)", "usd": null, "currency": "JPY" } },
+        { "name": "ANRI GREEN 1号", "vintage_year": 2023, "size": { "raw": "100億円規模", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "deeptech", "biotech", "ai-ml"],
+      "thesis": "Seed-stage lead investor across internet, deep tech and life sciences; backs 'transformers' from the founding moment, with a dedicated decarbonization fund (ANRI GREEN)."
+    },
+    "track_record": {
+      "portfolio_count": "約300",
+      "notable_investments": [
+        { "company": "LayerX", "sector": "fintech", "outcome": "active" },
+        { "company": "Not A Hotel", "sector": "proptech", "outcome": "active" },
+        { "company": "10X", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Mirativ", "sector": "gaming", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Anri Samata", "role": "Founder / General Partner" }
+    ],
+    "application": { "contact": "ops@anri.vc", "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Founded 2012 by Anri Samata (ex-East Ventures), ANRI is a leading seed-stage VC investing across internet and deep tech/life sciences, running 5 flagship funds plus the ANRI GREEN decarbonization fund; ANRI 5 targets ¥40bn.",
+      "local": "2012年設立。佐俣アンリ氏が創業したシード特化リードVC。インターネット〜ディープテック・ライフサイエンスに投資。5号は400億円規模、脱炭素特化のANRI GREENも運用。"
+    },
+    "sources": [
+      { "url": "https://prtimes.jp/main/html/rd/p/000000025.000040191.html", "title": "ベンチャーキャピタルANRI 400億円規模のANRI5号ファンドを設立", "publisher": "PR Times / ANRI", "accessed": "2026-06-02", "supports": "5th fund ¥40bn, cumulative ¥53bn, founded 2012, seed focus, HQ", "quote": "400億円規模となるANRI5号ファンド ... 約140億円にて一次募集を完了 ... 累計約530億円を運用しております ... 2012年のANRI1号ファンド設立より ... 創業初期（シード期）に特化したスタートアップへの投資を実行" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Portfolio count ~300 and ¥78bn AUM as of Feb 2025 are from secondary sources (kandc.com); fund sizes and seed focus confirmed via ANRI/PR Times primary release.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-seed-early-vc"
+  },
+  {
+    "id": "jp-coral-capital",
+    "name": { "en": "Coral Capital", "local": "Coral Capital" },
+    "aka": ["500 Startups Japan (predecessor team)"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://coralcap.co/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/coral-capital",
+      "other": ["https://coralcap.co/2024/05/announcing-coral-capital-iv/?lang=en"]
+    },
+    "capital": {
+      "aum": { "raw": "approximately JPY 60 billion", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "Coral Capital I", "vintage_year": 2019, "size": { "raw": "JPY 5 billion (~$45M)", "usd": 45000000, "currency": "JPY" } },
+        { "name": "Coral Capital III", "vintage_year": 2021, "size": { "raw": "JPY 14 billion (~$128M)", "usd": 128000000, "currency": "JPY" } },
+        { "name": "Coral Capital IV", "vintage_year": 2024, "size": { "raw": "JPY 25 billion", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "JPY 50m – JPY 3 billion into a single company", "usd_min": 500000, "usd_max": 5000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "saas-enterprise", "deeptech", "healthtech"],
+      "thesis": "Seed-to-Series-C generalist investing in founders building the most important companies in Japan, from SaaS to fusion; first checks of $500K–$5M plus follow-on."
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "notable_investments": [
+        { "company": "SmartHR", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Kakehashi", "sector": "healthtech", "outcome": "active" },
+        { "company": "Kyoto Fusioneering", "sector": "deeptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "James Riney", "role": "Founding Partner & CEO" },
+      { "name": "Yohei Sawayama", "role": "Founding Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Spun out of the 500 Startups Japan team in 2019 (firm launched 2016), Coral Capital is a leading seed/early-stage VC in Japan. Fund IV (2024) is ¥25bn, total AUM ~¥60bn, with 100+ portfolio companies and first checks of $500K–$5M.",
+      "local": "2019年に500 Startups Japanチームから独立。日本のシード/アーリー特化リードVC。4号は250億円、累計AUM約600億円、ポートフォリオ100社超。"
+    },
+    "sources": [
+      { "url": "https://coralcap.co/2024/05/announcing-coral-capital-iv/?lang=en", "title": "Announcing Coral IV: JPY 25 billion", "publisher": "Coral Capital", "accessed": "2026-06-02", "supports": "Fund IV ¥25bn, AUM ~¥60bn, check size, 100+ companies, seed focus", "quote": "JPY 25 billion fund ... approximately JPY 60 billion ... JPY 50m – JPY 3 billion into a single company ... over 100 companies ... SmartHR, Kakehashi, and Kyoto Fusioneering" },
+      { "url": "https://techcrunch.com/2021/08/30/coral-capital-closes-third-fund-with-128m-for-startups-in-japan/", "title": "Coral Capital closes third fund with $128M for startups in Japan", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "Fund III ¥14bn/$128M, first fund ¥5bn/$45M, $500K-$5M first checks", "quote": "JPY 14 billion (~$128m) ... new JPY 5 billion (~$45 million) fund ... first checks from $500,000 to $5 million" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-seed-early-vc"
+  },
+  {
+    "id": "jp-east-ventures",
+    "name": { "en": "East Ventures", "local": "East Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2009,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://east.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/east-ventures",
+      "other": ["https://tracxn.com/d/venture-capital/eastventures"]
+    },
+    "capital": {
+      "aum": { "raw": "~$103M (per Tracxn)", "usd": 103000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$1M–$5M on average", "usd_min": 1000000, "usd_max": 5000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Indonesia", "Southeast Asia"],
+      "sector_focus": ["generalist", "consumer", "fintech"],
+      "thesis": "Sector-agnostic seed-stage VC backing founders from seed to growth across Japan and Southeast Asia; cut the first check into Mercari at seed in 2013."
+    },
+    "track_record": {
+      "portfolio_count": "482",
+      "notable_investments": [
+        { "company": "Mercari", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "Traveloka", "sector": "consumer", "outcome": "unicorn" },
+        { "company": "Xendit", "sector": "fintech", "outcome": "unicorn" }
+      ],
+      "exits": [
+        { "company": "Mercari", "type": "IPO", "year": 2018, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "summary": {
+      "en": "Founded 2009, East Ventures is a sector-agnostic seed VC active in Japan and Southeast Asia. It made the first seed investment into Mercari (2013); ~482 portfolio companies with 8 unicorns and 20 IPOs.",
+      "local": "2009年設立。日本・東南アジアで活動するセクター不問のシードVC。2013年にメルカリへ初回シード投資。ポートフォリオ約482社、ユニコーン8社。"
+    },
+    "sources": [
+      { "url": "https://tracxn.com/d/venture-capital/eastventures", "title": "East Ventures - Investor Profile", "publisher": "Tracxn", "accessed": "2026-06-02", "supports": "founded 2009, AUM ~$103M, $1-5M checks, seed/Series A, 482 portfolio, 8 unicorns, Mercari", "quote": "founded in 2009 ... around $103m assets under management ... usually invests $1-5 m on average ... invested in 482 companies ... 8 unicorns, 20 IPOs and 46 acquisitions including ... Mercari" },
+      { "url": "https://east.vc/portfolio/mercari", "title": "Mercari - East Ventures", "publisher": "East Ventures", "accessed": "2026-06-02", "supports": "seed-to-growth, sector-agnostic, Mercari seed investment", "quote": "sector-agnostic venture capital firm ... Seed to Growth stage" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "East Ventures is multi-region (Japan + SE Asia/Indonesia); included as a major seed investor in Japan. AUM/portfolio figures from Tracxn (secondary). Light overlap with SE Asia segment expected.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-seed-early-vc"
+  },
+  {
+    "id": "jp-genesia-ventures",
+    "name": { "en": "Genesia Ventures", "local": "株式会社ジェネシア・ベンチャーズ" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.genesiaventures.com/",
+    "links": {
+      "other": ["https://initial.inc/investors/V09972"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Genesia Venture Fund 2", "vintage_year": 2019, "size": { "raw": "総額約80億円", "usd": null, "currency": "JPY" } },
+        { "name": "Genesia Venture Fund 3", "vintage_year": 2022, "size": { "raw": "総額150億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Indonesia", "Vietnam", "India"],
+      "sector_focus": ["generalist", "saas-enterprise", "fintech", "consumer"],
+      "thesis": "Seed/early-stage VC investing in digital-transformation and new-economy platforms across Japan and Southeast Asia, with offices in Tokyo, Jakarta and Ho Chi Minh City; 80%+ of domestic deals are first checks at pre-seed/seed."
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Soichi Tajima", "role": "Founder / Representative Director / GP" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Founded 2016 by Soichi Tajima (ex-CyberAgent Ventures CEO), Genesia Ventures is a seed/early-stage VC across Japan and Southeast Asia (Indonesia, Vietnam, India). Fund 2 ~¥8bn, Fund 3 ¥15bn.",
+      "local": "2016年設立。田島聡一氏(元サイバーエージェント・ベンチャーズ社長)が創業。日本・東南アジアのシード/アーリー特化VC。2号約80億円、3号150億円。"
+    },
+    "sources": [
+      { "url": "https://www.genesiaventures.com/genesia-ventures-final-close-of-second-fund-2/", "title": "Genesia Venture Fund 2号 最終募集を完了 総額約80億円", "publisher": "Genesia Ventures", "accessed": "2026-06-02", "supports": "Fund 2 ~¥8bn, seed/early focus, founded 2016, Japan+SEA, GP", "quote": "総額約80億円規模 ... Seed and early-stage startups in Japan and Southeast Asia ... established August 2016 ... Soichi Tajima ... offices in Tokyo, Jakarta, and Ho Chi Minh City" },
+      { "url": "https://thebridge.jp/2022/01/genesia-ventures-announces-3rd-fund", "title": "ジェネシア・ベンチャーズ、150億円規模を目指す3号ファンドを組成", "publisher": "The Bridge", "accessed": "2026-06-02", "supports": "Fund 3 ¥15bn target, seed focus", "quote": "150億円規模を目指す3号ファンドを組成" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Some aggregators mis-scale yen (80億 = ~¥8bn not ¥80bn). Fund sizes confirmed via official Genesia page and The Bridge.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-seed-early-vc"
+  },
+  {
+    "id": "jp-anobaka",
+    "name": { "en": "ANOBAKA", "local": "株式会社ANOBAKA" },
+    "aka": ["KVP (KLab Venture Partners, predecessor)"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://anobaka.jp/",
+    "links": {
+      "other": ["https://initial.inc/investors/V08975"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "ANOBAKA 3号", "vintage_year": 2022, "size": { "raw": "60億円規模 (target)", "usd": null, "currency": "JPY" } },
+        { "name": "ANOBAKA GAI 1号 (Generative AI)", "vintage_year": 2023, "size": { "raw": null, "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "ai-ml", "consumer", "saas-enterprise"],
+      "thesis": "Seed/early-stage VC with the vision 'Empowering Mad Dreams,' backing pre-seed and seed internet startups; launched Japan's first incubation fund dedicated to generative-AI-native startups (ANOBAKA GAI)."
+    },
+    "track_record": {
+      "portfolio_count": "約200",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Yasukazu Nagano", "role": "Representative Director / Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true, "how_to_apply": "Monthly MEETUP (2nd Wednesday) for pitch/fundraising consultations" },
+    "summary": {
+      "en": "Founded 2015 (originally KLab Venture Partners), ANOBAKA is a seed/pre-seed VC with the vision 'Empowering Mad Dreams.' Its 3rd fund targets ¥6bn and it launched ANOBAKA GAI, Japan's first generative-AI-native incubation fund; ~200 portfolio companies.",
+      "local": "2015年設立(旧KVP)。「Empowering Mad Dreams」を掲げるシード/プレシード特化VC。3号ファンドは60億円規模目標。国内初のGenerative AIネイティブ特化ファンドANOBAKA GAIも設立。"
+    },
+    "sources": [
+      { "url": "https://www.nikkei.com/article/DGXZQOUC08D2L0Y1A201C2000000/", "title": "ANOBAKA、3号ファンド設立 60億円規模目指す", "publisher": "Nikkei", "accessed": "2026-06-02", "supports": "3rd fund ¥6bn target, seed specialist, 100+ companies target", "quote": "シード特化型VCのANOBAKA、100社以上の投資を目指す60億円規模の3号ファンドを設立" },
+      { "url": "https://gazellecapital.vc/sttv-media/fundingabout/anobaka-about/", "title": "ANOBAKA（アノバカ）", "publisher": "Gazelle Capital STTV", "accessed": "2026-06-02", "supports": "founded Oct 2015, pre-seed/seed focus, HQ, representative", "quote": "2015年10月 ... プレシード・シード ... 長野 泰和 ... 東京都港区虎ノ門5-9-1 麻布台ヒルズガーデンプラザB406" },
+      { "url": "https://prtimes.jp/main/html/rd/p/000000021.000056016.html", "title": "ANOBAKA、国内初のGenerative AIネイティブなスタートアップに特化した創業支援ファンドを設立", "publisher": "PR Times / ANOBAKA", "accessed": "2026-06-02", "supports": "ANOBAKA GAI generative-AI fund", "quote": "国内初のGenerative AIネイティブなスタートアップに特化した創業支援ファンドを設立" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Portfolio ~200 and '1 IPO as of April 2025' from secondary STTV interview source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-seed-early-vc"
+  },
+  {
+    "id": "jp-skyland-ventures",
+    "name": { "en": "Skyland Ventures", "local": "スカイランドベンチャーズ株式会社" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.skyland.vc/",
+    "links": {
+      "twitter": "https://x.com/kinoshitay",
+      "other": ["https://initial.inc/investors/V07298"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "1号ファンド", "vintage_year": 2013, "size": { "raw": "5億円", "usd": null, "currency": "JPY" } },
+        { "name": "2号ファンド", "vintage_year": 2015, "size": { "raw": "9億円規模", "usd": null, "currency": "JPY" } },
+        { "name": "3号ファンド", "vintage_year": 2018, "size": { "raw": "9.5億円規模", "usd": null, "currency": "JPY" } },
+        { "name": "4号ファンド (Web3)", "vintage_year": 2022, "size": { "raw": "53億円規模 (increased)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "ai-ml", "web3-crypto", "gaming"],
+      "thesis": "Seed-stage VC ('The Seed Maker. & Unlearning.') focused on young founders (student to ~age 25); recent themes include generative AI, entertainment and inbound. 4th fund is Web3-focused."
+    },
+    "track_record": {
+      "portfolio_count": "200+",
+      "notable_investments": [
+        { "company": "ANYCOLOR", "sector": "gaming", "outcome": "IPO" },
+        { "company": "Cluster", "sector": "gaming", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Yoshihiko Kinoshita", "role": "Founder / General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Founded 2012 by Yoshihiko Kinoshita, Skyland Ventures is a seed VC backing young founders (student to ~age 25). Funds 1–3 were ¥5–9.5bn-scale; the 2022 4th fund (Web3-focused) was increased to ¥5.3bn. 200+ portfolio companies.",
+      "local": "2012年8月設立。木下慶彦氏創業。学生〜25歳前後の若手起業家に投資するシードVC。1〜3号は5〜9.5億円規模、4号(Web3特化)は53億円に増額。投資先200社超。"
+    },
+    "sources": [
+      { "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA", "title": "スカイランドベンチャーズ - Wikipedia", "publisher": "Wikipedia (ja)", "accessed": "2026-06-02", "supports": "founded Aug 2012, founder, fund sizes 1-4, young-founder seed focus", "quote": "2012年8月 ... 木下慶彦 ... 1号ファンド 5億円 ... 2号ファンド 9億円規模 ... 3号ファンド 9.5億円規模 ... 4号ファンド 50億円規模 ... 学生起業から25歳前後まで中心とした若手起業家を対象に投資" },
+      { "url": "https://prtimes.jp/main/html/rd/p/000000156.000008324.html", "title": "Skyland Ventures、投資運用中のシードファンドを53億円に増額", "publisher": "PR Times / Skyland Ventures", "accessed": "2026-06-02", "supports": "4th fund increased to ¥5.3bn", "quote": "投資運用中のシードファンドを53億円に増額" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Portfolio 200+ from secondary search summary; fund sizes from Japanese Wikipedia + PR Times. 4th fund is Web3-specialized.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-seed-early-vc"
+  },
+  {
+    "id": "jp-the-seed",
+    "name": { "en": "THE SEED", "local": "ザシードキャピタル株式会社" },
+    "aka": ["The Seed Capital"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://theseed.vc/",
+    "links": {
+      "other": ["https://initial.inc/investors/V11819", "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%B7%E3%83%BC%E3%83%89%E3%82%AD%E3%83%A3%E3%83%94%E3%82%BF%E3%83%AB"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "THE SEED 1号", "vintage_year": 2018, "size": { "raw": "10億円規模", "usd": null, "currency": "JPY" } },
+        { "name": "THE SEED 2号", "vintage_year": 2021, "size": { "raw": "15億円規模", "usd": null, "currency": "JPY" } },
+        { "name": "THE SEED 3号", "vintage_year": 2023, "size": { "raw": "約30億円 (12億円ファーストクローズ)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "初回1,000万〜2,500万円、次回ラウンド3,000万円前後の追加出資", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "ai-ml", "agritech", "gaming"],
+      "thesis": "Pre-seed/seed VC built to be 'the investor closest to founders,' often the first backer of regional startups around product launch; 3rd fund targets pre-seed companies before/after product release."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "New Innovations", "sector": "robotics", "outcome": "active" },
+        { "company": "AGRI SMILE", "sector": "agritech", "outcome": "active" },
+        { "company": "Arent", "sector": "saas-enterprise", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Daiki Hirozawa", "role": "Founder / Representative / GP" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Founded 2018 by Daiki Hirozawa (ex-East Ventures, ex-Skyland), THE SEED is a pre-seed/seed VC. Funds: ¥1bn (1st), ¥1.5bn (2nd), ~¥3bn (3rd, pre-seed-focused). First checks ¥10–25M with ~¥30M follow-on.",
+      "local": "2018年設立。廣澤太紀氏(East Ventures・Skyland出身)創業のプレシード/シード特化VC。1号10億円、2号15億円、3号約30億円(プレシード対象)。初回チケット1,000万〜2,500万円。"
+    },
+    "sources": [
+      { "url": "https://prtimes.jp/main/html/rd/p/000000039.000035974.html", "title": "THE SEED、プレシードを対象とした30億円規模の3号ファンドを設立", "publisher": "PR Times / The Seed Capital", "accessed": "2026-06-02", "supports": "3rd fund ¥3bn / ¥1.2bn first close, pre-seed focus, check size, founded 2018, representative", "quote": "プレシード期のスタートアップを投資対象とします ... 12億円でファーストクローズ ... 初回チケットサイズの目安は1,000万円から2,500万円、次回ラウンドにて3,000万円前後の追加出資 ... 2018年9月 独立し、シードファンド『THE SEED』を設立 ... 廣澤 太紀" },
+      { "url": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%B7%E3%83%BC%E3%83%89%E3%82%AD%E3%83%A3%E3%83%94%E3%82%BF%E3%83%AB", "title": "ザシードキャピタル - Wikipedia", "publisher": "Wikipedia (ja)", "accessed": "2026-06-02", "supports": "founded June 2018, fund 1 ¥1bn, fund 2 ¥1.5bn, seed focus, Arent IPO", "quote": "2018年6月 ... 10億円規模の1号ファンド ... 15億円規模の2号ファンド ... 株式会社Arent (first portfolio company to achieve IPO approval in February 2023)" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-seed-early-vc"
+  },
+  {
+    "id": "jp-samurai-incubate",
+    "name": { "en": "Samurai Incubate", "local": "株式会社サムライインキュベート" },
+    "type": "vc",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2008,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.samurai-incubate.co.jp/",
+    "links": {
+      "other": ["https://www.samurai-incubate.co.jp/fund/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Samurai Incubate Fund 7号", "vintage_year": 2024, "size": { "raw": "総額約61億円 (target ¥5bn exceeded)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "seed 10〜100百万円/社, follow-on max 300〜500百万円/社", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Israel", "Africa"],
+      "sector_focus": ["generalist", "deeptech", "climate-energy", "healthtech"],
+      "thesis": "Seed-to-Series-A open-innovation VC backing startups in Japan, Israel and Africa; areas include entertainment/education, industrial DX (manufacturing/logistics/construction), environmental impact reduction and healthcare/longevity."
+    },
+    "track_record": {
+      "portfolio_count": "250+",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Kentaro Sakakibara", "role": "Founder / Representative" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Founded 2008 by Kentaro Sakakibara, Samurai Incubate is a seed-to-Series-A VC investing in Japan, Israel and Africa. 7th fund closed at ~¥6.1bn (2024); 250+ startups backed across 10 countries; seed checks ¥10–100M.",
+      "local": "2008年設立。榊原健太郎氏創業。日本・イスラエル・アフリカのシード〜シリーズAに投資するVC。7号ファンドは約61億円で組成(2024)。累計250社超に出資。"
+    },
+    "sources": [
+      { "url": "https://www.nikkei.com/compass/content/PRTKDB000000072_000014738/preview", "title": "日本・イスラエル・アフリカ大陸のシードステージスタートアップを支援 Samurai Incubate Fund 6号を組成", "publisher": "Nikkei Compass / PR Times", "accessed": "2026-06-02", "supports": "seed stage, Japan/Israel/Africa geo focus", "quote": "日本・イスラエル・アフリカ大陸のシードステージスタートアップを支援" },
+      { "url": "https://www.samurai-incubate.co.jp/info/press20240313/", "title": "７号ファンドを総額約61億円で組成完了", "publisher": "Samurai Incubate", "accessed": "2026-06-02", "supports": "7th fund ~¥6.1bn, seed-early focus, founded 2008, 250+ startups", "quote": "７号ファンドを総額約61億円で組成完了" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Some aggregators mis-scale (61億 = ~¥6.1bn). Check-size and 250+ count from secondary sources (shikin-pro). Fund-7 size confirmed via Samurai Incubate official press title.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-seed-early-vc"
+  },
+  {
+    "id": "jp-mint",
+    "name": { "en": "mint", "local": "株式会社mint" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://mint-vc.com/",
+    "links": {
+      "other": ["https://initial.inc/investors/V11453"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "mint 1号", "vintage_year": 2021, "size": { "raw": "30億円（予定）", "usd": null, "currency": "JPY" } },
+        { "name": "mint 2号", "vintage_year": 2025, "size": { "raw": "100億円規模 (target)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "1,000万円〜3億円程度 (incl. follow-on); 2号で1社最大7.5億円", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "ai-ml", "saas-enterprise"],
+      "thesis": "Independent VC specialized in the founding (pre-seed/seed) stage, positioning itself as an 'ecosystem builder' that blurs the line between investor and entrepreneur; backs 0→1 IT startups."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "YellowBlue", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Keisuke Kogoro", "role": "General Partner (ex-TLM)" },
+      { "name": "Tomoki Shirakawa", "role": "General Partner (ex-Apricot Ventures)" },
+      { "name": "Hironori Takeda", "role": "Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Founded 2021 by the GPs of Apricot Ventures and TLM, mint is an independent pre-seed/seed-specialist VC. Fund 1 was ¥3bn; Fund 2 (2025) targets ¥10bn with up to ¥750M per company.",
+      "local": "2021年設立。アプリコット・ベンチャーズとTLMのGPが結成した、創業期(プレシード/シード)特化の独立系VC。1号30億円、2号は100億円規模目標(1社最大7.5億円)。"
+    },
+    "sources": [
+      { "url": "https://mint-vc.com/210526-mint/", "title": "プレシード期に特化した30億円規模の新ファンド「mint」設立", "publisher": "mint", "accessed": "2026-06-02", "supports": "fund 1 ¥3bn, pre-seed focus, check size, founded 2021, GPs", "quote": "ファンド総額 : 30億円（予定）... 1,000万円〜3億円程度の出資を予定 ... 2021 ... Apricot Ventures ... TLM Inc. ... Keisuke Kogoro" },
+      { "url": "https://prtimes.jp/main/html/rd/p/000000027.000079477.html", "title": "独立系VCのmint、100億円規模の2号ファンドを設立", "publisher": "PR Times / mint", "accessed": "2026-06-02", "supports": "fund 2 ¥10bn target, up to ¥750M/company", "quote": "100億円規模の2号ファンドを設立 ... 1社あたり最大7.5億円投資" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-seed-early-vc"
+  },
+  {
+    "id": "jp-f-ventures",
+    "name": { "en": "F Ventures", "local": "F Ventures LLP" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Fukuoka",
+    "website": "https://f-ventures.vc/",
+    "links": {
+      "other": ["https://initial.inc/investors/V09219"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "F Ventures Fund 3号", "vintage_year": 2023, "size": { "raw": "15億円規模（予定）", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "1社あたり1,000万円〜2,000万円ほど", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Fukuoka-based independent VC investing in pre-seed/seed startups; runs the U25 founder event TORYUMON to discover founders early, before/around pre-seed."
+    },
+    "track_record": {
+      "portfolio_count": "約55 (funds 1+2)",
+      "notable_investments": [
+        { "company": "Timee", "sector": "consumer", "outcome": "active" },
+        { "company": "PoliPoli", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "QUANDO", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Shota Morozumi", "role": "Founder / Representative / GP" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Founded 2016 by Shota Morozumi (ex-Samurai Incubate), F Ventures is a Fukuoka-based pre-seed/seed VC. Fund 3 targets ¥1.5bn, checks of ¥10–20M; ~55 companies across Funds 1–2 (early backer of Timee).",
+      "local": "2016年設立。両角将太氏(サムライインキュベート出身)創業の福岡拠点プレシード/シード特化VC。3号は15億円規模、1社1,000万〜2,000万円。1〜2号で約55社(タイミー等)。"
+    },
+    "sources": [
+      { "url": "https://prtimes.jp/main/html/rd/p/000000080.000018441.html", "title": "F Ventures、15億円規模の3号ファンド設立", "publisher": "PR Times / F Ventures", "accessed": "2026-06-02", "supports": "fund 3 ¥1.5bn, pre-seed/seed, check ¥10-20M, founded Feb 2016, Fukuoka, representative", "quote": "最終的なファンド総額といては15億円規模（予定）... 1社あたり1,000万円〜2,000万円ほどを予定 ... 計30～40社への投資 ... 2016年2月12日 ... 両角将太 ... 福岡県福岡市博多区" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Combined Fund 1+2 ~55 companies from secondary STTV summary; Fund-3 size, check size, founding and HQ confirmed via F Ventures PR Times release.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-seed-early-vc"
+  },
+  {
+    "id": "jp-gazelle-capital",
+    "name": { "en": "Gazelle Capital", "local": "Gazelle Capital株式会社" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://gazellecapital.vc/",
+    "links": {
+      "twitter": "https://x.com/gazelle_capital",
+      "other": ["https://initial.inc/investors/V13207"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Gazelle Capital 2号", "vintage_year": 2021, "size": { "raw": "10億円規模 (initial target)", "usd": null, "currency": "JPY" } },
+        { "name": "Gazelle Capital 3号", "vintage_year": 2024, "size": { "raw": "20億円 (planned total)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "最大5,000万円", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "saas-enterprise", "proptech", "healthtech"],
+      "thesis": "Strategic small-fund pre-seed/seed VC focused on startups digitalizing legacy industries (manufacturing, construction, medical/care, real estate); meets 1,000+ founding-stage companies a year, invests in 10+ annually."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "ROXX", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "TWOSTONE&Sons", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Kotaro Ishibashi", "role": "Representative Partner / CEO" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Founded 2019 by Kotaro Ishibashi, Gazelle Capital is a strategic small-fund pre-seed/seed VC investing in legacy-industry DX startups. Fund 3 (2024) is ¥2bn, max check ¥50M, 10+ deals/year.",
+      "local": "2019年設立。石橋孝太郎氏創業の戦略的小規模ファンド型プレシード/シード特化VC。既存産業DX領域に投資。3号は20億円、最大5,000万円/社、年10社以上。"
+    },
+    "sources": [
+      { "url": "https://prtimes.jp/main/html/rd/p/000000031.000049420.html", "title": "Gazelle Capitalが3号ファンドを組成", "publisher": "PR Times / Gazelle Capital", "accessed": "2026-06-02", "supports": "fund 3 ¥2bn, pre-seed/seed, max check ¥50M, founded April 2019, representative, HQ, sector", "quote": "最終的なファンド総額は20億円を計画 ... プレシード・シード中心 ... 最大5,000万円の出資 ... 年間10社以上 ... 設立 2019年04月 ... 石橋 孝太郎 ... 既存産業領域のDX" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-seed-early-vc"
+  },
+  {
+    "id": "jp-lifetime-ventures",
+    "name": { "en": "Lifetime Ventures", "local": "ライフタイムベンチャーズ合同会社" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Yokohama",
+    "website": "https://lifetime-ventures.com/",
+    "links": {
+      "other": ["https://initial.inc/investors/V10401", "https://startup-db.com/investment-companies/rE5aJP5UEvqGmVbw"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Funds 1+2 (combined)", "vintage_year": null, "size": { "raw": "約7.63億円 (cumulative, ~763M yen)", "usd": null, "currency": "JPY" } },
+        { "name": "OIST-Lifetime Ventures Fund", "vintage_year": 2022, "size": { "raw": "50億円規模 (5 billion yen)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "約3,000万円/社 (pre-seed/seed), incl. Series A follow-on up to ~8,000万円/社", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["deeptech", "healthtech", "climate-energy", "biotech"],
+      "thesis": "Pre-seed/seed deep-tech VC backing world-class founders in science-based ventures for human and planetary health; partnered with OIST (Okinawa Institute of Science & Technology)."
+    },
+    "track_record": {
+      "portfolio_count": "50+",
+      "notable_investments": [
+        { "company": "Rehab for JAPAN", "sector": "healthtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Ryosuke Kimura", "role": "Founder / General Partner (ex-Incubate Fund)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Founded January 2017 by Ryosuke Kimura (ex-Incubate Fund), Lifetime Ventures is a pre-seed/seed deep-tech VC (health, sustainability) based in Yokohama with Okinawa/Kyoto presence. Early funds ~¥763M; OIST-Lifetime Ventures Fund ¥5bn; checks ~¥30M.",
+      "local": "2017年1月設立。木村亮介氏(インキュベイトファンド出身)創業のプレシード/シード特化ディープテックVC。横浜拠点(沖縄・京都も)。初期2ファンド計約7.63億円、OISTファンド50億円規模、1社約3,000万円。"
+    },
+    "sources": [
+      { "url": "https://prtimes.jp/main/html/rd/p/000000002.000047713.html", "title": "ライフタイムベンチャーズ、OISTとの連携VCファンドを設立", "publisher": "PR Times / Lifetime Ventures", "accessed": "2026-06-02", "supports": "OIST fund ¥5bn, prior 2 funds ¥763M / 24 companies, ~¥30M checks, founder, founded Jan 2017", "quote": "プレシード/シードで1社あたり約3,000万円 ... シリーズA・追加投資含め最大8,000万円 ... 2ファンド計約7.63億円 ... 24社 ... OISTとの連携 ... 5億円 ... 2017年1月" },
+      { "url": "https://lifetime-ventures.com/", "title": "Lifetime Ventures", "publisher": "Lifetime Ventures", "accessed": "2026-06-02", "supports": "pre-seed/seed deeptech focus, 50+ portfolio, OIST partnership, sectors", "quote": "Pre-seed/seed stage deeptech startups emerging from scientific research ... 50+ portfolio companies ... OIST-Lifetime Ventures Fund launched in 2022" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Search summary garbled '763M' vs aggregate; treated as ~¥763M (early funds combined). OIST fund ¥5bn. Founder background and stage focus consistent across sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-seed-early-vc"
+  },
+  {
+    "id": "jp-deepcore",
+    "name": { "en": "DEEPCORE", "local": "株式会社ディープコア" },
+    "type": "vc",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://deepcore.jp/",
+    "links": {
+      "other": ["https://initial.inc/investors/V11335"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "DEEPCORE TOKYO1号", "vintage_year": 2018, "size": { "raw": "目標約60億円 (~¥6bn)", "usd": null, "currency": "JPY" } },
+        { "name": "DEEPCORE TOKYO2号", "vintage_year": 2023, "size": { "raw": "総額117億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "2号で1社あたり8,000万円〜5億円程度", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["ai-ml", "robotics", "deeptech"],
+      "thesis": "AI-specialist seed/early-stage VC and incubator; invests in pre-seed/seed-to-Series-A AI and AI-adjacent startups, with focus areas including generative AI and robotics, and operates the KERNEL incubation community in Hongo, Tokyo."
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "notable_investments": [
+        { "company": "VAAK", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Katsumasa Niki", "role": "Representative" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Founded 2014 (SoftBank-group backed), DEEPCORE is an AI-specialist seed/early-stage VC and incubator running the KERNEL community in Hongo, Tokyo. Fund 1 targeted ~¥6bn; Fund 2 closed at ¥11.7bn (2023); checks ¥80M–¥500M, focus on generative AI and robotics.",
+      "local": "2014年設立(ソフトバンクグループ系)。AI特化のシード/アーリーVC兼インキュベーター。本郷でKERNELコミュニティを運営。1号約60億円、2号は117億円(2023)、1社8,000万〜5億円。生成AI・ロボティクス重点。"
+    },
+    "sources": [
+      { "url": "https://prtimes.jp/main/html/rd/p/000000024.000031481.html", "title": "AI特化型VCのDEEPCORE、2号ファンドを総額117億円でクローズ", "publisher": "PR Times / DEEPCORE", "accessed": "2026-06-02", "supports": "fund 2 ¥11.7bn, founded July 2014, representative, generative AI/robotics, HQ, 39 portfolio (Apr 2023)", "quote": "総額117億円でファイナルクローズ ... 設立2014年07月 ... 仁木 勝雅 ... プレシード/シードからシリーズAのスタートアップ ... Generative AIやロボティクスなど先進的技術分野を重点投資分野 ... 39社のスタートアップへの投資" },
+      { "url": "https://thebridge.jp/2023/05/deepcore-closes-2nd-fund", "title": "AI特化型VCのDEEPCORE、2号ファンドを117億円でクローズ", "publisher": "The Bridge", "accessed": "2026-06-02", "supports": "fund 2 ¥11.7bn, ¥80M-¥500M checks, SoftBank LPs, seed/early focus", "quote": "117億円でファイナルクローズ ... ソフトバンクグループ ... 1社あたり8000万円から5億円程度を投資 ... シード・アーリーステージのジェネレーティブAIやロボティクス" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund 1 ~¥6bn target from secondary (Nikkan / type.jp). 100+ combined portfolio from secondary summary; 39 companies via Fund 2 release as of Apr 2023.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-seed-early-vc"
+  },
+  {
+    "id": "jp-w-ventures",
+    "name": { "en": "W ventures", "local": "W株式会社" },
+    "aka": ["W inc."],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://w-inc.vc/",
+    "links": {
+      "other": ["https://initial.inc/investors/V12714"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "W ventures 1号", "vintage_year": 2019, "size": { "raw": "50億円", "usd": null, "currency": "JPY" } },
+        { "name": "W ventures 2号", "vintage_year": 2021, "size": { "raw": "50億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "1社あたり1,000万円〜1億円 (initial)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["consumer", "gaming", "ecommerce"],
+      "thesis": "Independent seed/early-stage VC focused on B2C and B2B2C startups in lifestyle, entertainment and sports; aims to invest in 30–50 companies per fund."
+    },
+    "track_record": {
+      "portfolio_count": "56 (fund 1)",
+      "notable_investments": [
+        { "company": "Creema", "sector": "ecommerce", "outcome": "IPO" }
+      ],
+      "exits": [
+        { "company": "Creema", "type": "IPO", "year": 2020, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Kazuhiro Shin", "role": "Co-founder / Representative Partner" },
+      { "name": "Akihiro Higashi", "role": "Co-founder / Representative Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Founded April 2019 by Kazuhiro Shin and Akihiro Higashi, W ventures is an independent seed/early-stage VC for consumer (B2C/B2B2C) startups in lifestyle, entertainment and sports. Two ¥5bn funds; fund 1 backed 56 companies (Creema IPO).",
+      "local": "2019年4月設立。新和博氏・東明宏氏が創業。ライフスタイル・エンタメ・スポーツ領域のtoC/toBtoCスタートアップに投資する独立系シード/アーリーVC。1号・2号各50億円、1号は56社に投資。"
+    },
+    "sources": [
+      { "url": "https://prtimes.jp/main/html/rd/p/000000009.000044286.html", "title": "W ventures、toCスタートアップ特化の2号ファンドを50億円で組成", "publisher": "PR Times / W ventures", "accessed": "2026-06-02", "supports": "fund 2 ¥5bn, fund 1 ¥5bn / 56 companies, consumer/seed focus, founders, Creema IPO", "quote": "2号ファンドを50億円で組成 ... 1号 ... 50億円 ... 56社 ... 新和博 ... 東明宏 ... 1社あたり1,000万円〜1億円 ... Creema's IPO" },
+      { "url": "https://thebridge.jp/2019/04/w-ventures", "title": "新＆東が50億円「W ventures」設立", "publisher": "The Bridge", "accessed": "2026-06-02", "supports": "founded April 2019, ¥5bn fund 1, seed/early consumer focus", "quote": "新＆東が50億円「W ventures」設立、狙うは世界を変えるコンシューマービジネス" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Some aggregators mis-scale (50億 = ¥5bn). Check size and 56-company count from PR Times/secondary; founders and ¥5bn funds confirmed across The Bridge + PR Times.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-seed-early-vc"
+  },
+  {
+    "id": "jp-xvc",
+    "name": { "en": "XVC", "local": "XVC有限責任事業組合" },
+    "aka": ["X-VC"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://x-vc.jp/",
+    "links": {},
+    "capital": {
+      "funds": [
+        { "name": "XVC1号投資事業有限責任組合", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "healthtech"],
+      "thesis": "Deep-tech/hard-tech pre-seed/seed VC supporting startups in hard-to-commercialize domains (XR, healthcare, hardware) with a Y Combinator-style accelerator (X-DOJO)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "program": {
+      "format": "hybrid",
+      "demo_day": true,
+      "eligibility": "Deep-tech / hard-tech pre-seed/seed startups (XR, healthcare, hardware)"
+    },
+    "people": [
+      { "name": "Tatsuro Tsushima", "role": "Partner (INDEE Japan)" },
+      { "name": "Masato Iino", "role": "Partner (SCALE OUT)" },
+      { "name": "Yasuchika Wakayama", "role": "Partner (Breakpoint)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "XVC is a deep-tech/hard-tech pre-seed/seed VC and YC-style accelerator (X-DOJO) backing startups in hard-to-commercialize domains like XR, healthcare and hardware. Tokyo-based; founded by partners from INDEE Japan, SCALE OUT and Breakpoint. Fund size undisclosed.",
+      "local": "ディープテック/ハードテックのプレシード/シード特化VC兼YC型アクセラレーター(X-DOJO)。XR・ヘルスケア・ハードウェア等の事業化困難領域を支援。東京拠点。ファンド規模非開示。"
+    },
+    "sources": [
+      { "url": "https://x-vc.jp/", "title": "XVC – 未知の事業領域を切り開くYCombinator型アクセラレーター", "publisher": "XVC", "accessed": "2026-06-02", "supports": "pre-seed/seed deeptech focus, X-DOJO accelerator, partners, HQ, sectors", "quote": "Seed and pre-seed stage startups ... 東京都中央区日本橋箱崎町 ... INDEE Japan (津嶋 辰郎) ... SCALE OUT (飯野 将人) ... Breakpoint (若山 泰親) ... X-DOJO accelerator ... XR, healthcare, and hardware" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year and fund size not disclosed on site; classified as VC with accelerator subtype. Demo Day held 2021/12.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-seed-early-vc"
+  },
+  {
+    "id": "jp-partners-fund",
+    "name": { "en": "Partners Fund", "local": "PARTNERS FUND株式会社" },
+    "aka": ["Full Commit Partners (predecessor)"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://prtimes.jp/main/html/rd/p/000000001.000159710.html",
+    "links": {},
+    "capital": {
+      "funds": [
+        { "name": "Partners Fund 2号", "vintage_year": 2025, "size": { "raw": "総額65億円規模 (target)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "初回30百万円〜200百万円、follow-on max 1,000百万円/社", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "deeptech"],
+      "thesis": "Seed-stage all-sector VC covering pre-seed, seed, 'post-seed' (the gap to Series A) and pre-Series-A; first checks ¥30–200M with follow-on up to ¥1bn, expanding into university-derived deep tech."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Masahiro Yamada", "role": "Partner" },
+      { "name": "Masato Nakamura", "role": "Partner" },
+      { "name": "Ryo Taneichi", "role": "Partner" },
+      { "name": "Satoshi Fujii", "role": "Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Partners Fund (formerly Full Commit Partners, founded 2018; current entity Aug 2024) is a seed-stage all-sector VC. Its 2nd fund targets ¥6.5bn (first close April 2025); first checks ¥30–200M, follow-on up to ¥1bn.",
+      "local": "Partners Fund(旧Full Commit Partners、2018年創業/現法人2024年8月)はオールジャンルのシード特化VC。2号は総額65億円規模目標(2025年4月ファーストクローズ)。初回30〜200百万円、追加最大10億円。"
+    },
+    "sources": [
+      { "url": "https://prtimes.jp/main/html/rd/p/000000001.000159710.html", "title": "シードVCのパートナーズファンド、総額65億円規模のファンド設立を目指しファーストクローズを実施", "publisher": "PR Times / Partners Fund", "accessed": "2026-06-02", "supports": "fund 2 ¥6.5bn target, seed/post-seed focus, check size ¥30-200M, founded 2024, partners, HQ", "quote": "総額65億円規模のファンド設立を目指し ... 2025年4月にファーストクローズ ... 初回投資金額は30百万円から200百万円 ... 設立2024年08月 ... 山田優大、中村雅人、種市亮、藤井智史 ... 東京都品川区" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Current entity PARTNERS FUND株式会社 established Aug 2024; predecessor Full Commit Partners founded 2018. Fund still raising toward ¥6.5bn target as of 2025.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-seed-early-vc"
+  }
+]

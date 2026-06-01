@@ -1,0 +1,987 @@
+[
+  {
+    "id": "ca-telus-global-ventures",
+    "name": { "en": "TELUS Global Ventures", "local": "TELUS Capital de risque" },
+    "aka": ["TELUS Ventures", "TGV"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2001,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Vancouver",
+    "website": "https://www.telus.com/en/ventures/global-ventures",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/telus-ventures",
+      "other": ["https://www.telus.com/en/ventures/global-ventures/team", "https://pitchbook.com/profiles/investor/11313-64"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": "$500,000 to $15M", "usd_min": 500000, "usd_max": 15000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States", "Global"],
+      "sector_focus": ["healthtech", "agritech", "saas-enterprise", "ai-ml", "impact"],
+      "thesis": "Strategic investment arm of TELUS Corporation; one of Canada's most active and longest-standing corporate VC funds. Stage-agnostic, focused on digital health, agtech, enterprise platforms, IoT and AI aligned with TELUS' operations."
+    },
+    "track_record": {
+      "portfolio_count": "150+",
+      "notable_investments": [
+        { "company": "Babylon Health", "sector": "healthtech", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "Terry Doyle", "role": "Managing Partner", "linkedin": "https://www.linkedin.com/in/doyleterry" }
+    ],
+    "application": {
+      "how_to_apply": "Inbound via TELUS Global Ventures website / team contacts",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.telus.com/en/ventures/global-ventures"
+    },
+    "tags": ["telecom", "corporate-vc", "telus"],
+    "summary": {
+      "en": "Corporate venture capital arm of TELUS Corporation (telecom), founded 2001 and based in Vancouver. One of the world's most active CVCs, it invests from the balance sheet (roughly US$150–200M/year), writing cheques of $500K–$15M in digital health, agtech, enterprise and AI companies, with a portfolio of 150+ companies across 10 countries.",
+      "local": "Bras d'investissement stratégique de TELUS (télécommunications), fondé en 2001 à Vancouver. L'un des fonds de capital de risque corporatif les plus actifs au monde, investissant 500 000 $ à 15 M$ dans la santé numérique, l'agrotechnologie, les plateformes d'entreprise et l'IA."
+    },
+    "sources": [
+      {
+        "url": "https://www.telus.com/en/ventures/global-ventures",
+        "title": "The strategic investment arm for TELUS | TELUS Global Ventures",
+        "publisher": "TELUS",
+        "accessed": "2026-06-02",
+        "supports": "founding, HQ, role as strategic investment arm",
+        "quote": "TELUS Ventures is the strategic investment arm of TELUS Corporation and one of Canada's most active and longest-standing corporate venture capital (CVC) funds."
+      },
+      {
+        "url": "https://unicorn-nest.com/funds/telus-ventures/",
+        "title": "TELUS Ventures – Investors Database",
+        "publisher": "Unicorn Nest",
+        "accessed": "2026-06-02",
+        "supports": "check size, stage approach",
+        "quote": "The fund is stage agnostic in its approach, and writes cheques anywhere from $500,000 to $15M, with a focus on post-series A and series B startups."
+      },
+      {
+        "url": "https://www.prnewswire.com/news-releases/telus-global-ventures-rebrands-extends-its-reach-with-investments-tallying-150-market-transforming-global-companies-302139735.html",
+        "title": "TELUS Global Ventures rebrands, extends its reach with investments tallying 150 market transforming global companies",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-02",
+        "supports": "portfolio count, geography",
+        "quote": "TELUS Global Ventures has invested in more than 150 companies that are poised for significant growth and market transformation, spanning across 10 countries and five continents."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Annual deployment of US$150–200M reported by Global Venturing; one secondary source cited a $625M PitchBook 'fund' figure but TELUS primarily invests off the balance sheet, so current_fund left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "ca-rbcx",
+    "name": { "en": "RBCx (RBC Capital Partners / RBC Ventures)" },
+    "aka": ["RBC Capital Partners", "RBCP", "RBC Ventures", "RBCx Capital"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.rbcx.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/rbc-venture-partners",
+      "linkedin": "https://www.linkedin.com/company/rbccp",
+      "other": ["https://www.rbcx.com/capital/", "https://www.rbcx.com/ventures/"]
+    },
+    "capital": {
+      "aum": { "raw": "over $1 billion in strategic capital", "usd": null, "currency": "CAD" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "$5-15MM in Series A to C companies", "usd_min": 5000000, "usd_max": 15000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States", "Global"],
+      "sector_focus": ["fintech", "ai-ml", "saas-enterprise", "cybersecurity", "biotech", "climate-energy"],
+      "thesis": "Corporate venture and fund-investment arm of Royal Bank of Canada, investing for strategic value to RBC and market returns, primarily at the intersection of fintech / financial services and complementary sectors."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Wave", "sector": "fintech", "outcome": "active" },
+        { "company": "League", "sector": "healthtech", "outcome": "active" },
+        { "company": "TouchBistro", "sector": "saas-enterprise", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "Barrie Laver", "role": "Managing Director, Head of Venture Capital & Private Equity, RBC" },
+      { "name": "Shikha Bhuchar", "role": "Head, Strategy and Investments" }
+    ],
+    "application": {
+      "how_to_apply": "Inbound via RBCx website",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.rbcx.com/capital/"
+    },
+    "tags": ["finance", "bank", "corporate-vc", "rbc"],
+    "summary": {
+      "en": "RBCx is the tech-banking and innovation platform of Royal Bank of Canada, formed in 2022 by merging RBCx (tech banking) with RBC Ventures. Its capital/strategic-investments arm (RBC Capital Partners) manages over $1B in strategic capital, investing $5–15M per deal across Series A–C, focused on fintech and financial services.",
+      "local": null
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/rbcx-and-rbc-ventures-merge/",
+        "title": "RBCx and RBC Ventures merge",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "2022 merger forming RBCx",
+        "quote": "RBC announced the merger of RBCx and RBC Ventures... The new entity operates as RBCx."
+      },
+      {
+        "url": "https://pitchbook.com/profiles/investor/233693-56",
+        "title": "RBCx investment portfolio",
+        "publisher": "PitchBook (via search snippet)",
+        "accessed": "2026-06-02",
+        "supports": "$1B strategic capital, sector focus, check size",
+        "quote": "RBC Capital Partners (RBCP) is the corporate venture capital and fund investment arm of the Royal Bank of Canada, managing over $1 billion in strategic capital."
+      },
+      {
+        "url": "https://www.rbcx.com/capital/",
+        "title": "Strategic Investments & Partnerships | RBCx",
+        "publisher": "RBCx",
+        "accessed": "2026-06-02",
+        "supports": "stages, portfolio companies, key people",
+        "quote": "Direct investments include: Dr.Bill, Houseful, Mydoh, Ownr ... Tech companies backed: Fidel API, Wave, League, Maple, Touch Bistro."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "RBC's strategic-investing structure has been reorganized multiple times (RBC Capital Partners, RBC Ventures, now RBCx). Founded_year reflects the 2022 RBCx merger; the underlying RBC Capital Partners predates it. Check-size and $1B figures come from the RBC Capital Partners PitchBook profile.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "ca-naventures",
+    "name": { "en": "NAventures", "local": "NAventures (Banque Nationale du Canada)" },
+    "aka": ["NAventures National Bank of Canada"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://www.nbc.ca/en/naventures",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/naventures",
+      "other": ["https://central.cvca.ca/cvca-member-profile-naventures", "https://pitchbook.com/profiles/investor/436895-56"]
+    },
+    "offices": [
+      { "country": "Canada", "city": "Montreal" },
+      { "country": "Israel", "city": "Tel Aviv" }
+    ],
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States", "Israel"],
+      "sector_focus": ["fintech", "cybersecurity", "saas-enterprise", "proptech"],
+      "thesis": "Corporate venture capital arm of National Bank of Canada; invests strategically from Seed to Series C in fintech, cybersecurity, enterprise software, insurtech, regtech and proptech to create partnership opportunities for the bank."
+    },
+    "track_record": {
+      "portfolio_count": "30+",
+      "notable_investments": [
+        { "company": "Flinks", "sector": "fintech", "outcome": "active" },
+        { "company": "Nest Wealth", "sector": "fintech", "outcome": "active" },
+        { "company": "Moka", "sector": "fintech", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Email NAventures@bnc.ca",
+      "accepts_cold_inbound": true,
+      "contact": "NAventures@bnc.ca"
+    },
+    "tags": ["finance", "bank", "corporate-vc", "national-bank"],
+    "summary": {
+      "en": "Corporate venture capital arm of National Bank of Canada, active since 2017 with offices in Montreal and Tel Aviv. Among Canada's most active CVCs, it has made 30+ equity investments from Seed to Series C in fintech, cybersecurity, enterprise software, insurtech, regtech and proptech.",
+      "local": "Bras de capital de risque d'entreprise de la Banque Nationale du Canada, actif depuis 2017 avec des bureaux à Montréal et Tel-Aviv. Plus de 30 investissements en capital de la phase d'amorçage à la série C dans la fintech, la cybersécurité et les logiciels d'entreprise."
+    },
+    "sources": [
+      {
+        "url": "https://www.nbc.ca/en/naventures",
+        "title": "About NAventures",
+        "publisher": "National Bank of Canada",
+        "accessed": "2026-06-02",
+        "supports": "role as CVC arm, portfolio companies",
+        "quote": "NAventures is the corporate venture capital arm of National Bank of Canada."
+      },
+      {
+        "url": "https://venbridge.com/venture_capital/naventures/",
+        "title": "NAventures - Venbridge",
+        "publisher": "Venbridge (citing NAventures)",
+        "accessed": "2026-06-02",
+        "supports": "founding year, 30+ investments, offices, sectors, stages",
+        "quote": "NAventures has been actively participating in Canadian, American, and international venture capital ecosystems since its inception in 2017. To date, NAventures has made over 30 equity investments across Canada, the US and Israel."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Sector list (fintech, cybersecurity, enterprise software, insurtech, regtech, proptech) and Tel Aviv office from the Venbridge/NAventures profile; mapped insurtech/regtech to fintech and proptech taxonomy slugs.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "ca-intact-ventures",
+    "name": { "en": "Intact Ventures" },
+    "aka": [],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.intactfc.com/about-us/intact-ventures",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/intact-ventures",
+      "linkedin": "https://ca.linkedin.com/showcase/intact-ventures/",
+      "other": ["https://www.intactfc.com/English/intact-ventures/portfolio/default.aspx", "https://pitchbook.com/profiles/investor/167768-56"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States", "Global"],
+      "sector_focus": ["fintech", "mobility", "ai-ml", "logistics"],
+      "thesis": "Venture capital arm of Intact Financial Corporation (P&C insurance); invests in early-stage insurtech, fintech, mobility, sharing economy, supply chain, data and AI companies, backed by a global insurer."
+    },
+    "track_record": {
+      "portfolio_count": "30+",
+      "notable_investments": [
+        { "company": "Metromile", "sector": "fintech", "outcome": "active" },
+        { "company": "Turo", "sector": "mobility", "outcome": "active" },
+        { "company": "Coterie Insurance", "sector": "fintech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Turo", "type": "M&A", "year": 2025, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Inbound via Intact Ventures website",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.intactfc.com/about-us/intact-ventures"
+    },
+    "tags": ["finance", "insurance", "corporate-vc", "intact"],
+    "summary": {
+      "en": "Corporate venture capital arm of Intact Financial Corporation (Canada's largest P&C insurer), founded 2016 and based in Toronto. Has made 30+ investments across 5+ countries in insurtech, fintech, mobility and AI; portfolio includes Metromile, Turo, Coterie and Pine.",
+      "local": null
+    },
+    "sources": [
+      {
+        "url": "https://www.intactfc.com/about-us/intact-ventures",
+        "title": "Intact Ventures | Intact Financial Corporation",
+        "publisher": "Intact Financial Corporation",
+        "accessed": "2026-06-02",
+        "supports": "role as VC arm, sectors",
+        "quote": "Intact Ventures is the venture capital arm of Intact Financial."
+      },
+      {
+        "url": "https://unicorn-nest.com/funds/intact-ventures/",
+        "title": "Intact Ventures – Investors Database",
+        "publisher": "Unicorn Nest",
+        "accessed": "2026-06-02",
+        "supports": "founding year, 30+ investments, portfolio",
+        "quote": "Intact Ventures has made over 30 investments in more than 5 countries since its inception in 2016 and has a portfolio that includes high profile start-ups like Turo, Acko, Resilience Insurance, Bolt Logistics, Coterie Insurance, Pine Mortgage."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Turo exit recorded as Intact Ventures' portfolio exit on 13 Feb 2025 per secondary sources; value undisclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "ca-bell-ventures",
+    "name": { "en": "Bell Ventures" },
+    "aka": ["BCE Bell Ventures"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://www.bce.ca/about-bce/bell-ventures",
+    "links": {
+      "other": ["https://www.bce.ca/about-bce/bell-ventures/portfolio", "https://privatecapitaljournal.com/bell-canada-introduces-bell-ventures/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": "$5-million to $15-million a company", "usd_min": 5000000, "usd_max": 15000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "deeptech", "cybersecurity"],
+      "thesis": "Corporate venture capital arm of BCE / Bell Canada, investing in early-stage and growth companies that harness Bell's 5G and fibre networks to drive adoption of advanced technological solutions."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Cohere Technologies", "sector": "deeptech", "outcome": "active" },
+        { "company": "BeWhere Holdings", "sector": "deeptech", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Inbound via Bell Ventures website",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.bce.ca/about-bce/bell-ventures"
+    },
+    "tags": ["telecom", "corporate-vc", "bce", "bell"],
+    "summary": {
+      "en": "Corporate venture capital initiative of BCE / Bell Canada, launched in 2022 (revived ~15 years after BCE spun off its earlier BCE Capital venture unit). Invests roughly $5M–$15M per company in early-stage and growth firms leveraging Bell's 5G and fibre networks; can lead rounds or join syndicates.",
+      "local": "Initiative de capital de risque d'entreprise de BCE / Bell Canada, lancée en 2022. Investit environ 5 M$ à 15 M$ par entreprise dans des sociétés en démarrage et en croissance tirant parti des réseaux 5G et fibre de Bell."
+    },
+    "sources": [
+      {
+        "url": "https://www.theglobeandmail.com/business/article-bell-canada-corporate-venture-capital-arm/",
+        "title": "Bell jump-starts venture capital investing, joining other Canadian companies despite tech downturn",
+        "publisher": "The Globe and Mail",
+        "accessed": "2026-06-02",
+        "supports": "check size, revival of venture program, lead/syndicate",
+        "quote": "Bell Ventures would typically invest $5-million to $15-million a company and could lead financing rounds or join syndicates as an investor."
+      },
+      {
+        "url": "https://www.bce.ca/about-bce/bell-ventures",
+        "title": "Overview | Bell Ventures | About BCE",
+        "publisher": "BCE Inc.",
+        "accessed": "2026-06-02",
+        "supports": "mandate, network leverage, portfolio companies",
+        "quote": "Bell Ventures helps propel Canada's prosperity through the adoption of advanced technological solutions."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded_year 2022 reflects the launch reported by Globe and Mail / Private Capital Journal; the predecessor BCE Capital (1987) was a separate, spun-off entity. HQ assumed Montreal (BCE head office); not explicitly stated on the Bell Ventures page.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "ca-shopify-ventures",
+    "name": { "en": "Shopify Ventures" },
+    "aka": [],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Ottawa",
+    "website": "https://shopify.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/shopify-ventures",
+      "other": ["https://pitchbook.com/profiles/investor/685934-92", "https://www.cbinsights.com/investor/shopify-ventures"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States", "Global"],
+      "sector_focus": ["ecommerce", "saas-enterprise", "ai-ml", "fintech", "logistics"],
+      "thesis": "Corporate venture capital arm of Shopify, backing founders building next-generation commerce, developer infrastructure, AI automation/agents and generative media for merchants, developers and entrepreneurs beyond commerce."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Faire", "sector": "ecommerce", "outcome": "active" },
+        { "company": "Cursor", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Liquid AI", "sector": "ai-ml", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Inbound via Shopify Ventures website",
+      "accepts_cold_inbound": true,
+      "contact": "https://shopify.vc/"
+    },
+    "tags": ["retail", "ecommerce", "corporate-vc", "shopify"],
+    "summary": {
+      "en": "Corporate venture arm of Shopify, founded in 2020 and based in Ottawa. Invests from seed to pre-IPO in commerce, developer infrastructure, AI automation and generative media; emerged as one of Canada's leading corporate VC funders alongside TELUS, Power Corp and Loblaw. Portfolio includes Faire, Cursor and Liquid AI.",
+      "local": null
+    },
+    "sources": [
+      {
+        "url": "https://shopify.vc/",
+        "title": "Shopify Ventures",
+        "publisher": "Shopify",
+        "accessed": "2026-06-02",
+        "supports": "mandate, sectors, portfolio companies",
+        "quote": "Notable Portfolio Companies: Faire ... Graphite ... Gumloop ... Liquid AI ... fal ... Cursor."
+      },
+      {
+        "url": "https://www.theglobeandmail.com/business/article-shopify-invests-in-vancouvers-bench-accounting/",
+        "title": "Shopify adds to list of strategic deals with investment in Vancouver's Bench Accounting",
+        "publisher": "The Globe and Mail",
+        "accessed": "2026-06-02",
+        "supports": "Shopify among Canada's leading corporate VC funders",
+        "quote": "Ottawa-based Shopify has emerged in the past year as one of Canada's leading corporate venture-capital funders, alongside Telus Corp., Power Corp. and Loblaw Cos. Ltd."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year 2020 and Ottawa HQ from secondary profiles (Crunchbase/Tracxn via search); fund size not publicly disclosed. Sector mapping reflects current AI/developer-tools emphasis on shopify.vc.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "ca-wittington-ventures",
+    "name": { "en": "Wittington Ventures" },
+    "aka": [],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.wittingtonventures.com/",
+    "links": {
+      "other": ["https://fireant.co/demystifying-wittington-ventures/", "https://thelogic.co/news/what-wittington-ventures-investments-reveal-about-the-future-of-loblaw/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$100 million", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Wittington Ventures Fund I", "vintage_year": 2019, "size": { "raw": "$100 million", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["ecommerce", "healthtech", "agritech", "consumer"],
+      "thesis": "Venture arm of Wittington Investments, the Weston family single-family office that controls Loblaw and Shoppers Drug Mart. Invests in the future of retail/commerce, healthcare and food; operates as an independent fund leveraging Loblaw's operations for strategic introductions."
+    },
+    "track_record": {
+      "portfolio_count": "9+",
+      "notable_investments": [
+        { "company": "Gatik", "sector": "logistics", "outcome": "active" },
+        { "company": "Truvian", "sector": "healthtech", "outcome": "active" },
+        { "company": "Contentful", "sector": "saas-enterprise", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "Jim Orlando", "role": "Co-founder / Managing Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Inbound via Wittington Ventures website",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.wittingtonventures.com/"
+    },
+    "tags": ["retail", "corporate-vc", "loblaw", "weston-family"],
+    "summary": {
+      "en": "Venture arm of Wittington Investments, the Weston family office that controls Loblaw (Canada's largest grocer) and Shoppers Drug Mart. Founded 2019 with a $100M first fund, it invests in the future of retail/commerce, healthcare and food. Independent fund; portfolio includes Gatik, Truvian and Contentful. It co-led Gatik's US$25M Series A.",
+      "local": null
+    },
+    "sources": [
+      {
+        "url": "https://fireant.co/demystifying-wittington-ventures/",
+        "title": "Demystifying Wittington Ventures",
+        "publisher": "Fire Ant",
+        "accessed": "2026-06-02",
+        "supports": "founding, fund size, focus, team, portfolio, Loblaw relationship",
+        "quote": "Our first fund is $100 million in size ... our focus has been to invest in the future of retail/commerce, healthcare, and food."
+      },
+      {
+        "url": "https://thelogic.co/news/what-wittington-ventures-investments-reveal-about-the-future-of-loblaw/",
+        "title": "What Wittington Ventures' investments reveal about the future of Loblaw",
+        "publisher": "The Logic",
+        "accessed": "2026-06-02",
+        "supports": "relationship to Weston family / Loblaw, Gatik Series A co-lead",
+        "quote": "Wittington Ventures is a venture capital firm affiliated with the holding company of Canada's billionaire Weston family ... The firm operates a $100-million venture fund."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Independent fund whose LPs include the Weston/Loblaw family office; included as a retail corporate-affiliated CVC. Gatik Series A reported at US$25M, co-led by Wittington.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "ca-circle-k-venture-fund",
+    "name": { "en": "Circle K Venture Fund (Alimentation Couche-Tard)", "local": "Fonds de capital de risque Circle K" },
+    "aka": ["Couche-Tard Venture Fund"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Laval",
+    "website": "https://corpo.couche-tard.com/",
+    "links": {
+      "other": ["https://www.newswire.ca/news-releases/alimentation-couche-tard-announces-nearly-55-million-of-investments-from-its-circle-k-venture-fund-to-explore-the-future-of-convenience-826892821.html"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "initial $100 million", "usd": null, "currency": "USD" },
+      "funds": [
+        { "name": "Circle K Venture Fund", "vintage_year": 2020, "size": { "raw": "initial $100 million", "usd": null, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States", "Global"],
+      "sector_focus": ["ecommerce", "logistics", "consumer", "saas-enterprise"],
+      "thesis": "Corporate venture fund of Alimentation Couche-Tard / Circle K, exploring the future of convenience: enhancing customer experience in stores and beyond, improving efficiency through delivery, store technology, labor solutions and retail analytics."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Food Rocket", "sector": "logistics", "outcome": "active" },
+        { "company": "Pensa Systems", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Jackpocket", "sector": "consumer", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "Claude Tessier", "role": "Chief Financial Officer (oversees fund's strategic direction)" }
+    ],
+    "application": {
+      "how_to_apply": "Inbound via Alimentation Couche-Tard corporate channels",
+      "accepts_cold_inbound": null,
+      "contact": "https://corpo.couche-tard.com/"
+    },
+    "tags": ["retail", "convenience", "corporate-vc", "couche-tard", "circle-k"],
+    "summary": {
+      "en": "Corporate venture fund of Alimentation Couche-Tard (Laval, Quebec), launched in 2020 with an initial US$100M to explore the future of convenience retail — delivery, store technology, labour solutions and retail analytics. Had invested more than half of the fund by the time of its 2022 update; portfolio includes Food Rocket, Pensa Systems and Jackpocket.",
+      "local": "Fonds de capital de risque d'entreprise d'Alimentation Couche-Tard (Laval, Québec), lancé en 2020 avec une enveloppe initiale de 100 M$ US pour explorer l'avenir du commerce de proximité — livraison, technologie en magasin et analytique du détail."
+    },
+    "sources": [
+      {
+        "url": "https://www.newswire.ca/news-releases/alimentation-couche-tard-announces-nearly-55-million-of-investments-from-its-circle-k-venture-fund-to-explore-the-future-of-convenience-826892821.html",
+        "title": "Alimentation Couche-Tard announces nearly $55 million of investments from its Circle K Venture Fund",
+        "publisher": "CNW / Newswire",
+        "accessed": "2026-06-02",
+        "supports": "fund size, launch year, amount invested, focus, portfolio, key person",
+        "quote": "invested more than half of its initial $100 million of its Circle K Venture Fund ... Portfolio Companies: Food Rocket, Farmstead, Pensa Systems, Jackpocket."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Single press-release source for the $100M fund and ~$55M deployed; founding year 2020 per the same release. Currency treated as USD per the release figures.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "ca-portage-ventures",
+    "name": { "en": "Portage Ventures (Sagard / Power Corporation)", "local": "Portage" },
+    "aka": ["Portag3 Ventures", "Portage"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://portagevc.com/",
+    "links": {
+      "other": ["https://portageinvest.com/", "https://www.sagard.com/blog/2019/12/03/portage-ventures-announces-427m-close-of-second-fintech-fund/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$427 million CAD (Fund II)", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Portag3 Ventures II", "vintage_year": 2019, "size": { "raw": "$427 million CAD", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States", "Europe"],
+      "sector_focus": ["fintech"],
+      "thesis": "Fintech-focused venture fund managed by Sagard (Power Corporation's alternative-asset arm), anchored by Power Financial, IGM Financial and Great-West Lifeco. Invests in B2B fintech serving insurance, wealth management and banking; Canada's largest fintech-focused VC fund."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Wealthsimple", "sector": "fintech", "outcome": "active" },
+        { "company": "Koho", "sector": "fintech", "outcome": "active" },
+        { "company": "Borrowell", "sector": "fintech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Wave", "type": "M&A", "year": 2019, "value": { "raw": "$537 million CAD", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "people": [
+      { "name": "Adam Felesky", "role": "Co-founder & CEO" },
+      { "name": "Paul Desmarais III", "role": "Executive Chairman" }
+    ],
+    "application": {
+      "how_to_apply": "Inbound via Portage / Sagard website",
+      "accepts_cold_inbound": true,
+      "contact": "https://portagevc.com/"
+    },
+    "tags": ["finance", "fintech", "corporate-vc", "power-corporation", "sagard"],
+    "summary": {
+      "en": "Fintech venture platform launched in 2016 and managed by Sagard, Power Corporation's alternative-asset arm; anchored by Power Financial, IGM Financial and Great-West Lifeco. Its $427M CAD Fund II made it Canada's largest fintech-focused VC fund. Portfolio includes Wealthsimple, Koho and Borrowell; Wave was acquired by H&R Block for $537M CAD.",
+      "local": "Plateforme de capital de risque fintech lancée en 2016 et gérée par Sagard (filiale de Power Corporation), avec Power Financial, IGM Financial et Great-West Lifeco comme investisseurs d'ancrage. Son Fonds II de 427 M$ CA en a fait le plus grand fonds de capital de risque axé sur la fintech au Canada."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/portag3-sets-sights-on-global-fintech-market-as-it-closes-427-million-cad-fund-ii/",
+        "title": "Portag3 sets sights on global FinTech market as it closes $427 million CAD Fund II",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "fund II size, launch year, anchors, manager, portfolio, Wave exit value",
+        "quote": "Fund II: $427 million CAD ... Power Corporation entities returned as anchors: Power Financial, IGM Financial, and Great-West Lifeco ... the venture capital arm of Sagard Holdings, a subsidiary of Power Corporation."
+      },
+      {
+        "url": "https://www.theglobeandmail.com/business/article-portag3-ventures-affiliate-of-power-corp-creates-canadas-largest/",
+        "title": "Portag3 Ventures, affiliate of Power Corp., creates Canada's largest fintech investment fund",
+        "publisher": "The Globe and Mail",
+        "accessed": "2026-06-02",
+        "supports": "Power Corp affiliation, largest Canadian fintech fund",
+        "quote": "Portag3 Ventures, affiliate of Power Corp., creates Canada's largest fintech investment fund."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Borderline classification: Portage is an LP-backed fund managed by Sagard, but anchored/seeded by Power Corporation's financial subsidiaries (Great-West Lifeco, IGM, Power Financial), so it qualifies as a finance-sector corporate-backed venture platform. Rebranded from Portag3 to Portage. Wave exit value $537M CAD.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "ca-manulife-ventures",
+    "name": { "en": "Manulife Ventures" },
+    "aka": ["Manulife Capital", "MIM Venture Capital"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.manulifeim.com/institutional/global/en/strategies/private-markets/private-equity-and-credit/venture-capital",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/manulife-capital",
+      "other": ["https://pitchbook.com/profiles/advisor/10243-45"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "common deals in the range of 10-50 million dollars", "usd_min": 10000000, "usd_max": 50000000 },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["saas-enterprise", "fintech"],
+      "thesis": "Venture capital team within Manulife Investment Management, backing early- and growth-stage (Series B and later) North American B2B SaaS startups across enterprise software and fintech that can deliver strategic value to Manulife's insurance and wealth-management businesses."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Inbound via Manulife Investment Management private markets team",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.manulifeim.com/"
+    },
+    "tags": ["finance", "insurance", "corporate-vc", "manulife"],
+    "summary": {
+      "en": "Corporate venture capital team within Manulife Investment Management (parent: Manulife Financial), headquartered in Toronto. Invests at Series B and later in North American B2B SaaS and fintech startups, typically participating in rounds of US$10–50M with 4–5 co-investors. Formed from the Manulife Capital and Hancock Capital teams combined under MIM in 2019.",
+      "local": null
+    },
+    "sources": [
+      {
+        "url": "https://www.manulifeim.com/institutional/global/en/strategies/private-markets/private-equity-and-credit/venture-capital",
+        "title": "Venture capital | Manulife Investment Management",
+        "publisher": "Manulife Investment Management",
+        "accessed": "2026-06-02",
+        "supports": "stage and sector focus",
+        "quote": "The MIM Venture Capital team focuses on early and growth stage investments in North American-based, B2B SaaS (software-as-a-service) startups across enterprise software and fintech."
+      },
+      {
+        "url": "https://unicorn-nest.com/funds/manulife-financial/",
+        "title": "Manulife Financial — Investments, Portfolio, Team members",
+        "publisher": "Unicorn Nest",
+        "accessed": "2026-06-02",
+        "supports": "check size / round size, 2019 combination of Manulife Capital and Hancock Capital",
+        "quote": "The typical case for the fund is to invest in rounds with 4-5 participants, with common deals in the range of 10-50 million dollars."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year not clearly disclosed; Manulife Capital and Hancock Capital teams combined under Manulife Investment Management in 2019. Check size is the typical round size (not necessarily Manulife's own cheque).",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "ca-bmo-capital-partners",
+    "name": { "en": "BMO Capital Partners" },
+    "aka": ["BMOCP"],
+    "type": "cvc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 1998,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://commercial.bmo.com/en/ca/bmo-capital-partners/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/bmo-capital-partners",
+      "other": ["https://commercial.bmo.com/en/ca/we-can-help/bmo_capital_partners/"]
+    },
+    "capital": {
+      "aum": { "raw": "$2.1B of committed capital from BMO", "usd": null, "currency": "CAD" },
+      "current_fund": { "raw": "$2.1B of committed capital from BMO", "usd": null, "currency": "CAD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["generalist"],
+      "thesis": "Evergreen investment fund of Bank of Montreal supporting the North American mid-market through direct equity co-investments / subordinated debt and fund investments in buyout, growth-equity and venture-capital strategies."
+    },
+    "track_record": {
+      "portfolio_count": "over 160 investments in the past five years",
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Inbound via BMO Capital Partners commercial banking",
+      "accepts_cold_inbound": null,
+      "contact": "https://commercial.bmo.com/en/ca/bmo-capital-partners/"
+    },
+    "tags": ["finance", "bank", "corporate-vc", "bmo", "mid-market"],
+    "summary": {
+      "en": "Evergreen investment fund of Bank of Montreal, established in 1998 with $2.1B of committed capital. Supports the North American mid-market via direct equity/subordinated-debt co-investments and fund investments across buyout, growth-equity and venture-capital strategies; deployed more than $1.2B across 160+ investments in the past five years.",
+      "local": null
+    },
+    "sources": [
+      {
+        "url": "https://commercial.bmo.com/en/ca/bmo-capital-partners/",
+        "title": "BMO Capital Partners",
+        "publisher": "Bank of Montreal",
+        "accessed": "2026-06-02",
+        "supports": "founding year, committed capital, mandate, investment count",
+        "quote": "BMO Capital Partners (BMOCP) is an evergreen investment fund established in 1998 with $2.1B of committed capital from BMO ... deploying more than $1.2B across over 160 investments in the past five years."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "BMOCP is mid-market focused (more growth-equity / mezzanine than pure CVC) and includes venture-capital fund strategies; included as a finance-sector corporate investment arm. Figures from a single official page (via search snippet).",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "ca-desjardins-capital",
+    "name": { "en": "Desjardins Capital", "local": "Capital régional et coopératif Desjardins / Desjardins Capital" },
+    "aka": ["Desjardins Venture Capital", "Capital de risque Desjardins"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://www.desjardins.com/en/business/financing-loans/desjardins-capital.html",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/desjardins-venture-capital",
+      "other": ["https://www.desjardins.com/fr/entreprises/financement-prets/desjardins-capital.html", "https://www.cbinsights.com/investor/desjardins-capital"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["fintech", "generalist"],
+      "thesis": "Venture and development capital arm of Mouvement Desjardins (Canada's largest cooperative financial group), providing venture and growth capital to Quebec businesses in the startup, growth or transfer phase, including a dedicated Fintech Fund."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [
+      { "name": "Éric Bolduc", "role": "Investment Director, Venture Capital" }
+    ],
+    "application": {
+      "how_to_apply": "Inbound via Desjardins Capital business channels",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.desjardins.com/en/business/financing-loans/desjardins-capital.html"
+    },
+    "tags": ["finance", "cooperative", "corporate-vc", "desjardins", "quebec"],
+    "summary": {
+      "en": "Venture and development capital arm of Mouvement Desjardins, Canada's largest cooperative financial group, based in Montreal. Provides venture and growth capital to Quebec businesses across startup, growth and transfer phases, and manages multiple funds including a dedicated Desjardins Capital Fintech Fund.",
+      "local": "Bras de capital de risque et de développement du Mouvement Desjardins, la plus grande institution financière coopérative au Canada, basé à Montréal. Soutient les entreprises québécoises en démarrage, croissance ou transfert et gère plusieurs fonds, dont le Fonds Fintech Desjardins Capital."
+    },
+    "sources": [
+      {
+        "url": "https://www.desjardins.com/en/business/financing-loans/desjardins-capital.html",
+        "title": "Venture Capital and Growth Capital - Desjardins",
+        "publisher": "Desjardins",
+        "accessed": "2026-06-02",
+        "supports": "mandate, stages, Quebec focus",
+        "quote": "Desjardins Capital provides venture capital and growth capital to support Quebec businesses in the startup, growth or transfer phase."
+      },
+      {
+        "url": "https://www.cbinsights.com/investor/desjardins-capital",
+        "title": "Desjardins Capital Portfolio Investments",
+        "publisher": "CB Insights (via search snippet)",
+        "accessed": "2026-06-02",
+        "supports": "existence of dedicated Fintech Fund",
+        "quote": "Desjardins Capital has 6 funds, including Desjardins Capital Fintech Fund."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Desjardins runs a broad development-capital platform (CRCD) rather than a narrow CVC; included for its financial-cooperative corporate backing and dedicated Fintech Fund. Fund sizes and check sizes not pinned to a single quote here.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "ca-magna-technology-investments",
+    "name": { "en": "Magna Technology Investments" },
+    "aka": ["Magna International venture investments"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Aurora",
+    "website": "https://www.magna.com/company/magna-technology-investments",
+    "links": {
+      "other": ["https://pitchbook.com/profiles/investor/529096-15"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States", "Israel", "India"],
+      "sector_focus": ["mobility", "robotics", "hardware-semiconductor", "deeptech"],
+      "thesis": "Embedded team of venture professionals within Magna International (global automotive supplier), investing directly in startups and strategically focused venture funds during the transformative time in the automotive industry."
+    },
+    "track_record": {
+      "portfolio_count": "13 active investments",
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Inbound via Magna Technology Investments",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.magna.com/company/magna-technology-investments"
+    },
+    "tags": ["industrial", "automotive", "corporate-vc", "magna"],
+    "summary": {
+      "en": "Corporate venture team embedded within Magna International, one of the world's largest automotive suppliers (HQ Aurora, Ontario). Not a separate fund — a group of venture professionals investing directly in startups and strategic venture funds, with 13 active portfolio companies across Israel, Canada, the U.S. and India focused on automotive transformation.",
+      "local": null
+    },
+    "sources": [
+      {
+        "url": "https://www.magna.com/company/magna-technology-investments",
+        "title": "Technology Investments | Magna",
+        "publisher": "Magna International",
+        "accessed": "2026-06-02",
+        "supports": "structure, mandate, portfolio count, geography",
+        "quote": "Magna Technology Investments is not a separate investment fund, but rather a group of experienced venture professionals embedded within Magna's corporate team ... 13 active investments in the Magna startup portfolio, from companies in Israel, Canada, the U.S. and India."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Magna is Canada's largest industrial corporate VC (HQ Aurora, Ontario), but its investments are global and not a ring-fenced fund. Founding year and check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "ca-rogers-venture-partners",
+    "name": { "en": "Rogers Venture Partners" },
+    "aka": ["RVP"],
+    "type": "cvc",
+    "status": "inactive",
+    "founded_year": 2012,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Palo Alto",
+    "website": "https://www.crunchbase.com/organization/rogers-venture-partners",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/rogers-venture-partners",
+      "other": ["https://pitchbook.com/profiles/investor/53014-78", "https://ca.linkedin.com/company/rogers-venture-partners"]
+    },
+    "capital": {
+      "aum": { "raw": "$150M venture capital fund", "usd": 150000000, "currency": "USD" },
+      "current_fund": { "raw": "$150M", "usd": 150000000, "currency": "USD" },
+      "funds": [
+        { "name": "Rogers Venture Partners Fund", "vintage_year": 2012, "size": { "raw": "$150M", "usd": 150000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Canada"],
+      "sector_focus": ["saas-enterprise", "consumer"],
+      "thesis": "Telecom-affiliated venture fund funded by Rogers Communications but wholly owned by the Rogers family; established 2012 and headquartered in Palo Alto. Inactive since 2017."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Inactive — no longer making new investments",
+      "accepts_cold_inbound": false,
+      "contact": null
+    },
+    "tags": ["telecom", "corporate-vc", "rogers", "inactive"],
+    "summary": {
+      "en": "Telecom-affiliated venture fund established in 2012 as a $150M fund headquartered in Palo Alto, funded by Rogers Communications but wholly owned by the Rogers family. It has been inactive since 2017.",
+      "local": null
+    },
+    "sources": [
+      {
+        "url": "https://pitchbook.com/profiles/investor/53014-78",
+        "title": "Rogers Venture Partners investment portfolio",
+        "publisher": "PitchBook (via search snippet)",
+        "accessed": "2026-06-02",
+        "supports": "founding year, fund size, ownership, inactive status",
+        "quote": "Rogers Venture Partners (RVP) was established in 2012 as a newly minted $150M venture capital fund headquartered in Palo Alto ... funded by Rogers Communications Inc. but wholly owned by Rogers family, has been inactive since 2017."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Included for completeness as a (now inactive) telecom corporate venture arm. HQ was Palo Alto despite Rogers being a Canadian (Toronto) telecom; country set to Canada given parent. Details from secondary profiles via search.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  }
+]

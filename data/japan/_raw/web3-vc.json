@@ -1,0 +1,850 @@
+[
+  {
+    "id": "jp-gumi-cryptos-capital",
+    "name": { "en": "gumi Cryptos Capital", "local": "gumi Cryptos Capital" },
+    "aka": ["gCC", "グミ クリプトス キャピタル"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "San Francisco / Tokyo",
+    "website": "https://www.gumi-cryptos.com/",
+    "offices": [
+      { "country": "United States", "city": "San Francisco" },
+      { "country": "Japan", "city": "Tokyo" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/gumi-cryptos",
+      "other": ["https://www.gumi-cryptos.com/team/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "USD 110M (約130億円) — Fund II", "usd": 110000000, "currency": "USD" },
+      "funds": [
+        { "name": "gumi Cryptos Capital Fund I (gCC Fund I)", "vintage_year": 2018, "size": { "raw": "$21M", "usd": 21000000, "currency": "USD" } },
+        { "name": "gumi Cryptos Capital Fund II", "vintage_year": 2022, "size": { "raw": "110百万米ドル（約130億円）", "usd": 110000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$500K–$5M", "usd_min": 500000, "usd_max": 5000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Global", "United States", "Japan", "Asia"],
+      "sector_focus": ["web3-crypto", "gaming"],
+      "thesis": "Early-stage (seed) investor in blockchain/Web3 startups across infrastructure, developer tools, gaming, metaverses, DAOs/guilds and Web3 applications. Blockchain venture arm of Tokyo-listed mobile-gaming company gumi Inc."
+    },
+    "track_record": {
+      "portfolio_count": "36 (Fund I)",
+      "notable_investments": [
+        { "company": "OpenSea", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Yield Guild Games", "sector": "gaming", "outcome": "active" },
+        { "company": "Astar Network", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "1inch", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Agoric", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Celsius Network", "sector": "web3-crypto", "outcome": "shutdown" }
+      ]
+    },
+    "people": [
+      { "name": "Hironao Kunimitsu (國光 宏尚)", "role": "Co-founder / General Partner" },
+      { "name": "Miko Matsumura", "role": "General Partner" },
+      { "name": "Rui Zhang", "role": "Co-founder / Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["web3", "crypto", "blockchain", "japan", "gaming"],
+    "summary": {
+      "en": "Blockchain/Web3-focused VC founded in 2018 as the crypto venture arm of Tokyo-listed gaming company gumi Inc. Dual-HQ in San Francisco and Tokyo. Fund I ($21M) backed 36 seed companies including OpenSea; Fund II closed in 2022 at ~$110M (約130億円).",
+      "local": "東京証券取引所上場のゲーム会社gumi（グミ）の暗号資産投資部門として2018年に設立されたWeb3特化VC。サンフランシスコと東京に拠点。1号ファンド（$21M）でOpenSeaなどシード36社に投資、2022年に約130億円の2号ファンドを組成。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000003.000097516.html",
+        "title": "gumi Cryptos Capital、Web3領域に特化した2号ファンド『gumi Cryptos Capital Fund II』が約130億円の資金調達完了を発表",
+        "publisher": "PR TIMES / gumi Cryptos Capital LLC",
+        "accessed": "2026-06-02",
+        "supports": "Fund II size, focus areas, LPs, GP",
+        "quote": "110百万米ドル（約130億円）"
+      },
+      {
+        "url": "https://techcrunch.com/2022/03/30/gumi-cryptos-capital-closes-110m-second-fund-to-back-blockchain-startups/",
+        "title": "Gumi Cryptos Capital closes $110M second fund to back blockchain startups",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund I $21M, Fund II $110M, portfolio (OpenSea, YGG, Celsius, Astar, 1inch), HQ San Francisco + Tokyo",
+        "quote": "Gumi Cryptos Capital closes $110M second fund to back blockchain startups"
+      },
+      {
+        "url": "https://superscout.co/investor/gumi-cryptos-capital",
+        "title": "gumi Cryptos Capital",
+        "publisher": "SuperScout",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2018, founders, $500K–$5M check size",
+        "quote": "investments ranging from $500,000 to $5 million per startup"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I figures appear as both $21M raised and a later $516M asset value (~24x) in secondary sources; the $21M is the committed fund size. Operates from San Francisco and Tokyo; classified under Japan given its gumi Inc. (Tokyo-listed) parentage.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "jp-skyland-ventures-web3",
+    "name": { "en": "Skyland Ventures", "local": "スカイランドベンチャーズ株式会社" },
+    "aka": ["SV", "Skyland Ventures SV4 Fund"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://skyland.vc/",
+    "links": {
+      "other": ["https://skyland.vc/contents/web3insight2024"]
+    },
+    "capital": {
+      "current_fund": { "raw": "総額50億円 (SV4号ファンド)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "SV4号ファンド (Skyland Ventures Fund IV)", "vintage_year": 2022, "size": { "raw": "総額50億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["web3-crypto", "ai-ml"],
+      "thesis": "Seed-stage Tokyo VC that pivoted its 4th fund (¥5B) to focus on Web3 (crypto, NFT, blockchain) startups, investing via both equity and tokens. SBI Group is an LP in the SV4 fund."
+    },
+    "track_record": {
+      "portfolio_count": "150+ (firm lifetime)",
+      "notable_investments": [
+        { "company": "Taiko", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "KEKKAI", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Desoul", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Yoshihiko Kinoshita (木下慶彦)", "role": "CEO / Partner" },
+      { "name": "Xiaohang Yuan (袁小航)", "role": "CSO / Partner" },
+      { "name": "Kota Murakami (村上航太)", "role": "Principal" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["web3", "crypto", "nft", "blockchain", "seed", "japan"],
+    "summary": {
+      "en": "Tokyo seed VC (founded 2012, 150+ startups) that formed its ¥5B 4th fund in 2022 specialized in Web3 (crypto/NFT/blockchain), backed by SBI Group as LP. Web3 portfolio includes Taiko, KEKKAI and Desoul; invests via equity and tokens.",
+      "local": "2012年設立・150社以上に投資した東京のシード特化VC。2022年に総額50億円の4号ファンドをWeb3（暗号資産・NFT・ブロックチェーン）特化で組成、SBIグループがLPとして参画。Taiko、KEKKAI、Desoulなどに出資。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000125.000008324.html",
+        "title": "Skyland Ventures、Web3領域中心に投資する新ファンド総額50億円規模にて組成完了",
+        "publisher": "PR TIMES / スカイランドベンチャーズ株式会社",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV size ¥5B, SBI as LP, Web3 focus, portfolio (Taiko/KEKKAI/Desoul), team",
+        "quote": "総額50億円の資金調達を完了"
+      },
+      {
+        "url": "https://thebridge.jp/2022/05/skyland-ventures-4th-fund",
+        "title": "Skyland Ventures、50億円規模となる4号ファンドを組成——Web3領域の投資に特化へ",
+        "publisher": "BRIDGE",
+        "accessed": "2026-06-02",
+        "supports": "¥5B fund IV, Web3 specialization, firm investing in ~150 startups",
+        "quote": "Skyland Ventures、50億円規模となる4号ファンドを組成——Web3領域の投資に特化へ"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Skyland is a generalist seed VC historically; the Web3 specialization applies to its 2022 SV4 fund. Check size not disclosed in primary source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "jp-emoote",
+    "name": { "en": "Emoote", "local": "Emoote（エムート）" },
+    "aka": ["Emoote Pte. Ltd."],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.emoote.com/",
+    "offices": [
+      { "country": "Singapore", "city": "Singapore" },
+      { "country": "Japan", "city": "Tokyo" }
+    ],
+    "links": {
+      "other": ["https://thebridge.jp/2022/05/akatsuki-launched-web3-fund-emoote"]
+    },
+    "capital": {
+      "current_fund": { "raw": "25億円 (約$20M)", "usd": 20000000, "currency": "JPY" },
+      "funds": [
+        { "name": "Emoote (Web3 fund)", "vintage_year": 2021, "size": { "raw": "25億円規模 (約$20M)", "usd": 20000000, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "~$300K per project", "usd_min": 300000, "usd_max": 300000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Asia", "United States", "Global"],
+      "sector_focus": ["web3-crypto", "gaming", "consumer"],
+      "thesis": "Web3-focused fund established by Tokyo gaming company Akatsuki Inc. via a Singapore entity. Invests via tokens (SAFTs/token warrants) into early-stage projects bridging entertainment, media and lifestyle with Web3 (Web2×Tokenomics, Web3 IP, NFT×digital fashion)."
+    },
+    "track_record": {
+      "portfolio_count": "20+",
+      "notable_investments": [
+        { "company": "STEPN", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "BreederDAO", "sector": "gaming", "outcome": "active" },
+        { "company": "YGG Japan", "sector": "gaming", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Yuji Kumagai (熊谷祐二)", "role": "Co-founder / CEO" },
+      { "name": "Komugi (コムギ)", "role": "Co-founder / Web3 Researcher" },
+      { "name": "Mai Fujimoto (藤本真衣 / Miss Bitcoin)", "role": "Advisor" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["web3", "crypto", "nft", "gamefi", "akatsuki", "singapore"],
+    "summary": {
+      "en": "¥2.5B (~$20M) Web3-focused token-investing fund set up in 2021–2022 by Tokyo gaming firm Akatsuki Inc. through a Singapore entity (Emoote Pte. Ltd.). Focuses on entertainment/media/lifestyle Web3; 20+ investments including STEPN, BreederDAO and YGG Japan.",
+      "local": "東京のゲーム会社アカツキがシンガポール法人（Emoote Pte. Ltd.）を通じて2021–2022年に組成した25億円（約$20M）規模のWeb3特化トークン投資ファンド。エンタメ・メディア・ライフスタイル領域に注力し、STEPNなど20以上に投資。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000001.000100895.html",
+        "title": "アカツキ、25億円規模のWeb3特化ファンド「Emoote」を設立",
+        "publisher": "PR TIMES / Emoote Pte. Ltd.",
+        "accessed": "2026-06-02",
+        "supports": "Fund size ¥2.5B, Singapore entity, focus areas, STEPN investment, founders",
+        "quote": "25億円規模のWeb3特化ファンド「Emoote（エムート）」"
+      },
+      {
+        "url": "https://thebridge.jp/2022/05/akatsuki-launched-web3-fund-emoote",
+        "title": "アカツキがWeb3の25億円ファンド「Emoote」発表、STEPNなどへ出資",
+        "publisher": "BRIDGE",
+        "accessed": "2026-06-02",
+        "supports": "Akatsuki parent, ¥2.5B fund, STEPN, 20+ investments, ~$300K per project",
+        "quote": "アカツキがWeb3の25億円ファンド「Emoote」発表、STEPNなどへ出資"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund vehicle (Emoote Pte. Ltd.) is registered in Singapore; parent Akatsuki Inc. is Tokyo-based. Country recorded as Singapore for the fund vehicle; included in Japan segment due to Akatsuki parentage and Japan ecosystem role. Per-project check size (~$300K) from secondary source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "jp-decima-fund",
+    "name": { "en": "Decima Fund", "local": "デシマファンド" },
+    "aka": ["Decima"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.decima.fund/",
+    "links": {
+      "other": ["https://gu3.co.jp/news/archives/9016/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "総額約45億円 (USD 50m目標)", "usd": 50000000, "currency": "JPY" },
+      "funds": [
+        { "name": "Decima Fund", "vintage_year": 2024, "size": { "raw": "総額約45億円", "usd": 50000000, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Blockchain/Web3 fund organized by gumi (Cayman structure) to incubate Japanese projects expanding globally and overseas projects entering Japan, plus investment in listed tokens. Bridges the Japanese and global Web3 markets."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Slash", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Shota Matsuzawa", "role": "Co-founder" },
+      { "name": "So Kawanami", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["web3", "crypto", "blockchain", "gumi", "tokens", "japan"],
+    "summary": {
+      "en": "Web3/blockchain fund (~¥4.5B; targets ~$50M) organized by gumi and announced March 2024, with MZ Cryptos, SBI Holdings and Animoca Brands as general partners. Incubates Japan-global crossover projects and invests in both equity and listed/unlisted tokens.",
+      "local": "gumiが組成し2024年3月に発表されたWeb3・ブロックチェーン特化ファンド（総額約45億円、$50M目標）。MZ Cryptos、SBIホールディングス、Animoca BrandsがGPとして参画。国内外プロジェクトのインキュベーションと上場・未上場トークン投資を行う。"
+    },
+    "sources": [
+      {
+        "url": "https://www.nadanews.com/224201/",
+        "title": "デシマファンド、45億円調達──日本市場とグローバル市場の橋渡し狙う",
+        "publisher": "CoinDesk JAPAN (nadanews redirect)",
+        "accessed": "2026-06-02",
+        "supports": "Fund size ¥4.5B, March 14 2024 launch, GPs (gumi/MZ Cryptos/SBI/Animoca), focus",
+        "quote": "総額約45億円の資金調達を完了"
+      },
+      {
+        "url": "https://gu3.co.jp/news/archives/9016/",
+        "title": "gumiが組成するDecima Fund, LPのジェネラルパートナーが決定",
+        "publisher": "gumi Inc.",
+        "accessed": "2026-06-02",
+        "supports": "gumi organized fund; GP lineup",
+        "quote": "gumiが組成するDecima Fund"
+      },
+      {
+        "url": "https://www.neweconomy.jp/posts/284485",
+        "title": "Slashが約2億円の資金調達、前澤友作のMZ Web3ファンドらから",
+        "publisher": "あたらしい経済",
+        "accessed": "2026-06-02",
+        "supports": "Portfolio example Slash",
+        "quote": "Slashが約2億円の資金調達"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund uses a Cayman Islands structure (per あたらしい経済) but is a gumi-organized Japan-market vehicle; recorded under Japan. $50M is a target raise; ¥4.5B was the announced closed amount. Check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "jp-mz-web3-fund",
+    "name": { "en": "MZ Web3 Fund", "local": "MZ Web3ファンド" },
+    "aka": ["MZ Cryptos", "前澤 Web3ファンド"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://web3.mzfund.co.jp/",
+    "links": {
+      "other": ["https://web3.mzfund.co.jp/investment/index.html"]
+    },
+    "capital": {
+      "current_fund": { "raw": "100億円", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "MZ Web3 Fund", "vintage_year": 2022, "size": { "raw": "100億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "数百万〜数億円", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["web3-crypto", "gaming"],
+      "thesis": "¥10B fund launched by entrepreneur Yusaku Maezawa (ZOZO founder) investing in Web3.0 and metaverse companies/projects and VR/AR/xR. Backs seed-to-early stage via equity, NFT and token investment, with fast (within one week) decisions."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Slash", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Yusaku Maezawa (前澤友作)", "role": "Founder" }
+    ],
+    "application": {
+      "how_to_apply": "Document submission → document review → interview → funding (decision within one week of approval)",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["web3", "metaverse", "nft", "tokens", "maezawa", "japan"],
+    "summary": {
+      "en": "¥10B (100億円) Web3/metaverse fund launched May 2022 by Yusaku Maezawa (ZOZO founder). Invests seed-to-early stage in Web3.0, metaverse and VR/AR/xR companies via equity, NFT and token; ticket sizes from several million to several hundred million yen.",
+      "local": "ZOZO創業者・前澤友作氏が2022年5月に立ち上げた100億円規模のWeb3・メタバース特化ファンド。Web3.0・メタバース・VR/AR/xR企業のシード〜アーリー期に株式・NFT・トークンで投資。投資額は数百万〜数億円。"
+    },
+    "sources": [
+      {
+        "url": "https://web3.mzfund.co.jp/investment/index.html",
+        "title": "MZ Web3ファンド — 投資について",
+        "publisher": "MZ Web3 Fund (official)",
+        "accessed": "2026-06-02",
+        "supports": "Fund size 100億円, focus (Web3/VR/AR/xR), investment methods (equity/NFT/token), stages, check size, application flow",
+        "quote": "株式投資 / NFT /トークン投資"
+      },
+      {
+        "url": "https://www.itmedia.co.jp/news/articles/2205/27/news124.html",
+        "title": "前澤友作さん、Web3とメタバースに投資する「MZ Web3ファンド」立ち上げ 投資総額は100億円",
+        "publisher": "ITmedia NEWS",
+        "accessed": "2026-06-02",
+        "supports": "Launch May 27 2022, ¥10B total, Maezawa founder",
+        "quote": "投資総額は100億円"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "USD equivalent of ¥10B not stated by primary source, left null. Portfolio examples (Slash) co-invested with Decima/others.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "jp-fracton-ventures",
+    "name": { "en": "Fracton Ventures", "local": "Fracton Ventures株式会社" },
+    "aka": ["Fracton"],
+    "type": "incubator",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://fracton.ventures/",
+    "links": {
+      "other": ["https://initial.inc/investors/V17840"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Self-described as Japan's first Web3.0-focused incubator. Runs Web3 incubation programs (e.g. Fracton Incubation powered by bitbank), provides token design/issuance consulting and supports protocols, dev tools and dApps from day one; also co-runs Next Web Capital."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "format": "hybrid",
+      "location": "Tokyo / online",
+      "application_url": "https://fracton.ventures/",
+      "eligibility": "Web3.0 entrepreneurs building open protocols, developer tools and dApps"
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Satohiko Kamei (亀井聡彦)", "role": "Co-founder" },
+      { "name": "Yudai Suzuki (鈴木雄大)", "role": "Co-founder" },
+      { "name": "Naoki Akazawa (赤澤直樹)", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["web3", "incubator", "blockchain", "dao", "japan"],
+    "summary": {
+      "en": "Tokyo company (founded Jan 2021) describing itself as Japan's first Web3.0-focused incubator. Runs Web3 incubation programs (with bitbank as sponsor), provides token design/issuance consulting, and co-founded Next Web Capital. Co-founders also drive the Japanese Web3 dev community.",
+      "local": "2021年1月設立、日本初のWeb3.0特化型インキュベーターを標榜する東京の企業。bitbankをスポンサーとするWeb3インキュベーションプログラムを運営し、トークン設計・発行コンサルティングを提供。Next Web Capitalの共同設立にも関与。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000012.000074402.html",
+        "title": "Fracton Ventures、日本初のWeb3.0特化型インキュベーションプログラムを開催",
+        "publisher": "PR TIMES / Fracton Ventures株式会社",
+        "accessed": "2026-06-02",
+        "supports": "Japan's first Web3 incubator, incubation program with bitbank, focus on protocols/dev tools/dApps",
+        "quote": "日本初のWeb3.0特化型インキュベーションプログラム"
+      },
+      {
+        "url": "https://thebridge.jp/2022/05/fracton-kamei-mugenlabo-magazine",
+        "title": "日本初のWeb3インキュベーター「Fracton Ventures」を立ち上げた亀井聡彦氏",
+        "publisher": "BRIDGE",
+        "accessed": "2026-06-02",
+        "supports": "Founders, founding 2021, Tokyo, Web3 incubator positioning",
+        "quote": "日本初のWeb3インキュベーター「Fracton Ventures」"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Primarily an incubator/consultancy; investment fund size and check sizes not publicly disclosed (set null). Established 2021-01-28 per company filings.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "jp-next-web-capital",
+    "name": { "en": "Next Web Capital", "local": "Next Web Capital（NeW）" },
+    "aka": ["NeW"],
+    "type": "accelerator",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "japan",
+    "country": "Singapore",
+    "hq_city": "Tokyo / Singapore",
+    "website": "https://nextweb.capital/",
+    "offices": [
+      { "country": "Japan", "city": "Tokyo" },
+      { "country": "Singapore", "city": "Singapore" }
+    ],
+    "links": {
+      "other": ["https://hedge.guide/news/ner-web-capital-launch-bc202202.html"]
+    },
+    "capital": {
+      "current_fund": { "raw": "約11億円", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "Next Web Capital", "vintage_year": 2022, "size": { "raw": "約11億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan", "Asia", "Global"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Blockchain/Web3 accelerator founded by seven Japanese Web3 contributors (from Polkadot, Kusama, Astar, Ethereum Japan, NEAR) to support next-generation Web3 entrepreneurs bridging Asia and the world. WiL and others invested ~¥1.1B."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "format": "hybrid",
+      "location": "Tokyo / Singapore",
+      "application_url": "https://nextweb.capital/",
+      "eligibility": "Web3.0 entrepreneurs"
+    },
+    "people": [
+      { "name": "Sota Watanabe (渡辺創太)", "role": "Co-founder (Astar Network founder)" },
+      { "name": "Yudai Suzuki (鈴木雄大)", "role": "Co-founder (Fracton Ventures)" },
+      { "name": "Satohiko Kamei (亀井聡彦)", "role": "Co-founder (Fracton Ventures)" },
+      { "name": "Yusuke Obinata (大日方祐介)", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true, "contact": "info@nextweb.capital" },
+    "tags": ["web3", "accelerator", "blockchain", "japan", "singapore"],
+    "summary": {
+      "en": "Web3/blockchain accelerator established February 2022 in Singapore by seven Japanese Web3 figures (Astar's Sota Watanabe, Fracton co-founders, etc.) to support Web3 entrepreneurs bridging Asia and the world. WiL and others invested ~¥1.1B.",
+      "local": "2022年2月、Astarの渡辺創太氏やFracton創業者ら日本人のWeb3関係者7名がシンガポールで設立したWeb3・ブロックチェーンアクセラレーター。WiLなどが約11億円を出資。アジアと世界をつなぐWeb3起業家を支援。"
+    },
+    "sources": [
+      {
+        "url": "https://thebridge.jp/2022/02/next-web-capital-fundraising",
+        "title": "Web3.0 起業家創出へ「Next Web Capital」WiLなど11億円出資、7人の若手起業家らが設立",
+        "publisher": "BRIDGE",
+        "accessed": "2026-06-02",
+        "supports": "Founded Feb 2022, ~¥1.1B from WiL and others, 7 founders, Singapore",
+        "quote": "WiLなど11億円出資、7人の若手起業家らが設立"
+      },
+      {
+        "url": "https://nextweb.capital/jp/",
+        "title": "NeW / Next Web Capital",
+        "publisher": "Next Web Capital (official)",
+        "accessed": "2026-06-02",
+        "supports": "Blockchain/Web3 accelerator, Tokyo + Singapore, founders, focus",
+        "quote": "ブロックチェーン・Web3アクセラレーター"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Entity established in Singapore by Japanese founders with Tokyo presence; country recorded as Singapore. USD equivalent of ¥1.1B not stated, left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "jp-hyperithm",
+    "name": { "en": "Hyperithm", "local": "株式会社HYPERITHM" },
+    "aka": ["HYPERITHM"],
+    "type": "vc",
+    "subtypes": ["family-office"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://hyperithm.com/",
+    "offices": [
+      { "country": "Japan", "city": "Tokyo" },
+      { "country": "South Korea", "city": "Seoul" }
+    ],
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000012.000079365.html"]
+    },
+    "capital": {
+      "current_fund": { "raw": "約100億円 (Web3ベンチャー投資枠)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "Hyperithm Web3 venture allocation", "vintage_year": 2022, "size": { "raw": "約100億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan", "South Korea", "United States", "Singapore"],
+      "sector_focus": ["web3-crypto", "fintech"],
+      "thesis": "Tokyo/Seoul digital-asset management firm (founded 2018) that committed ~¥10B to Web3 ventures, investing primarily via tokens into Web3 protocols and DeFi services across Japan, Korea, the US and Singapore, leveraging its crypto wealth-management track record."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Lloyd Lee (李 沅俊)", "role": "Co-founder / Representative Director" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["web3", "crypto", "defi", "tokens", "japan", "korea"],
+    "summary": {
+      "en": "Digital-asset management firm HQ'd in Tokyo and Seoul (founded 2018) that announced (June 2022) a ~¥10B (約100億円) Web3 venture investment program, deploying mainly via tokens into Web3/DeFi projects across Japan, Korea, the US and Singapore.",
+      "local": "東京・ソウルに拠点を置く暗号資産運用会社（2018年設立）。2022年6月にWeb3ベンチャーへ約100億円を投資すると発表し、主にトークンで日本・韓国・米国・シンガポールのWeb3・DeFiプロジェクトに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000012.000079365.html",
+        "title": "Hyperithm、Web3ベンチャーに約100億円を投資、Web3領域へ本格進出",
+        "publisher": "PR TIMES / 株式会社HYPERITHM",
+        "accessed": "2026-06-02",
+        "supports": "~¥10B Web3 venture investment, June 9 2022, Tokyo/Seoul, token focus, founder",
+        "quote": "Web3ベンチャーに約100億円を投資"
+      },
+      {
+        "url": "https://coinpost.jp/?p=285158",
+        "title": "国内仮想通貨企業Hyperithm、最大100億円規模のファンドを検討",
+        "publisher": "CoinPost",
+        "accessed": "2026-06-02",
+        "supports": "Up to ¥10B fund, crypto wealth-management background, founding 2018",
+        "quote": "最大100億円規模のファンドを検討"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Hyperithm is primarily a digital-asset/crypto wealth manager; the ~¥10B figure is a Web3 venture investment allocation rather than a discrete LP fund. USD equivalent not stated, left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "jp-gmo-web3",
+    "name": { "en": "GMO Web3, Inc.", "local": "GMO Web3株式会社" },
+    "aka": ["GMO AI & Web3", "GMO Web3"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://ai-web3.gmo/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000003626.000000136.html"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Hands-on corporate venture capital specializing in Web3 startup support, set up by GMO Internet Group. Provides capital, engineering/blockchain-security support, IEO (token-sale) support, IPO know-how and loan-based support to portfolio Web3 ventures."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Masatoshi Kumagai (熊谷正寿)", "role": "Chairman" },
+      { "name": "Tomohiro Uchida (内田朋宏)", "role": "Representative Director / President" },
+      { "name": "Kentaro Nakamura (中村健太郎)", "role": "Director" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["web3", "cvc", "blockchain", "ieo", "gmo", "japan"],
+    "summary": {
+      "en": "Hands-on Web3-specialized corporate VC established in 2022 by GMO Internet Group. Supports Web3 startups with capital, engineering/blockchain-security expertise, IEO (token-sale) support, IPO know-how and loans. Later expanded into the AI & Web3 group entity.",
+      "local": "2022年にGMOインターネットグループが設立した、Web3ベンチャー支援に特化したハンズオン型CVC。資金支援に加え、技術・ブロックチェーンセキュリティ支援、IEO（トークン販売）支援、上場ノウハウ支援、融資支援を提供。後にGMO AI & Web3へ発展。"
+    },
+    "sources": [
+      {
+        "url": "https://group.gmo/news/article/7843/",
+        "title": "Web3ベンチャー支援特化のハンズオン型CVC「GMO Web3株式会社」設立へ",
+        "publisher": "GMO Internet Group",
+        "accessed": "2026-06-02",
+        "supports": "Establishment 2022, Web3 CVC, support areas, chairman/leadership",
+        "quote": "Web3ベンチャー支援に特化したハンズオン型コーポレートベンチャーキャピタル（CVC）"
+      },
+      {
+        "url": "https://www.itmedia.co.jp/news/articles/2206/09/news165.html",
+        "title": "「GMO Web3株式会社」設立へ Web3ベンチャー支援専門CVC",
+        "publisher": "ITmedia NEWS",
+        "accessed": "2026-06-02",
+        "supports": "Announced June 9 2022, Web3-specialized CVC under GMO",
+        "quote": "「GMO Web3株式会社」設立へ Web3ベンチャー支援専門CVC"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund/AUM size not disclosed. Establishment date stated as June 6, 2022 in the GMO press release (decision to establish); company has since been folded into the GMO AI & Web3 group. Leadership per press release (Uchida as President; Nakamura as Director).",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "jp-cgv-cryptogram-venture",
+    "name": { "en": "CGV (Cryptogram Venture)", "local": "CGV株式会社" },
+    "aka": ["Cryptogram Venture", "CGV FoF"],
+    "type": "vc",
+    "subtypes": ["family-office"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.cgv.fund/",
+    "offices": [
+      { "country": "Japan", "city": "Tokyo" },
+      { "country": "Singapore", "city": "Singapore" },
+      { "country": "Canada", "city": "" }
+    ],
+    "links": {
+      "other": ["https://coinpost.jp/?p=375461"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Asia", "Global"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Tokyo-headquartered, research-driven Asia-based fund of funds investing in CryptoFunds and CryptoStudios, composed of family funds from Japan, Korea, China and Taiwan. Early investor in projects spanning DeFi, metaverse, gaming, NFT and infrastructure."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "The Graph", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "AlchemyPay", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "CasperLabs", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "FTX", "sector": "web3-crypto", "outcome": "shutdown" }
+      ]
+    },
+    "application": { "accepts_cold_inbound": true, "contact": "info@cgv.fund" },
+    "tags": ["web3", "crypto", "fund-of-funds", "research", "japan"],
+    "summary": {
+      "en": "Tokyo-HQ'd, research-driven Asia-based crypto fund of funds (est. 2022) investing in CryptoFunds and CryptoStudios, backed by family funds across Japan, Korea, China and Taiwan. Has offices in Singapore and Canada; early investments include The Graph, AlchemyPay and CasperLabs.",
+      "local": "2022年設立、東京本社のリサーチドリブンなアジア系暗号資産ファンド・オブ・ファンズ。CryptoFund／CryptoStudioに投資し、日本・韓国・中国・台湾のファミリーファンドで構成。シンガポール・カナダにも拠点。The Graph、AlchemyPay、CasperLabsなどに早期投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.cgv.fund/",
+        "title": "CGV — Value the insights",
+        "publisher": "CGV (official)",
+        "accessed": "2026-06-02",
+        "supports": "Tokyo HQ, fund of funds, family funds Japan/Korea/China/Taiwan, Singapore + Canada offices",
+        "quote": "An Asia-based fund of funds focused on investment in CryptoFund and CryptoStudio"
+      },
+      {
+        "url": "https://coinpost.jp/?p=375461",
+        "title": "Web3特化型投資企業CGVファンドパートナーが語る、グローバル戦略と投資戦略",
+        "publisher": "CoinPost",
+        "accessed": "2026-06-02",
+        "supports": "Research-driven investing, portfolio (FTX, The Graph, AlchemyPay, CasperLabs)",
+        "quote": "リサーチドリブンの投資"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year (2022, May 19) from official site; AUM/fund size not disclosed. FTX listed as a past investment (subsequently collapsed). CGV is sometimes described as a Japan-based crypto research+investment institution; treated as VC/FoF.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "jp-jaic-web3-crypto-funds",
+    "name": { "en": "JAIC (Web3 & Crypto Asset Funds)", "local": "日本アジア投資株式会社（JAIC）" },
+    "aka": ["Japan Asia Investment Co.", "JAIC-Web3ファンド", "JAICクリプトアセットファンド"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2025,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.jaic-vc.co.jp/",
+    "links": {
+      "other": ["https://www.jaic-vc.co.jp/business/pe_fund/index.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "JAIC-Web3ファンド (JAIC-Web3 Fund)", "vintage_year": 2025, "size": { "raw": "465百万円（2025年7月時点）", "usd": null, "currency": "JPY" } },
+        { "name": "JAICクリプトアセットファンド (JAIC Crypto Asset Fund)", "vintage_year": 2025, "size": { "raw": "2,480百万円（2025年9月時点）", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Established Japanese VC (JAIC) that launched two dedicated 2025 vehicles: the JAIC-Web3 Fund targeting domestic listed Web3 (NFT etc.) companies, and the JAIC Crypto Asset Fund targeting crypto-asset-related companies — enabled by Japan's 2025 LPS-law reform allowing crypto holdings."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["web3", "crypto", "nft", "listed", "jaic", "japan"],
+    "summary": {
+      "en": "Japan Asia Investment Co. (JAIC), a long-established Tokyo VC, formed two dedicated 2025 funds: the JAIC-Web3 Fund (¥465M as of Jul 2025) for domestic listed Web3/NFT companies, and the JAIC Crypto Asset Fund (¥2,480M as of Sep 2025) for crypto-asset companies — among the first to use Japan's reformed LPS rules.",
+      "local": "老舗VCの日本アジア投資（JAIC）が2025年に組成した2つの専門ファンド。Web3（NFT等）国内上場企業向けの「JAIC-Web3ファンド」（2025年7月時点 465百万円）と、暗号資産関連企業向けの「JAICクリプトアセットファンド」（2025年9月時点 2,480百万円）。改正LPS法を活用した先行事例。"
+    },
+    "sources": [
+      {
+        "url": "https://www.jaic-vc.co.jp/business/pe_fund/index.html",
+        "title": "運営ファンド｜JAIC",
+        "publisher": "Japan Asia Investment Co. (JAIC) — official",
+        "accessed": "2026-06-02",
+        "supports": "JAIC-Web3 Fund (¥465M, est 2025-02-26), JAIC Crypto Asset Fund (¥2,480M, est 2025-07-08)",
+        "quote": "465百万円（2025年7月時点）"
+      },
+      {
+        "url": "https://www.jaic-vc.co.jp/business/pe_fund/index.html",
+        "title": "運営ファンド｜JAIC",
+        "publisher": "Japan Asia Investment Co. (JAIC) — official",
+        "accessed": "2026-06-02",
+        "supports": "JAIC Crypto Asset Fund size and establishment date",
+        "quote": "2,480百万円（2025年9月時点）"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "JAIC is a generalist/PE VC; only its two 2025 Web3/crypto-dedicated funds are in scope. founded_year reflects these funds' 2025 vintages, not JAIC's corporate founding. USD equivalents not stated, left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "jp-infinity-ventures-crypto",
+    "name": { "en": "Infinity Ventures Crypto (IVC)", "local": "Infinity Ventures Crypto" },
+    "aka": ["IVC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Taiwan",
+    "hq_city": "Taipei / Tokyo",
+    "website": "https://www.ivcrypto.io/",
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" },
+      { "country": "Japan", "city": "Tokyo" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/infinity-ventures-crypto",
+      "other": ["https://www.ivcrypto.io/team/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$70M (Fund I)", "usd": 70000000, "currency": "USD" },
+      "funds": [
+        { "name": "IVC Fund I", "vintage_year": 2022, "size": { "raw": "$70 million", "usd": 70000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Asia", "Americas", "Global"],
+      "sector_focus": ["web3-crypto", "gaming", "ai-ml", "fintech"],
+      "thesis": "Web3 VC closely tied to Tokyo-HQ'd Headline Asia, founded Aug 2021. Backs Web3, GameFi, DeFi, digital entertainment, AI and infrastructure founders; first fund $70M closed Feb 2022 with Circle, Digital Currency Group and Animoca Brands as backers."
+    },
+    "track_record": {
+      "portfolio_count": "200+ (claimed; 78 at Fund I close)",
+      "co_investors": ["Circle", "Digital Currency Group", "Animoca Brands"]
+    },
+    "people": [
+      { "name": "Akio Tanaka", "role": "Co-founder & Partner (also Headline Asia)" },
+      { "name": "JT Law", "role": "Co-founder & Partner" },
+      { "name": "Ann Chien", "role": "Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["web3", "crypto", "gamefi", "defi", "headline-asia", "taipei", "tokyo"],
+    "summary": {
+      "en": "Web3/crypto VC founded August 2021 by members of Tokyo-HQ'd Headline Asia and others; HQ split Taipei/Tokyo. Closed a $70M first fund in February 2022 backed by Circle, Digital Currency Group and Animoca Brands, focused on Web3, GameFi, DeFi, AI and infrastructure.",
+      "local": "東京本社のHeadline Asiaのメンバーらが2021年8月に設立したWeb3・暗号資産VC。台北と東京に拠点。2022年2月に$70Mの1号ファンドをクローズし、Circle、Digital Currency Group、Animoca Brandsが出資。Web3、GameFi、DeFi、AI、インフラに注力。"
+    },
+    "sources": [
+      {
+        "url": "https://www.coindesk.com/business/2022/02/09/infinity-ventures-crypto-closes-70m-fund",
+        "title": "Infinity Ventures Crypto Closes $70M Fund",
+        "publisher": "CoinDesk",
+        "accessed": "2026-06-02",
+        "supports": "$70M first fund close Feb 9 2022, founded Aug 2021, Circle/DCG/Animoca backers, Taipei-based",
+        "quote": "raised $70 million to deploy to startups in Asia and the Americas in its first fund"
+      },
+      {
+        "url": "https://www.ivcrypto.io/team/",
+        "title": "Team — Infinity Ventures Crypto (IVC)",
+        "publisher": "IVC (official)",
+        "accessed": "2026-06-02",
+        "supports": "HQ Taipei | Tokyo, Headline Asia connection, partners",
+        "quote": "Taipei | Tokyo"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "IVC's fund vehicle and lead partner sit in Taipei (country recorded as Taiwan), but it is operationally tied to Tokyo-HQ'd Headline Asia and lists Tokyo as a co-HQ; included as part of Japan's Web3 ecosystem (light overlap; dedup later). '200+ investments' is a self-reported later figure (78 at Fund I close).",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  }
+]

@@ -1,0 +1,726 @@
+[
+  {
+    "id": "ca-bdc-deep-tech-venture-fund",
+    "name": { "en": "BDC Capital — Deep Tech Venture Fund" },
+    "aka": ["BDC Deep Tech Venture Fund", "Fonds pour les technologies profondes"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://www.bdc.ca/en/bdc-capital/venture-capital/funds/deep-tech-venture-fund",
+    "links": {
+      "other": ["https://www.bdc.ca/en/about/mediaroom/news-releases/bdc-capital-launches-million-deep-tech-venture-fund"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$200 million CAD", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Deep Tech Venture Fund", "vintage_year": 2021, "size": { "raw": "$200 million CAD", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$4–5 million average deal size", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "robotics", "ai-ml"],
+      "thesis": "Canada's largest VC fund dedicated entirely to deep tech, backing early-stage companies in quantum, photonics, electronics, foundational AI, advanced materials and robotics. The fund is closed to new investments and now supports its existing portfolio."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Xanadu", "sector": "quantum computing", "outcome": "active" },
+        { "company": "Nord Quantique", "sector": "quantum computing", "outcome": "active" },
+        { "company": "Haply Robotics", "sector": "robotics", "outcome": "active" },
+        { "company": "DarwinAI", "sector": "ai-ml", "outcome": "acquired" }
+      ]
+    },
+    "people": [
+      { "name": "Thomas Park", "role": "Partner (Fund lead)" }
+    ],
+    "summary": {
+      "en": "BDC Capital's $200M Deep Tech Venture Fund, launched in 2021, is Canada's largest VC vehicle dedicated entirely to deep tech — quantum, photonics, electronics, foundational AI and robotics. Now closed to new investments and focused on its existing portfolio.",
+      "local": "Le Fonds pour les technologies profondes de 200 M$ de BDC Capital, lancé en 2021, est le plus important fonds de capital de risque canadien entièrement consacré aux technologies profondes."
+    },
+    "sources": [
+      {
+        "url": "https://www.bdc.ca/en/bdc-capital/venture-capital/funds/deep-tech-venture-fund",
+        "title": "Deep Tech Venture Fund - BDC Capital",
+        "publisher": "BDC",
+        "accessed": "2026-06-02",
+        "supports": "fund size, stages, sector focus, status, team",
+        "quote": "$200 million fund ... Early-stage equity investments – Seed and Series A ... This fund is closed to new investments and now focused on supporting existing portfolio companies."
+      },
+      {
+        "url": "https://www.bdc.ca/en/about/mediaroom/news-releases/bdc-capital-launches-million-deep-tech-venture-fund",
+        "title": "BDC Capital launches $200 million Deep Tech Venture Fund",
+        "publisher": "BDC",
+        "accessed": "2026-06-02",
+        "supports": "launch year, sector verticals",
+        "quote": "The $200 million will be used to accelerate the development of transformational technologies in a number of sectors including quantum, electronics, photonics, foundational AI and related fields."
+      },
+      {
+        "url": "https://www.bdc.ca/en/articles-tools/blog/why-launched-canadas-largest-vc-fund-dedicated-entirely-deep-tech",
+        "title": "Why we launched Canada's largest VC fund dedicated entirely to deep tech",
+        "publisher": "BDC",
+        "accessed": "2026-06-02",
+        "supports": "deal size, fund lead",
+        "quote": "On average, deal sizes will be in the $4 to $5 million range. Thomas Park leads the Fund as Partner"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Headquarters listed as Montreal (BDC Capital VC HQ); fund is national in scope. Fund reported closed to new investments.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "ca-bdc-industrial-innovation-venture-fund",
+    "name": { "en": "BDC Capital — Industrial Innovation Venture Fund" },
+    "aka": ["I2VF", "Industrial Innovation Venture Fund II"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://www.bdc.ca/en/bdc-capital/venture-capital/funds/industrial-innovation-venture-fund",
+    "links": {
+      "other": ["https://www.bdc.ca/en/about/mediaroom/news-releases/bdc-launches-200m-fund-ii-to-power-canadas-next-wave-of-industrial-innovation"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Industrial Innovation Venture Fund I", "vintage_year": 2019, "size": { "raw": "$250 million CAD", "usd": null, "currency": "CAD" } },
+        { "name": "Industrial Innovation Venture Fund II", "vintage_year": 2025, "size": { "raw": "$200 million CAD", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "geo_focus": ["Canada"],
+      "sector_focus": ["robotics", "hardware-semiconductor", "ai-ml", "agritech", "deeptech", "climate-energy"],
+      "thesis": "Invests in early-stage, high-growth companies developing transformative solutions in advanced manufacturing, robotics, automation, applied AI, industrial software, ag-tech/food-tech, mining/extractive industries and (in Fund II) critical minerals."
+    },
+    "track_record": {
+      "portfolio_count": 20,
+      "notable_investments": [
+        { "company": "4AG Robotics", "sector": "robotics", "outcome": "active" },
+        { "company": "Kepler Communications", "sector": "spacetech", "outcome": "active" },
+        { "company": "Precision AI", "sector": "agritech", "outcome": "active" },
+        { "company": "MineSense", "sector": "deeptech", "outcome": "active" },
+        { "company": "Apera AI", "sector": "robotics", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Aditya Aggarwal", "role": "Managing Partner" },
+      { "name": "Geneviève Bouthillier", "role": "EVP, BDC Capital" }
+    ],
+    "summary": {
+      "en": "BDC Capital's Industrial Innovation Venture Fund backs Canadian companies building robotics, automation, applied AI and industrial/hardware tech for legacy industries. Fund I (2019) was $250M and backed 20 companies; Fund II ($200M) launched August 2025 with an added focus on critical minerals.",
+      "local": "Le Fonds d'innovation industrielle de BDC Capital appuie les entreprises canadiennes en robotique, automatisation, IA appliquée et technologies industrielles."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/bdc-commits-another-200-million-to-startups-building-tech-for-legacy-industries/",
+        "title": "BDC commits another $200 million to startups building tech for legacy industries",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "fund sizes, launch years, sector focus, portfolio, managing partner",
+        "quote": "Fund I: $250 million (launched 2019) ... Fund II: $200 million (announced August 2025) ... The first fund backed 20 companies, including: 4AG Robotics, Kepler Communications, Precision AI, MineSense, Nanoprecise, Acerta, BinSentry, and Maxa ... Aditya Aggarwal serves as managing partner."
+      },
+      {
+        "url": "https://www.bdc.ca/en/about/mediaroom/news-releases/bdc-launches-200m-fund-ii-to-power-canadas-next-wave-of-industrial-innovation",
+        "title": "BDC Launches $200M Fund II to Power Canada's Next Wave of Industrial Innovation",
+        "publisher": "BDC",
+        "accessed": "2026-06-02",
+        "supports": "Fund II size, sector focus",
+        "quote": "Fund II will target companies that are developing transformative solutions in areas such as robotics, automation, applied AI and industrial software."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I exact size ($250M) sourced from BetaKit; not stated in the press release fetched. HQ Montreal (BDC Capital VC HQ); national mandate.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "ca-risc-capital",
+    "name": { "en": "RiSC Capital" },
+    "aka": ["RiSC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.risc.capital/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/risc-capital",
+      "crunchbase": "https://pitchbook.com/profiles/investor/431310-70",
+      "other": ["https://www.risc.capital/faq", "https://www.risc.capital/news"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "RiSC Capital Fund I", "vintage_year": 2019, "size": { "raw": "$20 million target ($7M+ first close)", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$250,000 to $400,000 (per FAQ); $500K–$750K per deal (per 2019 launch)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["deeptech", "robotics", "hardware-semiconductor", "ai-ml"],
+      "thesis": "\"Engineers funding engineers\" — RiSC backs Canadian deep tech startups at pre-seed and seed, focusing on technically challenging ventures in robotics, drones, ML and advanced hardware that mainstream investors find hard to evaluate."
+    },
+    "track_record": {
+      "portfolio_count": "70+ investments over 20+ years (team track record)",
+      "notable_investments": [
+        { "company": "Skygauge Robotics", "sector": "robotics/drones", "outcome": "active" },
+        { "company": "Nexera Robotics", "sector": "robotics", "outcome": "active" },
+        { "company": "EECOMobility", "sector": "battery/cleantech", "outcome": "active" },
+        { "company": "ViewsML", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Astrus", "sector": "deeptech", "outcome": "active" },
+        { "company": "Peregrine", "sector": "deeptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Scott Pelton", "role": "Co-founder (formerly Round13 Capital)" },
+      { "name": "Colin Webster", "role": "Co-founder (formerly Hero Ventures)" },
+      { "name": "Scott Lake", "role": "Investor / Shopify co-founder (led first close)" }
+    ],
+    "application": {
+      "how_to_apply": "Submit the application form on risc.capital with a description of the technology, the problem it solves and the business model; the firm responds within two weeks.",
+      "accepts_cold_inbound": true
+    },
+    "summary": {
+      "en": "Toronto-based pre-seed/seed deep tech fund founded in 2019 by Scott Pelton and Colin Webster (backed by Shopify co-founder Scott Lake). 'Engineers funding engineers' — invests $250K–$750K in Canadian robotics, drones, ML and advanced-hardware startups."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/backed-by-shopify-co-founder-scott-lake-risc-capital-launches-new-early-stage-fund-focused-on-deep-tech/",
+        "title": "Backed by Shopify co-founder Scott Lake, RiSC Capital launches new early-stage fund focused on deep tech",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "founding year, fund size, check size, stages, founders",
+        "quote": "Founding Year: March 2019 ... First close: Just over $7 million; Target: $20 million ... Check Size: $500,000 to $750,000 per deal ... Pre-seed and seed ... Scott Pelton (co-founder, former general partner at Round 13 Capital), Colin Webster (co-founder, formerly of Hero Ventures), Scott Lake (Shopify co-founder, led first close)"
+      },
+      {
+        "url": "https://www.risc.capital/faq",
+        "title": "FAQs | RiSC Capital",
+        "publisher": "RiSC Capital",
+        "accessed": "2026-06-02",
+        "supports": "check size, geo focus, application process",
+        "quote": "$250,000 to $400,000, depending on the stage of your startup ... based in Canada ... review your application and get back to you within two weeks"
+      },
+      {
+        "url": "https://www.risc.capital/",
+        "title": "RiSC Capital | Deep Tech Venture Capital Fund",
+        "publisher": "RiSC Capital",
+        "accessed": "2026-06-02",
+        "supports": "portfolio companies, track record, focus",
+        "quote": "Over the last 20+ years we've made 70+ investments. We specialize in Canadian Deep Tech startups at the seed or pre-seed stage."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Two check-size figures exist: the 2019 launch cited $500K–$750K, while the current FAQ cites $250K–$400K; both retained. '70+ investments over 20+ years' reflects the founding team's combined track record, not a single fund's portfolio.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "ca-quantacet",
+    "name": { "en": "Quantacet" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Sherbrooke",
+    "website": "https://www.quantacet.com/en/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/quantacet",
+      "other": ["https://www.quantacet.com/en/news/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Quantacet Fund I", "vintage_year": 2024, "size": { "raw": "$20 million", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Canada", "Quebec"],
+      "sector_focus": ["deeptech", "hardware-semiconductor"],
+      "thesis": "Canada's first quantum-focused VC fund, investing pre-seed/seed in startups across quantum computing, communications, sensors and materials, plus technologies critical to the quantum supply chain. Targets ~20 companies over five years, mostly in Quebec."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Nord Quantique", "sector": "quantum computing", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Martin Laforest", "role": "Co-managing partner" },
+      { "name": "Chloé Archambault", "role": "Co-managing partner" },
+      { "name": "Ghyslain Goulet", "role": "Manager (ACET CEO / ACET Capital)" }
+    ],
+    "summary": {
+      "en": "Sherbrooke-based Quantacet is Canada's first quantum-focused VC fund. Its $20M Fund I (first close 2024) invests pre-seed/seed in quantum computing, communications, sensors and materials startups, mostly in Quebec, with $10M from Investissement Québec.",
+      "local": "Basé à Sherbrooke, Quantacet est le premier fonds de capital de risque canadien dédié aux technologies quantiques. Son fonds de 20 M$ (première clôture 2024) investit en préamorçage et amorçage."
+    },
+    "sources": [
+      {
+        "url": "https://thequantuminsider.com/2023/12/06/quantacet-closes-new-20-million-fund-for-quantum-technology-startups/",
+        "title": "Quantacet Closes New $20 Million Fund For Quantum Technology Startups",
+        "publisher": "The Quantum Insider",
+        "accessed": "2026-06-02",
+        "supports": "fund size, focus, stages, managers, LP",
+        "quote": "$20 million (first closing announced April 12, 2024) ... Investissement Québec: $10 million ... Pre-seed and seed ... quantum computing, communications, sensors, and materials, as well as technologies critical to the quantum industry supply chain ... ~20 companies over 5 years ... Martin Laforest, Chloé Archambault, Ghyslain Goulet"
+      },
+      {
+        "url": "https://www.quantacet.com/en/",
+        "title": "Specialized venture capital fund for quantum startups | Quantacet",
+        "publisher": "Quantacet",
+        "accessed": "2026-06-02",
+        "supports": "first quantum-focused VC in Canada, Sherbrooke location, portfolio (Nord Quantique)",
+        "quote": "Quantacet is Canada's first quantum-focused venture capital firm ... located at the heart of DistriQ, Sherbrooke's Quantum Innovation Zone ... one of Nord Quantique's early backers"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2023 (announced Dec 2023), first close of $20M fund April 2024. Co-managed with ACET Capital.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "ca-quantum-valley-investments",
+    "name": { "en": "Quantum Valley Investments" },
+    "aka": ["QVI"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Waterloo",
+    "website": "https://quantumvalleyinvestments.com/",
+    "links": {
+      "other": ["https://quantumvalleyinvestments.com/about-qvi/timeline/", "https://www.prnewswire.com/news-releases/mike-lazaridis-and-doug-fregin-unveil-100-million-quantum-valley-fund-focusing-on-commercializing-quantum-technology-breakthroughs-199066451.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Quantum Valley Investment Fund", "vintage_year": 2013, "size": { "raw": "$100 million", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "geo_focus": ["Canada"],
+      "sector_focus": ["deeptech", "hardware-semiconductor"],
+      "thesis": "Provides commercialization funding, expertise and support for researchers and entrepreneurs whose breakthroughs in Quantum Information Science can lead to new commercializable technologies — anchoring Waterloo's 'Quantum Valley' alongside IQC and the Perimeter Institute."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Cognitive Systems Corp.", "sector": "wireless/sensing", "outcome": "active" },
+        { "company": "ISARA Corp.", "sector": "quantum-safe cryptography", "outcome": "active" },
+        { "company": "High Q Technologies", "sector": "deeptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Mike Lazaridis", "role": "Co-founder (BlackBerry co-founder)" },
+      { "name": "Doug Fregin", "role": "Co-founder (BlackBerry co-founder)" }
+    ],
+    "summary": {
+      "en": "Waterloo-based Quantum Valley Investments is a $100M private fund founded in 2013 by BlackBerry co-founders Mike Lazaridis and Doug Fregin to commercialize quantum information science breakthroughs, anchoring the 'Quantum Valley' cluster."
+    },
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/mike-lazaridis-and-doug-fregin-unveil-100-million-quantum-valley-fund-focusing-on-commercializing-quantum-technology-breakthroughs-199066451.html",
+        "title": "Mike Lazaridis and Doug Fregin Unveil $100 Million Quantum Valley Fund",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-02",
+        "supports": "founding year, founders, fund size, focus",
+        "quote": "On March 19, 2013, Mike Lazaridis and Doug Fregin, who together founded BlackBerry, announced that they established Quantum Valley Investments, a $100 million private fund that provides financial and intellectual capital for the further development and commercialization of breakthroughs in Quantum Information Science."
+      },
+      {
+        "url": "https://quantumvalleyinvestments.com/",
+        "title": "Quantum Valley Investments - Waterloo",
+        "publisher": "Quantum Valley Investments",
+        "accessed": "2026-06-02",
+        "supports": "HQ, thesis, portfolio companies",
+        "quote": "The Quantum Valley Investment Fund provides strategic capital, business development support, and technical guidance to researchers and entrepreneurs whose breakthroughs in Quantum Information Science show strong potential for commercialization."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund founded 2013 with $100M; current deployment cadence not disclosed. Portfolio companies from official site.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "ca-boreal-ventures",
+    "name": { "en": "Boreal Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://reseaucapital.com/en/members/boreal-ventures/",
+    "links": {
+      "other": ["https://betakit.com/boreal-ventures-launches-26-million-fund-investing-in-quebecs-early-stage-deep-tech-startups/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Boreal Ventures Fund I", "vintage_year": 2021, "size": { "raw": "$26 million", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Canada", "Quebec"],
+      "sector_focus": ["deeptech", "ai-ml", "healthtech", "robotics", "hardware-semiconductor"],
+      "thesis": "Quebec's first VC fund dedicated specifically to deep tech, investing pre-seed/seed in startups in AI, medtech, Industry 4.0 (manufacturing/robotics) and connected objects — many emerging from the Centech incubator."
+    },
+    "people": [
+      { "name": "David Charbonneau", "role": "Managing Partner" }
+    ],
+    "summary": {
+      "en": "Montreal-based Boreal Ventures, partnered with the Centech incubator, launched a $26M Fund I in 2021 — Quebec's first VC fund dedicated to deep tech. It invests pre-seed/seed in AI, medtech, Industry 4.0 and connected objects.",
+      "local": "Basé à Montréal et associé à l'incubateur Centech, Boreal Ventures a lancé un fonds de 26 M$ en 2021 — le premier fonds de capital de risque québécois dédié aux technologies profondes."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/boreal-ventures-launches-26-million-fund-investing-in-quebecs-early-stage-deep-tech-startups/",
+        "title": "Boreal Ventures launches $26 million fund investing in Québec's early-stage deep tech startups",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "fund size, launch year, stages, sector focus, managing partner, LPs",
+        "quote": "Fund Size: $26 million CAD ... Launch Year: 2021 ... Pre-seed and seed ... Deep tech, including AI, medtech, industry 4.0, and connected objects ... David Charbonneau, managing partner ... Investors/LPs: Centech, Government of Québec (via Investissement Québec), Teralys Capital, Desjardins Capital, BDC Capital, Hewitt Group, École de technologie supérieure"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "First close $26M reported as full Fund I in some sources. Described as Quebec's first deep-tech-dedicated VC fund.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "ca-tandemlaunch",
+    "name": { "en": "TandemLaunch" },
+    "type": "venture-studio",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://www.tandemlaunch.com/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/tandemlaunch",
+      "other": ["https://betakit.com/tandemlaunch-closes-37-million-fund-iv-to-create-and-back-deep-tech-startups/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "TandemLaunch Ventures Fund IV", "vintage_year": 2025, "size": { "raw": "$37 million+ CAD", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Canada", "Quebec"],
+      "sector_focus": ["deeptech", "ai-ml", "hardware-semiconductor", "robotics", "climate-energy"],
+      "thesis": "A startup foundry and seed fund that creates early-stage deep tech ventures from academic IP in AI, computer vision, IoT, advanced sensors, advanced materials and sustainability. Plans to launch ~15 new companies through Fund IV."
+    },
+    "track_record": {
+      "portfolio_count": "30+ ventures created",
+      "notable_investments": [
+        { "company": "C2RO Cloud Robotics", "sector": "robotics/ai", "outcome": "active" },
+        { "company": "Algolux", "sector": "ai-ml/computer-vision", "outcome": "acquired" },
+        { "company": "Fluent.ai", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Helge Seetzen", "role": "Founder, Managing Partner & CEO" },
+      { "name": "Émilie Boutros", "role": "Managing Partner" }
+    ],
+    "summary": {
+      "en": "Montreal venture studio and seed fund founded in 2010 that builds deep tech companies from academic IP in AI, computer vision, IoT, advanced sensors and materials. Has created 30+ ventures (valued $700M+) and closed Fund IV at $37M+ CAD.",
+      "local": "Studio de création d'entreprises et fonds d'amorçage montréalais fondé en 2010, qui bâtit des entreprises en technologies profondes à partir de PI académique."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/tandemlaunch-closes-37-million-fund-iv-to-create-and-back-deep-tech-startups/",
+        "title": "TandemLaunch closes $37-million Fund IV to create and back deep tech startups",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "fund size, founding year, type, sector focus, leadership, track record, LPs",
+        "quote": "closed its fourth fund for early-stage deep technology startups at more than $37 million CAD ... Founding Year: 2010 ... artificial intelligence (AI), computer vision, internet of things, sustainability, and advanced sensors ... Helge Seetzen (Founder, Managing Partner, CEO), Émilie Boutros (Managing Partner) ... has created more than 30 successful ventures collectively valued at over $700 million ... BDC Capital and Fonds de solidarité FTQ"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Classified as venture-studio (its primary model is company creation) with a seed fund; subtype micro-vc. Fund IV final close $37M+ CAD (2025).",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "ca-innovobot-resonance-ventures",
+    "name": { "en": "Innovobot Resonance Ventures" },
+    "aka": ["IRV", "Innovobot"],
+    "type": "vc",
+    "subtypes": ["venture-studio"],
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://www.innovobot.com/",
+    "links": {
+      "other": ["https://www.innovobot.com/irv-fund/", "https://betakit.com/innovobot-holds-initial-close-of-targeted-40-million-fund-to-invest-in-deep-tech-for-good/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Innovobot Resonance Ventures Fund", "vintage_year": null, "size": { "raw": "$40 million CAD target ($14M first close)", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$500,000 to $2 million", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["deeptech", "robotics", "hardware-semiconductor", "ai-ml", "impact"],
+      "thesis": "\"Deep tech for good\" — leads seed rounds in early-stage Canadian deep tech startups (human-machine interface, robotics, AI, IoT, advanced materials, photonics) that have a positive social or environmental impact."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Carbicrete", "sector": "climate/materials", "outcome": "active" },
+        { "company": "Independent Robotics", "sector": "robotics", "outcome": "active" },
+        { "company": "The Haptics Company", "sector": "hardware/HMI", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Zoya Shchupak", "role": "Managing Partner, IRV" },
+      { "name": "Mario Venditti", "role": "Founding Partner (Innovobot CEO)" },
+      { "name": "Danny Grant", "role": "Founding Partner (Innovobot CTO)" },
+      { "name": "Sylvain Carle", "role": "General Partner (tech-for-good lead)" }
+    ],
+    "summary": {
+      "en": "Montreal-based Innovobot Resonance Ventures (IRV) is the VC arm of the Innovobot innovation platform. Its 'deep tech for good' fund targets $40M CAD ($14M first close) and leads $500K–$2M seed rounds in robotics, HMI, AI and advanced-materials startups with positive impact.",
+      "local": "Basé à Montréal, Innovobot Resonance Ventures (IRV) est le bras d'investissement de la plateforme Innovobot. Son fonds « deep tech for good » vise 40 M$ CAD et investit en amorçage."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/innovobot-holds-initial-close-of-targeted-40-million-fund-to-invest-in-deep-tech-for-good/",
+        "title": "Innovobot holds initial close of targeted $40 million fund to invest in 'deep tech for good'",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "fund target, first close, check size, stages, leadership, thesis",
+        "quote": "Fund Target: $40 million CAD ... First Close: $14 million CAD ... Check Size: $500,000 to $2 million ... Seed-stage, with follow-on reserves for Series A ... Zoya Shchupak (managing partner), Mario Venditti (founding partner), Danny Grant (founding partner), Sylvain Carle (general partner) ... We only invest in companies that have a positive impact on society or the environment."
+      },
+      {
+        "url": "https://www.innovobot.com/news-insights/news/the-eureka-fund-awards-a-3-million-investment-mandate-to-innovobot-resonance-ventures/",
+        "title": "The Eurêka Fund awards a $3 million investment mandate to Innovobot Resonance Ventures",
+        "publisher": "Innovobot",
+        "accessed": "2026-06-02",
+        "supports": "sector focus, Eurêka mandate, Quebec IP commercialization",
+        "quote": "Innovobot combines technical expertise in advanced technologies (including robotics, human-machine interfaces, AI, IoT, photonics and advanced materials) ... a $3 million investment mandate"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Leadership differs across sources: BetaKit and IRV fund page list Zoya Shchupak as managing partner; the main Innovobot site lists Neha Khera as IRV Managing Partner — both retained note. Founded year of the IRV fund not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "ca-greensky-ventures",
+    "name": { "en": "GreenSky Ventures" },
+    "aka": ["GreenSky Capital"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2010,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://greensky.vc/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/greenskyventures",
+      "crunchbase": "https://www.crunchbase.com/organization/greensky-capital",
+      "other": ["https://greensky.vc/greensky-ventures-fund-vi-final-close/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "GreenSky Ventures Fund VI", "vintage_year": 2025, "size": { "raw": "$23.5 million CAD", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$1–2 million (lead investments)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "saas-enterprise", "ai-ml"],
+      "thesis": "Generalist-in-mandate but with a strong deep tech track record, backing IP-rich, technically complex, science-based ventures plus SaaS, hardware-enabled platforms and applied AI; leads seed/Series A with $1–2M cheques."
+    },
+    "track_record": {
+      "portfolio_count": "32 companies across six funds",
+      "notable_investments": [
+        { "company": "Edgecom Energy", "sector": "energy/hardware", "outcome": "active" },
+        { "company": "BioAlert Solutions", "sector": "hardware/sensing", "outcome": "active" },
+        { "company": "Symboticware", "sector": "industrial IoT", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Jeff Brunet", "role": "Managing Partner (joined Dec 2024)" }
+    ],
+    "summary": {
+      "en": "Toronto-based GreenSky Ventures (est. 2010) leads $1–2M seed/Series A cheques into early-stage Canadian B2B startups, with a strong deep tech and hardware-enabled track record. Fund VI closed at $23.5M CAD across a portfolio of 32 companies built over six funds."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/greensky-closes-23-5-million-sixth-fund-with-help-from-new-managing-partner-jeff-brunet/",
+        "title": "GreenSky closes $23.5-million sixth fund with help from new managing partner Jeff Brunet",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "fund size, founding year, stages, check size, managing partner",
+        "quote": "Fund Size: $23.5 million CAD ... Founding Year: 2010 ... Headquarters: Toronto ... Check Size: $1-2 million (lead investments) ... Seed and Series A ... Jeff Brunet, managing partner (joined December 2024)"
+      },
+      {
+        "url": "https://greensky.vc/greensky-ventures-fund-vi-final-close/",
+        "title": "GreenSky Ventures – Fund VI Final Close",
+        "publisher": "GreenSky Ventures",
+        "accessed": "2026-06-02",
+        "supports": "portfolio count, deep tech/hardware focus, portfolio companies",
+        "quote": "32 early-stage Canadian tech companies built across six funds ... Edgecom Energy: hardware/software platform that optimizes energy usage ... BioAlert Solutions: hardware-based system for real-time, on-site detection of waterborne pathogens"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Generalist B2B fund with a significant deep tech / hardware allocation; included for its explicit deep-tech/hardware focus. A widely cited 60% deep tech / 40% software split was not confirmed verbatim in fetched sources, so omitted.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "ca-celesta-capital-canada",
+    "name": { "en": "Celesta Capital (Canada)" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://www.celesta.vc/",
+    "offices": [
+      { "country": "United States", "city": "San Jose (Silicon Valley)" },
+      { "country": "India", "city": "Bengaluru" },
+      { "country": "Canada", "city": "Montreal" }
+    ],
+    "links": {
+      "other": ["https://www.celesta.vc/about", "https://betakit.com/us-deep-tech-vc-celesta-capital-adds-bdc-alum-charles-lesperance-as-canadian-partner/"]
+    },
+    "capital": {
+      "aum": { "raw": "$1.1 billion USD", "usd": 1100000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus"],
+      "geo_focus": ["United States", "Canada", "India"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "ai-ml"],
+      "thesis": "Global deep tech VC investing Series A–C in semiconductors, AI, sensors, advanced materials, intelligent systems and next-gen infrastructure. Expanding into Canada via its first Canada-based partner in Montreal."
+    },
+    "track_record": {
+      "portfolio_count": "106 companies",
+      "notable_investments": [
+        { "company": "Stathera", "sector": "semiconductor/MEMS", "outcome": "active" },
+        { "company": "Quartic.ai", "sector": "ai-ml/industrial", "outcome": "active" },
+        { "company": "Nuvia", "sector": "semiconductor", "outcome": "acquired" },
+        { "company": "Habana Labs", "sector": "ai-ml/semiconductor", "outcome": "acquired" }
+      ]
+    },
+    "people": [
+      { "name": "Charles Lespérance", "role": "Partner, Canada (Montreal; ex-BDC Deep Tech Venture Fund)" }
+    ],
+    "summary": {
+      "en": "Celesta Capital is a global deep tech VC (founded 2013, HQ Silicon Valley, $1.1B AUM) that opened a Montreal presence with its first Canada-based partner, Charles Lespérance (ex-BDC). It invests Series A–C in semiconductors, AI, sensors and advanced materials, with Canadian portfolio companies Stathera and Quartic.ai.",
+      "local": "Celesta Capital est un fonds mondial de capital de risque en technologies profondes ayant établi une présence à Montréal avec son premier partenaire basé au Canada."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/us-deep-tech-vc-celesta-capital-adds-bdc-alum-charles-lesperance-as-canadian-partner/",
+        "title": "US deep tech VC Celesta Capital adds BDC alum Charles Lespérance as Canadian partner",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "founding year, HQ, AUM, Canadian partner, stages, sectors, portfolio",
+        "quote": "Founded: 2013 ... Headquarters: Silicon Valley ... Assets Under Management: $1.1 billion USD ... Portfolio Size: 106 companies ... Charles Lespérance joined as the firm's first Canada-based partner, operating from Montréal ... Series A to Series C stage companies developing deep tech solutions in semiconductors, AI, sensors, and advanced materials ... Canadian Portfolio Companies: Stathera and Quartic.ai ... Former BDC Capital partner who managed the $200-million CAD Deep Tech Venture Fund"
+      },
+      {
+        "url": "https://www.celesta.vc/",
+        "title": "Celesta Capital | Global Deep Tech VC",
+        "publisher": "Celesta Capital",
+        "accessed": "2026-06-02",
+        "supports": "AUM, semiconductor focus, Montreal office",
+        "quote": "Celesta Capital is a global deep tech venture capital firm headquartered in Silicon Valley, with offices in Bengaluru, India and Montréal, Canada, and manages $1.1B in AUM across 100+ investments in semiconductors"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Celesta is HQ'd in Silicon Valley (US firm) with a Montreal office and a Canada-based partner; included because of its active, dedicated Canadian deep-tech/semiconductor presence. Light overlap with US segment expected.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "ca-venturelab-hardware-catalyst-initiative",
+    "name": { "en": "ventureLAB — Hardware Catalyst Initiative" },
+    "aka": ["HCI", "ventureLAB HardTech"],
+    "type": "incubator",
+    "subtypes": ["government-program", "angel-network"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Markham",
+    "website": "https://www.venturelab.ca/programs/hardware-catalyst-initiative",
+    "links": {
+      "other": ["https://www.venturelab.ca/hardtech-investor-network", "https://www.businesswire.com/news/home/20250228002448/en/ventureLAB-Marks-Five-Years-of-the-Hardware-Catalyst-Initiative-Canadas-First-and-Only-Incubator-for-Hardware-and-Semiconductor-Startups"]
+    },
+    "program": {
+      "length_weeks": 104,
+      "cohort_size": null,
+      "equity_taken_pct": 0,
+      "investment": { "raw": "No direct cash investment; access to $12M+ prototyping & testing labs", "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Markham, Ontario",
+      "perks": ["$12M+ prototyping and testing labs", "mentorship", "investor access via HardTech Investor Network"],
+      "eligibility": "Canadian-incorporated company founded within 5 years, under $5M revenue, 99 or fewer employees, co-founding team of 2+, building a novel electronic product (custom semiconductor, sensor, silicon IP or embedded hardware).",
+      "acceptance_rate": null
+    },
+    "strategy": {
+      "geo_focus": ["Canada"],
+      "sector_focus": ["hardware-semiconductor", "deeptech"],
+      "thesis": "Canada's first and only incubator dedicated to hardware and semiconductor startups, providing prototyping/testing labs, mentorship and investor access (no equity taken). Paired with the HardTech Investor Network, Canada's only hardware/deep-tech-focused investor network."
+    },
+    "track_record": {
+      "portfolio_count": "95 startups supported",
+      "notable_investments": []
+    },
+    "summary": {
+      "en": "ventureLAB's Hardware Catalyst Initiative (Markham, ON) is Canada's first and only incubator dedicated to hardware and semiconductor startups. It takes no equity, gives access to $12M+ prototyping labs, and has supported 95 startups that created 728 jobs and raised $82M. Its HardTech Investor Network (launched 2023) is Canada's only hardware/deep-tech investor network."
+    },
+    "sources": [
+      {
+        "url": "https://www.venturelab.ca/programs/hardware-catalyst-initiative",
+        "title": "Hardware Catalyst Initiative | ventureLAB",
+        "publisher": "ventureLAB",
+        "accessed": "2026-06-02",
+        "supports": "type, no equity, labs, eligibility, program length, sector focus",
+        "quote": "Canada's only hardware and semiconductor-focused lab & incubator ... no equity requirement to eligible companies ... $12M+ Prototyping and Testing Labs ... novel electronic product involving advanced elements such as a custom semiconductor, sensor, silicon-based IP, or embedded system hardware ... Company founded within 5 years, under $5M revenue, 99 or fewer employees"
+      },
+      {
+        "url": "https://www.businesswire.com/news/home/20250228002448/en/ventureLAB-Marks-Five-Years-of-the-Hardware-Catalyst-Initiative-Canadas-First-and-Only-Incubator-for-Hardware-and-Semiconductor-Startups",
+        "title": "ventureLAB Marks Five Years of the Hardware Catalyst Initiative",
+        "publisher": "Business Wire",
+        "accessed": "2026-06-02",
+        "supports": "five-year milestone (launched 2020), 95 startups, 728 jobs, $82M raised, first/only incubator",
+        "quote": "ventureLAB Marks Five Years of the Hardware Catalyst Initiative, Canada's First and Only Incubator for Hardware and Semiconductor Startups"
+      },
+      {
+        "url": "https://www.venturelab.ca/hardtech-investor-network",
+        "title": "HardTech Investor Network",
+        "publisher": "ventureLAB",
+        "accessed": "2026-06-02",
+        "supports": "HardTech Investor Network, only hardware/deep-tech investor network",
+        "quote": "the only hardware and deep-tech focused investor network supporting pre-seed and seed stage startups in the country"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Program length up to 24 months (104 weeks max) per official page. 95 startups / 728 jobs / $82M raised figures from search summaries of the five-year and earlier releases; the Business Wire five-year page could not be fully fetched (403) but the headline confirms 'first and only.' Launched 2019/2020 (five-year milestone Feb 2025). Equity taken: none. Not a capital fund itself but the segment's flagship hardware/semiconductor incubator with an attached investor network.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  }
+]

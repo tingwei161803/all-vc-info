@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ca-radical-ventures",
+    "name": { "en": "Radical Ventures" },
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://radical.vc/",
+    "offices": [
+      { "country": "Canada", "city": "Toronto" },
+      { "country": "United States", "city": "San Francisco" },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/radical-ventures",
+      "other": ["https://radical.vc/about/"]
+    },
+    "capital": {
+      "aum": { "raw": "approx US$1.8 billion (committed across funds, as of Oct 2025)", "usd": 1800000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund (early-stage, 2023)", "vintage_year": 2023, "size": { "raw": "US$550 million", "usd": 550000000, "currency": "USD" } },
+        { "name": "Growth Fund (fifth fund overall)", "vintage_year": 2024, "size": { "raw": "US$800 million", "usd": 800000000, "currency": "USD" } },
+        { "name": "Early-stage Fund (fourth early-stage / sixth overall)", "vintage_year": 2025, "size": { "raw": "US$650 million (C$907 million)", "usd": 650000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "growth"],
+      "geo_focus": ["Global", "Canada", "United States", "United Kingdom"],
+      "sector_focus": ["ai-ml", "deeptech"],
+      "lead_or_follow": "both",
+      "thesis": "Venture capital firm dedicated exclusively to artificial intelligence, backing founders applying AI to transform major industries across science, infrastructure, and enterprise."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Cohere", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Waabi", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Xanadu", "sector": "deeptech", "outcome": "active" },
+        { "company": "Untether AI", "sector": "hardware-semiconductor", "outcome": "active" },
+        { "company": "Writer", "sector": "ai-ml", "outcome": "active" }
+      ],
+      "co_investors": ["CPP Investments", "PSP Investments", "TD Bank Group", "Wittington Investments"]
+    },
+    "people": [
+      { "name": "Jordan Jacobs", "role": "Co-Founder & Managing Partner" },
+      { "name": "Tomi Poutanen", "role": "Co-Founder" },
+      { "name": "Aaron Brindle", "role": "Partner" },
+      { "name": "Salim Teja", "role": "Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["ai-specialist", "ai-native", "deep-tech"],
+    "summary": {
+      "en": "Toronto-based venture capital firm founded in 2017, dedicated exclusively to artificial intelligence. Manages roughly US$1.8 billion across early-stage and growth funds (US$650M early-stage fund closed 2025; US$800M growth fund 2024), with offices in Toronto, San Francisco and London. Early backer of Cohere, Waabi and Xanadu."
+    },
+    "sources": [
+      {
+        "url": "https://www.investpsp.com/en/news/radical-ventures-launches-usd-350-million-vc-fund-focused-on-artificial-intelligence/",
+        "title": "Radical Ventures Launches USD $350 Million VC Fund focused on Artificial Intelligence",
+        "publisher": "PSP Investments",
+        "accessed": "2026-06-02",
+        "supports": "founded 2017, Toronto HQ, founders, AI focus",
+        "quote": "Founded: 2017 ... Headquarters: Toronto, Canada ... entrepreneurs applying deep tech to transform massive industries, with primary emphasis on artificial intelligence"
+      },
+      {
+        "url": "https://betakit.com/radical-ventures-holds-650-million-usd-final-close-for-new-early-stage-ai-fund/",
+        "title": "Radical Ventures holds $650-million USD final close for new early-stage AI fund",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "US$650M fund, fund count, CPPIB, prior funds",
+        "quote": "Size: $650 million USD ($907 million CAD) ... Fund number: Fourth early-stage fund; sixth overall ... 2023 early-stage fund: $550 million USD ... 2024 growth fund: $800-million USD growth fund (fifth fund overall)"
+      },
+      {
+        "url": "https://betakit.com/radical-ventures-launches-800-million-usd-ai-growth-fund/",
+        "title": "Radical Ventures launches $800-million USD AI growth fund",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "US$800M growth fund, total AUM US$1.8B, offices, portfolio",
+        "quote": "Fund Size: $800 million USD ... Total AUM: $1.8 billion (after closing this fund) ... Offices: Toronto (headquarters), San Francisco, London ... Cohere ... Waabi ... Untether AI ... Xanadu"
+      },
+      {
+        "url": "https://radical.vc/",
+        "title": "Home - Radical Ventures",
+        "publisher": "Radical Ventures",
+        "accessed": "2026-06-02",
+        "supports": "AI-exclusive thesis, portfolio",
+        "quote": "Investing in people using artificial intelligence to shape the future of how we live, work and play"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM figures vary by source (one secondary list cited 'over US$2.5 billion'); used BetaKit's US$1.8B committed-capital figure tied to the 2024 growth-fund close. Founding year, fund sizes, and offices corroborated across PSP, BetaKit, and the firm site.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "ca-georgian",
+    "name": { "en": "Georgian" },
+    "aka": ["Georgian Partners"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2008,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://georgian.io/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/georgian",
+      "crunchbase": "https://www.crunchbase.com/organization/georgian-partners"
+    },
+    "capital": {
+      "aum": { "raw": "approx $5.7B AUM (as of September 30, 2025)", "usd": 5700000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "US$20 million to US$75 million", "usd_min": 20000000, "usd_max": 75000000 },
+      "geo_focus": ["United States", "Canada", "Europe", "Israel"],
+      "sector_focus": ["ai-ml", "saas-enterprise"],
+      "lead_or_follow": "lead",
+      "thesis": "Thesis-driven growth-equity firm investing in high-growth B2B software companies leveraging applied AI; operates an in-house AI Lab of 20+ ML engineers and data scientists that works with portfolio companies on production AI deployment."
+    },
+    "track_record": {
+      "portfolio_count": "80+",
+      "notable_investments": [
+        { "company": "Shopify", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "Slack", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Replit", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Xanadu", "sector": "deeptech", "outcome": "active" },
+        { "company": "Top Hat", "sector": "edtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Justin LaFayette", "role": "Co-Founder & Managing Partner / Lead Investor" },
+      { "name": "Simon Chong", "role": "Co-Founder & Managing Partner" },
+      { "name": "John Berton", "role": "Co-Founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["applied-ai", "growth-equity", "b2b-software"],
+    "summary": {
+      "en": "Toronto-based growth-equity firm founded in 2008, focused on high-growth B2B software companies applying AI. Manages roughly US$5.7 billion AUM (Sept 2025), typically writing US$20M-75M checks at Series B and later. Backed Shopify, Slack and Replit; runs an in-house AI Lab supporting portfolio companies."
+    },
+    "sources": [
+      {
+        "url": "https://superscout.co/investor/georgian",
+        "title": "Georgian: The Early Stage Founder's Guide",
+        "publisher": "SuperScout",
+        "accessed": "2026-06-02",
+        "supports": "founded 2008, Toronto, check size, AI Lab, portfolio",
+        "quote": "Founded: 2008 ... Headquarters: Toronto ... typically writes checks ranging from $20 million to $75 million ... an in-house AI Lab with over 20 machine learning engineers and data scientists ... Shopify ... Slack ... Replit"
+      },
+      {
+        "url": "https://georgian.io/",
+        "title": "Georgian | Growth Equity for AI",
+        "publisher": "Georgian",
+        "accessed": "2026-06-02",
+        "supports": "AUM, AI focus, applied AI thesis",
+        "quote": "Georgian manages $5.7B AUM (as of September 30, 2025) and has invested in more than 80 companies ... thesis areas of Applied AI"
+      },
+      {
+        "url": "https://betakit.com/georgian-partners-raises-first-canadian-venture-fund-valued-at-over-1-billion-cad/",
+        "title": "Georgian Partners raises first Canadian venture fund valued at over $1 billion CAD",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "founders, founding year, applied AI focus",
+        "quote": "Georgian was founded by entrepreneurs Justin LaFayette and Simon Chong and financier John Berton in 2008 ... funding later-stage technology companies that apply artificial intelligence (AI) to solve business problems"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Some sources additionally name Andrew D'Souza as a co-founder; BetaKit primary reporting names LaFayette, Chong and Berton as the 2008 founders, used here. AUM figure US$5.7B per firm site (Sept 30 2025); an institutional profile cited ~US$5.6B as of Dec 31 2023.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "ca-venture-scientist-fund",
+    "name": { "en": "Venture Scientist Fund", "local": "Fonds Venture Scientist" },
+    "aka": ["Mila x Inovia Venture Scientist Fund"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2026,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montréal",
+    "website": "https://mila.quebec/en/news/mila-and-inovia-capital-are-partnering-to-launch-the-venture-scientist-fund-propelling-canadas",
+    "links": {
+      "other": [
+        "https://www.inovia.vc/inovia-conversations/launching-of-the-venture-scientist-fund-with-mila-propelling-canadas-ai-research-into-global-tech-champions/"
+      ]
+    },
+    "capital": {
+      "current_fund": { "raw": "Target US$100M (C$125M)", "usd": 100000000, "currency": "USD" },
+      "funds": [
+        { "name": "Venture Scientist Fund", "vintage_year": 2026, "size": { "raw": "Target US$100M (C$125M)", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Canada"],
+      "sector_focus": ["ai-ml", "deeptech"],
+      "thesis": "Early-stage fund created to commercialize frontier AI research from Canada's national AI institutes (Mila, Amii, Vector) and leading universities into AI-native companies, engaging at the earliest stages of company formation — often before a startup formally exists. Plans to invest in 55+ AI-native companies. Addresses that Canada has ~10% of top global AI talent but captures <2% of global AI VC."
+    },
+    "track_record": {
+      "portfolio_count": "target 55+"
+    },
+    "people": [
+      { "name": "Stéphane Marceau", "role": "Fund Manager (Mila Managing Director, AI Ventures)" },
+      { "name": "Valérie Pisano", "role": "President & CEO, Mila" },
+      { "name": "Chris Arsenault", "role": "Founder & CEO, Inovia Capital" },
+      { "name": "Marc Ghobriel", "role": "Inovia lead (Executive Director, Capital & Strategic Partnerships)" }
+    ],
+    "application": { "accepts_cold_inbound": false, "how_to_apply": "Sourced through the National AI Institutes' (Amii, Mila, Vector) venture creation programs and partner university research groups." },
+    "tags": ["ai-native", "university-spinout", "research-commercialization"],
+    "summary": {
+      "en": "Early-stage AI venture fund launched January 2026 by Mila (Quebec AI Institute) and Inovia Capital, targeting US$100M (C$125M) to back 55+ AI-native companies spun out of Canada's national AI institutes (Mila, Amii, Vector) and top universities. Managed by Stéphane Marceau as a separate legal entity.",
+      "local": "Fonds de capital-risque en phase d'amorçage lancé en janvier 2026 par Mila et Inovia Capital, visant 100 M$ US pour soutenir plus de 55 entreprises « AI-native » issues des instituts de recherche en IA et des universités du Canada."
+    },
+    "sources": [
+      {
+        "url": "https://mila.quebec/en/news/mila-and-inovia-capital-are-partnering-to-launch-the-venture-scientist-fund-propelling-canadas",
+        "title": "Mila and Inovia Capital are Partnering to Launch the Venture Scientist Fund",
+        "publisher": "Mila",
+        "accessed": "2026-06-02",
+        "supports": "US$100M target, 55+ companies, focus, partners, thesis",
+        "quote": "The fund targets \"USD $100M\" with plans to invest in \"about 55+ AI-native companies\" ... foundational AI, as well as deep tech, and next-generation computational and physical infrastructure ... Canada represents roughly 10% of global top AI research talent but captures less than 2% of global AI venture capital investment"
+      },
+      {
+        "url": "https://betakit.com/mila-and-inovia-launch-venture-fund-to-turn-ai-research-diamonds-into-startups/",
+        "title": "Mila and Inovia launch venture fund to turn AI research “diamonds” into startups",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "C$125M, launch date, fund manager, advisors, partner institutes",
+        "quote": "Target: $100 million USD ($125 million CAD) ... Launched: January 21, 2026 ... Fund Manager: Stéphane Marceau (Mila's managing director of AI ventures) ... Partners: Mila ... Inovia Capital ... Alberta Machine Intelligence Institute (Amii) ... Vector Institute"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund announced Jan 2026 and not yet fully closed/deployed as of research date; target size US$100M (~C$125M, one outlet cited C$138M). Stage characterized as early-stage / pre-seed across sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "ca-telegraph-ventures",
+    "name": { "en": "Telegraph Ventures" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Québec City",
+    "website": "https://betakit.com/telegraph-ventures-secures-35-million-to-back-enterprise-ai-startups-in-quebec/",
+    "links": {},
+    "capital": {
+      "current_fund": { "raw": "$35 million first close (targeting $40 million)", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Telegraph Ventures Fund I", "vintage_year": 2025, "size": { "raw": "$35 million (targeting $40 million)", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500,000 to $750,000", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Canada", "Québec"],
+      "sector_focus": ["ai-ml", "saas-enterprise"],
+      "lead_or_follow": "both",
+      "thesis": "Backs enterprise-focused 'useful AI' startups in Québec — companies combining strong technical capability with domain expertise and defensible, vertical-specific business models, with go-to-market and proprietary client data as the moat. Plans ~30 investments."
+    },
+    "track_record": {
+      "portfolio_count": "target ~30",
+      "co_investors": ["Investissement Québec", "Teralys Capital", "Inovia Capital"]
+    },
+    "people": [
+      { "name": "Étienne Mérineau", "role": "General Partner (based in Québec; founder of Heyday, acquired by Hootsuite)" },
+      { "name": "Luis Gutierrez Roy", "role": "Partner, Telegraph Hill Capital (Barcelona)" },
+      { "name": "Varun Dalal", "role": "Partner, Telegraph Hill Capital (Barcelona)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["enterprise-ai", "useful-ai", "quebec"],
+    "summary": {
+      "en": "Québec-based pre-seed/seed AI fund launched September 2025, a spinoff of European firm Telegraph Hill Capital. Holds a $35M first close (targeting $40M) to back ~30 enterprise-focused 'useful AI' startups with $500K-$750K checks. Managed by Étienne Mérineau; backed by Investissement Québec, Teralys Capital and Inovia Capital.",
+      "local": "Fonds d'IA en phase pré-amorçage/amorçage basé au Québec, lancé en septembre 2025, issu de la firme européenne Telegraph Hill Capital. Première clôture de 35 M$ (objectif 40 M$) pour soutenir environ 30 startups d'« IA utile » destinées aux entreprises."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/telegraph-ventures-secures-35-million-to-back-enterprise-ai-startups-in-quebec/",
+        "title": "Telegraph Ventures secures $35 million to back enterprise AI startups in Québec",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "fund size, check size, ~30 companies, manager, backers, AI thesis",
+        "quote": "Fund Size: $35 million in first close, targeting $40 million by year-end ... Number of Startups: Approximately 30 companies ... Check Size: $500,000 to $750,000 at pre-seed and seed stages ... General Partner: Étienne Mérineau ... Investissement Québec ... Teralys Capital ... Inovia Capital"
+      },
+      {
+        "url": "https://startupwired.com/2025/09/25/telegraph-ventures-launches-35m-quebec-ai-startup-fund/",
+        "title": "Telegraph Ventures Launches $35M Québec AI Startup Fund",
+        "publisher": "Startup Wired",
+        "accessed": "2026-06-02",
+        "supports": "launch date 2025, spinoff of Telegraph Hill Capital, Québec focus",
+        "quote": "announced September 25, 2025 ... a spinoff of European venture capital firm Telegraph Hill Capital ... ranging from $500,000 to $750,000 for each investment"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund currency is CAD; USD equivalents not reliably disclosed so left null. Mérineau described it as a 'generalist' fund among AI builders but the explicit mandate is enterprise/'useful' AI, placing it in the AI-focused segment.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "ca-axl",
+    "name": { "en": "AXL" },
+    "aka": ["AXL Labs", "Axl"],
+    "type": "venture-studio",
+    "status": "active",
+    "founded_year": 2025,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://axl.vc/",
+    "links": {},
+    "capital": {
+      "current_fund": { "raw": "$15 million CAD (first closing)", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "AXL Fund (first closing)", "vintage_year": 2025, "size": { "raw": "$15 million CAD", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Canada"],
+      "sector_focus": ["ai-ml"],
+      "thesis": "AI venture studio building human-centric, AI-powered companies by pairing entrepreneurs with University of Toronto AI research and corporate partners (the 'AI Catalyst' program). Targets applied/practical AI rather than foundational models, aiming to retain Canadian AI talent and IP."
+    },
+    "program": {
+      "format": "in-person",
+      "location": "Schwartz Reisman Innovation Campus, Toronto",
+      "eligibility": "Entrepreneurs/researchers building applied AI companies, co-developed with AXL and corporate partners."
+    },
+    "track_record": {
+      "portfolio_count": "target 50 over five years"
+    },
+    "people": [
+      { "name": "Daniel Wigdor", "role": "Co-Founder & CEO (U of T CS professor; lead investor)" },
+      { "name": "Tovi Grossman", "role": "Co-Founder & Chief Scientist (Head of AXL Labs)" },
+      { "name": "David Sharma", "role": "Co-Founder & Chief Growth Officer" },
+      { "name": "Ray Sharma", "role": "Co-Founder" }
+    ],
+    "application": { "accepts_cold_inbound": true, "how_to_apply": "Apply to build via axl.vc ('Found with us')." },
+    "tags": ["venture-studio", "ai", "research-commercialization", "company-builder"],
+    "summary": {
+      "en": "Toronto AI venture studio launched June 2025 by University of Toronto CS professors Daniel Wigdor and Tovi Grossman (with David and Ray Sharma). Closed a $15M CAD fund to build 50 AI-powered companies over five years from U of T research, aiming to combat Canada's AI brain drain. Based at the Schwartz Reisman Innovation Campus."
+    },
+    "sources": [
+      {
+        "url": "https://aijourn.com/axl-launches-venture-studio-with-15m-to-build-50-ai-companies-fuelling-canadas-global-leadership-in-ai-research-to-commercialization/",
+        "title": "AXL Launches Venture Studio with $15M to Build 50 AI Companies",
+        "publisher": "The AI Journal",
+        "accessed": "2026-06-02",
+        "supports": "$15M CAD, 50 companies/5 years, co-founders, launch date",
+        "quote": "$15 million CAD in first closing ... 50 AI-powered companies over the next five years ... Daniel Wigdor (Co-Founder and CEO) ... Tovi Grossman ... David Sharma (Chief Growth Officer) ... Ray Sharma ... announced June 17, 2025"
+      },
+      {
+        "url": "https://www.startupecosystem.ca/news/torontos-axl-venture-studio-aims-to-launch-50-ai-startups-to-combat-brain-drain/",
+        "title": "Toronto's AXL Venture Studio Aims to Launch 50 AI Startups to Combat Brain Drain",
+        "publisher": "Startup Ecosystem Canada",
+        "accessed": "2026-06-02",
+        "supports": "Toronto HQ, 50 companies/5 years, founder, mission",
+        "quote": "Number of Companies: 50 AI companies within the next five years ... Headquarters: Toronto ... Dr. Daniel Wigdor (University of Toronto professor)"
+      },
+      {
+        "url": "https://axl.vc/",
+        "title": "AXL | Transforming AI Research into Real-World Companies",
+        "publisher": "AXL",
+        "accessed": "2026-06-02",
+        "supports": "venture studio model, AI focus, Toronto location",
+        "quote": "building the next generation of human-centric AI-powered companies ... 108 College Street"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund is $15M CAD (per-company allocation not disclosed; USD left null). Founding/launch dated June 2025. Multiple investor names corroborated across BusinessWire-sourced reports and Globe and Mail.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "ca-next-ai",
+    "name": { "en": "NEXT AI" },
+    "aka": ["Next AI", "NextAI"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.nextcanada.com/next-ai/",
+    "offices": [
+      { "country": "Canada", "city": "Toronto" },
+      { "country": "Canada", "city": "Montréal" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/nextai"
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Canada"],
+      "sector_focus": ["ai-ml"],
+      "thesis": "Founder and venture-development acceleration network for AI-enabled startups, operated by non-profit NEXT Canada, delivered in Toronto, Montreal and remotely."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": "100 founders / 45 ventures (2024 cohort)",
+      "equity_taken_pct": 0,
+      "investment": { "raw": "No direct funding (program connects ventures to investors)", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Toronto and Montréal (remote option)",
+      "demo_day": null,
+      "application_url": "https://www.nextcanada.com/next-ai/",
+      "application_cycles": ["Applications opened Oct 16, 2025; deadline Dec 10, 2025; program runs Mar–Aug/Sep"],
+      "eligibility": "Canadian-incorporated, early-stage venture where AI is core; requires at least one business and one technical co-founder, each holding a minimum 10% equity; co-founders need Canadian citizenship/PR or valid work/study permit."
+    },
+    "track_record": {
+      "portfolio_count": "114+ AI startups launched (program total)",
+      "notable_investments": [
+        { "company": "Senso", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Feroot", "sector": "cybersecurity", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true, "how_to_apply": "Apply online via Airtable form linked from nextcanada.com/next-ai during annual cycle." },
+    "tags": ["accelerator", "ai", "non-profit", "founder-development"],
+    "summary": {
+      "en": "AI-focused founder and venture-development accelerator run by non-profit NEXT Canada, delivered in Toronto, Montreal and remotely. Takes no equity and provides no direct funding, instead offering mentorship, education and investor access; the 2024 cohort had 100 founders across 45 ventures, and the program has helped launch 114+ AI startups.",
+      "local": "Programme d'accélération axé sur l'IA, géré par l'organisme à but non lucratif NEXT Canada, offert à Toronto, Montréal et à distance, sans prise de participation ni financement direct."
+    },
+    "sources": [
+      {
+        "url": "http://www.nextcanada.com/next-ai/",
+        "title": "NEXT AI – A NEXT Canada Program",
+        "publisher": "NEXT Canada",
+        "accessed": "2026-06-02",
+        "supports": "no equity, no funding, cohort size, locations, eligibility, application cycle",
+        "quote": "No. The program does not take any equity in the ventures ... does not provide any funding ... 100 founders leading 45 ventures ... Applications opened October 16, 2025 ... Deadline: December 10th, 2025 ... Canadian incorporation required ... a minimum of 10% [equity]"
+      },
+      {
+        "url": "https://www.blackventures.org/blog/next-ai-next-canadas-startup-acceleration-and-founder-development",
+        "title": "NEXT AI: Next Canada's Startup Acceleration and Founder Development",
+        "publisher": "Black Ventures",
+        "accessed": "2026-06-02",
+        "supports": "AI-enabled accelerator network, Toronto/Montreal/remote delivery",
+        "quote": "NEXT AI is a world-class founder and venture development acceleration network for AI-enabled startups ... delivered in Toronto, Montreal, and remotely"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Funding terms are inconsistent across third-party sources (some claim up to $25K SAFE / $100K follow-on, others $100K–$250K for 6–8% equity); the official NEXT Canada page states no equity and no direct funding, which is treated as authoritative here. Founded year (2017, as 'NextAI') inferred from program history; program length in weeks not stated in weeks (runs Mar–Aug/Sep).",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  }
+]

@@ -1,0 +1,573 @@
+[
+  {
+    "id": "jp-japan-angel-investor-association",
+    "name": {
+      "en": "Japan Angel Investor Association",
+      "local": "一般社団法人日本エンジェル投資家協会"
+    },
+    "aka": ["JAIA", "日本エンジェル投資家協会", "Angel Link operator"],
+    "type": "angel-network",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://j-angel.jp/",
+    "links": {
+      "other": [
+        "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E6%8A%95%E8%B3%87%E5%AE%B6%E5%8D%94%E4%BC%9A",
+        "https://j-angel.jp/news/",
+        "https://prtimes.jp/main/html/rd/p/000000003.000131180.html"
+      ]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Industry body to develop Japan's angel-investment culture: build a network among angel investors, share information and know-how, develop angel-investment guidelines, and make policy recommendations to the government to strengthen Japan's angel-investment environment. Operates the 'Angel Link' founder-to-angel matching platform."
+    },
+    "program": {},
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Toshiyuki Yamamoto (山本敏行)", "role": "Representative Director (代表理事); Chatwork founder; Power Angels CEO" }
+    ],
+    "application": {
+      "how_to_apply": "Recruits 'Angel members' (angel investors) and 'Partner members' (local governments, companies, startup-support organizations); membership free. Founders can reach angels via the Angel Link platform.",
+      "accepts_cold_inbound": true,
+      "contact": "https://j-angel.jp/"
+    },
+    "tags": ["angel-network", "industry-association", "policy-advocacy", "matching-platform"],
+    "summary": {
+      "en": "A general incorporated association founded in 2023 by Chatwork founder Toshiyuki Yamamoto to grow Japan's thin angel-investing base. It networks angel investors, shares know-how, drafts angel-investment guidelines, lobbies government, and runs the free 'Angel Link' founder-to-angel matching platform (launched Jan 2025).",
+      "local": "Chatwork創業者・山本敏行が2023年に設立した一般社団法人。エンジェル投資家のネットワーク構築・情報共有、ガイドライン整備、政策提言を行い、起業家とエンジェルをつなぐ無料プラットフォーム『Angel Link』を運営する。"
+    },
+    "sources": [
+      {
+        "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E6%8A%95%E8%B3%87%E5%AE%B6%E5%8D%94%E4%BC%9A",
+        "title": "日本エンジェル投資家協会 - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Official name, founding date, representative, HQ, purpose",
+        "quote": "設立 2023年10月18日 ... 代表 山本敏行 ... 東京都港区浜松町2-2-15 2F"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000003.000131180.html",
+        "title": "起業家からエンジェル投資家へのアクセス特化型の新しいプラットフォーム『Angel Link』をローンチ",
+        "publisher": "PR TIMES / 一般社団法人 日本エンジェル投資家協会",
+        "accessed": "2026-06-02",
+        "supports": "Angel Link launch date and free model; representative Yamamoto / Power Angels scale",
+        "quote": "エンジェル投資家と起業家を繋ぐ新たなプラットフォーム ... Angel Link ... 2025年1月15日 ... 約300名のエンジェル投資家 ... 85社のスタートアップ"
+      },
+      {
+        "url": "https://j-angel.jp/",
+        "title": "日本エンジェル投資家協会",
+        "publisher": "Japan Angel Investor Association",
+        "accessed": "2026-06-02",
+        "supports": "Official website / existence of the association"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding date conflict: the Wikipedia infobox and an interview state 2023 (set here); a PR TIMES article body says '2019年11月'. The 2023 figure is corroborated by multiple sources and Wikipedia's structured data, so founded_year=2023 with this caveat. 'Angel Link' is a matching platform run by the association, not a separate org.",
+    "last_updated": "2026-06-02",
+    "researched_by": "angel-network"
+  },
+  {
+    "id": "jp-power-angels",
+    "name": {
+      "en": "Power Angels",
+      "local": "株式会社Power Angels"
+    },
+    "aka": ["パワーエンジェルズ", "SEVEN", "セブン (former name)"],
+    "type": "angel-network",
+    "subtypes": ["angel-syndicate"],
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Kyoto",
+    "website": "https://power-angels.com",
+    "links": {
+      "other": [
+        "https://power-angels.com/angel/",
+        "https://www.pref.kyoto.jp/sangyo-sien/company/seven.html",
+        "https://net.keizaikai.co.jp/archives/1616",
+        "https://jp.smartround.com/startup-next/post/angelinvestor-yamamoto"
+      ]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "A community of angel investors centered on active company executives ('power angels') who back early-stage founders with capital plus hands-on, IPO-oriented mentoring. Originated as the 'SEVEN' angel-syndicate fund (a Japanese-law adaptation of US syndicate funds) aiming to build a Silicon-Valley-style ecosystem in Japan."
+    },
+    "program": {},
+    "track_record": {
+      "portfolio_count": "~85 startups (via the broader Power Angels / Yamamoto community)",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Toshiyuki Yamamoto (山本敏行)", "role": "Representative Director / Founder; Chatwork founder" }
+    ],
+    "application": {
+      "how_to_apply": "Membership limited to investors with substantial management experience; founders reach the community via Yamamoto / the Japan Angel Investor Association and the Angel Link platform.",
+      "accepts_cold_inbound": null,
+      "contact": "https://power-angels.com"
+    },
+    "tags": ["angel-network", "angel-syndicate", "executive-angels", "kyoto"],
+    "summary": {
+      "en": "An angel-investor community led by Chatwork founder Toshiyuki Yamamoto (formerly named 'SEVEN', a Japanese-law angel-syndicate fund). Around 300 executive 'power angels' have backed roughly 85 startups, providing capital plus practical, IPO-oriented mentoring. Power Angels is the operating community behind Yamamoto's Japan Angel Investor Association.",
+      "local": "Chatwork創業者・山本敏行が率いる、現役経営者中心のエンジェル投資家コミュニティ（旧称『SEVEN』=日本法に合わせたエンジェルシンジケートファンド）。約300名のパワーエンジェルが約85社に投資し、資金提供に加え上場を見据えた実践的支援を行う。"
+    },
+    "sources": [
+      {
+        "url": "https://net.keizaikai.co.jp/archives/1616",
+        "title": "日本でシリコンバレーを作るエンジェル投資家集団〝SEVEN〟",
+        "publisher": "経済界 (Keizaikai)",
+        "accessed": "2026-06-02",
+        "supports": "SEVEN identity as a Japanese-law angel syndicate fund led by Yamamoto; ecosystem thesis",
+        "quote": "セブンは70億円の売却、７００億円の上場を目指して、投資先を支援する ... 現役経営者のエンジェル投資家と若手起業家"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000003.000131180.html",
+        "title": "Angel Link launch press release",
+        "publisher": "PR TIMES / Japan Angel Investor Association",
+        "accessed": "2026-06-02",
+        "supports": "~300 power angels and 85 startups invested via Yamamoto's Power Angels community",
+        "quote": "約300名のエンジェル投資家 ... 85社のスタートアップ"
+      },
+      {
+        "url": "https://jp.smartround.com/startup-next/post/angelinvestor-yamamoto",
+        "title": "エンジェル投資家 山本敏行さん | Startup Next",
+        "publisher": "smartround",
+        "accessed": "2026-06-02",
+        "supports": "Yamamoto's role and mission for the community; Association founded 2023",
+        "quote": "2023年、一般社団法人日本エンジェル投資家協会設立"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded_year left null: 'SEVEN' predates the rename to Power Angels but no precise founding year was verifiable. The ~300 angels / 85 startups figures describe Yamamoto's broader power-angel community (reported via the association's PR), not necessarily a single legal fund. Kyoto Pref. lists the company (former name SEVEN) as a Kyoto enterprise.",
+    "last_updated": "2026-06-02",
+    "researched_by": "angel-network"
+  },
+  {
+    "id": "jp-japan-angel-fund",
+    "name": {
+      "en": "Japan Angel Fund",
+      "local": "Japan Angel Fund"
+    },
+    "aka": ["JAF"],
+    "type": "angel-syndicate",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://initial.inc/investors/V16201",
+    "links": {
+      "crunchbase": "",
+      "other": [
+        "https://www.fastgrow.jp/articles/japan-angel-fund",
+        "https://initial.inc/investors/V16201"
+      ]
+    },
+    "capital": {
+      "funds": [
+        {
+          "name": "Japan Angel Fund 1号",
+          "vintage_year": 2018,
+          "size": { "raw": "3億円", "usd": null, "currency": "JPY" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Syndicate-style fund where ~10 prominent founder-angels ('scouters') each independently source deals from their own allocation (no veto from others). Returns split LPs 50% / sourcing scouter 40% / remaining scouters 10%; scouters contribute no personal capital. Aim: maximize angels' know-how and influence across the startup ecosystem and build a PayPal-Mafia-style knowledge network in Japan."
+    },
+    "program": {},
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Yasumasa Kim (金靖征)", "role": "Fund originator; Candle founder" },
+      { "name": "Shota Horii (堀井翔太)", "role": "Scouter; Fablic founder" },
+      { "name": "Yo Shibata (柴田陽)", "role": "Scouter; Spotlight founder" },
+      { "name": "Nobuhiro Ariyasu (有安伸宏)", "role": "Scouter; Coach United founder" },
+      { "name": "Yu Akasaka (赤坂優)", "role": "Scouter; Eureka founder" }
+    ],
+    "application": {
+      "how_to_apply": "Founders are sourced directly by individual scouter-angels from their personal networks; no public open application.",
+      "accepts_cold_inbound": false,
+      "contact": "https://www.fastgrow.jp/articles/japan-angel-fund"
+    },
+    "tags": ["angel-syndicate", "founder-angels", "scout-fund"],
+    "summary": {
+      "en": "A 2018 syndicate-style fund of ~300M yen organized by ten prominent founder-angels (incl. Candle, Fablic, Spotlight, Coach United and Eureka founders). Each 'scouter' independently deploys part of the fund with no veto from peers; returns split 50/40/10 between LPs, the sourcing scouter and the rest. Built to circulate startup know-how and seed a PayPal-Mafia-style network in Japan.",
+      "local": "Candle代表・金靖征が発起人となり、著名な起業家出身エンジェル10名が参画する2018年組成の約3億円のシンジケート型ファンド。各『スカウター』が拒否権なしで独立に投資し、リターンはLP50%・提案スカウター40%・他9名10%で分配。スタートアップの知の流通を狙う。"
+    },
+    "sources": [
+      {
+        "url": "https://www.fastgrow.jp/articles/japan-angel-fund",
+        "title": "著名エンジェル10名が参画。スタートアップの「知の流通」を加速させるJapan Angel Fundの正体",
+        "publisher": "FastGrow",
+        "accessed": "2026-06-02",
+        "supports": "Fund size, founding year, 10 founder-angels, scouter mechanics and return split",
+        "quote": "第一号ファンドとして3億円を既に集めている ... 各スカウターが3000万円の枠から投資を提案 ... LP50%、提案スカウター40%、他9名のスカウター10%"
+      },
+      {
+        "url": "https://initial.inc/investors/V16201",
+        "title": "Japan Angel Fund | スピーダ スタートアップ情報リサーチ (INITIAL)",
+        "publisher": "INITIAL (initial.inc)",
+        "accessed": "2026-06-02",
+        "supports": "Investor-profile existence / listing of Japan Angel Fund"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Five of ten scouters named in the source; the other five were not individually disclosed. Fund 1 size ¥300M and the 50/40/10 split are directly quoted. Portfolio count not disclosed in fetched sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "angel-network"
+  },
+  {
+    "id": "jp-kyoto-angel-fund",
+    "name": {
+      "en": "Kyoto Angel Fund",
+      "local": "京都エンジェルファンド"
+    },
+    "aka": ["京大認定ファンド (Kyoto University certified fund)"],
+    "type": "angel-syndicate",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://kyotoangel.com/",
+    "links": {
+      "other": ["https://kyotoangel.com/"]
+    },
+    "capital": {
+      "funds": [
+        {
+          "name": "Kyoto Angel Fund 1号",
+          "vintage_year": 2020,
+          "size": { "raw": "約1億円", "usd": null, "currency": "JPY" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "1件あたり100万円〜5000万円", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["deeptech", "generalist"],
+      "thesis": "A Kyoto-University-certified angel fund in which experienced founder-angels back early-stage startups founded (typically within 5 years) by Kyoto University students/alumni, aiming for IPO-class outcomes. Senior entrepreneurs support the next generation."
+    },
+    "program": {
+      "application_url": "https://kyotoangel.com/",
+      "eligibility": "Companies founded within ~5 years, primarily by Kyoto University current/former students or graduates; ~1 month review."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "AironWorks", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "DataGrid", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Bitkey", "sector": "proptech", "outcome": "active" },
+        { "company": "Regional Fish", "sector": "agritech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Yasumasa Yamamoto (山本康正)", "role": "Representative Director; Kyoto University specially-appointed associate professor" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via the Kyoto Angel Fund website; ~1 month selection. Targets Kyoto University-affiliated founders.",
+      "accepts_cold_inbound": true,
+      "contact": "https://kyotoangel.com/"
+    },
+    "tags": ["angel-syndicate", "university-fund", "kyoto-university", "deeptech"],
+    "summary": {
+      "en": "A Kyoto-University-certified angel fund (Fund 1 ~¥100M, est. Oct 2020) in which senior founder-angels back early-stage startups by Kyoto University students/alumni, with checks of ¥1–50M and IPO-class ambitions. Ten prominent founder-investors (incl. SHIFT, Money Forward, gumi leaders) act as supporters; portfolio includes AironWorks, DataGrid, Bitkey and Regional Fish.",
+      "local": "京都大学認定のエンジェルファンド（1号は約1億円、2020年10月設立）。先輩起業家エンジェルが京大の学生・卒業生による創業5年以内のスタートアップに1件100万〜5000万円を投資。AironWorks、DataGrid、Bitkey、Regional Fish などに出資。"
+    },
+    "sources": [
+      {
+        "url": "https://kyotoangel.com/",
+        "title": "京都エンジェルファンド | 世界を変える起業家を先輩起業家が応援する京都大学認定ファンド",
+        "publisher": "Kyoto Angel Fund",
+        "accessed": "2026-06-02",
+        "supports": "Fund size, founding date, check size, eligibility, representative, portfolio companies",
+        "quote": "約1億円 ... 1件あたり100万円〜5000万円 ... 京都大学認定ファンド ... 設立 2020年10月"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund-2 reportedly under consideration. Check size and Fund-1 size directly quoted from the official site. Representative is Yasumasa Yamamoto (山本康正) — distinct from Toshiyuki Yamamoto of Power Angels.",
+    "last_updated": "2026-06-02",
+    "researched_by": "angel-network"
+  },
+  {
+    "id": "jp-kyoto-angel-community",
+    "name": {
+      "en": "Kyoto Angel Community",
+      "local": "京都エンジェルコミュニティ"
+    },
+    "aka": ["KKC"],
+    "type": "angel-network",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Kyoto",
+    "website": "https://www.ki21.jp/kkc/service/angelcommu/",
+    "links": {
+      "other": ["https://www.ki21.jp/kkc/service/angelcommu/advisor/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["deeptech"],
+      "thesis": "An angel network operated by the public Kyoto Industrial Support Organization 21, connecting 'angel advisors' (Kyoto manufacturing-company executives and Kyoto-linked angel investors) with seed/early-stage deep-tech startups in Kyoto Prefecture, providing management advice, mentoring and financial support."
+    },
+    "program": {
+      "eligibility": "Seed/early-stage deep-tech startups primarily in Kyoto Prefecture; ~4 networking meetings per year."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply through the Kyoto Industrial Support Organization 21 (KKC) angel-community program.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.ki21.jp/kkc/service/angelcommu/"
+    },
+    "tags": ["angel-network", "deeptech", "kyoto", "public-supported"],
+    "summary": {
+      "en": "An angel network run by the public-interest Kyoto Industrial Support Organization 21 that matches 'angel advisors' (Kyoto manufacturing executives and Kyoto-linked angels) with seed/early-stage deep-tech startups in Kyoto, offering mentoring, management advice and financial support, with around four exchange meetings a year.",
+      "local": "公益財団法人京都産業21が運営するエンジェルネットワーク。京都を代表するものづくり企業経営者や京都ゆかりのエンジェル投資家からなる『エンジェルアドバイザー』が、京都府内のシード・アーリー期ディープテック型スタートアップに経営アドバイス・メンタリング・資金支援を行う。年4回程度の交流会を開催。"
+    },
+    "sources": [
+      {
+        "url": "https://www.ki21.jp/kkc/service/angelcommu/",
+        "title": "京都エンジェルコミュニティ｜スタートアップ支援｜公益財団法人京都産業21",
+        "publisher": "公益財団法人京都産業21 (Kyoto Industrial Support Organization 21)",
+        "accessed": "2026-06-02",
+        "supports": "Operating organization, angel-advisor model, target stage/sector/geo, ~4 meetings/year",
+        "quote": "京都を代表するものづくり企業経営者、および京都ゆかりのエンジェル投資家 ... シード・アーリー期のディープテック型スタートアップ ... 経営アドバイス、メンタリングや資金支援"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year and exact advisor count not stated on the page. Operated by a public foundation, so it is publicly supported rather than a purely private angel club; classified as angel-network per its stated angel-advisor structure.",
+    "last_updated": "2026-06-02",
+    "researched_by": "angel-network"
+  },
+  {
+    "id": "jp-yakumi",
+    "name": {
+      "en": "Yakumi",
+      "local": "Yakumi"
+    },
+    "aka": ["Yakumi Investment", "ヤクミ"],
+    "type": "angel-syndicate",
+    "subtypes": ["angel-network"],
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.yakumi.co/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/yakumi/",
+      "crunchbase": "https://www.crunchbase.com/organization/yakumi-investment",
+      "other": [
+        "https://www.cbinsights.com/investor/yakumi",
+        "https://tracxn.com/d/angel-network/yakumi/__5ODMFnHGqIzg5lTDylzeL6bKKCSrLA8P-6ZYI7txCq0"
+      ]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan", "Asia", "United States", "Europe"],
+      "sector_focus": ["agritech", "biotech", "gaming"],
+      "thesis": "An angel syndicate of full-time professionals (lawyers, ex-bankers, entrepreneurs, hedge-fund and consulting backgrounds) backing seed-to-early-stage companies based in, connected to, or entering Japan — with a focus on food/beverage, biotech and gamification."
+    },
+    "program": {},
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Finless Foods", "sector": "agritech", "outcome": "active" },
+        { "company": "PlayCo", "sector": "gaming", "outcome": "active" },
+        { "company": "Bokksu", "sector": "ecommerce", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Yuki Shirato", "role": "Lead / organizer; M&A investment lawyer" }
+    ],
+    "application": {
+      "how_to_apply": "Reach out via Yakumi's site / network; syndicate co-invests alongside other investors.",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.yakumi.co/"
+    },
+    "tags": ["angel-syndicate", "cross-border", "foodtech", "biotech"],
+    "summary": {
+      "en": "A Tokyo-based angel syndicate of full-time professionals (incl. a New York lawyer, ex-bankers, a hedge-fund manager and entrepreneurs) backing seed-to-early-stage startups based in, connected to, or entering Japan, with a focus on food/beverage, biotech and gamification. Notable investments include Finless Foods, PlayCo and Bokksu.",
+      "local": "東京拠点のエンジェルシンジケート。ニューヨークの弁護士、元銀行員、ヘッジファンドマネージャー、起業家らフルタイムのプロが集まり、日本に関わる/参入するシード〜アーリー期スタートアップに投資。食品・バイオ・ゲーミフィケーション分野に注力し、Finless Foods、PlayCo、Bokksu などに出資。"
+    },
+    "sources": [
+      {
+        "url": "https://scalingyourcompany.com/ultimate-guide-to-angel-investors-in-japan/",
+        "title": "Ultimate Guide to Angel Investors in Japan",
+        "publisher": "Scaling Your Company",
+        "accessed": "2026-06-02",
+        "supports": "Yakumi described as an angel syndicate; sector focus; team composition; notable investments",
+        "quote": "Yakumi is an angel syndicate known for its focus on Japanese businesses ... particularly in food tech and sustainability ... PlayCo, Bokksu, Finless Foods"
+      },
+      {
+        "url": "https://www.cbinsights.com/investor/yakumi",
+        "title": "Yakumi Portfolio Investments, Funds, Exits",
+        "publisher": "CB Insights",
+        "accessed": "2026-06-02",
+        "supports": "Type (angel investor group), Tokyo location, Finless Foods investment",
+        "quote": "Type: Angel Investor (Group) ... Location: Tokyo, Japan ... Finless Foods (Series A, June 20, 2018, $3.5M)"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year unresolved: Tracxn lists 2017, an earlier search summary said 2013 / '30+ businesses', and CB Insights specifies no year — so founded_year and portfolio_count left null. Database trackers count only disclosed/tracked deals (CB Insights shows just 1), which understates a syndicate's true activity. Primary site (yakumi.co) redirects to LinkedIn (auth-only), so details rely on secondary aggregators.",
+    "last_updated": "2026-06-02",
+    "researched_by": "angel-network"
+  },
+  {
+    "id": "jp-angel-port",
+    "name": {
+      "en": "ANGEL PORT",
+      "local": "ANGEL PORT"
+    },
+    "aka": ["angl.jp"],
+    "type": "angel-network",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://angl.jp/",
+    "links": {
+      "other": ["https://angl.jp/angels"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "A community/network connecting founders aiming to become unicorns with angel investors. Angels display portfolios and provide mentorship; founders send funding consultations directly. Real-name participation (Facebook-authenticated)."
+    },
+    "program": {},
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Register (Facebook-authenticated) and message angel investors directly through the platform.",
+      "accepts_cold_inbound": true,
+      "contact": "https://angl.jp/"
+    },
+    "tags": ["angel-network", "community", "matching"],
+    "summary": {
+      "en": "A Japanese angel-investor community (operated by WEIN Group) that connects unicorn-aspiring founders with angel investors. Angels publish portfolios and mentor founders who reach out directly; participation is real-name (Facebook-authenticated).",
+      "local": "WEIN Groupが運営する、ユニコーンを目指す起業家とエンジェル投資家をつなぐコミュニティ。エンジェルがポートフォリオを公開し、起業家が直接出資相談を送る、Facebook認証による実名制のネットワーク。"
+    },
+    "sources": [
+      {
+        "url": "https://angl.jp/",
+        "title": "ANGEL PORT - スタートアップとエンジェル投資家のコミュニティ",
+        "publisher": "ANGEL PORT (WEIN Group)",
+        "accessed": "2026-06-02",
+        "supports": "Community model, operator, unicorn-founder thesis, real-name participation",
+        "quote": "ANGELPORTはユニコーンを目指す起業家🦄とエンジェル投資家👼をつなぐコミュニティです"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year and registered angel/startup counts not stated on the homepage. Sits at the boundary between an angel network/community and a matching platform; included as an angel-network because it is an identifiable, branded angel community rather than a generic listing site.",
+    "last_updated": "2026-06-02",
+    "researched_by": "angel-network"
+  },
+  {
+    "id": "jp-tokyo-angel-network",
+    "name": {
+      "en": "Tokyo Angel Network",
+      "local": "Tokyo Angel Network"
+    },
+    "aka": ["ANRI Tokyo Angel Network"],
+    "type": "angel-network",
+    "subtypes": [],
+    "status": "dormant",
+    "founded_year": 2016,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://anri.vc/",
+    "links": {
+      "other": ["https://jp.techcrunch.com/2016/02/03/tokyo-angel-network/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "An angel network launched by VC firm ANRI to match founding-stage startups with a curated group of founder-angels for mentoring on business and capital strategy. ANRI screened applications and made introductions; it took no investment rights or obligations in the startups."
+    },
+    "program": {
+      "eligibility": "Founding/early-stage startups seeking mentoring on business and capital strategy; screened by ANRI."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Shogo Kawada (川田尚吾)", "role": "Participating angel; DeNA co-founder" },
+      { "name": "Shinji Kimura (木村新司)", "role": "Participating angel; Gunosy / Atlantis founder" },
+      { "name": "Shintaro Yamada (山田進太郎)", "role": "Participating angel; Mercari founder" },
+      { "name": "Yu Akasaka (赤坂優)", "role": "Participating angel; Eureka founder" }
+    ],
+    "application": {
+      "how_to_apply": "Historically: startups applied to ANRI, which screened and introduced qualifying teams to angels. No longer actively promoted.",
+      "accepts_cold_inbound": null,
+      "contact": "https://anri.vc/"
+    },
+    "tags": ["angel-network", "vc-led", "historic"],
+    "summary": {
+      "en": "An angel network launched in Feb 2016 by VC firm ANRI to match founding-stage startups with seven founder-angels (incl. co-founders of DeNA, Gunosy, Mercari, FreakOut and Eureka) for mentoring on business and capital strategy. ANRI screened applicants and made introductions without taking investment rights. It appears no longer actively run.",
+      "local": "VCのANRIが2016年2月に立ち上げたエンジェルネットワーク。DeNA・Gunosy・メルカリ・FreakOut・Eurekaなどの創業者7名のエンジェルと創業期スタートアップをマッチングし、事業・資本戦略のメンタリングを提供。ANRIが審査・紹介を行い投資の権利義務は負わない仕組みだったが、現在は積極運用されていない模様。"
+    },
+    "sources": [
+      {
+        "url": "https://jp.techcrunch.com/2016/02/03/tokyo-angel-network/",
+        "title": "創業期のスタートアップとエンジェル投資家を結ぶ「Tokyo Angel Network」、ANRIが立ち上げ",
+        "publisher": "TechCrunch Japan",
+        "accessed": "2026-06-02",
+        "supports": "Launch date, ANRI as operator, matching/mentoring model, seven named founder-angels",
+        "quote": "ANRIが ... Tokyo Angel Network ... 創業期のスタートアップとエンジェル投資家を結ぶ ... 川田尚吾（DeNA）, 木村新司（Gunosy）, 山田進太郎（メルカリ）, 赤坂優（Eureka）ら7名"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Primary TechCrunch and Sogyo Techo pages were not directly fetchable (TLS/404 at access time); details are corroborated across two independent WebSearch result sets including the seven named angels and Feb 3 2016 launch. Status set to 'dormant' as an inference — no recent activity found; could not confirm formal closure.",
+    "last_updated": "2026-06-02",
+    "researched_by": "angel-network"
+  }
+]

@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "ca-northside-ventures",
+    "name": { "en": "Northside Ventures" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.northside.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/northside-ventures",
+      "other": ["https://www.inovia.vc/emerging-managers/northside-ventures/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$15M CAD", "usd": 11000000, "currency": "CAD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2024, "size": { "raw": "$15M CAD", "usd": 11000000, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$100,000–$500,000", "usd_min": 100000, "usd_max": 500000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "fintech", "climate-energy"],
+      "thesis": "Solo-GP fund writing the true pre-seed cheque that comes before institutional seed investors, backing Canadian founders at inception/ideation across AI, vertical SaaS, fintech and cleantech."
+    },
+    "track_record": {
+      "portfolio_count": 15,
+      "notable_investments": [
+        { "company": "Datacurve", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Switch", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Terminal", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Veritree", "sector": "climate-energy", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Alex McIsaac", "role": "Founder & Solo General Partner" }
+    ],
+    "team_size": 1,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["solo-gp", "emerging-manager", "micro-vc", "pre-seed"],
+    "summary": {
+      "en": "Toronto-based solo-GP micro-VC founded by Alex McIsaac (ex-Global Founders Capital), closing a $15M CAD inaugural fund in 2024 to write $100K–$500K pre-seed and seed cheques into Canadian startups."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/northside-ventures-closes-first-early-stage-vc-fund-at-15-million-cad/",
+        "title": "Northside Ventures closes first early-stage VC fund at $15 million CAD",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "fund size, check size, founder, stages, portfolio count, sectors",
+        "quote": "Northside Ventures ... closed its inaugural fund, hitting its $15-million CAD target ... initial investments of between $100,000 and $500,000 at the pre-seed and seed stages ... deployed approximately 40% of its fund across 15 investments"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founder Alex McIsaac confirmed as solo GP; founded late 2022, fund closed 2024.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "ca-n49p",
+    "name": { "en": "N49P" },
+    "aka": ["N49P Ventures", "N49P Venture Capital"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://n49p.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/n49p",
+      "linkedin": "https://ca.linkedin.com/company/n49p",
+      "other": ["https://www.inovia.vc/emerging-managers/n49p/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "Fund IV first close US$25M (target US$70M)", "usd": 25000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund III", "vintage_year": 2022, "size": { "raw": "US$27.7M", "usd": 27700000, "currency": "USD" } },
+        { "name": "Fund IV", "vintage_year": 2026, "size": { "raw": "US$25M first close (US$70M target)", "usd": 25000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500,000–$1.5M", "usd_min": 500000, "usd_max": 1500000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["generalist", "ai-ml", "saas-enterprise"],
+      "thesis": "Provides the first institutional cheque for Canadian pre-seed tech startups, pairing capital with community (TechTO) and hands-on coaching to help founders scale globally."
+    },
+    "track_record": {
+      "portfolio_count": 90,
+      "notable_investments": [
+        { "company": "EvenUp", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Spellbook", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Quandri", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Appetronix", "sector": "robotics", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Alex Norman", "role": "Partner (co-founder of TechTO)" },
+      { "name": "Doug Penick", "role": "Partner" },
+      { "name": "Omar Dhalla", "role": "Venture Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "micro-vc", "pre-seed", "first-cheque"],
+    "summary": {
+      "en": "Toronto pre-seed venture firm founded 2018; first institutional cheque for Canadian startups with $500K–$1.5M tickets. Held a US$25M first close (US$70M target) for Fund IV in 2026, having invested in 90+ companies including EvenUp and Spellbook."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/n49ps-25-million-usd-first-close-for-fund-iv-will-help-it-hunt-more-diamonds-in-the-rough/",
+        "title": "N49P's $25-million USD first close for Fund IV",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV first close and target, check size, predecessor fund size, portfolio count, GPs, notable investments",
+        "quote": "securing $25 million USD ($34 million CAD) in commitments towards its $70-million target ... N49P aims to cut $500,000 to $1.5 million first cheques ... build a portfolio of 27 to 30 companies ... nearly on par with its $27.7-million USD third fund from mid-2022 ... invested in more than 90 startups, from Appetronix to EvenUp, Spellbook, and Quandri"
+      },
+      {
+        "url": "https://www.inovia.vc/emerging-managers/n49p/",
+        "title": "N49P – Inovia",
+        "publisher": "Inovia Capital",
+        "accessed": "2026-06-02",
+        "supports": "founded year, HQ, partners",
+        "quote": "Founded: 2018 ... Headquarters: Toronto ... Alex Norman (Partner) ... Doug Penick (Partner) ... Omar Dhalla (Venture Partner)"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "ca-top-down-ventures",
+    "name": { "en": "Top Down Ventures" },
+    "aka": ["Top Down"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Vancouver",
+    "website": "https://www.topdown.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/top-down-ventures"
+    },
+    "capital": {
+      "current_fund": { "raw": "US$28M ($38M CAD)", "usd": 28000000, "currency": "USD" },
+      "funds": [
+        { "name": "Founders Fund I", "vintage_year": 2024, "size": { "raw": "US$28M ($38M CAD) final close (US$25M target)", "usd": 28000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$250,000–$2M", "usd_min": 250000, "usd_max": 2000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "First institutional VC fund dedicated to early-stage managed service provider (MSP) software and AI startups — the 'invisible infrastructure of the global economy.'"
+    },
+    "track_record": {
+      "portfolio_count": 12,
+      "notable_investments": [
+        { "company": "Styx Intelligence", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "zofiQ", "sector": "ai-ml", "outcome": "acquired" }
+      ],
+      "exits": [
+        { "company": "zofiQ", "type": "M&A", "year": null, "value": { "raw": "acquired by ConnectWise (5.3x return)", "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Chris Day", "role": "Founder & Chairman" },
+      { "name": "Joel Abramson", "role": "Managing Partner" },
+      { "name": "Mark Scott", "role": "Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "micro-vc", "vertical-fund", "msp", "ai"],
+    "summary": {
+      "en": "Vancouver firm whose Founders Fund I closed at US$28M ($38M CAD), the first institutional VC fund dedicated to early-stage MSP software and AI startups. Writes $250K–$2M cheques; 12 companies deployed toward a 20-company target."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/top-down-closes-vc-fund-aimed-at-invisible-infrastructure-of-the-global-economy/",
+        "title": "Top Down closes VC fund aimed at 'invisible infrastructure' of the global economy",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "fund size, target, check size, stages, sector, founders, portfolio, exit",
+        "quote": "announced the final close of Founders Fund I at $28 million USD ($38 million CAD), surpassing its original $25-million USD target ... check sizes between $250,000 and $2 million ... deployed 40 percent of the fund across 12 companies ... zofiQ ... acquired by ConnectWise ... returning 5.3 times what Top Down initially invested"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2018; Founders Fund I is its first institutional fund. Roughly 4 of 12 deployed companies are Canadian.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "ca-tall-grass-ventures",
+    "name": { "en": "Tall Grass Ventures" },
+    "aka": ["TGV"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Calgary",
+    "website": "https://www.tallgrass.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/tall-grass-ventures"
+    },
+    "capital": {
+      "current_fund": { "raw": "$32M CAD", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2024, "size": { "raw": "$32M CAD", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["agritech"],
+      "thesis": "Early-stage AgTech and foodtech investor across the agriculture and food supply chain — 'from the fork, all the way back to the farm and everything in between.'"
+    },
+    "track_record": {
+      "portfolio_count": 11,
+      "notable_investments": [
+        { "company": "Vivid Machines", "sector": "agritech", "outcome": "active" },
+        { "company": "OneCup AI", "sector": "agritech", "outcome": "active" },
+        { "company": "Picketa Systems", "sector": "agritech", "outcome": "active" },
+        { "company": "IntelliCulture", "sector": "agritech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Wilson Acton", "role": "Co-founder & Managing Partner" },
+      { "name": "Chris Edwards", "role": "Co-founder & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "micro-vc", "agtech", "first-fund"],
+    "summary": {
+      "en": "Calgary-based AgTech and foodtech micro-VC founded August 2022; closed a $32M CAD first fund and has invested in 11 of a planned 20 startups, including Vivid Machines and OneCup AI."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/tall-grass-ventures-closes-32-million-vc-fund-for-early-stage-canadian-agtech-startups/",
+        "title": "Tall Grass Ventures closes $32-million VC fund for early-stage Canadian AgTech startups",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "fund size, founded, stages, sector, founders, portfolio count",
+        "quote": "secured a total of $32 million CAD for its first fund ... Founded: August 2022 ... AgTech and foodtech ... Already invested in 11 startups out of a planned 20"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Check size not disclosed; ~three-quarters of Fund I targets pre-seed/seed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "ca-standup-ventures",
+    "name": { "en": "StandUp Ventures" },
+    "aka": ["Stand Up Ventures"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.standupvc.com/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/standup-ventures"
+    },
+    "capital": {
+      "current_fund": { "raw": "Fund II ~$30M initial close (target $35M)", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2017, "size": { "raw": "$21M CAD", "usd": null, "currency": "CAD" } },
+        { "name": "Fund II", "vintage_year": 2024, "size": { "raw": "~$30M CAD initial close (target $35M)", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500,000–$1M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["generalist"],
+      "thesis": "Seed-stage fund backing Canadian, women-led or co-led for-profit tech companies with at least one woman in C-level leadership holding equitable ownership."
+    },
+    "track_record": {
+      "portfolio_count": 38,
+      "notable_investments": [
+        { "company": "GridBank", "sector": "climate-energy", "outcome": "active" },
+        { "company": "GroundedAI", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Michelle McBane", "role": "Managing Director / Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "micro-vc", "women-led", "diversity"],
+    "summary": {
+      "en": "Toronto seed-stage fund (founded 2017) led by Michelle McBane, backing Canadian women-led/co-led startups. Fund I closed at $21M CAD; Fund II secured ~$30M initial close (target $35M) with $500K–$1M cheques. 38 companies funded."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/standup-ventures-reveals-second-fund-dedicated-to-women-led-startups-with-30-million-initial-close/",
+        "title": "StandUp Ventures reveals second fund dedicated to women-led startups with $30 million initial close",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Fund II close, target, Fund I size, check size, founded year, managing partner, stages",
+        "quote": "StandUp Ventures has secured just over $30 million in initial capital for its second fund ... to secure at least $35 million overall ... its initial fund, which ended up at $21 million raised ... initial cheques of between $500,000 and $1 million at the seed stage ... StandUp was first founded in 2017"
+      },
+      {
+        "url": "https://www.standupvc.com/",
+        "title": "Stand Up Ventures",
+        "publisher": "StandUp Ventures",
+        "accessed": "2026-06-02",
+        "supports": "portfolio count, thesis",
+        "quote": "38 companies funded ... 75% of portfolio companies have a woman CEO"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "ca-maple-vc",
+    "name": { "en": "Maple VC" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "offices": [
+      { "country": "South Korea", "city": "Seoul" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "website": "https://maplevc.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/maple-vc",
+      "other": ["https://www.inovia.vc/founders/emerging-manager-partners/andre-charoo/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "Fund III ~$35M (raising)", "usd": null, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2017, "size": { "raw": "$1.2M", "usd": 1200000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2021, "size": { "raw": "$16.5M", "usd": 16500000, "currency": "USD" } },
+        { "name": "Fund III", "vintage_year": null, "size": { "raw": "~$35M (raising)", "usd": 35000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States", "Global"],
+      "sector_focus": ["generalist"],
+      "thesis": "Solo-GP seed fund backing founders with Canadian roots regardless of where they live or what they build, leveraging a global Canadian diaspora/expat network."
+    },
+    "track_record": {
+      "portfolio_count": 40
+    },
+    "people": [
+      { "name": "André Charoo", "role": "Founder & Solo General Partner" }
+    ],
+    "team_size": 1,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["solo-gp", "emerging-manager", "micro-vc", "diaspora", "seed"],
+    "summary": {
+      "en": "Solo-GP seed fund founded in 2017 by André Charoo (early Uber employee), exclusively backing founders with Canadian roots worldwide. Grew from a $1.2M Fund I to a $16.5M Fund II and is raising a ~$35M Fund III; ~$50M invested across ~40 companies."
+    },
+    "sources": [
+      {
+        "url": "https://maplevc.com/",
+        "title": "Maple VC — Building Durable Companies",
+        "publisher": "Maple VC",
+        "accessed": "2026-06-02",
+        "supports": "fund sizes, thesis, solo GP, founded year",
+        "quote": "Maple VC was born with that first $1.2 million fund. A second $16.5 million fund followed and today we're raising a third $35 million fund."
+      },
+      {
+        "url": "https://betakit.com/san-franciscos-maple-vc-closes-16-5-million-for-second-fund-focused-on-canadian-founders/",
+        "title": "Maple VC closes $16.5 million for second fund focused on Canadian founders",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Fund II size, Canadian-roots thesis",
+        "quote": "Maple VC closes $16.5 million for second fund focused on Canadian founders"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "André Charoo runs Maple as solo GP; portfolio ~40 companies and ~$50M deployed per secondary sources (vcsheet/Espresso Capital).",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "ca-two-small-fish-ventures",
+    "name": { "en": "Two Small Fish Ventures" },
+    "aka": ["Two Small Fish"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "offices": [
+      { "country": "Canada", "city": "Montreal" },
+      { "country": "United States", "city": "New York" }
+    ],
+    "website": "https://twosmallfish.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/two-small-fish-ventures",
+      "linkedin": "https://ca.linkedin.com/company/two-small-fish-ventures"
+    },
+    "capital": {
+      "current_fund": { "raw": "Fund III $41M CAD", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Fund II", "vintage_year": 2019, "size": { "raw": "$12M CAD", "usd": null, "currency": "CAD" } },
+        { "name": "Fund III", "vintage_year": 2024, "size": { "raw": "$41M CAD ($40M target)", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States", "Global"],
+      "sector_focus": ["deeptech", "ai-ml", "hardware-semiconductor"],
+      "thesis": "Early-stage deep-tech fund investing in the next frontier of computing — semiconductors, AI and 'industry-disrupting, world-class giants of the future.'"
+    },
+    "track_record": {
+      "portfolio_count": 7,
+      "notable_investments": [
+        { "company": "Ideogram", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Story Protocol", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Blumind", "sector": "hardware-semiconductor", "outcome": "active" },
+        { "company": "Applied Brain Research", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Eva Lau", "role": "Founding Partner" },
+      { "name": "Allen Lau", "role": "Partner (Wattpad co-founder)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "micro-vc", "deeptech", "semiconductors", "ai"],
+    "summary": {
+      "en": "Toronto deep-tech fund founded in 2014 by Eva Lau and Wattpad co-founder Allen Lau. Fund III held a $41M CAD final close (meeting its $40M target), backing frontier computing/AI/semiconductor startups such as Ideogram and Blumind."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/two-small-fish-ventures-holds-41-million-cad-final-close-for-fund-iii/",
+        "title": "Two Small Fish Ventures holds $41-million CAD final close for Fund III",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Fund III close and target, founded year, founders, HQ, portfolio, notable investments",
+        "quote": "secured the final close of its third venture fund, meeting its $40-million CAD target ... $41-million CAD final close ... invested in seven of its targeted 20 portfolio companies ... since its founding in 2014 ... Eva and her husband, Allen Lau, the co-founder of fanfiction giant Wattpad"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund II totalled ~$12M CAD (initial $9M close); check size not publicly disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "ca-the51",
+    "name": { "en": "The51" },
+    "aka": ["The 51 Ventures"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Calgary",
+    "website": "https://the51.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/the-51-ventures",
+      "linkedin": "https://ca.linkedin.com/company/the51"
+    },
+    "capital": {
+      "current_fund": { "raw": "Fund III $30M target (BMO lead)", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2020, "size": { "raw": "$9M CAD", "usd": null, "currency": "CAD" } },
+        { "name": "Fund III", "vintage_year": 2026, "size": { "raw": "$30M target", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["healthtech", "fintech", "impact"],
+      "thesis": "Women-led financial platform and venture firm directing women's capital into companies led or co-led by women and gender-diverse founders; Fund III focuses on health, wealth and work."
+    },
+    "track_record": {
+      "portfolio_count": 39,
+      "notable_investments": [
+        { "company": "Virtual Gurus", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "True Angle", "sector": "healthtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Shelley Kuipers", "role": "Co-founder & Co-CEO" },
+      { "name": "Judy Fairburn", "role": "Co-founder & Co-CEO" },
+      { "name": "Alice Reimer", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "micro-vc", "women-led", "diversity", "impact"],
+    "summary": {
+      "en": "Calgary women-led venture firm and financial platform founded in 2019. Its sector-agnostic first fund closed at $9M CAD; it is raising a $30M Fund III (health/wealth/work) with BMO as lead investor. 38–39 companies backed; 90% of capital from women."
+    },
+    "sources": [
+      {
+        "url": "https://www.theglobeandmail.com/business/article-the51-vc-firm-women-founders-third-fund-bmo-lead-investor/",
+        "title": "The51 launches third fund with BMO as lead investor",
+        "publisher": "The Globe and Mail",
+        "accessed": "2026-06-02",
+        "supports": "Fund III target, lead investor, founded year, focus areas",
+        "quote": "The Calgary-based firm is looking to raise $30-million in total ... lining up Bank of Montreal as its lead investor ... The51 launched in 2019 ... The third fund will focus on three areas of investment: health, wealth and work."
+      },
+      {
+        "url": "https://www.theglobeandmail.com/canada/alberta/article-the51-is-helping-women-get-a-seat-at-the-table/",
+        "title": "The51 is helping women get a seat at the table",
+        "publisher": "The Globe and Mail",
+        "accessed": "2026-06-02",
+        "supports": "founders, portfolio count, women's-capital share",
+        "quote": "Shelley Kuipers and Judy Fairburn ... put money into 38 companies ... 90-per-cent women's capital"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "First fund ~$9M CAD (sector-agnostic); ~39 companies invested per The51 community pages. Check size not publicly disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "ca-telegraph-ventures",
+    "name": { "en": "Telegraph Ventures" },
+    "aka": ["Telegraph VC"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://www.telegraph.vc",
+    "links": {
+      "other": ["https://www.inovia.vc/emerging-managers/telegraph-ventures/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$34M first close (target $40M)", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2025, "size": { "raw": "$34M first close (target $40M)", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500K–$750K", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["ai-ml", "saas-enterprise"],
+      "thesis": "Solo-GP early-stage fund backing Québec-based, AI-powered B2B startups, acting as 'co-founder with capital' with operational support and proven playbooks."
+    },
+    "people": [
+      { "name": "Étienne Mérineau", "role": "General Partner" }
+    ],
+    "team_size": 1,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["solo-gp", "emerging-manager", "micro-vc", "ai", "quebec"],
+    "summary": {
+      "en": "Montréal solo-GP fund founded 2024 by Étienne Mérineau (HubSpot/Heyday alum) backing Québec AI-powered B2B startups with $500K–$750K initial cheques. Raised a $34M first close toward a $40M target, ~half from the Québec government; Inovia LP."
+    },
+    "sources": [
+      {
+        "url": "https://www.inovia.vc/emerging-managers/telegraph-ventures/",
+        "title": "Telegraph Ventures – Inovia",
+        "publisher": "Inovia Capital",
+        "accessed": "2026-06-02",
+        "supports": "founded year, HQ, GP, sector focus",
+        "quote": "Founded: 2024 ... Headquarters: Montreal ... Étienne Mérineau (Partner) ... B2B software and AI-driven companies that enhance productivity and competitiveness"
+      },
+      {
+        "url": "https://govclab.com/2026/03/25/emerging-manager-venture-capital-the-complete-guide-for-2026/",
+        "title": "Emerging Manager Venture Capital guide",
+        "publisher": "VC Lab",
+        "accessed": "2026-06-02",
+        "supports": "first close, target, government share, check size, focus",
+        "quote": "raised $34M as part of its first closing and is on track to reach its $40M target ... roughly half of the capital coming from the Quebec government ... initial checks ranging from $500K to $750K ... Quebec-based, AI-powered B2B startups"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I first-close figure corroborated by secondary source; final close not yet confirmed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "ca-front-row-ventures",
+    "name": { "en": "Front Row Ventures" },
+    "aka": ["FRV"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://frontrow.ventures/",
+    "links": {
+      "other": ["https://www.inovia.vc/emerging-managers/front-row-ventures/", "https://realventures.com/recognizing-student-talent-with-front-row-ventures/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$5.5M CAD pan-Canadian fund", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Pan-Canadian Fund (FRV-CAN-22)", "vintage_year": 2023, "size": { "raw": "$5.5M CAD", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "~$50,000 per investment", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["generalist", "deeptech", "biotech", "saas-enterprise"],
+      "thesis": "Canada's first student-run venture capital fund, investing $50K pre-seed SAFEs into student-led startups sourced and diligenced by student investors across 20+ campuses; partnered with Real Ventures and Inovia."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Valence Discovery", "sector": "biotech", "outcome": "acquired" }
+      ],
+      "exits": [
+        { "company": "Valence Discovery", "type": "M&A", "year": null, "value": { "raw": "acquired by Recursion", "usd": null, "currency": null } }
+      ]
+    },
+    "application": {
+      "how_to_apply": "Student founders apply via campus chapters; students apply to become investors via frontrow.ventures/join-us",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["emerging-manager", "micro-vc", "student-run", "pre-seed", "pan-canadian"],
+    "summary": {
+      "en": "Canada's first student-run VC fund, originally seeded by Real Ventures in 2017 and later expanded into an oversubscribed $5.5M CAD pan-Canadian fund (FRV-CAN-22). Writes ~$50K pre-seed SAFEs into student-led startups across 20+ campuses; backed by Inovia and Quebec MEIE."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/front-row-ventures-closes-over-subscribed-5-5-million-cad-pan-canadian-fund/",
+        "title": "Front Row Ventures closes over-subscribed $5.5-million CAD pan-Canadian fund",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "fund size, check size, focus, campuses, backers, exit",
+        "quote": "closed $5.5 million for its first pan-Canadian fund ... The initial cheque size will be about $50,000 per investment ... present on over 20 campuses across Canada ... institutional support from Inovia Capital and Quebec MEIE ... Front Row was the first investor in student-led Valence Discovery"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Initial $600K CAD vehicle allocated by Real Ventures in 2017; pan-Canadian fund (10x larger) closed 2023.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "ca-roach-capital",
+    "name": { "en": "Roach Capital" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://roachcap.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/roach-capital",
+      "linkedin": "https://www.linkedin.com/company/roach-capital",
+      "other": ["https://www.inovia.vc/emerging-managers/roach-capital/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "Fund I $6.4M CAD (~$5M USD)", "usd": 5000000, "currency": "CAD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2023, "size": { "raw": "$6.4M CAD (~$5M USD)", "usd": 5000000, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$100K–$250K (fund); earlier angel cheques $10K–$25K", "usd_min": 100000, "usd_max": 250000 },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Canada", "United States", "Global"],
+      "sector_focus": ["saas-enterprise", "web3-crypto", "ecommerce", "proptech"],
+      "thesis": "Solo-GP fund led by former Shopify product lead Fahd Ananta, investing $100K–$250K into early-stage internet/software businesses anywhere, with 30–40% allocated to Canadian companies."
+    },
+    "track_record": {
+      "portfolio_count": 40,
+      "notable_investments": [
+        { "company": "Replit", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Ada", "sector": "ai-ml", "outcome": "unicorn" },
+        { "company": "Float", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Fahd Ananta", "role": "Founder & Solo General Partner" }
+    ],
+    "team_size": 1,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["solo-gp", "emerging-manager", "micro-vc", "ex-operator"],
+    "summary": {
+      "en": "Toronto solo-GP fund founded in 2019 by ex-Shopify/Snap product lead Fahd Ananta, who closed a $6.4M CAD (~$5M USD) first fund. Writes $100K–$250K cheques into early-stage internet businesses; ~40 investments including early Ada and Replit."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/roach-capital-closes-6-4-million-for-first-fund-from-prominent-vcs-shopify-execs/",
+        "title": "Roach Capital closes $6.4 million CAD for first fund",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "fund size, founded year, GP, check size, portfolio, notable investments",
+        "quote": "closed about $6.4 million CAD (approximately $5 million USD) ... launched Roach Capital in 2019 ... Led by former Shopify product lead ... Fahd Ananta ... invested over $1.5 million CAD ... across 15 companies ... including Float and San Francisco software startup Replit ... early investment in Ada, which went on to achieve unicorn status"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "BetaKit cites 15 companies at close (2023) and early angel cheques of $10K–$25K; later coverage cites ~40 total investments and $100K–$250K fund cheques.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "ca-metalab-ventures",
+    "name": { "en": "Metalab Ventures" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Victoria",
+    "website": "https://metalab.ventures",
+    "links": {
+      "other": ["https://www.inovia.vc/emerging-managers/metalab/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "Fund I (size undisclosed)", "usd": null, "currency": null },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2024, "size": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["saas-enterprise", "consumer"],
+      "thesis": "Venture arm of design studio MetaLab (part of Tiny), pairing capital with in-house design, engineering and product expertise; backs founders who prioritize design as a way to connect with users."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Luke Des Cotes", "role": "General Partner" },
+      { "name": "David Tapp", "role": "General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "micro-vc", "design-led", "first-fund"],
+    "summary": {
+      "en": "First-time venture fund (launched 2024) from MetaLab, the design studio under Andrew Wilkinson's Tiny holding company. GPs Luke Des Cotes and David Tapp invest pre-seed through Series A, planning 25–35 companies, combining capital with MetaLab's design/engineering resources."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2024/04/09/product-design-ua-metalab-seed-venture-fund/",
+        "title": "Metalab goes from quietly building the internet to investing in it",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "stages, portfolio target, GPs, design-led approach, founding",
+        "quote": "Metalab Ventures focuses on early-stage investments across the pre-seed, seed, and Series A stages and plans to back between 25 and 35 companies through its first fund ... general partners ... are Luke Des Cotes and David Tapp"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund size not disclosed; MetaLab founded 2006 but the venture fund itself launched 2024. HQ Victoria, BC (Tiny's base).",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "ca-boon-fund",
+    "name": { "en": "Boon Fund" },
+    "aka": ["Boon"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.boon.fund",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/boon-fund1",
+      "other": ["https://www.inovia.vc/emerging-managers/boon-fund/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "Fund I (size undisclosed)", "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["fintech", "ecommerce", "saas-enterprise"],
+      "thesis": "Operator-led pre-seed and seed fund investing at the intersection of commerce and fintech infrastructure — 'the first check and first friend on your cap table.'"
+    },
+    "track_record": {
+      "portfolio_count": 20
+    },
+    "people": [
+      { "name": "Alex Barrett", "role": "Co-founder & General Partner" },
+      { "name": "Matt Stein", "role": "Co-founder & General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "micro-vc", "commerce", "fintech", "ex-operator"],
+    "summary": {
+      "en": "Toronto operator-led pre-seed/seed fund founded in 2022 by Alex Barrett and Matt Stein (who met at Clearco), investing at the intersection of commerce and fintech infrastructure. ~20 investments to date; Inovia is an LP."
+    },
+    "sources": [
+      {
+        "url": "https://www.inovia.vc/emerging-managers/boon-fund/",
+        "title": "Boon Fund – Inovia",
+        "publisher": "Inovia Capital",
+        "accessed": "2026-06-02",
+        "supports": "GPs, stages, sector, founded year",
+        "quote": "Alex Barrett and Matt Stein ... Founded: 2022 ... The firm invests at pre-seed and seed stages at the intersection of commerce and fintech infrastructure ... Boon is the first check and first friend on your cap table."
+      },
+      {
+        "url": "https://www.inovia.vc/inovia-conversations/inovia-emerging-managers-portrait-series-meet-boon/",
+        "title": "Inovia Emerging Managers Portrait Series: Meet Boon",
+        "publisher": "Inovia Capital",
+        "accessed": "2026-06-02",
+        "supports": "portfolio count",
+        "quote": "to date, the duo has made 20 investments"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund size and check size not publicly disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "ca-defined-capital",
+    "name": { "en": "Defined Capital" },
+    "aka": ["Defined"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Vancouver",
+    "website": "https://www.defined.vc",
+    "links": {
+      "other": ["https://www.inovia.vc/emerging-managers/defined/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "Fund I (size undisclosed)", "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["ai-ml", "deeptech"],
+      "thesis": "Thesis-driven fund investing as early as possible across the building blocks of the AI frontier, taking a full-stack approach to Data + AI companies."
+    },
+    "people": [
+      { "name": "Mark Trevitt", "role": "Founder & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "micro-vc", "ai", "deeptech", "first-fund"],
+    "summary": {
+      "en": "Vancouver thesis-driven AI/frontier-tech fund founded in 2023 by Mark Trevitt, investing as early as possible across the building blocks of the AI frontier (Data + AI). Backed by Inovia's Discovery Fund."
+    },
+    "sources": [
+      {
+        "url": "https://www.inovia.vc/emerging-managers/defined/",
+        "title": "Defined – Inovia",
+        "publisher": "Inovia Capital",
+        "accessed": "2026-06-02",
+        "supports": "GP, founded year, HQ, sector focus",
+        "quote": "Mark Trevitt (Founder & Managing Partner) ... Founded: 2023 ... Headquarters: Vancouver ... thesis-driven venture capital firm investing as early as possible and taking a full-stack approach across the building blocks of the AI Frontier"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund size and check size not publicly disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "ca-garage-capital",
+    "name": { "en": "Garage Capital" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Waterloo",
+    "website": "https://www.garage.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/garage-capital",
+      "linkedin": "https://www.linkedin.com/company/garage-capital",
+      "other": ["https://www.inovia.vc/emerging-managers/garage-capital/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "Fund III (initial close US$9.375M; tapped $50M federal VCCI)", "usd": null, "currency": "USD" },
+      "funds": [
+        { "name": "Fund III", "vintage_year": 2019, "size": { "raw": "US$9.375M initial close", "usd": 9375000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["saas-enterprise", "deeptech", "ai-ml", "consumer"],
+      "thesis": "Operator-led seed fund 'built by founders, for founders' (Vidyard and BufferBox founders), helping best-in-class Canadian and Y Combinator startups jump from garage to growth."
+    },
+    "track_record": {
+      "portfolio_count": "250+",
+      "notable_investments": [
+        { "company": "Faire", "sector": "ecommerce", "outcome": "unicorn" },
+        { "company": "Ada", "sector": "ai-ml", "outcome": "unicorn" },
+        { "company": "Groq", "sector": "hardware-semiconductor", "outcome": "active" },
+        { "company": "ApplyBoard", "sector": "edtech", "outcome": "unicorn" }
+      ]
+    },
+    "people": [
+      { "name": "Michael Litt", "role": "General Partner (Vidyard co-founder)" },
+      { "name": "Devon Galloway", "role": "General Partner (Vidyard co-founder)" },
+      { "name": "Mike McCauley", "role": "General Partner (BufferBox co-founder)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "micro-vc", "operator-led", "yc", "waterloo"],
+    "summary": {
+      "en": "Waterloo operator-led seed fund founded by Vidyard and BufferBox founders, backing Canadian and YC startups. Has invested in 250+ companies (collective valuation >$30B) including Faire, Ada, Groq and ApplyBoard; Fund III had a US$9.375M initial close and tapped the $50M federal VCCI program."
+    },
+    "sources": [
+      {
+        "url": "https://www.garage.vc/",
+        "title": "Garage Capital",
+        "publisher": "Garage Capital",
+        "accessed": "2026-06-02",
+        "supports": "portfolio count, GPs, thesis, notable investments",
+        "quote": "We've invested in >250 companies, with a collective valuation of >$30B ... Michael Litt (CEO & Co-founder of Vidyard) ... Devon Galloway ... Mike McCauley (Co-founder of BufferBox) ... We help best-in-class Canadian and YC startups jump from garage to growth."
+      },
+      {
+        "url": "https://privatecapitaljournal.com/garage-capital-initial-closes-third-fund/",
+        "title": "Garage Capital initial closes third fund",
+        "publisher": "Private Capital Journal",
+        "accessed": "2026-06-02",
+        "supports": "Fund III initial close",
+        "quote": "Garage Capital held an initial close for its third fund, Garage III, raising US $9.375 million from 12 Canadian and 1 US LPs"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded year ~2015 per Crunchbase/secondary sources; later funds (Fund IV, Opportunities Fund) exist but sizes not all publicly disclosed. Garage tapped the $50M federal VCCI program per Communitech.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "ca-luge-capital",
+    "name": { "en": "Luge Capital" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "offices": [
+      { "country": "Canada", "city": "Toronto" }
+    ],
+    "website": "https://www.luge.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/luge-capital"
+    },
+    "capital": {
+      "aum": { "raw": "~$180M across two funds", "usd": null, "currency": "CAD" },
+      "current_fund": { "raw": "Fund II $96M CAD", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Fund II", "vintage_year": 2024, "size": { "raw": "$96M CAD (first close $71M)", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["fintech", "ai-ml"],
+      "thesis": "Early-stage fintech-focused fund backing the most promising fintech and AI-applied-to-financial-services companies in Canada and the U.S."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "inscora", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "David Nault", "role": "General Partner" },
+      { "name": "Karim Gillani", "role": "General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "micro-vc", "fintech", "ai"],
+    "summary": {
+      "en": "Montréal/Toronto early-stage fintech fund founded in 2018 by David Nault and Karim Gillani. Closed a $96M CAD Fund II (first close $71M), bringing AUM to ~$180M across two funds, investing in fintech and AI-applied-to-financial-services across Canada and the U.S."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/luge-capital-navigates-emerging-manager-minefield-closes-second-early-stage-fintech-fund-at-96-million-cad/",
+        "title": "Luge Capital closes second early-stage FinTech fund at $96 million CAD",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Fund II size, emerging-manager context, sector",
+        "quote": "closes second early-stage FinTech fund at $96 million CAD"
+      },
+      {
+        "url": "https://www.lacaisse.com/en/news/pressreleases/luge-capital-announces-71-million-first-close-second-fund",
+        "title": "Luge Capital Announces $71 Million First Close of Second Fund",
+        "publisher": "La Caisse (CDPQ)",
+        "accessed": "2026-06-02",
+        "supports": "Fund II first close, founders, founded year, HQ",
+        "quote": "Luge Capital Announces $71 Million First Close of Second Fund ... founded in 2018 by general partners David Nault and Karim Gillani ... offices in Montreal and Toronto"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM ~$180M across two funds per Luge press release; check size not publicly disclosed. Included as an emerging/fintech-focused manager (Fund II), though now an established firm.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "ca-union-capital",
+    "name": { "en": "Union Capital" },
+    "aka": ["Union VC"],
+    "type": "micro-vc",
+    "subtypes": ["angel-syndicate", "vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.union.vc",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/unionvc",
+      "other": ["https://www.inovia.vc/emerging-managers/union-capital/"]
+    },
+    "capital": {
+      "current_fund": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["generalist", "saas-enterprise"],
+      "thesis": "Collective of ~100 entrepreneurs, operators and investors (from Uber, Shopify, Ada, League, ecobee, Wave) co-investing in category-defining early-stage technology companies; member of Bain Capital Ventures' global angel network."
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "micro-vc", "operator-collective", "angel-network"],
+    "summary": {
+      "en": "Toronto operator-led collective of ~100 LPs (executives from Uber, Shopify, Ada, League and others) investing in early-stage technology companies. Backed by Inovia's Discovery Fund as an emerging manager; fund size and check size not publicly disclosed."
+    },
+    "sources": [
+      {
+        "url": "https://ca.linkedin.com/company/unionvc",
+        "title": "Union Capital | LinkedIn",
+        "publisher": "LinkedIn",
+        "accessed": "2026-06-02",
+        "supports": "structure, LP base, thesis",
+        "quote": "a collective of entrepreneurs, operators & investors investing in category defining, early stage technology companies ... almost 100 limited partners ... member of Bain Capital Ventures' global angel investing network"
+      },
+      {
+        "url": "https://www.inovia.vc/inovia-conversations/deploying-discovery-fund-i-inovias-first-vehicle-dedicated-to-pre-seed-seed-and-canadian-emerging-managers/",
+        "title": "Deploying Discovery Fund I — Inovia",
+        "publisher": "Inovia Capital",
+        "accessed": "2026-06-02",
+        "supports": "classification as Ontario emerging manager backed by Inovia",
+        "quote": "Ontario: Garage Capital ... N49P Ventures ... Northside Ventures ... Union Capital ... Two Small Fish Ventures ... Roach Capital"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Operator-collective/angel-network style vehicle; founded year, fund size and check size not publicly disclosed. Included because it appears on Inovia's Canadian emerging-manager roster, but quantitative detail is thin.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  }
+]

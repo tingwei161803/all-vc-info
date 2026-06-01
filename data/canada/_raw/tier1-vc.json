@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ca-inovia-capital",
+    "name": { "en": "Inovia Capital" },
+    "aka": ["iNovia", "iNovia Capital"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2007,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://www.inovia.vc/",
+    "offices": [
+      { "country": "Canada", "city": "Montreal" },
+      { "country": "Canada", "city": "Toronto" },
+      { "country": "Canada", "city": "Calgary" },
+      { "country": "Canada", "city": "Waterloo" },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/inovia-capital",
+      "other": ["https://www.inovia.vc/team/"]
+    },
+    "capital": {
+      "aum": { "raw": "US$2.5B", "usd": 2500000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund IV", "vintage_year": 2019, "size": { "raw": "$265 million CAD ($200 million USD)", "usd": 200000000, "currency": "CAD" } },
+        { "name": "Fund V", "vintage_year": 2022, "size": { "raw": "$420 million CAD ($325 million USD)", "usd": 325000000, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": "$1–5M for seed deals; $5–25M for Series A", "usd_min": 1000000, "usd_max": 25000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States", "Europe"],
+      "sector_focus": ["saas-enterprise", "consumer", "ai-ml", "generalist"],
+      "thesis": "Partners with founders to build impactful, enduring global technology companies from pre-seed to pre-IPO across three strategies — Discovery, Venture and Growth — anchored in Canada with an EU presence; recent focus on generative AI."
+    },
+    "track_record": {
+      "portfolio_count": 73,
+      "notable_investments": [
+        { "company": "Lightspeed", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Cohere", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Hopper", "sector": "consumer", "outcome": "active" },
+        { "company": "Wealthsimple", "sector": "fintech", "outcome": "active" },
+        { "company": "AppDirect", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Top Hat", "sector": "edtech", "outcome": "active" },
+        { "company": "Certn", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Chris Arsenault", "role": "Co-founder & Partner (Montreal)" },
+      { "name": "Shawn Abbott", "role": "Co-founder & Partner (Calgary)" },
+      { "name": "Patrick Pichette", "role": "Partner (London); former Google CFO" },
+      { "name": "Dennis Kavelman", "role": "Partner (Toronto)" },
+      { "name": "Karamdeep Nijjar", "role": "Partner (Toronto)" },
+      { "name": "Magaly Charbonneau", "role": "Partner (Montreal)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["tier-1", "multi-stage", "generalist", "brand-name"],
+    "summary": {
+      "en": "Montreal-founded Inovia Capital is one of Canada's largest and best-known multi-stage VC firms, managing US$2.5B across pre-seed-to-pre-IPO Discovery, Venture and Growth strategies. Backers of Lightspeed, Cohere, Hopper and Wealthsimple, with 66+ exits.",
+      "local": "Fondée à Montréal, Inovia Capital est l'une des plus grandes et des plus connues sociétés de capital de risque multi-stade au Canada, gérant 2,5 G$ US."
+    },
+    "sources": [
+      { "url": "https://www.inovia.vc/", "title": "Inovia — Home", "publisher": "Inovia Capital", "accessed": "2026-06-02", "supports": "AUM, portfolio count, exits, stages, sectors, notable companies", "quote": "US$ 2.5 B ... 73 Portfolio Companies ... 66 Exits ... AppDirect, Cohere, Hopper, Wealthsimple ... Discovery, Venture & Growth" },
+      { "url": "https://betakit.com/inovia-raises-420-million-cad-for-fifth-early-stage-venture-fund/", "title": "Inovia raises $420 million CAD for fifth early-stage venture fund", "publisher": "BetaKit", "accessed": "2026-06-02", "supports": "Fund V size, Fund IV size, prior AUM, stages, check sizes, portfolio", "quote": "Inovia Capital has secured $420 million CAD ($325 million USD) for its fifth fund focused on early-stage investing. ... the $265 million CAD ($200 million USD) raised for Fund IV in 2019. ... For seed deals, Inovia plans to cut cheques between $1-5 million, and cheques of $5-25 million for Series A. ... companies like Lightspeed, Top Hat, and Certn" },
+      { "url": "https://www.inovia.vc/team/", "title": "Team — Inovia", "publisher": "Inovia Capital", "accessed": "2026-06-02", "supports": "Founding year 2007, partners and offices", "quote": "Chris Arsenault ... Co-founder (2007) ... Shawn Abbott ... Co-founder (2007)" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Inovia website states US$2.5B AUM; BetaKit (2022) reported $2.2B USD at Fund V close, so AUM has grown since. Founding year 2007 confirmed via team bios.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "ca-georgian",
+    "name": { "en": "Georgian" },
+    "aka": ["Georgian Partners"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2008,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://georgian.io/",
+    "offices": [{ "country": "Canada", "city": "Toronto" }],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/georgian-partners",
+      "other": ["https://www.cbinsights.com/investor/georgian-partners-aum-fund-size"]
+    },
+    "capital": {
+      "aum": { "raw": "$5.7B AUM as of September 30, 2025", "usd": 5700000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2010, "size": { "raw": "$70 million", "usd": 70000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "$200 million", "usd": 200000000, "currency": "USD" } },
+        { "name": "Fund III", "vintage_year": null, "size": { "raw": "$485 million", "usd": 485000000, "currency": "USD" } },
+        { "name": "Fund IV", "vintage_year": null, "size": { "raw": "$730 million", "usd": 730000000, "currency": "USD" } },
+        { "name": "Fund V", "vintage_year": 2021, "size": { "raw": "$1.1 billion CAD ($850 million USD)", "usd": 850000000, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "between $20 and $50 million", "usd_min": 20000000, "usd_max": 50000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "cybersecurity"],
+      "thesis": "Growth-equity firm investing in expansion and later-stage information-intensive / enterprise software companies that apply AI; an in-house AI Lab of 20+ ML engineers works directly with portfolio companies."
+    },
+    "track_record": {
+      "portfolio_count": 196,
+      "notable_investments": [
+        { "company": "Shopify", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "FreshBooks", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Top Hat", "sector": "edtech", "outcome": "active" },
+        { "company": "Ritual", "sector": "consumer", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Armis", "type": "M&A", "year": 2025, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Justin LaFayette", "role": "Co-founder & Managing Partner" },
+      { "name": "Simon Chong", "role": "Co-founder & Managing Partner" },
+      { "name": "John Berton", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["tier-1", "growth", "ai", "brand-name"],
+    "summary": {
+      "en": "Toronto-based Georgian (formerly Georgian Partners), founded 2008, is one of Canada's largest tech investors with roughly $5.7B AUM, focused on growth-stage enterprise software applying AI, writing $20–50M cheques. Backed Shopify, FreshBooks and Top Hat.",
+      "local": "Basée à Toronto, Georgian (anciennement Georgian Partners), fondée en 2008, gère environ 5,7 G$ US et investit dans les logiciels d'entreprise en phase de croissance appliquant l'IA."
+    },
+    "sources": [
+      { "url": "https://www.cbinsights.com/investor/georgian-partners-aum-fund-size", "title": "Georgian Portfolio Investments, Funds, Exits", "publisher": "CB Insights", "accessed": "2026-06-02", "supports": "Number of funds, investments, exits, founding year, HQ, focus", "quote": "Georgian operates 9 funds ... has made 196 investments ... has achieved 29 portfolio exits ... a growth equity firm investing in expansion and later-stage information-intensive software ... founded in 2008 and based in Toronto, Canada." },
+      { "url": "https://betakit.com/georgian-partners-raises-first-canadian-venture-fund-valued-at-over-1-billion-cad/", "title": "Georgian Partners raises first Canadian venture fund valued at over $1 billion CAD", "publisher": "BetaKit", "accessed": "2026-06-02", "supports": "Fund V size, prior fund sizes, check size, founders, founding year, portfolio", "quote": "Toronto-based Georgian Partners has secured $1.1 billion CAD ($850 million USD) for its fifth fund ... Georgian invests in enterprise software startups in the US and Canada seeking investment between $20 and $50 million ... founded by Justin LaFayette, Simon Chong, and John Berton ... closed its first $70 million fund in 2010 followed by $200 million in its second fund, and $485 million for its third ... $730 million fourth fund ... backed Canadian startups like Top Hat, Shopify, FreshBooks, and Ritual" },
+      { "url": "https://aum13f.com/firm/georgian-partners-growth-lp", "title": "Georgian Partners Growth LP | AUM 13F", "publisher": "AUM13F", "accessed": "2026-06-02", "supports": "AUM figure", "quote": "Georgian manages $5.7B AUM as of September 30, 2025." }
+    ],
+    "confidence": "high",
+    "verification_notes": "Sometimes characterized as growth equity rather than classic multi-stage VC, but widely regarded as a brand-name Canadian tech investor. AUM figures vary by source ($5.7B–$5.9B); used the AUM13F/CB Insights date-stamped figure.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "ca-omers-ventures",
+    "name": { "en": "OMERS Ventures" },
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.omersventures.com/",
+    "offices": [
+      { "country": "Canada", "city": "Toronto" },
+      { "country": "United States", "city": "Silicon Valley" },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/omers-ventures",
+      "other": ["https://medium.com/omers-ventures"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2011, "size": { "raw": "CAD$180M", "usd": null, "currency": "CAD" } },
+        { "name": "Fund IV", "vintage_year": 2020, "size": { "raw": "$750 million USD", "usd": 750000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": "$5 million to $25 million", "usd_min": 5000000, "usd_max": 25000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States", "Europe"],
+      "sector_focus": ["fintech", "healthtech", "proptech", "saas-enterprise", "ai-ml", "logistics"],
+      "thesis": "Venture arm of the Ontario Municipal Employees Retirement System (OMERS); the only pension fund in the world doing direct early-stage venture. Fund IV is a US$750M transatlantic fund; in 2025 OMERS Ventures refocused on Canada with $5–25M tickets."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Shopify", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "Hopper", "sector": "consumer", "outcome": "active" },
+        { "company": "Wave", "sector": "fintech", "outcome": "acquired" },
+        { "company": "Hootsuite", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Wattpad", "sector": "consumer", "outcome": "acquired" },
+        { "company": "DuckDuckGo", "sector": "consumer", "outcome": "active" },
+        { "company": "TouchBistro", "sector": "saas-enterprise", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Shopify", "type": "IPO", "year": 2015, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Wattpad", "type": "M&A", "year": 2021, "value": { "raw": "US$660 million (acquired by Naver)", "usd": 660000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Damien Steel", "role": "Former Managing Partner & Head of Ventures" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["tier-1", "pension-backed", "multi-stage", "brand-name"],
+    "summary": {
+      "en": "Launched in 2011 as the venture arm of Ontario pension giant OMERS, OMERS Ventures was Canada's first pension-backed direct VC. Its US$750M Fund IV invests Series A–C ($5–25M cheques) across Canada, the US and Europe; backers of Shopify, Hopper, Wave and Wattpad.",
+      "local": "Lancée en 2011 comme la branche de capital de risque du régime de retraite ontarien OMERS, OMERS Ventures fut le premier investisseur de capital de risque direct adossé à une caisse de retraite au Canada."
+    },
+    "sources": [
+      { "url": "https://betakit.com/omers-ventures-announces-first-transatlantic-fund-at-750-million-usd/", "title": "OMERS Ventures announces first transatlantic fund at $750 million USD", "publisher": "BetaKit", "accessed": "2026-06-02", "supports": "Fund IV size, stages, check sizes, geo split, sectors, offices, portfolio", "quote": "$750 million USD fund ... Series A to Series C financing ... Initial investments will typically range between $5 million to $25 million ... Close to one-quarter of its capital in Canada, with 40 percent in Europe and the rest in the US ... Nine partners across three offices, based in Toronto, Silicon Valley, and London ... Companies like Shopify, Hopper, Wave, TouchBistro, Crunchbase, and DuckDuckGo" },
+      { "url": "https://medium.com/omers-ventures/a-decade-in-were-just-getting-started-7bfd7a2ab56b", "title": "A decade in: we're just getting started", "publisher": "OMERS Ventures (Medium)", "accessed": "2026-06-02", "supports": "Founding year 2011, first fund size CAD$180M, pension-backed first-of-kind", "quote": "OMERS Ventures was launched in 2011 ... The first OMERS venture fund was CAD$180M and was the first of its kind in Canada ... they remain the only pension company in the world doing it." }
+    ],
+    "confidence": "high",
+    "verification_notes": "Classified as CVC because it is the venture arm of the OMERS pension plan, though it operates as a brand-name multi-stage VC. 2025 Canada-refocus and current check sizes corroborated by secondary sources; Fund IV is a 2020 vintage. Damien Steel has since reduced his role; current managing partner not re-verified here.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "ca-bdc-capital",
+    "name": { "en": "BDC Capital" },
+    "aka": ["Business Development Bank of Canada — Capital", "BDC Venture Capital"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://www.bdc.ca/en/bdc-capital/venture-capital",
+    "offices": [{ "country": "Canada", "city": "Montreal" }],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/bdc-venture-capital",
+      "other": ["https://www.bdc.ca/en/bdc-capital/venture-capital/funds"]
+    },
+    "capital": {
+      "aum": { "raw": "CAD 6.9 billion (as of 2024)", "usd": null, "currency": "CAD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["cleantech", "deeptech", "saas-enterprise", "healthtech", "biotech", "ai-ml", "generalist"],
+      "thesis": "The investment arm of the Business Development Bank of Canada — Canada's largest and most active venture capital investor, providing direct equity and fund-of-funds investment across early-to-late stages and underserved sectors, plus advice and network access."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Cohere", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["tier-1", "government-backed", "most-active", "multi-stage"],
+    "summary": {
+      "en": "BDC Capital is the investment arm of the federal Business Development Bank of Canada and self-describes as 'Canada's largest and most active venture capital investor,' with roughly CAD 6.9B AUM (2024) across direct and indirect (fund-of-funds) investments spanning every stage and many sectors.",
+      "local": "BDC Capital est la branche d'investissement de la Banque de développement du Canada et se décrit comme le plus grand et le plus actif investisseur en capital de risque au Canada."
+    },
+    "sources": [
+      { "url": "https://www.bdc.ca/en/bdc-capital/venture-capital", "title": "BDC Capital — Venture Capital", "publisher": "BDC", "accessed": "2026-06-02", "supports": "Position as largest/most active, three decades, multi-stage and underserved sectors", "quote": "We're Canada's largest and most active venture capital investor. ... We've been building powerhouse Canadian technology companies for three decades. ... here for firms in underserved sectors." },
+      { "url": "https://www.oecd.org/en/publications/benchmarking-government-support-for-venture-capital_82cd3fe1-en/canada_b25f583d-en.html", "title": "Benchmarking government support for venture capital: Canada", "publisher": "OECD", "accessed": "2026-06-02", "supports": "AUM growth to CAD 6.9 billion (2024), direct/indirect split", "quote": "BDC Capital's AUM have increased significantly in the last 13 years, from CAD 0.8 billion to CAD 6.9 billion (as of 2024) ... 62% of AUM at BDC Capital stemmed from direct investments." },
+      { "url": "https://news.crunchbase.com/venture/ai-cohere-valuation-rises-psp-cisco-fijitsu/", "title": "Cohere Raises $500M at $5.5B Valuation", "publisher": "Crunchbase News", "accessed": "2026-06-02", "supports": "BDC participation in Cohere round", "quote": "Business Development Bank of Canada (BDC) and Nexxus Capital Management were new investors" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Typed as government-program (it is the venture arm of a federal Crown corporation) with vc subtype, since it is the dominant brand-name multi-stage investor in Canada. Founding year of the VC arm left null (BDC the bank dates to 1944; the VC arm is ~3 decades old per its own site). AUM CAD 6.9B per OECD (2024).",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "ca-real-ventures",
+    "name": { "en": "Real Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2007,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://realventures.com/",
+    "offices": [
+      { "country": "Canada", "city": "Montreal" },
+      { "country": "Canada", "city": "Toronto" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/real-ventures",
+      "other": ["https://realventures.com/team/"]
+    },
+    "capital": {
+      "aum": { "raw": "$325 million across five funds", "usd": 325000000, "currency": "CAD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["generalist", "ai-ml", "web3-crypto", "saas-enterprise"],
+      "thesis": "One of Canada's most active early-stage (pre-seed/seed) VC firms, based in Montreal; backs passionate founders using technology to disrupt the status quo and runs the FounderFuel accelerator."
+    },
+    "track_record": {
+      "portfolio_count": "200+",
+      "notable_investments": [
+        { "company": "Clearco", "sector": "fintech", "outcome": "active" },
+        { "company": "Element AI", "sector": "ai-ml", "outcome": "acquired" },
+        { "company": "Busbud", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "John Stokes", "role": "Co-founder & Managing Partner" },
+      { "name": "Alan MacIntosh", "role": "Co-founder & Board Partner" },
+      { "name": "JS Cournoyer", "role": "Co-founder & Board Partner" },
+      { "name": "Sam Haffar", "role": "Partner" },
+      { "name": "Katy Yam", "role": "Partner & FounderFuel General Manager" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["tier-1", "early-stage", "seed", "brand-name", "quebec"],
+    "summary": {
+      "en": "Founded in 2007 and based in Montréal, Real Ventures is one of Canada's most active early-stage VC firms, with $325M raised across five funds and 200+ companies backed (Clearco, Element AI, Busbud). Founding partners have stepped back to board roles as the firm prepares its next fund.",
+      "local": "Fondée en 2007 et basée à Montréal, Real Ventures est l'une des sociétés de capital de risque en phase d'amorçage les plus actives au Canada, avec 325 M$ levés sur cinq fonds et plus de 200 entreprises financées."
+    },
+    "sources": [
+      { "url": "https://betakit.com/as-founding-partners-step-back-a-new-real-ventures-prepares-to-raise-its-next-fund/", "title": "As founding partners step back, a new Real Ventures prepares to raise its next fund", "publisher": "BetaKit", "accessed": "2026-06-02", "supports": "Total capital raised, number of funds and companies, founding year, HQ, transition", "quote": "Real has raised $325 million in capital and invested in more than 200 companies ... Based in Montréal with five funds under its belt ... Founded in 2007, Real is one of the most active early-stage VC firms in Canada. ... The transition of founding partners Alan MacIntosh and JS Cournoyer to board partner roles" },
+      { "url": "https://realventures.com/team/", "title": "Team | Real Ventures", "publisher": "Real Ventures", "accessed": "2026-06-02", "supports": "Partners, roles, FounderFuel, co-founders", "quote": "John Stokes — Cofounded Real Ventures in 2007 ... Katy Yam — Partner & FounderFuel General Manager ... Alan MacIntosh — Cofounded Real Ventures in 2007" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding partners MacIntosh and Cournoyer have moved to board-partner roles; former managing partner Janet Bannister has departed to found another firm. Firm reported (BetaKit) preparing its next fund; treated as active. Element AI exit was a modest acquisition by ServiceNow.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "ca-golden-ventures",
+    "name": { "en": "Golden Ventures" },
+    "aka": ["Golden Venture Partners"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2011,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.golden.ventures/",
+    "offices": [{ "country": "Canada", "city": "Toronto" }],
+    "links": {
+      "other": ["https://www.golden.ventures/team"]
+    },
+    "capital": {
+      "aum": { "raw": "$364 million", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Fund IV", "vintage_year": null, "size": { "raw": "$100-million", "usd": 100000000, "currency": "USD" } },
+        { "name": "Fund V", "vintage_year": 2024, "size": { "raw": "about $103 million USD ($139 million CAD)", "usd": 103000000, "currency": "USD" } },
+        { "name": "Opportunities Fund II", "vintage_year": 2022, "size": { "raw": "$40-million", "usd": 40000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "initial cheques of $500,000 to $3 million", "usd_min": 500000, "usd_max": 3000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "ai-ml", "fintech"],
+      "thesis": "Toronto-based, sector-agnostic seed-stage VC focused largely on the Toronto–Waterloo corridor, with Opportunities Funds to double down on top performers at later stages. Famous for a Wattpad return exceeding its entire first fund."
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "notable_investments": [
+        { "company": "Wattpad", "sector": "consumer", "outcome": "acquired" },
+        { "company": "Faire", "sector": "ecommerce", "outcome": "active" },
+        { "company": "ApplyBoard", "sector": "edtech", "outcome": "active" },
+        { "company": "Neo Financial", "sector": "fintech", "outcome": "active" },
+        { "company": "Waabi", "sector": "ai-ml", "outcome": "active" },
+        { "company": "BenchSci", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Shakepay", "sector": "web3-crypto", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Wattpad", "type": "M&A", "year": 2021, "value": { "raw": "US$660-million (acquired by Naver)", "usd": 660000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Matt Golden", "role": "Founder & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["tier-1", "seed", "generalist", "brand-name"],
+    "summary": {
+      "en": "Launched in 2011 by Matt Golden, Toronto-based Golden Ventures is one of Canada's best-known sector-agnostic seed funds, with ~$364M AUM across seven funds (Fund V ~$103M USD). Writes $500K–$3M initial cheques and backed Wattpad, Faire, ApplyBoard, Neo Financial and Waabi.",
+      "local": "Lancée en 2011 par Matt Golden, Golden Ventures, basée à Toronto, est l'un des fonds d'amorçage agnostiques les plus connus du Canada."
+    },
+    "sources": [
+      { "url": "https://betakit.com/golden-ventures-closes-nearly-140-million-cad-for-fifth-seed-stage-vc-fund/", "title": "Golden Ventures closes nearly $140 million CAD for fifth seed-stage VC fund", "publisher": "BetaKit", "accessed": "2026-06-02", "supports": "Fund V size, total funds and AUM, founding year, HQ, stages, check sizes, sector-agnostic, portfolio, opportunities fund", "quote": "about $103 million USD ($139 million CAD) ... which now total seven ... Fund V brings Golden's total AUM to $364 million ... Golden was launched in 2011 ... Toronto-based Golden Ventures ... seed-stage technology startups ... initial cheques of $500,000 to $3 million ... sector-agnostic VC firm ... backing over 100 startups, including ApplyBoard, Avidbots, BenchSci, Faire, Float, Inkbox, Neo Financial, Shakepay, Waabi, and Xanadu ... a $40-million, previously unannounced second Opportunities Fund the firm quietly raised in 2022" },
+      { "url": "https://www.theglobeandmail.com/business/article-toronto-seed-investor-golden-ventures-raises-two-funds-after-wattpad/", "title": "Toronto seed investor Golden Ventures raises two funds after Wattpad windfall", "publisher": "The Globe and Mail", "accessed": "2026-06-02", "supports": "Wattpad exit value and that it returned more than the first fund", "quote": "Golden's stake in Wattpad returned more than the size of its entire first fund, when Korean giant Naver Corp. bought it for US$660-million." }
+    ],
+    "confidence": "high",
+    "verification_notes": "Primarily a seed-stage firm but operates Opportunities Funds for later-stage follow-on, giving it a multi-stage character; widely regarded as a brand-name Canadian VC. Fund IV size (~$100M) from Globe and Mail; Fund V and AUM from BetaKit.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  }
+]

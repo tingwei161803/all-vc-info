@@ -1,0 +1,961 @@
+[
+  {
+    "id": "us-gv-google-ventures",
+    "name": { "en": "GV (Google Ventures)" },
+    "aka": ["Google Ventures", "GV"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2009,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Mountain View",
+    "website": "https://www.gv.com/",
+    "offices": [
+      { "country": "United States", "city": "Mountain View" },
+      { "country": "United States", "city": "San Francisco" },
+      { "country": "United States", "city": "New York City" },
+      { "country": "United States", "city": "Cambridge" },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/google-ventures",
+      "other": ["https://en.wikipedia.org/wiki/GV_(company)"]
+    },
+    "capital": {
+      "aum": { "raw": "approximately $10 billion", "usd": 10000000000, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": "USD" },
+      "funds": [
+        { "name": "Initial commitment (2009)", "vintage_year": 2009, "size": { "raw": "$100 million", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Europe"],
+      "sector_focus": ["ai-ml", "healthtech", "biotech", "consumer", "saas-enterprise", "deeptech"],
+      "thesis": "Venture arm of Alphabet investing off the corporate balance sheet across AI-native applications, life sciences/healthcare, enterprise, consumer and frontier tech; positions itself as backing companies 'a decade ahead'."
+    },
+    "track_record": {
+      "portfolio_count": "300+",
+      "notable_investments": [
+        { "company": "Uber", "sector": "mobility", "outcome": "IPO" },
+        { "company": "Nest", "sector": "hardware-semiconductor", "outcome": "acquired" },
+        { "company": "Slack", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Stripe", "sector": "fintech", "outcome": "active" },
+        { "company": "Flatiron Health", "sector": "healthtech", "outcome": "acquired" }
+      ]
+    },
+    "people": [
+      { "name": "David Krane", "role": "CEO & Managing Partner" },
+      { "name": "Bill Maris", "role": "Founding CEO (former)" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["alphabet", "google", "corporate-vc", "multi-stage"],
+    "summary": {
+      "en": "GV (formerly Google Ventures), launched in 2009, is the venture capital arm of Alphabet Inc. with approximately $10 billion under management and 300+ portfolio companies. It invests across AI, healthcare/life sciences, enterprise, consumer and frontier tech, with early bets on Uber, Nest, Slack and Stripe. Led by CEO David Krane; founding CEO was Bill Maris."
+    },
+    "sources": [
+      { "url": "https://www.gv.com/", "title": "GV", "publisher": "GV", "accessed": "2026-06-02", "supports": "Sectors, AI focus, portfolio companies", "quote": "We've backed 50+ companies building the next generation of AI-native applications" },
+      { "url": "https://en.wikipedia.org/wiki/GV_(company)", "title": "GV (company) — Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "Founded 2009/2010, parent Alphabet, ~$10B AUM, 300+ companies, $100M initial commitment, leadership, notable investments", "quote": "approximately $10 billion ... Over 300 companies financed ... an initial $100 million capital commitment ... David Krane (CEO); founding CEO was Bill Maris" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM (~$10B), 300+ portfolio, $100M initial commitment and leadership per Wikipedia; sectors and AI-native focus corroborated by gv.com. Current single-fund size not disclosed (GV invests off Alphabet's balance sheet).",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "us-capitalg",
+    "name": { "en": "CapitalG" },
+    "aka": ["Google Capital", "GV Growth (former branding)"],
+    "type": "cvc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.capitalg.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/google-capital",
+      "other": ["https://en.wikipedia.org/wiki/CapitalG", "https://techcrunch.com/2024/02/16/a-peek-at-how-things-work-today-inside-alphabets-7-billion-growth-stage-investing-arm-capitalg/"]
+    },
+    "capital": {
+      "aum": { "raw": "approximately $7 billion", "usd": 7000000000, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "check_size": { "raw": "$50 million to $200 million", "usd_min": 50000000, "usd_max": 200000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "fintech", "ai-ml", "consumer", "cybersecurity"],
+      "thesis": "Alphabet's independent growth-stage fund, with Alphabet as sole LP, investing for financial return (not strategically) in growth-stage technology companies; provides patient long-term capital aligned with founders."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Stripe", "sector": "fintech", "outcome": "active" },
+        { "company": "Airbnb", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Databricks", "sector": "ai-ml", "outcome": "active" },
+        { "company": "CrowdStrike", "sector": "cybersecurity", "outcome": "IPO" },
+        { "company": "Zscaler", "sector": "cybersecurity", "outcome": "IPO" },
+        { "company": "Duolingo", "sector": "edtech", "outcome": "IPO" }
+      ],
+      "exits": [
+        { "company": "Multiple (16 IPOs, 11 M&A)", "type": "IPO/M&A", "year": null, "value": { "raw": null, "usd": null, "currency": "USD" } }
+      ]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["alphabet", "google", "growth-equity", "corporate-vc"],
+    "summary": {
+      "en": "CapitalG is Alphabet's independent growth fund, founded in 2013 (rebranded from Google Capital in 2016), with ~$7 billion AUM and Alphabet as sole LP. It writes $50M–$200M checks into growth-stage tech companies including Stripe, Airbnb, Databricks, CrowdStrike and Zscaler, and reports 16 IPOs and 11 M&A exits."
+    },
+    "sources": [
+      { "url": "https://www.capitalg.com/about/", "title": "CapitalG — About us", "publisher": "CapitalG", "accessed": "2026-06-02", "supports": "Independent growth fund, Alphabet sole LP, portfolio", "quote": "CapitalG is Alphabet's independent growth fund ... front row seats to the growth stories of Stripe, Airbnb, Databricks, CrowdStrike, and Zscaler" },
+      { "url": "https://en.wikipedia.org/wiki/CapitalG", "title": "CapitalG — Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "Founded 2013, rebranded 2016, ~$7B AUM, $50M–$200M checks, 16 IPOs / 11 M&A", "quote": "founded in 2013 ... manages approximately $7 billion ... typically invests between $50 million and $200 million ... 16 IPOs and 11 M&A exits" }
+    ],
+    "confidence": "high",
+    "verification_notes": "~$7B AUM and $50M–$200M check size per Wikipedia and corroborated by TechCrunch ($7B growth arm). CapitalG invests for return with Alphabet as sole LP; classified here as cvc with growth-equity subtype.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "us-gradient-ventures",
+    "name": { "en": "Gradient Ventures" },
+    "aka": ["Gradient"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.gradient.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/gradient-ventures",
+      "other": ["https://techcrunch.com/2017/07/11/anna-patterson-talks-gradient-ventures-googles-new-ai-fund/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$200 million", "usd": 200000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$750,000 to $8 million", "usd_min": 750000, "usd_max": 8000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml"],
+      "thesis": "Google's AI-focused venture fund investing directly from Alphabet's balance sheet (no external LPs), backing early-stage AI startups with access to Google AI expertise and cloud tools."
+    },
+    "track_record": {
+      "portfolio_count": "180+",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Anna Patterson", "role": "Founder & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["google", "alphabet", "ai-fund", "corporate-vc", "early-stage"],
+    "summary": {
+      "en": "Gradient Ventures is Google's AI-focused venture fund, founded in July 2017 by AI researcher Anna Patterson. It invests directly from Alphabet's balance sheet, reportedly with a $200M fund and check sizes of $750K–$8M, into early-stage AI startups, and has built a portfolio of 180+ companies."
+    },
+    "sources": [
+      { "url": "https://techcrunch.com/2017/07/11/anna-patterson-talks-gradient-ventures-googles-new-ai-fund/", "title": "Anna Patterson talks Gradient Ventures, Google's new AI fund", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "Founded July 2017 as Google's AI fund, founder Anna Patterson", "quote": "Gradient Ventures, Google's new AI fund" },
+      { "url": "https://www.vcsheet.com/fund/gradient-ventures", "title": "Gradient Ventures — VC Fund Breakdown", "publisher": "VC Sheet", "accessed": "2026-06-02", "supports": "$200M fund size, $750K–$8M check size, ~180 portfolio companies", "quote": "fund size of $200 million ... check sizes ranging from $750,000 to $8 million ... portfolio comprising 180 companies" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding (July 2017) and Google-AI-fund status confirmed by TechCrunch (primary-adjacent). $200M fund size, $750K–$8M check size and ~180 portfolio companies from VC Sheet (secondary); Google does not publicly confirm a fixed fund size since Gradient invests off Alphabet's balance sheet.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "us-intel-capital",
+    "name": { "en": "Intel Capital" },
+    "aka": ["Intel Capital"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 1991,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Santa Clara",
+    "website": "https://www.intelcapital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/intel-capital",
+      "other": ["https://en.wikipedia.org/wiki/Intel_Capital"]
+    },
+    "capital": {
+      "aum": { "raw": "more than US$20 billion invested over three decades", "usd": 20000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["hardware-semiconductor", "ai-ml", "deeptech", "saas-enterprise", "robotics"],
+      "thesis": "One of the oldest and most prolific corporate venture arms; invests in cloud, hardware/silicon, AI, 5G, autonomous and frontier technologies. Announced in January 2025 that it would spin off into a standalone independent investment fund."
+    },
+    "track_record": {
+      "portfolio_count": "2,000+",
+      "notable_investments": [
+        { "company": "SambaNova Systems", "sector": "hardware-semiconductor", "outcome": "active" },
+        { "company": "Figure AI", "sector": "robotics", "outcome": "active" },
+        { "company": "AI21 Labs", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Anyscale", "sector": "ai-ml", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Red Hat", "type": "M&A/IPO", "year": null, "value": { "raw": null, "usd": null, "currency": "USD" } },
+        { "company": "VMware", "type": "IPO", "year": null, "value": { "raw": null, "usd": null, "currency": "USD" } },
+        { "company": "MongoDB", "type": "IPO", "year": null, "value": { "raw": null, "usd": null, "currency": "USD" } },
+        { "company": "Joby Aviation", "type": "IPO", "year": null, "value": { "raw": null, "usd": null, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Leslie L. Vadász", "role": "Founding leader (former)" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["intel", "semiconductor", "corporate-vc", "spin-off", "legacy"],
+    "summary": {
+      "en": "Intel Capital, founded in 1991, is the venture arm of Intel Corporation and one of the oldest and most active corporate VCs, having invested more than US$20 billion in 2,000+ companies over three decades across semiconductors, AI, cloud, 5G and autonomous tech. In January 2025 Intel announced it would spin off Intel Capital into a standalone independent fund."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Intel_Capital", "title": "Intel Capital — Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "Founded 1991, Santa Clara, >$20B invested, 2,000+ companies, spin-off Jan 2025, notable investments/exits", "quote": "more than US$20 billion invested over three decades ... In January 2025, Intel announced that it would spin off Intel Capital" },
+      { "url": "https://www.startupblink.com/blog/top-corporate-venture-capital-firms/", "title": "Top Corporate Venture Capital Firms", "publisher": "StartupBlink", "accessed": "2026-06-02", "supports": "Founded 1991, invested in more than 2,000 companies", "quote": "Founded in 1991, Intel Capital has invested in more than 2,000 companies" }
+    ],
+    "confidence": "high",
+    "verification_notes": ">$20B invested, 2,000+ companies, 1991 founding and Jan-2025 spin-off announcement per Wikipedia; founding/2,000+ corroborated by StartupBlink. Spin-off into independent fund was in progress as of 2025; entity retained here as a tech CVC.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "us-qualcomm-ventures",
+    "name": { "en": "Qualcomm Ventures" },
+    "aka": ["Qualcomm Ventures"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2000,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Diego",
+    "website": "https://www.qualcommventures.com/",
+    "offices": [
+      { "country": "United States", "city": "San Diego" },
+      { "country": "United States", "city": "San Francisco" },
+      { "country": "Israel", "city": "Tel Aviv" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/qualcomm-ventures",
+      "other": ["https://en.wikipedia.org/wiki/Qualcomm_Ventures"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "AI dedicated allocation (2018)", "vintage_year": 2018, "size": { "raw": "$100 million", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["hardware-semiconductor", "ai-ml", "mobility", "healthtech", "robotics"],
+      "thesis": "Venture arm of Qualcomm investing globally in the wireless and connected-device ecosystem — automotive, data center/enterprise, digital health, IoT, AI and mobile."
+    },
+    "track_record": {
+      "portfolio_count": "140+ active",
+      "notable_investments": [
+        { "company": "Cruise Automation", "sector": "mobility", "outcome": "acquired" },
+        { "company": "Ring", "sector": "hardware-semiconductor", "outcome": "acquired" },
+        { "company": "Fitbit", "sector": "hardware-semiconductor", "outcome": "acquired" },
+        { "company": "Waze", "sector": "mobility", "outcome": "acquired" }
+      ],
+      "exits": [
+        { "company": "Cruise Automation", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": "USD" } },
+        { "company": "Fitbit", "type": "IPO", "year": null, "value": { "raw": null, "usd": null, "currency": "USD" } },
+        { "company": "Ring", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": "USD" } },
+        { "company": "Waze", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Quinn Li", "role": "Global Head / Senior VP" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["qualcomm", "semiconductor", "wireless", "corporate-vc", "global"],
+    "summary": {
+      "en": "Qualcomm Ventures, founded in 2000 and based in San Diego, is the global venture arm of Qualcomm Incorporated with 140+ active portfolio companies. It invests across the wireless/connected ecosystem (automotive, IoT, digital health, AI) and has produced billion-dollar exits including Cruise, Fitbit, Ring and Waze. It earmarked $100M for AI investments in 2018. Led by Quinn Li."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Qualcomm_Ventures", "title": "Qualcomm Ventures — Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "Founded 2000, San Diego, 140+ active companies, $100M AI allocation 2018, notable exits, leadership", "quote": "140+ active portfolio companies ... $100 million dedicated to artificial intelligence ... Quinn Li (Global Head)" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding (2000), HQ (San Diego), 140+ active companies, $100M 2018 AI allocation, billion-dollar exits and Quinn Li leadership all per Wikipedia. Overall fund size / total invested not publicly disclosed (Qualcomm Ventures invests off the corporate balance sheet).",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "us-nventures-nvidia",
+    "name": { "en": "NVentures (NVIDIA)" },
+    "aka": ["NVentures", "NVIDIA Ventures"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Santa Clara",
+    "website": "https://www.nventures.ai/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/nventures",
+      "other": ["https://tracxn.com/d/venture-capital/nventures/__72RT_CJsiqrpcbOFu1VPO7osCvnURipMIhIWwLFtajg"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "United Kingdom", "Canada"],
+      "sector_focus": ["ai-ml", "biotech", "robotics", "mobility", "deeptech"],
+      "thesis": "NVIDIA's venture capital arm investing primarily at Series A (plus B and C) in AI, life sciences, automotive, robotics and virtual/extended reality companies aligned with NVIDIA's accelerated-computing ecosystem."
+    },
+    "track_record": {
+      "portfolio_count": "80+",
+      "notable_investments": [
+        { "company": "Abridge", "sector": "healthtech", "outcome": "active" },
+        { "company": "Synthesia", "sector": "ai-ml", "outcome": "active" },
+        { "company": "PsiQuantum", "sector": "deeptech", "outcome": "active" },
+        { "company": "Figure AI", "sector": "robotics", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Mohamed Siddeek", "role": "Head of NVentures / Corporate VP" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["nvidia", "ai-fund", "corporate-vc", "accelerated-computing"],
+    "summary": {
+      "en": "NVentures is NVIDIA's corporate venture capital arm, founded in 2021 in Santa Clara, with 80+ portfolio companies. It invests primarily at Series A (and B/C) in AI, life sciences, automotive, robotics and VR, including Abridge, Synthesia, PsiQuantum and Figure AI. Activity scaled rapidly from a single deal in 2022 to dozens of deals annually."
+    },
+    "sources": [
+      { "url": "https://tracxn.com/d/venture-capital/nventures/__72RT_CJsiqrpcbOFu1VPO7osCvnURipMIhIWwLFtajg", "title": "NVentures — Tracxn Investor Profile", "publisher": "Tracxn", "accessed": "2026-06-02", "supports": "Founded 2021, Santa Clara, 80+ companies, Series A focus, leadership, notable portfolio", "quote": "Founded: 2021 ... Headquarters: Santa Clara ... 81 companies invested ... primarily invests in Series A round ... Mohamed Siddeek" },
+      { "url": "https://globalventuring.com/corporate/asia/robotics-tech-next-from-ai/", "title": "AI's big corporate investors place bets on robotics", "publisher": "Global Venturing", "accessed": "2026-06-02", "supports": "NVentures scaled from one deal in 2022 to ~30 in 2025", "quote": "Nvidia stood up NVentures and scaled it from one deal in 2022 to thirty in 2025" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding (2021), HQ, 80+ portfolio, Series-A focus and leadership per Tracxn; rapid deal-pace growth corroborated by Global Venturing. No fund size disclosed (NVentures invests off NVIDIA's balance sheet).",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "us-m12-microsoft",
+    "name": { "en": "M12 (Microsoft's Venture Fund)" },
+    "aka": ["M12", "Microsoft Ventures (former)"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://m12.vc/",
+    "offices": [
+      { "country": "United States", "city": "San Francisco" },
+      { "country": "United States", "city": "Seattle" },
+      { "country": "United States", "city": "New York City" },
+      { "country": "Israel", "city": "Tel Aviv" },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/microsoft-ventures",
+      "other": ["https://en.wikipedia.org/wiki/M12_(venture_capital_firm)", "https://finance.yahoo.com/news/exclusive-microsoft-gave-venture-fund-234549072.html"]
+    },
+    "capital": {
+      "current_fund": { "raw": "~$275 million given to invest in 2024", "usd": 275000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Europe", "Israel"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "cybersecurity", "hardware-semiconductor"],
+      "thesis": "Microsoft's venture fund writing seed-to-Series C checks off Microsoft's balance sheet (evergreen, no fund-lifecycle constraints), backing B2B/enterprise and AI startups aligned with Microsoft's mission. 'The M stands for Microsoft, and the 12 refers to the number of letters in the word entrepreneur.'"
+    },
+    "track_record": {
+      "portfolio_count": "262",
+      "notable_investments": [
+        { "company": "Cloudflare", "sector": "cybersecurity", "outcome": "IPO" },
+        { "company": "Innovaccer", "sector": "healthtech", "outcome": "active" },
+        { "company": "Markforged", "sector": "hardware-semiconductor", "outcome": "active" },
+        { "company": "Arkose Labs", "sector": "cybersecurity", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "18 unicorns / 6 IPOs / 60 acquisitions", "type": "IPO/M&A", "year": null, "value": { "raw": null, "usd": null, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Michelle Gonzalez", "role": "Corporate Vice President & Head of M12" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["microsoft", "corporate-vc", "enterprise", "evergreen"],
+    "summary": {
+      "en": "M12 is Microsoft's corporate venture fund, founded in 2016 (formerly Microsoft Ventures), writing seed-to-Series C checks off Microsoft's evergreen balance sheet — about $275M deployed in 2024. As of 2026 it had invested in ~262 companies (18 unicorns, 6 IPOs, 60 acquisitions) including Cloudflare and Innovaccer. Led by Michelle Gonzalez."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/M12_(venture_capital_firm)", "title": "M12 (venture capital firm) — Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "Founded March 2016, HQ SF, offices, leadership, name meaning, notable investments", "quote": "The M stands for Microsoft, and the 12 refers to the number of letters in the word entrepreneur." },
+      { "url": "https://tracxn.com/d/venture-capital/m12/__9vFyeQSwILnSGNvISbqS2lYhYqOYn1cUek1rXD_5KpU", "title": "M12 — Tracxn Investor Profile", "publisher": "Tracxn", "accessed": "2026-06-02", "supports": "262 companies invested, 18 unicorns, 6 IPOs, 60 acquisitions, notable portfolio", "quote": "invested in 262 companies ... 18 unicorns, 6 IPOs and 60 acquisitions including key companies like CloudFlare, Go1 and Innovaccer" },
+      { "url": "https://finance.yahoo.com/news/exclusive-microsoft-gave-venture-fund-234549072.html", "title": "Microsoft gave its venture fund $275 million this year to invest in startups", "publisher": "Fortune via Yahoo Finance", "accessed": "2026-06-02", "supports": "~$275M deployed to M12 in 2024, evergreen structure", "quote": "~$275M deployed annually off Microsoft's balance sheet ... evergreen structure with no fund lifecycle constraints" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding (2016), name meaning, HQ/offices per Wikipedia. 262 companies / 18 unicorns / 6 IPOs / 60 acquisitions per Tracxn. ~$275M 2024 allocation per Fortune. Michelle Gonzalez confirmed as current head (Wikipedia notes prior leadership). Check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "us-salesforce-ventures",
+    "name": { "en": "Salesforce Ventures" },
+    "aka": ["Salesforce Ventures"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2009,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://salesforceventures.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/salesforce-ventures",
+      "other": ["https://en.wikipedia.org/wiki/Salesforce_Ventures"]
+    },
+    "capital": {
+      "aum": { "raw": "invested $5 billion in companies based in 27 countries (to date)", "usd": 5000000000, "currency": "USD" },
+      "funds": [
+        { "name": "Generative AI Fund (initial)", "vintage_year": 2023, "size": { "raw": "$250 million", "usd": 250000000, "currency": "USD" } },
+        { "name": "Generative AI Fund (expanded)", "vintage_year": 2023, "size": { "raw": "$500 million", "usd": 500000000, "currency": "USD" } },
+        { "name": "Generative AI Fund (Sep 2024)", "vintage_year": 2024, "size": { "raw": "$1 billion", "usd": 1000000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "fintech"],
+      "thesis": "Salesforce's global corporate investment arm backing enterprise cloud, SaaS and AI companies that extend the Salesforce ecosystem; runs a $1 billion Generative AI Fund."
+    },
+    "track_record": {
+      "portfolio_count": "275+ (as of 2018)",
+      "notable_investments": [
+        { "company": "Twilio", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Dropbox", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "DocuSign", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "SurveyMonkey", "sector": "saas-enterprise", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "John Somorjai", "role": "EVP, Corporate Development & Salesforce Ventures" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["salesforce", "enterprise-saas", "corporate-vc", "ai-fund"],
+    "summary": {
+      "en": "Salesforce Ventures, founded in 2009, is the corporate investment arm of Salesforce and has invested about $5 billion across companies in 27 countries. It backs enterprise cloud, SaaS and AI startups (Twilio, Dropbox, DocuSign) and operates a Generative AI Fund that grew from $250M to $500M and then to $1 billion in September 2024. Led by John Somorjai."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Salesforce_Ventures", "title": "Salesforce Ventures — Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "Founded 2009, $5B invested, 27 countries, 275 companies (2018), Gen AI Fund $250M→$500M→$1B, John Somorjai, notable investments", "quote": "invested $5 billion in companies based in 27 different countries ... Generative AI Fund increased from $250 million to $500 million ... to $1 billion ... John Somorjai" }
+    ],
+    "confidence": "high",
+    "verification_notes": "$5B invested, 27 countries, 275 companies (as of 2018), Gen AI Fund $250M→$500M→$1B (Sep 2024) and John Somorjai all per Wikipedia. Check size and current portfolio count not disclosed in a single up-to-date figure.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "us-cisco-investments",
+    "name": { "en": "Cisco Investments" },
+    "aka": ["Cisco Investments"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 1993,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Jose",
+    "website": "https://www.ciscoinvestments.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/cisco-investments",
+      "crunchbase": "https://www.crunchbase.com/organization/cisco-investments",
+      "other": ["https://investor.cisco.com/news/news-details/2024/CISCO-LAUNCHES-1B-GLOBAL-AI-INVESTMENT-FUND/default.aspx"]
+    },
+    "capital": {
+      "aum": { "raw": "over $2 billion in assets under management", "usd": 2000000000, "currency": "USD" },
+      "funds": [
+        { "name": "Global AI Investment Fund", "vintage_year": 2024, "size": { "raw": "$1 billion (nearly $200M committed to date)", "usd": 1000000000, "currency": "USD" } },
+        { "name": "Aspire Fund", "vintage_year": 2020, "size": { "raw": "$50 million", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "cybersecurity", "deeptech"],
+      "thesis": "Global corporate venture arm of Cisco making strategic investments in next-generation enterprise technologies — AI/ML, cloud, cybersecurity and IoT — to 'connect and protect the AI era'. Launched a $1B Global AI Investment Fund in June 2024."
+    },
+    "track_record": {
+      "portfolio_count": "200+",
+      "notable_investments": [
+        { "company": "Cohere", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Mistral AI", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Scale AI", "sector": "ai-ml", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "20 unicorns / 16 IPOs / 167 acquisitions", "type": "IPO/M&A", "year": null, "value": { "raw": null, "usd": null, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Janey Hoe", "role": "Vice President, Cisco Investments" },
+      { "name": "Derek Idemoto", "role": "SVP, Corporate Development & Cisco Investments" },
+      { "name": "Prasad Parthasarathi", "role": "Leadership" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["cisco", "corporate-vc", "enterprise", "ai-fund", "cybersecurity"],
+    "summary": {
+      "en": "Cisco Investments is the global corporate venture arm of Cisco (founded ~1993, San Jose), with over $2 billion in AUM and 200+ investments across AI/ML, cloud, cybersecurity and IoT. In June 2024 it launched a $1 billion Global AI Investment Fund (nearly $200M committed at launch) backing Cohere, Mistral AI and Scale AI. Led by Janey Hoe and Derek Idemoto."
+    },
+    "sources": [
+      { "url": "https://investor.cisco.com/news/news-details/2024/CISCO-LAUNCHES-1B-GLOBAL-AI-INVESTMENT-FUND/default.aspx", "title": "Cisco launches $1B global AI investment fund", "publisher": "Cisco (Investor Relations)", "accessed": "2026-06-02", "supports": "$1B AI fund, ~$200M committed, AI portfolio companies", "quote": "Cisco Investments, the global corporate venture investment arm of Cisco (NASDAQ: CSCO), today launched a $1B AI investment fund ... Cisco has already committed nearly $200M of the $1B investment fund to date." },
+      { "url": "https://hub.waveup.com/funds/cisco-investments", "title": "Cisco Investments — Fund Profile", "publisher": "Waveup", "accessed": "2026-06-02", "supports": "Over $2B AUM, Aspire Fund $50M (2020), 200+ investments, leadership", "quote": "Over $2 billion in assets under management ... the Aspire Fund, a $50 million venture fund established in 2020 ... 204 total investments" },
+      { "url": "https://tracxn.com/d/venture-capital/ciscoinvestments/__PH521YYgMJB5j021uYErDweHPCHMslLkhwJIfK6ipok", "title": "Cisco Investments — Tracxn", "publisher": "Tracxn", "accessed": "2026-06-02", "supports": "Founded 1993, 20 unicorns / 16 IPOs / 167 acquisitions", "quote": "founded in 1993 ... 20 unicorns, 16 IPOs and 167 acquisitions" }
+    ],
+    "confidence": "high",
+    "verification_notes": "$1B AI fund and ~$200M committed confirmed by Cisco's official press release (high). >$2B AUM, Aspire Fund $50M and 200+ investments per Waveup; founding (1993) and exit stats per Tracxn. Founding year is reported as 1993 by Tracxn; Cisco itself does not publish an exact CVC founding date, so founded_year is medium-confidence within an otherwise high entity.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "us-dell-technologies-capital",
+    "name": { "en": "Dell Technologies Capital" },
+    "aka": ["Dell Technologies Capital", "EMC Ventures (former)"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Santa Clara",
+    "website": "https://www.delltechnologiescapital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/dell-ventures",
+      "other": ["https://www.dell.com/en-us/dt/corporate/newsroom/dell-technologies-capital-announces-strong-exit-investment-momentum-in-its-first-year-out-of-stealth.htm"]
+    },
+    "capital": {
+      "aum": { "raw": "around $1.7 billion in assets under management", "usd": 1700000000, "currency": "USD" },
+      "current_fund": { "raw": "~$100 million average annual investment run rate", "usd": 100000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "cybersecurity", "hardware-semiconductor", "deeptech"],
+      "thesis": "Corporate venture arm of Dell Technologies investing early-stage in AI, cybersecurity, silicon, data, infrastructure, logistics and enterprise software that complements Dell's edge-to-cloud portfolio."
+    },
+    "track_record": {
+      "portfolio_count": "130+ active (283 total investments)",
+      "notable_investments": [
+        { "company": "Zscaler", "sector": "cybersecurity", "outcome": "IPO" },
+        { "company": "OpenObserve", "sector": "saas-enterprise", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Zscaler", "type": "IPO", "year": 2018, "value": { "raw": null, "usd": null, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Scott C. Darling", "role": "President & Founding/Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["dell", "emc", "corporate-vc", "enterprise", "infrastructure"],
+    "summary": {
+      "en": "Dell Technologies Capital is the corporate venture arm of Dell Technologies, originating as EMC Ventures (2012) and rebranded after Dell's 2016 acquisition of EMC. It manages ~$1.7 billion AUM with a ~$100M annual run rate and 130+ active investments (283 total) across AI, cybersecurity, silicon and enterprise software — including being Zscaler's first institutional investor. Led by Scott Darling."
+    },
+    "sources": [
+      { "url": "https://tracxn.com/d/venture-capital/delltechnologiescapital/__WtKD3PsRUpnZKCswWAhy6x0k3yahxULN8Qm-LviXU54", "title": "Dell Technologies Capital — Tracxn", "publisher": "Tracxn", "accessed": "2026-06-02", "supports": "~$1.7B AUM, ~$100M annual run rate, 283 investments, 130+ active, sectors, Scott Darling, Zscaler", "quote": "around $1.7 billion in assets under management ... average annual investment run rate of $100 million ... made 283 investments ... over 130 active investments ... first institutional investor in Zscaler" },
+      { "url": "https://www.dell.com/en-us/dt/corporate/newsroom/dell-technologies-capital-announces-strong-exit-investment-momentum-in-its-first-year-out-of-stealth.htm", "title": "Dell Technologies Capital — newsroom", "publisher": "Dell Technologies", "accessed": "2026-06-02", "supports": "Existence and activity as Dell's CVC arm", "quote": "Dell Technologies Capital" }
+    ],
+    "confidence": "high",
+    "verification_notes": "~$1.7B AUM, ~$100M annual run rate, 283 investments, 130+ active, sectors, founding-as-EMC-Ventures (2012), Zscaler first-institutional-investor and Scott Darling per Tracxn; existence confirmed by Dell's own newsroom. Check size not separately disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "us-adobe-ventures",
+    "name": { "en": "Adobe Ventures" },
+    "aka": ["Adobe Ventures"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 1994,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Jose",
+    "website": "https://www.adobe.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/adobe-ventures",
+      "other": ["https://tracxn.com/d/venture-capital/adobe-ventures/__AZKjnjGMJnZhrY-tn-xNVkLN0A1uFJSz3wH5li_ysvs"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "consumer"],
+      "thesis": "Corporate venture arm of Adobe making strategic investments in founders and technologies that align with and accelerate Adobe's mission around digital experiences, creativity and document productivity."
+    },
+    "track_record": {
+      "portfolio_count": "22 active (120 total investments)",
+      "notable_investments": [
+        { "company": "Runway", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Synthesia", "sector": "ai-ml", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Shutterfly", "type": "IPO", "year": null, "value": { "raw": null, "usd": null, "currency": "USD" } }
+      ]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["adobe", "corporate-vc", "creativity", "digital-experience"],
+    "summary": {
+      "en": "Adobe Ventures is the corporate venture arm of Adobe (founded 1994, San Jose), investing strategically in creativity, digital-experience, AI and document-productivity startups — including Runway and Synthesia. It has made roughly 120 investments overall (about 22 active as of 2026) with several unicorns and acquisitions in its portfolio."
+    },
+    "sources": [
+      { "url": "https://tracxn.com/d/venture-capital/adobe-ventures/__AZKjnjGMJnZhrY-tn-xNVkLN0A1uFJSz3wH5li_ysvs", "title": "Adobe Ventures — Tracxn Investor Profile", "publisher": "Tracxn", "accessed": "2026-06-02", "supports": "Founded 1994, San Jose, 22 active / 120 total investments, sectors, Series C focus, notable portfolio", "quote": "Founded in 1994, Adobe Ventures is based in San Jose ... invested in 22 companies ... made 120 investments ... primarily invests in Series C rounds ... 3 unicorns and 8 acquisitions including key companies like Shutterfly, Runway and Decart" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding (1994), HQ, portfolio counts and sector/stage focus per Tracxn (secondary). Adobe does not maintain a public Adobe Ventures site, and no fund size is disclosed; founded_year and counts are single-source, hence medium confidence.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "us-amazon-alexa-fund",
+    "name": { "en": "Amazon Alexa Fund" },
+    "aka": ["Alexa Fund"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Seattle",
+    "website": "https://developer.amazon.com/en-US/alexa/alexa-fund-venture-capital/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/amazon-alexa-fund"
+    },
+    "capital": {
+      "current_fund": { "raw": "up to $200 million", "usd": 200000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["ai-ml", "hardware-semiconductor", "consumer", "robotics", "healthtech"],
+      "thesis": "Amazon's corporate venture fund (up to $200M) originally launched to fuel voice technology and now investing in AI, frontier tech, robotics, hardware, digital health and entertainment across consumer and enterprise, with access to Amazon developer tools and distribution."
+    },
+    "track_record": {
+      "portfolio_count": "40+",
+      "notable_investments": [
+        { "company": "Ring", "sector": "hardware-semiconductor", "outcome": "acquired" },
+        { "company": "ecobee", "sector": "hardware-semiconductor", "outcome": "acquired" },
+        { "company": "Osmo", "sector": "deeptech", "outcome": "active" },
+        { "company": "Skild AI", "sector": "robotics", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Ring", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": "USD" } }
+      ]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["amazon", "corporate-vc", "voice-ai", "consumer-hardware"],
+    "summary": {
+      "en": "The Amazon Alexa Fund is Amazon's corporate venture capital fund, launched in 2015 to provide up to $200 million for voice-technology innovation and now investing in AI, robotics, hardware, digital health and entertainment. It has backed 40+ companies including Ring, ecobee and Osmo, and offers portfolio companies connections within Amazon and early access to developer tools."
+    },
+    "sources": [
+      { "url": "https://developer.amazon.com/en-US/alexa/alexa-fund-venture-capital/", "title": "Alexa Fund Venture Capital", "publisher": "Amazon", "accessed": "2026-06-02", "supports": "Launched 2015, focus on voice/AI/hardware/entertainment, portfolio companies", "quote": "The Amazon Alexa Fund was originally launched in 2015 ... to fuel not only voice innovation, but also areas such as artificial intelligence, hardware, and entertainment." },
+      { "url": "https://developer.amazon.com/en-US/alexa/alexa-startups/alexa-fund", "title": "Alexa Fund", "publisher": "Amazon", "accessed": "2026-06-02", "supports": "Up to $200M, 40+ companies, notable portfolio (ecobee, TrackR, Ring)", "quote": "provides up to $200 million in venture capital funding ... Since its launch in 2015, the Alexa Fund has invested in more than 40 companies, including thermostat maker ecobee, Bluetooth tracking service TrackR, and home security startup Ring." }
+    ],
+    "confidence": "high",
+    "verification_notes": "Launch year (2015), up-to-$200M size and 40+ companies all from Amazon's own developer/Alexa pages. Check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "us-amazon-industrial-innovation-fund",
+    "name": { "en": "Amazon Industrial Innovation Fund" },
+    "aka": ["AIIF"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Seattle",
+    "website": "https://industrialinnovationfund.amazon/",
+    "links": {
+      "other": ["https://www.aboutamazon.com/news/operations/amazon-industrial-innovation-fund", "https://industrialinnovationfund.amazon/portfolio-companies"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$1 billion", "usd": 1000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["robotics", "logistics", "ai-ml", "deeptech"],
+      "thesis": "Amazon's $1 billion corporate venture fund supporting emerging companies in warehouse automation, robotics and supply-chain/logistics innovation through direct investments."
+    },
+    "track_record": {
+      "portfolio_count": "~12",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["amazon", "corporate-vc", "robotics", "supply-chain", "automation"],
+    "summary": {
+      "en": "The Amazon Industrial Innovation Fund is a $1 billion corporate venture capital fund launched in 2022 to support warehouse automation, robotics and supply-chain innovation through direct investments. As of recent reporting it had made close to a dozen investments in emerging technology companies."
+    },
+    "sources": [
+      { "url": "https://www.aboutamazon.com/news/operations/amazon-industrial-innovation-fund", "title": "Learn about Amazon's $1 billion Industrial Innovation Fund", "publisher": "Amazon", "accessed": "2026-06-02", "supports": "$1B fund, launched 2022, focus on warehouse automation and supply chain, ~12 investments", "quote": "a $1 billion corporate venture capital fund ... since launching in 2022, has made close to a dozen investments in promising technologies" }
+    ],
+    "confidence": "high",
+    "verification_notes": "$1B size, 2022 launch, supply-chain/automation focus and ~12 investments all from Amazon's own About Amazon page. Individual check sizes not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "us-ibm-ventures",
+    "name": { "en": "IBM Ventures" },
+    "aka": ["IBM Enterprise AI Venture Fund"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": null,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Armonk",
+    "website": "https://www.ibm.com/ventures",
+    "links": {
+      "other": ["https://newsroom.ibm.com/2023-11-07-IBM-Launches-500-Million-Enterprise-AI-Venture-Fund"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Enterprise AI Venture Fund", "vintage_year": 2023, "size": { "raw": "$500 million", "usd": 500000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["ai-ml", "saas-enterprise"],
+      "thesis": "IBM's venture program; its $500M Enterprise AI Venture Fund (announced Nov 2023, IBM sole investor) backs early-stage to hyper-growth startups accelerating generative AI for the enterprise, including companies building on watsonx."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["ibm", "corporate-vc", "ai-fund", "enterprise", "watsonx"],
+    "summary": {
+      "en": "IBM Ventures is IBM's strategic venture program. In November 2023 IBM launched the $500 million Enterprise AI Venture Fund (with IBM as sole investor) to back AI companies from early-stage to hyper-growth that accelerate generative AI for the enterprise and grow IBM's watsonx ecosystem."
+    },
+    "sources": [
+      { "url": "https://newsroom.ibm.com/2023-11-07-IBM-Launches-500-Million-Enterprise-AI-Venture-Fund", "title": "IBM Launches $500 Million Enterprise AI Venture Fund", "publisher": "IBM (Newsroom)", "accessed": "2026-06-02", "supports": "$500M fund, Nov 2023, early-stage to hyper-growth, IBM sole investor", "quote": "$500 million venture fund ... a range of AI companies - from early-stage to hyper-growth startups ... IBM is the sole investor of the Enterprise AI Venture Fund" }
+    ],
+    "confidence": "high",
+    "verification_notes": "$500M fund size, Nov 2023 launch, sole-investor status and target stages all from IBM's official newsroom. IBM Ventures' overall founding year is not publicly stated, so founded_year is null. No portfolio count disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "us-servicenow-ventures",
+    "name": { "en": "ServiceNow Ventures" },
+    "aka": ["ServiceNow Ventures"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Santa Clara",
+    "website": "https://www.servicenow.com/company/ventures.html",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/servicenow-ventures",
+      "other": ["https://www.servicenow.com/company/media/press-room/one-billion-ventures-investment.html"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$1 billion by 2026 ($300M invested before the commitment)", "usd": 1000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "cybersecurity"],
+      "thesis": "ServiceNow's corporate venture arm investing in enterprise software — AI/ML, data, distributed cloud and automation — that extends the ServiceNow platform. Committed to investing $1 billion by 2026."
+    },
+    "track_record": {
+      "portfolio_count": "45+",
+      "notable_investments": [
+        { "company": "Snyk", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Harness", "sector": "saas-enterprise", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "MuleSoft (former portfolio)", "type": "M&A", "year": 2018, "value": { "raw": "$6.5 billion", "usd": 6500000000, "currency": "USD" } }
+      ]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["servicenow", "corporate-vc", "enterprise-saas", "ai", "automation"],
+    "summary": {
+      "en": "ServiceNow Ventures, founded in 2015, is ServiceNow's corporate venture arm. After investing ~$300M since inception, ServiceNow committed in May 2023 to deploy a total of $1 billion by 2026, focused on AI/ML, data, cloud and automation enterprise software. Its ~45-company portfolio includes Snyk and Harness; former portfolio company MuleSoft was acquired by Salesforce for $6.5B."
+    },
+    "sources": [
+      { "url": "https://globalventuring.com/corporate/fundraising/servicenow-hikes-cvc-plans-to-1bn/", "title": "ServiceNow hikes CVC commitment to $1bn amid AI race", "publisher": "Global Venturing", "accessed": "2026-06-02", "supports": "Founded 2015, $300M invested, $1B by 2026, 45-company portfolio, Snyk/Harness, MuleSoft $6.5B", "quote": "founded in 2015, had invested $300 million ... increase the total to $1 billion ... a 45-strong portfolio that includes ... Snyk and ... Harness ... MuleSoft was bought by Salesforce for $6.5 billion in 2018" },
+      { "url": "https://www.servicenow.com/company/ventures.html", "title": "ServiceNow Ventures", "publisher": "ServiceNow", "accessed": "2026-06-02", "supports": "Existence as ServiceNow's CVC arm, AI focus", "quote": "ServiceNow Ventures: Investing in AI Innovators for Enterprise Transformation" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding (2015), $300M invested, $1B-by-2026 commitment, 45-company portfolio, Snyk/Harness and MuleSoft $6.5B exit per Global Venturing; existence/AI focus confirmed by ServiceNow's own page. Per-deal check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "us-workday-ventures",
+    "name": { "en": "Workday Ventures" },
+    "aka": ["Workday Ventures"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Pleasanton",
+    "website": "https://ventures.workday.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/workday-ventures",
+      "other": ["https://www.prnewswire.com/news-releases/workday-commits-additional-250-million-investment-capital-to-workday-ventures-to-power-technology-innovation-301740019.html"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$500 million", "usd": 500000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "Strategic investment arm of Workday focused on early-stage enterprise technology — especially AI/ML-equipped software for finance and HR teams — that integrates into the Workday ecosystem."
+    },
+    "track_record": {
+      "portfolio_count": "119 total (11 unicorns, 23 exits)",
+      "notable_investments": [
+        { "company": "LangChain", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Reco", "sector": "cybersecurity", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["workday", "corporate-vc", "enterprise-saas", "ai", "hr-finance"],
+    "summary": {
+      "en": "Workday Ventures, founded in 2018, is the strategic investment arm of Workday. In February 2023 Workday added $250M to double the fund to $500 million. It invests at early stage in enterprise/AI software for finance and HR, with 119 total investments (11 unicorns, 23 exits) including LangChain."
+    },
+    "sources": [
+      { "url": "https://globalventuring.com/corporate/workday-ventures-fund-size-500m/", "title": "Workday doubles size of venture fund to $500m", "publisher": "Global Venturing", "accessed": "2026-06-02", "supports": "Founded 2018, $500M fund (doubled from $250M), AI/enterprise focus", "quote": "Workday Ventures was founded in 2018 ... added $250 million ... doubling the fund size to $500 million" },
+      { "url": "https://www.prnewswire.com/news-releases/workday-commits-additional-250-million-investment-capital-to-workday-ventures-to-power-technology-innovation-301740019.html", "title": "Workday Commits Additional $250 Million to Workday Ventures", "publisher": "PR Newswire / Workday", "accessed": "2026-06-02", "supports": "$250M additional commitment (to $500M total)", "quote": "Workday Commits Additional $250 Million Investment Capital to Workday Ventures" },
+      { "url": "https://tracxn.com/d/venture-capital/workday-ventures/__20EvAdz9_owQIPzYRKIX5jHo3cknsRLl4rEGzByNvhU", "title": "Workday Ventures — Tracxn", "publisher": "Tracxn", "accessed": "2026-06-02", "supports": "119 investments, 11 unicorns, 23 exits, portfolio companies", "quote": "made 119 investments ... 11 unicorns ... 23 portfolio exits" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding (2018) and $500M fund (doubled from $250M) per Global Venturing and Workday's own PR Newswire release; 119 investments / 11 unicorns / 23 exits per Tracxn. Per-deal check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "us-hewlett-packard-pathfinder",
+    "name": { "en": "Hewlett Packard Pathfinder" },
+    "aka": ["HPE Pathfinder", "Pathfinder"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2014,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Houston",
+    "website": "https://www.hpe.com/us/en/pathfinder.html",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/hewlett-packard-pathfinder",
+      "other": ["https://www.businesswire.com/news/home/20211021005354/en/Hewlett-Packard-Enterprise-Expands-Venture-Capital-Program-in-Support-of-Edge-to-Cloud-Strategy"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "deeptech", "hardware-semiconductor"],
+      "thesis": "Venture capital arm of Hewlett Packard Enterprise that invests in category-leading startups, integrates their technologies with the HPE portfolio, and architects joint go-to-market programs supporting HPE's edge-to-cloud strategy."
+    },
+    "track_record": {
+      "portfolio_count": "40+",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["hpe", "hewlett-packard", "corporate-vc", "edge-to-cloud", "enterprise"],
+    "summary": {
+      "en": "Hewlett Packard Pathfinder is the corporate venture arm of Hewlett Packard Enterprise (HPE), founded in 2014. It invests in category-leading startups, integrates their technology with the HPE product portfolio and builds joint go-to-market programs supporting HPE's edge-to-cloud strategy, with 40+ portfolio companies."
+    },
+    "sources": [
+      { "url": "https://tracxn.com/d/venture-capital/hewlett-packard-pathfinder/__t2kdSAzsgj-PyaOChoPSuT2GnTBsilCIkAI9yFAVUIk", "title": "Hewlett Packard Pathfinder — Tracxn", "publisher": "Tracxn", "accessed": "2026-06-02", "supports": "Founded 2014, corporate VC arm of HPE, 40 companies, technology sector focus", "quote": "Founded in 2014, Hewlett Packard Pathfinder is a corporate venture arm of Hewlett Packard Enterprise ... has invested in 40 companies" },
+      { "url": "https://www.businesswire.com/news/home/20211021005354/en/Hewlett-Packard-Enterprise-Expands-Venture-Capital-Program-in-Support-of-Edge-to-Cloud-Strategy", "title": "Hewlett Packard Enterprise Expands Venture Capital Program in Support of Edge-to-Cloud Strategy", "publisher": "Business Wire / HPE", "accessed": "2026-06-02", "supports": "HPE's CVC program, edge-to-cloud strategy, integration and go-to-market thesis", "quote": "Hewlett Packard Enterprise Expands Venture Capital Program in Support of Edge-to-Cloud Strategy" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding (2014), HPE parentage and ~40 portfolio companies per Tracxn; CVC program existence and edge-to-cloud thesis confirmed by HPE/Business Wire title. Portfolio count varies by source (24–40); no fund size disclosed. HQ tied to HPE (Houston/Spring, TX). Medium confidence overall.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "us-dropbox-ventures",
+    "name": { "en": "Dropbox Ventures" },
+    "aka": ["Dropbox Ventures"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2023,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.dropbox.com/ventures",
+    "links": {
+      "other": ["https://techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$50 million", "usd": 50000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml", "saas-enterprise"],
+      "thesis": "Dropbox's first venture arm — a $50M fund backing early-stage AI startups building AI-powered apps and tools that 'shape the future of work', with mentorship and exposure to Dropbox's large user base."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Fastino", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Onlook", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["dropbox", "corporate-vc", "ai-fund", "future-of-work"],
+    "summary": {
+      "en": "Dropbox Ventures is Dropbox's first venture arm, a $50 million fund launched in June 2023 to invest in early-stage AI startups building AI-powered apps and tools for the future of work. Portfolio companies receive mentorship and exposure to Dropbox's user base; early bets include Fastino and Onlook."
+    },
+    "sources": [
+      { "url": "https://techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/", "title": "Dropbox launches $50M AI-focused venture fund", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "$50M fund, June 2023, first venture arm, AI focus, portfolio companies", "quote": "Dropbox launched Dropbox Ventures, a new $50 million venture fund focused on startups in the AI space ... the company's first venture arm" }
+    ],
+    "confidence": "high",
+    "verification_notes": "$50M fund size, June 2023 launch, first-venture-arm status and AI focus per TechCrunch. Per-deal check size and total portfolio count not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  }
+]

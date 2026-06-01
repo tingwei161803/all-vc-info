@@ -1,0 +1,819 @@
+[
+  {
+    "id": "jp-globis-capital-partners",
+    "name": { "en": "GLOBIS Capital Partners", "local": "グロービス・キャピタル・パートナーズ" },
+    "aka": ["GCP", "Globis Capital Partners"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 1996,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "offices": [
+      { "country": "Japan", "city": "Tokyo" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "website": "https://www.globiscapital.co.jp/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/globis-capital-partners",
+      "other": ["https://globis.com/services/venture-capital/", "https://en.wikipedia.org/wiki/Globis_Capital_Partners"]
+    },
+    "capital": {
+      "aum": { "raw": "over US$1.8 billion (aggregated)", "usd": 1800000000, "currency": "USD" },
+      "current_fund": { "raw": "¥72.7 billion (Fund VII, ~US$534M)", "usd": 534000000, "currency": "JPY" },
+      "funds": [
+        { "name": "GLOBIS Capital Fund VII", "vintage_year": 2023, "size": { "raw": "¥72.7 billion (~US$534M)", "usd": 534000000, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": "up to ¥10 billion per company", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "ai-ml", "saas-enterprise", "fintech", "consumer"],
+      "thesis": "Backs startups looking to update large industries in Japan that can be expanded globally, aiming to create unicorn and decacorn companies; invests 'first to last' from the seed stage as a lead investor."
+    },
+    "track_record": {
+      "portfolio_count": "200+",
+      "notable_investments": [
+        { "company": "SmartNews", "sector": "consumer", "outcome": "unicorn" },
+        { "company": "Mercari", "sector": "ecommerce", "outcome": "IPO" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Yoshito Hori", "role": "Founder / Managing Partner" },
+      { "name": "Shinichi Takamiya", "role": "Managing Partner" },
+      { "name": "Satoshi Fukushima", "role": "Partner" },
+      { "name": "Emre Hidekazu Yuasa", "role": "Partner" },
+      { "name": "Minoru Imano", "role": "Partner" }
+    ],
+    "application": { "how_to_apply": "Inbound via firm website / warm intro", "accepts_cold_inbound": null, "contact": "" },
+    "tags": ["tier1", "brand-name", "multi-stage", "generalist", "lead-investor"],
+    "summary": {
+      "en": "GLOBIS Capital Partners (founded 1996) is one of Japan's most prominent independent VC firms, with over US$1.8 billion aggregated AUM and Fund VII at ¥72.7 billion. It invests from seed onward as a lead investor in startups transforming large Japanese industries for global scale.",
+      "local": "1996年設立の独立系大手VC。累計運用資産1,800億円超、7号ファンドは727億円規模。日本の大型産業をアップデートしグローバル展開を目指すスタートアップにシード期からリード投資。"
+    },
+    "sources": [
+      {
+        "url": "https://globis.com/news/venture-capital/gcp_fund_seven-2023-04-25/",
+        "title": "GLOBIS Capital Partners Announces Final Close of Fund VII and Launches New Base in San Francisco",
+        "publisher": "GLOBIS Corporation",
+        "accessed": "2026-06-02",
+        "supports": "Fund VII size, AUM, founding year, companies invested, San Francisco office, partners, stage/check size",
+        "quote": "72.7 billion yen ... aggregated assets under management of over 1.8 billion USD ... Established in 1996 ... invested in 200 companies ... maximum investment of 10 billion yen per company ... Yoshito Hori, Minoru Imano, Shinichi Takamiya, Satoshi Fukushima, Emre Hidekazu Yuasa"
+      },
+      {
+        "url": "https://technode.global/2023/04/28/japans-globis-capital-partners-closes-fund-vii-at-534m/",
+        "title": "Japan's GLOBIS Capital Partners closes Fund VII at $534M",
+        "publisher": "TNGlobal",
+        "accessed": "2026-06-02",
+        "supports": "Fund VII USD equivalent",
+        "quote": "GLOBIS Capital Partners closes Fund VII at $534M"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund VII figure is as of March 31, 2023; firm now also lists a San Francisco base. Aggregated AUM figure (~US$1.8B) from official press release; some secondary sources cite ~US$1.3B (an older cumulative figure).",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "jp-jafco-group",
+    "name": { "en": "JAFCO Group", "local": "株式会社ジャフコ グループ" },
+    "aka": ["JAFCO", "Japan Associated Finance Co."],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 1973,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "offices": [{ "country": "Japan", "city": "Tokyo" }],
+    "website": "https://www.jafco.co.jp/english/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/jafco-co-ltd",
+      "other": ["https://en.wikipedia.org/wiki/JAFCO", "https://www.jafco.co.jp/english/fund/"]
+    },
+    "capital": {
+      "aum": { "raw": "Cumulative funds under management ¥1.2 trillion", "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "¥100 billion (2025 fund, ~US$678M)", "usd": 678000000, "currency": "JPY" },
+      "funds": [
+        { "name": "JAFCO 2025 fund (AI / space / nuclear fusion focus)", "vintage_year": 2025, "size": { "raw": "¥100 billion (~US$678M)", "usd": 678000000, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan", "United States", "Asia"],
+      "sector_focus": ["generalist", "ai-ml", "robotics", "fintech", "healthtech", "spacetech", "deeptech"],
+      "thesis": "Japan's oldest and largest independent venture/buyout platform; invests seed through growth across IT, life science/biotech, fintech and deep tech, with capacity to lead. Listed on the Tokyo Stock Exchange (Prime, 8595)."
+    },
+    "track_record": {
+      "portfolio_count": "4,247 investments to date",
+      "notable_investments": [
+        { "company": "Cyberdyne", "sector": "robotics", "outcome": "IPO" },
+        { "company": "UUUM", "sector": "consumer", "outcome": "IPO" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [],
+    "team_size": null,
+    "application": { "how_to_apply": "Inbound via firm website", "accepts_cold_inbound": null, "contact": "" },
+    "tags": ["tier1", "brand-name", "oldest", "largest-independent", "listed", "multi-stage"],
+    "summary": {
+      "en": "JAFCO Group (founded 1973) is Japan's oldest and largest independent VC, listed on the Tokyo Stock Exchange. It has cumulative funds under management of ¥1.2 trillion, over 4,200 investments and 1,042 IPOs to date, and launched a new ¥100 billion fund in 2025 targeting AI, space and nuclear fusion.",
+      "local": "1973年設立、日本最古・最大級の独立系VCで東証プライム上場(8595)。累計運用ファンド1.2兆円、累計投資4,247社・IPO1,042社。2025年にはAI・宇宙・核融合に投資する1,000億円ファンドを設定。"
+    },
+    "sources": [
+      {
+        "url": "https://www.jafco.co.jp/english/",
+        "title": "JAFCO Group Co., Ltd",
+        "publisher": "JAFCO Group",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, cumulative AUM, IPO count, investments count, HQ",
+        "quote": "Since our founding in 1973 ... Cumulative funds under management ¥1.2 trillion ... Total IPOs 1,042 ... Investments to date 4,247 ... Toranomon Hills Mori Tower 24F 1-23-1 Toranomon, Minato-ku, Tokyo"
+      },
+      {
+        "url": "https://www.privateequityinternational.com/institution-profiles/jafco-group.html",
+        "title": "JAFCO Group Institution Profile",
+        "publisher": "Private Equity International",
+        "accessed": "2026-06-02",
+        "supports": "2025 ¥100B fund launch (AI/space/nuclear fusion)",
+        "quote": "In March 2025, JAFCO Group announced the launch of its new JPY 100 billion (approximately $678 million) fund, targeting investments in AI, space, and nuclear fusion startups in Japan."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "USD AUM equivalent left null (not stated officially); secondary sources cite ~US$4–6.8B AUM with varying definitions. Cumulative IPO/investment figures from official site.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "jp-global-brain",
+    "name": { "en": "Global Brain Corporation", "local": "株式会社グローバル・ブレイン" },
+    "aka": ["Global Brain", "GB"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 1998,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "offices": [{ "country": "Japan", "city": "Tokyo" }],
+    "website": "https://globalbrains.com/en",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/globalbrain",
+      "crunchbase": "https://www.crunchbase.com/organization/global-brain-corporation",
+      "other": ["https://globalbrains.com/en/funds"]
+    },
+    "capital": {
+      "aum": { "raw": "$2.7B+", "usd": 2700000000, "currency": "USD" },
+      "current_fund": { "raw": "Global Brain Flagship Fund IX ~¥32.48 billion", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "Global Brain Flagship Fund IX (GB-IX)", "vintage_year": null, "size": { "raw": "~¥32.48 billion", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["generalist", "ai-ml", "agritech", "web3-crypto", "climate-energy", "saas-enterprise", "cybersecurity"],
+      "thesis": "Independent VC offering hands-on support and corporate open-innovation reach; manages a large flagship fund plus many corporate VC (CVC) vehicles, investing globally with a Japan core and a strong Series A focus."
+    },
+    "track_record": {
+      "portfolio_count": "450+ active (1,300+ deals)",
+      "notable_investments": [
+        { "company": "Mercari", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "Lime", "sector": "mobility", "outcome": "active" },
+        { "company": "Coins.ph", "sector": "fintech", "outcome": "acquired" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Yasuhiko Yurimoto", "role": "Founder / CEO" }
+    ],
+    "application": { "how_to_apply": "Inbound via firm website", "accepts_cold_inbound": null, "contact": "" },
+    "tags": ["tier1", "brand-name", "cvc-platform", "global", "multi-stage"],
+    "summary": {
+      "en": "Global Brain (founded 1998) is a leading independent Tokyo VC managing over US$2.7B AUM across a flagship fund and many corporate VC vehicles. It has 1,300+ deals, 450+ active portfolio companies, and notable backers/exits including Mercari, Lime and Coins.ph.",
+      "local": "1998年設立の独立系大手VC。フラッグシップファンドと多数のCVCを通じ運用資産27億ドル超。累計1,300件超の投資、アクティブ投資先450社超で、メルカリやLimeなどに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://globalbrains.com/en/funds",
+        "title": "Funds | Global Brain",
+        "publisher": "Global Brain Corporation",
+        "accessed": "2026-06-02",
+        "supports": "Total AUM, invested, deals, active portfolio",
+        "quote": "$2.7B+ ... $1.4B+ ... 1,300+ ... 450+"
+      },
+      {
+        "url": "https://medium.com/tokyo-fintech/global-brain-announces-the-final-closing-of-global-brain-flagship-fund-ix-at-approximately-jpy-32-a34cc7110517",
+        "title": "Global Brain announces the final closing of Global Brain Flagship Fund IX at approximately JPY 32.5 billion",
+        "publisher": "Tokyo FinTech / Medium",
+        "accessed": "2026-06-02",
+        "supports": "Flagship Fund IX size",
+        "quote": "the final closing of its 'Global Brain Flagship Fund IX' (GB-IX) at JPY 32.48 billion"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 1998 and CEO from secondary sources; AUM and deal stats from official funds page. AUM figures across sources range $1.8B (CVC subset) to $2.7B (total).",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "jp-incubate-fund",
+    "name": { "en": "Incubate Fund", "local": "インキュベイトファンド株式会社" },
+    "aka": ["Incubate Fund KK"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "offices": [{ "country": "Japan", "city": "Tokyo" }],
+    "website": "https://incubatefund.com/en/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/incubate-fund",
+      "crunchbase": "https://www.crunchbase.com/organization/incubate-fund",
+      "other": ["https://incubatefund.com/en/aboutus/"]
+    },
+    "capital": {
+      "aum": { "raw": "over US$840 million (secondary)", "usd": 840000000, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan", "Asia"],
+      "sector_focus": ["generalist", "saas-enterprise", "consumer", "fintech", "deeptech"],
+      "thesis": "One of Japan's leading seed-stage VC franchises; engages founders close to launch and runs the Incubate Camp seed accelerator. Lead seed investor across a broad sector mandate."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": 1,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Japan",
+      "demo_day": true,
+      "perks": ["mentorship by partners", "seed funding"],
+      "application_url": "https://incubatefund.com/",
+      "application_cycles": ["annual"],
+      "acceptance_rate": null,
+      "eligibility": "Early-stage / seed founders"
+    },
+    "track_record": {
+      "portfolio_count": "800 startups (cumulative, via funds)",
+      "notable_investments": [
+        { "company": "Sansan", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "bitFlyer", "sector": "fintech", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Toshihiro Akahane", "role": "Co-founder / General Partner" },
+      { "name": "Masahiko Honma", "role": "Co-founder / Representative Partner" }
+    ],
+    "application": { "how_to_apply": "Inbound / Incubate Camp", "accepts_cold_inbound": null, "contact": "" },
+    "tags": ["tier1", "brand-name", "seed-leader", "accelerator", "incubate-camp"],
+    "summary": {
+      "en": "Incubate Fund (established 2010) is a leading Japanese seed-stage VC that has backed roughly 800 startups through its funds and runs the Incubate Camp seed accelerator since 2010. Notable portfolio includes Sansan and bitFlyer.",
+      "local": "2010年設立の日本を代表するシード特化VC。ファンドを通じ累計約800社に投資し、2010年からシードアクセラレータ『Incubate Camp』を運営。SansanやbitFlyerなどに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://incubatefund.com/en/aboutus/",
+        "title": "Company Profile - Incubate Fund",
+        "publisher": "Incubate Fund",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, portfolio count, Incubate Camp, HQ",
+        "quote": "Date of Establishment: 2010 ... 800 startups through its funds ... running Incubate Camp, a seed-stage accelerator program, since 2010 ... Azabudai Hills Garden Plaza B 5F, 5-9-1 Toranomon, Minato-ku, Tokyo"
+      },
+      {
+        "url": "https://www.peony.ink/blog/21-series-a-investors-japan-2025",
+        "title": "Top 15 Series A Investors in Japan (2025)",
+        "publisher": "Peony",
+        "accessed": "2026-06-02",
+        "supports": "AUM (over $840M, secondary)",
+        "quote": "Incubate Fund is a leading seed-stage investor in Japan with over $840 million in assets under management."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Official 'about us' page lists ¥100 million funds figure that appears to be a typo/translation error (should be a much larger figure given ~800 portfolio companies); AUM of ~US$840M taken from a secondary source and marked accordingly. Partner names from secondary knowledge.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "jp-world-innovation-lab",
+    "name": { "en": "World Innovation Lab (WiL)", "local": "WiL（ワールド・イノベーション・ラボ）" },
+    "aka": ["WiL", "World Innovation Lab"],
+    "type": "vc",
+    "subtypes": ["growth-equity", "cvc"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "offices": [
+      { "country": "Japan", "city": "Tokyo" },
+      { "country": "United States", "city": "Palo Alto" }
+    ],
+    "website": "https://wilab.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/world-innovation-lab-wil-",
+      "crunchbase": "https://www.crunchbase.com/organization/wil",
+      "other": []
+    },
+    "capital": {
+      "aum": { "raw": "total committed capital more than $1.9 billion", "usd": 1900000000, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "WiL Fund I", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": null } },
+        { "name": "WiL Fund II", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": null } },
+        { "name": "WiL Ventures III", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "United States"],
+      "sector_focus": ["generalist", "ai-ml", "saas-enterprise", "fintech", "cybersecurity", "healthtech", "climate-energy"],
+      "thesis": "Bridges the innovation gap between startups and large corporations in the U.S. and Asia (especially Japan). Growth/late-stage focus in the U.S. and multistage in Japan; also runs corporate VC vehicles for Japanese partners."
+    },
+    "track_record": {
+      "portfolio_count": "15 unicorns in portfolio",
+      "notable_investments": [
+        { "company": "Mercari", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "Asana", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Wise", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Auth0", "sector": "cybersecurity", "outcome": "acquired" },
+        { "company": "SmartHR", "sector": "saas-enterprise", "outcome": "unicorn" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Gen Isayama", "role": "Co-founder / CEO" },
+      { "name": "Masataka Matsumoto", "role": "Co-founder / General Partner" }
+    ],
+    "team_size": "42 (22 Palo Alto, 20 Tokyo, 2022)",
+    "application": { "how_to_apply": "Inbound via firm website", "accepts_cold_inbound": null, "contact": "" },
+    "tags": ["tier1", "brand-name", "cross-border", "growth", "us-japan"],
+    "summary": {
+      "en": "WiL (World Innovation Lab, co-founded 2014) is a Palo Alto- and Tokyo-headquartered VC bridging startups and large corporations in the U.S. and Japan. Total committed capital exceeds US$1.9 billion, with 15 unicorns in portfolio and exits including Mercari, Asana, Wise and Auth0.",
+      "local": "2014年共同創業、米パロアルトと東京を拠点に米国・日本でスタートアップと大企業をつなぐVC。累計コミットメント19億ドル超、ポートフォリオに15社のユニコーン。メルカリ・Asana・Wise・Auth0などをExit。"
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2022/06/14/world-innovation-lab-wants-to-connect-the-innovation-gap-between-startups-and-corporates-in-the-us-and-asia-with-1b/",
+        "title": "World Innovation Lab wants to close the innovation gap",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Total committed capital, founding year, HQ, unicorns, fund structure, exits, team size",
+        "quote": "brings the firm's total committed capital to more than $1.9 billion ... co-founding WiL in 2014 ... Palo Alto- and Tokyo- headquartered venture capital firm ... WiL says it has a total of 15 unicorns in its portfolio currently ... WiL has seen a number of its portfolio companies go public ... including Asana, Mercari, Raksul and Wise. Another portfolio company, Auth0, was acquired by Okta ... WiL, which today has 22 employees in Palo Alto and 20 in Tokyo"
+      },
+      {
+        "url": "https://www.businesswire.com/news/home/20220614005426/en/World-Innovation-Lab-Raises-$1-Billion-to-Bridge-the-Innovation-Gap-Across-the-Global-Venture-Ecosystem",
+        "title": "World Innovation Lab Raises $1 Billion to Bridge the Innovation Gap Across the Global Venture Ecosystem",
+        "publisher": "Business Wire",
+        "accessed": "2026-06-02",
+        "supports": "$1 billion raise (2022)",
+        "quote": "World Innovation Lab Raises $1 Billion to Bridge the Innovation Gap Across the Global Venture Ecosystem"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Dual-headquartered (Palo Alto + Tokyo); included here for strong Japan association but note US presence. Figures as of June 2022; AUM may have grown since.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "jp-utec",
+    "name": { "en": "UTEC - The University of Tokyo Edge Capital Partners", "local": "株式会社東京大学エッジキャピタルパートナーズ" },
+    "aka": ["UTEC", "University of Tokyo Edge Capital Partners"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2004,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "offices": [{ "country": "Japan", "city": "Tokyo" }],
+    "website": "https://www.ut-ec.co.jp/english/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/utec/",
+      "crunchbase": "https://www.crunchbase.com/organization/utec",
+      "other": ["https://www.ut-ec.co.jp/english/about_us/firm_profile/"]
+    },
+    "capital": {
+      "aum": { "raw": "surpassed USD 1 billion in total AUM", "usd": 1000000000, "currency": "USD" },
+      "current_fund": { "raw": "UTEC 6 — JPY 47 billion (~USD 326 million)", "usd": 326000000, "currency": "JPY" },
+      "funds": [
+        { "name": "UTEC 6", "vintage_year": null, "size": { "raw": "JPY 47 billion (~USD 326 million)", "usd": 326000000, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["deeptech", "biotech", "healthtech", "hardware-semiconductor", "ai-ml", "robotics"],
+      "thesis": "Japan's largest science & technology / deep-tech VC, collaborating closely with leading universities (incl. The University of Tokyo). Seed-and-lead investor focused on Healthcare & Life Sciences, Information Technology, and Physical Sciences & Engineering."
+    },
+    "track_record": {
+      "portfolio_count": "150+ startups",
+      "notable_investments": [
+        { "company": "PeptiDream", "sector": "biotech", "outcome": "IPO" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Tomotaka Goji", "role": "Managing Partner / President & CEO" }
+    ],
+    "application": { "how_to_apply": "Inbound via firm website", "accepts_cold_inbound": null, "contact": "" },
+    "tags": ["tier1", "brand-name", "deeptech", "university-vc", "science"],
+    "summary": {
+      "en": "UTEC (founded 2004) is Japan's largest science & technology-focused deep-tech VC, working closely with The University of Tokyo and other universities. Its sixth fund, UTEC 6, is JPY 47 billion (~US$326M), pushing total AUM past US$1 billion; it has backed 150+ startups with 20 IPOs and 22 M&A exits.",
+      "local": "2004年設立、東京大学などと連携する日本最大級のサイエンス/ディープテックVC。6号ファンド『UTEC6』は470億円(約3.26億ドル)で、累計AUMは10億ドル超。150社超に投資しIPO20件・M&A22件。"
+    },
+    "sources": [
+      {
+        "url": "https://www.ut-ec.co.jp/english/about_us/news/utec6/",
+        "title": "UTEC Raises USD 326M Fund and Surpasses $1B in AUM",
+        "publisher": "UTEC",
+        "accessed": "2026-06-02",
+        "supports": "Fund VI size, total AUM, founding year, startups invested, IPOs, M&A, focus domains, seed-and-lead",
+        "quote": "UTEC 6, with a size of JPY 47 billion (approximately USD 326 million) ... the firm has surpassed USD 1 billion in total assets under management (AUM) ... UTEC has invested in more than 150 startups ... resulting in 20 IPOs ... 22 M&A exits ... Founded in 2004 ... UTEC will remain a seed-and-lead investor ... Healthcare and Life Sciences, Information Technology, and Physical Sciences and Engineering"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Deep-tech specialist; included as a brand-name tier-1 firm by AUM and prominence though it is sector-focused (science) rather than pure generalist. Managing partner from secondary knowledge.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "jp-anri",
+    "name": { "en": "ANRI", "local": "ANRI株式会社" },
+    "aka": ["ANRI Co., Ltd."],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "offices": [{ "country": "Japan", "city": "Tokyo" }],
+    "website": "https://anri.vc/",
+    "links": {
+      "twitter": "https://x.com/ANRI_VC",
+      "crunchbase": "https://www.crunchbase.com/organization/anri",
+      "other": []
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "ANRI Fund No. 6 — targeted ¥30 billion", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "ANRI Fund No. 6", "vintage_year": null, "size": { "raw": "targeted final corpus 30 billion yen", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "deeptech", "biotech", "consumer", "ai-ml", "climate-energy"],
+      "thesis": "Independent seed-stage VC with a broad mandate spanning consumer internet to life sciences and deep tech; targets becoming one of Japan's largest seed funds. Also runs a balance-sheet-funded ANRI Pre-Seed Program."
+    },
+    "track_record": {
+      "portfolio_count": "over 300 startups",
+      "notable_investments": [
+        { "company": "Raksul", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "Coincheck", "sector": "fintech", "outcome": "acquired" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Rei Sasaki", "role": "Founder / General Partner" }
+    ],
+    "application": { "how_to_apply": "Inbound via firm website", "accepts_cold_inbound": null, "contact": "" },
+    "tags": ["tier1", "brand-name", "seed-leader", "deeptech"],
+    "summary": {
+      "en": "ANRI (founded 2012) is an independent Japanese seed-stage VC that has supported over 300 startups across consumer internet, life sciences and deep tech. Its sixth fund, ANRI Fund No. 6, targets ¥30 billion, aiming to be one of Japan's largest seed funds; notable investments include Raksul and Coincheck.",
+      "local": "2012年設立の独立系シードVC。コンシューマーからライフサイエンス・ディープテックまで累計300社超を支援。6号ファンドは300億円を目標とし日本最大級のシードファンドを目指す。RaksulやCoincheckなどに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.fintechobserver.com/japans-anri-targets-30-billion-yen-for-sixth-seed-fund-unveils-balance-sheet-pre-seed-initiative/",
+        "title": "Japan's ANRI Targets 30 Billion Yen for Sixth Seed Fund",
+        "publisher": "Fintech Observer",
+        "accessed": "2026-06-02",
+        "supports": "Fund No.6 size, founding year, startups supported, sector mandate, Pre-Seed program",
+        "quote": "'ANRI Fund No. 6,' an investment vehicle with a targeted final corpus of 30 billion yen ... one of Japan's largest seed-stage funds ... Founded in 2012, ANRI is an independent venture capital firm that has supported over 300 startups ... deploying capital across sectors ranging from consumer internet services to life sciences and deep tech"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Total AUM not disclosed (left null); fund-level figure is a target, not a final close. Founder name from secondary knowledge.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "jp-strive",
+    "name": { "en": "STRIVE", "local": "STRIVE株式会社" },
+    "aka": ["STRIVE VC", "GREE Ventures (former name)"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "offices": [
+      { "country": "Japan", "city": "Tokyo" },
+      { "country": "India", "city": "Bengaluru" },
+      { "country": "Singapore", "city": "Singapore" }
+    ],
+    "website": "https://strive.vc/en/",
+    "links": {
+      "linkedin": "https://sg.linkedin.com/company/strive-vc",
+      "crunchbase": "https://www.crunchbase.com/organization/gree-ventures",
+      "other": []
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "India", "Southeast Asia"],
+      "sector_focus": ["saas-enterprise", "ecommerce", "ai-ml", "generalist"],
+      "thesis": "Early-stage (seed to Series A) VC investing across Japan, India and Southeast Asia in B2B tech, marketplaces and SaaS; rebranded from GREE Ventures to STRIVE in 2019."
+    },
+    "track_record": {
+      "portfolio_count": "110 companies (Feb 2025)",
+      "notable_investments": [
+        { "company": "Raksul", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "Bukalapak", "sector": "ecommerce", "outcome": "IPO" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Tatsuo Tsutsumi", "role": "Co-founder / Managing Partner" }
+    ],
+    "team_size": "14 (6 partners)",
+    "application": { "how_to_apply": "Inbound via firm website", "accepts_cold_inbound": null, "contact": "" },
+    "tags": ["tier1", "brand-name", "early-stage", "pan-asia"],
+    "summary": {
+      "en": "STRIVE (founded 2011 as GREE Ventures, rebranded 2019) is an early-stage VC investing seed to Series A across Japan, India and Southeast Asia in B2B tech, marketplaces and SaaS. It has invested in ~110 companies with one unicorn, 12 IPOs and 10 acquisitions including Raksul and Bukalapak.",
+      "local": "2011年にGREE Venturesとして設立、2019年にSTRIVEへ改称した早期段階VC。日本・インド・東南アジアでシード〜シリーズAに投資。累計約110社に投資し、IPO12件・M&A10件。RaksulやBukalapakなどに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://strive.vc/en/",
+        "title": "TOP(EN) - STRIVE",
+        "publisher": "STRIVE",
+        "accessed": "2026-06-02",
+        "supports": "Investment stage, rebrand year",
+        "quote": "Since 2019 ... mainly focus on Seed to Early stage startups"
+      },
+      {
+        "url": "https://tracxn.com/d/venture-capital/strive/__9ej7HYstD3_oYBmI7FcpROLSCmo66ZaTDUHFd3Zl7gU",
+        "title": "STRIVE - Investor Profile, Portfolio, Team & Investment Trends",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, portfolio count, exits, team size",
+        "quote": "STRIVE was founded in 2011 ... As of February 2025, STRIVE has invested in 110 companies. STRIVE's portfolio has seen 1 unicorn, 12 IPOs and 10 acquisitions including key companies like Bukalapak, Raksul and FlyRobe ... STRIVE has a team of 14, including 6 partners."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Total AUM and current fund size not disclosed in sources reviewed (left null). Founding year 2011 reflects GREE Ventures origin; firm website cites 'Since 2019' (rebrand). Founder name from secondary knowledge.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "jp-coral-capital",
+    "name": { "en": "Coral Capital", "local": "Coral Capital（コーラル・キャピタル）" },
+    "aka": ["Coral Capital", "500 Startups Japan (former affiliation)"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "offices": [{ "country": "Japan", "city": "Tokyo" }],
+    "website": "https://coralcap.co/?lang=en",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/coral-capital",
+      "other": ["https://coralcap.co/2024/05/announcing-coral-capital-iv/?lang=en"]
+    },
+    "capital": {
+      "aum": { "raw": "approximately JPY 60 billion", "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "Coral Capital IV — JPY 25 billion", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "Coral Capital IV", "vintage_year": 2024, "size": { "raw": "JPY 25 billion", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": "JPY 50m – JPY 3 billion per company", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "saas-enterprise", "fintech", "healthtech", "deeptech", "climate-energy"],
+      "thesis": "Tokyo seed-to-growth VC dedicated to 'building legendary companies in Japan' — finding Japan's next Sonys and Toyotas. Invests from seed to Series C with flexible check sizes."
+    },
+    "track_record": {
+      "portfolio_count": "over 100 companies",
+      "notable_investments": [
+        { "company": "SmartHR", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Kakehashi", "sector": "healthtech", "outcome": "active" },
+        { "company": "Kyoto Fusioneering", "sector": "deeptech", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "James Riney", "role": "Founding Partner / CEO" },
+      { "name": "Yohei Sawayama", "role": "Founding Partner" }
+    ],
+    "application": { "how_to_apply": "Inbound via firm website", "accepts_cold_inbound": null, "contact": "" },
+    "tags": ["tier1", "brand-name", "seed", "english-friendly"],
+    "summary": {
+      "en": "Coral Capital (founded 2016, originally 500 Startups Japan) is a Tokyo seed-to-growth VC with ~JPY 60 billion total AUM. Its fourth fund, Coral Capital IV, is JPY 25 billion. It has invested in 100+ companies (checks JPY 50m–3bn, seed to Series C), including SmartHR, Kakehashi and Kyoto Fusioneering.",
+      "local": "2016年設立(旧500 Startups Japan)の東京のシード〜グロースVC。累計運用資産約600億円、4号ファンドは250億円。シード〜シリーズCで5,000万〜30億円を投資し100社超に出資。SmartHR・カケハシ・Kyoto Fusioneeringなど。"
+    },
+    "sources": [
+      {
+        "url": "https://coralcap.co/2024/05/announcing-coral-capital-iv/?lang=en",
+        "title": "Announcing Coral IV: JPY 25 billion Dedicated To Finding Japan's Next Sonys and Toyotas",
+        "publisher": "Coral Capital",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV size, total AUM, founding year, portfolio count, notable investments, check size/stage",
+        "quote": "JPY 25 billion fund dedicated to building legendary companies in Japan ... our total assets under management (AUM) now stand at approximately JPY 60 billion ... we launched our first fund in 2016 ... We have since invested in over 100 companies ... supporting incredible companies like SmartHR, Kakehashi, and Kyoto Fusioneering ... invest anywhere from JPY 50m – JPY 3 billion into a single company anywhere from Seed to Series C"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "USD AUM equivalent left null (not stated officially; ~US$400M per secondary sources). Founding partners from official site/LinkedIn.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "jp-itochu-technology-ventures",
+    "name": { "en": "ITOCHU Technology Ventures", "local": "伊藤忠テクノロジーベンチャーズ株式会社" },
+    "aka": ["ITV", "ITOCHU Technology Ventures (ITV)"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2000,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "offices": [{ "country": "Japan", "city": "Tokyo" }],
+    "website": "https://www.techv.co.jp/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/itochu-technology-ventures",
+      "other": ["https://www.itochu.co.jp/en/news/press/2025/250331.html"]
+    },
+    "capital": {
+      "aum": { "raw": "Funds I-V totaling more than 39 billion yen (cumulative)", "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "Technology Ventures VI (TV6) — 16.1 billion yen", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "Technology Ventures VI (TV6)", "vintage_year": 2025, "size": { "raw": "16.1 billion yen", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "United States", "Global"],
+      "sector_focus": ["ai-ml", "healthtech", "climate-energy", "spacetech", "deeptech", "saas-enterprise"],
+      "thesis": "Venture arm backed by ITOCHU's industrial network; actively invests in early-stage startups in AI, healthcare, decarbonization and space, leveraging the trading house's expertise and customer base."
+    },
+    "track_record": {
+      "portfolio_count": "more than 180 companies (Funds I-V)",
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [],
+    "application": { "how_to_apply": "Inbound via firm website", "accepts_cold_inbound": null, "contact": "" },
+    "tags": ["tier1", "brand-name", "corporate-backed", "early-stage"],
+    "summary": {
+      "en": "ITOCHU Technology Ventures (ITV, established 2000) is the venture arm tied to trading house ITOCHU. In March 2025 it closed its largest-ever fund, Technology Ventures VI, at 16.1 billion yen (ITOCHU itself investing 2.5 billion yen). Across Funds I-V it invested in 180+ companies totaling over 39 billion yen, focusing on AI, healthcare, decarbonization and space.",
+      "local": "2000年設立、伊藤忠商事の産業ネットワークを背景に持つVC。2025年3月に過去最大の6号ファンド(TV6)を161億円で組成(伊藤忠が25億円を出資)。I〜V号で180社超・累計390億円超に投資し、AI・ヘルスケア・脱炭素・宇宙に注力。"
+    },
+    "sources": [
+      {
+        "url": "https://www.itochu.co.jp/en/news/press/2025/250331.html",
+        "title": "ITOCHU Announces Completion of Establishment of Technology Ventures VI Venture Capital Investment Limited Partnership",
+        "publisher": "ITOCHU Corporation",
+        "accessed": "2026-06-02",
+        "supports": "TV6 fund size, ITOCHU's contribution, founding year, cumulative investments and fund totals, focus sectors",
+        "quote": "At 16.1 billion yen, the fund is the largest ever established by ITV ... ITOCHU will invest 2.5 billion yen in TV6, one-sixth of its total committed capital ... ITV was established in 2000 ... cumulative investments in more than 180 companies via Funds I-V totaling more than 39 billion yen ... startups in the fields of artificial intelligence (AI), healthcare, decarbonization and space"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Corporate-backed VC (ITOCHU); included as a prominent, active multi-stage early-stage investor though it is a CVC by structure. USD equivalents left null (not in source).",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "jp-dnx-ventures",
+    "name": { "en": "DNX Ventures", "local": "DNX Ventures" },
+    "aka": ["DNX Ventures", "Draper Nexus (former name)"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "offices": [
+      { "country": "Japan", "city": "Tokyo" },
+      { "country": "United States", "city": "San Mateo" }
+    ],
+    "website": "https://www.dnx.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/dnxventures",
+      "crunchbase": "https://www.crunchbase.com/organization/dnx-ventures",
+      "other": ["https://techcrunch.com/2020/09/08/dnx-ventures-launches-315-million-fund-for-u-s-and-japanese-b2b-startups/"]
+    },
+    "capital": {
+      "aum": { "raw": "around $750 million (secondary)", "usd": 750000000, "currency": "USD" },
+      "current_fund": { "raw": "US fourth fund closed at $150 million (Core + Seed)", "usd": 150000000, "currency": "USD" },
+      "funds": [
+        { "name": "DNX Fund III (US/Japan B2B)", "vintage_year": 2020, "size": { "raw": "$315 million", "usd": 315000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "United States"],
+      "sector_focus": ["saas-enterprise", "cybersecurity", "deeptech", "climate-energy", "hardware-semiconductor", "fintech"],
+      "thesis": "Early-stage (seed / Series A) cross-border US-Japan VC focused on B2B startups in SaaS/cloud, cybersecurity, deep tech, sustainability, hardware, retail and finance."
+    },
+    "track_record": {
+      "portfolio_count": "100+ startups",
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [],
+    "application": { "how_to_apply": "Inbound via firm website", "accepts_cold_inbound": null, "contact": "" },
+    "tags": ["tier1", "brand-name", "b2b", "us-japan", "early-stage"],
+    "summary": {
+      "en": "DNX Ventures (founded 2011, formerly Draper Nexus) is a cross-border US-Japan early-stage VC focused on B2B startups, headquartered in San Mateo and Tokyo. It launched a $315M US/Japan B2B fund in 2020 and has backed 100+ startups in SaaS, cybersecurity and deep tech.",
+      "local": "2011年設立(旧Draper Nexus)、サンマテオと東京を拠点とする日米クロスボーダーの早期段階B2B特化VC。2020年に3.15億ドルの日米B2Bファンドを組成し、SaaS・セキュリティ・ディープテックなどで100社超に投資。"
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2020/09/08/dnx-ventures-launches-315-million-fund-for-u-s-and-japanese-b2b-startups/",
+        "title": "DNX Ventures launches $315 million fund for US and Japanese B2B startups",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund III size, B2B focus, US-Japan",
+        "quote": "DNX Ventures launches $315 million fund for U.S. and Japanese B2B startups"
+      },
+      {
+        "url": "https://privateequitylist.com/investors/dnx-ventures",
+        "title": "DNX Ventures",
+        "publisher": "Private Equity List",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, HQ (San Mateo + Tokyo), AUM, portfolio count",
+        "quote": "DNX Ventures is a venture capital investment firm founded in 2011 and based in San Mateo, California, and in Tokyo, Japan ... around $750 million assets under management ... invested in more than 100 startups"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Dual-headquartered (San Mateo + Tokyo); strongly Japan-associated and Japan-fund active, but partially US-based. AUM/portfolio figures from secondary sources; fund-IV $150M figure also secondary.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  }
+]

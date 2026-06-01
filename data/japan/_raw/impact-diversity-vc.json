@@ -1,0 +1,824 @@
+[
+  {
+    "id": "jp-mpower-partners",
+    "name": { "en": "MPower Partners", "local": "MPower Partners Fund L.P." },
+    "aka": ["MPower Partners Fund", "MPowerパートナーズ"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.mpower-partners.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/mpower-partners/",
+      "other": ["https://www.jetro.go.jp/en/invest/insights/expert-perspectives/mpower.html"]
+    },
+    "capital": {
+      "aum": { "raw": "US$150 million (target)", "usd": 150000000, "currency": "USD" },
+      "current_fund": { "raw": "US$150 million (target)", "usd": 150000000, "currency": "USD" },
+      "funds": [
+        { "name": "MPower Partners Fund L.P.", "vintage_year": 2021, "size": { "raw": "US$150 million (target)", "usd": 150000000, "currency": "USD" } },
+        { "name": "WPower Fund I 投資事業有限責任組合", "vintage_year": 2025, "size": { "raw": "最大80億円 / ¥6.0B base", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["impact", "healthtech", "fintech", "edtech", "consumer", "climate-energy"],
+      "thesis": "Japan's first ESG-focused global venture capital fund. Backs entrepreneurs providing tech-enabled solutions to societal challenges and integrates ESG across portfolio companies. Growth- to late-stage Japanese startups plus earlier-stage overseas startups in healthcare/wellness, fintech, next-generation work/education, next-generation consumer, and environment/sustainability."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [
+      { "name": "Kathy Matsui", "role": "General Partner (Co-founder)" },
+      { "name": "Yumiko Murakami", "role": "General Partner (Co-founder)" },
+      { "name": "Miwa Seki", "role": "General Partner (Co-founder)" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["esg", "impact", "women-led-gp", "diversity", "gender-lens"],
+    "summary": {
+      "en": "MPower Partners is Japan's first ESG-focused global venture capital fund, founded in 2021 by three women general partners (Kathy Matsui, Yumiko Murakami, Miwa Seki) with a US$150M target. In 2025 it was selected by the Tokyo Metropolitan Government to operate WPower Fund I, a vehicle dedicated to women-founded startups and startups advancing women's participation (max ¥8.0B).",
+      "local": "MPower Partnersは2021年設立の日本初のESG特化型グローバルVC。女性GP3名（キャシー松井、村上由美子、関美和）が運営。2025年に東京都の女性活躍推進ファンド「WPower Fund I」（最大80億円）の運営事業者に選定された。"
+    },
+    "sources": [
+      {
+        "url": "https://www.mpower-partners.com/news/japans-first-esg-focused-vc-fund",
+        "title": "Japan's First ESG-Focused Global Venture Capital Fund \"MPower Partners Fund L.P.\"",
+        "publisher": "MPower Partners",
+        "accessed": "2026-06-02",
+        "supports": "Fund name, US$150M target, launch date, founding partners, sectors, LPs",
+        "quote": "MPower Partners Fund L.P. ... The target of capital commitments is anticipated to be US$150 million ... Kathy Matsui - General Partner; Yumiko Murakami - General Partner; Miwa Seki - General Partner ... healthcare/wellness, fintech, next generation work/education, next-generation consumer, and environment/sustainability"
+      },
+      {
+        "url": "https://www.mec.co.jp/news/detail/2025/03/07_mec250307_wpower",
+        "title": "国内初 女性活躍推進に特化した「スタートアップ支援ファンド」を設立",
+        "publisher": "Mitsubishi Estate",
+        "accessed": "2026-06-02",
+        "supports": "WPower Fund I operated by MPower Partners, max ¥8.0B, focus on women-founded startups",
+        "quote": "ファンド名: WPower Fund I 投資事業有限責任組合 ... ファンド規模: 最大80億円 ... アーリーステージの女性創業スタートアップ、女性活躍の推進等に資するサービス・商品を展開するスタートアップ"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Portfolio count and check size not disclosed on official sources; left null. WPower Fund base size ¥6.0B (incl. ¥3.0B Tokyo contribution) per Tokyo press release, max ¥8.0B.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "jp-nextblue",
+    "name": { "en": "NEXTBLUE", "local": "NEXTBLUE有限責任事業組合" },
+    "aka": ["NEXT BLUE"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://nextblue.com/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000001.000076788.html"]
+    },
+    "capital": {
+      "aum": null,
+      "current_fund": { "raw": "NEXTBLUE2号 — 運用額50億円を計画 (target ¥5.0B)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "NEXTBLUE1号 (総額30億円目標)", "vintage_year": 2020, "size": { "raw": "総額30億円のファンドサイズを目標 (raised ~¥1.5B by Feb 2021)", "usd": null, "currency": "JPY" } },
+        { "name": "NEXTBLUE2号投資事業有限責任組合 (女性ウェルビーイング特化)", "vintage_year": 2023, "size": { "raw": "運用額を2024年12月までに50億円とする計画", "usd": null, "currency": "JPY" } },
+        { "name": "NEXTBLUE TOKYO 投資事業有限責任組合", "vintage_year": 2025, "size": { "raw": "20億円 (うち都出資10億円) 最大50億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Europe"],
+      "sector_focus": ["impact", "healthtech", "consumer", "saas-enterprise"],
+      "thesis": "First fund invested across Japan and Europe in Future of Work, Future of Health, and Future of Lifestyle. Its 2nd fund (2023) pivoted to be Asia's first fund focused exclusively on improving women's well-being, addressing the gap in women's wellbeing entrepreneurship and investment in Japan."
+    },
+    "track_record": {
+      "portfolio_count": "~40 (across funds 1 and 2 per reporting; 14 at fund I formation)",
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [
+      { "name": "Kanako Inoue", "role": "Representative Partner (井上加奈子)" },
+      { "name": "Yuichi Kori", "role": "Founding Partner (郡裕一)" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["impact", "women-wellbeing", "gender-lens", "diversity", "femtech"],
+    "summary": {
+      "en": "NEXTBLUE is a Tokyo-based VC founded in 2020 led by Kanako Inoue. Its first fund (target ¥3.0B) invested in ~14 Japan/Europe startups in Future of Work/Health/Lifestyle. In Sept 2023 it launched what it calls Asia's first fund dedicated to improving women's well-being (target ¥5.0B), and in 2025 was selected to operate the Tokyo NEXTBLUE TOKYO women's-empowerment fund.",
+      "local": "NEXTBLUEは2020年設立、代表パートナー井上加奈子。1号は日欧のスタートアップ約14社に投資。2023年9月にアジア初の女性ウェルビーイング特化ファンドを組成。2025年に東京都「女性活躍推進ファンド」のNEXTBLUE TOKYO運営事業者に選定。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000001.000076788.html",
+        "title": "日本と欧州のスタートアップへの投資と新市場展開支援を行うNEXTBLUE、1号ファンドを設立",
+        "publisher": "PR TIMES / NEXTBLUE",
+        "accessed": "2026-06-02",
+        "supports": "Fund 1 size target ¥3.0B, founding 2020, partners, Japan+Europe focus, 14 portfolio companies",
+        "quote": "総額30億円のファンドサイズを目標に募集を開始し、2021年2月末に目標額の約半分を集め ... 2020年1月29日 ... 郡 裕一、井上 加奈子 ... 既に国内外14社への出資を実行"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000005690.000052467.html",
+        "title": "国内初 女性活躍推進に特化した「スタートアップ支援ファンド」を設立",
+        "publisher": "Tokyo Metropolitan Government / PR TIMES",
+        "accessed": "2026-06-02",
+        "supports": "NEXTBLUE TOKYO fund ¥2.0B (¥1.0B Tokyo), max ¥5.0B; women-empowerment focus",
+        "quote": "NEXTBLUE（代表者：井上加奈子）... NEXTBLUE TOKYO投資事業有限責任組合 ファンド規模20億円（うち都出資額：10億円）で最大50億円までを想定"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund 1 was a target of ¥3.0B, roughly half raised by Feb 2021. Fund 2 (women's wellbeing) target ¥5.0B by Dec 2024 per secondary reporting; actual close not confirmed in primary source. Aggregate portfolio ~40 reported in secondary media; 14 confirmed at fund I formation.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "jp-glin-impact-capital",
+    "name": { "en": "GLIN Impact Capital", "local": "GLIN Impact Capital 有限責任事業組合" },
+    "aka": ["GLINインパクトキャピタル"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://glinimpact.com/",
+    "links": {
+      "linkedin": "https://jp.linkedin.com/company/glin-impact-capital",
+      "crunchbase": "",
+      "other": ["https://startup-db.com/funds/pqaJEVrqs6en61by", "https://initial.inc/investors/V15918"]
+    },
+    "capital": {
+      "aum": null,
+      "current_fund": { "raw": "GLIN Impact Capital投資事業組合1号 (target ¥1.0B / 10億円)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "GLIN Impact Capital投資事業組合1号", "vintage_year": 2021, "size": { "raw": "10億円 (target)", "usd": null, "currency": "JPY" } },
+        { "name": "2号インパクト・グロースファンド", "vintage_year": 2026, "size": { "raw": "最大300億円 (max target)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "数千万円〜数億円 / per deal (tens of millions to hundreds of millions of yen)", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "United States"],
+      "sector_focus": ["impact", "climate-energy", "healthtech", "edtech", "agritech"],
+      "thesis": "Self-described first-generation impact/ESG VC for unlisted companies. Targets mid- to later-stage growth-stage startups in Japan and the US solving social issues (environment, aging/declining birthrate, diversity, agriculture/food, mental health, education gaps) where social-impact returns and economic returns have synergy. Ties its own carried interest to impact outcomes."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [
+      { "name": "Masato Nakamura", "role": "Co-Representative (中村将人)" },
+      { "name": "Masahiro Hata", "role": "Co-Representative (秦雅弘)" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["impact", "esg", "bluemark-gold", "gender-lens"],
+    "summary": {
+      "en": "GLIN Impact Capital, established Feb 2021 in Minato, Tokyo by co-representatives Masato Nakamura and Masahiro Hata, calls itself Japan's first-generation impact/ESG VC. Its first fund targeted ¥1.0B for mid/late-stage startups in Japan and the US solving social issues. It has received a GOLD rating from third-party impact verifier BlueMark for two consecutive years. A larger 2nd impact-growth fund (max ¥30B) was announced in 2026.",
+      "local": "GLIN Impact Capitalは2021年2月設立（東京都港区南青山）、共同代表 中村将人・秦雅弘。日本第一世代のインパクト/ESG VCを自称。1号ファンドは目標10億円で日米の中〜後期成長企業に投資。第三者検証機関BlueMarkより2年連続GOLD評価を獲得。2026年に最大300億円の2号インパクト・グロースファンドを発表。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000004.000076593.html",
+        "title": "インパクト/ESG投資ファンドGLIN Impact Capital投資事業組合1号組成のお知らせ",
+        "publisher": "PR TIMES / GLIN Impact Capital",
+        "accessed": "2026-06-02",
+        "supports": "Establishment Feb 2021, co-representatives, HQ Minato, growth-stage focus, social issues",
+        "quote": "2021年2月 ... 中村将人、秦雅弘 ... 東京都港区南青山2-2-15 ... 2021年秋頃の最終クローズを予定 ... 日本がグローバルに対して先進して直面している社会課題"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000015.000076593.html",
+        "title": "GLIN Impact Capitalがインパクトファンド第三者検証機関のBlueMarkよりGOLD評価を獲得",
+        "publisher": "PR TIMES / GLIN Impact Capital",
+        "accessed": "2026-06-02",
+        "supports": "BlueMark GOLD two consecutive years; investment themes incl. environment, diversity, mental health, education",
+        "quote": "2年連続となる今回の第三者検証 ... GOLD評価を獲得 ... 環境問題、少子高齢化、多様性社会への課題、農業・食糧問題、メンタルヘルス、教育格差、等"
+      },
+      {
+        "url": "https://startup-db.com/funds/pqaJEVrqs6en61by",
+        "title": "GLIN Impact Capital投資事業有限責任組合 | STARTUP DB",
+        "publisher": "STARTUP DB",
+        "accessed": "2026-06-02",
+        "supports": "Description as first-generation impact/ESG fund for unlisted companies",
+        "quote": "未上場企業に対してインパクト/ESG投資を行う第一世代の投資ファンド"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund 1 target ¥1.0B per secondary reporting (The Bridge / search aggregation); official PR did not state the figure in the snippet, so size confidence is medium. Per-deal check (tens of millions to hundreds of millions of yen) and 2号 max ¥30B from secondary reporting. Portfolio count not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "jp-impact-capital-limited",
+    "name": { "en": "Impact Capital Limited", "local": "インパクト・キャピタル株式会社" },
+    "aka": ["Impact Capital", "インパクトキャピタル"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://impactcapital.jp/en/",
+    "links": {
+      "other": ["https://www.jp-life.japanpost.jp/information/press/2024/abt_prs_id001972.html", "https://www.nikkei.com/article/DGXZQOUC292910Z20C24A5000000/"]
+    },
+    "capital": {
+      "aum": null,
+      "current_fund": { "raw": "インパクト・キャピタル1号 — 計60億円 (¥6.0B)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "Impact Capital I LPS (インパクト・キャピタル1号投資事業有限責任組合)", "vintage_year": 2024, "size": { "raw": "60億円 (¥6.0B)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["impact", "healthtech", "proptech", "consumer"],
+      "thesis": "Founded by two women capitalists who previously led Shinsei Bank Group's first impact fund. Pursues people's well-being and a 'vibrant colorful society where diversity is recognized' through impact investing in startups improving lifestyle and urban development (まちづくり)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [
+      { "name": "Ms. Huang (黄)", "role": "Co-founder" },
+      { "name": "Ms. Takatsuka (高塚)", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["impact", "well-being", "diversity", "women-led-gp"],
+    "summary": {
+      "en": "Impact Capital Limited (Shibuya, Tokyo) was founded in 2024 by two women capitalists who previously launched Shinsei Bank Group's first impact fund. Its first fund raised ¥6.0B from Japan Post Insurance (Kampo) and Ritsumeikan, investing in startups that improve people's well-being through lifestyle and urban development, in pursuit of a society where diversity is recognized.",
+      "local": "インパクト・キャピタル株式会社（東京都渋谷区）は、新生銀行グループ初のインパクトファンドを手掛けた女性キャピタリスト2人が2024年に独立して設立。1号ファンドはかんぽ生命・学校法人立命館から計60億円を調達し、暮らしや街づくりを通じて人々のウェルビーイング向上に資するスタートアップに投資。多様性が認められる社会を目指す。"
+    },
+    "sources": [
+      {
+        "url": "https://impactcapital.jp/en/",
+        "title": "Impact Capital Limited",
+        "publisher": "Impact Capital Limited",
+        "accessed": "2026-06-02",
+        "supports": "Founded Feb 2024, Shibuya Tokyo HQ, women co-founders, well-being/diversity mission, fund history",
+        "quote": "Pursuing People's Well-Being ... a vibrant colorful society through impact investment, where diversity is recognized ... 1-3-9 Uehara, Shibuya-ku, Tokyo ... Impact Capital I LPS (launched May 2024)"
+      },
+      {
+        "url": "https://www.nikkei.com/article/DGXZQOUC292910Z20C24A5000000/",
+        "title": "VCのインパクト・キャピタル 暮らしへ投資するファンド",
+        "publisher": "Nikkei",
+        "accessed": "2026-06-02",
+        "supports": "¥6.0B raised from Kampo and Ritsumeikan; women capitalists from Shinsei; lifestyle/urban-development focus",
+        "quote": "新生企業投資の女性キャピタリスト2人が独立し ... かんぽ生命保険や学校法人立命館から計60億円を調達 ... 暮らしや街づくりなど人々のウェルビーイングの向上に貢献するスタートアップに投資"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size ¥6.0B confirmed by Nikkei; exact stages/check size not disclosed. Co-founders identified as Huang and Takatsuka per official site; full romanized names not confirmed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "jp-shinsei-corporate-investment",
+    "name": { "en": "SBI Shinsei Corporate Investment (Impact Investment)", "local": "SBI新生企業投資株式会社" },
+    "aka": ["新生企業投資", "Shinsei Corporate Investment", "新生インパクト投資"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.sbishinsei-ci.co.jp/impact-investment/",
+    "links": {
+      "other": ["https://www.shinsei-ci.com/impact-investment/", "https://hatarakufund.com/"]
+    },
+    "capital": {
+      "aum": null,
+      "current_fund": { "raw": "日本インパクト投資2号 (はたらくFUND) 出資総額36億円", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "日本インパクト投資1号投資事業有限責任組合 (Childcare Support Fund)", "vintage_year": 2017, "size": { "raw": "出資総額5億円", "usd": null, "currency": "JPY" } },
+        { "name": "日本インパクト投資2号投資事業有限責任組合 (HATARAKU Fund / はたらくFUND)", "vintage_year": 2019, "size": { "raw": "出資総額36億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["impact", "healthtech", "edtech", "saas-enterprise"],
+      "thesis": "Operates Japan's first banking-group impact investment funds. Targets venture companies addressing declining birthrates, population decline and aging, pursuing both economic and social returns. The 2nd fund (HATARAKU Fund) centers on 'supporting working people' across care (childcare, eldercare) and work (next-gen work styles, talent development)."
+    },
+    "track_record": {
+      "portfolio_count": "70+ (across portfolio per company description)",
+      "notable_investments": [
+        { "company": "Life is Tech", "sector": "EdTech", "outcome": "active" },
+        { "company": "Unifa", "sector": "ChildcareTech", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["impact", "esg", "social", "care", "future-of-work"],
+    "summary": {
+      "en": "SBI Shinsei Corporate Investment runs Japan's first banking-group impact investment funds. Japan Impact Investment I LPS (2017, ¥0.5B) focused on childcare; Japan Impact Investment II LPS / HATARAKU Fund (2019, ¥3.6B), co-managed with SIIF, targets childcare, eldercare and new work styles to support working people. Portfolio includes Life is Tech and Unifa.",
+      "local": "SBI新生企業投資は邦銀グループ初のインパクト投資ファンドを運営。日本インパクト投資1号（2017年・出資総額5億円）は子育て領域に特化、日本インパクト投資2号「はたらくFUND」（2019年・36億円、SIIFと共同GP）は子育て・介護・新しい働き方を対象に「働く人を支える」ことに注力。投資先にライフイズテック、ユニファ等。"
+    },
+    "sources": [
+      {
+        "url": "https://www.sbishinsei-ci.co.jp/impact-investment/",
+        "title": "IMPACT INVESTMENT インパクト投資",
+        "publisher": "SBI Shinsei Corporate Investment",
+        "accessed": "2026-06-02",
+        "supports": "Two funds, sizes ¥0.5B and ¥3.6B, founding years, social-issue focus",
+        "quote": "日本インパクト投資1号投資事業有限責任組合 ... 設立 2017年1月 ... 出資総額 5億円 ... 日本インパクト投資2号投資事業有限責任組合 ... 設立 2019年6月 ... 出資総額 36億円 ... 「少子化」「人口減少」「高齢化」"
+      },
+      {
+        "url": "https://www.siif.or.jp/approach/42964/",
+        "title": "はたらくFUND – SIIF",
+        "publisher": "SIIF",
+        "accessed": "2026-06-02",
+        "supports": "HATARAKU Fund co-managed by Shinsei Impact Investment and SIIF; focus on working people; portfolio incl. Life is Tech, Unifa",
+        "quote": "新生インパクト投資株式会社とSIIF ... 共同運営 ... 「働く人を支える仕組み」 ... ライフイズテック株式会社 ... ユニファ株式会社"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded year of the management company left null (the funds' vintages are documented; the GP entity SBI Shinsei Corporate Investment predates them). Portfolio '70+' from company-level description, not a per-fund figure.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "jp-siif",
+    "name": { "en": "SIIF (Social Innovation and Investment Foundation)", "local": "一般財団法人 社会変革推進財団" },
+    "aka": ["社会変革推進財団", "Japan Social Innovation and Investment Foundation", "GSG Impact JAPAN secretariat"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.siif.or.jp/en/",
+    "links": {
+      "other": ["https://www.siif.or.jp/approach/42964/", "https://impactinvestment.jp/impact-investing/players.html"]
+    },
+    "capital": {
+      "aum": null,
+      "current_fund": { "raw": "はたらくFUND (Japan Impact Investment II) — co-GP, ¥3.6B", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "はたらくFUND (日本インパクト投資2号) — co-GP with Shinsei Impact Investment", "vintage_year": 2019, "size": { "raw": "出資総額36億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["impact", "healthtech", "edtech"],
+      "thesis": "A foundation that promotes impact investing in Japan, hosts the GSG Impact JAPAN National Partner secretariat, and acts as a member of GIIN. Beyond ecosystem-building (PFS/SIB), it makes direct impact investments and co-manages the HATARAKU Fund with Shinsei Impact Investment, targeting diverse ways of working/living and mechanisms to support workers."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Life is Tech", "sector": "EdTech", "outcome": "active" },
+        { "company": "Unifa", "sector": "ChildcareTech", "outcome": "active" },
+        { "company": "Linc", "sector": "Services for foreign residents", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["impact", "foundation", "gsg", "giin", "social"],
+    "summary": {
+      "en": "SIIF (Social Innovation and Investment Foundation, est. 2017) is a Tokyo foundation that promotes impact investing in Japan, hosts the GSG Impact JAPAN secretariat and is a GIIN member. It co-manages the HATARAKU Fund (Japan Impact Investment II, ¥3.6B) with Shinsei Impact Investment and makes direct impact investments addressing diverse ways of working and living.",
+      "local": "一般財団法人 社会変革推進財団（SIIF、2017年設立）は日本のインパクト投資普及を担い、GSG Impact JAPAN事務局・GIIN会員。新生インパクト投資と共同で「はたらくFUND」（日本インパクト投資2号・36億円）を運営し、直接投資も実施。多様な働き方・生き方の創造を目指す。"
+    },
+    "sources": [
+      {
+        "url": "https://www.siif.or.jp/approach/42964/",
+        "title": "はたらくFUND – SIIF",
+        "publisher": "SIIF",
+        "accessed": "2026-06-02",
+        "supports": "SIIF co-GP of HATARAKU Fund with Shinsei Impact Investment; impact thesis; portfolio companies",
+        "quote": "新生インパクト投資株式会社とSIIF（一般財団法人社会変革推進財団）が共同運営 ... 「多様な働き方・生き方の創造」 ... ライフイズテック ... ユニファ"
+      },
+      {
+        "url": "https://impactinvestment.jp/impact-investing/players.html",
+        "title": "インパクト投資における国内外の主なプレイヤー｜GSG Impact JAPAN",
+        "publisher": "GSG Impact JAPAN",
+        "accessed": "2026-06-02",
+        "supports": "SIIF hosts GSG Impact JAPAN secretariat and is a GIIN member",
+        "quote": "社会変革推進財団 (SIIF) ... GIIN ... GSG Impact JAPAN ... 事務局"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "SIIF is a foundation (classified government-program/public-good with vc subtype because it co-manages a VC-type impact fund). HATARAKU Fund size ¥3.6B shared with SBI Shinsei entry (the two are co-GPs of the same fund); not double counting AUM.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "jp-kibow-social-investment-fund",
+    "name": { "en": "KIBOW Social Investment Fund", "local": "KIBOW社会投資ファンド" },
+    "aka": ["KIBOW", "一般財団法人KIBOW", "Globis KIBOW"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://kibow.jp/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000009.000063884.html", "https://globis.co.jp/news/tag/kibow%E7%A4%BE%E4%BC%9A%E6%8A%95%E8%B3%87%E3%83%95%E3%82%A1%E3%83%B3%E3%83%89/"]
+    },
+    "capital": {
+      "aum": null,
+      "current_fund": { "raw": "KIBOW社会投資ファンド3号 出資総額10億円", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "KIBOW社会投資ファンド (1号)", "vintage_year": 2015, "size": { "raw": null, "usd": null, "currency": "JPY" } },
+        { "name": "KIBOW社会投資ファンド3号", "vintage_year": 2021, "size": { "raw": "出資総額10億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "1案件あたり1,000万〜1億円 (¥10M–¥100M per deal)", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["impact", "healthtech", "edtech"],
+      "thesis": "Impact investing arm started by Globis (KIBOW Foundation, born after the 2011 earthquake, inspired by Ronald Cohen). Equity investments in social entrepreneurs in regional revitalization (incl. disaster areas), medical/eldercare/welfare, childcare, social inclusion and poverty issues; ¥10M–¥100M per deal."
+    },
+    "track_record": {
+      "portfolio_count": "22 (cumulative across funds, per company description)",
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["impact", "social", "globis", "social-inclusion"],
+    "summary": {
+      "en": "KIBOW Social Investment Fund is the impact-investing initiative of Globis (KIBOW Foundation), launched in 2015 and inspired by Ronald Cohen. KIBOW Social Investment Fund 3 (est. Nov 2021, ¥1.0B) makes ¥10M–¥100M equity investments in social entrepreneurs across regional revitalization, medical/eldercare, childcare, social inclusion and poverty. It publishes annual impact reports and has backed 22 companies cumulatively.",
+      "local": "KIBOW社会投資ファンドはグロービス（一般財団法人KIBOW）のインパクト投資事業。2015年開始、ロナルド・コーエン氏の提言が契機。3号（2021年11月設立・出資総額10億円）は1案件1,000万〜1億円を、地方創生・医療介護・子育て・ソーシャルインクルージョン・貧困問題の社会起業家に投資。累計22社に出資。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000009.000063884.html",
+        "title": "一般財団法人KIBOW、総額10億円の「KIBOW社会投資ファンド3号」を設立",
+        "publisher": "PR TIMES / KIBOW",
+        "accessed": "2026-06-02",
+        "supports": "Fund 3 size ¥1.0B, establishment Nov 2021, ¥10M–¥100M per deal, focus areas",
+        "quote": "出資総額は10億円。「KIBOW社会投資ファンド3号」を設立しました。2021年11月9日 ... 1案件あたり1,000万～1億円を投資 ... 地方創生（震災被災地含む）、医療・介護・高齢者福祉、育児・子育て支援、ソーシャル・インクルージョン、貧困問題"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Cumulative portfolio count (22) and 2015 founding from search aggregation of Globis/KIBOW pages; fund 1 size not disclosed. Fund 3 details from official PR TIMES.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "jp-realtech-fund",
+    "name": { "en": "RealTech Fund (UntroD Capital Japan / Real Tech Holdings)", "local": "リアルテックファンド" },
+    "aka": ["UntroD Capital Japan", "リアルテックホールディングス", "Real Tech Holdings"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.realtech.fund/",
+    "links": {
+      "other": ["https://www.realtech.holdings/about/impact-investing/", "https://prtimes.jp/main/html/rd/p/000000042.000036405.html"]
+    },
+    "capital": {
+      "aum": null,
+      "current_fund": { "raw": "リアルテックファンド3号 + グローバル1号 総額134億円 (¥13.4B final close)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "リアルテックファンド3号投資事業有限責任組合 (日本初のディープテック系インパクト投資ファンド)", "vintage_year": 2021, "size": { "raw": "国内3号+海外1号 総額134億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["impact", "deeptech", "climate-energy", "hardware-semiconductor", "biotech"],
+      "thesis": "Self-described Japan's first deep-tech impact investment fund. Backs R&D-oriented startups solving challenges for the earth and humanity (renewable energy, advanced materials, disaster response) from the seed stage, with its own impact measurement and management (IMM) framework."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Challenergy", "sector": "Renewable energy", "outcome": "active" },
+        { "company": "U-MaP", "sector": "Advanced materials", "outcome": "active" },
+        { "company": "Terra Labo", "sector": "Unmanned aircraft / disaster tech", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["impact", "deeptech", "climate", "imm"],
+    "summary": {
+      "en": "RealTech Fund (operated by Real Tech Holdings / UntroD Capital Japan, founded 2015) describes its 3rd fund as Japan's first deep-tech impact investment fund (announced April 2021). The domestic 3rd and global 1st funds reached a ¥13.4B final close. It invests from seed stage in R&D startups tackling earth/humanity challenges (e.g. Challenergy, U-MaP, Terra Labo) and applies its own IMM impact-assessment framework.",
+      "local": "リアルテックファンド（リアルテックホールディングス／UntroD Capital Japanが運営、2015年創業）は3号を「日本初のディープテック系インパクト投資ファンド」と称し2021年4月に運用開始。国内3号と海外1号は総額134億円で最終クローズ。地球と人類の課題を解決するR&D型スタートアップ（Challenergy、U-MaP、テラ・ラボ等）にシード期から投資し、独自のインパクト評価制度（IMM）を導入。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000042.000036405.html",
+        "title": "リアルテックファンド、日本初のディープテック系インパクト投資ファンドを設立",
+        "publisher": "PR TIMES / UntroD Capital Japan",
+        "accessed": "2026-06-02",
+        "supports": "Claim to be Japan's first deep-tech impact fund; operating companies; fund name; April 2021",
+        "quote": "日本初となるディープテック系インパクト投資ファンドとして運用を開始 ... リアルテックファンド3号投資事業有限責任組合 ... リアルテックホールディングス株式会社 ... 2021年4月5日"
+      },
+      {
+        "url": "https://www.euglena.jp/en/news/20210506-2/",
+        "title": "リアルテックファンド、国内3号及び海外1号ファンドが総額134億円で最終クローズ",
+        "publisher": "Euglena Co.",
+        "accessed": "2026-06-02",
+        "supports": "Domestic 3rd + global 1st funds final-closed at ¥13.4B total",
+        "quote": "リアルテックファンド、国内3号及び海外1号ファンドが総額134億円で最終クローズ"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded year 2015 reflects Real Tech Holdings/RealTech Fund inception per secondary sources; the impact-fund designation applies to the 3rd fund (2021). Portfolio count not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "jp-kii-impact-fund",
+    "name": { "en": "Keio Innovation Initiative (KII) Impact Fund", "local": "慶應イノベーション・イニシアティブ KII3号インパクトファンド" },
+    "aka": ["KII", "Keio Innovation Initiative", "KII3号インパクト投資事業有限責任組合"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://innov.keio.ac.jp/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000048.000018580.html", "https://innov.keio.ac.jp/startup/topics/720/", "https://www.jp-life.japanpost.jp/information/press/2023/abt_prs_id001929.html"]
+    },
+    "capital": {
+      "aum": null,
+      "current_fund": { "raw": "KII3号インパクトファンド 202億円 (ファイナルクローズ)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "KII3号インパクト投資事業有限責任組合", "vintage_year": 2023, "size": { "raw": "202億円 (final close)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["impact", "healthtech", "biotech", "deeptech"],
+      "thesis": "Described as the first impact fund from a university-affiliated VC. Promotes social implementation of academic research in medical/health and digital/technology fields to advance a society where everyone can achieve a healthy, happy life (Well-Being)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["impact", "university-vc", "well-being", "healthtech"],
+    "summary": {
+      "en": "Keio Innovation Initiative's KII3 Impact Fund (announced Oct 2023, final close ¥20.2B) is described as the first impact fund from a Japanese university-affiliated VC. Anchored by Japan Post Insurance (Kampo) and government-backed JIC, it promotes social implementation of academia-driven medical/health and digital research toward a healthy, happy society (Well-Being).",
+      "local": "慶應イノベーション・イニシアティブの「KII3号インパクトファンド」（2023年10月公表・202億円でファイナルクローズ）は大学VC初のインパクトファンドとされる。かんぽ生命・JIC（産業革新投資機構）を中心に組成し、アカデミア発の医療・健康・デジタル領域の社会実装を推進し、健康で幸福な社会（Well-Being）を目指す。"
+    },
+    "sources": [
+      {
+        "url": "https://innov.keio.ac.jp/startup/topics/720/",
+        "title": "慶應イノベーション・イニシアティブ「KII3号インパクトファンド」202億円でファイナルクローズ",
+        "publisher": "Keio Innovation Initiative",
+        "accessed": "2026-06-02",
+        "supports": "Final close ¥20.2B",
+        "quote": "「KII3号インパクトファンド」 202億円でファイナルクローズ"
+      },
+      {
+        "url": "https://www.jp-life.japanpost.jp/information/press/2023/abt_prs_id001929.html",
+        "title": "大学VCとして初めてのインパクトファンド「KII3号インパクト投資事業有限責任組合」への出資について",
+        "publisher": "Japan Post Insurance (Kampo)",
+        "accessed": "2026-06-02",
+        "supports": "First impact fund from a university VC; medical/health and digital focus; Kampo and JIC LPs",
+        "quote": "大学VCとして初めてのインパクトファンド ... アカデミア発の医療・健康領域およびデジタル・テクノロジー領域 ... かんぽ生命保険 ... 産業革新投資機構（JIC）"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Final close ¥20.2B from Keio Startup page; stages/check size not disclosed (inferred from typical KII early/growth activity, left as broad). This is an impact-branded fund but heavily deeptech/university-oriented.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "jp-energy-environment-investment",
+    "name": { "en": "Energy & Environment Investment (EEI)", "local": "株式会社環境エネルギー投資" },
+    "aka": ["EEI", "環境エネルギー投資"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2006,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://ee-investment.jp/en/",
+    "links": {
+      "other": ["https://ee-investment.jp/en/impact/"]
+    },
+    "capital": {
+      "aum": null,
+      "current_fund": { "raw": "EEI4 fund (impact, est. 2016)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "EEI4 fund", "vintage_year": 2016, "size": { "raw": null, "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["impact", "climate-energy", "deeptech"],
+      "thesis": "Energy and environment focused venture investor that integrates impact into its core thesis ('impact produces performance'). Uses proprietary ESG scorecards and SDG indicators to evaluate social impact, and was the first company in Japan to join the global Impact Capital Managers consortium."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["impact", "esg", "climate", "energy", "icm"],
+    "summary": {
+      "en": "Energy & Environment Investment (EEI), founded 2006 in Tokyo, invests in energy and environment ventures and embeds impact into its strategy. Its EEI4 fund (2016) applies proprietary ESG scorecards and SDG indicators, and EEI was the first Japanese company to join the global Impact Capital Managers consortium. It publishes an annual Impact Report to LPs.",
+      "local": "株式会社環境エネルギー投資（EEI、2006年設立・東京）はエネルギー・環境領域のベンチャー投資にインパクトを統合。EEI4ファンド（2016年）は独自のESGスコアカードとSDGs指標を用い、グローバルなImpact Capital Managersに日本企業として初めて加盟。LP向けにインパクトレポートを毎年発行。"
+    },
+    "sources": [
+      {
+        "url": "https://ee-investment.jp/en/impact/",
+        "title": "Impact Investment - インパクト投資 (EEI)",
+        "publisher": "Energy & Environment Investment",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2006, EEI4 fund 2016, ESG scorecards/SDG indicators, first Japan member of Impact Capital Managers",
+        "quote": "EEI ... the first company in Japan to join Impact Capital Managers ... EEI4 ... proprietary ESG scorecards and SDG indicators ... 'impact' produces 'performance'"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size not disclosed on the official impact page; left null. Founded 2006 and EEI4 vintage 2016 from official page.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "jp-oikaze-ventures",
+    "name": { "en": "Oikaze Ventures", "local": "オイカゼベンチャーズ" },
+    "aka": ["Oikaze"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2026,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "",
+    "links": {
+      "other": ["https://www.nikkei.com/article/DGXZQOUC0313Q0T00C26A3000000/"]
+    },
+    "capital": {
+      "aum": null,
+      "current_fund": { "raw": "1号ファンド 5億円規模 (¥0.5B)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "Oikaze Ventures 1号ファンド", "vintage_year": 2026, "size": { "raw": "5億円規模 (¥0.5B)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "impact"],
+      "thesis": "Founding-stage (創業期) specialized fund supporting diverse entrepreneurs including women founders, motivated by the fact that women remain under 20% of investors in Japan even as female entrepreneurs grow."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [
+      { "name": "Misuzu Matsumoto", "role": "Founder (松本美鈴, ex-Incubate Fund)" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["diversity", "women-led-gp", "women-founders", "early-stage"],
+    "summary": {
+      "en": "Oikaze Ventures (Minato, Tokyo) was founded in 2026 by Misuzu Matsumoto, a female capitalist who left Incubate Fund. Its inaugural fund of ¥0.5B specializes in the founding stage and supports diverse entrepreneurs, including women founders, in response to women comprising under 20% of investors in Japan.",
+      "local": "オイカゼベンチャーズ（東京・港）は、インキュベイトファンド出身の女性キャピタリスト松本美鈴氏が2026年に設立。創業期に特化した5億円規模の1号ファンドで、女性を含む多様な起業家の創業を支援。投資家側の女性比率が2割未満にとどまる課題に対応する。"
+    },
+    "sources": [
+      {
+        "url": "https://www.nikkei.com/article/DGXZQOUC0313Q0T00C26A3000000/",
+        "title": "インキュベイトファンド出身女性がVC設立 創業期特化の1号ファンド",
+        "publisher": "Nikkei",
+        "accessed": "2026-06-02",
+        "supports": "Founder Misuzu Matsumoto (ex-Incubate Fund), ¥0.5B first fund Feb 2026, founding-stage, diverse/women founders, Tokyo Minato",
+        "quote": "インキュベイトファンド（東京・港）から独立した ... 松本美鈴 ... 2月に5億円規模の1号ファンド ... 創業期に特化した新たなファンド ... 女性の起業家が増える一方で、投資家側の女性比率は2割未満にとどまる"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Newly announced (March 2026) per Nikkei; no official website confirmed yet. Sector focus inferred as generalist with diversity lens. Check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "jp-google-women-founders-fund",
+    "name": { "en": "Google for Startups Women Founders Fund (Japan)", "local": "Google for Startups Women Founders Fund" },
+    "aka": ["Women Founders Fund", "GFS Women Founders Fund APAC"],
+    "type": "accelerator",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://startup.google.com/intl/ja_ALL/programs/women-founders-fund/APAC/",
+    "links": {
+      "other": ["https://blog.google/intl/ja-jp/company-news/outreach-initiatives/2023_08_google-for-startups-women-founders-fund/", "https://prtimes.jp/main/html/rd/p/000000013.000081576.html"]
+    },
+    "capital": { "aum": null, "current_fund": null, "funds": [] },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "US$100,000 grant per company (non-dilutive)", "usd_min": 100000, "usd_max": 100000 },
+      "ownership_target_pct": "0",
+      "lead_or_follow": "follow",
+      "geo_focus": ["Japan", "South Korea", "India"],
+      "sector_focus": ["impact", "ai-ml"],
+      "thesis": "Equity-free cash award program for women-founded startups across Japan, South Korea and India that drive innovation and solve social challenges through responsible use of AI, paired with Google mentorship, Cloud credits and product support."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": "6-7 companies across APAC",
+      "batches_per_year": 1,
+      "equity_taken_pct": "0",
+      "investment": { "raw": "US$100,000 per company (equity-free grant)", "usd": 100000, "currency": "USD" },
+      "format": "hybrid",
+      "location": "Japan / South Korea / India",
+      "demo_day": null,
+      "perks": ["Google mentorship", "Google Cloud credits", "product support"],
+      "application_url": "https://startup.google.com/intl/ja_ALL/programs/women-founders-fund/APAC/",
+      "application_cycles": ["Annual; first APAC cohort recruited Aug 2023"],
+      "acceptance_rate": null,
+      "eligibility": "Women-founded startups in Japan, South Korea or India using AI to solve social challenges"
+    },
+    "track_record": {
+      "portfolio_count": "6-7 APAC cohort (incl. Japan)",
+      "notable_investments": [
+        { "company": "Yuimedi", "sector": "Medical data", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "application": { "how_to_apply": "Apply via Google for Startups Women Founders Fund APAC page during open call.", "accepts_cold_inbound": true },
+    "tags": ["diversity", "women-founders", "grant", "equity-free", "google"],
+    "summary": {
+      "en": "Google for Startups Women Founders Fund is an equity-free grant program (launched Aug 2023) for women-founded startups in Japan, South Korea and India using AI to solve social challenges. Each selected company receives US$100,000 plus Google mentorship, Cloud credits and product support; the APAC cohort included ~6-7 companies, with Japanese selectees including Yuimedi.",
+      "local": "Google for Startups Women Founders Fundは、AIで社会課題を解決する日本・韓国・インドの女性起業家向けの非希薄化型助成プログラム（2023年8月発表）。採択企業には各10万米ドルに加え、Googleのメンターシップ・Cloudクレジット・プロダクト支援を提供。APAC全体で約6〜7社、日本からはYuimedi等が採択。"
+    },
+    "sources": [
+      {
+        "url": "https://blog.google/intl/ja-jp/company-news/outreach-initiatives/2023_08_google-for-startups-women-founders-fund/",
+        "title": "Google for Startups、アジア太平洋地域の女性起業家を対象にしたファンド、Women Founders Fund を発表",
+        "publisher": "Google",
+        "accessed": "2026-06-02",
+        "supports": "Program for women founders in Japan/Korea/India, US$100,000 per company, mentorship/credits/support",
+        "quote": "女性起業家を対象 ... 各社に10万米ドル ... メンターシップ、Google Cloud クレジット、プロダクトサポート"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000013.000081576.html",
+        "title": "医療データ利活用のYuimedi、「Google for Startup Women Founders Fund」（賞金10万ドル）へ採択",
+        "publisher": "PR TIMES / Yuimedi",
+        "accessed": "2026-06-02",
+        "supports": "Japanese selectee Yuimedi; US$100,000 award",
+        "quote": "「Google for Startup Women Founders Fund」（賞金10万ドル）へ採択"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "This is an equity-free grant program (classified accelerator/program), not a traditional fund, but is a diversity-focused funding vehicle with Japanese participation. Cohort size (6-7) is APAC-wide; exact Japan count varies by source (2 reported in one). Acceptance rate not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  }
+]

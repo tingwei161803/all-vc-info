@@ -1,0 +1,780 @@
+[
+  {
+    "id": "jp-jic-venture-growth-investments",
+    "name": { "en": "JIC Venture Growth Investments", "local": "JICベンチャー・グロース・インベストメンツ株式会社" },
+    "aka": ["JIC VGI", "JICVGI", "JIC-VGI"],
+    "type": "growth-equity",
+    "subtypes": ["vc", "government-program"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.j-vgi.co.jp/en",
+    "links": {
+      "other": [
+        "https://www.j-ic.co.jp/en/",
+        "https://initial.inc/investors/V14524",
+        "https://startup-db.com/funds/NAk9QOd3sL1lPGb3"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "約3,600億円 (VGF1 + VGF2 + OPF1 合計)", "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "JIC Venture Growth Fund 2 (VGF2) ¥200B", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "JIC Venture Growth Fund 1 (VGF1)", "vintage_year": 2020, "size": { "raw": "Approximately 120 billion yen", "usd": null, "currency": "JPY" } },
+        { "name": "JIC Venture Growth Fund 2 (VGF2)", "vintage_year": 2022, "size": { "raw": "JPY200 billion yen", "usd": null, "currency": "JPY" } },
+        { "name": "JICVGI Opportunity Fund 1 (OPF1)", "vintage_year": 2023, "size": { "raw": "Approximately 40 billion yen (ファンド規模：400億円)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "deeptech", "biotech"],
+      "thesis": "Government-backed growth and later-stage investor under Japan Investment Corporation (JIC). VGF1 backs potential-unicorn startups with growth/later-stage capital before IPO; VGF2 targets Series B and later expansion/growth/later-stage startups plus early-stage deep tech and life science; OPF1 invests in middle-to-late stage startups expected to IPO and provides aftermarket growth capital to post-IPO startups."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "AnyMind Group", "sector": "martech / e-commerce enablement", "outcome": "IPO" },
+        { "company": "Monstarlab Holdings", "sector": "digital product / DX", "outcome": "IPO" },
+        { "company": "FLUX", "sector": "ai-ml / marketing", "outcome": "active" },
+        { "company": "MJOLNIR SPACEWORKS", "sector": "spacetech", "outcome": "active" },
+        { "company": "ZEALS", "sector": "ai-ml", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Outreach via JIC VGI website; institutional growth/late-stage process.",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.j-vgi.co.jp/en"
+    },
+    "tags": ["government-backed", "late-stage", "growth", "pre-ipo", "jic", "deeptech", "life-science"],
+    "summary": {
+      "en": "JIC Venture Growth Investments (JIC VGI) is the venture/growth investment arm under the government-affiliated Japan Investment Corporation (JIC), established July 2020. It runs three funds: Venture Growth Fund 1 (~¥120B, 2020) for growth/later-stage pre-IPO support of potential unicorns, Venture Growth Fund 2 (¥200B, 2022) for Series B and later expansion/growth plus early-stage deep tech and life science, and the JICVGI Opportunity Fund 1 (~¥40B, 2023) for direct-secondary middle/late-stage and post-IPO aftermarket growth capital. Backed IPOs include AnyMind Group and Monstarlab.",
+      "local": "JICベンチャー・グロース・インベストメンツ(JIC VGI)は、官民ファンドである産業革新投資機構(JIC)傘下のベンチャー・グロース投資会社で2020年7月設立。1号ファンド(VGF1、約1,200億円・2020年)はユニコーン候補のグロース/レイターステージのIPO前支援、2号ファンド(VGF2、2,000億円・2022年)はシリーズB以降のエキスパンション/グロース及びディープテック・ライフサイエンスのアーリー以降、オポチュニティファンド1号(OPF1、400億円・2023年)はミドル/レイターのダイレクトセカンダリーと上場後の成長資金を担う。AnyMind Groupやモンスターラボ等のIPOを支援。"
+    },
+    "sources": [
+      {
+        "url": "https://www.j-vgi.co.jp/en/news/jicvgf2221216",
+        "title": "JIC Venture Growth Fund 2 Limited Partnership establishment",
+        "publisher": "JIC Venture Growth Investments",
+        "accessed": "2026-06-02",
+        "supports": "VGF2 fund size and establishment date; VGF1 establishment date",
+        "quote": "JPY200 billion yen ... established December 16, 2022 ... VGF1 ... September 2020"
+      },
+      {
+        "url": "https://www.j-vgi.co.jp/en/our-investment",
+        "title": "Our investment — JIC Venture Growth Investments",
+        "publisher": "JIC Venture Growth Investments",
+        "accessed": "2026-06-02",
+        "supports": "Fund sizes and stage focus for VGF1, VGF2, OPF1",
+        "quote": "VGF1: Approximately 120 billion yen ... VGF2: Approximately 200 billion yen ... OPF1: Approximately 40 billion yen ... expansion, growth, and later-stage investments"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000001.000126311.html",
+        "title": "JICVGIオポチュニティファンド1号投資事業有限責任組合の設立について",
+        "publisher": "PR TIMES / 株式会社産業革新投資機構",
+        "accessed": "2026-06-02",
+        "supports": "OPF1 fund size, July 2023 establishment, target stages (middle/late-stage pre-IPO and post-IPO aftermarket)",
+        "quote": "ファンド規模：400億円 ... 数年内にIPOが見込まれるミドル・レイターステージのスタートアップ ... IPO後の成長資金調達に課題を抱えるスタートアップ"
+      },
+      {
+        "url": "https://www.j-vgi.co.jp/en/news/jicvgi200708",
+        "title": "Establishment of JIC Venture Growth Investments",
+        "publisher": "JIC Venture Growth Investments",
+        "accessed": "2026-06-02",
+        "supports": "Establishment July 2020, parent Japan Investment Corporation",
+        "quote": "JIC VGI ... the first authorized fund under JIC's new umbrella ... Establishment Date: July 8, 2020"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund sizes corroborated by official VGI pages and PR TIMES. Note 億 = 100M yen: 400億円 = ¥40B, 1,200億円 = ¥120B, 2,000億円 = ¥200B. AnyMind/Monstarlab IPO backing from secondary reporting; portfolio count not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  },
+  {
+    "id": "jp-globis-capital-partners",
+    "name": { "en": "Globis Capital Partners", "local": "グロービス・キャピタル・パートナーズ株式会社" },
+    "aka": ["GCP", "グロービス・キャピタル", "GLOBIS Capital Partners"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 1996,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.globiscapital.co.jp/en/",
+    "links": {
+      "other": [
+        "https://en.wikipedia.org/wiki/Globis_Capital_Partners",
+        "https://initial.inc/investors/58"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "over 1.8 billion USD (cumulative, ~¥180B)", "usd": 1800000000, "currency": "JPY" },
+      "current_fund": { "raw": "GLOBIS Fund VII ¥72.7 billion", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "GLOBIS Fund VII", "vintage_year": 2022, "size": { "raw": "72.7 billion yen", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "Up to ¥10 billion per company (Fund VII max)", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["generalist", "saas-enterprise", "consumer", "ai-ml", "fintech"],
+      "thesis": "Japan's first full-scale hands-on independent VC (since 1996). 'First to last' policy: leads rounds from early through growth/later stage (including MBO) and supports companies to become unicorns/decacorns and globalize, leveraging the GLOBIS Group network."
+    },
+    "track_record": {
+      "portfolio_count": "over 200 companies (as of 2023)",
+      "notable_investments": [
+        { "company": "Mercari", "sector": "ecommerce / marketplace", "outcome": "IPO" },
+        { "company": "GREE", "sector": "gaming / internet media", "outcome": "IPO" },
+        { "company": "SmartNews", "sector": "consumer / news", "outcome": "unicorn" },
+        { "company": "Works Applications", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Quipper", "sector": "edtech", "outcome": "acquired" }
+      ],
+      "exits": [
+        { "company": "Mercari", "type": "IPO", "year": 2018, "value": { "raw": null, "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "people": [
+      { "name": "Yoshito Hori (堀義人)", "role": "Founding Partner" },
+      { "name": "Soichi Kariyazono (仮屋薗聡一)", "role": "Managing Partner / Co-Founder" }
+    ],
+    "application": {
+      "how_to_apply": "Pitch via GCP website; leads early-to-growth rounds in Japan-rooted startups.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.globiscapital.co.jp/en/"
+    },
+    "tags": ["lead-investor", "hands-on", "growth", "unicorn-maker", "independent-vc", "tokyo"],
+    "summary": {
+      "en": "Globis Capital Partners (GCP), founded in 1996, is one of Japan's largest and oldest independent hands-on VCs, with cumulative AUM exceeding US$1.8 billion (~¥180B). Its largest fund, GLOBIS Fund VII, final-closed at ¥72.7 billion in 2022 with up to ¥10B investable per company, and it opened a San Francisco office to support portfolio globalization. Under its 'first to last' policy it leads rounds from early through growth/later stage. Notable winners include Mercari, GREE and SmartNews.",
+      "local": "グロービス・キャピタル・パートナーズ(GCP)は1996年設立、日本最大級かつ最古参の独立系ハンズオンVCの一つで、累計運用額は18億米ドル超(約180億円規模を積み上げ、累計約1,800億円)。最大の7号ファンドは2022年に727億円でファイナルクローズし、1社あたり最大100億円を投資、サンフランシスコ拠点も開設。「first to last」方針でアーリーからグロース/レイターまでリード投資。メルカリ、GREE、SmartNews等を輩出。"
+    },
+    "sources": [
+      {
+        "url": "https://globis.com/news/venture-capital/gcp_fund_seven-2023-04-25/",
+        "title": "GLOBIS Capital Partners Announces Final Close of Fund VII",
+        "publisher": "GLOBIS Corporation",
+        "accessed": "2026-06-02",
+        "supports": "Fund VII size, founding year, cumulative AUM, companies invested, max per-company investment",
+        "quote": "72.7 billion yen ... Established in 1996 as Japan's first full-scale hands-on venture capital company ... over 1.8 billion USD ... invested in 200 companies ... 10 billion yen per company"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Globis_Capital_Partners",
+        "title": "Globis Capital Partners — Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founders, ¥180B AUM, 7 funds, latest fund size, notable investments",
+        "quote": "¥180 billion JPY (2023) ... GLOBIS Fund VII ... ¥72.7 billion (2022) ... Yoshito Hori ... Soichi Kariyazono ... Mercari ... Gree ... SmartNews"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund VII size and AUM from official GLOBIS release; founder names and notable investments cross-checked on Wikipedia. Exact IPO/M&A counts (often cited ~39 IPOs / 21 M&As) not confirmed in fetched primary sources, so left out of structured counts.",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  },
+  {
+    "id": "jp-world-innovation-lab",
+    "name": { "en": "World Innovation Lab (WiL)", "local": "WiL（ワールド・イノベーション・ラボ）" },
+    "aka": ["WiL", "World Innovation Lab"],
+    "type": "vc",
+    "subtypes": ["growth-equity", "cvc"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "offices": [
+      { "country": "United States", "city": "Palo Alto" },
+      { "country": "Japan", "city": "Tokyo" }
+    ],
+    "website": "https://wilab.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/wil",
+      "other": ["https://wilab.com/team/gen-isayama"]
+    },
+    "capital": {
+      "aum": { "raw": "exceed $1.9 billion (capital commitments across all funds)", "usd": 1900000000, "currency": "USD" },
+      "current_fund": { "raw": "over $1 billion additional capital raised (2022), incl. WiL Ventures III growth fund", "usd": 1000000000, "currency": "USD" },
+      "funds": [
+        { "name": "WiL Ventures III (growth fund)", "vintage_year": 2022, "size": { "raw": null, "usd": null, "currency": "USD" } },
+        { "name": "WiL Strategic Partners", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "United States", "Asia", "Europe"],
+      "sector_focus": ["saas-enterprise", "fintech", "cybersecurity", "ai-ml", "climate-energy", "healthtech"],
+      "thesis": "Growth-stage VC bridging US/European startups with Japanese corporations and government LPs. US investments concentrate on later-stage rounds (Series B and beyond) in B2B SaaS/DX; helps startups scale into Japan and Japanese companies globalize."
+    },
+    "track_record": {
+      "portfolio_count": "15 unicorns to date",
+      "notable_investments": [
+        { "company": "Mercari", "sector": "ecommerce / marketplace", "outcome": "IPO" },
+        { "company": "Asana", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Wise", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Auth0", "sector": "cybersecurity / identity", "outcome": "acquired" },
+        { "company": "Raksul", "sector": "saas-enterprise / printing", "outcome": "IPO" }
+      ],
+      "exits": [
+        { "company": "Auth0", "type": "M&A", "year": 2021, "value": { "raw": "acquired by Okta", "usd": null, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Gen Isayama (伊佐山元)", "role": "Co-Founder / CEO / General Partner", "linkedin": "" },
+      { "name": "Masataka Matsumoto", "role": "Co-Founder" }
+    ],
+    "application": {
+      "how_to_apply": "Outreach via WiL website; growth-stage process bridging US/Japan.",
+      "accepts_cold_inbound": null,
+      "contact": "https://wilab.com/"
+    },
+    "tags": ["us-japan", "growth-stage", "later-stage", "corporate-bridge", "b2b-saas", "cross-border"],
+    "summary": {
+      "en": "WiL (World Innovation Lab) is a US-Japan growth-stage VC founded in 2013 by Gen Isayama (ex-DCM) and Masataka Matsumoto, with offices in Palo Alto and Tokyo. In June 2022 it raised over $1 billion in additional capital — including its third growth fund, WiL Ventures III, and Strategic Partners funds — taking total commitments across all funds above $1.9 billion. Its US investing concentrates on later-stage (Series B+) B2B SaaS. Portfolio includes 15 unicorns; public exits include Mercari, Asana, Wise, Raksul and Auth0 (acquired by Okta).",
+      "local": "WiL(ワールド・イノベーション・ラボ)は2013年に伊佐山元氏(元DCM)と松本真尚氏が設立した日米のグロースステージVCで、パロアルトと東京に拠点。2022年6月に3号グロースファンド「WiL Ventures III」やStrategic Partnersを含め10億ドル超を追加調達し、全ファンド累計コミットメントは19億ドル超。米国投資はシリーズB以降のレイターステージB2B SaaSが中心。15社のユニコーンを輩出し、メルカリ、Asana、Wise、ラクスル、Auth0(Oktaが買収)等が上場・M&A。"
+    },
+    "sources": [
+      {
+        "url": "https://www.businesswire.com/news/home/20220614005426/en/World-Innovation-Lab-Raises-$1-Billion-to-Bridge-the-Innovation-Gap-Across-the-Global-Venture-Ecosystem",
+        "title": "World Innovation Lab Raises $1 Billion to Bridge the Innovation Gap",
+        "publisher": "Business Wire",
+        "accessed": "2026-06-02",
+        "supports": "$1B+ additional raise, $1.9B total commitments, WiL Ventures III growth fund, exits",
+        "quote": "raised over $1 billion in additional capital ... WiL Ventures III ... Capital commitments across all funds now exceed $1.9 billion"
+      },
+      {
+        "url": "https://technode.global/2022/06/16/us-japan-venture-capital-firm-world-innovation-lab-raises-over-1b-additional-capital/",
+        "title": "US-Japan VC World Innovation Lab raises over $1B additional capital",
+        "publisher": "TNGlobal",
+        "accessed": "2026-06-02",
+        "supports": "Later-stage / Series B+ focus, $1.9B commitments, 15 unicorns, CEO Gen Isayama, HQ Palo Alto/Tokyo, exits",
+        "quote": "generally concentrated on later-stage rounds, such as Series B and beyond ... 15 unicorns to date ... Asana, Mercari, Raksul, Wise and Auth0"
+      },
+      {
+        "url": "https://wilab.com/team/gen-isayama",
+        "title": "WiL — Gen Isayama",
+        "publisher": "World Innovation Lab",
+        "accessed": "2026-06-02",
+        "supports": "Founding 2013, co-founders Gen Isayama and Masataka Matsumoto",
+        "quote": "founded in 2013 by General Partner and CEO Gen Isayama and co-founder Masataka Matsumoto"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM and growth-fund details from BusinessWire (primary) and TNGlobal. Individual fund sizes for WiL Ventures III not separately disclosed; left null. WiL also runs CVC funds for corporate LPs (subtype cvc).",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  },
+  {
+    "id": "jp-eight-roads-ventures-japan",
+    "name": { "en": "Eight Roads Ventures Japan", "local": "エイトローズ・ベンチャーズ・ジャパン" },
+    "aka": ["Eight Roads Japan", "ERVJ", "Eight Roads Ventures"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://eightroads.com/en/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000001.000111709.html"]
+    },
+    "capital": {
+      "aum": { "raw": "約750億円 (cumulative across 3 funds since 2012)", "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "Eight Roads Ventures Japan Fund III ¥28 billion (280億円)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "Eight Roads Ventures Japan Fund III", "vintage_year": 2022, "size": { "raw": "280億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["saas-enterprise", "fintech", "biotech", "ai-ml", "robotics", "climate-energy"],
+      "thesis": "Growth-stage venture arm of Fidelity (FIL group); invests in growth-stage Japanese startups across enterprise tech, fintech and biotech (expanding into energy, AI, robotics, food tech, precision medicine), with hands-on strategic support and global Fidelity network access."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Outreach via Eight Roads website; growth-stage process.",
+      "accepts_cold_inbound": null,
+      "contact": "https://eightroads.com/en/"
+    },
+    "tags": ["fidelity", "growth-stage", "enterprise-tech", "fintech", "biotech", "tokyo"],
+    "summary": {
+      "en": "Eight Roads Ventures Japan is the Tokyo-based growth-stage venture arm of Fidelity (FIL), investing in Japan since 2012. Its third fund (Fund III), established November 2022, is ¥28 billion (280億円), bringing cumulative AUM across its three funds to about ¥75 billion. It targets growth-stage startups in enterprise tech, fintech and biotech, expanding into energy, AI, robotics, food tech and precision medicine.",
+      "local": "エイトローズ・ベンチャーズ・ジャパンは、米資産運用大手フィデリティ(FIL)を母体とする東京拠点のグロースステージVCで、2012年から日本で投資。2022年11月設立の第3号ファンドは280億円で、3本累計の運用額は約750億円。エンタープライズテック、フィンテック、バイオテックを中心に、エネルギー・AI・ロボティクス・フードテック・精密医療へも投資領域を拡大したグロースステージ投資を行う。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000001.000111709.html",
+        "title": "Eight Roads Ventures Japan、280億円の第3号ファンドを設立",
+        "publisher": "PR TIMES / Eight Roads Ventures Japan",
+        "accessed": "2026-06-02",
+        "supports": "Fund III size (280億円), Nov 2022 establishment, Fidelity parent, growth-stage focus, sectors, ~¥75B cumulative, Tokyo HQ",
+        "quote": "280億円の第3号ファンド ... 米大手資産運用会社のフィデリティを母体とする ... グロースステージ投資を対象とする ... 総額750億円"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size, establishment, parent and growth-stage focus from the firm's PR TIMES release. Notable portfolio companies not enumerated in fetched source; left empty rather than guessed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  },
+  {
+    "id": "jp-incubate-fund-if-growth",
+    "name": { "en": "Incubate Fund — IF Growth", "local": "インキュベイトファンド「IF Growth」" },
+    "aka": ["IF Growth", "Incubate Fund Growth", "インキュベイトファンド グロース"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://incubatefund.com/en/",
+    "links": {
+      "other": [
+        "https://prtimes.jp/main/html/rd/p/000000093.000005647.html",
+        "https://thebridge.jp/2025/05/incubate-fund-launches-30-billion-yen-growth-fund"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "IF Growth 総額300億円 (planned)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "IF Growth", "vintage_year": 2025, "size": { "raw": "総額300億円を予定", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["deeptech", "consumer", "saas-enterprise", "climate-energy", "ai-ml"],
+      "thesis": "Dedicated growth-capital fund from seed-stage VC Incubate Fund, targeting the non-listed growth stage to bring new capital circulation to pre-IPO Japanese startups and address the 'small IPO' problem. Focus areas include Deep Tech, Creative Industry and Business Solution."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [
+      { "name": "Masashi Ihara (井原昌史)", "role": "General Partner, IF Growth (ex-SMBC Nikko Securities)" }
+    ],
+    "application": {
+      "how_to_apply": "Via Incubate Fund; growth-capital process for non-listed pre-IPO startups.",
+      "accepts_cold_inbound": null,
+      "contact": "https://incubatefund.com/en/"
+    },
+    "tags": ["growth-capital", "pre-ipo", "non-listed", "tokyo-metropolitan-backed", "small-ipo-problem"],
+    "summary": {
+      "en": "IF Growth is a dedicated growth-capital fund launched by Incubate Fund (one of Japan's leading seed VCs), which completed first close in May 2025 with a planned total of ¥30 billion (総額300億円). It targets non-listed growth-stage / pre-IPO Japanese startups to address the 'small IPO' problem, with focus on Deep Tech, Creative Industry and Business Solution. It is backed by the Tokyo Metropolitan Government's public-private Impact Growth Fund and is led by GP Masashi Ihara (ex-SMBC Nikko).",
+      "local": "「IF Growth」はシード期に強いインキュベイトファンドがグロースキャピタルに特化して立ち上げたファンドで、2025年5月にファーストクローズ、ファンド総額300億円を予定。非上場グロース市場/IPO前の国内スタートアップを対象に「スモールIPO問題」の解決を狙い、ディープテック・クリエイティブ・ビジネスソリューションに注力。東京都の官民連携インパクトグロースファンドの出資を受け、元SMBC日興証券の井原昌史氏が専任GPを務める。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000093.000005647.html",
+        "title": "インキュベイトファンド、総額300億円規模のグロースファンド「IF Growth」を組成",
+        "publisher": "PR TIMES / インキュベイトファンド株式会社",
+        "accessed": "2026-06-02",
+        "supports": "Fund size (300億円), non-listed growth/pre-IPO focus, dedicated GP, Tokyo government backing, first close May 2025",
+        "quote": "総額300億円を予定 ... 非上場グロース市場に新たな資本循環をもたらし ... 井原昌史 ... 官民連携インパクトグロースファンド ... 東京都からの出資"
+      },
+      {
+        "url": "https://thebridge.jp/2025/05/incubate-fund-launches-30-billion-yen-growth-fund",
+        "title": "インキュベイトファンド、300億円グロースファンド始動――『スモールIPO問題』解決への道筋",
+        "publisher": "THE BRIDGE",
+        "accessed": "2026-06-02",
+        "supports": "Growth fund positioning, small-IPO problem, middle-to-late stage focus",
+        "quote": "300億円グロースファンド始動――元日興証券幹部が語る『スモールIPO問題』解決"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size and positioning from Incubate Fund's own PR TIMES release and THE BRIDGE. Incubate Fund also raised a prior ¥16.1B growth fund in 2021; IF Growth (¥30B, 2025) is the current dedicated growth vehicle. Portfolio not yet enumerated.",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  },
+  {
+    "id": "jp-minerva-growth-partners",
+    "name": { "en": "Minerva Growth Partners", "local": "ミネルバ・グロース・パートナーズ" },
+    "aka": ["Minerva", "Minerva Growth"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.minervagp.com/",
+    "links": {
+      "other": ["https://note.com/minerva_growth/n/n5f3d5bbe17b4"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": null, "usd": null, "currency": "JPY" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "1件当たり10〜30億円がコアターゲット (約数億円から)", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Asia"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "fintech", "consumer"],
+      "thesis": "Growth-equity / crossover fund focused on later-stage venture (minority) and buyout/PIPE investments in software, internet and SaaS across Japan and Asia, investing where PMF and unit economics are confirmed and holding through IPO and beyond (crossover, via partnership with Pleiad Investment Advisors) to mitigate overhang."
+    },
+    "track_record": {
+      "portfolio_count": "8 companies (as of Feb 2025)",
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [
+      { "name": "Murashima (村島)", "role": "General Partner (ex-Morgan Stanley, led LINE/Mercari/freee/Rakuten IPOs)" },
+      { "name": "Nagasawa (長澤)", "role": "Partner (ex-Mercari CFO)" }
+    ],
+    "application": {
+      "how_to_apply": "Outreach via Minerva Growth Partners; growth-equity/crossover process.",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.minervagp.com/"
+    },
+    "tags": ["growth-equity", "crossover", "late-stage", "pre-ipo", "software", "saas"],
+    "summary": {
+      "en": "Minerva Growth Partners is a Japan-based growth-equity / crossover fund investing in later-stage venture (minority) and buyout/PIPE deals in software, internet and SaaS across Japan and Asia. Core check size is ¥1–3 billion per deal (smaller earlier-stage tickets from a few hundred million yen). It invests once PMF and unit economics are confirmed and holds through IPO and beyond (crossover, via Pleiad Investment Advisors). It had invested in 8 companies as of February 2025; leadership includes ex-Morgan Stanley and ex-Mercari CFO operators.",
+      "local": "ミネルバ・グロース・パートナーズは、日本・アジアのソフトウェア/インターネット/SaaS企業に対し、レイターステージのマイノリティ投資やバイアウト/PIPEを行うグロース・エクイティ/クロスオーバーファンド。コアの投資額は1件あたり10〜30億円(早期は数億円から)。PMFとユニットエコノミクスが確認できるステージで投資し、Pleiad Investment Advisorsと連携してIPO後も継続保有(クロスオーバー)。2025年2月時点で8社に出資、GPは元モルガン・スタンレーや元メルカリCFO等。"
+    },
+    "sources": [
+      {
+        "url": "https://note.com/minerva_growth/n/n5f3d5bbe17b4",
+        "title": "グロース・エクイティとはなにか — Minerva Growth Partners",
+        "publisher": "Minerva Growth Partners (note)",
+        "accessed": "2026-06-02",
+        "supports": "Check size (10-30億円/deal), crossover strategy, sectors, leadership, 8 portfolio companies",
+        "quote": "投資金額：1件当たり10-30億円がコアターゲット ... 数億円から ... クロスオーバー投資 ... 2025年2月時点 ... 8社"
+      },
+      {
+        "url": "https://jp.smartround.com/sr-sec/column/secondary-market-7",
+        "title": "新たな投資プレイヤーとセカンダリーマーケット〜グロースエクイティやクロスオーバー投資家などの動向〜",
+        "publisher": "smartround",
+        "accessed": "2026-06-02",
+        "supports": "Minerva as a growth-equity player defining late-stage minority + buyout",
+        "quote": "グロース・エクイティとは大きく2種類の投資スタイルを内包したプレイヤー ... 一つはレイターステージの未上場スタートアップに対するマイノリティー投資（レイターステージVC）"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Strategy, check size (¥1–3B), leadership and 8 portfolio companies from Minerva's own note article; corroborated as a growth-equity player by smartround. Founding year and fund size not disclosed in fetched sources; left null. Note 10-30億円 = ¥1–3B.",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  },
+  {
+    "id": "jp-growth-capital-inc",
+    "name": { "en": "Growth Capital Inc.", "local": "グロース・キャピタル株式会社" },
+    "aka": ["Growth Capital", "GCKK"],
+    "type": "growth-equity",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.gckk.co.jp/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000004.000068165.html"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "資本金3,000万円 (company capital, not a fund)", "usd": null, "currency": "JPY" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Growth-capital / 'offensive finance' specialist for listed (post-IPO) Japanese ventures: arranges growth funding and supports post-raise growth-strategy execution (M&A, new business, marketing, IR) to drive discontinuous growth of small/mid-cap listed startups."
+    },
+    "track_record": {
+      "portfolio_count": "15+ growth-finance cases (¥180B+ raised supported); 30+ listed ventures via IR",
+      "notable_investments": [
+        { "company": "Aiming", "sector": "gaming", "outcome": "listed (growth finance support ¥21.2B)" },
+        { "company": "Kudan", "sector": "deeptech / SLAM", "outcome": "listed (¥30.1B)" },
+        { "company": "Cybersecurity Cloud", "sector": "cybersecurity", "outcome": "listed (¥21.4B)" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "Masato Minei (嶺井政人)", "role": "Representative Director / CEO / Founder" }
+    ],
+    "application": {
+      "how_to_apply": "Engage via Growth Capital website; advisory + growth-finance for listed ventures.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.gckk.co.jp/"
+    },
+    "tags": ["growth-capital", "post-ipo", "offensive-finance", "listed-ventures", "ir-support"],
+    "summary": {
+      "en": "Growth Capital Inc. (グロース・キャピタル) is a Tokyo firm founded in April 2019 by Masato Minei that provides growth-capital 'offensive finance' and post-raise growth-strategy execution for listed (post-IPO) Japanese ventures. It has supported 15+ growth-finance cases totalling over ¥180 billion raised (e.g. Aiming ¥21.2B, Kudan ¥30.1B, Cybersecurity Cloud ¥21.4B) and supports 30+ listed ventures via IR services. Its registered capital is ¥30 million; it operates as an advisory/finance specialist rather than a pooled fund.",
+      "local": "グロース・キャピタル株式会社は、2019年4月に嶺井政人氏が設立した東京の企業で、上場(IPO後)ベンチャーに対する成長資金調達(攻めのファイナンス)と調達後の成長戦略実行を支援する。累計15件超・1,800億円超の調達(Aiming 212億円、Kudan 301億円、サイバーセキュリティクラウド 214億円等)を支援し、30社超の上場ベンチャーをIRで支援。資本金3,000万円で、プール型ファンドではなくアドバイザリー/ファイナンス特化型。"
+    },
+    "sources": [
+      {
+        "url": "https://www.gckk.co.jp/",
+        "title": "グロース・キャピタル株式会社 公式サイト",
+        "publisher": "Growth Capital Inc.",
+        "accessed": "2026-06-02",
+        "supports": "Founding (April 2019), CEO, post-IPO offensive-finance model, capital ¥30M, case examples",
+        "quote": "2019年4月1日 ... 嶺井政人 ... 上場ベンチャーの非連続な成長を支援します ... 資本金3,000万円 ... Aiming（21.2億円）... Kudan（30.1億円）"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000004.000068165.html",
+        "title": "グロース・キャピタル、上場ベンチャーの成長戦略のカギとなる6領域の支援を強化",
+        "publisher": "PR TIMES / グロース・キャピタル株式会社",
+        "accessed": "2026-06-02",
+        "supports": "Post-raise growth-strategy execution across six domains for listed ventures",
+        "quote": "資金調達後の成長戦略実行の支援と、非連続な成長を実現"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding, CEO and capital from official site (high confidence on those); case amounts from official site. This is a growth-capital advisory/finance firm for post-IPO ventures rather than a pooled VC fund — included as growth-equity by function. Per-case '21.2億円/30.1億円' figures are the supported raise sizes, not Growth Capital's own checks.",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  },
+  {
+    "id": "jp-keyrock-capital-management",
+    "name": { "en": "Keyrock Capital Management", "local": "キーロック・キャピタル・マネジメント" },
+    "aka": ["Keyrock", "Keyrock Capital"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Hong Kong",
+    "hq_city": "Hong Kong",
+    "offices": [
+      { "country": "Hong Kong", "city": "Hong Kong" }
+    ],
+    "website": "https://www.keyrockcap.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/keyrock-capital-management",
+      "other": ["https://coralcap.co/2024/11/jonathan-shih-of-keyrock-capital-management-on-finding-growth-in-japan/?lang=en"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": "USD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "follow",
+      "geo_focus": ["Japan", "Asia-Pacific"],
+      "sector_focus": ["generalist", "ai-ml", "fintech", "consumer", "saas-enterprise"],
+      "thesis": "Hong Kong-based crossover investor in emerging-growth Asia-Pacific companies with a particular emphasis on Japan; targets growth and pre-IPO stages and also holds public-market positions, bridging private and public markets for Japanese startups."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Timee", "sector": "consumer / labor marketplace", "outcome": "IPO" },
+        { "company": "LayerX", "sector": "fintech / saas-enterprise", "outcome": "active" },
+        { "company": "Nealle", "sector": "proptech", "outcome": "active" },
+        { "company": "Zeroboard", "sector": "climate-energy", "outcome": "active" },
+        { "company": "Money Forward", "sector": "fintech", "outcome": "listed (public-market position)" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "Jonathan Shih", "role": "Managing Partner (ex-Lehman Brothers, McKinsey, Tybourne Capital)" }
+    ],
+    "application": {
+      "how_to_apply": "Outreach via Keyrock Capital; crossover/growth process focused on Japan.",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.keyrockcap.com/"
+    },
+    "tags": ["crossover", "growth-stage", "pre-ipo", "hong-kong", "japan-focus", "asia-pacific"],
+    "summary": {
+      "en": "Keyrock Capital Management is a Hong Kong-based crossover investment firm (founded 2018) focused on emerging-growth Asia-Pacific companies, with a particular emphasis on Japan. Led by Managing Partner Jonathan Shih (ex-Lehman, McKinsey, Tybourne), it invests at growth and pre-IPO stages and also holds public-market positions (e.g. Money Forward), bridging private and public markets. Notable Japanese investments include Timee, LayerX, Nealle and Zeroboard. Included here for its active growth/late-stage role in Japan despite its Hong Kong domicile.",
+      "local": "キーロック・キャピタル・マネジメントは香港拠点のクロスオーバー投資会社(2018年設立)で、アジア太平洋の成長企業、特に日本に注力。マネージング・パートナーのJonathan Shih氏(元リーマン、マッキンゼー、タイボーン)が率い、グロース〜IPO前のステージに投資しつつ上場株(マネーフォワード等)も保有して未上場/上場を橋渡し。日本ではタイミー、LayerX、ニーリー、Zeroboard等に出資。香港籍だが日本でのグロース/レイター投資が活発なため収録。"
+    },
+    "sources": [
+      {
+        "url": "https://coralcap.co/2024/11/jonathan-shih-of-keyrock-capital-management-on-finding-growth-in-japan/?lang=en",
+        "title": "Jonathan Shih of Keyrock Capital Management on Finding Growth in Japan",
+        "publisher": "Coral Capital",
+        "accessed": "2026-06-02",
+        "supports": "HQ Hong Kong, Managing Partner Jonathan Shih, crossover growth/pre-IPO strategy, Japan portfolio incl. Timee/LayerX/Nealle/Zeroboard/Money Forward",
+        "quote": "headquartered in Hong Kong with Jonathan Shih serving as Managing Partner ... growth and pre-IPO stages ... crossover investor ... Timee, LayerX, Nealle, and Zeroboard ... MoneyForward"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/keyrock-capital-management",
+        "title": "Keyrock Capital Management — Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2018, Hong Kong base, Asia-Pacific / Japan focus",
+        "quote": "investment management firm focused on companies based in the Asia Pacific region ... primarily based out of Hong Kong ... founded in 2018"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Domicile is Hong Kong (country set accordingly) but firm is an active growth/late-stage crossover investor in Japan, so included per scope. Fund size/AUM and check size not disclosed. Stage characterization (Series A vs B+) varies by source; positioned as growth/pre-IPO crossover per Coral Capital interview.",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  },
+  {
+    "id": "jp-carlyle-japan-growth-capital",
+    "name": { "en": "Carlyle Japan Growth Capital", "local": "カーライル・ジャパン・グロース・キャピタル" },
+    "aka": ["Carlyle Japan Growth", "Carlyle Asia Growth Capital (Japan)"],
+    "type": "growth-equity",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2006,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "offices": [
+      { "country": "Japan", "city": "Tokyo" }
+    ],
+    "website": "https://www.carlyle.com/",
+    "links": {
+      "other": ["https://www.carlyle.com/media-room/news-release-archive/carlyle-group-establishes-growth-capital-investment-team-japan"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": "USD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "check_size": { "raw": "US$5–50 million of equity", "usd_min": 5000000, "usd_max": 50000000 },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "saas-enterprise", "consumer", "healthtech"],
+      "thesis": "Growth-capital team within global PE firm The Carlyle Group, providing growth capital to medium-sized Japanese companies at the expansion stage; makes significant minority investments and small control deals (US$5–50M equity) in expansion-to-pre-IPO companies as part of Carlyle's Asia growth-capital platform."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [
+      { "name": "Haruyasu Asakura", "role": "Managing Director (led Japan Growth Capital team at launch)" }
+    ],
+    "application": {
+      "how_to_apply": "Outreach via Carlyle Japan; growth-capital / minority-investment process.",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.carlyle.com/"
+    },
+    "tags": ["global-pe", "growth-capital", "minority-investment", "expansion-stage", "pre-ipo", "tokyo"],
+    "summary": {
+      "en": "Carlyle's Japan Growth Capital team was established in 2006 to provide growth capital to medium-sized Japanese companies at the expansion stage. It makes significant minority investments and small-sized control deals via management/leveraged buyouts in the US$5–50 million equity range, as part of Carlyle's broader Asia growth-capital platform. It targets expansion-to-pre-IPO companies with significant growth potential. (Carlyle's main Japan activity is its larger buyout funds; this growth-capital line is the relevant growth-equity arm.)",
+      "local": "カーライルの日本グロース・キャピタル・チームは2006年に設立され、エクスパンション期の日本の中堅企業に成長資金を提供。アジア成長資本プラットフォームの一環として、1件あたり500万〜5,000万米ドルのエクイティで重要なマイノリティ投資やMBO/LBOによる小規模なコントロール案件を行う。エクスパンション〜IPO前の高成長企業が対象(カーライルの日本事業の主体は大型バイアウトファンドだが、本グロース・キャピタルが該当するグロース・エクイティ部門)。"
+    },
+    "sources": [
+      {
+        "url": "https://www.carlyle.com/media-room/news-release-archive/carlyle-group-establishes-growth-capital-investment-team-japan",
+        "title": "The Carlyle Group Establishes Growth Capital Investment Team in Japan",
+        "publisher": "The Carlyle Group",
+        "accessed": "2026-06-02",
+        "supports": "Establishment (2006), expansion-stage growth capital, US$5–50M equity check, minority + small control deals, Asia growth platform, lead Haruyasu Asakura",
+        "quote": "established in 2006 to provide growth capital to support medium-sized Japanese companies at an expansionary stage ... significant minority stakes and in small-sized control deals ... US$5 – 50 million of equity ... Haruyasu Asakura"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Growth-capital team and check-size figures are from Carlyle's 2006 announcement (older source). Carlyle's recent Japan headlines are its buyout funds (e.g. CJP V ¥430B, 2024), which are excluded as buyout PE. The dedicated Japan growth-capital line appears less active recently; included as a verifiable growth-equity team in Japan but with low confidence on current activity level.",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  },
+  {
+    "id": "jp-rj-value-plus-fund",
+    "name": { "en": "RJ Value Plus 1 Fund (Resona × J-Growth)", "local": "RJバリューPlus1号投資事業有限責任組合" },
+    "aka": ["RJ Value Plus", "RJバリューPlus", "Resona J-Growth fund"],
+    "type": "growth-equity",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.j-growth.co.jp/",
+    "links": {
+      "other": [
+        "https://www.resona-gr.co.jp/holdings/news/hd_c/detail/20241115_3561.html",
+        "https://career-incubation.co.jp/private_equity/news/2024/rjplus1.html",
+        "https://startup-db.com/funds/mg5An8asq9MVZkXw"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "RJバリューPlus1号 (size undisclosed)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "RJバリューPlus1号投資事業有限責任組合", "vintage_year": 2024, "size": { "raw": null, "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Later-stage / pre-IPO venture fund jointly formed by Resona Bank and J-Will Group's J-Growth (Nov 2024). Targets domestic later-stage startups through and beyond IPO, providing growth capital plus support for capital efficiency, mid-term planning, governance and post-listing IR — addressing the gap in later-stage funding for Japanese ventures."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Via J-Growth / Resona Bank; later-stage / pre-IPO investment process.",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.j-growth.co.jp/"
+    },
+    "tags": ["later-stage", "pre-ipo", "bank-affiliated", "resona", "j-will", "growth"],
+    "summary": {
+      "en": "RJ Value Plus 1 is a later-stage / pre-IPO venture investment fund jointly established on 15 November 2024 by Resona Bank and J-Growth (a subsidiary of the J-Will Group). It targets domestic later-stage startups from the late stage through and beyond IPO, providing growth capital and operational support (capital-efficiency proposals, mid-term planning, governance, and post-listing IR) to help fill the later-stage funding gap in Japan's venture market. The fund size is not publicly disclosed.",
+      "local": "RJバリューPlus1号は、りそな銀行とジェイ・ウィル・グループ傘下のジェイ・グロースが2024年11月15日に共同組成した、レイターステージ/IPO前のベンチャー投資ファンド。レイターステージからIPO後に該当する国内スタートアップを対象に、成長資金に加えて資本効率改善提案・中期経営計画・ガバナンス・上場後IR支援を提供し、日本のレイターステージ資金ギャップを埋める。ファンド規模は非開示。"
+    },
+    "sources": [
+      {
+        "url": "https://career-incubation.co.jp/private_equity/news/2024/rjplus1.html",
+        "title": "ジェイ・ウィル・グループとりそな銀行が「RJバリューPlus1号投資事業有限責任組合」を組成",
+        "publisher": "Career Incubation",
+        "accessed": "2026-06-02",
+        "supports": "Joint formation by J-Growth and Resona Bank, Nov 15 2024, later-stage focus",
+        "quote": "J-Will Group's J-Growth ... and Resona Bank ... Establishment Date: November 15, 2024 ... レイターステージ以降の資金調達ニーズに対応"
+      },
+      {
+        "url": "https://startup-db.com/funds/mg5An8asq9MVZkXw",
+        "title": "RJバリューPlus 1号投資事業有限責任組合｜STARTUP DB",
+        "publisher": "STARTUP DB",
+        "accessed": "2026-06-02",
+        "supports": "Target stage (later-stage through post-IPO domestic startups)",
+        "quote": "レイターステージからIPO後に該当する国内のスタートアップ企業"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Existence, sponsors and later-stage focus confirmed by Resona press release (via secondary), Career Incubation and STARTUP DB. Fund size is not publicly disclosed (paywalled on STARTUP DB), so capital figures are null. Smaller, newer vehicle.",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  }
+]

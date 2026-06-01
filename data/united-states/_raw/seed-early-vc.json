@@ -1,0 +1,1365 @@
+[
+  {
+    "id": "us-first-round-capital",
+    "name": { "en": "First Round Capital" },
+    "aka": ["First Round"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2004,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://www.firstround.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/first-round-capital/",
+      "crunchbase": "https://www.crunchbase.com/organization/first-round-capital",
+      "other": ["https://en.wikipedia.org/wiki/First_Round_Capital"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$100K–$20M (avg initial ~$3.5M)", "usd_min": 100000, "usd_max": 20000000 },
+      "ownership_target_pct": "10-20%",
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "ai-ml", "fintech", "healthtech", "consumer", "hardware-semiconductor"],
+      "thesis": "Seed-stage specialist that aims to be 'the first in seed stage,' backing founders with a contrarian, non-consensus insight before product or revenue and providing hands-on operational support."
+    },
+    "track_record": {
+      "portfolio_count": "500+",
+      "notable_investments": [
+        { "company": "Square", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Roblox", "sector": "gaming", "outcome": "IPO" },
+        { "company": "Notion", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Uber", "sector": "mobility", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Josh Kopelman", "role": "Founder & Partner" },
+      { "name": "Howard Morgan", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["seed-specialist", "founder-first", "the-review"],
+    "summary": {
+      "en": "First Round Capital is a San Francisco-based seed-stage venture firm founded in 2004 by Josh Kopelman and Howard Morgan. It specializes in being the first institutional check into technology startups and has backed 500+ companies including Square, Roblox, Notion and Uber."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/First_Round_Capital",
+        "title": "First Round Capital - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founders, seed-stage focus",
+        "quote": "First Round Capital was founded in 2004 by Josh Kopelman and Howard Morgan ... an American venture capital firm that specializes in providing seed-stage funding to technology companies."
+      },
+      {
+        "url": "https://www.firstround.com/who-we-back",
+        "title": "Who We Back | First Round",
+        "publisher": "First Round Capital",
+        "accessed": "2026-06-02",
+        "supports": "Seed-stage focus, sector clustering, contrarian thesis, notable portfolio",
+        "quote": "the first in seed stage ... enterprise, AI, hardware, healthcare, fintech, and consumer ... compelling and contrarian insight into how the world works"
+      },
+      {
+        "url": "https://www.vcsheet.com/fund/first-round-capital",
+        "title": "First Round Capital - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "Check size range, average initial investment, ownership target, portfolio count",
+        "quote": "average initial investment is $3.5 million, but they've invested in rounds as small as $100,000 and as large as $20 million ... write $1-3 million checks targeting 10-20% ownership ... invested in over 500 startups"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year and seed focus from Wikipedia (primary-grade). Check sizes/ownership from VC Sheet (secondary); average initial check ~$3.5M reflects later seed rounds. AUM not disclosed publicly.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "us-precursor-ventures",
+    "name": { "en": "Precursor Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://precursorvc.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/precursor-ventures/",
+      "crunchbase": "https://www.crunchbase.com/organization/precursor-ventures"
+    },
+    "capital": {
+      "current_fund": { "raw": "$66M (Fund V)", "usd": 66000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2016, "size": { "raw": "$15 million", "usd": 15000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2019, "size": { "raw": "$31 million", "usd": 31000000, "currency": "USD" } },
+        { "name": "Fund III", "vintage_year": null, "size": { "raw": "$40 million (target)", "usd": 40000000, "currency": "USD" } },
+        { "name": "Fund V", "vintage_year": null, "size": { "raw": "$66 million", "usd": 66000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$250K–$500K", "usd_min": 250000, "usd_max": 500000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist"],
+      "thesis": "Solo-GP, high-volume pre-seed fund that deliberately caps fund size to write fast $250K–$500K checks based on founding-team quality, often as a company's first institutional money (60% of activity into classic pre-seed of $1.5M or less)."
+    },
+    "track_record": {
+      "portfolio_count": "400+",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Charles Hudson", "role": "Managing Partner & Founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["pre-seed-specialist", "solo-gp", "people-over-products", "high-volume"],
+    "summary": {
+      "en": "Precursor Ventures is a San Francisco pre-seed specialist founded in 2015 by solo GP Charles Hudson. It invests in 'people over products,' writing fast $250K–$500K first checks at high volume (75–100 per fund) and has made 400+ pre-seed investments. Fund V closed at $66M."
+    },
+    "sources": [
+      {
+        "url": "https://news.crunchbase.com/venture/charles-hudsons-precursor-ventures-targets-40m-for-its-third-flagship-fund-filings-show/",
+        "title": "Charles Hudson's Precursor Ventures Targets $40M For Its Third Flagship Fund",
+        "publisher": "Crunchbase News",
+        "accessed": "2026-06-02",
+        "supports": "Fund I ($15M), Fund II ($31M), Fund III ($40M target), solo-GP structure",
+        "quote": "his first fund of $15 million ... closed out $31 million for its oversubscribed second fund in February 2019"
+      },
+      {
+        "url": "https://www.vcsheet.com/fund/precursor-ventures",
+        "title": "Precursor Ventures - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "Fund V size, check size, pre-seed/seed focus, solo-GP, high-volume model",
+        "quote": "closed Fund V with $66M ... write fast $250K-$500K checks based purely on founding team quality ... making 75-100 investments per fund ... about 60 percent of its activity goes into classic pre-seed rounds"
+      },
+      {
+        "url": "https://precursorvc.com/",
+        "title": "Precursor Ventures",
+        "publisher": "Precursor Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Pre-seed & seed stage focus",
+        "quote": "Pre-Seed & Seed Stage"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I/II sizes from Crunchbase News; Fund V ($66M) and check sizes from VC Sheet (secondary). Portfolio count of 400+ widely reported across podcast/secondary sources. Founded 2015 per consensus; first fund closed 2016.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "us-pear-vc",
+    "name": { "en": "Pear VC" },
+    "aka": ["Pejman Mar Ventures"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Menlo Park, California",
+    "website": "https://pear.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/pear-vc/",
+      "crunchbase": "https://www.crunchbase.com/organization/pejman-mar-ventures",
+      "other": ["https://en.wikipedia.org/wiki/Pear_VC"]
+    },
+    "capital": {
+      "aum": { "raw": "~$800M across four funds", "usd": 800000000, "currency": "USD" },
+      "current_fund": { "raw": "$432M (Fund IV)", "usd": 432000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2013, "size": { "raw": "$50 million", "usd": 50000000, "currency": "USD" } },
+        { "name": "Fund IV", "vintage_year": 2023, "size": { "raw": "$432 million", "usd": 432000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$250K–$5M (follow-on up to $10M)", "usd_min": 250000, "usd_max": 5000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "ai-ml", "biotech", "healthtech", "deeptech"],
+      "thesis": "Pre-seed and seed specialist that partners with founders at the earliest stages, providing hands-on support (in-house recruiting, GTM, fundraising) and runs the PearX accelerator. Has seeded companies worth over $300B."
+    },
+    "program": {
+      "format": "in-person",
+      "location": "San Francisco / Menlo Park",
+      "demo_day": true,
+      "perks": ["in-house recruiting", "go-to-market coaching", "fundraising support", "PR and marketing"]
+    },
+    "track_record": {
+      "portfolio_count": "150+",
+      "notable_investments": [
+        { "company": "DoorDash", "sector": "logistics", "outcome": "IPO" },
+        { "company": "Gusto", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Guardant Health", "sector": "healthtech", "outcome": "IPO" },
+        { "company": "Vanta", "sector": "cybersecurity", "outcome": "unicorn" }
+      ]
+    },
+    "people": [
+      { "name": "Pejman Nozad", "role": "Founding Managing Partner" },
+      { "name": "Mar Hershenson", "role": "Founding Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["pre-seed-specialist", "seed-specialist", "pearx", "accelerator"],
+    "summary": {
+      "en": "Pear VC is a Menlo Park-based pre-seed and seed specialist founded in 2013 (originally Pejman Mar Ventures) by Pejman Nozad and Mar Hershenson. It manages ~$800M across four funds (Fund IV at $432M in 2023), runs the PearX accelerator, and seeded DoorDash, Gusto and Guardant Health at inception."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Pear_VC",
+        "title": "Pear VC - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founders, former name, HQ, Fund IV size, pre-seed/seed focus, accelerator, notable investments",
+        "quote": "founded by Pejman Nozad and Mar Hershenson in 2013 ... The company launched under the name Pejman Mar Ventures ... based in Menlo Park, California ... Pear raised $423m for a seed venture fund in 2023 ... features both a venture investing arm and an accelerator launched in 2014 ... backing DoorDash prior to its launch ... Guardant Health and Gusto"
+      },
+      {
+        "url": "https://pear.vc/",
+        "title": "Pear VC - We're specialists in pre-seed and seed",
+        "publisher": "Pear VC",
+        "accessed": "2026-06-02",
+        "supports": "Pre-seed/seed positioning, portfolio value, notable portfolio, HQ offices",
+        "quote": "We're specialists in pre-seed and seed ... We've seeded companies worth over $300B ... DoorDash, Gusto, Vanta, AppLovin, SoundHound, Affinity, Bioage, Guardant Health"
+      },
+      {
+        "url": "https://hub.waveup.com/funds/pear-vc",
+        "title": "Pear VC — VC Fund Profile",
+        "publisher": "Waveup",
+        "accessed": "2026-06-02",
+        "supports": "AUM, Fund I size, check sizes, portfolio count",
+        "quote": "approximately $800M in assets under management across four funds ... $432M Fund IV closed in May 2023 ... first raised $50 million in 2013 ... check sizes range from $250K to $5M for pre-seed and seed investments, with follow-on investments of up to $10M ... over 150 companies"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund IV reported as $432M (Waveup/secondary) and $423m (Wikipedia) — minor conflict, both ~$430M. AUM, check sizes and portfolio count from Waveup (secondary). Founding, founders, accelerator and notable investments confirmed by Wikipedia and official site.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "us-founder-collective",
+    "name": { "en": "Founder Collective" },
+    "aka": ["FC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2009,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Cambridge, Massachusetts",
+    "website": "https://foundercollective.com/",
+    "offices": [
+      { "country": "United States", "city": "Cambridge, Massachusetts" },
+      { "country": "United States", "city": "New York City" }
+    ],
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/founder-collective/",
+      "crunchbase": "https://www.crunchbase.com/organization/founder-collective",
+      "other": ["https://en.wikipedia.org/wiki/Founder_Collective"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$95M (Fund V)", "usd": 95000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2009, "size": { "raw": "$40 million", "usd": 40000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2012, "size": { "raw": "$70 million", "usd": 70000000, "currency": "USD" } },
+        { "name": "Fund III", "vintage_year": 2016, "size": { "raw": "$75 million", "usd": 75000000, "currency": "USD" } },
+        { "name": "Fund IV", "vintage_year": 2021, "size": { "raw": "$85 million", "usd": 85000000, "currency": "USD" } },
+        { "name": "Fund V", "vintage_year": 2023, "size": { "raw": "$95 million", "usd": 95000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "consumer", "deeptech"],
+      "thesis": "Seed-stage firm run by founders for founders, deliberately keeping funds small and emphasizing capital efficiency. Focused exclusively on the earliest stage of technology startups."
+    },
+    "track_record": {
+      "portfolio_count": "200+",
+      "notable_investments": [
+        { "company": "Uber", "sector": "mobility", "outcome": "IPO" },
+        { "company": "Airtable", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Coupang", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "The Trade Desk", "sector": "saas-enterprise", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Eric Paley", "role": "Managing Partner" },
+      { "name": "David Frankel", "role": "Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["seed-specialist", "founder-first", "capital-efficiency"],
+    "summary": {
+      "en": "Founder Collective is a seed-stage VC founded in 2009 by Eric Paley and David Frankel, with offices in Cambridge MA and New York. It keeps funds deliberately small (Fund V at $95M, 2023), invests only at seed, and has seeded 24 companies that reached $1B+ valuations including Uber, Airtable and Coupang."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Founder_Collective",
+        "title": "Founder Collective - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founders, offices, all fund sizes, seed focus, notable investments, unicorn count",
+        "quote": "founded in 2009 by David Frankel, Eric Paley ... offices in New York City and Cambridge, Massachusetts ... launched in 2009 with $40 million ... second raise of $70 million in 2012 ... third fund of $75 million closed in 2016 ... A fourth fund of $85 million closed in 2021 ... in 2023, with $95 million in capital commitments, Founder Collective raised its fifth and largest fund ... FC has made seed investments in Airtable, Coupang, Uber, Shield AI, and The Trade Desk ... As of 2025, 24 of the startups Founder Collective has seeded have reached valuations of more than $1bn"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "All fund sizes, founders, offices, seed-only focus and notable investments from Wikipedia (well-sourced). Portfolio count is an estimate.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "us-uncork-capital",
+    "name": { "en": "Uncork Capital" },
+    "aka": ["SoftTech VC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2004,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://uncorkcapital.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/uncork-capital/",
+      "crunchbase": "https://www.crunchbase.com/organization/softtech-vc",
+      "other": ["https://en.wikipedia.org/wiki/Uncork_Capital"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$225M (Uncork VIII)", "usd": 225000000, "currency": "USD" },
+      "funds": [
+        { "name": "Uncork VII", "vintage_year": 2023, "size": { "raw": "$200 million", "usd": 200000000, "currency": "USD" } },
+        { "name": "Plus III (opportunity)", "vintage_year": 2023, "size": { "raw": "$200 million", "usd": 200000000, "currency": "USD" } },
+        { "name": "Uncork VIII", "vintage_year": 2025, "size": { "raw": "$225 million", "usd": 225000000, "currency": "USD" } },
+        { "name": "Plus IV (opportunity)", "vintage_year": 2025, "size": { "raw": "$75 million", "usd": 75000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": "$500K–$2M", "usd_min": 500000, "usd_max": 2000000 },
+      "ownership_target_pct": "10-15%",
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "consumer", "fintech"],
+      "thesis": "Seed-stage specialist backing visionary founders at the seed stage, generally targeting 10-15% ownership. One of the earliest dedicated seed funds, formerly SoftTech VC."
+    },
+    "track_record": {
+      "portfolio_count": "260+",
+      "notable_investments": [
+        { "company": "Fitbit", "sector": "hardware-semiconductor", "outcome": "IPO" },
+        { "company": "SendGrid", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Eventbrite", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Postmates", "sector": "logistics", "outcome": "acquired" }
+      ]
+    },
+    "people": [
+      { "name": "Jeff Clavier", "role": "Founder & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["seed-specialist", "former-softtech-vc"],
+    "summary": {
+      "en": "Uncork Capital (formerly SoftTech VC) is a San Francisco seed-stage specialist founded in 2004 by Jeff Clavier, one of the first dedicated seed funds. It targets 10-15% ownership, has invested in 260+ startups, and raised $225M for Uncork VIII plus a $75M opportunity fund in 2025. Backed Fitbit, SendGrid, Eventbrite and Postmates."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Uncork_Capital",
+        "title": "Uncork Capital - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founder, former name, HQ, fund sizes, seed focus, ownership target, portfolio count, notable investments",
+        "quote": "founded in 2004 by angel investor Jeff Clavier ... In 2017, the firm changed its name from SoftTech VC to Uncork Capital ... aims to secure between 10-15% ownership ... invested in companies such as Postmates, Eventbrite, Fitbit, and SendGrid ... In 2023, the firm raised $200M for Uncork VII and $200M for their third breakout fund, Plus III ... In 2025, the firm raised $225M for Uncork VIII and $75M for their fourth breakout fund, Plus IV ... As of 2024, the firm had invested in over 260 early stage start-ups"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "All fund sizes, founder, former name, ownership target and portfolio count from Wikipedia (well-sourced). Check size range from secondary sources (vcsheet); Wikipedia confirms 10-15% ownership target.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "us-homebrew",
+    "name": { "en": "Homebrew" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://homebrew.co/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/homebrew/",
+      "crunchbase": "https://www.crunchbase.com/organization/homebrew-ventures"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2013, "size": { "raw": "$35 million", "usd": 35000000, "currency": "USD" } },
+        { "name": "Fund III", "vintage_year": 2018, "size": { "raw": "$90 million", "usd": 90000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$250K–$800K (early funds)", "usd_min": 250000, "usd_max": 800000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "consumer"],
+      "thesis": "Seed-stage fund founded around the 'bottom up economy' thesis. After 2021 the firm shifted to an evergreen, single-LP structure investing the partners' own capital at the earliest stages."
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "notable_investments": [
+        { "company": "Chime", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Gusto", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Plaid", "sector": "fintech", "outcome": "unicorn" }
+      ]
+    },
+    "people": [
+      { "name": "Hunter Walk", "role": "Co-founder & Partner" },
+      { "name": "Satya Patel", "role": "Co-founder & Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["seed-specialist", "bottom-up-economy", "evergreen"],
+    "summary": {
+      "en": "Homebrew is a San Francisco seed-stage fund founded in 2013 by ex-Google's Hunter Walk and ex-Twitter's Satya Patel, built around the 'bottom up economy' thesis. It raised a $35M debut fund and a $90M third fund before moving to an evergreen single-LP structure in 2021."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2013/07/17/hunter-walk-and-satya-patels-homebrew-is-a-35m-seed-stage-fund-to-invest-in-the-bottom-up-economy/",
+        "title": "Hunter Walk And Satya Patel's Homebrew Is A $35M Seed-Stage Fund",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund I size, founders, founding year, seed focus, check sizes",
+        "quote": "$35 million venture fund launched by ex-Google employee Hunter Walk and ex-Twitter employee Satya Patel that focuses on seed stage investments ... between $250,000 and $800,000 — in seed rounds"
+      },
+      {
+        "url": "https://www.finsmes.com/2018/02/homebrew-raises-90m-for-third-fund.html",
+        "title": "Homebrew Raises $90M for Third Fund",
+        "publisher": "FinSMEs",
+        "accessed": "2026-06-02",
+        "supports": "Fund III size ($90M)",
+        "quote": "Homebrew Raises $90M for Third Fund"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I ($35M) and check sizes from TechCrunch (2013); Fund III ($90M) from FinSMEs. Homebrew publicly announced (2021) it would no longer raise traditional LP funds and operate as an evergreen single-LP fund — status remains active. Notable investments from secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "us-cowboy-ventures",
+    "name": { "en": "Cowboy Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Palo Alto, California",
+    "website": "https://www.cowboy.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/cowboy-ventures/",
+      "crunchbase": "https://www.crunchbase.com/organization/cowboy-ventures"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2012, "size": { "raw": "$40 million", "usd": 40000000, "currency": "USD" } },
+        { "name": "Fund IV", "vintage_year": 2023, "size": { "raw": "$140 million", "usd": 140000000, "currency": "USD" } },
+        { "name": "Opportunity Fund I", "vintage_year": 2023, "size": { "raw": "$120 million", "usd": 120000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$100K–$2M (sweet spot ~$500K–$800K)", "usd_min": 100000, "usd_max": 2000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "consumer", "fintech"],
+      "thesis": "Seed-stage focused fund split roughly 70% enterprise / 30% consumer. Founded by Aileen Lee (who coined the term 'unicorn'); among the first female-led VC firms, with a deliberate focus on diverse founders."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Dollar Shave Club", "sector": "consumer", "outcome": "acquired" },
+        { "company": "Guild Education", "sector": "edtech", "outcome": "unicorn" },
+        { "company": "Drata", "sector": "cybersecurity", "outcome": "unicorn" }
+      ]
+    },
+    "people": [
+      { "name": "Aileen Lee", "role": "Founder & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["seed-specialist", "female-led", "coined-unicorn", "diverse-founders"],
+    "summary": {
+      "en": "Cowboy Ventures is a Bay Area seed-stage fund founded in 2012 by Aileen Lee (who coined the term 'unicorn'), one of the first female-led VC firms. It raised a $40M debut fund and, in 2023, $260M across a $140M flagship and a $120M opportunity fund. Early backer of Dollar Shave Club, Guild Education and Drata."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2023/01/23/cowboy-ventures-goes-bigger-with-260m-across-two-new-funds-including-an-opportunity-fund/",
+        "title": "Cowboy Ventures goes bigger with $260M across two new funds",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "2023 raise, fund split, seed focus, founder, enterprise/consumer split, notable investments",
+        "quote": "closed on two new funds totaling $260 million in capital commitments ... $140 million in commitments for its fourth flagship fund and another $120 million for its first opportunity-type fund ... seed-stage focused fund ... founded by renowned investor Aileen Lee ... 70% of its most recent fund was funneled into enterprise startups and 30% into consumer ... first checks went to Dollar Shave Club ... seed investor in ... Drata ... among the first investors in Guild Education"
+      },
+      {
+        "url": "https://www.vcsheet.com/fund/cowboy-ventures",
+        "title": "Cowboy Ventures - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "Fund I size, check size range",
+        "quote": "original fund launched in 2012 was $40 million ... checks from $100,000 to $1 million, with their sweet spot usually around $500,000 to $800,000"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aileen_Lee",
+        "title": "Aileen Lee - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founder coined 'unicorn', founding, female-led",
+        "quote": "co-founder of Cowboy Ventures who coined the often-used Silicon Valley term 'unicorn' ... one of the first female-led venture capital firms"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year shows minor conflict: TechCrunch's 2023 article describes the firm as 'now-10-year-old' (implying 2013) while VC Sheet and other sources say the first fund launched 2012. Used 2012. 2023 fund split and notable investments from TechCrunch (primary-grade).",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "us-floodgate",
+    "name": { "en": "Floodgate" },
+    "aka": ["Maples Investments", "Floodgate Fund"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2006,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Menlo Park, California",
+    "website": "https://www.floodgate.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/floodgate/",
+      "crunchbase": "https://www.crunchbase.com/organization/floodgate",
+      "other": ["https://en.wikipedia.org/wiki/Floodgate_Fund"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$146M (Fund VII)", "usd": 146000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund III", "vintage_year": null, "size": { "raw": "$73.5 million", "usd": 73500000, "currency": "USD" } },
+        { "name": "Fund IV", "vintage_year": null, "size": { "raw": "$75 million", "usd": 75000000, "currency": "USD" } },
+        { "name": "Fund V", "vintage_year": null, "size": { "raw": "$76 million", "usd": 76000000, "currency": "USD" } },
+        { "name": "Fund VI", "vintage_year": null, "size": { "raw": "$131 million", "usd": 131000000, "currency": "USD" } },
+        { "name": "Fund VII", "vintage_year": 2021, "size": { "raw": "$146 million", "usd": 146000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$150K–$1M (avg up to ~$5M)", "usd_min": 150000, "usd_max": 5000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "consumer", "deeptech"],
+      "thesis": "'Prime Mover' seed and pre-seed fund that looks for non-consensus founders pursuing 'inflection theory' and proprietary insights, often as the first investor."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Twitter", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Lyft", "sector": "mobility", "outcome": "IPO" },
+        { "company": "Okta", "sector": "cybersecurity", "outcome": "IPO" },
+        { "company": "Chegg", "sector": "edtech", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Mike Maples Jr.", "role": "Co-founder & Partner" },
+      { "name": "Ann Miura-Ko", "role": "Co-founding Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["seed-specialist", "prime-mover", "non-consensus"],
+    "summary": {
+      "en": "Floodgate is a Menlo Park seed/pre-seed firm originally founded as Maples Investments in 2006 by Mike Maples Jr. (Ann Miura-Ko co-founded in 2008; renamed Floodgate 2010). It backs non-consensus founders as a 'prime mover,' with Fund VII at $146M (2021). Early investor in Twitter, Lyft and Okta."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Floodgate_Fund",
+        "title": "Floodgate Fund - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founders, former name, fund sizes, notable investments",
+        "quote": "created by Mike Maples Jr. and Ann Miura-Ko ... originally named Maples Investments, but was renamed Floodgate Fund in March 2010 ... In October 2021, Floodgate raised $146 million for its seventh fund ... sixth fund closed at $131 million, their fifth fund closed at $76 million, the fourth fund closed at $75 million and their third fund at $73.5 million ... invested in a number of companies including Twitter ... Lyft, Refinery29 ... Okta and Rappi"
+      },
+      {
+        "url": "https://superscout.co/investor/floodgate",
+        "title": "Floodgate: The Early Stage Founder's Guide",
+        "publisher": "Superscout",
+        "accessed": "2026-06-02",
+        "supports": "Founding year (2006 as Maples Investments), check sizes, geo focus",
+        "quote": "originally founded by Maples as Maples Investments in 2006 ... invests between $150,000 and $1 million preferably in startups located in the San Francisco Bay Area or Austin, Texas"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund sizes, founders and notable investments from Wikipedia (well-sourced). Founding year 2006 (as Maples Investments) per Superscout/secondary; firm renamed Floodgate in 2010. Check size range varies by source ($150K-$1M typical, up to ~$5M).",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "us-susa-ventures",
+    "name": { "en": "Susa Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://susaventures.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/susa-ventures/",
+      "crunchbase": "https://www.crunchbase.com/organization/susa-ventures"
+    },
+    "capital": {
+      "current_fund": { "raw": "$175M (Fund V)", "usd": 175000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund IV (seed)", "vintage_year": 2021, "size": { "raw": "$125 million", "usd": 125000000, "currency": "USD" } },
+        { "name": "Opportunity Fund", "vintage_year": 2021, "size": { "raw": "$250 million", "usd": 250000000, "currency": "USD" } },
+        { "name": "Fund V", "vintage_year": 2025, "size": { "raw": "$175 million", "usd": 175000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500K–$5M", "usd_min": 500000, "usd_max": 5000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "ai-ml", "fintech"],
+      "thesis": "Sector-agnostic, software-focused pre-seed and seed fund seeking data-centric companies with strong compounding moats — proprietary data, economies of scale and network effects. Claims a ~10% unicorn rate at seed."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Robinhood", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Flexport", "sector": "logistics", "outcome": "unicorn" },
+        { "company": "Andela", "sector": "saas-enterprise", "outcome": "unicorn" }
+      ]
+    },
+    "people": [
+      { "name": "Chad Byers", "role": "General Partner & Co-founder" },
+      { "name": "Leo Polovets", "role": "Co-founder (former GP)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["seed-specialist", "pre-seed", "data-moats", "network-effects"],
+    "summary": {
+      "en": "Susa Ventures is a San Francisco pre-seed and seed fund founded in 2013, investing $500K–$5M in sector-agnostic, software-focused companies with strong data/network-effect moats. It closed Fund V at $175M in 2025 and claims a ~10% seed unicorn rate. Early investor in Robinhood and Flexport."
+    },
+    "sources": [
+      {
+        "url": "https://susaventures.substack.com/p/susa-ventures-v-175m-for-seed-stage",
+        "title": "Susa Ventures V: $175M for Seed-Stage Founders",
+        "publisher": "Susa Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Fund V size, founding year, stage focus, check size, thesis, unicorn rate, co-founder",
+        "quote": "Susa Ventures V – a $175M fund ... Since 2013, we've dedicated ourselves to pre-seed and seed-stage company building ... We invest $500k-$5m at the pre-seed and seed-stage ... We're sector-agnostic, focused primarily on software ... 10% of Susa I and II companies have become unicorns – compared to a 1% industry average ... By Chad Byers, General Partner and Co-founder"
+      },
+      {
+        "url": "https://medium.com/susa-ventures/announcing-susa-ventures-iv-2341bb957e6e",
+        "title": "Announcing Susa Ventures IV",
+        "publisher": "Susa Ventures / Medium",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV ($125M seed) and Opportunity Fund ($250M)",
+        "quote": "$125M seed fund & $250M opportunity"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund V size, founding year, check size, thesis and unicorn rate from Susa's official announcement (primary). Fund IV/Opportunity from Susa Medium post. Notable investments (Robinhood, Flexport) from widely-reported secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "us-boldstart-ventures",
+    "name": { "en": "Boldstart Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2010,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York, New York",
+    "website": "https://boldstart.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/boldstart-ventures/",
+      "crunchbase": "https://www.crunchbase.com/organization/boldstart-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "over $1.1 billion in assets under management", "usd": 1100000000, "currency": "USD" },
+      "current_fund": { "raw": "$250M (Fund VII)", "usd": 250000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund III", "vintage_year": 2016, "size": { "raw": "$47 million", "usd": 47000000, "currency": "USD" } },
+        { "name": "Fund VII", "vintage_year": 2025, "size": { "raw": "$250 million", "usd": 250000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$250K–$5M (first checks)", "usd_min": 250000, "usd_max": 5000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "cybersecurity", "deeptech"],
+      "thesis": "Coined 'Inception Investing' — deliberately investing before traditional pre-seed rounds, often when there is no company, product or deck yet, partnering with bold technical founders building the AI-native autonomous enterprise (infrastructure, security, applications, models)."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Snyk", "sector": "cybersecurity", "outcome": "unicorn" },
+        { "company": "BigID", "sector": "cybersecurity", "outcome": "unicorn" },
+        { "company": "Kustomer", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Protect AI", "sector": "ai-ml", "outcome": "acquired" }
+      ]
+    },
+    "people": [
+      { "name": "Ed Sim", "role": "Founder & General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["pre-seed-specialist", "inception-investing", "enterprise", "developer-first"],
+    "summary": {
+      "en": "Boldstart Ventures is a New York firm founded by Ed Sim in 2010 that pioneered 'Inception Investing' — leading the very first round for technical founders building AI-native enterprise infrastructure, security and applications, often before a company exists. It manages $1.1B+ AUM and closed $250M Fund VII in 2025. Backed Snyk, BigID and Kustomer."
+    },
+    "sources": [
+      {
+        "url": "https://www.businesswire.com/news/home/20250708927572/en/From-$1M-to-$1.1B-Boldstart-Ventures-Launches-$250M-Fund-VII-to-Back-Inception-Stage-Founders-Building-the-Autonomous-Enterprise",
+        "title": "Boldstart Ventures Launches $250M Fund VII",
+        "publisher": "Business Wire",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founder, AUM, Fund VII size, inception/pre-seed focus, notable investments",
+        "quote": "What began in 2010 as a $1 million proof-of-concept, before 'pre-seed' was even a term, has grown into a platform with over $1.1 billion in assets under management ... Ed Sim is the Founder and General Partner ... hold firm at $250 million ... category-defining companies like Snyk, BigID, Protect AI ... Clay, Kustomer (sold to Meta $1B)"
+      },
+      {
+        "url": "https://www.vcsheet.com/who/ed-sim",
+        "title": "Ed Sim (Boldstart Ventures) / VC Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "Check sizes, pre-seed/seed stage focus",
+        "quote": "Pre-Seed and Seed (Inception stage, typically $250K-$5M first checks)"
+      },
+      {
+        "url": "https://techcrunch.com/2016/11/15/boldstart-ventures-locks-down-47-million-for-fund-three/",
+        "title": "Boldstart Ventures locks down $47 million for fund three",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund III size ($47M)",
+        "quote": "Boldstart Ventures locks down $47 million for fund three"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year, AUM, Fund VII and notable investments from Business Wire (official release). Check sizes from VC Sheet. Fund III from TechCrunch. HQ (New York) confirmed via firm address in secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "us-afore-capital",
+    "name": { "en": "Afore Capital" },
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://www.afore.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/aforecapital/",
+      "crunchbase": "https://www.crunchbase.com/organization/afore-capital"
+    },
+    "capital": {
+      "aum": { "raw": "over $500 million in total AUM", "usd": 500000000, "currency": "USD" },
+      "current_fund": { "raw": "$185M (Fund IV)", "usd": 185000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund III", "vintage_year": 2022, "size": { "raw": "$150 million", "usd": 150000000, "currency": "USD" } },
+        { "name": "Fund IV", "vintage_year": 2025, "size": { "raw": "$185 million", "usd": 185000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "$500K–$2M+", "usd_min": 500000, "usd_max": 2000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "ai-ml", "fintech", "healthtech"],
+      "thesis": "Dedicated pre-seed fund ('pre-seed 2.0') emphasizing flexibility — writing small or larger checks for founders at the ideation and pre-seed stage. Runs an 8-week Founders-in-Residence program for pre-idea founders."
+    },
+    "program": {
+      "length_weeks": 8,
+      "format": "in-person",
+      "perks": ["ideation support", "founder community"],
+      "eligibility": "Founders still in the ideation stage"
+    },
+    "track_record": {
+      "portfolio_count": "200",
+      "notable_investments": [
+        { "company": "Modern Health", "sector": "healthtech", "outcome": "unicorn" },
+        { "company": "Hightouch", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "BenchSci", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Anamitra Banerji", "role": "Co-founder & General Partner" },
+      { "name": "Gaurav Jain", "role": "Co-founder & General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["pre-seed-specialist", "founders-in-residence", "pre-seed-2.0"],
+    "summary": {
+      "en": "Afore Capital is a San Francisco pre-seed specialist founded in 2016/2017 by Anamitra Banerji and Gaurav Jain. Its $185M Fund IV (2025) pushed total AUM past $500M; its ~200-company portfolio is collectively valued over $13.5B. Runs an 8-week Founders-in-Residence program for ideation-stage founders."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2025/02/20/pre-seed-firm-afore-capital-has-a-fresh-185m-fund-and-a-new-program-to-help-founders-discover-ideas/",
+        "title": "Pre-seed firm Afore Capital has a fresh $185M fund",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV size, founders, founding year, check sizes, portfolio count/value, FIR program, notable investments",
+        "quote": "Afore is unveiling its fourth $185 million fund ... general partners Anamitra Banerji and Gaurav Jain ... the firm wrote checks ranging from $1 million to $2 million ... its 200-company portfolio has a collective valuation of over $13.5 billion ... an eight-week Founders-in-Residence (FIR) program ... startups like Modern Health, BenchSci, Neo Financial, New Lantern, and Hightouch"
+      },
+      {
+        "url": "https://www.thespl.it/p/how-to-skip-your-seed-pre-seed-lessons",
+        "title": "Pre-Seed Lessons Building Afore to $500M+ AUM",
+        "publisher": "The Split",
+        "accessed": "2026-06-02",
+        "supports": "Total AUM ($500M+), founding, check range",
+        "quote": "Afore's fourth $185 million fund ... pushed the firm past $500 million in total assets under management ... Gaurav Jain and Anamitra Banerji co-founded Afore Capital in 2016"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year conflict: TechCrunch says 'founded in 2017,' The Split/secondary say 2016 — used 2016 with note. Fund IV, FIR program, portfolio count/value, founders from TechCrunch (primary-grade). Total AUM $500M+ from secondary.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "us-lerer-hippeau",
+    "name": { "en": "Lerer Hippeau" },
+    "aka": ["Lerer Ventures", "Lerer Hippeau Ventures"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2010,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York, New York",
+    "website": "https://www.lererhippeau.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/lerer-hippeau/",
+      "crunchbase": "https://www.crunchbase.com/organization/lerer-ventures"
+    },
+    "capital": {
+      "current_fund": { "raw": "$200M (Fund IX)", "usd": 200000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund VIII", "vintage_year": 2022, "size": { "raw": "$140 million", "usd": 140000000, "currency": "USD" } },
+        { "name": "Fund IX", "vintage_year": 2025, "size": { "raw": "$200 million", "usd": 200000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$100K–$3M", "usd_min": 100000, "usd_max": 3000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "consumer", "ecommerce", "saas-enterprise", "fintech", "ai-ml", "healthtech"],
+      "thesis": "New York's earliest-stage generalist seed fund, founded by media and tech operators. Invests at pre-seed and seed across consumer, CPG/D2C, AI, fintech, enterprise and healthcare with operator-minded support."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Warby Parker", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Venmo", "sector": "fintech", "outcome": "acquired" },
+        { "company": "The RealReal", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "K Health", "sector": "healthtech", "outcome": "unicorn" }
+      ]
+    },
+    "people": [
+      { "name": "Eric Hippeau", "role": "Managing Partner" },
+      { "name": "Ben Lerer", "role": "Managing Partner" },
+      { "name": "Kenneth Lerer", "role": "Managing Partner Emeritus" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["seed-specialist", "pre-seed", "nyc-first", "generalist"],
+    "summary": {
+      "en": "Lerer Hippeau is a New York pre-seed and seed generalist founded in 2010 by Ken Lerer, Ben Lerer and Eric Hippeau. It backed NYC startups before the city had a tech ecosystem and closed $200M for its ninth seed fund in 2025. Early investor in Warby Parker, Venmo and The RealReal."
+    },
+    "sources": [
+      {
+        "url": "https://www.businesswire.com/news/home/20250408846322/en/Lerer-Hippeau-Closes-$200M-for-Ninth-Seed-Fund",
+        "title": "Lerer Hippeau Closes $200M for Ninth Seed Fund",
+        "publisher": "Business Wire",
+        "accessed": "2026-06-02",
+        "supports": "Fund IX size ($200M), pre-seed/seed focus",
+        "quote": "Lerer Hippeau Closes $200M for Ninth Seed Fund"
+      },
+      {
+        "url": "https://www.vcsheet.com/fund/lerer-hippeau",
+        "title": "Lerer Hippeau - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "Founders, HQ, stage focus, check size, sector focus, Fund VIII size, founding year, notable investments",
+        "quote": "founded in 2010 and is based in New York, New York ... Pre-Seed, Seed, Series A, Series B+ ... $100K - $3M ... LH Fund VIII's $140M ... K Health, Warby Parker, Venmo, Disclo, and The RealReal ... former media and tech operators (Huffington Post, SoftBank, Yahoo)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund IX ($200M) from Business Wire (official). Founders, founding year, HQ, check size, Fund VIII and notable investments from VC Sheet (secondary). Firm invests through Series B+ but is fundamentally a seed-first fund per its own positioning.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "us-hustle-fund",
+    "name": { "en": "Hustle Fund" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Carlos, California",
+    "website": "https://www.hustlefund.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/hustle-fund/",
+      "crunchbase": "https://www.crunchbase.com/organization/hustle-fund"
+    },
+    "capital": {
+      "aum": { "raw": "$100M+", "usd": 100000000, "currency": "USD" },
+      "current_fund": { "raw": "hard cap never exceeding $50 million", "usd": 50000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "$25K–$150K (initial); $500K–$1M follow-on at seed", "usd_min": 25000, "usd_max": 150000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "fintech", "consumer"],
+      "thesis": "'Hilariously early' pre-seed fund for 'fast and frugal' founders. Writes small first checks, reviews 1,000+ deals a month, and moves in days. Deliberately caps fund size at $50M to stay disciplined at pre-seed."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Webflow", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Cal.com", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Elizabeth Yin", "role": "Co-founder & General Partner" },
+      { "name": "Eric Bahn", "role": "Co-founder & General Partner" },
+      { "name": "Shiyan Koh", "role": "Co-founder & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["pre-seed-specialist", "micro-vc", "fast-and-frugal", "hilariously-early"],
+    "summary": {
+      "en": "Hustle Fund is a pre-seed micro-VC (HQ San Carlos, CA) founded in 2017/2018 by Elizabeth Yin, Eric Bahn and Shiyan Koh. It writes small $25K–$150K first checks into 'fast and frugal' founders, caps each fund at $50M, and reviews 1,000+ deals a month. Early backer of Webflow."
+    },
+    "sources": [
+      {
+        "url": "https://www.eaglerockcfo.com/blog/venture-capital-firms/hustle-fund-review",
+        "title": "Hustle Fund Review",
+        "publisher": "Eagle Rock CFO",
+        "accessed": "2026-06-02",
+        "supports": "Founders, HQ, AUM, check sizes, pre-seed focus, deal volume, notable investments",
+        "quote": "Founded in 2018 ... Eric Bahn, Shiyan Koh, and Elizabeth Yin ... The San Carlos firm ... AUM: $100M+ ... Hustle Fund writes $100K-$150K checks at pre-seed ... Hustle often follows with $500K-$1M ... review over 1,000 deals per month ... Portfolio winners: Webflow ($4B+), NerdWallet (IPO), Cal.com"
+      },
+      {
+        "url": "https://www.vcsheet.com/who/elizabeth-yin",
+        "title": "Elizabeth Yin (Hustle Fund) / VC Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "Founding year (2017), founders, $50M fund cap, check sizes",
+        "quote": "founded in 2017 by Elizabeth Yin, Shiyan Koh, and Eric Bahn ... it will never exceed $50 million ... ~$25K-$150K"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year conflict: VC Sheet says 2017, Eagle Rock CFO says 2018 — used 2017 with note. $50M hard cap and small check sizes consistent across sources. AUM $100M+ from secondary.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "us-better-tomorrow-ventures",
+    "name": { "en": "Better Tomorrow Ventures" },
+    "aka": ["BTV"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://www.btv.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/better-tomorrow-ventures/",
+      "crunchbase": "https://www.crunchbase.com/organization/better-tomorrow-ventures-bebf"
+    },
+    "capital": {
+      "aum": { "raw": "~$450M in AUM", "usd": 450000000, "currency": "USD" },
+      "current_fund": { "raw": "$140M (BTV III)", "usd": 140000000, "currency": "USD" },
+      "funds": [
+        { "name": "BTV I", "vintage_year": 2019, "size": { "raw": "$75 million", "usd": 75000000, "currency": "USD" } },
+        { "name": "BTV II", "vintage_year": 2021, "size": { "raw": "$150 million", "usd": 150000000, "currency": "USD" } },
+        { "name": "BTV III", "vintage_year": 2025, "size": { "raw": "$140 million", "usd": 140000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500K–$3.5M", "usd_min": 500000, "usd_max": 3500000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["fintech"],
+      "thesis": "Pre-seed and seed fund investing exclusively in fintech companies globally, leading first rounds. Bullish on AI-driven automation of labor-intensive financial-services workflows (underwriting, compliance, fraud, support)."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Unit", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Coast", "sector": "fintech", "outcome": "active" },
+        { "company": "Relay", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Sheel Mohnot", "role": "Co-founder & General Partner" },
+      { "name": "Jake Gibson", "role": "Co-founder & General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["pre-seed-specialist", "seed", "fintech-specialist"],
+    "summary": {
+      "en": "Better Tomorrow Ventures is a San Francisco fintech-focused pre-seed and seed fund founded in 2019 by Sheel Mohnot and Jake Gibson. It writes $500K–$3.5M first checks into fintech globally, closed a $140M third fund (2025) bringing AUM to ~$450M. Backed Unit, Coast and Relay."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2025/10/01/better-tomorrow-ventures-closes-140m-remains-bullish-on-fintech/",
+        "title": "Better Tomorrow Ventures closes $140M, remains bullish on fintech",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "BTV III size, prior fund size, founders, firm age, check sizes, notable investments",
+        "quote": "Better Tomorrow Ventures just raised a $140 million third fund, nearly matching the $150 million second fund ... Sheel Mohnot ... and NerdWallet co-founder Jake Gibson ... The six-year-old firm's third fund ... check sizes ranging from $500,000 to $3.5 million ... Coast, Unit (valued at $1.2 billion), Relay"
+      },
+      {
+        "url": "https://techcrunch.com/2022/02/15/better-tomorrow-ventures-closes-on-225m-fintech-focused-fund-which-is-triple-the-size-of-its-last-fund/",
+        "title": "Better Tomorrow Ventures closes on $225M fintech-focused fund",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Founders, fintech pre-seed/seed focus, founding (Nov 2019), BTV I size",
+        "quote": "founded by Sheel Mohnot and Jake Gibson in November of 2019 ... San Francisco-based venture capital firm focused on pre-seed and seed-stage investments in fintech companies globally"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "BTV III ($140M), BTV II ($150M), founders, check sizes and notable investments from TechCrunch (primary-grade). BTV I ($75M) and ~$450M AUM from secondary aggregation. Founded Nov 2019 per TechCrunch.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "us-boxgroup",
+    "name": { "en": "BoxGroup" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2007,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York, New York",
+    "website": "https://www.boxgroup.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/boxgroup/",
+      "crunchbase": "https://www.crunchbase.com/organization/boxgroup",
+      "other": ["https://en.wikipedia.org/wiki/BoxGroup"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$550M across two funds (BoxGroup Seven + Leaven)", "usd": 550000000, "currency": "USD" },
+      "funds": [
+        { "name": "BoxGroup Seven (early-stage)", "vintage_year": 2025, "size": { "raw": "part of $550M", "usd": null, "currency": "USD" } },
+        { "name": "BoxGroup Leaven (opportunity)", "vintage_year": 2025, "size": { "raw": "part of $550M", "usd": null, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$250K–$750K", "usd_min": 250000, "usd_max": 750000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "fintech", "saas-enterprise", "ai-ml", "healthtech"],
+      "thesis": "Pre-seed and seed firm that invests at the earliest rounds, often before product launch or revenue. Highly active (120–180 deals per core fund), with ~30% of investments in New York companies."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Stripe", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Plaid", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Ramp", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Airtable", "sector": "saas-enterprise", "outcome": "unicorn" }
+      ]
+    },
+    "people": [
+      { "name": "David Tisch", "role": "Managing Partner" },
+      { "name": "Adam Rothenberg", "role": "Co-founder / Partner" },
+      { "name": "Greg Rosen", "role": "Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["pre-seed-specialist", "seed", "nyc", "high-volume"],
+    "summary": {
+      "en": "BoxGroup is a New York pre-seed and seed firm founded in 2007 by David Tisch and Adam Rothenberg, investing at the earliest rounds (often pre-product). In October 2025 it closed $550M across BoxGroup Seven (early-stage) and BoxGroup Leaven (opportunity), expecting 120–180 core deals. Early investor in Stripe, Plaid, Ramp and Airtable."
+    },
+    "sources": [
+      {
+        "url": "https://fortune.com/2025/10/21/david-tisch-boxgroup-venture-capital-tech-nyc-ramp-cursor-early-stage/",
+        "title": "David Tisch's BoxGroup raises $550 million across two new funds",
+        "publisher": "Fortune",
+        "accessed": "2026-06-02",
+        "supports": "$550M across two funds, fund names, deal volume, notable investments, NYC concentration, firm age",
+        "quote": "The fresh $550 million is split across two funds: an early-stage vehicle, BoxGroup Seven, and an opportunity fund for follow-on investments called BoxGroup Leaven ... Ramp, Stripe, Plaid, Cursor, Airtable, Oscar ... between 120 and 180 deals out of its newest core fund ... around 30% of BoxGroup's investments are typically in New York companies ... boasts 16 years of operation"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/BoxGroup",
+        "title": "BoxGroup - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founders, pre-seed/seed focus",
+        "quote": "founded in 2007 by David Tisch and Adam Rothenberg ... invests in the pre-seed and seed rounds of financing for early-stage companies"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year and founders from Wikipedia; $550M two-fund raise, deal volume and portfolio from Fortune (primary-grade). Individual fund sizes within the $550M not separately disclosed. Check size range ($250K-$750K) from secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "us-initialized-capital",
+    "name": { "en": "Initialized Capital" },
+    "aka": ["Initialized"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2011,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://initialized.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/initialized-capital/",
+      "crunchbase": "https://www.crunchbase.com/organization/initialized-capital",
+      "other": ["https://en.wikipedia.org/wiki/Initialized_Capital"]
+    },
+    "capital": {
+      "aum": { "raw": "more than $3.2 billion in assets (2022)", "usd": 3200000000, "currency": "USD" },
+      "current_fund": { "raw": "$230M (Fund V seed)", "usd": 230000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund III", "vintage_year": 2016, "size": { "raw": "$125 million", "usd": 125000000, "currency": "USD" } },
+        { "name": "Fund IV", "vintage_year": null, "size": { "raw": "$225 million", "usd": 225000000, "currency": "USD" } },
+        { "name": "Fund V (seed)", "vintage_year": 2022, "size": { "raw": "$230 million", "usd": 230000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$1M–$4M", "usd_min": 1000000, "usd_max": 4000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "fintech", "web3-crypto", "ai-ml"],
+      "thesis": "Seed-stage fund backing startups pre-product-market-fit, with a sweet spot of $1M–$4M checks. Has 19 seed investments that became unicorns including Coinbase and Instacart."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Coinbase", "sector": "web3-crypto", "outcome": "IPO" },
+        { "company": "Instacart", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "Flexport", "sector": "logistics", "outcome": "unicorn" }
+      ]
+    },
+    "people": [
+      { "name": "Alexis Ohanian", "role": "Co-founder (former)" },
+      { "name": "Garry Tan", "role": "Co-founder (former, now YC CEO)" },
+      { "name": "Brett Gibson", "role": "Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["seed-specialist", "pre-product-market-fit"],
+    "summary": {
+      "en": "Initialized Capital is a San Francisco seed-stage fund founded in 2011 by Alexis Ohanian, Garry Tan and Harj Taggar. It writes $1M–$4M checks pre-product-market-fit, raised a $230M Fund V seed fund (2022), and has 19 seed-stage unicorns including Coinbase and Instacart. AUM reached $3.2B (2022)."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Initialized_Capital",
+        "title": "Initialized Capital - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founders, HQ, fund sizes, AUM, notable investments",
+        "quote": "founded in 2011 and headquartered in San Francisco ... founded by Alexis Ohanian, Harj Taggar, and Garry Tan ... raised more than $3.2 billion in assets ... closed its third fund in 2016 with $125 million ... $225 million for its fourth fund"
+      },
+      {
+        "url": "https://medium.com/initialized-capital/announcing-initialized-fund-v-ab34becf68c9",
+        "title": "Announcing Initialized Fund V",
+        "publisher": "Initialized Capital / Medium",
+        "accessed": "2026-06-02",
+        "supports": "Fund V size ($230M), seed focus, check size, unicorn count",
+        "quote": "$230M seed fund for startups pre-product market fit ... checks of $1M to $4M ... 19 portfolio companies it invested in at seed that have since become unicorns, including major successes like Coinbase, Instacart, Flexport"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year, founders, fund sizes and AUM from Wikipedia. Fund V ($230M), check size and unicorn count from Initialized's own Medium announcement (primary). Founders Ohanian and Tan have since departed; firm remains active.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "us-signalfire",
+    "name": { "en": "SignalFire" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://www.signalfire.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/signalfire/",
+      "crunchbase": "https://www.crunchbase.com/organization/signalfire"
+    },
+    "capital": {
+      "aum": { "raw": "approximately $3 billion", "usd": 3000000000, "currency": "USD" },
+      "current_fund": { "raw": "over $1 billion (2025 raise across Seed, Early, XIR, Opportunities)", "usd": 1000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$100K–$1M (pre-seed); $1M–$5M (seed)", "usd_min": 100000, "usd_max": 5000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml", "healthtech", "consumer", "saas-enterprise", "cybersecurity"],
+      "thesis": "AI-native, data-driven venture firm built on its Beacon AI platform (scanning 80M+ organizations and 650M+ people). Hyper-focused on applied-AI founders at the earliest stages: ~100 pre-seed checks of $100K–$1M and ~60 seed checks of $1M–$5M per fund cycle."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Grammarly", "sector": "ai-ml", "outcome": "unicorn" },
+        { "company": "Uniswap", "sector": "web3-crypto", "outcome": "unicorn" },
+        { "company": "Frame.io", "sector": "saas-enterprise", "outcome": "acquired" }
+      ]
+    },
+    "people": [
+      { "name": "Chris Farmer", "role": "Founder & CEO" },
+      { "name": "Ilya Kirnos", "role": "Co-founder & CTO" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["seed-specialist", "pre-seed", "ai-native", "data-driven", "beacon-ai"],
+    "summary": {
+      "en": "SignalFire is a San Francisco data-driven, AI-native venture firm founded in 2013 by Chris Farmer and Ilya Kirnos. Built on its Beacon AI platform, it focuses on applied-AI founders at pre-seed and seed, writing $100K–$1M pre-seed and $1M–$5M seed checks. In April 2025 it raised over $1B, pushing AUM to ~$3B."
+    },
+    "sources": [
+      {
+        "url": "https://www.businesswire.com/news/home/20250407594969/en/AI-Native-VC-SignalFire-Raises-Over-$1B-to-Fuel-the-Next-Wave-of-Applied-AI-Startups-Pushing-AUM-to-$3B",
+        "title": "AI-Native VC SignalFire Raises Over $1B, Pushing AUM to ~$3B",
+        "publisher": "Business Wire",
+        "accessed": "2026-06-02",
+        "supports": "Over $1B raise, ~$3B AUM, applied-AI focus, fund structure",
+        "quote": "Raises Over $1B to Fuel the Next Wave of Applied AI Startups, Pushing AUM to ~$3B"
+      },
+      {
+        "url": "https://news.crunchbase.com/venture/signalfire-new-fund-seed-early-stage-applied-ai/",
+        "title": "SignalFire Closes On $1B To Invest In Applied AI",
+        "publisher": "Crunchbase News",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founders, Beacon AI, check sizes, pre-seed/seed deal counts, AUM",
+        "quote": "Founded in 2013 by Chris Farmer and Ilya Kirnos ... around 100 investments at pre-seed with a commitment of $100,000 to $1 million and 60 investments at seed for $1 million to $5 million ... brings SignalFire's assets under management to $3 billion ... Beacon AI ... scans 80 million entities and 650 million people"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "$1B+ raise and ~$3B AUM from Business Wire (official); founding, founders, Beacon AI, check sizes and deal counts from Crunchbase News. SignalFire invests through Series B but is fundamentally seed/pre-seed-led. Notable investments from secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "us-nfx",
+    "name": { "en": "NFX" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://www.nfx.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/nfx/",
+      "crunchbase": "https://www.crunchbase.com/organization/nfx-guild"
+    },
+    "capital": {
+      "aum": { "raw": "~$1B+ under management", "usd": 1000000000, "currency": "USD" },
+      "current_fund": { "raw": "$450M fund", "usd": 450000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$1M–$3M", "usd_min": 1000000, "usd_max": 3000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "fintech", "ai-ml", "web3-crypto", "biotech"],
+      "thesis": "Seed and pre-seed fund built entirely around network effects as its core thesis, led by serial founders. Leads $1M–$3M seed rounds and offers free founder tools (e.g., Signal). GPs forgo salaries to fund a large founder-support team."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Lyft", "sector": "mobility", "outcome": "IPO" },
+        { "company": "DoorDash", "sector": "logistics", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "James Currier", "role": "Founder & General Partner" },
+      { "name": "Pete Flint", "role": "General Partner" },
+      { "name": "Gigi Levy-Weiss", "role": "General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["seed-specialist", "pre-seed", "network-effects", "founder-led"],
+    "summary": {
+      "en": "NFX is a San Francisco seed and pre-seed fund founded in 2015 by serial founders led by James Currier, structured entirely around network effects. It leads $1M–$3M seed rounds, manages ~$1B+ (with a $450M fund), and provides free founder tools like Signal. GPs take no salary, reinvesting fees into a 55-person support team."
+    },
+    "sources": [
+      {
+        "url": "https://news.crunchbase.com/venture/seed-series-nfx-co-founder-and-managing-partner-james-currier/",
+        "title": "Seed Series: NFX Co-Founder and Managing Partner James Currier",
+        "publisher": "Crunchbase News",
+        "accessed": "2026-06-02",
+        "supports": "Seed-stage focus, founder, network-effects thesis",
+        "quote": "NFX is a seed-stage venture firm headquartered in San Francisco that stands for network effects ... James Currier is the founder and managing partner"
+      },
+      {
+        "url": "https://www.vcsheet.com/who/james-currier",
+        "title": "James Currier (NFX) / VC Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "Fund size, check size, AUM, team size, seed/pre-seed focus",
+        "quote": "$450M fund with a total of a billion dollars under management ... $1M to $3M checks ... seed and pre-seed fund investing one to three million in lead seeds ... staff of 55 people"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Seed focus and founder from Crunchbase News (primary-grade). Fund size ($450M), AUM (~$1B), check size and team size from VC Sheet (secondary). Founded 2015 per consensus (originally NFX Guild accelerator before becoming a seed fund). Notable investments from partners' track records.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "us-right-side-capital-management",
+    "name": { "en": "Right Side Capital Management" },
+    "aka": ["RSCM"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://www.rightsidecapital.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/right-side-capital-management/",
+      "crunchbase": "https://www.crunchbase.com/organization/right-side-capital-management"
+    },
+    "capital": {
+      "current_fund": { "raw": "$55 million (Fund VI)", "usd": 55000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "$150K–$300K into $150K–$500K rounds", "usd_min": 150000, "usd_max": 300000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Canada"],
+      "sector_focus": ["generalist", "saas-enterprise"],
+      "thesis": "Ultra-high-volume pre-seed fund focused exclusively on capital-efficient tech startups, investing at $1.5M–$4M valuations in companies with $5K–$30K+ MRR. Makes 75–100 investments per year; has done 1,800+ pre-venture deals."
+    },
+    "track_record": {
+      "portfolio_count": "1800+",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Kevin Dick", "role": "Co-founder & Managing Director" },
+      { "name": "David Lambert", "role": "Co-founder & Managing Director" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["pre-seed-specialist", "micro-vc", "high-volume", "capital-efficient"],
+    "summary": {
+      "en": "Right Side Capital Management (RSCM) is a San Francisco pre-seed fund founded in 2012 that does nothing but pre-seed, writing $150K–$300K checks into capital-efficient US and Canadian startups at $1.5M–$4M valuations. It makes 75–100 investments a year and has executed 1,800+ deals (Fund VI: $55M)."
+    },
+    "sources": [
+      {
+        "url": "https://www.rightsidecapital.com/",
+        "title": "Home | Right Side Capital Management",
+        "publisher": "Right Side Capital Management",
+        "accessed": "2026-06-02",
+        "supports": "Check sizes, round sizes, valuation criteria, MRR criteria, geo focus",
+        "quote": "We write $150k - $300k checks into $150k - $500k round sizes ... We typically invest at $1.5M - $4M valuations in companies with $5k - $30k+ MRR ... We primarily invest in US and Canadian startups"
+      },
+      {
+        "url": "https://superscout.co/investor/right-side-capital-management",
+        "title": "Right Side Capital Management: The Early Stage Founder's Guide",
+        "publisher": "Superscout",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, HQ, Fund VI size, investment pace, deal count",
+        "quote": "founded in 2012 and is headquartered in San Francisco, California ... Fund VI, has $55 million in committed capital ... 75 - 100 investments per year ... 1,833 investments"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Check sizes, round/valuation/MRR criteria and geo focus from official site (primary). Founding year, Fund VI size and deal count from Superscout (secondary). Founders Kevin Dick and David Lambert per Crunchbase/secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  }
+]

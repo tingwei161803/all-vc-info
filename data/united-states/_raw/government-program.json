@@ -1,0 +1,860 @@
+[
+  {
+    "id": "us-in-q-tel",
+    "name": { "en": "In-Q-Tel" },
+    "aka": ["IQT"],
+    "type": "government-program",
+    "subtypes": ["cvc", "vc"],
+    "status": "active",
+    "founded_year": 1999,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Tysons, Virginia",
+    "website": "https://www.iqt.org/",
+    "offices": [
+      { "country": "United States", "city": "Tysons, Virginia" },
+      { "country": "United States", "city": "Silicon Valley" },
+      { "country": "United States", "city": "Boston" },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/in-q-tel",
+      "other": ["https://en.wikipedia.org/wiki/In-Q-Tel"]
+    },
+    "capital": {
+      "aum": { "raw": "~$1B net assets (est. $1.8B+ invested since 1999)", "usd": null, "currency": "USD" },
+      "current_fund": { "raw": "~$100M/year taxpayer funding", "usd": 100000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "all"],
+      "geo_focus": ["United States", "allied nations"],
+      "sector_focus": ["deeptech", "ai-ml", "cybersecurity", "spacetech", "biotech", "hardware-semiconductor", "climate-energy"],
+      "thesis": "Not-for-profit strategic investor that bridges the U.S. intelligence community and national-security agencies to commercial frontier technology; invests to give agencies early access to cutting-edge capabilities."
+    },
+    "track_record": {
+      "portfolio_count": "800+",
+      "notable_investments": [
+        { "company": "Palantir", "sector": "data analytics", "outcome": "IPO" },
+        { "company": "Keyhole (Google Earth)", "sector": "geospatial", "outcome": "acquired" },
+        { "company": "Anduril", "sector": "defense", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Steve Bowsher", "role": "CEO" },
+      { "name": "Michael Crow", "role": "Board Chair" }
+    ],
+    "team_size": "~200",
+    "application": {
+      "how_to_apply": "Companies are sourced and reviewed by IQT investment teams; submit through iqt.org contact channels.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["national-security", "intelligence-community", "strategic-investor", "non-profit"],
+    "summary": {
+      "en": "In-Q-Tel is the not-for-profit strategic investment arm originally created by the CIA in 1999 to give the U.S. intelligence and national-security communities early access to commercial frontier technologies. It has backed 800+ companies including Palantir and the firm behind Google Earth."
+    },
+    "sources": [
+      {
+        "url": "https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/",
+        "title": "Inside the CIA-backed venture fund that helped launch Palantir and Google Earth",
+        "publisher": "Fortune",
+        "accessed": "2026-06-02",
+        "supports": "Founding, HQ, assets, taxpayer funding, portfolio count, notable investments, CEO, board chair, team size",
+        "quote": "Founded: 1999 by the CIA ... Headquarters: Tysons, Virginia ... Current assets: Roughly $1 billion ... Annual taxpayer funding: Around $100 million per year ... Portfolio companies launched: \"more than 800 companies\" ... CEO: Steve Bowsher ... Board Chair: Michael Crow ... Palantir (valued at $250 billion) ... Anduril (valued at $14 billion) ... Keyhole/Google Earth (2003 investment)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/In-Q-Tel",
+        "title": "In-Q-Tel",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding date, structure, HQ, function",
+        "quote": "Founded September 29, 1999 ... Independently American not-for-profit venture capital firm ... organized as a 501(c)(3) ... Located in Tysons, Virginia ... invests in companies to keep the Central Intelligence Agency, and other intelligence agencies, equipped with the latest in information technology"
+      },
+      {
+        "url": "https://www.iqt.org/",
+        "title": "In-Q-Tel official site",
+        "publisher": "In-Q-Tel",
+        "accessed": "2026-06-02",
+        "supports": "Mission, $1B+ valued portfolio companies, sectors",
+        "quote": "a unique—and uniquely powerful—not-for-profit global investment platform that accelerates the introduction of groundbreaking technologies ... 50+ companies now valued over $1B"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size is not officially disclosed; ~$1B net assets and ~$1.8B invested are Fortune estimates from tax filings. Portfolio count ranges 325 listed (2016) to 800+ launched (2025).",
+    "last_updated": "2026-06-02",
+    "researched_by": "us-government-program"
+  },
+  {
+    "id": "us-sbir-sttr-program",
+    "name": { "en": "SBIR / STTR (Small Business Innovation Research / Small Business Technology Transfer)" },
+    "aka": ["America's Seed Fund", "SBIR", "STTR"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 1982,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Washington, D.C.",
+    "website": "https://www.sbir.gov/",
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/Small_Business_Innovation_Research"]
+    },
+    "capital": {
+      "aum": { "raw": "$70B+ awarded since 1982; $4B+/year across agencies", "usd": null, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["deeptech", "ai-ml", "biotech", "healthtech", "spacetech", "climate-energy", "cybersecurity"],
+      "thesis": "Congressionally mandated, equity-free federal R&D funding program; 11 participating agencies (DoD, NIH, NASA, DOE, NSF, etc.) award non-dilutive grants/contracts to U.S. small businesses to develop and commercialize innovative technology."
+    },
+    "program": {
+      "investment": { "raw": "Phase I up to $323,090; Phase II up to $2,153,927", "usd": 2153927, "currency": "USD" },
+      "equity_taken_pct": 0,
+      "eligibility": "U.S.-owned, for-profit small businesses (generally <500 employees) meeting SBA size standards.",
+      "application_url": "https://www.sbir.gov/"
+    },
+    "track_record": {
+      "portfolio_count": "~400 startups funded per year (NSF alone); thousands across all agencies"
+    },
+    "tags": ["federal", "non-dilutive", "equity-free", "r-and-d-grant", "congressionally-mandated"],
+    "summary": {
+      "en": "SBIR and STTR are the U.S. government's flagship congressionally mandated programs (since 1982) providing equity-free R&D funding to small businesses through 11 federal agencies. Phase I awards run up to ~$323K and Phase II up to ~$2.15M without SBA approval."
+    },
+    "sources": [
+      {
+        "url": "https://www.sbir.gov/about",
+        "title": "About SBIR and STTR",
+        "publisher": "SBIR.gov (U.S. SBA)",
+        "accessed": "2026-06-02",
+        "supports": "Equity-free, year established, agency count, phase award caps",
+        "quote": "SBIR provides equity free funding through federal agencies to American small businesses ... Since 1982, SBIR funding has moved countless ideas from tiny sparks into transformative technologies ... funded through 11 participating federal agencies ... agencies may issue a Phase I award (including modifications) up to $ 323,090 and a Phase II award (including modifications) up to $2,153,927 without seeking SBA approval."
+      },
+      {
+        "url": "https://seedfund.nsf.gov/our-program/",
+        "title": "About America's Seed Fund powered by NSF",
+        "publisher": "National Science Foundation",
+        "accessed": "2026-06-02",
+        "supports": "$70B historical and $4B/year context, ~400 startups/year (NSF portion)",
+        "quote": "$200+ million in research and development (R&D) funding to about 400 startups across the United States"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "SBIR/STTR is a cross-agency federal program, not a single fund. Phase amounts shown are the SBA-approval caps as of April 2026; individual agencies set their own (typically lower) baseline amounts. $70B+ historical and $4B+/year figures are widely cited secondary aggregates.",
+    "last_updated": "2026-06-02",
+    "researched_by": "us-government-program"
+  },
+  {
+    "id": "us-nsf-seed-fund",
+    "name": { "en": "America's Seed Fund (NSF SBIR/STTR)" },
+    "aka": ["NSF SBIR", "NSF SBIR/STTR"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": null,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Alexandria, Virginia",
+    "website": "https://seedfund.nsf.gov/",
+    "links": {
+      "other": ["https://www.nsf.gov/science-matters/nsf-101-americas-seed-fund"]
+    },
+    "capital": {
+      "aum": { "raw": "$200M+ awarded per year", "usd": 200000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["deeptech", "ai-ml", "biotech", "climate-energy", "hardware-semiconductor", "robotics"],
+      "thesis": "The National Science Foundation's SBIR/STTR program funds high-risk, high-impact deep-tech startups with non-dilutive (zero-equity) grants to translate research into commercial products."
+    },
+    "program": {
+      "investment": { "raw": "Phase I up to $305,000; Phase II up to $1,250,000 (+$500K supplements)", "usd": 1250000, "currency": "USD" },
+      "length_weeks": null,
+      "equity_taken_pct": 0,
+      "eligibility": "U.S. small businesses developing deep-tech innovations; Phase I open to first-time applicants.",
+      "application_url": "https://seedfund.nsf.gov/"
+    },
+    "track_record": {
+      "portfolio_count": "~400 startups per year"
+    },
+    "tags": ["federal", "non-dilutive", "deeptech", "nsf"],
+    "summary": {
+      "en": "America's Seed Fund powered by NSF awards $200M+ per year in equity-free grants to ~400 U.S. deep-tech startups. Phase I provides up to $305K and Phase II up to $1.25M (plus supplements), taking 0% equity."
+    },
+    "sources": [
+      {
+        "url": "https://seedfund.nsf.gov/our-program/",
+        "title": "About America's Seed Fund powered by NSF",
+        "publisher": "National Science Foundation",
+        "accessed": "2026-06-02",
+        "supports": "Phase I/II amounts, equity, annual funding and startup count",
+        "quote": "$305,000 in non-dilutive funding ... over six to 18 months ... up to $1,250,000 over the course of 24 months. During that second award, you can apply for supplements that may add up to more than $500,000 ... 0% equity ... $200+ million in research and development (R&D) funding to about 400 startups across the United States"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year of NSF's SBIR program not separately confirmed (NSF began SBIR participation in the 1980s). Amounts current as of 2026.",
+    "last_updated": "2026-06-02",
+    "researched_by": "us-government-program"
+  },
+  {
+    "id": "us-afwerx",
+    "name": { "en": "AFWERX (U.S. Air Force / Space Force SBIR/STTR)" },
+    "aka": ["AFWERX SBIR", "Air Force SBIR/STTR"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Dayton, Ohio",
+    "website": "https://afwerx.com/",
+    "offices": [
+      { "country": "United States", "city": "Dayton, Ohio (Wright-Patterson AFB)" },
+      { "country": "United States", "city": "Las Vegas, Nevada" },
+      { "country": "United States", "city": "Austin, Texas" }
+    ],
+    "links": {
+      "other": ["https://afwerx.com/divisions/sbir-sttr/sbir-sttr-overview/"]
+    },
+    "capital": {
+      "aum": { "raw": "~10,400 SBIR/STTR contracts worth $7.24B+", "usd": 7240000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["deeptech", "spacetech", "ai-ml", "robotics", "cybersecurity", "hardware-semiconductor"],
+      "thesis": "AFWERX manages the Department of the Air Force SBIR/STTR programs, pioneering the 'Open Topic' approach to fund dual-use commercial technologies for Air Force and Space Force missions."
+    },
+    "program": {
+      "investment": { "raw": "Phase I up to $75K (SBIR)/$110K (STTR); Phase II / D2P2 up to $1.25M (SBIR)/$1.8M (STTR)", "usd": 1800000, "currency": "USD" },
+      "equity_taken_pct": 0,
+      "eligibility": "U.S. small businesses; Open Topic accepts any dual-use technology relevant to the Air/Space Force.",
+      "application_url": "https://afwerx.com/get-funded/"
+    },
+    "tags": ["federal", "defense", "air-force", "space-force", "open-topic", "non-dilutive", "dual-use"],
+    "summary": {
+      "en": "AFWERX, established in 2017, runs the Department of the Air Force's SBIR/STTR program and is known for the 2018 'Open Topic' model. It has awarded roughly 10,400 SBIR/STTR contracts worth more than $7.24 billion to startups and small businesses."
+    },
+    "sources": [
+      {
+        "url": "https://afwerx.com/get-funded/",
+        "title": "Get Funded - AFWERX",
+        "publisher": "AFWERX (U.S. Air Force)",
+        "accessed": "2026-06-02",
+        "supports": "Total contracts and dollar value, management of DAF SBIR/STTR",
+        "quote": "awarding approximately 10,400 SBIR/STTR contracts worth more than $7.24 billion ... the Department of the Air Force's Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) programs"
+      },
+      {
+        "url": "https://afwerx.com/divisions/sbir-sttr/sbir-sttr-overview/",
+        "title": "SBIR/STTR Overview - AFWERX",
+        "publisher": "AFWERX (U.S. Air Force)",
+        "accessed": "2026-06-02",
+        "supports": "Open Topic avenues, program mission",
+        "quote": "The AFWERX SBIR/STTR program funds emerging technologies to deliver Air Force and Space Force capabilities ... There are three avenues to get involved with the DAF SBIR/STTR program: Open Topic, Specific Topic and the STRATFI/TACFI program."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2017 and phase award amounts come from reputable secondary summaries (Greentown Labs, consulting blogs); contract count/value confirmed on official AFWERX site. Exact phase caps vary by solicitation.",
+    "last_updated": "2026-06-02",
+    "researched_by": "us-government-program"
+  },
+  {
+    "id": "us-defense-innovation-unit",
+    "name": { "en": "Defense Innovation Unit (DIU)" },
+    "aka": ["DIU", "DIUx"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Mountain View, California",
+    "website": "https://www.diu.mil/",
+    "offices": [
+      { "country": "United States", "city": "Mountain View, California" },
+      { "country": "United States", "city": "Austin, Texas" },
+      { "country": "United States", "city": "Boston, Massachusetts" },
+      { "country": "United States", "city": "Chicago, Illinois" },
+      { "country": "United States", "city": "Washington, D.C. (Pentagon)" }
+    ],
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/Defense_Innovation_Unit"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml", "robotics", "cybersecurity", "spacetech", "climate-energy", "deeptech"],
+      "thesis": "DIU is the Department of Defense organization focused exclusively on accelerating the adoption and scaling of commercial dual-use technology across the U.S. military, using Other Transaction agreements to contract with startups at commercial speed."
+    },
+    "program": {
+      "length_weeks": null,
+      "eligibility": "Commercial technology companies (including startups) with dual-use solutions to DoD problem sets; engages via solicitations and the Other Transaction process.",
+      "application_url": "https://www.diu.mil/work-with-us"
+    },
+    "tags": ["federal", "defense", "dual-use", "other-transaction", "commercial-technology"],
+    "summary": {
+      "en": "The Defense Innovation Unit, established in 2015 (originally DIUx) under SecDef Ash Carter and headquartered in Silicon Valley, is the only DoD organization focused exclusively on fielding and scaling commercial technology across the U.S. military. It works across seven technology areas including AI, autonomy, space, and energy."
+    },
+    "sources": [
+      {
+        "url": "https://www.diu.mil/about",
+        "title": "About DIU",
+        "publisher": "Defense Innovation Unit",
+        "accessed": "2026-06-02",
+        "supports": "Mission, exclusivity, technology areas, delivery model",
+        "quote": "DIU strengthens our national security by accelerating the adoption of leading commercial technology throughout the military ... DIU is the only DoW organization focused exclusively on fielding and scaling commercial technology across the U.S. military at commercial speeds ... Artificial Intelligence, Autonomy, Cyber and Telecom, Emerging Technology, Energy, Human Systems, and Space"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Defense_Innovation_Unit",
+        "title": "Defense Innovation Unit",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding year 2015, founder Ash Carter, HQ Mountain View, original name DIUx",
+        "quote": "The Secretary of Defense established DIU—then known as the Defense Innovation Unit Experimental, or DIUx—in April 2015 ... founded in 2015 by then-Secretary of Defense Ash Carter ... headquartered in Mountain View, California"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "DIU contracts via Other Transaction agreements rather than taking equity; it is not a fund. Official 'about' page references the renamed 'Department of War' nomenclature.",
+    "last_updated": "2026-06-02",
+    "researched_by": "us-government-program"
+  },
+  {
+    "id": "us-darpa",
+    "name": { "en": "Defense Advanced Research Projects Agency (DARPA)" },
+    "aka": ["DARPA", "ARPA"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 1958,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Arlington, Virginia",
+    "website": "https://www.darpa.mil/",
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/DARPA"]
+    },
+    "capital": {
+      "aum": { "raw": "Budget usually over $4 billion/year", "usd": 4000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["deeptech", "ai-ml", "robotics", "spacetech", "cybersecurity", "biotech", "hardware-semiconductor"],
+      "thesis": "DARPA funds high-risk, high-reward breakthrough research (via grants and contracts to companies, universities, and labs) to develop emerging technologies for national security; its work seeded the internet, GPS, and stealth."
+    },
+    "program": {
+      "eligibility": "Companies, universities, and research organizations responding to Broad Agency Announcements and program solicitations.",
+      "application_url": "https://www.darpa.mil/work-with-us/opportunities"
+    },
+    "tags": ["federal", "defense", "r-and-d", "breakthrough-research", "non-dilutive"],
+    "summary": {
+      "en": "DARPA, created in 1958 after Sputnik, is the U.S. Defense Department R&D agency that funds breakthrough technologies via grants and contracts (budget usually over $4B/year). It is not an equity investor but a major non-dilutive funder of deep-tech companies, seeding technologies like the internet and stealth."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/DARPA",
+        "title": "DARPA",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding date 1958, budget, role, contributions",
+        "quote": "created on February 7, 1958, by President Dwight D. Eisenhower in response to the Soviet's launch of Sputnik 1 ... The agency's budget is usually over $4 billion ... contributions that have led to the development of both military and commercial technologies, such as precision guided missiles, stealth, the internet, and personal electronics."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "DARPA is an R&D funding agency, not a venture investor (no equity). Included as a major non-dilutive government funder of deep-tech startups via grants/contracts.",
+    "last_updated": "2026-06-02",
+    "researched_by": "us-government-program"
+  },
+  {
+    "id": "us-national-security-innovation-network",
+    "name": { "en": "National Security Innovation Network (NSIN)" },
+    "aka": ["NSIN", "MD5"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Arlington, Virginia",
+    "website": "https://nsin.mil/",
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/National_Security_Innovation_Network"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["deeptech", "ai-ml", "robotics", "cybersecurity", "spacetech"],
+      "thesis": "A DoD program office under the Defense Innovation Unit that builds communities of innovators (entrepreneurs, academics, service members) to solve national-security problems and commercialize government-developed technology."
+    },
+    "program": {
+      "length_weeks": 20,
+      "investment": { "raw": "$50,000 grants to Foundry winners", "usd": 50000, "currency": "USD" },
+      "eligibility": "Entrepreneurs/teams who match with DoD-developed technologies (Foundry); academic and startup partners across NSIN programs.",
+      "application_url": "https://nsin.mil/foundry/"
+    },
+    "tags": ["federal", "defense", "tech-transfer", "startup-studio", "diu"],
+    "summary": {
+      "en": "NSIN (formerly MD5), launched in 2016 and now a program office under the Defense Innovation Unit, connects entrepreneurs, academics, and service members to solve national-security problems. Its Foundry is a roughly five-month startup studio that matches entrepreneurs with DoD-developed technologies, awarding $50,000 commercialization grants to winners."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/National_Security_Innovation_Network",
+        "title": "National Security Innovation Network",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding/launch, MD5 origin, DIU parent, mission",
+        "quote": "previously named the MD5 National Security Technology Accelerator ... MD5 launched on October 14, 2016 ... On May 6, 2019, the program was renamed from MD5 to NSIN ... transferred into the Defense Innovation Unit ... seeks to create new communities of innovators to solve national security problems"
+      },
+      {
+        "url": "https://nsin.mil/foundry/",
+        "title": "Foundry | National Security Innovation Network",
+        "publisher": "NSIN",
+        "accessed": "2026-06-02",
+        "supports": "Foundry five-month startup studio, tech transfer model",
+        "quote": "Foundry is a five-month startup studio that increases technology transfer and transition of U.S. Government inventions by matching technologies and inventors with entrepreneurs interested in starting a high-tech company."
+      },
+      {
+        "url": "https://nsin.mil/news/2025-01-03-foundrywinners/",
+        "title": "Entrepreneurs Awarded $50,000 for Start-up Commercialization",
+        "publisher": "NSIN",
+        "accessed": "2026-06-02",
+        "supports": "$50,000 Foundry award",
+        "quote": "Entrepreneurs Awarded $50,000 for Start-up Commercialization"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Foundry length stated as 'five-month' (~20 weeks) on the official site. NSIN is a program office, not an equity investor.",
+    "last_updated": "2026-06-02",
+    "researched_by": "us-government-program"
+  },
+  {
+    "id": "us-sbic-program",
+    "name": { "en": "Small Business Investment Company (SBIC) Program" },
+    "aka": ["SBIC"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 1958,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Washington, D.C.",
+    "website": "https://www.sba.gov/funding-programs/investment-capital",
+    "links": {
+      "other": ["https://www.sba.gov/partners/sbics/apply-be-sbic"]
+    },
+    "capital": {
+      "aum": { "raw": "$130B+ invested since 1958 across ~200,000 businesses; 318 licensed funds as of Sept 30, 2024", "usd": 130000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["growth", "series-b", "series-c-plus", "all"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist"],
+      "thesis": "An SBA program (since 1958) that licenses privately owned and managed investment funds (SBICs) and amplifies their private capital with SBA-guaranteed leverage (debentures), expanding capital available to U.S. small businesses."
+    },
+    "program": {
+      "eligibility": "Fund managers apply to the SBA for an SBIC license; SBICs then finance qualifying U.S. small businesses with their private capital plus SBA-guaranteed leverage.",
+      "application_url": "https://www.sba.gov/partners/sbics/apply-be-sbic"
+    },
+    "tags": ["federal", "sba", "leverage", "debenture", "fund-of-funds-structure"],
+    "summary": {
+      "en": "The SBA's Small Business Investment Company program (created by the Small Business Investment Act of 1958) licenses private funds and guarantees leverage (debentures) so they can invest more in U.S. small businesses. Since 1958 SBICs have invested some $130 billion across nearly 200,000 small businesses; 318 funds were licensed as of Sept 30, 2024."
+    },
+    "sources": [
+      {
+        "url": "https://carta.com/learn/private-funds/sbic/",
+        "title": "What is a Small Business Investment Company (SBIC)?",
+        "publisher": "Carta",
+        "accessed": "2026-06-02",
+        "supports": "1958 founding, leverage/debenture mechanism, 318 funds, $130B invested",
+        "quote": "The SBIC program was created as part of the Small Business Investment Act of 1958 ... the SBA guarantees the debenture (loan obligation) ... As of Sept. 30, 2024, there were 318 licensed SBIC funds within the U.S. Since its founding, SBICs have combined to invest some $130 billion across nearly 200,000 small businesses, according to the SBA."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "SBIC is a licensing/leverage program, not a single fund; figures are SBA aggregates as reported by Carta. The SBA does not itself take equity in portfolio companies.",
+    "last_updated": "2026-06-02",
+    "researched_by": "us-government-program"
+  },
+  {
+    "id": "us-ssbci",
+    "name": { "en": "State Small Business Credit Initiative (SSBCI)" },
+    "aka": ["SSBCI"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2010,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Washington, D.C.",
+    "website": "https://home.treasury.gov/policy-issues/small-business-programs/state-small-business-credit-initiative-ssbci",
+    "links": {
+      "other": ["https://nvca.org/ssbci-resources/"]
+    },
+    "capital": {
+      "aum": { "raw": "~$10 billion (American Rescue Plan Act 2021); $3B+ across ~84 state VC programs", "usd": 10000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "all"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist"],
+      "thesis": "A U.S. Treasury program that channels federal funds to states, territories, and Tribal governments to run tailored small-business capital programs—including equity/venture capital programs—aiming to catalyze up to $10 of private investment per $1 of federal funding."
+    },
+    "program": {
+      "eligibility": "States, D.C., territories, and Tribal governments design the programs; small businesses and entrepreneurs access capital through those state-run venture/loan programs.",
+      "application_url": "https://home.treasury.gov/policy-issues/small-business-programs/state-small-business-credit-initiative-ssbci"
+    },
+    "tags": ["federal", "treasury", "state-administered", "venture-capital", "american-rescue-plan"],
+    "summary": {
+      "en": "SSBCI is a nearly $10 billion U.S. Treasury program (relaunched under the 2021 American Rescue Plan Act, originally created in 2010) that funds states, territories, and Tribal governments to run small-business capital programs. States have stood up roughly 84 venture-capital programs representing over $3 billion in federal investment."
+    },
+    "sources": [
+      {
+        "url": "https://home.treasury.gov/policy-issues/small-business-programs/state-small-business-credit-initiative-ssbci",
+        "title": "State Small Business Credit Initiative (SSBCI)",
+        "publisher": "U.S. Department of the Treasury",
+        "accessed": "2026-06-02",
+        "supports": "~$10B size, ARPA 2021 funding, 2010 origin, VC component, leverage ratio, ~84 VC programs",
+        "quote": "The State Small Business Credit Initiative (SSBCI) is a nearly $10 billion program ... On March 11, 2021, President Biden signed The American Rescue Plan Act, which provided $10 billion to fund the State Small Business Credit Initiative (SSBCI) ... the original program was established as part of the Small Business Jobs Act of 2010 ... equity/venture capital ... catalyze up to $10 of private investment for every $1 of SSBCI Capital Program funding ... States and territories have stood up approximately 84 venture capital programs supported by SSBCI across the country, representing over $3 billion in federal investment."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "SSBCI is a federal funding mechanism administered by states, not a single direct fund. Quotes drawn from Treasury page (fetched via search summary; direct fetch timed out).",
+    "last_updated": "2026-06-02",
+    "researched_by": "us-government-program"
+  },
+  {
+    "id": "us-massventures",
+    "name": { "en": "MassVentures" },
+    "aka": ["Massachusetts Technology Development Corporation", "MTDC"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 1978,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Boston, Massachusetts",
+    "website": "https://www.mass-ventures.com/",
+    "links": {
+      "other": ["https://www.mass-ventures.com/start-program-info"]
+    },
+    "capital": {
+      "aum": { "raw": "$115M+ invested in 185+ companies since 1978", "usd": 115000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Massachusetts"],
+      "sector_focus": ["deeptech", "ai-ml", "saas-enterprise", "biotech", "climate-energy"],
+      "thesis": "Massachusetts' quasi-public venture capital agency, providing seed/early-stage equity (MV Capital) and the non-dilutive START grant program to commercialize SBIR/STTR research into Massachusetts companies and jobs."
+    },
+    "program": {
+      "investment": { "raw": "START grants: $100,000 to $500,000 (non-dilutive)", "usd": 500000, "currency": "USD" },
+      "equity_taken_pct": 0,
+      "eligibility": "Massachusetts-based small businesses that have received an SBIR/STTR Phase II award (START program).",
+      "application_url": "https://www.mass-ventures.com/start-program-info"
+    },
+    "track_record": {
+      "portfolio_count": "185+",
+      "notable_investments": []
+    },
+    "tags": ["state", "massachusetts", "quasi-public", "sbir-bridge", "non-dilutive-grant"],
+    "summary": {
+      "en": "MassVentures is Massachusetts' quasi-public venture capital agency, founded in 1978, which has invested over $115 million in 185+ companies. Its START program provides $100K–$500K in non-dilutive grants to MA-based SBIR/STTR Phase II companies; since 2012 START has granted $41.7M to 141 companies."
+    },
+    "sources": [
+      {
+        "url": "https://www.mass-ventures.com/start-program-info",
+        "title": "SBIR START Grant Program by MassVentures",
+        "publisher": "MassVentures",
+        "accessed": "2026-06-02",
+        "supports": "START grant amounts, eligibility (MA, SBIR Phase II), total START grants",
+        "quote": "Since 2012, MassVentures' START Program has granted $41.7 million to 141 companies ... 16 'Round 1' grants of $100,000 each; 7 'Round 2' grants of $200,000 each...3 'Round 3' opportunities: up to $500,000 each ... MA-based, SBIR Phase II companies"
+      },
+      {
+        "url": "https://www.mass-ventures.com/",
+        "title": "MassVentures - Fueling Early Stage Companies in Massachusetts",
+        "publisher": "MassVentures",
+        "accessed": "2026-06-02",
+        "supports": "Founding 1978, $115M invested in 185+ companies",
+        "quote": "Since its founding in 1978, MassVentures' venture fund has invested over $115 million in more than 185 companies"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "$115M/185 companies and 1978 founding from MassVentures site/search summary. START figures from official program page.",
+    "last_updated": "2026-06-02",
+    "researched_by": "us-government-program"
+  },
+  {
+    "id": "us-new-york-ventures",
+    "name": { "en": "New York Ventures (Empire State Development)" },
+    "aka": ["NY Ventures", "Empire State Development Venture Capital", "NYS Innovation Venture Capital Fund"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York, New York",
+    "website": "https://esd.ny.gov/venture-capital",
+    "links": {
+      "other": ["https://esd.ny.gov/new-york-state-innovation-venture-capital-fund"]
+    },
+    "capital": {
+      "aum": { "raw": "$300M+ deployed; $106M+ invested matched by $715M+ private", "usd": 300000000, "currency": "USD" },
+      "funds": [
+        { "name": "NYS Innovation Venture Capital Fund", "vintage_year": null, "size": { "raw": "$135M+", "usd": 135000000, "currency": "USD" } },
+        { "name": "Pre-Seed and Seed Matching Fund", "vintage_year": null, "size": { "raw": "$40M", "usd": 40000000, "currency": "USD" } },
+        { "name": "Emerging and Regional Partner Fund", "vintage_year": null, "size": { "raw": "$102M", "usd": 102000000, "currency": "USD" } },
+        { "name": "Community and Regional Partner Fund", "vintage_year": null, "size": { "raw": "$52M", "usd": 52000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b"],
+      "check_size": { "raw": "Pre-Seed/Seed Matching: $50,000 to $250,000", "usd_min": 50000, "usd_max": 250000 },
+      "geo_focus": ["New York State"],
+      "sector_focus": ["climate-energy", "healthtech", "biotech", "agritech", "ai-ml", "saas-enterprise"],
+      "thesis": "New York State's public venture capital arm (within Empire State Development) providing seed-to-Series B direct and indirect (fund-of-funds) capital to high-growth NY startups, with emphasis on diverse founders, emerging managers, and underserved regions."
+    },
+    "program": {
+      "investment": { "raw": "Pre-Seed/Seed Matching: $50K–$250K (1:1 private match required)", "usd": 250000, "currency": "USD" },
+      "eligibility": "Seed through Series B technology companies across New York State; matching fund requires private co-investment.",
+      "application_url": "https://nyventuresapply.esd.ny.gov/submit"
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "tags": ["state", "new-york", "public-venture", "ssbci-funded", "diverse-founders"],
+    "summary": {
+      "en": "New York Ventures, the venture capital arm of Empire State Development, deploys over $300 million of public capital through direct and indirect equity programs for seed–Series B NY startups. It comprises a $135M+ direct fund, a $40M matching fund, and ~$154M in emerging-manager/accelerator funds; NYS has invested $106M+ matched by $715M+ private capital."
+    },
+    "sources": [
+      {
+        "url": "https://esd.ny.gov/venture-capital",
+        "title": "Venture Capital | Empire State Development",
+        "publisher": "Empire State Development (New York State)",
+        "accessed": "2026-06-02",
+        "supports": "Total deployed, fund sizes, investment/match figures",
+        "quote": "New York Ventures is actively deploying over $300 million of capital ... $135+ million fund for investing in venture-backable startups from Seed through Series B ... $40 million fund ... $102 million fund ... $52 million fund ... $106M+ invested by NYS, matched by $715M+ from the private sector"
+      },
+      {
+        "url": "https://esd.ny.gov/pre-seed-and-seed-matching-fund-program",
+        "title": "Pre-Seed and Seed Matching Fund Program",
+        "publisher": "Empire State Development (New York State)",
+        "accessed": "2026-06-02",
+        "supports": "Check size $50K-$250K and 1:1 private match",
+        "quote": "equity investments from $50,000 up to $250,000 with matching from the private sector (there must be at least $1 of qualified private sector investment for every $1 NY Ventures invests)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund sizes vary slightly across ESD pages (e.g., $100M vs $135M for the Innovation VC Fund as it grew with SSBCI funds); used the figures on the current venture-capital landing page.",
+    "last_updated": "2026-06-02",
+    "researched_by": "us-government-program"
+  },
+  {
+    "id": "us-invest-nebraska",
+    "name": { "en": "Invest Nebraska" },
+    "aka": ["Invest Nebraska Corporation"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Lincoln, Nebraska",
+    "website": "https://www.investnebraska.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/invest-nebraska-corporation"
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Nebraska"],
+      "sector_focus": ["generalist", "agritech", "saas-enterprise", "fintech"],
+      "thesis": "A nonprofit (501(c)(3)) venture development organization that leads seed rounds and provides financial and operational support to high-growth Nebraska companies, partnering with the state's Department of Economic Development under the Business Innovation Act."
+    },
+    "program": {
+      "eligibility": "Nebraska-based high-growth companies; Nebraska Seed Investment Fund companies must have <500 employees with funds expended within 24 months.",
+      "application_url": "https://www.investnebraska.com/our-funds"
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "tags": ["state-partner", "nebraska", "nonprofit", "seed", "venture-development"],
+    "summary": {
+      "en": "Invest Nebraska is a nonprofit venture development organization that leads seed rounds and supports high-growth Nebraska startups, partnering with the Nebraska Department of Economic Development to deploy Business Innovation Act funds (Nebraska Seed Investment Fund). It was named CB Insights' most active venture investor in the state."
+    },
+    "sources": [
+      {
+        "url": "https://www.investnebraska.com/our-funds",
+        "title": "Our Funds | Invest Nebraska",
+        "publisher": "Invest Nebraska",
+        "accessed": "2026-06-02",
+        "supports": "State partnership (Business Innovation Act), seed/debt/loan funds, eligibility",
+        "quote": "Invest Nebraska partners with The Nebraska Department of Economic Development to fund companies under the Business Innovation Act ... An eligible business must have less than 500 employees and funds must be expended within 24 months of the awarding decision."
+      },
+      {
+        "url": "https://www.investnebraska.com/",
+        "title": "Home | Invest Nebraska",
+        "publisher": "Invest Nebraska",
+        "accessed": "2026-06-02",
+        "supports": "Nonprofit 501(c)(3), leads seed rounds, most active in state",
+        "quote": "We lead seed rounds, partner with other investments groups, and provide support to our portfolio companies and the broader startup ecosystem ... recognized by CB Insights as the most active venture investor in the state"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year and fund sizes not disclosed on the official site. State-backed via DED/Business Innovation Act partnership; classified as government-program for its public-fund administration role.",
+    "last_updated": "2026-06-02",
+    "researched_by": "us-government-program"
+  },
+  {
+    "id": "us-launch-ny",
+    "name": { "en": "Launch NY" },
+    "aka": ["Launch New York, Inc."],
+    "type": "government-program",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Buffalo, New York",
+    "website": "https://launchny.org/",
+    "links": {
+      "other": ["https://esd.ny.gov/esd-media-center/press-releases/esd-awards-1-million-grant-to-launch-ny-technical-assistance-startups-statewide"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Upstate New York"],
+      "sector_focus": ["generalist", "biotech", "healthtech", "saas-enterprise"],
+      "thesis": "A nonprofit venture development organization and U.S. Treasury-designated CDFI serving 36 Upstate New York counties, providing free mentoring plus seed capital to high-growth startups, with a focus on inclusive growth in low-income communities."
+    },
+    "program": {
+      "eligibility": "High-growth startups across 36 Upstate New York counties; free mentoring and seed-fund investment.",
+      "application_url": "https://launchny.org/"
+    },
+    "track_record": {
+      "portfolio_count": "110+ funded; 1,900+ mentored"
+    },
+    "tags": ["nonprofit", "new-york", "cdfi", "seed-fund", "inclusive", "esd-funded"],
+    "summary": {
+      "en": "Launch NY is a nonprofit venture development organization and Treasury-designated CDFI serving 36 Upstate New York counties. Since 2012 it has mentored 1,900+ companies and funded 110+, and is among the top five nonprofit seed funds nationwide; it receives Empire State Development grants and SSBCI-related support."
+    },
+    "sources": [
+      {
+        "url": "https://launchny.org/",
+        "title": "Home - Launch NY",
+        "publisher": "Launch NY",
+        "accessed": "2026-06-02",
+        "supports": "Nonprofit/CDFI status, 36 counties, companies mentored/funded, jobs",
+        "quote": "the only nonprofit venture development organization and U.S. Treasury-designated Community Development Financial Institution (CDFI) serving startups across 36 Upstate New York counties ... mentored 1,900+ companies, funded 110+, and created 9,900+ jobs"
+      },
+      {
+        "url": "https://esd.ny.gov/esd-media-center/press-releases/esd-awards-1-million-grant-to-launch-ny-technical-assistance-startups-statewide",
+        "title": "ESD Awards $1 Million Grant To Launch NY",
+        "publisher": "Empire State Development",
+        "accessed": "2026-06-02",
+        "supports": "Public (ESD/state) funding relationship",
+        "quote": "Empire State Development Awards $1 Million Grant To Launch NY To Provide Technical Assistance For Startups Statewide"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Launch NY is an independent nonprofit but is substantially state-funded (Empire State Development grants) and acts as a public-purpose seed investor; included for its public/state-backed role. Founding ~2012.",
+    "last_updated": "2026-06-02",
+    "researched_by": "us-government-program"
+  },
+  {
+    "id": "us-ben-franklin-technology-partners",
+    "name": { "en": "Ben Franklin Technology Partners" },
+    "aka": ["BFTP"],
+    "type": "government-program",
+    "subtypes": ["vc", "incubator"],
+    "status": "active",
+    "founded_year": 1982,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Harrisburg, Pennsylvania",
+    "website": "https://benfranklin.org/",
+    "offices": [
+      { "country": "United States", "city": "Bethlehem, Pennsylvania" },
+      { "country": "United States", "city": "Philadelphia, Pennsylvania" },
+      { "country": "United States", "city": "Pittsburgh, Pennsylvania" },
+      { "country": "United States", "city": "State College, Pennsylvania" }
+    ],
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/ben-franklin-technology-partners"
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Pennsylvania"],
+      "sector_focus": ["deeptech", "saas-enterprise", "biotech", "hardware-semiconductor", "climate-energy"],
+      "thesis": "A statewide initiative of the Pennsylvania Department of Community and Economic Development that provides seed and early-stage capital plus business support to technology startups and established manufacturers, operating through four independent regional nonprofit centers."
+    },
+    "program": {
+      "eligibility": "Pennsylvania-based early-stage technology firms and established manufacturers.",
+      "application_url": "https://benfranklin.org/"
+    },
+    "tags": ["state", "pennsylvania", "early-stage", "regional-centers", "deced"],
+    "summary": {
+      "en": "Ben Franklin Technology Partners is a statewide Pennsylvania initiative (since 1982/83) of the Department of Community and Economic Development, funded by the Ben Franklin Technology Development Authority, providing seed and early-stage capital to technology firms through four independent regional nonprofit centers (Bethlehem, Philadelphia, Pittsburgh, State College)."
+    },
+    "sources": [
+      {
+        "url": "https://benfranklin.org/",
+        "title": "Ben Franklin Technology Partners | Investing in Pennsylvania's Future",
+        "publisher": "Ben Franklin Technology Partners",
+        "accessed": "2026-06-02",
+        "supports": "State initiative, funding authority, regional structure, purpose",
+        "quote": "The Ben Franklin Technology Partners is an initiative of the Pennsylvania Department of Community and Economic Development and is funded by the Ben Franklin Technology Development Authority ... Covering the entire Commonwealth through four regional centers ... investing in and linking early-stage technology firms and established manufacturers with experts, universities, follow-on funding, and other resources"
+      },
+      {
+        "url": "https://golden.com/wiki/Ben_Franklin_Technology_Partners-4NN9YEA",
+        "title": "Ben Franklin Technology Partners",
+        "publisher": "Golden",
+        "accessed": "2026-06-02",
+        "supports": "Founded 1982/1983",
+        "quote": "founded in 1982 in University Park, Pennsylvania ... embraced by every Pennsylvania governor and the PA General Assembly since its inception in 1983"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year cited as 1982 (program origin) or 1983 (legislative inception); used 1982. HQ is a network of four regional centers rather than a single office.",
+    "last_updated": "2026-06-02",
+    "researched_by": "us-government-program"
+  },
+  {
+    "id": "us-calseed",
+    "name": { "en": "CalSEED" },
+    "aka": ["California Sustainable Energy Entrepreneur Development Initiative"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": null,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Oakland, California",
+    "website": "https://calseed.fund/",
+    "links": {
+      "other": ["https://calseed.fund/the-program/"]
+    },
+    "capital": {
+      "aum": { "raw": "$48M grant program", "usd": 48000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["California"],
+      "sector_focus": ["climate-energy"],
+      "thesis": "A California Energy Commission-funded, non-dilutive grant program (administered by New Energy Nexus) that helps early-stage California clean-energy startups advance concepts and prototypes to commercialization."
+    },
+    "program": {
+      "investment": { "raw": "Concept Awards $200K; Prototype Award $500K", "usd": 500000, "currency": "USD" },
+      "equity_taken_pct": 0,
+      "eligibility": "Early-stage California clean-energy startups in storage, DER/load flexibility, transportation electrification, building and industrial decarbonization.",
+      "application_url": "https://calseed.fund/the-program/"
+    },
+    "tags": ["state", "california", "clean-energy", "non-dilutive-grant", "cec"],
+    "summary": {
+      "en": "CalSEED is a $48 million non-dilutive grant program funded by the California Energy Commission (administered through New Energy Nexus) that supports early-stage California clean-energy startups with $200K Concept Awards and $500K Prototype Awards, plus mentorship and commercialization support."
+    },
+    "sources": [
+      {
+        "url": "https://www.newenergynexus.com/news/calseed-awards-us4m-in-grants-to-early-stage-clean-energy-innovations/",
+        "title": "CalSEED awards US$4M in grants to early-stage clean energy innovations",
+        "publisher": "New Energy Nexus",
+        "accessed": "2026-06-02",
+        "supports": "$48M program, CEC funding, $200K Concept / $500K Prototype awards, non-dilutive",
+        "quote": "a $48m grant program created to help early-stage California clean energy startups bring their concepts and prototypes to market ... funded by the California Energy Commission ... $200K for Concept Awards, and a $500K Prototype Award to winners of the annual Business Plan Competition"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Program total ($48M) and award amounts from New Energy Nexus (administrator). Founding year not stated; program funded via CEC EPIC program. CalSEED is a non-dilutive grant program, not an equity investor.",
+    "last_updated": "2026-06-02",
+    "researched_by": "us-government-program"
+  }
+]

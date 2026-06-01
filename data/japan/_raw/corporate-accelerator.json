@@ -1,0 +1,952 @@
+[
+  {
+    "id": "jp-kddi-mugen-labo",
+    "name": { "en": "KDDI ∞ Labo (MUGENLABO)", "local": "KDDI ∞ Labo（ムゲンラボ）" },
+    "aka": ["KDDI Mugen Labo", "KDDI Open Innovation Program", "MUGENLABO"],
+    "type": "accelerator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.kddi.com/open-innovation-program/mugenlabo/",
+    "links": {
+      "other": ["https://mugenlabo-magazine.kddi.com/", "https://www.kddi.com/corporate/news_release/2011/0517e/"]
+    },
+    "capital": { "aum": { "raw": null, "usd": null, "currency": null } },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["generalist", "spacetech"],
+      "thesis": "Business co-creation platform connecting startups with the assets (technology, distribution, capital, talent) of a large alliance of major corporations led by KDDI; among Japan's oldest corporate accelerators."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "format": "hybrid",
+      "location": "Tokyo",
+      "application_url": "https://www.kddi.com/open-innovation-program/mugenlabo/",
+      "application_cycles": ["rolling"],
+      "eligibility": "Startups seeking co-creation with KDDI and its partner-alliance companies; 2026 includes MUGENLABO Support Program, MUGENLABO UNIVERSE (space business) and 'side project with MUGENLABO'."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via the KDDI ∞ Labo / MUGENLABO website by submitting company details and preferred partner companies for collaboration.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "open-innovation", "telecom"],
+    "summary": {
+      "en": "Launched by telecom carrier KDDI in 2011, KDDI ∞ Labo (MUGENLABO) is widely cited as the first/oldest corporate startup accelerator in Japan. It has evolved into a 'business co-creation platform' connecting startups to a partner alliance of major Japanese and global corporations.",
+      "local": "通信キャリアKDDIが2011年に開始した、日本最古級の大企業発スタートアップアクセラレーター。現在は多数の大企業が参画する事業共創プラットフォーム「MUGENLABO」として運営。"
+    },
+    "sources": [
+      {
+        "url": "https://www.kddi.com/corporate/news_release/2011/0517e/",
+        "title": "インキュベーションプログラム「KDDI ∞ Labo」の開始について",
+        "publisher": "KDDI",
+        "accessed": "2026-06-02",
+        "supports": "founded_year, original purpose",
+        "quote": "KDDI ∞ Labo is an incubation program for innovative internet service startups and engineers that began in August 2011."
+      },
+      {
+        "url": "https://www.kddi.com/open-innovation-program/mugenlabo/",
+        "title": "KDDI ∞ Labo 事業共創プラットフォーム",
+        "publisher": "KDDI",
+        "accessed": "2026-06-02",
+        "supports": "platform structure, partner alliance, space program",
+        "quote": "The program operates with \"109 companies\" forming a \"partner alliance,\" including major Japanese and international firms... Partners include Toyota, Mitsubishi, Sony, Microsoft, Amazon Web Services, and Google Cloud."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Partner-alliance count (~109 companies) per official site; cohort size, equity and length not consistently disclosed and left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-corporate-accelerator"
+  },
+  {
+    "id": "jp-mufg-digital-accelerator",
+    "name": { "en": "MUFG Digital Accelerator", "local": "MUFG Digitalアクセラレータ" },
+    "aka": ["MUFG Digital Accelerator", "三菱UFJ Digitalアクセラレータ"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.mufg.jp/profile/strategy/dx/accelerator/index.html",
+    "links": {
+      "other": ["https://innovation.mufg.jp/accelerator/"]
+    },
+    "capital": { "aum": { "raw": null, "usd": null, "currency": null } },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["fintech", "ai-ml", "web3-crypto", "deeptech"],
+      "thesis": "Japan's first bank-run startup accelerator, targeting fintech (payments, lending, asset management) and advanced tech (AI, blockchain, IoT, AR/VR) to build alliances and PoCs with MUFG group companies."
+    },
+    "program": {
+      "length_weeks": 16,
+      "cohort_size": null,
+      "format": "hybrid",
+      "location": "Tokyo",
+      "investment": { "raw": "investment considered (not guaranteed)", "usd": null, "currency": "JPY" },
+      "application_url": "https://innovation.mufg.jp/accelerator/",
+      "application_cycles": ["annual batches"],
+      "eligibility": "Startups in fintech, deep tech (AI, blockchain, IoT, AR/VR/MR), real-estate tech, HR tech, RegTech seeking collaboration with MUFG group."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": ["Mitsubishi UFJ Capital"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply during annual recruitment windows via the MUFG Digital Accelerator site.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "fintech", "bank", "open-innovation"],
+    "summary": {
+      "en": "Launched in 2015 as the first startup accelerator run by a Japanese bank. A roughly 4-month program: first two months refine the business plan, the latter two build an MVP and explore collaboration/investment with MUFG group companies and Mitsubishi UFJ Capital. Reached its 6th cohort (2022/23).",
+      "local": "2015年に開始した邦銀初のスタートアップアクセラレータ。約4ヶ月のプログラムで、三菱UFJキャピタルによる出資も検討。2022〜23年に第6期を実施。"
+    },
+    "sources": [
+      {
+        "url": "https://www.mufg.jp/profile/strategy/dx/accelerator/index.html",
+        "title": "MUFG Digitalアクセラレータ",
+        "publisher": "Mitsubishi UFJ Financial Group",
+        "accessed": "2026-06-02",
+        "supports": "founded_year, length_weeks, sectors, investment, cohort count",
+        "quote": "「邦銀初のスタートアップアクセラレータ・プログラム」... 「アクセラレータ･プログラムの実施（4ヶ月）」... 「出資を検討します。※出資をお約束するものではありません」... The latest was the 6th period (第6期), which concluded in January 2023"
+      },
+      {
+        "url": "https://innovation.mufg.jp/accelerator/",
+        "title": "MUFGデジタルアクセラレータ",
+        "publisher": "Mitsubishi UFJ Financial Group",
+        "accessed": "2026-06-02",
+        "supports": "program structure, co-investor",
+        "quote": "established by MUFG in 2015 as Japan's first startup accelerator launched by a domestic bank... runs for approximately 4 months... the program considers business collaboration, partnership, and investment from Mitsubishi UFJ Capital."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Investment amount not disclosed (only 'considered'). Cohort size per batch not published; left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-corporate-accelerator"
+  },
+  {
+    "id": "jp-mitsubishi-estate-accelerator",
+    "name": { "en": "Mitsubishi Estate Accelerator Program", "local": "三菱地所アクセラレータープログラム" },
+    "aka": ["MEC Accelerator", "三菱地所アクセラレータープログラム"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://mecaccelerator.jp/",
+    "links": {
+      "other": ["https://www.mec.co.jp/", "https://event.samurai-incubate.asia/mec-accelerator/"]
+    },
+    "capital": { "aum": { "raw": null, "usd": null, "currency": null } },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["proptech", "generalist"],
+      "thesis": "City-making ('街から起こすイノベーション') accelerator using Mitsubishi Estate's Marunouchi/Otemachi real-estate assets as a living test field for startups."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": "8 (2020 cohort)",
+      "format": "hybrid",
+      "location": "Marunouchi / Otemachi, Tokyo",
+      "perks": ["EGG JAPAN business development hub", "3x3 Lab Future coworking space"],
+      "application_url": "https://mecaccelerator.jp/",
+      "application_cycles": ["annual"],
+      "eligibility": "Startups whose business can leverage Marunouchi/Otemachi urban assets, buildings and tenants as a demonstration field."
+    },
+    "track_record": {
+      "portfolio_count": "24 (cumulative, through 2020)",
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply during the annual recruitment window via mecaccelerator.jp; program operated with Samurai Incubate / eiicon.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "real-estate", "open-innovation", "urban"],
+    "summary": {
+      "en": "Real-estate developer Mitsubishi Estate's accelerator (from 2018, with roots in FY2017 initiatives), offering startups its Marunouchi/Otemachi buildings, tenants and coworking spaces as test fields. By the 2020 cohort it had received ~650 cumulative applications and selected 24 companies.",
+      "local": "三菱地所が2018年から運営する街づくり型アクセラレーター。丸の内・大手町の都市アセットを実証フィールドとして提供。2020年度時点で累計約650件の応募から計24社を採択。"
+    },
+    "sources": [
+      {
+        "url": "https://mecaccelerator.jp/",
+        "title": "三菱地所アクセラレータープログラム",
+        "publisher": "Mitsubishi Estate",
+        "accessed": "2026-06-02",
+        "supports": "founded_year, assets/perks, cumulative selections and applications",
+        "quote": "三菱地所が2018年から運営するスタートアップ共創プログラム... 2020年度（4期目）には、110件のビジネスプラン応募のなかから、8社のスタートアップ企業が採択されました。累計では、約650件の応募があり、合計24社の企業を採択しています。"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000146.000014738.html",
+        "title": "「三菱地所アクセラレータープログラム 2020」採択企業8社が決定",
+        "publisher": "Samurai Incubate / PR TIMES",
+        "accessed": "2026-06-02",
+        "supports": "2020 cohort size, operator",
+        "quote": "「三菱地所アクセラレータープログラム 2020」採択企業8社が決定"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Start year sometimes cited as FY2017 (first edition) vs 2018; program operated by Samurai Incubate (and earlier with eiicon). Equity/length not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-corporate-accelerator"
+  },
+  {
+    "id": "jp-jr-east-startup-program",
+    "name": { "en": "JR East Startup Program", "local": "JR東日本スタートアッププログラム" },
+    "aka": ["JR EAST STARTUP", "JR東日本スタートアップ"],
+    "type": "accelerator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://jrestartup.co.jp/",
+    "links": {
+      "other": ["https://jrestartup.co.jp/program/", "https://eiicon.net/about/jrestartup/"]
+    },
+    "capital": {
+      "aum": { "raw": "¥5 billion budget for investment activities", "usd": null, "currency": "JPY" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["mobility", "logistics", "impact", "generalist"],
+      "thesis": "Open-innovation program plus CVC run by JR East's subsidiary, leveraging stations, railways and group information assets under the slogan 'TICKET TO TOMORROW' across regional, digital and SDGs co-creation themes."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": "7 (2025) / 9 (2024 fall)",
+      "format": "hybrid",
+      "location": "Tokyo",
+      "application_url": "https://jrestartup.co.jp/program/",
+      "application_cycles": ["annual (autumn)"],
+      "eligibility": "Startups proposing businesses/services using JR East's stations, railways and group resources under themes of Regional, Digital and Earth (SDGs) co-creation."
+    },
+    "track_record": {
+      "portfolio_count": "38 investments (90% from the acceleration program)",
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply during the annual autumn recruitment via jrestartup.co.jp under the announced themes.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "railway", "open-innovation", "cvc"],
+    "summary": {
+      "en": "JR East Startup Inc., a 100%-owned subsidiary set up in February 2018 with a ¥5bn investment budget, runs the JR East Startup Program. It has received 1,000+ applications, conducted ~100 pilots and commercialized 51 projects; ~38 investments, 90% drawn from accelerator cohorts.",
+      "local": "JR東日本の100%子会社（2018年2月設立、投資枠50億円）が運営するアクセラレーター兼CVC。これまで1,000件超の応募、約100件の実証実験、51件の事業化を実現。投資先38社の9割がプログラム採択企業。"
+    },
+    "sources": [
+      {
+        "url": "https://eiicon.net/about/jrestartup/",
+        "title": "JR東日本が、スタートアップとつなぐ未来 - JR EAST STARTUP",
+        "publisher": "eiicon",
+        "accessed": "2026-06-02",
+        "supports": "founded_year, investment budget, investments, pilots, commercializations, cohort sizes",
+        "quote": "JR East Startup was established in February 2018 as a 100% subsidiary of JR East with a 5 billion yen budget for investment activities, and currently has 38 investment targets, with 90% being selected companies from the acceleration program. To date, over 1,000 applications have been received, 100 pilot experiments have been conducted, and 51 projects have been commercialized."
+      },
+      {
+        "url": "https://jrestartup.co.jp/program/",
+        "title": "STARTUP PROGRAM - JR 東日本スタートアップ株式会社",
+        "publisher": "JR East Startup",
+        "accessed": "2026-06-02",
+        "supports": "2025/2024 cohort sizes, themes",
+        "quote": "In 2025, the program... selected 7 companies from a total of 191 proposals. In 2024 fall... selected 9 companies from 138 proposals."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Investment budget (¥5bn) and counts per eiicon writeup; consistent with JR East's public statements. Equity %/check size per deal not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-corporate-accelerator"
+  },
+  {
+    "id": "jp-fujitsu-accelerator",
+    "name": { "en": "FUJITSU ACCELERATOR", "local": "富士通アクセラレーター" },
+    "aka": ["Fujitsu Accelerator"],
+    "type": "accelerator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.fujitsu.com/jp/innovation/venture/",
+    "links": {
+      "other": ["https://global.fujitsu/ja-jp/about/activities/venture", "https://www.jetro.go.jp/events/jbc/fujitsu-accelerator.html"]
+    },
+    "capital": { "aum": { "raw": null, "usd": null, "currency": null } },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "deeptech", "generalist"],
+      "thesis": "Matches startups' innovative technologies with the products, solutions and services of Fujitsu Group business divisions, which set the collaboration themes."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "format": "hybrid",
+      "location": "Tokyo",
+      "application_url": "https://www.fujitsu.com/jp/innovation/venture/",
+      "application_cycles": ["annual batches"],
+      "eligibility": "Startups whose technology can be matched with collaboration themes set by Fujitsu Group sales/business divisions."
+    },
+    "track_record": {
+      "portfolio_count": "120+ companies engaged, 70+ business implementations",
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply during cohort recruitment via the FUJITSU ACCELERATOR site.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "open-innovation", "enterprise-it"],
+    "summary": {
+      "en": "Fujitsu's open-innovation accelerator launched in 2015 (program started 1 June 2015), matching startups with collaboration themes set by Fujitsu business divisions. It has run through a 9th cohort and reports 120+ companies engaged and 70+ business implementations.",
+      "local": "富士通が2015年に開始したオープンイノベーション・アクセラレーター。事業部門が共創テーマを設定しスタートアップとマッチング。第9期まで実施し、120社以上が参画、70件以上の事業化を実現。"
+    },
+    "sources": [
+      {
+        "url": "https://www.fujitsu.com/jp/innovation/venture/",
+        "title": "FUJITSU ACCELERATOR",
+        "publisher": "Fujitsu",
+        "accessed": "2026-06-02",
+        "supports": "founded_year, program structure, cohort count",
+        "quote": "FUJITSU ACCELERATOR began its accelerator program in 2015 and has now completed through the 9th session... the program's implementation period began on June 1, 2015."
+      },
+      {
+        "url": "https://intrastar.wiki/articles/japan-corporate-accelerator-programs-2026/",
+        "title": "日本の大企業アクセラレータープログラム完全ガイド2026",
+        "publisher": "IntraStar Wiki",
+        "accessed": "2026-06-02",
+        "supports": "companies engaged and business implementations",
+        "quote": "FUJITSU ACCELERATOR | 2015 | \"120+ companies engaged, 70+ business implementations\""
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded year and program structure from official site; portfolio/implementation counts from secondary aggregator (IntraStar). Equity/check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-corporate-accelerator"
+  },
+  {
+    "id": "jp-tokyu-alliance-platform",
+    "name": { "en": "Tokyu Alliance Platform (Tokyu Accelerate Program)", "local": "東急アライアンスプラットフォーム（旧 東急アクセラレートプログラム）" },
+    "aka": ["TAP", "Tokyu Accelerate Program", "東急アクセラレートプログラム"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://tokyu-ap.com/",
+    "links": {
+      "other": ["https://www.tokyu.co.jp/company/news/detail/349.html"]
+    },
+    "capital": { "aum": { "raw": null, "usd": null, "currency": null } },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["mobility", "consumer", "proptech", "generalist"],
+      "thesis": "Co-creation along the Tokyu railway line, connecting startups with 27+ Tokyu Group businesses (rail, bus, department stores, supermarkets, hotels, fitness) for test marketing leading to business and capital alliances."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "format": "hybrid",
+      "location": "Tokyo (Tokyu line area)",
+      "application_url": "https://tokyu-ap.com/",
+      "application_cycles": ["rolling (monthly screening)"],
+      "eligibility": "Startups/companies wishing to test-market using Tokyu Group resources; judged on novelty, affinity, growth potential and feasibility."
+    },
+    "track_record": {
+      "portfolio_count": "120+ PoC/test implementations; 40+ commercializations; 8 business/capital alliances; 1,000+ cumulative entries",
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply year-round via tokyu-ap.com (or AUBA); proposals screened monthly.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "railway", "real-estate", "open-innovation"],
+    "summary": {
+      "en": "Started in 2015 by the Tokyu group as the Tokyu Accelerate Program; rebranded to the Tokyu Alliance Platform (TAP) in August 2021. Connects startups to 27+ group businesses for test marketing along the Tokyu line. Cumulatively 120+ PoCs/test deployments, 40+ commercializations, 8 capital/business alliances and 1,000+ entries.",
+      "local": "東急グループが2015年に開始した「東急アクセラレートプログラム」。2021年8月に「東急アライアンスプラットフォーム（TAP）」へ名称変更。沿線で27社以上のグループ事業と共創。累計120件超のPoC、40件超の事業化、8社との資本・業務提携を実現。"
+    },
+    "sources": [
+      {
+        "url": "https://tokyu-ap.com/",
+        "title": "東急アライアンスプラットフォーム | TAP",
+        "publisher": "Tokyu",
+        "accessed": "2026-06-02",
+        "supports": "cumulative PoC, commercializations, alliances, entries",
+        "quote": "「120件以上のPoCやテスト導入」... 「40件以上の事業化や本格導入」... 「うち8社との業務・資本提携」... 「延べ1,000社以上のエントリー」"
+      },
+      {
+        "url": "https://www.tokyu.co.jp/company/news/detail/349.html",
+        "title": "「東急アクセラレートプログラム」は「東急アライアンスプラットフォーム」に名称変更します",
+        "publisher": "Tokyu",
+        "accessed": "2026-06-02",
+        "supports": "rebrand to TAP (Aug 2021)",
+        "quote": "「東急アクセラレートプログラム」は「東急アライアンスプラットフォーム」に名称変更します"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Cumulative figures from official TAP site. Founded year 2015 per secondary sources; the entity dates back to earlier Tokyu open-innovation activity. Equity/check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-corporate-accelerator"
+  },
+  {
+    "id": "jp-tokyo-metro-accelerator",
+    "name": { "en": "Tokyo Metro ACCELERATOR", "local": "Tokyo Metro ACCELERATOR" },
+    "aka": ["東京メトロアクセラレーター"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.tokyometro.jp/corporate/business/tokyometro-accelerator/index.html",
+    "links": {
+      "other": ["https://www.tokyometro.jp/news/2024/218051.html"]
+    },
+    "capital": { "aum": { "raw": null, "usd": null, "currency": null } },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["mobility", "proptech", "generalist"],
+      "thesis": "Combines Tokyo Metro Group's management resources with external ideas/technologies to create new businesses and solve railway-operation challenges, via a 'New Business Creation Program' and a 'Railway Business Problem-Solving Program'."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "format": "hybrid",
+      "location": "Tokyo",
+      "application_url": "https://www.tokyometro.jp/corporate/business/tokyometro-accelerator/index.html",
+      "application_cycles": ["annual (New Business)", "rolling (Railway Problem-Solving)"],
+      "eligibility": "Startups/companies with ideas or technologies applicable to Tokyo Metro's railway operations and new-business creation."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to the New Business Creation Program during annual windows or to the Railway Business Problem-Solving Program year-round.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "railway", "open-innovation"],
+    "summary": {
+      "en": "Open-innovation program run annually since 2016 by subway operator Tokyo Metro, reaching its 8th edition in 2023. Combines Tokyo Metro's assets with external technologies to create new businesses and solve railway-operation problems; recent editions drew ~150-168 applications per year.",
+      "local": "東京メトロが2016年から毎年実施するオープンイノベーションプログラム。2023年で第8期。鉄道事業の課題解決と新規事業創出を狙い、近年は年間約150〜168件の応募。"
+    },
+    "sources": [
+      {
+        "url": "https://www.tokyometro.jp/corporate/business/tokyometro-accelerator/index.html",
+        "title": "Tokyo Metro ACCELERATOR（鉄道事業課題解決プログラム）",
+        "publisher": "Tokyo Metro",
+        "accessed": "2026-06-02",
+        "supports": "founded_year (annual since 2016), edition count, program structure",
+        "quote": "Tokyo Metro ACCELERATOR is an open innovation program... having been implemented annually since 2016 and reaching its 8th term in 2023."
+      },
+      {
+        "url": "https://www.tokyometro.jp/news/2021/209846.html",
+        "title": "「Tokyo Metro ACCELERATOR 2020」の最終審査通過企業を決定しました！",
+        "publisher": "Tokyo Metro",
+        "accessed": "2026-06-02",
+        "supports": "application volume",
+        "quote": "Tokyo Metro ACCELERATOR 2021... Three companies... were selected from a record 168 applications."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded year/edition per official program page. Cohort sizes vary (1-3 final selections recently). Investment/equity not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-corporate-accelerator"
+  },
+  {
+    "id": "jp-kirin-accelerator",
+    "name": { "en": "KIRIN Accelerator Program", "local": "KIRINアクセラレーター（キリンアクセラレータープログラム）" },
+    "aka": ["KIRIN Accelerator", "キリンアクセラレータープログラム"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.kirinholdings.com/jp/",
+    "links": {
+      "other": ["http://kirin.01booster.com/2017/", "https://www.kirinholdings.com/jp/newsroom/release/2018/1026_01.html"]
+    },
+    "capital": { "aum": { "raw": null, "usd": null, "currency": null } },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["agritech", "healthtech", "biotech", "consumer"],
+      "thesis": "'Make A Future With KIRIN' — co-creation with entrepreneurs leveraging Kirin's expertise across alcoholic/non-alcoholic beverages and pharma/biochemicals toward a healthy, prosperous future; operated with corporate-accelerator specialist 01Booster."
+    },
+    "program": {
+      "length_weeks": 20,
+      "cohort_size": "6 (2018 cohort)",
+      "format": "hybrid",
+      "location": "Tokyo",
+      "investment": { "raw": "investment actively considered for selected teams", "usd": null, "currency": "JPY" },
+      "application_url": "https://www.kirinholdings.com/jp/",
+      "application_cycles": ["annual"],
+      "eligibility": "Innovators/entrepreneurs in food, beverage, health and medical/biochemical domains seeking co-creation with Kirin."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": ["01Booster"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply during the annual recruitment window; program run jointly with 01Booster.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "food-beverage", "open-innovation"],
+    "summary": {
+      "en": "Run annually since 2016 by Kirin Holdings together with corporate-accelerator firm 01Booster. The ~5-month program offers Kirin's resources, network and mentors, with investment actively considered for selected teams; the 2018 cohort selected 6 companies from ~120 applications.",
+      "local": "キリンホールディングスがコーポレートアクセラレーター運営の01Boosterと共同で2016年から毎年開催。約5ヶ月のプログラムで、選抜チームには出資も積極的に検討。2018年は約120件の応募から6社を採択。"
+    },
+    "sources": [
+      {
+        "url": "http://kirin.01booster.com/2017/",
+        "title": "KIRINアクセラレーター",
+        "publisher": "Kirin Holdings / 01Booster",
+        "accessed": "2026-06-02",
+        "supports": "operator, length, investment, start year",
+        "quote": "約5ケ月間のアクセラレータープログラム期間中、キリンホールディングス株式会社担当者が持つリソースやネットワークを提供すること... 選抜された起業チームには出資も積極的に検討しています... 「キリンアクセラレータープログラム」を2016年より毎年開催しています。"
+      },
+      {
+        "url": "https://www.kirinholdings.com/jp/newsroom/release/2018/1026_01.html",
+        "title": "「キリンアクセラレータープログラム2018」参加企業6社が決定",
+        "publisher": "Kirin Holdings",
+        "accessed": "2026-06-02",
+        "supports": "2018 cohort size, applications, operator",
+        "quote": "Six companies were chosen from approximately 120 business plan applications... operated jointly with 株式会社ゼロワンブースター"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "~5-month length and investment-considered policy from operator page; 2018 cohort numbers from Kirin release. Investment amount/equity not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-corporate-accelerator"
+  },
+  {
+    "id": "jp-keikyu-accelerator",
+    "name": { "en": "KEIKYU ACCELERATOR PROGRAM", "local": "京急アクセラレータープログラム" },
+    "aka": ["Keikyu Accelerator", "京急アクセラレーター"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Yokohama",
+    "website": "https://openinnovation.keikyu.co.jp/",
+    "links": {
+      "other": []
+    },
+    "capital": { "aum": { "raw": null, "usd": null, "currency": null } },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["mobility", "proptech", "consumer", "generalist"],
+      "thesis": "Open-innovation co-creation using Keikyu Group's railway, real-estate, retail and tourism assets along the Keikyu line and Haneda Airport area."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "format": "hybrid",
+      "location": "Yokohama / Keikyu line area",
+      "application_url": "https://openinnovation.keikyu.co.jp/",
+      "application_cycles": ["annual"],
+      "eligibility": "Startups whose ideas can use Keikyu Group's transport, real-estate and lifestyle assets."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via the Keikyu open-innovation site during recruitment windows.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "railway", "open-innovation"],
+    "summary": {
+      "en": "Open-innovation accelerator run by railway operator Keikyu Corporation, connecting startups with the Keikyu Group's railway, real-estate, retail and Haneda-area tourism assets. Listed among Japan's corporate railway accelerators.",
+      "local": "京浜急行電鉄が運営するオープンイノベーション・アクセラレーター。京急沿線・羽田空港エリアの鉄道・不動産・小売・観光アセットをスタートアップと共創。"
+    },
+    "sources": [
+      {
+        "url": "https://openinnovation.keikyu.co.jp/",
+        "title": "KEIKYU ACCELERATOR - 京急アクセラレータープログラム",
+        "publisher": "Keikyu Corporation",
+        "accessed": "2026-06-02",
+        "supports": "existence, operator, theme (program site, accessed via search index)",
+        "quote": "KEIKYU ACCELERATOR - 京急アクセラレータープログラム | 京急電鉄"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Official site returned 403 to direct fetch; confirmed via search index of openinnovation.keikyu.co.jp. Founded year (~2017) and details are approximate; no quantitative figures verified, so left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-corporate-accelerator"
+  },
+  {
+    "id": "jp-sony-startup-acceleration-program",
+    "name": { "en": "Sony Startup Acceleration Program (SSAP)", "local": "Sony Startup Acceleration Program（SSAP）" },
+    "aka": ["SSAP", "Sony SSAP"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2014,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://sony-startup-acceleration-program.com/",
+    "links": {
+      "other": ["https://sony-startup-acceleration-program-europe.com/"]
+    },
+    "capital": { "aum": { "raw": null, "usd": null, "currency": null } },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Japan", "Europe", "Global"],
+      "sector_focus": ["hardware-semiconductor", "consumer", "deeptech", "generalist"],
+      "thesis": "Originally an internal Sony program to commercialize technology from employee/internal projects, now a broader acceleration program supporting both internal and external early-stage startups with Sony's network, mentorship and infrastructure."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "format": "hybrid",
+      "location": "Tokyo (and Lund, Sweden for SSAP Europe)",
+      "application_url": "https://sony-startup-acceleration-program.com/",
+      "application_cycles": ["rolling / program-based"],
+      "eligibility": "Internal Sony teams and external early-stage startups; SSAP provides product/business support, coaching and access to Sony technology and infrastructure."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "MESH", "sector": "hardware", "outcome": "product (Sony)" },
+        { "company": "REON POCKET", "sector": "consumer hardware", "outcome": "product (Sony)" }
+      ],
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via the SSAP website (Japan or Europe) depending on region.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "hardware", "open-innovation"],
+    "summary": {
+      "en": "Launched at Sony headquarters in Japan in 2014, initially to commercialize technology from internal Sony projects (producing products like MESH and REON POCKET). It has grown into a broader acceleration program supporting early-stage startups, with a European arm (SSAP Europe, founded 2016, based in Lund, Sweden).",
+      "local": "ソニー本社が2014年に開始したアクセラレーションプログラム。当初は社内技術の事業化（MESH、REON POCKETなどを輩出）。現在は外部スタートアップ支援にも拡大し、欧州拠点（SSAP Europe、2016年設立、スウェーデン・ルンド）も展開。"
+    },
+    "sources": [
+      {
+        "url": "https://www.thestartupfounder.com/all-you-need-to-know-about-sony-startup-acceleration-program/",
+        "title": "All you need to know about Sony Startup Acceleration Program",
+        "publisher": "The Startup Founder",
+        "accessed": "2026-06-02",
+        "supports": "founded_year, original purpose, Europe arm",
+        "quote": "The Sony Startup Acceleration Program (SSAP) was first initiated at Sony's headquarters in Japan in 2014... The European branch (SSAP Europe) was founded in 2016 and is based in Lund, Sweden."
+      },
+      {
+        "url": "https://intrastar.wiki/articles/japan-corporate-accelerator-programs-2026/",
+        "title": "日本の大企業アクセラレータープログラム完全ガイド2026",
+        "publisher": "IntraStar Wiki",
+        "accessed": "2026-06-02",
+        "supports": "products produced",
+        "quote": "Sony Startup Acceleration Program (SSAP) | 2014 | \"produced actual products like MESH and REON POCKET\""
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded year and Europe details from reputable secondary sources (official Sony JP page not fetched). SSAP is partly an internal incubation program but also supports external startups; classified as accelerator. No equity/check-size figures verified.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-corporate-accelerator"
+  },
+  {
+    "id": "jp-plug-and-play-japan",
+    "name": { "en": "Plug and Play Japan", "local": "Plug and Play Japan株式会社" },
+    "aka": ["PnP Japan", "Plug and Play Japan"],
+    "type": "accelerator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://japan.plugandplaytechcenter.com/",
+    "links": {
+      "other": ["https://japan.plugandplaytechcenter.com/press/ws2025/"]
+    },
+    "capital": { "aum": { "raw": null, "usd": null, "currency": null } },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["mobility", "fintech", "proptech", "deeptech", "generalist"],
+      "thesis": "Consortium-type corporate innovation platform: connects Japanese corporate partners with domestic and international startups across verticals (mobility, fintech, insurtech, IoT, smart cities, etc.) via twice-yearly accelerator batches, plus its own VC investment."
+    },
+    "program": {
+      "length_weeks": 12,
+      "cohort_size": "54 startups (Winter/Spring 2025 batch); 68 (Winter/Spring 2022); 104 (Summer/Fall 2020)",
+      "batches_per_year": 2,
+      "format": "hybrid",
+      "location": "Tokyo (Shibuya), Osaka, Kyoto",
+      "application_url": "https://japan.plugandplaytechcenter.com/",
+      "application_cycles": ["twice per year (batches)"],
+      "eligibility": "Domestic and international startups matching the verticals sponsored by Japanese corporate partners."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to the relevant vertical batch via the Plug and Play Japan website.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "open-innovation", "consortium", "global"],
+    "summary": {
+      "en": "Japan arm (founded 14 July 2017) of Silicon Valley accelerator Plug and Play. Runs a consortium-type corporate accelerator: ~12-week batches twice a year matching Japanese corporate partners with domestic/international startups across verticals, plus its own VC investment. The Winter/Spring 2025 batch selected 54 startups.",
+      "local": "シリコンバレー発アクセラレーターPlug and Playの日本拠点（2017年7月14日設立）。約12週間のバッチを年2回実施するコンソーシアム型の大企業アクセラレーター。2025年Winter/Springバッチで国内外54社を採択。VC投資も実施。"
+    },
+    "sources": [
+      {
+        "url": "https://japan.plugandplaytechcenter.com/press/ws2025/",
+        "title": "アクセラレータープログラムに国内外のスタートアップ54社を採択しました",
+        "publisher": "Plug and Play Japan",
+        "accessed": "2026-06-02",
+        "supports": "2025 batch cohort size",
+        "quote": "アクセラレータープログラムに国内外のスタートアップ54社を採択しました。"
+      },
+      {
+        "url": "https://thebridge.jp/2017/09/plug-and-play-japan-launch",
+        "title": "シリコンバレー屈指のアクセラレータPlug and Play、大企業7社をパートナーに迎え日本プログラムを始動",
+        "publisher": "The Bridge",
+        "accessed": "2026-06-02",
+        "supports": "founded_year (2017), batch length, batches per year, corporate-partner model",
+        "quote": "設立年月日は2017年7月14日です... Plug and Playでは12週間を一つのBatchとして年に2回プログラムを実施しています... 大企業7社をパートナーに迎え日本プログラムを始動"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "12-week batch and twice-yearly cadence per The Bridge / press materials. Cohort sizes vary widely by batch (54-104). PnP also invests as a VC, so subtype cvc included.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-corporate-accelerator"
+  },
+  {
+    "id": "jp-01booster",
+    "name": { "en": "01Booster (ZERO1BOOSTER)", "local": "株式会社ゼロワンブースター" },
+    "aka": ["01Booster", "ZeroOneBooster", "ゼロワンブースター"],
+    "type": "accelerator",
+    "subtypes": ["venture-studio"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://01booster.co.jp/",
+    "links": {
+      "other": ["https://01booster.co.jp/company", "https://initial.inc/companies/A-11304"]
+    },
+    "capital": { "aum": { "raw": null, "usd": null, "currency": null } },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["generalist", "deeptech"],
+      "thesis": "'Corporate Accelerator' specialist (it holds the trademark): plans and runs corporate accelerators and intrapreneur programs for large companies, plus a business-creation studio, training, and 01Booster Capital for venture investment."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "format": "hybrid",
+      "location": "Higashi-Azabu, Minato-ku, Tokyo",
+      "application_url": "https://01booster.co.jp/",
+      "application_cycles": ["program-based (per client corporate)"],
+      "eligibility": "Startups participating in the corporate accelerator programs that 01Booster operates on behalf of large companies (e.g. Kirin)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Shigenori Suzuki", "role": "Representative Director / Founder" }
+    ],
+    "application": {
+      "how_to_apply": "Engage via specific corporate accelerator programs 01Booster operates, or 01Booster Capital.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator-operator", "open-innovation", "venture-studio"],
+    "summary": {
+      "en": "Founded March 2012 by Shigenori Suzuki, 01Booster (ZERO1BOOSTER) is a leading operator of corporate accelerator and intrapreneur programs in Japan — it registered the 'Corporate Accelerator' logo as a trademark — and runs programs such as the KIRIN Accelerator. It also operates 01Booster Capital and is a Global Accelerator Network (GAN) member.",
+      "local": "2012年3月設立（代表：鈴木規文）。日本のコーポレートアクセラレーター運営の草分けで「Corporate Accelerator」ロゴを商標登録。KIRINアクセラレーター等を運営し、01Booster Capitalによる投資やGAN加盟も。"
+    },
+    "sources": [
+      {
+        "url": "https://01booster.co.jp/company",
+        "title": "会社情報 – 01Booster(ゼロワンブースター)",
+        "publisher": "01Booster",
+        "accessed": "2026-06-02",
+        "supports": "founded_year, founder, business lines",
+        "quote": "The company was founded in March 2012 and is headed by representative director Shigenori Suzuki... plans and runs corporate accelerator and intrapreneur accelerator programs... 01Booster Capital for venture investment."
+      },
+      {
+        "url": "https://www.01booster.com/press_release/227",
+        "title": "『Corporate Accelerator』ロゴマーク商標登録完了のお知らせ",
+        "publisher": "01Booster",
+        "accessed": "2026-06-02",
+        "supports": "Corporate Accelerator trademark / positioning",
+        "quote": "『Corporate Accelerator』ロゴマーク商標登録完了のお知らせ"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Operator of many corporate accelerators rather than a single program; included as a core entity of Japan's corporate-accelerator segment. No portfolio count / fund size disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-corporate-accelerator"
+  },
+  {
+    "id": "jp-creww",
+    "name": { "en": "Creww", "local": "Creww株式会社" },
+    "aka": ["Creww Growth", "クルー"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://creww.me/",
+    "links": {
+      "other": ["https://creww.me/growth/results", "https://growth.creww.me/program_list", "https://initial.inc/companies/A-11290"]
+    },
+    "capital": { "aum": { "raw": null, "usd": null, "currency": null } },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Operates Japan's largest open-innovation platform and runs corporate/municipal open-innovation programs ('Creww Growth') that connect 8,000+ registered startups with corporates and local governments; spun out Creww Capital for CVC/fund operation."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "format": "hybrid",
+      "location": "Tokyo",
+      "application_url": "https://growth.creww.me/program_list",
+      "application_cycles": ["program-based (per corporate/municipality)"],
+      "eligibility": "Startups registered on Creww's platform applying to corporate or municipal open-innovation programs run via Creww Growth."
+    },
+    "track_record": {
+      "portfolio_count": "500+ open-innovation programs run; ~1,350 collaborations realized",
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Sorato Ijichi", "role": "Representative Director" }
+    ],
+    "application": {
+      "how_to_apply": "Register on creww.me and apply to specific corporate/municipal programs via Creww Growth.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator-operator", "open-innovation", "platform"],
+    "summary": {
+      "en": "Founded 13 August 2012, Creww runs one of Japan's largest open-innovation support platforms (8,000+ registered startups) and has operated 500+ corporate and municipal open-innovation/accelerator programs realizing ~1,350 collaborations. It established Creww Capital for CVC support and fund operation.",
+      "local": "2012年8月13日創業。国内最大級のオープンイノベーション支援プラットフォーム（8,000社超のスタートアップが登録）を運営し、企業・自治体のプログラムを500回以上開催、約1,350件の協業を実現。CVC支援・ファンド運営の「Creww Capital」も設立。"
+    },
+    "sources": [
+      {
+        "url": "https://initial.inc/companies/A-11290",
+        "title": "Creww株式会社｜スピーダ スタートアップ情報リサーチ",
+        "publisher": "INITIAL (Speeda)",
+        "accessed": "2026-06-02",
+        "supports": "founded_year, representative",
+        "quote": "Creww株式会社は2012年8月13日に創業し... 代表取締役は伊地知天（いじち そらと）"
+      },
+      {
+        "url": "https://creww.me/growth/results",
+        "title": "アクセラレータープログラム開催企業一覧｜Creww",
+        "publisher": "Creww",
+        "accessed": "2026-06-02",
+        "supports": "programs run, collaborations, registered startups",
+        "quote": "2012年の創業以来、企業・自治体とスタートアップによるオープンイノベーションプログラムを500回以上開催し、約1,350件の協業を実現... 8,000以上のスタートアップ企業が登録"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Operator of many corporate open-innovation/accelerator programs; included as core segment entity. Counts (500+ programs, ~1,350 collaborations, 8,000+ startups) per Creww materials/INITIAL.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-corporate-accelerator"
+  },
+  {
+    "id": "jp-eiicon",
+    "name": { "en": "eiicon (AUBA)", "local": "株式会社eiicon" },
+    "aka": ["AUBA", "アウバ", "eiicon company"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://corp.eiicon.net/",
+    "links": {
+      "other": ["https://auba.eiicon.net/", "https://eiicon.net/about/accelerator/"]
+    },
+    "capital": { "aum": { "raw": null, "usd": null, "currency": null } },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["generalist"],
+      "thesis": "Open-innovation professional services firm operating AUBA, one of Japan's largest open-innovation platforms (34,000+ cumulative registrations), and running corporate/municipal accelerator programs plus hands-on consulting."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "format": "hybrid",
+      "location": "Tokyo",
+      "application_url": "https://auba.eiicon.net/",
+      "application_cycles": ["program-based (per corporate/municipality)"],
+      "eligibility": "Startups/companies registered on AUBA applying to corporate or municipal accelerator programs eiicon operates (e.g. Tokyu, Mitsubishi Estate early editions, JR East)."
+    },
+    "track_record": {
+      "portfolio_count": "34,000+ cumulative AUBA registrations",
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Register on AUBA and apply to specific corporate/municipal accelerator programs operated by eiicon.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator-operator", "open-innovation", "platform"],
+    "summary": {
+      "en": "Started in February 2017 (initially within Intelligence/Persol) and rebranded its platform to AUBA in 2020, eiicon is a major operator of corporate and municipal open-innovation/accelerator programs in Japan, with 34,000+ cumulative platform registrations and hands-on open-innovation consulting.",
+      "local": "2017年2月にスタート（当初はインテリジェンス/パーソル新規事業）、2020年にプラットフォームを「AUBA」へリブランド。累計34,000社超が登録する日本最大級のOIプラットフォームを運営し、企業・自治体のアクセラレータープログラム運営とハンズオン支援を手掛ける。"
+    },
+    "sources": [
+      {
+        "url": "https://corp.eiicon.net/company",
+        "title": "カンパニー概要 - 株式会社eiicon",
+        "publisher": "eiicon",
+        "accessed": "2026-06-02",
+        "supports": "business (accelerator program operation, OI platform)",
+        "quote": "日本最大級のOIプラットフォームを活用し、アクセラレータープログラムやビジネスビルド、また専任コンサルタントによる伴走支援で事業会社のOI実践を成功に導きます。"
+      },
+      {
+        "url": "https://auba.eiicon.net/about",
+        "title": "“出会い”を“事業”にするオープンイノベーションプラットフォーム",
+        "publisher": "eiicon / AUBA",
+        "accessed": "2026-06-02",
+        "supports": "founded_year (2017), rebrand to AUBA (2020), platform scale",
+        "quote": "AUBAは2017年2月、インテリジェンスの新規業務としてeiicon としてスタート... 累計34,000を越えた日本最大級のオープンイノベーションプラットフォーム... 2020年にeiicon（エイコン）からAUBA（アウバ）にリブランドされました。"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Operator of many corporate accelerator programs (e.g. Tokyu TAP, JR East); included as core segment entity. 34,000+ registrations per AUBA. Now part of PERSOL group.",
+    "last_updated": "2026-06-02",
+    "researched_by": "jp-corporate-accelerator"
+  }
+]
