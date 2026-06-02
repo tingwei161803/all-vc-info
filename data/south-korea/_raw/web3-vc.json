@@ -1,0 +1,726 @@
+[
+  {
+    "id": "kr-hashed",
+    "name": { "en": "Hashed", "local": "해시드" },
+    "aka": ["Hashed Lab"],
+    "type": "vc",
+    "subtypes": ["accelerator", "cvc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.hashed.com/",
+    "links": {
+      "twitter": "https://x.com/hashed_official",
+      "crunchbase": "https://www.crunchbase.com/organization/hashed-f96b",
+      "other": [
+        "https://www.hashed.com/portfolio/",
+        "https://medium.com/hashed-official",
+        "https://www.hashedem.com/"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "~$250 million (as of 2018 era reporting; >$1B in crypto assets per later reporting)", "usd": 250000000, "currency": "USD" },
+      "funds": [
+        { "name": "Early crypto assets fund (2017)", "vintage_year": 2017, "size": { "raw": "$600k initial", "usd": 600000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Asia", "Global"],
+      "sector_focus": ["web3-crypto", "gaming", "fintech"],
+      "thesis": "Global early-stage venture fund backing founders building the future of blockchain and cryptocurrency, with deep focus on Web3 infrastructure, finance, gaming and entertainment. Acts as both investor and ecosystem builder."
+    },
+    "track_record": {
+      "portfolio_count": "250+",
+      "notable_investments": [
+        { "company": "Aptos", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Terra", "sector": "web3-crypto", "outcome": "shutdown" },
+        { "company": "dYdX", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Axie Infinity (Sky Mavis)", "sector": "gaming", "outcome": "active" },
+        { "company": "CryptoQuant", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Simon Seojoon Kim", "role": "CEO & Managing Partner" },
+      { "name": "Ryan Sungho Kim", "role": "Co-founder" },
+      { "name": "Ethan Kyuntae Kim", "role": "Co-founder" }
+    ],
+    "summary": {
+      "en": "Hashed is South Korea's most prominent blockchain-focused venture firm and ecosystem builder, founded in 2017 by Simon Seojoon Kim and partners. Headquartered in Seoul with offices in San Francisco, Singapore and Abu Dhabi, it runs subsidiaries including Hashed Ventures (its VC fund arm), Hashed Emergent (emerging markets), UNOPND (Web3 incubation) and KODA (institutional custody, with KB Kookmin Bank and Haechi Labs).",
+      "local": "해시드는 2017년 김서준 대표 등이 설립한 대한민국 대표 블록체인 전문 투자사이자 액셀러레이터로, 서울 본사와 샌프란시스코·싱가포르·아부다비 거점을 두고 있다. 해시드벤처스(VC 운용), 해시드 이머전트(신흥시장), UNOPND(인큐베이션), KODA(기관 수탁) 등을 운영한다."
+    },
+    "sources": [
+      {
+        "url": "https://www.hashed.com/",
+        "title": "Home | Hashed",
+        "publisher": "Hashed",
+        "accessed": "2026-06-02",
+        "supports": "Description, sectors, offices, subsidiaries (Hashed Emergent, UNOPND, Factomind, ShardLab, KODA)",
+        "quote": "A team of blockchain experts and builders ... Seoul, Singapore, San Francisco, and Abu Dhabi ... Hashed Emergent ... UNOPND ... KODA (institutional custody)"
+      },
+      {
+        "url": "https://cryptoslate.com/how-a-south-korean-blockchain-fund-grew-from-600k-to-250-million-in-18-months/",
+        "title": "How A South Korean Blockchain Fund Grew from $600K to $250 Million in 18 Months",
+        "publisher": "CryptoSlate",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2017; $600k initial fund; ~$250M AUM",
+        "quote": "Starting in early 2017, Hashed opened one of Korea's first crypto assets funds with only $600k in capital and now manages nearly $250 million USD in assets."
+      },
+      {
+        "url": "https://www.kedglobal.com/venture-capital/newsView/ked202203110016",
+        "title": "Blockchain VC Hashed forecasts emergence of protocol economy",
+        "publisher": "KED Global",
+        "accessed": "2026-06-02",
+        "supports": "Founders Simon Seojoon Kim, Ryan Sungho Kim, Ethan Kyuntae Kim; founded September 2017",
+        "quote": "Hashed was founded by Simon Seojoon Kim, Ryan Sungho Kim, and Ethan Kyuntae Kim in September 2017."
+      },
+      {
+        "url": "https://reports.tiger-research.com/p/korea-institutional-crypto-2026-landscape-eng",
+        "title": "Korea Institutional Crypto: 2026 Landscape",
+        "publisher": "Tiger Research",
+        "accessed": "2026-06-02",
+        "supports": "KODA custody joint venture with KB Kookmin Bank and Haechi Labs",
+        "quote": "Hashed ... Co-founded KODA (a custody platform) alongside KB Kookmin Bank and Haechi Labs, combining traditional financial capital with crypto-native VC."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM figure ~$250M is from 2018-era reporting; later reporting cites >$1B in crypto assets across funds. Hashed (the brand) and Hashed Ventures (the VC fund-management entity) are listed as separate entities here per Korean corporate registration; dedup may merge.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "kr-hashed-ventures",
+    "name": { "en": "Hashed Ventures", "local": "해시드벤처스" },
+    "aka": ["Hashed Venture Fund"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.hashed.com/",
+    "links": {
+      "other": [
+        "https://thevc.kr/hashedventures",
+        "https://medium.com/hashed-official/hashed-venture-fund-ii-200m-for-web3-adoption-8a3ca1a851b6"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "해시드 벤처투자조합 1호 (Hashed Venture Fund I)", "vintage_year": 2020, "size": { "raw": "약 1,200억 원 / $120M", "usd": 120000000, "currency": "KRW" } },
+        { "name": "해시드 벤처투자조합 2호 (Hashed Venture Fund II)", "vintage_year": 2021, "size": { "raw": "약 2,400억 원 / $200M", "usd": 200000000, "currency": "KRW" } },
+        { "name": "해시드 벤처투자조합 3호 (Hashed Venture Fund III)", "vintage_year": 2024, "size": { "raw": "결성 진행 (SMBC Nikko 전략적 출자 포함)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "평균 약 33억 원 per deal (avg)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Global"],
+      "sector_focus": ["web3-crypto", "gaming", "fintech"],
+      "thesis": "VC fund-management arm of Hashed, investing across Web3 infrastructure, metaverse, blockchain gaming, NFTs and open/decentralized finance. Fund II LPs are 90%+ corporate builders active in Web3."
+    },
+    "track_record": {
+      "portfolio_count": "16 (THE VC registered deals)",
+      "notable_investments": [
+        { "company": "Terra", "sector": "web3-crypto", "outcome": "shutdown" },
+        { "company": "Axie Infinity", "sector": "gaming", "outcome": "active" },
+        { "company": "dYdX", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "zkSync (Matter Labs)", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Acala", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Simon Seojoon Kim (김서준)", "role": "CEO" },
+      { "name": "Sean Hong", "role": "General Partner" },
+      { "name": "Baek Kyoum Kim", "role": "General Partner" }
+    ],
+    "summary": {
+      "en": "Hashed Ventures is the registered VC fund-management arm of Hashed, established September 2020. It runs Hashed Venture Fund I (~KRW 120B / $120M, 2020, 100% private capital from LPs including Naver and Krafton), Fund II (~KRW 240B / $200M, 2021) targeting Web3 adoption across metaverse, gaming, NFTs and open finance, and Fund III (2024, with strategic investment from SMBC Nikko Securities).",
+      "local": "해시드벤처스는 해시드의 VC 운용 법인으로 2020년 9월 설립되었다. 1호 펀드(약 1,200억 원, 2020년, 네이버·크래프톤 등 100% 민간자본)와 2호 펀드(약 2,400억 원, 2021년), 3호 펀드(2024년, SMBC닛코 전략적 출자)를 운용하며 Web3·메타버스·블록체인 게임·NFT·디파이에 투자한다."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/hashedventures",
+        "title": "해시드벤처스(투자조합) - 기업정보 | THE VC",
+        "publisher": "THE VC",
+        "accessed": "2026-06-02",
+        "supports": "Founded 25 Sep 2020; Fund I ~1,200억; Fund II ~2,400억; Fund III April 2024; 16 deals; avg ~33억 원; CEO 김서준",
+        "quote": "해시드 벤처투자조합1호 ... 2020년 11월 ... 1.2 trillion won scale ... 해시드 벤처투자조합2호 ... December 2021 ... 2.4 trillion won scale ... 해시드 벤처투자조합3호 ... April 2024 ... 16 investment deals ... average investment size of approximately 3.318 billion won. CEO Kim Seo-jun (김서준)"
+      },
+      {
+        "url": "https://medium.com/hashed-official/hashed-venture-fund-ii-200m-for-web3-adoption-8a3ca1a851b6",
+        "title": "HASHED Venture Fund II: $200M for Web3 Adoption",
+        "publisher": "Hashed Team Blog (Medium)",
+        "accessed": "2026-06-02",
+        "supports": "Fund II = $200M announced 1 Dec 2021; 90%+ LPs are builders; focus metaverse/open finance/Web3 infra; portfolio Terra, Axie, dYdX, zkSync, Acala; Sean Hong & Baek Kim promoted to GP",
+        "quote": "$200M for Web3 Adoption ... 90%+ of our limited partners are builders ... Terra, Axie Infinity, Set Labs, dYdX, ZKSync, Coin98, Krystal, Republic, OnJuno, Ledn, and Acala ... Sean Hong and Baek Kim were promoted to General Partners"
+      },
+      {
+        "url": "https://www.coindesk.com/business/2020/12/23/south-koreas-hashed-raises-120m-venture-fund-for-crypto-deals",
+        "title": "South Korea's Hashed Raises $120M Venture Fund for Crypto Deals",
+        "publisher": "CoinDesk",
+        "accessed": "2026-06-02",
+        "supports": "Fund I = $120M",
+        "quote": "Hashed Ventures, Inc., has raised $120 million for a fund that will be focused on the new era of distributed networks."
+      },
+      {
+        "url": "https://www.theblock.co/linked/125991/south-korean-crypto-vc-hashed-launches-new-200-million-fund",
+        "title": "South Korean crypto VC Hashed launches new $200 million fund",
+        "publisher": "The Block",
+        "accessed": "2026-06-02",
+        "supports": "Fund II $200M for Web3 incl. metaverse, blockchain gaming, NFTs, DeFi",
+        "quote": "Hashed ... has launched a new $200 million fund. The Hashed Venture Fund II will invest in Web3 startups, including those focused on metaverse, blockchain gaming, NFTs, and DeFi."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "KRW fund sizes (1,200억 / 2,400억) align with the USD figures ($120M / $200M) reported by CoinDesk/The Block. THE VC's '1.2 trillion won' phrasing is a translation artifact for 1,200억 (120 billion won). Fund III size not yet disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "kr-dunamu-and-partners",
+    "name": { "en": "Dunamu & Partners", "local": "두나무앤파트너스" },
+    "aka": ["Dunamu & Partners VC Fund"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://dunamu.com/en",
+    "links": {
+      "other": ["https://dunamu.com/en/news/83"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Blockchain industry investment plan (3-year)", "vintage_year": 2018, "size": { "raw": "KRW 100 billion (approx. USD 84 million)", "usd": 84000000, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Global"],
+      "sector_focus": ["web3-crypto", "fintech", "gaming", "ai-ml"],
+      "thesis": "Professional investment arm of Dunamu (operator of Upbit, Korea's largest crypto exchange), investing in core blockchain technology and services, blockchain-application businesses, and adjacent fintech, gaming and AI/data sectors."
+    },
+    "track_record": {
+      "portfolio_count": "26 (as of May 2019)",
+      "notable_investments": [
+        { "company": "Terra", "sector": "web3-crypto", "outcome": "shutdown" },
+        { "company": "Rainist (Bank Salad)", "sector": "fintech", "outcome": "active" },
+        { "company": "Honest Fund", "sector": "fintech", "outcome": "active" },
+        { "company": "Sandbox Network", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "summary": {
+      "en": "Dunamu & Partners is the investment subsidiary of Dunamu, operator of Upbit (handles >80% of Korean virtual-asset trading). Founded March 2018, it announced a three-year ~KRW 100 billion (~$84M) plan to invest in the blockchain industry, having deployed >KRW 55 billion (~$46M) across 26 companies by May 2019. It also set up a KRW 100 billion blockchain-game fund with Neptune.",
+      "local": "두나무앤파트너스는 국내 최대 가상자산 거래소 업비트를 운영하는 두나무의 투자 자회사로 2018년 3월 설립되었다. 3년간 약 1,000억 원(약 8,400만 달러) 블록체인 산업 투자 계획을 발표했고, 2019년 5월 기준 26개 기업에 550억 원 이상을 투자했다."
+    },
+    "sources": [
+      {
+        "url": "https://dunamu.com/en/news/83",
+        "title": "[Press Release] Dunamu and Dunamu & Partners invests $46 Million into 26 Blockchain-related Startups",
+        "publisher": "Dunamu",
+        "accessed": "2026-06-02",
+        "supports": "Founded March 2018; KRW 100B (~$84M) 3-year plan; >KRW 55B (~$46M) into 26 companies; portfolio Terra, Rainist, Honest Fund, Sandbox Network; KRW 100B blockchain-game fund with Neptune",
+        "quote": "Dunamu & Partners was founded in March 2018 ... more than KRW 55 billion (approximately USD 46 million) ... KRW 100 billion (approximately USD 84 million) ... invested in 26 companies ... Terra ... Rainist ... in April 2018, the company partnered with Neptune to establish a KRW 100 billion investment fund dedicated to blockchain-based games."
+      },
+      {
+        "url": "https://reports.tiger-research.com/p/korea-institutional-crypto-2026-landscape-eng",
+        "title": "Korea Institutional Crypto: 2026 Landscape",
+        "publisher": "Tiger Research",
+        "accessed": "2026-06-02",
+        "supports": "Dunamu operates Upbit handling >80% of Korean virtual-asset trading; investment arm Dunamu & Partners",
+        "quote": "Dunamu is South Korea's leading fintech company which operates Upbit and primarily invests in the fintech, blockchain and AI/data/contents sector through its professional investment arm, Dunamu & Partners VC Fund."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Portfolio and deployment figures are from a 2019 press release; current AUM and total portfolio count likely larger but not verified. Note Dunamu the parent has since attracted large stakes from Hana, Samsung affiliates (2026).",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "kr-blockcrafters",
+    "name": { "en": "BlockCrafters", "local": "블록크래프터스" },
+    "aka": ["BlockCrafters Challenge X"],
+    "type": "accelerator",
+    "status": "dormant",
+    "founded_year": 2018,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://thevc.kr/BlockCrafters",
+    "links": {
+      "other": ["https://thevc.kr/BlockCrafters"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "약 2,000만원 ~ 5억 2,500만원 (avg ~1.6억 원)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Global"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Blockchain-focused early-stage accelerator supporting and investing in early blockchain startups; operated a global accelerating program 'BlockCrafters Challenge X'."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "약 2,000만원 ~ 5억 2,500만원 (range)", "usd": null, "currency": "KRW" },
+      "format": "hybrid",
+      "location": "Seoul",
+      "eligibility": "Early-stage blockchain startups"
+    },
+    "track_record": {
+      "portfolio_count": "13 (THE VC registered deals)",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "박수용 (Park Soo-yong)", "role": "Co-CEO" },
+      { "name": "송훈 (Song Hoon)", "role": "Co-CEO" }
+    ],
+    "summary": {
+      "en": "BlockCrafters is a Seoul-based blockchain accelerator founded May 2018 that ran the 'BlockCrafters Challenge X' global accelerating program and made 13 registered investments (avg ~KRW 161M, range ~KRW 20M–525M). As of October 2025 it was reported to be in court rehabilitation (회생절차), with its co-CEOs having faced legal proceedings tied to crypto-related cases.",
+      "local": "블록크래프터스는 2018년 5월 설립된 서울 소재 블록체인 액셀러레이터로, 글로벌 액셀러레이팅 프로그램 '블록크래프터스 챌린지엑스'를 운영하고 13건의 투자를 집행했다(평균 약 1.6억 원). 2025년 10월 기준 회생절차가 진행 중인 것으로 보도되었다."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/BlockCrafters",
+        "title": "블록크래프터스 - 7건의 투자 - THE VC",
+        "publisher": "THE VC",
+        "accessed": "2026-06-02",
+        "supports": "Founded May 2018; HQ Seocho, Seoul; co-CEOs 박수용, 송훈; 13 deals; avg ~1.6억 원 (range 2,000만~5억2,500만); rehabilitation as of Oct 2025",
+        "quote": "블록크래프터스는 2018년 5월에 설립된 한국 기반 액셀러레이터 ... 공동대표이사: 박수용, 송훈 ... 투자 집행: 13건 ... 평균 투자 규모: 약 1억 6091만원 (범위: 2000만원 ~ 5억 2500만원) ... 2025년 10월 기준, 회사는 회생절차 진행 중"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Details rely on a single secondary aggregator (THE VC). Status marked 'dormant' given reported court rehabilitation and legal issues affecting co-CEOs; this should be re-verified against primary court/registration records.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "kr-rok-capital",
+    "name": { "en": "ROK Capital", "local": "록캐피탈" },
+    "aka": [],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://rokcapital.io/",
+    "links": {
+      "other": [
+        "https://solana.com/hi/ecosystem/rokcapital",
+        "https://superscout.co/investor/rok-capital"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Solana ecosystem fund (with Solana Foundation)", "vintage_year": 2021, "size": { "raw": "up to $20 million", "usd": 20000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": "$1 million to $20 million", "usd_min": 1000000, "usd_max": 20000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Global"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Thesis-driven multi-strategy crypto fund founded 2016. Acts as a bridge for global Web3 projects entering Korea and supports Korean-origin projects in the Solana and Polkadot ecosystems, DeFi and NFTs."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Serum", "sector": "web3-crypto", "outcome": "shutdown" },
+        { "company": "Mercurial Finance", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Synthetify", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Parrot Protocol", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Brian Kang", "role": "General Partner" }
+    ],
+    "summary": {
+      "en": "ROK Capital is a Korea-based, thesis-driven multi-strategy crypto fund founded in 2016, focused on the Solana and Polkadot ecosystems, DeFi and NFTs. In 2021 it partnered with the Solana Foundation to launch a fund of up to $20M to develop the Solana ecosystem in Korea. Check sizes range from $1M to $20M; early portfolio includes Serum, Mercurial Finance, Synthetify and Parrot.",
+      "local": "록캐피탈(ROK Capital)은 2016년 설립된 한국 기반 크립토 전문 투자사로, 솔라나·폴카닷 생태계와 디파이·NFT에 집중한다. 2021년 솔라나 재단과 함께 최대 2,000만 달러 규모의 생태계 펀드를 출범했다."
+    },
+    "sources": [
+      {
+        "url": "https://cryptobriefing.com/solana-launches-20m-fund-with-korean-vc-firm/",
+        "title": "Solana Launches $20M Fund with Korean VC Firm",
+        "publisher": "Crypto Briefing",
+        "accessed": "2026-06-02",
+        "supports": "Up to $20M Solana ecosystem fund with ROK Capital; ROK Capital experts with 20+ yrs in Korea; GP Brian Kang; portfolio Mercurial, Synthetify, Symmetry, Parrot, Serum",
+        "quote": "ROK Capital, founded by a group of blockchain experts with over 20 years of experience in Korea, announced an ecosystem fund of up to $20M in partnership with the Solana Foundation ... ROK Capital general partner Brian Kang ... has already invested in Solana-based projects like Mercurial Finance, Synthetify, Symmetry, and Parrot, and also helped in bootstrapping Serum"
+      },
+      {
+        "url": "https://superscout.co/investor/rok-capital",
+        "title": "ROK Capital: The Early Stage Founder's Guide",
+        "publisher": "Superscout",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2016; check size $1M–$20M; stages seed–Series B & growth; Solana/Polkadot focus; contact@rokcapital.io",
+        "quote": "Founding Year: 2016 ... Check Size: $1 million to $20 million ... Investment Stages: Seed through Series B and Growth Equity ... Solana and Polkadot ecosystems, DeFi, NFTs ... contact@rokcapital.io"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year (2016) and check-size range come from a secondary investor-guide aggregator (Superscout); the $20M Solana fund is corroborated by multiple crypto-press outlets. Official website content not directly fetched.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "kr-hg-ventures",
+    "name": { "en": "HG Ventures", "local": "한강벤처스" },
+    "aka": ["Hangang Ventures"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.linkedin.com/company/hg-ventures-korea/",
+    "links": {
+      "twitter": "https://x.com/hgv_official",
+      "linkedin": "https://www.linkedin.com/company/hg-ventures-korea/",
+      "crunchbase": "https://www.crunchbase.com/organization/hg-ventures-5797",
+      "other": ["https://cryptorank.io/funds/hg-ventures/portfolio"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Global"],
+      "sector_focus": ["web3-crypto", "gaming", "fintech"],
+      "thesis": "Seoul-based crypto/blockchain VC with emphasis on seed and early-stage deals, particularly blockchain gaming, GameFi and NFTs. Portfolio spans 200+ blockchain projects across 20+ countries."
+    },
+    "track_record": {
+      "portfolio_count": "200+ blockchain projects",
+      "notable_investments": [
+        { "company": "Alien Worlds", "sector": "gaming", "outcome": "active" },
+        { "company": "Klaycity", "sector": "gaming", "outcome": "active" },
+        { "company": "ApeX Protocol", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "summary": {
+      "en": "HG Ventures (Hangang Ventures, 한강벤처스) is a Seoul-based crypto/blockchain venture capital firm founded in 2017, focused on seed and early-stage deals with an emphasis on blockchain gaming, GameFi and NFTs. It reports a portfolio of 200+ blockchain projects across 20+ countries and was active from 2018, with notable bets including Alien Worlds and Klaycity.",
+      "local": "HG벤처스(한강벤처스)는 2017년 설립된 서울 소재 크립토·블록체인 전문 VC로, 시드·초기 단계, 특히 블록체인 게임·GameFi·NFT에 집중한다. 20여 개국에 걸쳐 200개 이상의 블록체인 프로젝트에 투자했다고 밝히고 있다."
+    },
+    "sources": [
+      {
+        "url": "https://www.crunchbase.com/organization/hg-ventures-5797",
+        "title": "HG Ventures - Crunchbase Company Profile & Funding",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2017; Seoul; crypto/blockchain focus; seed/early stage",
+        "quote": "HG Ventures is a venture capital firm founded in 2017 and based in Seoul, South Korea, that seeks to invest in the cryptocurrency and blockchain sectors."
+      },
+      {
+        "url": "https://globalfintechseries.com/blockchain/korean-venture-capital-hg-ventures-invests-in-partners-derivatives-dex-apex-pro/",
+        "title": "Korean Venture Capital HG Ventures Invests in & Partners Derivatives DEX ApeX Pro",
+        "publisher": "Global Fintech Series",
+        "accessed": "2026-06-02",
+        "supports": "200+ blockchain projects across 20+ countries; seed/early-stage emphasis; top-tier projects incl. Alien Worlds, Klaycity",
+        "quote": "HG Ventures boasts over 200 blockchain-related projects spread across more than 20 countries worldwide ... emphasis on blockchain investments and primarily focus on seed stage and early stage VC deals."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "No official standalone website confirmed (LinkedIn/X used as primary handles). Founding year 2017 per Crunchbase; the Medium landscape article describes it as 'active since 2018, focuses on gaming and Southeast Asia'. Portfolio-count claim (200+) is self-reported.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "kr-blocore",
+    "name": { "en": "Blocore", "local": "블로코어" },
+    "aka": [],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.blocore.com/",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/blocore",
+      "other": [
+        "https://www.cypherhunter.com/en/p/blocore/",
+        "https://cryptorank.io/funds/blocore"
+      ]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Global"],
+      "sector_focus": ["web3-crypto", "gaming", "consumer"],
+      "thesis": "Entrepreneurship-driven multi-asset investment firm focused on Web3 across gaming, social, IP and technology, plus emerging financial ecosystems. Builds in-house game/IP projects (Moonfrost, Zanmang LOOPY) and structures cross-border deals."
+    },
+    "track_record": {
+      "portfolio_count": "40+ companies (50+ investments since 2018)",
+      "notable_investments": [
+        { "company": "The Sandbox", "sector": "gaming", "outcome": "unicorn" },
+        { "company": "Animoca Brands", "sector": "gaming", "outcome": "unicorn" },
+        { "company": "WEMIX (Wemade)", "sector": "gaming", "outcome": "active" },
+        { "company": "Klaytn", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "James Lim (임형철)", "role": "Founder & CEO", "linkedin": "https://www.linkedin.com/in/hlim1/" }
+    ],
+    "summary": {
+      "en": "Blocore is a Seoul-based (with Singapore presence) entrepreneurship-driven Web3 investment firm founded in 2018 by James Lim (Forbes 30 Under 30 Asia, ex-TGV founding partner). It invests across Web3 gaming, social, IP and technology, has made 50+ investments across 40 companies, and counts The Sandbox, Animoca Brands and Kong Studios among its unicorn portfolio. It also builds in-house games/IP (Moonfrost, Zanmang LOOPY) and partnered with Animoca Ventures.",
+      "local": "블로코어는 2018년 임형철 대표(전 TGV 창업 파트너)가 설립한 서울·싱가포르 기반 Web3 투자사로, 게임·소셜·IP·기술 분야에 투자한다. 더샌드박스, 애니모카브랜즈 등 유니콘을 포트폴리오에 두고 있으며 자체 게임·IP(문프로스트, 잔망루피)도 개발한다."
+    },
+    "sources": [
+      {
+        "url": "https://www.blocore.com/",
+        "title": "BLOCORE | 블로코어 | Start where others stop",
+        "publisher": "Blocore",
+        "accessed": "2026-06-02",
+        "supports": "HQ Seoul & Singapore; CEO James Lim (Forbes 30u30 Asia, ex-TGV); Web3 gaming/social/IP/tech focus; in-house projects Moonfrost, Zanmang LOOPY; Core Alliance gaming investment alliance",
+        "quote": "James Lim (CEO/Founder) - Forbes 30 under 30 Asia, former TGV Founding Partner ... Web3 across gaming, social, IP, and technology ... Moonfrost ... Zanmang LOOPY ... Core Alliance"
+      },
+      {
+        "url": "https://www.cypherhunter.com/en/p/blocore/",
+        "title": "BLOCORE Portfolio, Investments & Acquisitions",
+        "publisher": "CypherHunter (via web search)",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2018; 50+ investments; 40 companies incl. The Sandbox & Animoca Brands; 3 unicorns (The Sandbox, Animoca Brands, Kong Studios)",
+        "quote": "Since 2018, Blocore has executed 50+ investments ... has invested in 40 companies, including The Sandbox & Animoca Brands ... 3 unicorns in its portfolio - The Sandbox, Animoca Brands and Kong Studios"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Official site lists HQ as 'Singapore and Seoul'; founding year 2018 and portfolio claims (50+ investments, 40 companies, 3 unicorns) come from secondary aggregators since the official site did not state numbers. Some sources describe Blocore as a CVC arm of 'Aimed'.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "kr-nonce-classic",
+    "name": { "en": "Nonce Classic", "local": "논스클래식" },
+    "aka": ["nonce Classic"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://nonceclassic.org/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/nonceclassic",
+      "crunchbase": "https://www.crunchbase.com/organization/nonce-classic",
+      "other": ["https://nonceclassic.org/validating"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Nonce Classic (raised capital)", "vintage_year": null, "size": { "raw": "$3.38M total raised", "usd": 3380000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Global"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Crypto-native venture capital born from 'nonce', Korea's most influential Web3 hacker-house community. Funds and nurtures early-stage crypto companies and helps global Web3 projects enter the Korean market; also runs validator services."
+    },
+    "track_record": {
+      "portfolio_count": "30+ global projects",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Kang Yoo-bin", "role": "CEO" }
+    ],
+    "summary": {
+      "en": "Nonce Classic is a Seoul-based, crypto-native venture capital firm founded in 2020 out of 'nonce', Korea's most influential Web3 hacker-house community (250+ residents, 40+ startups born there). It has invested in 30+ global projects, focusing on early-stage crypto companies and Korean market entry for global Web3 projects, and operates validator services. It raised ~$3.38M with investors including SV Investment and KB Investment.",
+      "local": "논스클래식은 한국 최대 영향력의 Web3 해커하우스 커뮤니티 '논스'에서 2020년 설립된 크립토 네이티브 VC다. 초기 크립토 기업 투자와 글로벌 Web3 프로젝트의 한국 진출을 지원하며, 30개 이상의 글로벌 프로젝트에 투자했다. CEO는 강유빈."
+    },
+    "sources": [
+      {
+        "url": "https://nonceclassic.org/validating",
+        "title": "nonce classic",
+        "publisher": "Nonce Classic",
+        "accessed": "2026-06-02",
+        "supports": "Born from 'nonce' community (250+ residents); invested in 30+ global projects; Korean market entry focus; validator services",
+        "quote": "nonce, a grassroots crypto community that operated Korea's most influential hacker houses ... over 250 residents ... invested in over 30 global projects, assisting their entry into the Korean market."
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/nonce-classic",
+        "title": "nonce Classic - Crunchbase Company Profile & Funding",
+        "publisher": "Crunchbase (via web search)",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2020; Seoul; CEO Kang Yoo-bin; raised $3.38M from SV Investment, KB Investment; 40+ startups born at nonce",
+        "quote": "founded in 2020 and is based in Seoul, South Korea ... Kang Yoo-bin is the CEO ... raised a total of $3.38M with investors including SV Investment and KB Investment ... More than 40 startups were born at Nonce"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "The $3.38M figure is capital raised BY Nonce Classic (per Crunchbase), not a managed fund size. Founding year (2020) and CEO from secondary sources; official site did not state founding year or CEO.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "kr-vestigium",
+    "name": { "en": "Vestigium", "local": "베스티지움" },
+    "aka": [],
+    "type": "accelerator",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://www.vestigium.io/",
+    "links": {
+      "crunchbase": "https://cryptorank.io/funds/vestigium",
+      "other": [
+        "https://www.preqin.com/data/profile/fund-manager/vestigium/443874",
+        "https://koreatechdesk.com/altos-ventures-builds-a-co-investment-ecosystem-for-web-3-0-with-vestigium-krafton-snow"
+      ]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Global"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Described as Korea's first-generation blockchain accelerator, investing in seed/startup-stage cryptocurrency, digital asset and blockchain companies. Built a Web3 co-investment ecosystem with Altos Ventures, Krafton and Snow."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Terra", "sector": "web3-crypto", "outcome": "shutdown" },
+        { "company": "PlayDapp", "sector": "gaming", "outcome": "active" },
+        { "company": "Milk (MiL.k)", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Pay Protocol", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "summary": {
+      "en": "Vestigium is described as Korea's first-generation blockchain accelerator, investing in seed and startup-stage crypto, digital-asset and blockchain companies. Its track record includes early backing of Terra, Pay Protocol, MiL.k and PlayDapp, and it established a Web3 co-investment ecosystem alongside Altos Ventures, Krafton and Snow.",
+      "local": "베스티지움은 한국 1세대 블록체인 액셀러레이터로, 시드·스타트업 단계의 크립토·디지털자산·블록체인 기업에 투자한다. 테라, 페이프로토콜, 밀크(MiL.k), 플레이댑 등을 초기 투자했고, 알토스벤처스·크래프톤·스노우와 Web3 공동투자 생태계를 구축했다."
+    },
+    "sources": [
+      {
+        "url": "https://koreatechdesk.com/altos-ventures-builds-a-co-investment-ecosystem-for-web-3-0-with-vestigium-krafton-snow",
+        "title": "Altos Ventures builds a co-investment ecosystem for Web 3.0 with Vestigium, Krafton, & Snow",
+        "publisher": "KoreaTechDesk",
+        "accessed": "2026-06-02",
+        "supports": "First-generation blockchain accelerator; portfolio Terra, Pay Protocol, Milk, PlayDapp; co-investment with Altos Ventures, Krafton, Snow",
+        "quote": "Vestigium is a blockchain-specialized accelerator that has successfully nurtured and invested in leading blockchain projects such as Terra, Pay Protocol, Milk, and PlayDapp ... Korea's first-generation blockchain accelerator Vestigium will execute a joint investment with Altos Ventures, Krafton, and Snow"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Official site (vestigium.io) was unreachable (connection refused) at access time; details rely on secondary Korean tech press and fund databases. Founding year not verified, left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "kr-philosophia-ventures",
+    "name": { "en": "Philosophia Ventures", "local": "필로소피아벤처스" },
+    "aka": [],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://philosophiavc.com/",
+    "links": {
+      "crunchbase": "https://pitchbook.com/profiles/investor/497914-39"
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Global"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Thesis-driven, early-stage investors backing bold entrepreneurs building companies and protocols that lead paradigm shifts, with particular emphasis on Web3. Team has been in crypto since 2017."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [],
+    "summary": {
+      "en": "Philosophia Ventures is a Seoul-based, thesis-driven early-stage venture firm founded in June 2022 by a team of Web3 builders active since 2017. It backs founders building companies and protocols reshaping the future, with strong emphasis on Web3, and provides follow-on, advisory and marketing support.",
+      "local": "필로소피아벤처스는 2017년부터 활동해 온 Web3 빌더들이 2022년 6월 설립한 서울 소재 초기 단계 VC로, Web3 중심의 패러다임 전환을 이끄는 창업자에 투자한다."
+    },
+    "sources": [
+      {
+        "url": "https://philosophiavc.com/",
+        "title": "Philosophia Ventures",
+        "publisher": "Philosophia Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Founded June 2022; Seoul; team in crypto since 2017; thesis-driven early-stage Web3 focus",
+        "quote": "founded in June 2022, by a team of Web3 enthusiasts who have been on the scene since 2017 ... thesis-driven investors that back bold entrepreneurs who are building legendary companies and protocols reshaping the future of human life."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund size and specific portfolio not disclosed on official site; partner names not listed publicly. Sector focus inferred as Web3 from the firm's self-description and its appearance in Korean crypto-VC listings.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  },
+  {
+    "id": "kr-a41-ventures",
+    "name": { "en": "a41 Ventures", "local": "에이포티원벤처스" },
+    "aka": ["a41"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.a41ventures.com/",
+    "links": {
+      "crunchbase": "https://pitchbook.com/profiles/investor/481963-42",
+      "other": ["https://www.a41ventures.com/team/steve-kim"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Global"],
+      "sector_focus": ["web3-crypto"],
+      "thesis": "Korean investment firm focused on disruptive technologies leading the next digital innovation, investing on three theses: Web3 (next era of internet), Open Finance (next era of finance), and Metaverse (next era of digital experience)."
+    },
+    "track_record": {
+      "portfolio_count": "43 investments",
+      "notable_investments": [
+        { "company": "FLock.io", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "InceptionLRT", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Xociety", "sector": "gaming", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Steve Kim", "role": "Investment Analyst / Partner" }
+    ],
+    "summary": {
+      "en": "a41 Ventures is a Seoul-based crypto/blockchain venture firm (founded 2021) investing on three theses: Web3, Open Finance and Metaverse. It has made around 43 investments, including FLock.io, InceptionLRT and Xociety. (Note: distinct from 'a41' the blockchain-validator startup which shut down in 2025.)",
+      "local": "에이포티원벤처스(a41 Ventures)는 2021년 설립된 서울 소재 크립토·블록체인 투자사로, Web3·오픈파이낸스·메타버스 세 가지 테제에 따라 약 43건의 투자를 집행했다. 블록체인 밸리데이터 스타트업 'a41'(2025년 폐업)과는 별개 법인이다."
+    },
+    "sources": [
+      {
+        "url": "https://www.a41ventures.com/team/steve-kim",
+        "title": "a41 Ventures — Steve Kim",
+        "publisher": "a41 Ventures (via web search)",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2021; Seoul; three theses Web3/Open Finance/Metaverse; 43 investments; portfolio FLock.io, InceptionLRT, Xociety; Steve Kim role",
+        "quote": "Founded in 2021, a41 is a venture capital investment firm based in Seoul, South Korea ... three theses: 1) Winning the next era of internet - Web 3, 2) Winning the next era of finance - Open Finance, 3) Winning the next era of digital experience - Metaverse ... A41 has made 43 investments ... FLock.io, InceptionLRT, and Xociety"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Details aggregated via web search of the official site and PitchBook; official a41ventures.com page returned connection errors on direct fetch. There is naming ambiguity between 'a41 Ventures' (the investor) and 'a41' the blockchain-validator startup (predecessor 'a41 ventures' accelerator) that shut down in Nov 2025 — relationship not fully disentangled. Treat with caution.",
+    "last_updated": "2026-06-02",
+    "researched_by": "web3-vc"
+  }
+]

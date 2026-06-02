@@ -1,0 +1,1245 @@
+[
+  {
+    "id": "in-stellaris-venture-partners",
+    "name": { "en": "Stellaris Venture Partners" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "offices": [{ "country": "India", "city": "Bengaluru" }],
+    "website": "https://www.stellarisvp.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/stellaris-venture-partners",
+      "other": ["https://www.indianvcs.com/investor/stellaris-venture-partners"]
+    },
+    "capital": {
+      "aum": { "raw": "over $600M", "usd": 600000000, "currency": "USD" },
+      "current_fund": { "raw": "$300M (Fund III)", "usd": 300000000, "currency": "USD" },
+      "funds": [
+        { "name": "India Fund II", "vintage_year": 2021, "size": { "raw": "$225M", "usd": 225000000, "currency": "USD" } },
+        { "name": "India Fund III", "vintage_year": 2024, "size": { "raw": "$300M", "usd": 300000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India"],
+      "sector_focus": ["saas-enterprise", "consumer", "fintech", "ai-ml", "healthtech"],
+      "thesis": "Early-stage, technology-focused fund backing 'stellar founders building iconic businesses', often the first institutional check, across vertical SaaS, consumer brands, fintech and AI."
+    },
+    "track_record": {
+      "portfolio_count": "~50",
+      "notable_investments": [
+        { "company": "Mamaearth (Honasa Consumer)", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Whatfix", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Propelld", "sector": "fintech", "outcome": "active" },
+        { "company": "SaaS Labs", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Zouk", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Alok Goyal", "role": "Partner / Co-founder" },
+      { "name": "Rahul Chowdhri", "role": "Partner / Co-founder" },
+      { "name": "Ritesh Banglani", "role": "Partner / Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["saas", "consumer", "early-stage", "vertical-saas"],
+    "summary": {
+      "en": "Bengaluru-based early-stage VC founded in 2017 by ex-Helion partners Alok Goyal, Rahul Chowdhri and Ritesh Banglani. Invests pre-seed to Series A in vertical SaaS, consumer brands, fintech and AI; closed Fund III at $300M in November 2024, bringing AUM above $600M."
+    },
+    "sources": [
+      {
+        "url": "https://yourstory.com/2024/11/stellaris-venture-partners-closes-fund-mamaearth-zouk-whatfix",
+        "title": "Stellaris Venture Partners closes Fund III with $300M",
+        "publisher": "YourStory",
+        "accessed": "2026-06-02",
+        "supports": "Founders, founding year, Fund III size, AUM",
+        "quote": "founded in 2017 by Alok Goyal, Rahul Chowdhri and Ritesh Banglani ... announced the close of its Fund III at $300 million, with the new fund bringing Stellaris' total assets under managed (AUM) to more than $600 million."
+      },
+      {
+        "url": "https://joltoo.com/investors/stellaris-venture-partners",
+        "title": "Stellaris Venture Partners – $300M Fund",
+        "publisher": "Joltoo",
+        "accessed": "2026-06-02",
+        "supports": "Fund II size, founders, stages, deployment",
+        "quote": "raised $225 million as part of Fund II in August 2021 ... Pre-Seed, Seed, Series A ... 60% of portfolio companies were idea-stage at entry"
+      },
+      {
+        "url": "https://www.stellarisvp.com/",
+        "title": "Stellaris Venture Partners",
+        "publisher": "Stellaris Venture Partners",
+        "accessed": "2026-06-02",
+        "supports": "HQ, sector focus, portfolio",
+        "quote": "Backing stellar founders building iconic businesses ... Mamaearth, Whatfix, Propelld, Dashverse, Kiwi, Carpl, Zouk, Turno"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Some secondary sources label the latest fund 'Fund III' (yourstory/joltoo) and others 'India Fund II'; firm has raised a $225M fund (2021) and a $300M fund (2024). Check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "in-together-fund",
+    "name": { "en": "Together Fund" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "offices": [
+      { "country": "India", "city": "Bengaluru" },
+      { "country": "United States", "city": "San Francisco Bay Area" }
+    ],
+    "website": "https://www.together.fund/",
+    "links": {
+      "other": ["https://www.together.fund/team", "https://together.fund/faq/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Together Fund I", "vintage_year": 2021, "size": { "raw": "$85M", "usd": 85000000, "currency": "USD" } },
+        { "name": "Together Fund II", "vintage_year": 2023, "size": { "raw": "$150M", "usd": 150000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b"],
+      "check_size": { "raw": "$250,000 to $3 million", "usd_min": 250000, "usd_max": 3000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["India", "Global (India-origin SaaS)"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "India's first operator-and-founder-led fund, backing Indian SaaS and AI startups selling globally; founded by veteran SaaS operators who bring deep operational support."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Girish Mathrubootham", "role": "Co-founder & Managing Partner (Freshworks founder)" },
+      { "name": "Manav Garg", "role": "Co-founder & Managing Partner (Eka Software founder)" },
+      { "name": "Shubham Gupta", "role": "Founding General Partner" },
+      { "name": "Lakshmi Shankar", "role": "General Partner" },
+      { "name": "Avinash Raghava", "role": "Founding member (SaaSBoomi)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["saas", "ai", "operator-led", "global-saas"],
+    "summary": {
+      "en": "Operator-led SaaS/AI venture fund launched in 2021 by Freshworks' Girish Mathrubootham, Eka's Manav Garg, Shubham Gupta and Avinash Raghava. Backs 20-25 Indian SaaS startups from pre-seed to Series B with $250K-$3M checks; raised an $85M Fund I and a $150M Fund II (2023)."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2021/07/28/high-profile-entrepreneurs-launch-85-million-fund-to-back-indian-saas-startups/",
+        "title": "High-profile entrepreneurs launch $85 million fund to back Indian SaaS startups",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund I size, founders, check size, stages, SaaS focus",
+        "quote": "$85 million to back young Indian startups operating in the software-as-a-service space ... Girish Mathrubootham of Freshworks, Manav Garg of Eka Corporation, Shubham Gupta ... and Avinash Raghava ... The firm's check size will range between $250,000 to $3 million ... between 20 to 25 startups at pre-seed to Series B stages"
+      },
+      {
+        "url": "https://entrackr.com/2023/07/saas-focused-together-fund-announces-150-mn-fund-ii/",
+        "title": "SaaS-focused Together Fund announces $150 Mn Fund II",
+        "publisher": "Entrackr",
+        "accessed": "2026-06-02",
+        "supports": "Fund II size",
+        "quote": "Together Fund announces $150 Mn Fund II"
+      },
+      {
+        "url": "https://www.together.fund/team",
+        "title": "Meet the Together Team",
+        "publisher": "Together Fund",
+        "accessed": "2026-06-02",
+        "supports": "Team/partners",
+        "quote": "Girish Mathrubootham — Co-founder & Managing Partner; Manav Garg — Co-founder & Managing Partner; Shubham Gupta — Founding General Partner; Lakshmi Shankar — General Partner"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund II reported by Business Standard/Entrackr at $150M (2023); a larger ~$250M target was also reported as in progress. Portfolio count not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "in-a91-partners",
+    "name": { "en": "A91 Partners" },
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "offices": [
+      { "country": "India", "city": "Mumbai" },
+      { "country": "India", "city": "Gandhinagar" }
+    ],
+    "website": "https://a91partners.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/a91-partners",
+      "other": ["https://www.privateequityinternational.com/institution-profiles/a91-partners.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2019, "size": { "raw": "$351M", "usd": 351000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2021, "size": { "raw": "$550M", "usd": 550000000, "currency": "USD" } },
+        { "name": "Fund III", "vintage_year": 2025, "size": { "raw": "$665M", "usd": 665000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India"],
+      "sector_focus": ["consumer", "saas-enterprise", "fintech", "healthtech"],
+      "thesis": "Mid/growth-stage fund founded by former Sequoia (Peak XV) partners; backs ~15-17 established companies building long-term businesses across consumer, software/technology, financial services and healthcare."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Go Digit (Digit Insurance)", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Sugar Cosmetics", "sector": "consumer", "outcome": "active" },
+        { "company": "Exotel", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Atomberg", "sector": "consumer", "outcome": "active" },
+        { "company": "HealthKart", "sector": "consumer", "outcome": "active" },
+        { "company": "Blue Tokai Coffee Roasters", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Abhay Pandey", "role": "Co-founder & General Partner" },
+      { "name": "Gautam Mago", "role": "Co-founder & General Partner" },
+      { "name": "Kaushik Anand", "role": "Co-founder & General Partner" },
+      { "name": "VT Bharadwaj", "role": "Co-founder & General Partner" }
+    ],
+    "tags": ["growth", "consumer", "software", "mid-stage"],
+    "summary": {
+      "en": "Mumbai-based growth-stage fund founded in 2018 by ex-Sequoia India partners Abhay Pandey, Gautam Mago, Kaushik Anand and VT Bharadwaj. Invests across consumer, software/technology, financial services and healthcare; closed Fund III at $665M in 2025 (after $351M Fund I in 2019 and $550M Fund II in 2021)."
+    },
+    "sources": [
+      {
+        "url": "https://entrackr.com/news/a91-partners-closes-665-mn-fund-iii-8989239",
+        "title": "A91 Partners closes $665 Mn Fund III",
+        "publisher": "Entrackr",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founders, Fund III size, sector focus, portfolio",
+        "quote": "Founded in 2018 by former Peak XV partners Gautam Mago, Abhay Pandey, Kaushik Anand, and VT Bharadwaj ... final close of its third fund at $665 million ... invests across sectors such as consumer, healthcare, financial services, and technology ... portfolio includes companies like Digit Insurance, Inshorts, Sugar Cosmetics, Exotel, Healthkart, Paper Boat, and Plum"
+      },
+      {
+        "url": "https://inc42.com/buzz/a91-partners-hits-final-close-of-third-fund-at-665-mn/",
+        "title": "A91 Partners Hits Final Close Of Third Fund At $665 Mn",
+        "publisher": "Inc42",
+        "accessed": "2026-06-02",
+        "supports": "Prior fund sizes",
+        "quote": "closed their first fund in 2019 at $351 Mn and second fund at $550 Mn in 2021"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund III mandate reportedly targets 15-17 established companies; exact per-deal check size not publicly disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "in-chiratae-ventures",
+    "name": { "en": "Chiratae Ventures" },
+    "aka": ["IDG Ventures India"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2006,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "offices": [{ "country": "India", "city": "Bengaluru" }],
+    "website": "https://www.chiratae.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/idg-ventures-india"
+    },
+    "capital": {
+      "aum": { "raw": "$1.3 Billion Under Advisory", "usd": 1300000000, "currency": "USD" },
+      "funds": [
+        { "name": "7 funds (cumulative)", "vintage_year": null, "size": { "raw": "$1.3B across 7 funds", "usd": 1300000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": "Seed (Chiratae Sonic): ~$500K up to $2M", "usd_min": 500000, "usd_max": 2000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["consumer", "saas-enterprise", "healthtech", "fintech", "deeptech", "ecommerce"],
+      "thesis": "'Backing The Audacious' — technology-first multi-stage fund (formerly IDG Ventures India) with deep expertise in consumer and SaaS, running a seed program (Chiratae Sonic) and growth follow-ons."
+    },
+    "track_record": {
+      "portfolio_count": "136",
+      "notable_investments": [
+        { "company": "FirstCry", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "Cult.fit (CureFit)", "sector": "consumer", "outcome": "active" },
+        { "company": "CureFoods", "sector": "consumer", "outcome": "active" },
+        { "company": "AgroStar", "sector": "agritech", "outcome": "active" },
+        { "company": "Vayana", "sector": "fintech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Multiple (56 exits, 5 IPOs reported)", "type": "IPO/M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Sudhir Sethi", "role": "Founder & Chairman" },
+      { "name": "TC Meenakshisundaram", "role": "Founder & Managing Director" }
+    ],
+    "tags": ["consumer", "saas", "multi-stage", "idg"],
+    "summary": {
+      "en": "Bengaluru-based technology VC (formerly IDG Ventures India), founded 2006, with ~$1.3B under advisory across 7 funds. Deep consumer and SaaS focus; portfolio includes FirstCry, Cult.fit, CureFoods and AgroStar, with a reported 8 unicorns, 136 funded companies and 56 exits."
+    },
+    "sources": [
+      {
+        "url": "https://www.chiratae.com/",
+        "title": "Home - Chiratae Ventures",
+        "publisher": "Chiratae Ventures",
+        "accessed": "2026-06-02",
+        "supports": "AUM, fund count, portfolio stats, seed check size, thesis",
+        "quote": "$1.3 Billion Under Advisory ... 7 Funds ... 8 Unicorns ... 136 Funded Portfolio ... 56 Exits ... 5 IPOs ... Chiratae Sonic ... less than or equal to $500,00 up to $2 million ... Backing The Audacious"
+      },
+      {
+        "url": "https://www.indianvcs.com/investor/chiratae-ventures",
+        "title": "Chiratae Ventures - Investor Profile",
+        "publisher": "IndianVCs",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, former name",
+        "quote": "Chiratae Ventures (formerly IDG Ventures India), founded in 2006"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Homepage 'AUM' figures vary across sources ($550M committed / $750M+ AUM / $1.3B under advisory). Founded year (2006) reflects IDG Ventures India origin; firm rebranded to Chiratae in 2018.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "in-elevation-capital",
+    "name": { "en": "Elevation Capital" },
+    "aka": ["SAIF Partners", "SAIF Partners India"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2002,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Gurugram",
+    "offices": [
+      { "country": "India", "city": "Gurugram" },
+      { "country": "India", "city": "Bengaluru" }
+    ],
+    "website": "https://www.elevationcapital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/saif-partners",
+      "other": ["https://tracxn.com/d/venture-capital/elevationcapital/__krRDXX__IuTrMZrM9JgNPAdXOYnVzU0XEwR0TornlPM"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$670M (Fund VIII)", "usd": 670000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund VIII", "vintage_year": null, "size": { "raw": "$670M", "usd": 670000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$2M – $5M", "usd_min": 2000000, "usd_max": 5000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India"],
+      "sector_focus": ["consumer", "ecommerce", "fintech", "saas-enterprise", "web3-crypto"],
+      "thesis": "'Built for the Audacious' — early-stage (seed to Series A) fund, formerly SAIF Partners, backing consumer tech, consumer brands, fintech, SaaS and Web3, writing $2M-$5M first checks."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Paytm", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Meesho", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "FirstCry", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "Swiggy", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Urban Company", "sector": "consumer", "outcome": "active" },
+        { "company": "ShareChat", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Ravi Adusumalli", "role": "Founder & Managing Partner" }
+    ],
+    "tags": ["consumer", "ecommerce", "fintech", "early-stage"],
+    "summary": {
+      "en": "Early-stage VC founded in 2002 by Ravi Adusumalli (formerly SAIF Partners). Invests seed to Series A with $2M-$5M checks across consumer tech, consumer brands, fintech, SaaS and Web3; Fund VIII is $670M. Portfolio includes Paytm, Meesho, Swiggy, FirstCry and Urban Company; 13 portfolio unicorns."
+    },
+    "sources": [
+      {
+        "url": "https://inc42.com/buzz/elevation-capital-launches-670-mn-fund-to-invest-up-to-5-mn-in-early-stage-startups/",
+        "title": "Elevation Capital Launches $670 Mn Fund",
+        "publisher": "Inc42",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founder, Fund VIII size, check size, stages, sectors, portfolio, unicorn count",
+        "quote": "Founded in 2002 by Ravi Adusumalli, Elevation Capital (formerly SAIF Partners) ... has launched a $670 Mn Fund VIII ... writing cheques between $2 Mn – $5 Mn ... seed to series A funding rounds ... invest in consumer tech, consumer brands, fintech, SaaS and Web3 ... 13 of its portfolio companies have joined the unicorn club"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded year 2002 reflects SAIF Partners India origin; rebranded to Elevation Capital in 2021.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "in-accel-india",
+    "name": { "en": "Accel (India)" },
+    "aka": ["Accel India", "Accel Partners India", "Erasmic Venture Fund"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2008,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "offices": [{ "country": "India", "city": "Bengaluru" }],
+    "website": "https://www.accel.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/accel-india"
+    },
+    "capital": {
+      "current_fund": { "raw": "$650M (Fund VIII)", "usd": 650000000, "currency": "USD" },
+      "funds": [
+        { "name": "India Fund VIII", "vintage_year": 2025, "size": { "raw": "$650M", "usd": 650000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India"],
+      "sector_focus": ["consumer", "saas-enterprise", "fintech", "ai-ml", "ecommerce"],
+      "thesis": "Early-stage fund (Indian arm of Accel, originally Erasmic) backing category-defining founders across consumer tech, SaaS, fintech, AI and manufacturing."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Flipkart", "sector": "ecommerce", "outcome": "acquired" },
+        { "company": "Freshworks", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Swiggy", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Zinka Logistics (BlackBuck)", "sector": "logistics", "outcome": "IPO" }
+      ],
+      "exits": [
+        { "company": "Swiggy", "type": "IPO", "year": 2024, "value": { "raw": "35x return reported", "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Prashanth Prakash", "role": "Partner" },
+      { "name": "Subrata Mitra", "role": "Partner" },
+      { "name": "Mahendran Balachandran", "role": "Partner" }
+    ],
+    "tags": ["consumer", "saas", "early-stage", "tier1"],
+    "summary": {
+      "en": "Indian early-stage practice of Accel (started investing in India in 2005, first India fund 2008). Backs consumer tech, SaaS, fintech and AI; portfolio includes Flipkart, Freshworks and Swiggy. Closed an $650M India Fund VIII in early 2025, taking total India commitment to ~$3B."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2025/01/01/accel-closes-650-million-for-new-india-fund/",
+        "title": "Accel closes $650 million for new India fund",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund VIII size, India history, total commitment, portfolio, sectors",
+        "quote": "Accel ... eighth early-stage fund with a $650 million commitment ... started investing in India back in 2005, with the first fund launching in 2008 at $10 million ... total investment commitment to India's start-up ecosystem will reach around $3 billion ... backed companies including e-commerce group Flipkart, food delivery platform Swiggy, and software group Freshworks"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Accel is a global firm; this entity covers its dedicated India early-stage practice and India Fund VIII. Per-deal check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "in-z47",
+    "name": { "en": "Z47" },
+    "aka": ["Matrix Partners India"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2006,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "offices": [
+      { "country": "India", "city": "Bengaluru" },
+      { "country": "India", "city": "Mumbai" }
+    ],
+    "website": "https://z47.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/matrix-partners-india"
+    },
+    "capital": {
+      "aum": { "raw": "$1.5 Bn", "usd": 1500000000, "currency": "USD" },
+      "current_fund": { "raw": "$525M (Fund IV)", "usd": 525000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund IV", "vintage_year": null, "size": { "raw": "$525M", "usd": 525000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["fintech", "consumer", "saas-enterprise", "ai-ml", "ecommerce", "healthtech"],
+      "thesis": "Multi-stage early-stage fund (formerly Matrix Partners India), investing seed to Series B across fintech, consumer brands, SaaS, AI, B2B commerce and more; renamed Z47 after India's 2047 vision."
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "notable_investments": [
+        { "company": "Razorpay", "sector": "fintech", "outcome": "active" },
+        { "company": "Ola", "sector": "mobility", "outcome": "active" },
+        { "company": "DailyHunt", "sector": "consumer", "outcome": "active" },
+        { "company": "Country Delight", "sector": "consumer", "outcome": "active" },
+        { "company": "Captain Fresh", "sector": "ecommerce", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Avnish Bajaj", "role": "Founder & Managing Director" },
+      { "name": "Vikram Vaidyanathan", "role": "Managing Director" }
+    ],
+    "tags": ["fintech", "consumer", "saas", "multi-stage"],
+    "summary": {
+      "en": "Multi-stage early-stage VC (formerly Matrix Partners India), which entered India in 2006 and rebranded to Z47 in 2024. Manages ~$1.5B, invests seed to Series B across fintech, consumer, SaaS, AI and commerce. Fourth fund is $525M; backed 100+ startups including Razorpay, Ola and DailyHunt."
+    },
+    "sources": [
+      {
+        "url": "https://inc42.com/buzz/matrix-partners-india-rebrands-to-z47-as-part-of-a-global-renaming-exercise/",
+        "title": "Matrix Partners India Rebrands to Z47",
+        "publisher": "Inc42",
+        "accessed": "2026-06-02",
+        "supports": "India entry year, AUM, Fund IV size, portfolio count, rebrand",
+        "quote": "Matrix Partners first entered India in 2006 and has since then grown to manage investments to the tune of $1.5 Bn ... rolled out its fourth fund with a size of $525 Mn ... backed more than 100 startups and counts the likes of A23, CreditVidya, Captain Fresh, DailyHunt, Foxtale, and Country Delight ... the name Z47 is inspired by India's journey towards becoming a developed country by 2047"
+      },
+      {
+        "url": "https://www.indianstartuptimes.com/news/matrix-partners-india-rebrands-as-z47-to-reflect-indias-vision-for-2047/",
+        "title": "Matrix Partners India Rebrands as Z47",
+        "publisher": "Indian Startup Times",
+        "accessed": "2026-06-02",
+        "supports": "Sector/stage focus, portfolio",
+        "quote": "invest from Seed to Series B, spanning major sectors such as FinTech, Consumer Brands, SaaS, AI, B2B Commerce, Health Tech, EdTech, Logistics ... Razorpay, Ola, and Jupiter"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM cited at $1.5B (Inc42) vs $3.5B in some listing sites; Razorpay/Ola attributed to the India franchise. Per-deal check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "in-nexus-venture-partners",
+    "name": { "en": "Nexus Venture Partners" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2006,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "offices": [
+      { "country": "India", "city": "Mumbai" },
+      { "country": "India", "city": "Bengaluru" },
+      { "country": "United States", "city": "Menlo Park" }
+    ],
+    "website": "https://nexusvp.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/nexus-venture-partners",
+      "other": ["https://tracxn.com/d/venture-capital/nexus-venture-partners/__G9LRJyhNbLiPtHrwxNoWMQ7Dwn6yAUswC0dEEiOwTOA"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$700M (Fund VII)", "usd": 700000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund VII", "vintage_year": 2023, "size": { "raw": "$700M", "usd": 700000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["India", "United States"],
+      "sector_focus": ["saas-enterprise", "consumer", "fintech", "ai-ml"],
+      "thesis": "Cross-border early-and-growth VC (India + US) investing in fintech, consumer, SaaS/enterprise and AI; known for global SaaS/enterprise companies built from India."
+    },
+    "track_record": {
+      "portfolio_count": "249",
+      "notable_investments": [
+        { "company": "Postman", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Druva", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Delhivery", "sector": "logistics", "outcome": "IPO" },
+        { "company": "Zepto", "sector": "ecommerce", "outcome": "active" },
+        { "company": "Rapido", "sector": "mobility", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Suvir Sujan", "role": "Co-founder & Managing Director" },
+      { "name": "Sandeep Singhal", "role": "Co-founder & Managing Director" },
+      { "name": "Naren Gupta", "role": "Co-founder (deceased 2021)" },
+      { "name": "Jishnu Bhattacharjee", "role": "Managing Director" }
+    ],
+    "tags": ["saas", "enterprise", "consumer", "cross-border"],
+    "summary": {
+      "en": "Cross-border (India + US) VC founded 2006 by Suvir Sujan, Sandeep Singhal and Naren Gupta. Invests early-to-growth across SaaS/enterprise, consumer, fintech and AI; closed its largest fund, Fund VII, at $700M in 2023. Portfolio includes Postman, Druva, Delhivery and Zepto."
+    },
+    "sources": [
+      {
+        "url": "https://www.outlookbusiness.com/investors/nexus-venture-partner-closes-its-fund-vii-at-700-million-news-7663",
+        "title": "Nexus Venture Partner Closes Its Fund VII At $700 Million",
+        "publisher": "Outlook Business",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founders, Fund VII size, sectors, portfolio",
+        "quote": "founded in 2006 by Suvir Sujan, Sandeep Singhal and Naren Gupta ... closed its seventh fund at $700 million ... invest in start-up sectors including fintech, consumer, SaaS (software-as-a-service) and artificial intelligence (AI), in India and the US ... backed multiple unicorns like Delhivery, Rapido, Zepto, Postman, Druva"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Portfolio count (249) from Tracxn as of mid-2026; per-deal check size not publicly disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "in-lightspeed-india-partners",
+    "name": { "en": "Lightspeed India Partners" },
+    "aka": ["Lightspeed Venture Partners India"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "offices": [
+      { "country": "India", "city": "Bengaluru" },
+      { "country": "India", "city": "New Delhi" }
+    ],
+    "website": "https://lsvp.com/global-presence/lightspeed-india/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/lightspeed-india-partners"
+    },
+    "capital": {
+      "current_fund": { "raw": "$500M (Lightspeed India IV, India + SEA)", "usd": 500000000, "currency": "USD" },
+      "funds": [
+        { "name": "Lightspeed India II", "vintage_year": 2018, "size": { "raw": "$180M", "usd": 180000000, "currency": "USD" } },
+        { "name": "Lightspeed India III", "vintage_year": 2020, "size": { "raw": "$275M", "usd": 275000000, "currency": "USD" } },
+        { "name": "Lightspeed India IV", "vintage_year": 2022, "size": { "raw": "$500M", "usd": 500000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["India", "Southeast Asia"],
+      "sector_focus": ["consumer", "saas-enterprise", "fintech", "ai-ml", "climate-energy"],
+      "thesis": "India practice of Lightspeed (investing in India since 2007), focused on being first institutional capital across consumer tech, SaaS, fintech, climate, EV, AI and Web3, for both 'built in India for the world' and 'built for India' models."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Udaan", "sector": "ecommerce", "outcome": "active" },
+        { "company": "ShareChat", "sector": "consumer", "outcome": "active" },
+        { "company": "Innovaccer", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Razorpay", "sector": "fintech", "outcome": "active" },
+        { "company": "OYO", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Bejul Somaia", "role": "Partner" },
+      { "name": "Dev Khare", "role": "Partner" },
+      { "name": "Hemant Mohapatra", "role": "Partner" }
+    ],
+    "tags": ["consumer", "saas", "fintech", "india-sea"],
+    "summary": {
+      "en": "India (and Southeast Asia) practice of Lightspeed, investing in India since 2007 with dedicated region funds from 2015. Backs consumer tech, SaaS, fintech, climate and AI. Fund IV closed at a $500M hard cap (2022); portfolio includes Udaan, ShareChat, Innovaccer and Razorpay."
+    },
+    "sources": [
+      {
+        "url": "https://inc42.com/buzz/byjus-oyo-backer-lightspeed-closes-500-mn-fund-to-invest-in-india-sea-startups/",
+        "title": "Lightspeed Closes $500 Mn Fund To Invest In India, SEA Startups",
+        "publisher": "Inc42",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV/III/II sizes, India investing history, portfolio",
+        "quote": "closing of Lightspeed India IV at its $500M hard-cap ... since our first India investment in 2007 ... Fund III was raised in 2020 with a commitment of $275 Mn, while Fund II raised $180 Mn in 2018 ... portfolio includes category leaders such as BYJU'S, OYO, Udaan, Sharechat"
+      },
+      {
+        "url": "https://lsvp.com/global-presence/lightspeed-india/",
+        "title": "Lightspeed India, focused on being first institutional capital",
+        "publisher": "Lightspeed Venture Partners",
+        "accessed": "2026-06-02",
+        "supports": "Sector focus, thesis",
+        "quote": "invests across key sectors including consumer technology, SaaS, fintech, climate tech, electric mobility, AI, and Web3"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Latest India IV fund is shared across India and Southeast Asia. Founding year 2015 reflects first dedicated India fund; Lightspeed globally invested in India from 2007.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "in-kalaari-capital",
+    "name": { "en": "Kalaari Capital" },
+    "aka": ["Indo-US Venture Partners"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2011,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "offices": [{ "country": "India", "city": "Bengaluru" }],
+    "website": "https://www.kalaari.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/kalaari-capital",
+      "other": ["https://tracxn.com/d/venture-capital/kalaari-capital/__nmJxhS2XJwLP9-Lmd1RP_jSElZJ50toovUI06SL8q6o"]
+    },
+    "capital": {
+      "aum": { "raw": "~$650M", "usd": 650000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I (as Indo-US/Kalaari)", "vintage_year": null, "size": { "raw": "$150M", "usd": 150000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India"],
+      "sector_focus": ["consumer", "ecommerce", "saas-enterprise", "deeptech", "ai-ml"],
+      "thesis": "Early-stage, technology-focused fund backing disruptive consumer and enterprise startups; focuses on B2C/e-commerce, deeptech and SaaS/DevOps."
+    },
+    "track_record": {
+      "portfolio_count": "157",
+      "notable_investments": [
+        { "company": "Dream11 (Dream Sports)", "sector": "gaming", "outcome": "active" },
+        { "company": "Cult.fit (CureFit)", "sector": "consumer", "outcome": "active" },
+        { "company": "Myntra", "sector": "ecommerce", "outcome": "acquired" },
+        { "company": "Bluestone", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "Snapdeal", "sector": "ecommerce", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Vani Kola", "role": "Founder & Managing Director" }
+    ],
+    "tags": ["consumer", "ecommerce", "saas", "early-stage"],
+    "summary": {
+      "en": "Bengaluru-based early-stage tech VC led by Vani Kola; began as Indo-US Venture Partners (2006) and rebranded as Kalaari Capital in 2011 with a $150M fund. Manages ~$650M; portfolio (157 companies, 8 unicorns) spans B2C/e-commerce, SaaS/DevOps and deeptech — Dream11, Cult.fit, Myntra, Bluestone."
+    },
+    "sources": [
+      {
+        "url": "https://www.indianvcs.com/investor/kalaari-capital",
+        "title": "Kalaari Capital - Investor Profile",
+        "publisher": "IndianVCs",
+        "accessed": "2026-06-02",
+        "supports": "Origin/rebrand, founding, fund size, AUM, portfolio, sectors",
+        "quote": "originally established as Indo-US Venture Partners ... in 2006. By 2011, the company was rebranded as Kalaari Capital ... began operations as a $150 million fund ... manages approximately $650 million in assets under management ... portfolio consists of 157 companies, including 8 unicorns and 3 IPOs ... B2C/Ecommerce, DeepTech/Hard Science, SaaS/DevOps"
+      },
+      {
+        "url": "https://www.globalindian.com/story/startups/vani-kola-of-kalaari-capital-is-the-wind-beneath-a-unicorns-wings/",
+        "title": "Meet Vani Kola, founder of Kalaari Capital",
+        "publisher": "Global Indian",
+        "accessed": "2026-06-02",
+        "supports": "Founder, notable investments",
+        "quote": "Cure.fit, Myntra, Snapdeal, Dream11, Urban Ladder and YourStory"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded year 2011 reflects Kalaari rebrand; lineage traces to Indo-US Venture Partners (2006). Per-deal check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "in-blume-ventures",
+    "name": { "en": "Blume Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2010,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "offices": [
+      { "country": "India", "city": "Mumbai" },
+      { "country": "India", "city": "Bengaluru" }
+    ],
+    "website": "https://blume.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/blume-ventures",
+      "other": ["https://tracxn.com/d/venture-capital/blume-venture/__BMaDyIZX1t-9bXMxZDLfjoDApSKa0kF_Fwe7LeU6aP8"]
+    },
+    "capital": {
+      "aum": { "raw": "over US$900 million", "usd": 900000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund IV", "vintage_year": 2021, "size": { "raw": "over $200M", "usd": 200000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India"],
+      "sector_focus": ["fintech", "saas-enterprise", "deeptech", "consumer"],
+      "thesis": "India's leading homegrown seed-stage fund, market-thesis-driven, investing seed and Series A in fintech, enterprise software, deeptech and consumer applications addressing domestic challenges with global scale potential."
+    },
+    "track_record": {
+      "portfolio_count": "332",
+      "notable_investments": [
+        { "company": "Unacademy", "sector": "edtech", "outcome": "active" },
+        { "company": "Smallcase", "sector": "fintech", "outcome": "active" },
+        { "company": "Servify", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Ultrahuman", "sector": "healthtech", "outcome": "active" },
+        { "company": "Exotel", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Karthik Reddy", "role": "Co-founder & Managing Partner" },
+      { "name": "Sanjay Nath", "role": "Co-founder & Managing Partner" }
+    ],
+    "tags": ["seed", "fintech", "saas", "consumer"],
+    "summary": {
+      "en": "Mumbai-based early-stage (seed/Series A) VC founded in 2010 by Karthik Reddy and Sanjay Nath, with over $900M AUM. Market-thesis-driven across fintech, enterprise software, deeptech and consumer; Fund IV was over $200M (2021). 332 portfolio companies incl. Unacademy, Smallcase and Servify."
+    },
+    "sources": [
+      {
+        "url": "https://blume.vc/team/karthik-reddy",
+        "title": "Karthik Reddy - Blume Ventures",
+        "publisher": "Blume Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Founders, AUM, portfolio companies",
+        "quote": "Co-founder and Managing Partner at Blume Ventures, one of India's leading early-stage venture funds with over US$900 million in AUM ... Smallcase, Servify, Ultrahuman, LeverageEdu, Niqo Robotics, Unacademy, GreyOrange, Stage, Exotel, IDfy"
+      },
+      {
+        "url": "https://tracxn.com/d/venture-capital/blume-venture/__BMaDyIZX1t-9bXMxZDLfjoDApSKa0kF_Fwe7LeU6aP8",
+        "title": "Blume Venture - Investor Profile",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, Fund IV size, portfolio count, sectors",
+        "quote": "founded in 2010 by Karthik Reddy and Sanjay Nath ... raised over $200M Fund IV in 2021 ... backed 332 portfolio companies to date ... financial technology, enterprise software, deep technology, and consumer applications"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Per-deal check size not publicly fixed; Blume is a generalist seed fund with strong SaaS/enterprise and consumer exposure. Included for clear consumer/SaaS overlap.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "in-iron-pillar",
+    "name": { "en": "Iron Pillar" },
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "offices": [
+      { "country": "India", "city": "Bengaluru" },
+      { "country": "India", "city": "Mumbai" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "website": "https://www.ironpillarfund.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/iron-pillar",
+      "other": ["https://tracxn.com/d/venture-capital/iron-pillar/__CAvzXSeHmL1ccW5puAjPZqdenY0gLnKduheT1DuTAwU"]
+    },
+    "capital": {
+      "aum": { "raw": "nearly $500 million", "usd": 500000000, "currency": "USD" },
+      "current_fund": { "raw": "$129M (Global Cloud Fund II)", "usd": 129000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I series", "vintage_year": null, "size": { "raw": "$300M", "usd": 300000000, "currency": "USD" } },
+        { "name": "Global Cloud Fund II", "vintage_year": 2023, "size": { "raw": "$129M", "usd": 129000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India", "Global"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "Venture-growth fund dedicated to global cloud software / SaaS companies built from India; leads Series B/C rounds and doubles down 5x-10x on breakout businesses selling globally."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Uniphore", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Servify", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "FreshToHome", "sector": "ecommerce", "outcome": "active" },
+        { "company": "BlueStone", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "CureFoods", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Anand Prasanna", "role": "Managing Partner" },
+      { "name": "Mohanjit Jolly", "role": "Partner" }
+    ],
+    "tags": ["saas", "cloud", "growth", "series-b-c"],
+    "summary": {
+      "en": "Bengaluru-based venture-growth fund (founded 2016) dedicated to global cloud/SaaS companies built from India. Leads Series B/C rounds; ~$500M AUM ($300M Fund I series + $129M Global Cloud Fund II, 2023). Portfolio includes Uniphore, Servify and FreshToHome; 2 unicorns (Uniphore, Snapdeal)."
+    },
+    "sources": [
+      {
+        "url": "https://entrackr.com/2023/04/iron-pillar-closes-new-fund-at-129-mn-to-back-saas-startups/",
+        "title": "Iron Pillar closes new fund at $129 Mn to back SaaS startups",
+        "publisher": "Entrackr",
+        "accessed": "2026-06-02",
+        "supports": "Fund II size, AUM, stages, SaaS focus, portfolio, leadership",
+        "quote": "Global Cloud Fund II with a corpus of $129 million ... nearly $500 million in assets under management, which includes $300 million in Fund I series, $129 million under the global cloud fund ... invest in Series B and C rounds of cloud software companies or software-as-a-service (SaaS) firms from India ... led by Prasanna and Mohanjit Jolly"
+      },
+      {
+        "url": "https://inc42.com/buzz/iron-pillar-closes-129-mn-fund-to-back-series-b-series-c-stage-saas-startups/",
+        "title": "Iron Pillar Closes $129 Mn Fund To Back Series B & Series C Stage SaaS Startups",
+        "publisher": "Inc42",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, unicorns, portfolio",
+        "quote": "founded in 2016 ... 2 unicorns in its portfolio - Uniphore and Snapdeal"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Per-deal check size not disclosed; firm doubles initial investments 5x-10x for breakouts.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "in-avataar-venture-partners",
+    "name": { "en": "Avataar Venture Partners" },
+    "aka": ["Avataar Ventures"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "offices": [
+      { "country": "India", "city": "Bengaluru" },
+      { "country": "India", "city": "New Delhi" },
+      { "country": "United States", "city": "Santa Clara" }
+    ],
+    "website": "https://www.avataar.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/avataar-venture-partners"
+    },
+    "capital": {
+      "aum": { "raw": "$1B", "usd": 1000000000, "currency": "USD" },
+      "current_fund": { "raw": "$350M (Fund II)", "usd": 350000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2019, "size": { "raw": "$300M", "usd": 300000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "$350M", "usd": 350000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "$10M to $30M per company", "usd_min": 10000000, "usd_max": 30000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India", "Southeast Asia", "Global"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "Growth-stage operational VC partnering with regional tech-led B2B and SaaS companies (≥$15M revenue) to reinvent, scale and transform into enduring global businesses; provides hands-on GTM, M&A and IPO support."
+    },
+    "track_record": {
+      "portfolio_count": "22",
+      "notable_investments": [
+        { "company": "Zenoti", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Capillary Technologies", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Amagi", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "RateGain", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "ElasticRun", "sector": "logistics", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "RateGain", "type": "IPO", "year": 2021, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Capillary Technologies", "type": "IPO", "year": 2025, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Mohan Kumar", "role": "Founder & Managing Partner" },
+      { "name": "Nishant Rao", "role": "Founding Partner (ex-Freshworks COO)" }
+    ],
+    "tags": ["saas", "b2b", "growth", "operational-vc"],
+    "summary": {
+      "en": "Bengaluru-based growth-stage operational VC founded July 2019 by Mohan Kumar (ex-Norwest) and Nishant Rao (ex-Freshworks COO). Backs B2B/SaaS companies with ≥$15M revenue, writing $10M-$30M checks; $1B AUM ($300M Fund I, $350M Fund II). Exits include RateGain and Capillary IPOs."
+    },
+    "sources": [
+      {
+        "url": "https://yourstory.com/2019/09/avataar-venture-partners-300-milllion-fund-b2b-saas-startups",
+        "title": "Avataar Venture Partners sets up $300 million fund to invest in B2B and SaaS startups",
+        "publisher": "YourStory",
+        "accessed": "2026-06-02",
+        "supports": "Founding (July 2019), founders, Fund I size, B2B/SaaS focus, check size, revenue threshold",
+        "quote": "founded by Mohan Kumar, former partner with Norwest Venture Partners India and Nishant Rao, ex-chief operating officer, Freshworks ... in July 2019 ... a $300 million fund ... $10–30 million growth-stage investments in B2B and SaaS companies that have at least $15 million in annual recurring revenues"
+      },
+      {
+        "url": "https://www.avataar.vc/",
+        "title": "Avataar Venture Partners",
+        "publisher": "Avataar Venture Partners",
+        "accessed": "2026-06-02",
+        "supports": "Fund II size, AUM, portfolio count, exits, focus",
+        "quote": "Fund 2: $350 million ... Assets Under Management: $1B ... B2B SaaS and growth-stage companies ... 3 IPOs (RateGain 2021, Capillary Technologies 2025, Amagi 2026)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I commonly cited at $300M; an additional $100M add-on was raised in 2021. Fund II target ~$350M.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "in-fireside-ventures",
+    "name": { "en": "Fireside Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "offices": [{ "country": "India", "city": "Bengaluru" }],
+    "website": "https://www.firesideventures.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/fireside-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "INR 5,300 crore (USD 650 million)", "usd": 650000000, "currency": "INR/USD" },
+      "current_fund": { "raw": "₹2,265 crore (USD 253 million) — Fund IV", "usd": 253000000, "currency": "INR/USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2017, "size": { "raw": "₹340 crore", "usd": null, "currency": "INR" } },
+        { "name": "Fund IV", "vintage_year": null, "size": { "raw": "₹2,265 crore ($253M)", "usd": 253000000, "currency": "INR/USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India"],
+      "sector_focus": ["consumer", "ecommerce"],
+      "thesis": "Specialist early-stage consumer-brand fund backing founders 'building India's next generation of iconic consumer brands', supporting them across multiple stages of scale."
+    },
+    "track_record": {
+      "portfolio_count": "60+",
+      "notable_investments": [
+        { "company": "Mamaearth (Honasa Consumer)", "sector": "consumer", "outcome": "IPO" },
+        { "company": "boAt", "sector": "consumer", "outcome": "active" },
+        { "company": "The Sleep Company", "sector": "consumer", "outcome": "active" },
+        { "company": "Yoga Bar", "sector": "consumer", "outcome": "acquired" },
+        { "company": "Pilgrim", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Kanwaljit Singh", "role": "Founder & Managing Partner" },
+      { "name": "Vinay Singh", "role": "Partner" }
+    ],
+    "tags": ["consumer", "d2c", "brands", "early-stage"],
+    "summary": {
+      "en": "Bengaluru-based consumer-brand specialist VC founded in 2017 by Kanwaljit Singh. Backs early-stage Indian consumer/D2C brands; total AUM ₹5,300 crore (~$650M) with Fund IV at ₹2,265 crore (~$253M). 60+ brands incl. Mamaearth, boAt and The Sleep Company.",
+      "local": "फायरसाइड वेंचर्स — 2017 में कंवलजीत सिंह द्वारा स्थापित, भारत के कंज्यूमर/D2C ब्रांड्स में शुरुआती चरण का निवेश करने वाला फंड (Mamaearth, boAt आदि)।"
+    },
+    "sources": [
+      {
+        "url": "https://www.entrepreneurindia.com/blog/en/news/fireside-ventures-closes-fund-iv-at-2265-crore.58088",
+        "title": "Fireside Ventures Closes Fund IV at ₹2,265 Crore",
+        "publisher": "Entrepreneur India",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV size, AUM, consumer focus, portfolio, since-2017 track record",
+        "quote": "closed its fourth fund at INR 2,265 crore (USD 253 million) ... total assets under management have risen to INR 5,300 crore (USD 650 million) ... Since 2017, it has backed 60+ consumer brands ... Honasa Consumer (Mamaearth, The Derma Co), boAt, The Sleep Company"
+      },
+      {
+        "url": "https://yourstory.com/2018/05/kanwaljit-singh-consumer-startups",
+        "title": "Investor Kanwaljit Singh puts his money in consumer startups",
+        "publisher": "YourStory",
+        "accessed": "2026-06-02",
+        "supports": "Founder, Fund I, founding year",
+        "quote": "Fireside Ventures announced fund close of Rs 340 crore in March for its first fund"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Per-deal check size not consistently disclosed; the fund is one of India's few pure-play consumer-brand specialists.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "in-sixth-sense-ventures",
+    "name": { "en": "Sixth Sense Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2014,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "offices": [{ "country": "India", "city": "Mumbai" }],
+    "website": "https://sixthsenseventures.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/sixth-sense-ventures",
+      "other": ["https://in.linkedin.com/company/sixth-sense-ventures-llp"]
+    },
+    "capital": {
+      "aum": { "raw": "₹3,200 Cr (USD 500M)", "usd": 500000000, "currency": "INR/USD" },
+      "funds": [
+        { "name": "3 funds (SSIO I/II/III)", "vintage_year": null, "size": { "raw": "₹3,200 Cr ($500M) across 3 funds", "usd": 500000000, "currency": "INR/USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["consumer", "ecommerce"],
+      "thesis": "India's first domestic, consumer-centric venture fund, backing challenger brands, omnichannel players, attainable-luxury, enablers and sustainable consumer products."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Bira 91", "sector": "consumer", "outcome": "active" },
+        { "company": "Veeba", "sector": "consumer", "outcome": "active" },
+        { "company": "Giva", "sector": "consumer", "outcome": "active" },
+        { "company": "Bombay Shaving Company", "sector": "consumer", "outcome": "active" },
+        { "company": "Vahdam Teas", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Nikhil Vora", "role": "Founder & CEO (ex-MD IDFC Securities)" }
+    ],
+    "tags": ["consumer", "domestic-fund", "brands"],
+    "summary": {
+      "en": "Mumbai-based, founded 2014 by Nikhil Vora — billed as India's first domestic, consumer-centric venture fund. ~₹3,200 Cr / $500M AUM across three funds (SSIO I-III). Backs challenger consumer brands like Bira 91, Veeba, Giva and Bombay Shaving Company.",
+      "local": "सिक्स्थ सेंस वेंचर्स — 2014 में निखिल वोरा द्वारा स्थापित, भारत का पहला घरेलू कंज्यूमर-केंद्रित वेंचर फंड (Bira 91, Veeba आदि में निवेश)।"
+    },
+    "sources": [
+      {
+        "url": "https://sixthsenseventures.com/",
+        "title": "Sixth Sense Ventures: Investing in the Consumer of Tomorrow",
+        "publisher": "Sixth Sense Ventures",
+        "accessed": "2026-06-02",
+        "supports": "AUM, consumer focus, founder, portfolio",
+        "quote": "India's first domestic, consumer-centric venture fund ... ₹3200Cr. (USD 500M) ... Bombay Shaving Company, Bira 91, Storia, Veeba, Giva, RAS Beauty, Vahdam Teas"
+      },
+      {
+        "url": "https://theenterpriseworld.com/sixth-sense-ventures-domestic-consumer/",
+        "title": "Sixth Sense Ventures | Nikhil Vora",
+        "publisher": "The Enterprise World",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, founder, fund count",
+        "quote": "founded in 2014 by Nikhil Vora ... India's first domestic, consumer-focused venture fund"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM figures vary across sources ($450M-$500M+ across 3 funds); a fourth ~₹2,500 cr fund was reported as in planning. Per-deal check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "in-dsg-consumer-partners",
+    "name": { "en": "DSG Consumer Partners" },
+    "aka": ["DSGCP"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "india",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "offices": [
+      { "country": "Singapore", "city": "Singapore" },
+      { "country": "India", "city": "Mumbai" }
+    ],
+    "website": "https://www.dsgcp.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/dsg-consumer-partners"
+    },
+    "capital": {
+      "current_fund": { "raw": "$114M (Fund IV)", "usd": 114000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "$50M", "usd": 50000000, "currency": "USD" } },
+        { "name": "Fund III", "vintage_year": 2019, "size": { "raw": "$65M", "usd": 65000000, "currency": "USD" } },
+        { "name": "Fund IV", "vintage_year": null, "size": { "raw": "$114M", "usd": 114000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India", "Southeast Asia"],
+      "sector_focus": ["consumer", "ecommerce"],
+      "thesis": "Early-stage consumer-brand fund (India + SEA) backing insurgent brands taking share from incumbents across 8 consumer themes (looking/feeling good, healthy living, convenience, sustainability, etc.)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "OYO", "sector": "consumer", "outcome": "active" },
+        { "company": "Veeba", "sector": "consumer", "outcome": "active" },
+        { "company": "Sula Vineyards", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Epigamia", "sector": "consumer", "outcome": "active" },
+        { "company": "Chai Point", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Deepak Shahdadpuri", "role": "Managing Director & Founder" }
+    ],
+    "tags": ["consumer", "d2c", "brands", "india-sea"],
+    "summary": {
+      "en": "Singapore-headquartered early-stage consumer-brand fund focused on India and Southeast Asia, founded 2012 by Deepak Shahdadpuri. Backs insurgent consumer brands; Fund IV closed at $114M (after ~$50M Fund II and $65M Fund III). Early backer of OYO, Veeba and Sula."
+    },
+    "sources": [
+      {
+        "url": "https://www.dsgcp.com/insights/unlocking-our-next-phase-of-growth-final-close-of-fund-iv-at-114-million",
+        "title": "Final Close of Fund IV at $114 million",
+        "publisher": "DSG Consumer Partners",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, Fund IV size, consumer themes, portfolio, team",
+        "quote": "DSGCP was founded in 2012 ... final close of DSGCP IV at $114M ... 10 category defining brands across multiple markets in India and Southeast Asia including OYO, Veeba, Sula, Epigamia, Saladstop, Chaipoint, Leverage EDU, Saturdays"
+      },
+      {
+        "url": "https://inc42.com/buzz/dsg-consumer-partners-makes-final-close-on-third-fund-at-65-mn/",
+        "title": "DSG Consumer Partners Marks Final Close On Third Fund At $65 Mn",
+        "publisher": "Inc42",
+        "accessed": "2026-06-02",
+        "supports": "Fund II and III sizes",
+        "quote": "Fund II was $50 million, and Fund III was $65 million"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "HQ in Singapore with strong India focus (cross-border India/SEA consumer fund). Per-deal check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "in-waterbridge-ventures",
+    "name": { "en": "WaterBridge Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "india",
+    "country": "India",
+    "hq_city": "New Delhi",
+    "offices": [{ "country": "India", "city": "New Delhi" }],
+    "website": "https://waterbridge.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/waterbridge-ventures",
+      "other": ["https://tracxn.com/d/venture-capital/waterbridge/__NMycjvUNhg9BH6Mgd7rrz5d7ZDWs9GBmWOIMhAHV3TI"]
+    },
+    "capital": {
+      "aum": { "raw": "over $250 million", "usd": 250000000, "currency": "USD" },
+      "current_fund": { "raw": "$150M (Fund II)", "usd": 150000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2017, "size": { "raw": "$15M", "usd": 15000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "$150M", "usd": 150000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$500,000 to $3 million", "usd_min": 500000, "usd_max": 3000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India"],
+      "sector_focus": ["saas-enterprise", "consumer", "fintech", "edtech", "healthtech"],
+      "thesis": "Early-stage (pre-Series A to Series A) fund backing technology-at-the-core startups across six core sectors: B2B, consumer, education, financial services, healthcare and global SaaS."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Atlan", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Magicpin", "sector": "consumer", "outcome": "active" },
+        { "company": "CityMall", "sector": "ecommerce", "outcome": "active" },
+        { "company": "Chalo", "sector": "mobility", "outcome": "active" },
+        { "company": "Unacademy", "sector": "edtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Manish Kheterpal", "role": "Founder & Managing Partner" },
+      { "name": "Ashish Jain", "role": "Co-founder" },
+      { "name": "Anjali Sosale", "role": "Co-founder / Partner" }
+    ],
+    "tags": ["saas", "consumer", "early-stage", "b2b"],
+    "summary": {
+      "en": "Delhi-based early-stage VC founded in 2017 by Manish Kheterpal, Ashish Jain and Anjali Sosale. Invests seed to Series A ($500K-$3M checks) across B2B, consumer, education, fintech, healthcare and global SaaS. $150M Fund II; total AUM over $250M. Portfolio incl. Atlan, Magicpin, CityMall."
+    },
+    "sources": [
+      {
+        "url": "https://www.siliconindia.com/startup/startup-funding/venture-capital-firm-waterbridge-raises-150-million-second-fund-nwid-30443.html",
+        "title": "Venture Capital Firm WaterBridge raises $150 million Second Fund",
+        "publisher": "SiliconIndia",
+        "accessed": "2026-06-02",
+        "supports": "Fund II size, founding year, founders, check size, stages, sectors, AUM, portfolio",
+        "quote": "raised $150 million for its second fund ... founded in 2017 by Manish Kheterpal, Ashish Jain, and Anjali Sosale ... 25 seed to Series A investments (cheque sizes ranging from $500,000 to $3 Million) ... six core sectors such as business to business (B2B), consumer, education, financial services, healthcare, and global SaaS ... Atlan, Bijnis, CityMall, Chalo, DoubtNut, Magicpin, PocketPills, and Unacademy ... total AUM of over $250 million"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I was a $15M debut fund (2017). Portfolio count not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  }
+]

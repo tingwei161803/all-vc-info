@@ -1,0 +1,655 @@
+[
+  {
+    "id": "kr-on-venture-investment",
+    "name": { "en": "ON Venture Investment", "local": "오엔벤처투자" },
+    "aka": ["O.N Venture Investment", "오엔벤처투자(주)"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.onventure.co.kr/",
+    "links": {
+      "other": ["https://thevc.kr/onventureinvestment"]
+    },
+    "capital": {
+      "aum": { "raw": "approx. KRW 84 billion", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "오엔 제1호 세컨더리 투자조합 (ON Fund 1 Secondary)", "vintage_year": 2020, "size": { "raw": "KRW 10 billion", "usd": null, "currency": "KRW" } },
+        { "name": "오엔 제6호 투자조합 (ON Fund 6)", "vintage_year": 2025, "size": { "raw": "KRW 14 billion", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist", "deeptech", "spacetech"],
+      "thesis": "Secondary and pre-IPO growth-up investing in mid-to-late-stage companies; targets companies 1-2 years before listing rather than a single sector vertical. Founder aims to grow to KRW 300 billion in venture fund commitments within five years."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Kim Sang-chul (김상철)", "role": "Founder / CEO / representative fund manager" }
+    ],
+    "team_size": 6,
+    "summary": {
+      "en": "Emerging Seoul micro-VC founded in 2020 by Kim Sang-chul, a former Partners Investment executive. Runs ~7 small funds (mostly secondary and pre-IPO growth) and was a 2025 Fund-of-Funds Rookie League GP. AUM approaching KRW 84 billion.",
+      "local": "파트너스인베스트먼트 출신 김상철 대표가 2020년 설립한 신생 마이크로 VC. 세컨더리·그로스업 중심으로 약 7개 펀드를 운용하며 2025년 모태펀드 루키리그 GP에 선정됐다."
+    },
+    "sources": [
+      { "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202006181405283720101846", "title": "'파트너스 출신' 김상철 대표, '오엔벤처투자' 설립 새출발", "publisher": "thebell", "accessed": "2026-06-02", "supports": "founding year, founder background, first fund", "quote": "파트너스인베스트먼트 출신 김상철 대표가 2020년 5월 27일 자본금 20억원으로 설립했습니다 ... 6월 말 100억원 규모의 '오엔 제1호 세컨더리 투자조합'을 결성했습니다" },
+      { "url": "https://thevc.kr/onventureinvestment", "title": "오엔벤처투자(투자조합) - 기업정보", "publisher": "THE VC", "accessed": "2026-06-02", "supports": "founding date, HQ, fund count, AUM, fund sizes", "quote": "설립일: 2020-05-27 ... ON Fund 6 (오엔 제6호 투자조합): 14 billion won ... Total AUM: Approaching ... 100 billion won threshold" },
+      { "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504240649309200103489&lcode=00", "title": "[모태 2025 1차 정시출자]루키리그, 오엔벤처 '막차' 탔다", "publisher": "thebell", "accessed": "2026-06-02", "supports": "Rookie League selection, AUM", "quote": "오엔벤처투자 ... 김상철 ... AUM: 840억원" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM figure (~KRW 84bn) comes from a single thebell summary; THE VC describes it as 'approaching 100 billion'. Fund-1 size of KRW 10bn from founding article.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "kr-aeon-investment",
+    "name": { "en": "Aeon Investment", "local": "에이온인베스트먼트" },
+    "aka": ["에이온인베", "Aeon Investment Co."],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": null,
+    "links": {
+      "other": ["https://thevc.kr/aeoninvestment"]
+    },
+    "capital": {
+      "aum": { "raw": "over KRW 100 billion", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "디지털 이노베이션 벤처투자조합 (Digital Innovation Venture Fund)", "vintage_year": null, "size": { "raw": "KRW 10.3 billion", "usd": null, "currency": "KRW" } },
+        { "name": "에이온 프라임 시큐리티 벤처펀드 (Aeon Prime Security Venture Fund)", "vintage_year": 2025, "size": { "raw": "KRW 20 billion", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["biotech", "healthtech", "ai-ml", "cybersecurity"],
+      "thesis": "Early-stage bio/healthcare and ICT investing led by a bio-specialist GP; 'become a company builder' philosophy. Selected as a 2025 Fund-of-Funds Rookie League 'super rookie' GP."
+    },
+    "track_record": {
+      "portfolio_count": 17,
+      "notable_investments": [
+        { "company": "알지노믹스 (rznomics)", "sector": "biotech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Lee Jong-hyun (이종현)", "role": "Founder / CEO" },
+      { "name": "An Byung-gyu (안병규)", "role": "Director (pharmacy background, ex-Synergy IB)" }
+    ],
+    "team_size": null,
+    "summary": {
+      "en": "Bio/healthcare-focused emerging VC founded October 2021 by Lee Jong-hyun, who previously led bio investing at Synergy IB Investment. A 2025 Fund-of-Funds Rookie League GP; runs ~17 funds with AUM over KRW 100 billion.",
+      "local": "시너지IB투자에서 바이오 투자를 총괄했던 이종현 대표가 2021년 10월 설립한 바이오·헬스케어 특화 신생 VC. 2025년 모태펀드 루키리그(슈퍼루키) GP에 선정됐으며 약 17개 펀드를 운용한다."
+    },
+    "sources": [
+      { "url": "https://www.topdaily.kr/articles/107545", "title": "'설립 4년' 에이온인베스트, 루키 넘어 중형 벤처캐피털 도약", "publisher": "Topdaily", "accessed": "2026-06-02", "supports": "founding year, founder, fund count, AUM, fund sizes", "quote": "설립 연도: 2021년 10월 ... 펀드 수: 현재 17개 펀드 운용 ... 운용자산(AUM): 1000억원 초과 ... 디지털 이노베이션 벤처투자조합: 103억원 ... 에이온 프라임 시큐리티 벤처펀드: 200억원" },
+      { "url": "https://www.hankyung.com/it/article/202205043912i", "title": "투자 고수 열전 - 에이온인베스트먼트의 이종현 대표", "publisher": "Hankyung", "accessed": "2026-06-02", "supports": "founder philosophy, bio focus", "quote": "초기기업 투자 전문 에이온인베스트먼트의 이종현 대표 '컴퍼니 빌더가 되어라'" },
+      { "url": "https://www.thebell.co.kr/front/newsview.asp?key=202512300931315520107793", "title": "'슈퍼 루키' 에이온인베, 2개 펀드 결성 성공", "publisher": "thebell", "accessed": "2026-06-02", "supports": "Rookie League / super rookie status", "quote": "'슈퍼 루키' 에이온인베, 2개 펀드 결성 성공" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM '1000억원 초과' (over KRW 100bn) and '17 funds' from Topdaily. A secondary search summary stated AUM '1 trillion won' / funds of '400 billion won', which appears to be a unit error and was NOT used; the KRW 200억 (20bn) Prime Security fund figure is the consistent one.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "kr-gnp-investment",
+    "name": { "en": "G&P Investment", "local": "지앤피인베스트먼트" },
+    "aka": ["GNP Investment", "지앤피인베스트먼트(주)", "formerly NPX Ventures (엔피엑스벤처스)"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://gnpinvestment.co.kr",
+    "links": {
+      "other": ["https://thevc.kr/gnpinvestment"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "지앤피2025-01호벤처투자조합 (G&P 2025-01 Venture Fund)", "vintage_year": 2025, "size": { "raw": "KRW 20 billion", "usd": null, "currency": "KRW" } },
+        { "name": "국민성장첨단항공우주방산벤처투자조합 (National Growth Aerospace & Defense Fund)", "vintage_year": 2026, "size": { "raw": "KRW 41.6 billion", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["deeptech", "biotech", "healthtech", "ai-ml", "spacetech"],
+      "thesis": "Deeptech and bio/healthcare-focused emerging VC. GP Kim Se-yeon has led deeptech and bio investing since 2009; acquired NPX Ventures and rebranded it as G&P Investment. A 2025 Fund-of-Funds Rookie League GP."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Kim Se-yeon (김세연)", "role": "Founder / CEO (ex-UTC Investment, 15 yrs)" }
+    ],
+    "team_size": 5,
+    "summary": {
+      "en": "Deeptech/bio-focused emerging VC led by Kim Se-yeon, formerly 15 years at UTC Investment. She acquired NPX Ventures and rebranded it G&P Investment; the firm closed its KRW 20bn first blind fund in three months and was a 2025 Rookie League GP.",
+      "local": "UTC인베스트먼트에서 15년 근무한 김세연 대표가 엔피엑스벤처스를 인수해 사명을 변경한 딥테크·바이오 특화 신생 VC. 3개월 만에 200억원 1호 펀드를 결성했고 2025년 모태펀드 루키리그 GP에 선정됐다."
+    },
+    "sources": [
+      { "url": "https://thevc.kr/gnpinvestment", "title": "지앤피인베스트먼트(투자조합) - 기업정보", "publisher": "THE VC", "accessed": "2026-06-02", "supports": "founding year, HQ, fund sizes, CEO, focus", "quote": "설립일: 2021년 10월 ... 지앤피2025-01호벤처투자조합 - 200억원 (formed 2025-07-29) ... 국민성장첨단항공우주방산벤처투자조합 - 416억원 (formed 2026-01-21) ... CEO: Kim Se-yeon (김세연)" },
+      { "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504240649309200103489&lcode=00", "title": "[모태 2025 1차 정시출자]루키리그", "publisher": "thebell", "accessed": "2026-06-02", "supports": "Rookie League, fund close speed", "quote": "지앤피인베스트먼트 ... 3개월 만에 목표액 200억원을 채우며" },
+      { "url": "https://dealsite.co.kr/articles/127823", "title": "[UTC인베스트 내홍] 운용인력 변경 마무리", "publisher": "Dealsite", "accessed": "2026-06-02", "supports": "CEO background, NPX acquisition", "quote": "UTC인베스트먼트를 이끌던 김세연 대표가 독립해 ... '엔피엑스벤처스(NPX벤처스)'의 경영권을 인수하고 사명을 '지앤피인베스트먼트(G&P인베스트먼트)'로 변경" }
+    ],
+    "confidence": "high",
+    "verification_notes": "THE VC lists founding as 2021-10, but the firm was formed by acquiring/rebranding NPX Ventures, so the legal entity may predate Kim's takeover. Fund sizes (KRW 20bn, 41.6bn) from THE VC profile.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "kr-sage-one-partners",
+    "name": { "en": "Sage One Partners", "local": "세이지원파트너스" },
+    "aka": ["SAGEONE Partners", "세이지원파트너스(주)"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.sageone.co.kr",
+    "links": {
+      "other": ["https://thevc.kr/sageonepartners"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "세이지원 세컨더리 투자조합 (Sage One Secondary Fund)", "vintage_year": 2024, "size": { "raw": null, "usd": null, "currency": "KRW" } },
+        { "name": "세이지원 이노베이션 유니콘 투자조합 (Sage One Innovation Unicorn Fund)", "vintage_year": 2025, "size": { "raw": "KRW 21.5 billion", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["cybersecurity", "deeptech", "generalist"],
+      "thesis": "Emerging VC focused on telecom/security and cybersecurity, investing primarily at Pre-A stage in SMEs/venture companies. A 2025 Fund-of-Funds Rookie League GP."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Jung Jae-seon (정재선)", "role": "CEO / representative director" },
+      { "name": "Lee Young-min (이영민)", "role": "Founder (ex-CEO Sekyung Hi-Tech)" }
+    ],
+    "team_size": 4,
+    "summary": {
+      "en": "Cybersecurity/telecom-focused emerging VC founded August 2023, headquartered in Gangnam, Seoul. Runs three funds, closed a KRW 21.5bn Innovation Unicorn fund in 2025, and was a 2025 Fund-of-Funds Rookie League GP.",
+      "local": "2023년 8월 설립된 보안·통신 특화 신생 VC. 3개 펀드를 운용하며 2025년 215억원 규모 이노베이션 유니콘 투자조합을 결성했고 2025년 모태펀드 루키리그 GP에 선정됐다."
+    },
+    "sources": [
+      { "url": "https://thevc.kr/sageonepartners", "title": "세이지원파트너스(투자조합) - 기업정보", "publisher": "THE VC", "accessed": "2026-06-02", "supports": "founding date, HQ, fund count, fund size, CEO", "quote": "established August 25, 2023 ... Sage One Innovation Unicorn Investment Combination - 21.5 billion KRW (formed August 6, 2025) ... Jung Jae-seon (정재선) – CEO" },
+      { "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504240649309200103489&lcode=00", "title": "[모태 2025 1차 정시출자]루키리그", "publisher": "thebell", "accessed": "2026-06-02", "supports": "Rookie League selection, founders", "quote": "세이지원파트너스 ... Founder: 이영민 ... GP: 정재선 ... Fund size: ~100억원" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founder/CEO attribution differs between sources (이영민 cited as founder, 정재선 as CEO); both retained. Rookie League fund ~KRW 10bn (100억원 commitment) per thebell.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "kr-taurus-partners",
+    "name": { "en": "Taurus Partners", "local": "토러스파트너스" },
+    "aka": ["Gentium Partners", "젠티움파트너스", "GENTIUM Partners"],
+    "type": "micro-vc",
+    "subtypes": ["accelerator", "vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.gentiumpartners.co.kr",
+    "links": {
+      "other": ["https://thevc.kr/gentiumpartners", "https://www.cbinsights.com/investor/gentium-partners"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "젠티움/토러스 메드텍 투자조합 (Gentium/Torus MedTech Fund)", "vintage_year": null, "size": { "raw": "KRW 17 billion", "usd": null, "currency": "KRW" } },
+        { "name": "토러스메드텍투자조합 (Torus MedTech Fund, rookie)", "vintage_year": 2025, "size": { "raw": "KRW 17 billion", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["healthtech", "biotech", "saas-enterprise"],
+      "thesis": "Accelerator-turned-VC staffed by veteran professional angels (20+ yrs experience); medtech and corporate venture investing from seed to pre-IPO. Rebranded from Gentium Partners to Taurus Partners in October 2025."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "제이앤피메디 (J&PMEDI)", "sector": "healthtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Park Hyun-joon (박현준)", "role": "Representative director" }
+    ],
+    "team_size": null,
+    "summary": {
+      "en": "Seoul accelerator/micro-VC founded 2018 as Gentium Partners, staffed by veteran professional angels; rebranded Taurus Partners in October 2025. Closed a KRW 17bn 'Torus MedTech' rookie fund (KRW 10bn from Fund-of-Funds) as a 2025 Rookie League GP.",
+      "local": "2018년 전문엔젤투자자들이 설립한 액셀러레이터 겸 마이크로 VC(옛 젠티움파트너스). 2025년 10월 토러스파트너스로 사명 변경했고, 모태펀드 100억원 출자를 바탕으로 170억원 규모 토러스메드텍투자조합을 결성한 2025 루키리그 GP."
+    },
+    "sources": [
+      { "url": "https://thevc.kr/gentiumpartners", "title": "젠티움파트너스/토러스파트너스 - 기업정보", "publisher": "THE VC", "accessed": "2026-06-02", "supports": "founding date, rebrand, fund count, fund sizes, CEO", "quote": "established November 15, 2018 as Gentium Partners; rebranded to Taurus Partners on October 1, 2025 ... Torus MedTech Investment Combination: 17 billion won ... Park Hyun-joon (박현준)" },
+      { "url": "https://m.thebell.co.kr/m/newsview.asp?svccode=00&newskey=202512180751285620102068", "title": "토러스파트너스, 170억 루키펀드 결성", "publisher": "thebell", "accessed": "2026-06-02", "supports": "rookie fund size, Fund-of-Funds commitment, rebrand", "quote": "토러스파트너스는 최근 170억원 규모의 '토러스메드텍투자조합'을 결성했으며, 모태펀드 출자금은 100억원입니다 ... 지난 10월 젠티움파트너스에서 현재의 이름으로 사명을 바꿨습니다" },
+      { "url": "https://platum.kr/archives/259588", "title": "젠티움파트너스-제이앤피메디, 중기부 모태펀드 루키리그 선정", "publisher": "Platum", "accessed": "2026-06-02", "supports": "Rookie League selection, notable portfolio", "quote": "젠티움파트너스-제이앤피메디, 중기부 모태펀드 루키리그 선정" }
+    ],
+    "confidence": "high",
+    "verification_notes": "THE VC classifies it as 'accelerator'; it operates VC funds and is a Rookie League VC GP, hence micro-vc with accelerator subtype. Two KRW 17bn medtech funds reported (Gentium-era and Torus-era).",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "kr-vine-ventures",
+    "name": { "en": "ViNe Ventures", "local": "바인벤처스" },
+    "aka": ["Vine Ventures", "바인벤처스(주)"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Incheon",
+    "website": "https://vinevc.co.kr/",
+    "links": {
+      "other": ["https://thevc.kr/vineventures"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "바인 넛지 헤리티지 플러스 펀드 (Vine Nudge Heritage Plus Fund)", "vintage_year": null, "size": { "raw": "KRW 20 billion", "usd": null, "currency": "KRW" } },
+        { "name": "바인 넛지 IP기반 지역기업-디지털뉴딜 펀드 (Vine Nudge IP Regional/Digital New Deal Fund)", "vintage_year": 2025, "size": { "raw": "KRW 22.8 billion", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["ai-ml", "biotech", "healthtech", "consumer"],
+      "thesis": "Incheon-based emerging VC (Incheon Startup Park) founded by ex-Mega Investment reviewers; early-stage Pre-A to Series A across manufacturing, AI, biotech/medical and advertising. A 2025 Fund-of-Funds Rookie League GP."
+    },
+    "track_record": {
+      "portfolio_count": 4,
+      "notable_investments": [
+        { "company": "씨티엑스 (CTX)", "sector": "biotech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Jo Myung-woo (조명우)", "role": "CEO / representative" }
+    ],
+    "team_size": 7,
+    "summary": {
+      "en": "Incheon-based emerging VC founded January 2022 by former Mega Investment reviewers, led by Jo Myung-woo. Runs four funds; its IP/regional rookie fund grew to KRW 22.8bn. A 2025 Fund-of-Funds Rookie League GP.",
+      "local": "메가인베스트먼트 출신 심사역들이 2022년 1월 인천에 설립한 신생 VC(조명우 대표). 4개 펀드를 운용하며 IP기반 루키펀드를 228억원으로 증액했고 2025년 모태펀드 루키리그 GP에 선정됐다."
+    },
+    "sources": [
+      { "url": "https://thevc.kr/vineventures", "title": "바인벤처스(투자조합) - 기업정보", "publisher": "THE VC", "accessed": "2026-06-02", "supports": "founding date, HQ, fund count, fund sizes, CEO", "quote": "Founding Year: 2022 (January 3, 2022) ... Headquarters: Incheon ... Vine Nudge Heritage Plus Fund: 20 billion won ... CEO: Jo Myung-woo (조명우)" },
+      { "url": "https://www.newstopkorea.com/news/articleView.html?idxno=27828", "title": "초접전 모태펀드 루키리그, '중고 신인' 빛났다", "publisher": "Newstop", "accessed": "2026-06-02", "supports": "Rookie League selection, fund commitment", "quote": "바인벤처스 - 100억원 안팎의 출자금" }
+    ],
+    "confidence": "high",
+    "verification_notes": "KRW 22.8bn (228억원) increased size of the IP/Digital New Deal rookie fund from search summary; THE VC lists it as undisclosed. Founder background (ex-Mega/JB Investment) from search snippet.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "kr-aoa-capital-partners",
+    "name": { "en": "AOA Capital Partners", "local": "에이오에이캐피탈파트너스" },
+    "aka": ["AOA Capital", "에이오에이캐피탈파트너스(주)"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": null,
+    "links": {
+      "other": ["https://thevc.kr/aoacapitalpartners"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "AOA rookie venture fund", "vintage_year": 2025, "size": { "raw": "approx. KRW 10 billion commitment (Fund-of-Funds)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist"],
+      "thesis": "Emerging VC co-founded by veterans of Partners Investment, KDB Capital, and Aju IB; a 2025 Fund-of-Funds Rookie League GP."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Kim Hyun-chul (김현철)", "role": "Co-CEO (ex-Partners Investment, ~20 yrs)" },
+      { "name": "Park Su-woong (박수웅)", "role": "Representative" }
+    ],
+    "team_size": null,
+    "summary": {
+      "en": "Seoul emerging VC founded December 2022, co-led by Kim Hyun-chul, a ~20-year veteran of KDB Capital, Aju IB and Partners Investment. Selected as a 2025 Fund-of-Funds Rookie League GP with a ~KRW 10bn commitment.",
+      "local": "산은캐피탈·아주IB투자·파트너스인베스트먼트를 거친 20년 경력의 김현철 공동대표가 이끄는, 2022년 12월 설립된 신생 VC. 2025년 모태펀드 루키리그 GP에 선정됐다."
+    },
+    "sources": [
+      { "url": "https://thevc.kr/aoacapitalpartners", "title": "에이오에이캐피탈파트너스(투자조합) - 기업정보", "publisher": "THE VC", "accessed": "2026-06-02", "supports": "founding year, HQ, CEO", "quote": "에이오에이캐피탈파트너스(AOA Capital Partners)는 2022년 12월에 설립된 한국계 벤처캐피탈입니다. 본사는 서울특별시에 위치 ... 현재 대표자는 박수웅입니다" },
+      { "url": "https://www.newstopkorea.com/news/articleView.html?idxno=27828", "title": "초접전 모태펀드 루키리그, '중고 신인' 빛났다", "publisher": "Newstop", "accessed": "2026-06-02", "supports": "Rookie League selection, co-CEO background, commitment", "quote": "에이오에이캐피탈파트너스 ... 공동대표: 김현철 (前 파트너스인베스트먼트 출신, 20년 경력) ... 100억원 안팎의 출자금" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Two representatives reported (박수웅 per THE VC, 김현철 as co-CEO per Newstop). Fund size given only as Fund-of-Funds Rookie League commitment (~KRW 10bn).",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "kr-dasung-ventures",
+    "name": { "en": "Dasung Ventures", "local": "다성벤처스" },
+    "aka": ["다성벤처스(주)"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://dasungvc.co.kr/",
+    "links": {
+      "other": ["https://thevc.kr/dasungventures"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "다성벤처스 1호 블라인드 펀드 (Dasung Ventures Fund 1, blind)", "vintage_year": 2025, "size": { "raw": "KRW 10 billion", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["consumer", "ecommerce", "ai-ml", "saas-enterprise"],
+      "thesis": "Early-stage ICT investing concentrated on service, commerce and AI; backs promising ventures with strong ideas but not-yet-visible traction. Founded by a 1st-generation Korean VC and the Danawa e-commerce founder."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Kim Jung-min (김정민)", "role": "Founder / CEO (1st-gen VC, ex-CEO Mega Investment)" },
+      { "name": "Sung Jang-hyun (성장현)", "role": "Chairman (founder of Danawa / Connectwave)" }
+    ],
+    "team_size": null,
+    "summary": {
+      "en": "Emerging VC established May 2023 (capital KRW 3bn) by Kim Jung-min, a 1st-generation Korean VC and former Mega Investment CEO, with Danawa founder Sung Jang-hyun as chairman. Closed a KRW 10bn first blind fund; focuses on ICT service/commerce/AI. A 2025 Rookie League GP.",
+      "local": "전 메가인베스트먼트 대표인 1세대 VC 김정민 대표와 다나와 창업주 성장현 회장이 2023년 5월 자본금 30억원으로 설립한 신생 창투사. 100억원 1호 블라인드 펀드를 결성했고 ICT 서비스·커머스·AI에 집중한다. 2025 루키리그 GP."
+    },
+    "sources": [
+      { "url": "https://dealsite.co.kr/articles/109016", "title": "루키VC '다성벤처스', 100억 첫 펀드 결성", "publisher": "Dealsite", "accessed": "2026-06-02", "supports": "first fund size, founding, focus", "quote": "다성벤처스는 2023년 5월 26일 자본금 30억원 규모로 설립된 운용사입니다 ... 최근 100억원 규모의 블라인드 펀드를 결성했습니다 ... ICT분야 중 서비스·커머스·AI 분야에 집중" },
+      { "url": "https://dealsite.co.kr/articles/105886", "title": "14년 인연 성장현·김정민, '다성벤처스'서 의기투합", "publisher": "Dealsite", "accessed": "2026-06-02", "supports": "founders, background", "quote": "성장현은 국내 1세대 이커머스 플랫폼 '다나와(현 커넥트웨이브)' 창업주이고, 김정민은 ... 전 메가인베스트먼트 대표 ... 메가인베스트먼트의 초대 대표이사로 합류해 ... AUM을 약 2000억원까지 키웠습니다" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding date 2023-05-26 and KRW 3bn capital from Dealsite; first blind fund KRW 10bn (100억원).",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "kr-nautilus-investment",
+    "name": { "en": "Nautilus Investment", "local": "노틸러스인베스트먼트" },
+    "aka": ["Nautilus Investment Co.", "노틸러스인베스트먼트(주)"],
+    "type": "micro-vc",
+    "subtypes": ["vc", "cvc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://nautilusinve.com/",
+    "links": {
+      "other": ["https://thevc.kr/nautilusinvestment"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "노틸러스 오픈이노베이션 펀드 1호 (Nautilus Open Innovation Fund 1)", "vintage_year": null, "size": { "raw": "KRW 8.8 billion", "usd": null, "currency": "KRW" } },
+        { "name": "노틸러스 그린테크 펀드 1호 (Nautilus Greentech Fund 1)", "vintage_year": null, "size": { "raw": "KRW 7 billion", "usd": null, "currency": "KRW" } },
+        { "name": "노틸러스넥스트빅씽투자조합 (Nautilus Next Big Thing Fund)", "vintage_year": 2024, "size": { "raw": "KRW 17 billion", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "United States"],
+      "sector_focus": ["deeptech", "ai-ml", "climate-energy"],
+      "thesis": "Data-economy and 'data deeptech' investing led by a former Samsung Ventures investor with Silicon Valley big-data/AI experience; targets data and next-computing leaders. A 2024 Fund-of-Funds Rookie League GP."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Lim Sung-won (임성원)", "role": "Founder / CEO (ex-Samsung Ventures; Nautilus Venture Partners, Silicon Valley)" }
+    ],
+    "team_size": null,
+    "summary": {
+      "en": "Data/deeptech-focused emerging VC founded November 2019 by Lim Sung-won (ex-Samsung Ventures, Silicon Valley Nautilus Venture Partners). Runs several small funds (KRW 7-17bn) and closed a KRW 17bn data fund as a 2024 Fund-of-Funds Rookie League GP.",
+      "local": "삼성벤처투자 출신이자 실리콘밸리 Nautilus Venture Partners를 거친 임성원 대표가 2019년 11월 설립한 데이터·딥테크 특화 신생 VC. 70억~170억원 규모 소형 펀드들을 운용하며 2024 루키리그 GP로 170억원 데이터펀드를 결성했다."
+    },
+    "sources": [
+      { "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202107261537204400101219&lcode=00", "title": "삼성벤처 출신 임성원 대표, '노틸러스인베'로 독립", "publisher": "thebell", "accessed": "2026-06-02", "supports": "founder background, independence", "quote": "삼성벤처 출신 임성원 대표, '노틸러스인베'로 독립" },
+      { "url": "https://m.thebell.co.kr/m/newsview.asp?svccode=&newskey=202408281036591920102645", "title": "'루키' 노틸러스인베, 170억 데이터펀드 결성", "publisher": "thebell", "accessed": "2026-06-02", "supports": "rookie fund size, fund list", "quote": "노틸러스넥스트빅씽투자조합 ... 170억원 규모 ... 노틸러스 오픈이노베이션 펀드 1호(88억원), 노틸러스 그린테크 펀드 1호(70억원)" },
+      { "url": "https://thevc.kr/nautilusinvestment", "title": "노틸러스인베스트먼트(투자조합) - 기업정보", "publisher": "THE VC", "accessed": "2026-06-02", "supports": "founding year, CEO", "quote": "노틸러스인베스트먼트(NAUTILUS INVESTMENT)는 2019년 11월에 설립 ... 현재 대표자는 임성원입니다" }
+    ],
+    "confidence": "high",
+    "verification_notes": "THE VC tags it '미국계' (US-linked) due to Silicon Valley affiliate; entity is Korea-domiciled. Fund sizes KRW 8.8bn/7bn/17bn from thebell rookie article.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "kr-mainstreet-ventures",
+    "name": { "en": "Mainstreet Ventures", "local": "메인스트리트벤처스" },
+    "aka": ["Mainstreet Investment", "메인스트리트인베스트먼트", "MSV"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.mainst5.com/",
+    "links": {
+      "other": ["https://thevc.kr/mainstreetventures", "https://thevc.kr/mainstreetinvestment"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "MSV 브랜드 글로벌화 제1호 투자조합 (MSV Brand Globalization Fund 1)", "vintage_year": null, "size": { "raw": "KRW 31.5 billion", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "China", "Global"],
+      "sector_focus": ["consumer", "ecommerce", "gaming"],
+      "thesis": "Brand, digital-infrastructure and IP/K-culture business investing with a global/cross-border focus; founder previously ran LB Investment's China operation. A 2024 Fund-of-Funds Rookie League GP."
+    },
+    "track_record": {
+      "portfolio_count": 29
+    },
+    "people": [
+      { "name": "Park Soon-woo (박순우)", "role": "Founder / CEO (ex-CEO LB Investment China)" }
+    ],
+    "team_size": null,
+    "summary": {
+      "en": "Cross-border brand/IP-focused emerging VC founded July 2019 by Park Soon-woo (ex-CEO of LB Investment China). In its first four years it invested in 29 companies via 31 vehicles and closed a KRW 31.5bn brand-globalization fund; a 2024 Fund-of-Funds Rookie League GP.",
+      "local": "LB인베스트먼트 중국법인 대표를 지낸 박순우 대표가 2019년 7월 설립한 브랜드·IP·해외진출 특화 신생 VC. 설립 4년간 29개사에 투자(31개 펀드)했고 315억원 규모 'MSV 브랜드 글로벌화 1호' 펀드를 결성한 2024 루키리그 GP."
+    },
+    "sources": [
+      { "url": "https://www.hankyung.com/article/202307071567i", "title": "모태펀드 돈은 안 받습니다만…이 VC가 사는 법 [긱스]", "publisher": "Hankyung", "accessed": "2026-06-02", "supports": "founding, portfolio count, founder background", "quote": "메인스트리트인베스트먼트는 2019년 ... 2019년 7월 설립 이후 4년간 29개 회사에 투자하면서 31개의 펀드를 조성 ... 박 대표는 LB인베스트먼트 중국법인 대표" },
+      { "url": "https://www.unicornfactory.co.kr/article/2024041517340975181", "title": "주특기 살려 1220억원 따냈다...모태펀드 루키리그 VC 면면보니", "publisher": "Unicorn Factory", "accessed": "2026-06-02", "supports": "2024 Rookie League selection, thesis", "quote": "메인스트리트벤처스 ... 브랜드, 디지털인프라, IP 비즈니스(K-컬처). 박순우 대표는 前 알리바바 중국 본사 임원" },
+      { "url": "https://thevc.kr/mainstreetventures", "title": "메인스트리트벤처스(투자조합) - 기업정보", "publisher": "THE VC", "accessed": "2026-06-02", "supports": "brand fund size", "quote": "'MSV 브랜드 글로벌화 제1호 투자조합'을 결성했으며, 펀드는 315억원 규모로 결성됐습니다" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founder's prior employer cited as 'LB Investment China' (Hankyung) and 'Alibaba China HQ executive' (Unicorn Factory) — both retained, possibly sequential roles. KRW 31.5bn brand fund from THE VC.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "kr-sneakpeek-investments",
+    "name": { "en": "SneakPeek Investments", "local": "스닉픽인베스트먼트" },
+    "aka": ["SneakPeek Investment", "스닉픽인베스트먼트(주)"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": null,
+    "links": {
+      "other": ["https://thevc.kr/SneakPeekInvestments"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "스닉픽 바이오1호 조합 (SneakPeek Bio Fund 1)", "vintage_year": 2019, "size": { "raw": "KRW 3.1 billion", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["biotech", "healthtech"],
+      "thesis": "Bio/healthcare-focused emerging VC founded by current and former Hugel executives; targets bio materials/components/equipment localization (소부장). A 2024 Fund-of-Funds Rookie League GP."
+    },
+    "track_record": {
+      "portfolio_count": 6
+    },
+    "people": [
+      { "name": "Kim Do-hyun (김도현)", "role": "Founder / CEO (ex-CFO/strategy head, Hugel)" }
+    ],
+    "team_size": null,
+    "summary": {
+      "en": "Bio-focused emerging VC founded June 2019 by Kim Do-hyun, former CFO/strategy head of botulinum-toxin maker Hugel. Closed a KRW 3.1bn first bio fund and was a 2024 Fund-of-Funds Rookie League GP investing in bio materials/components localization.",
+      "local": "보툴리눔 톡신 기업 휴젤의 전 CFO·전략본부장 김도현 대표가 휴젤 전·현직 임원들과 2019년 6월 설립한 바이오 특화 신생 VC. 31억원 1호 바이오펀드를 결성했고 바이오 소부장 국산화에 투자하는 2024 루키리그 GP."
+    },
+    "sources": [
+      { "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=201908020100004490000292&lcode=00", "title": "스닉픽인베스트, 1호 바이오 펀드 결성", "publisher": "thebell", "accessed": "2026-06-02", "supports": "first fund size, founder, founding", "quote": "지난 6월 설립된 스닉픽인베스트먼트 ... '스닉픽 바이오1호 조합'을 결성했으며, 결성약정총액은 31억원이고 대표 펀드 매니저는 김도현 대표" },
+      { "url": "https://www.thebell.co.kr/free/Content/ArticleView.asp?key=201907050100011740000745", "title": "바이오·헬스 전문 VC '스닉픽인베스트' 출범", "publisher": "thebell", "accessed": "2026-06-02", "supports": "founder background, Hugel link", "quote": "스닉픽인베스트먼트의 대표이사 김도현은 휴젤에서 최고재무책임자(CFO·상무)를 역임 ... 휴젤 전·현직 임원들이 설립" },
+      { "url": "https://www.unicornfactory.co.kr/article/2024041517340975181", "title": "모태펀드 루키리그 VC 면면보니", "publisher": "Unicorn Factory", "accessed": "2026-06-02", "supports": "2024 Rookie League, soburjang thesis", "quote": "스닉픽인베스트먼트 ... 바이오 소부장 국산화. 휴젤 출신 설립, 김도현 대표는 전 휴젤 전략본부장" }
+    ],
+    "confidence": "high",
+    "verification_notes": "First fund KRW 3.1bn (31억원), founded June 2019. Portfolio count of 6 from THE VC listing ('6건의 투자').",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "kr-timeworks-investment",
+    "name": { "en": "Timeworks Investment", "local": "타임웍스인베스트먼트" },
+    "aka": ["타임웍스인베", "타임웍스인베스트먼트(주)"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://www.twinv.co.kr/",
+    "links": {
+      "other": ["https://thevc.kr/timeworksinvestment"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "타임웍스 정책형 뉴딜 루키 블라인드 펀드 (Timeworks New Deal Rookie blind fund)", "vintage_year": null, "size": { "raw": "KRW 25 billion (target)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist"],
+      "thesis": "Emerging VC; its 2024 Fund-of-Funds Rookie League thesis targeted 'midlife founders' (age 40+, company under 7 years old). Earlier won the Policy New Deal Fund 'rookie' tranche for first-time GPs."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Na Jong-yoon (나종윤)", "role": "CEO / representative" }
+    ],
+    "team_size": null,
+    "summary": {
+      "en": "Emerging VC established December 2020 (registered as a startup-investment company May 2021). Won the Policy New Deal Fund 'rookie' tranche (~KRW 11bn policy capital toward a KRW 25bn fund) and was a 2024 Fund-of-Funds Rookie League GP with a 'midlife founder' (40+) thesis.",
+      "local": "2020년 12월 설립(2021년 5월 창투사 등록)된 신생 VC. 정책형 뉴딜펀드 루키 분야 GP로 선정돼 약 110억원 정책자금으로 250억원 펀드를 결성했고, 2024 모태펀드 루키리그에서는 40세 이상 중년창업 기업 투자를 내세웠다."
+    },
+    "sources": [
+      { "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202105141642423800106383&lcode=00", "title": "타임웍스인베, '창투사' 등록…정책형 뉴딜펀드 도전", "publisher": "thebell", "accessed": "2026-06-02", "supports": "founding, registration", "quote": "타임웍스인베스트먼트는 2020년 12월 10일 설립되어 2021년 5월 12일 중소벤처기업부에 창업투자회사로 등록" },
+      { "url": "https://knewdeal.kgrowth.or.kr/portfolio/partner_detail.asp?idx=44", "title": "정책형 뉴딜펀드 루키 선정", "publisher": "K-Growth", "accessed": "2026-06-02", "supports": "policy new deal rookie fund size", "quote": "약 110억원의 정책 자금을 바탕으로 250억원 규모의 펀드 결성 ... 뉴딜루키 분야는 블라인드 펀드 운용규모가 500억원을 넘지 않고 ... GP로 선정된 적이 없는 기관만 신청가능" },
+      { "url": "https://www.unicornfactory.co.kr/article/2024041517340975181", "title": "모태펀드 루키리그 VC 면면보니", "publisher": "Unicorn Factory", "accessed": "2026-06-02", "supports": "2024 Rookie League, midlife-founder thesis", "quote": "타임웍스인베스트먼트 ... 창업 7년 이내, 40세 이상 창업 기업(중년창업)" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "CEO attribution conflicts: THE VC lists 나종윤; a separate source mentions 이정대 as head — likely a leadership change. Founding 2020-12 confirmed by thebell.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "kr-konan-investment",
+    "name": { "en": "Konan Investment", "local": "코난인베스트먼트" },
+    "aka": ["코난인베스트먼트(주)"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": null,
+    "links": {
+      "other": []
+    },
+    "capital": {
+      "funds": [
+        { "name": "Konan rookie venture fund (2025)", "vintage_year": 2025, "size": { "raw": "approx. KRW 10 billion commitment (Fund-of-Funds)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist"],
+      "thesis": "Small/emerging VC selected as a 2025 Fund-of-Funds Rookie League GP; exceeded its minimum fund target despite earlier capital-impairment issues."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [],
+    "team_size": null,
+    "summary": {
+      "en": "Small emerging VC selected as a 2025 Fund-of-Funds Rookie League GP (one of 10), closing above its minimum target. Had previously been placed under a management-improvement order by the SME ministry after a capital impairment.",
+      "local": "2025년 모태펀드 루키리그 10개 GP 중 하나로 선정된 소형 신생 VC. 최소 결성액을 초과 달성했으나, 앞서 자본잠식으로 중기부의 경영개선 요구를 받은 바 있다."
+    },
+    "sources": [
+      { "url": "https://www.numbers.co.kr/news/articleView.html?idxno=20211", "title": "[모태펀드 2025 결산]② 루키에 1000억…신생 VC '무럭무럭'", "publisher": "Numbers", "accessed": "2026-06-02", "supports": "2025 Rookie League selection list", "quote": "루키리그에 선정된 10개 운용사는 ... 코난인베스트먼트입니다" },
+      { "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504240649309200103489&lcode=00", "title": "[모태 2025 1차 정시출자]루키리그", "publisher": "thebell", "accessed": "2026-06-02", "supports": "fund close, prior capital impairment", "quote": "코난인베스트먼트는 지난해 자본잠식에 빠져 중기부로부터 ... 경영개선 요구를 받았습니다 ... 최소 결성액을 초과 달성" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Limited primary data: founding year, CEO and exact fund size not verified. Included as a confirmed 2025 Rookie League GP. Fund size given only as ~KRW 10bn Rookie League commitment.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  }
+]

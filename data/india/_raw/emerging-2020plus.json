@@ -1,0 +1,975 @@
+[
+  {
+    "id": "in-better-capital",
+    "name": { "en": "Better Capital" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "india",
+    "country": "United States",
+    "hq_city": "Pune / San Francisco",
+    "offices": [
+      { "country": "India", "city": "Pune" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "website": "https://www.bettercapital.vc",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/betterinc",
+      "crunchbase": "https://www.crunchbase.com/organization/better-capital-vc",
+      "other": ["https://www.vcsheet.com/fund/better-capital"]
+    },
+    "capital": {
+      "aum": { "raw": "$100M+", "usd": 100000000, "currency": "USD" },
+      "funds": [
+        { "name": "Better Capital maiden fund", "vintage_year": 2021, "size": { "raw": "$15.28 Mn (INR 114 Cr)", "usd": 15280000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "median check size $300K", "usd_min": null, "usd_max": 300000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India"],
+      "sector_focus": ["generalist", "fintech", "ai-ml", "saas-enterprise"],
+      "thesis": "First US-based pre-seed fund purpose-built to back India's breakout founders; India's largest pre-seed investor by deal volume, run as a solo-GP fund staying 'small and early forever'."
+    },
+    "track_record": {
+      "portfolio_count": "200+",
+      "notable_investments": [
+        { "company": "Open", "sector": "fintech", "outcome": "active" },
+        { "company": "M2P Fintech", "sector": "fintech", "outcome": "active" },
+        { "company": "Teachmint", "sector": "edtech", "outcome": "active" },
+        { "company": "Slice", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Jupiter", "sector": "fintech", "outcome": "active" },
+        { "company": "Khatabook", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Vaibhav Domkundwar", "role": "Founder & CEO (solo GP)", "linkedin": "https://www.linkedin.com/in/better/" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["pre-seed", "solo-gp", "us-india", "non-hub", "pune"],
+    "summary": {
+      "en": "Better Capital is a solo-GP, US-based (Pune & San Francisco) pre-seed fund founded by Vaibhav Domkundwar that has become India's largest pre-seed investor by deal volume, with 200+ portfolio companies and $100M+ AUM, writing 150+ cheques a year at a median ~$300K."
+    },
+    "sources": [
+      { "url": "https://inc42.com/buzz/vaibhav-domkundwar-better-capital-launches-15-mn-seed-stage-specific-maiden-fund/", "title": "Vaibhav Domkundwar's Better Capital launches $15 Mn seed stage-specific maiden fund", "publisher": "Inc42", "accessed": "2026-06-02", "supports": "fund size, check size, target startups, portfolio", "quote": "$15.28 million (approximately INR 114 Cr) ... median check size being $300K ... 40-50 sector agnostic pre-seed and seed-stage startups ... previously invested in 125+ companies" },
+      { "url": "https://www.vcsheet.com/fund/better-capital", "title": "Better Capital - VC Fund Breakdown", "publisher": "VC Sheet", "accessed": "2026-06-02", "supports": "AUM, portfolio count, dual HQ, solo GP, 150+ checks", "quote": "India's largest pre-seed investor by deal volume with 200+ portfolio companies ... dual headquarters between Pune and San Francisco ... $100M+ AUM, writing 150+ checks annually at the pre-seed stage" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Firm/Better Labs studio predates 2020; first institutional fund closed 2021. Included here as a frequently-missed India-focused pre-seed fund with a non-hub (Pune) base. Founding year of the VC activity reported as 2018 by some secondary sources; treated as approximate.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "in-all-in-capital",
+    "name": { "en": "All In Capital" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "website": "https://allincapital.vc",
+    "links": {
+      "other": ["https://inc42.com/features/inside-all-in-capitals-inr-300-cr-bet-on-indias-next-wave-of-founders/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2022, "size": { "raw": "INR 95 Cr ($11 Mn)", "usd": 11000000, "currency": "INR" } },
+        { "name": "Fund II", "vintage_year": 2024, "size": { "raw": "INR 200 Cr with INR 100 Cr greenshoe (total INR 300 Cr)", "usd": null, "currency": "INR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "Fund II: INR 3-5 Cr; Fund I: INR 1.5-2 Cr", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India"],
+      "sector_focus": ["generalist", "consumer", "deeptech", "fintech"],
+      "thesis": "Backs Indian founders who 'go all in', sourcing the next generation of founders through a community of operators; leads pre-seed/seed rounds up to ~INR 6 Cr."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "MedMitra", "sector": "healthtech", "outcome": "active" },
+        { "company": "Spill Games", "sector": "gaming", "outcome": "active" },
+        { "company": "NewMe", "sector": "consumer", "outcome": "active" },
+        { "company": "Volt Money", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Kushal Bhagia", "role": "Founder / General Partner" },
+      { "name": "Aditya Singh", "role": "Founder / General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["pre-seed", "community-led", "mumbai"],
+    "summary": {
+      "en": "All In Capital is a Mumbai-based micro-VC founded in 2022 by Kushal Bhagia and Aditya Singh. After an INR 95 Cr Fund I, it launched a ~INR 300 Cr Fund II (INR 200 Cr + INR 100 Cr greenshoe) to lead pre-seed/seed rounds, investing INR 3-5 Cr per deal across consumer tech, deeptech and fintech."
+    },
+    "sources": [
+      { "url": "https://inc42.com/features/inside-all-in-capitals-inr-300-cr-bet-on-indias-next-wave-of-founders/", "title": "Inside All In Capital's INR 300 Cr Bet On India's Next Wave Of Founders", "publisher": "Inc42", "accessed": "2026-06-02", "supports": "founding year, founders, fund sizes, check sizes, portfolio", "quote": "Founding Year: 2022 ... Fund I Size: INR 95 Cr ($11 Mn corpus) ... Fund II Size: INR 200 Cr with INR 100 Cr greenshoe option (total INR 300 Cr) ... Check Size: Fund I: INR 1.5-2 Cr; Fund II: INR 3-5 Cr" },
+      { "url": "https://allincapital.vc/", "title": "All In Capital - Going all in on founders who go all in", "publisher": "All In Capital", "accessed": "2026-06-02", "supports": "HQ city, founders, check size", "quote": "522, Corporate Center, Nirmal Lifestyles, LBS Marg, Mulund West, Mumbai - 400080 ... USD 250K to 600K" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "in-eximius-ventures",
+    "name": { "en": "Eximius Ventures" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Delhi / Bengaluru",
+    "offices": [
+      { "country": "India", "city": "New Delhi" },
+      { "country": "India", "city": "Bengaluru" }
+    ],
+    "website": "https://eximiusvc.com",
+    "links": {
+      "linkedin": "https://in.linkedin.com/in/pearl-agarwal",
+      "crunchbase": "https://www.crunchbase.com/organization/eximius-ventures"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2021, "size": { "raw": "$10 million", "usd": 10000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "$30 million (target)", "usd": 30000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "Fund I avg $300K; Fund II $500K-$1M", "usd_min": 300000, "usd_max": 1000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["fintech", "ai-ml", "saas-enterprise", "consumer", "gaming", "healthtech"],
+      "thesis": "Pre-seed-focused fund backing founders before traction or a fully-built product across fintech, AI/SaaS and consumer AI."
+    },
+    "track_record": {
+      "portfolio_count": "23 (Fund I)",
+      "notable_investments": [
+        { "company": "Eka.Care", "sector": "healthtech", "outcome": "active" },
+        { "company": "Jar", "sector": "fintech", "outcome": "active" },
+        { "company": "Stan", "sector": "gaming", "outcome": "active" },
+        { "company": "Oyela", "sector": "ecommerce", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Pearl Agarwal", "role": "Founder & Managing Director", "linkedin": "https://in.linkedin.com/in/pearl-agarwal" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["pre-seed", "fintech", "consumer-ai"],
+    "summary": {
+      "en": "Eximius Ventures is a pre-seed micro-VC founded in 2020 by Pearl Agarwal, with offices in Delhi and Bengaluru. Its $10M maiden fund (avg cheque $300K) backed 23 companies including Eka.Care, Jar and Stan; Fund II targets $30M with larger cheques up to $1M."
+    },
+    "sources": [
+      { "url": "https://www.dealstreetasia.com/stories/eximius-ventures-second-fund-427453", "title": "Indian micro VC firm Eximius Ventures plans to raise $30m for its second fund", "publisher": "DealStreetAsia", "accessed": "2026-06-02", "supports": "founding year, fund I and II sizes, check sizes, portfolio count", "quote": "Eximius was founded in 2020 ... closed its maiden $10-million fund in 2021 ... deployed capital across 23 companies with an average cheque size of $300,000 ... second fund with a target corpus of $30 million ... average cheque size to $500,000" },
+      { "url": "https://eximiusvc.com/", "title": "Eximius Ventures", "publisher": "Eximius Ventures", "accessed": "2026-06-02", "supports": "HQ cities, fund sizes, check size, sector focus, portfolio", "quote": "Fund I: $10 million; Fund II: $30 million ... up to $500K ... typical investments of $500K to $1M ... Fintech ... AI/SaaS ... Consumer AI" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "in-antler-india",
+    "name": { "en": "Antler India" },
+    "type": "vc",
+    "subtypes": ["accelerator", "venture-studio"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "website": "https://www.antler.co/location/india",
+    "links": {
+      "other": ["https://www.ivca.in/insights/blogs/fund-in-focus-9w2"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Antler India maiden fund", "vintage_year": 2020, "size": { "raw": "$75 million", "usd": 75000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["India"],
+      "sector_focus": ["generalist", "ai-ml", "fintech", "saas-enterprise"],
+      "thesis": "Day-zero investor: runs a residency that helps individuals find co-founders, validate ideas and receive first institutional capital; targets early-stage Indian companies building global products."
+    },
+    "program": {
+      "length_weeks": 20,
+      "format": "in-person",
+      "location": "Bengaluru",
+      "eligibility": "Aspiring and early founders (idea/team formation stage)"
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Rajiv Srivatsa", "role": "Partner (co-founder, Urban Ladder)" },
+      { "name": "Nitin Sharma", "role": "Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["residency", "day-zero", "global-platform"],
+    "summary": {
+      "en": "Antler India is the India arm of Singapore-founded Antler, launched in March 2020 and led by Rajiv Srivatsa and Nitin Sharma. It runs a 4-5 month residency to help founders go from idea to team to funding, backed by a $75M maiden India fund, with plans to deploy $100M+ over four years."
+    },
+    "sources": [
+      { "url": "https://kr-asia.com/antler-is-after-early-stage-indian-companies-building-global-products-qa-with-nitin-sharma", "title": "Antler is after early-stage Indian companies building global products: Q&A with Nitin Sharma", "publisher": "KrASIA", "accessed": "2026-06-02", "supports": "launch year, leadership, fund size, residency", "quote": "Antler India was launched in March 2020 ... Rajiv Srivatsa (co-founder, Urban Ladder) and Nitin Sharma ... Antler's maiden India fund is $75 million ... aims to invest over US$100M in India across funds in the next 4 years ... residency program works closely with founders over a period of 4-5 months" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Global Antler platform founded 2017 in Singapore; India operation launched March 2020. HQ city (Bengaluru) inferred from partners' base; not directly quoted.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "in-we-founder-circle",
+    "name": { "en": "We Founder Circle" },
+    "aka": ["WFC", "WeFounderCircle"],
+    "type": "angel-network",
+    "subtypes": ["accelerator", "angel-syndicate"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "website": "https://wefoundercircle.com",
+    "links": {
+      "other": ["https://www.invstt.com/public/company/we-founder-circle", "https://wefoundercircle.com/about-us/"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["India"],
+      "sector_focus": ["generalist", "fintech"],
+      "thesis": "Global angel investor network connecting founders, angels, operators and funds; invests in early-stage startups via a SEBI angel fund and a GIFT City vehicle, and runs the EvolveX accelerator."
+    },
+    "program": {
+      "format": "hybrid",
+      "eligibility": "Early-stage startups (EvolveX accelerator)"
+    },
+    "track_record": {
+      "portfolio_count": "53 unique startups (2022)"
+    },
+    "people": [
+      { "name": "Gaurav VK Singhvi", "role": "Co-founder" },
+      { "name": "Neeraj Tyagi", "role": "Co-founder & CEO (deceased Aug 2025)" },
+      { "name": "Bhawna Bhatnagar", "role": "Co-founder" },
+      { "name": "Vikas Aggarwal", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["angel-network", "gift-city", "accelerator"],
+    "summary": {
+      "en": "We Founder Circle is a Mumbai-based global angel investor network founded in 2020 by Neeraj Tyagi, Gaurav VK Singhvi, Bhawna Bhatnagar and Vikas Aggarwal. It became one of India's largest angel networks with 71 investments in 53 startups by 2022, operating a SEBI angel fund, a GIFT City fund and the EvolveX accelerator."
+    },
+    "sources": [
+      { "url": "https://www.business-standard.com/article/companies/we-founder-circle-creating-a-platform-of-angels-for-early-stage-startups-122010401238_1.html", "title": "We Founder Circle: Creating a platform of angels for early-stage startups", "publisher": "Business Standard", "accessed": "2026-06-02", "supports": "founding year, founders, HQ", "quote": "We Founder Circle was founded in 2020 in Mumbai ... Neeraj Tyagi ... Gaurav VK Singhvi, Bhawna Bhatnagar, and Vikas Aggarwal" },
+      { "url": "https://helloentrepreneurs.in/we-founder-circle-emerges-as-the-2nd-largest-angel-investor-network-of-india/", "title": "We Founder Circle emerges as the 2nd largest Angel Investor Network of India", "publisher": "Hello Entrepreneurs", "accessed": "2026-06-02", "supports": "portfolio scale", "quote": "71 startup investments in 53 unique startups" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "in-neon-fund",
+    "name": { "en": "Neon Fund" },
+    "aka": ["100X Entrepreneur Fund", "100X.VC Entrepreneur Fund"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "india",
+    "country": "United States",
+    "hq_city": "Bengaluru / Delaware",
+    "offices": [
+      { "country": "United States", "city": "Delaware (LP registration)" },
+      { "country": "India", "city": "Bengaluru" }
+    ],
+    "website": "https://neon.fund",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/neon-fund",
+      "other": ["https://neon.fund/about/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund 2", "vintage_year": null, "size": { "raw": "$11M", "usd": 11000000, "currency": "USD" } },
+        { "name": "Fund 3", "vintage_year": null, "size": { "raw": "$25 Million", "usd": 25000000, "currency": "USD" } },
+        { "name": "Fund 4", "vintage_year": null, "size": { "raw": "$50 Million (raising)", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": "$500,000 first cheque (range $100,000-$500,000)", "usd_min": 100000, "usd_max": 500000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India", "United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "cybersecurity"],
+      "thesis": "Invests only in Enterprise AI startups with an emphasis on Vertical AI applications, cybersecurity and developer tools."
+    },
+    "track_record": {
+      "portfolio_count": "24+",
+      "notable_investments": [
+        { "company": "Atomicwork", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "SpotDraft", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "CloudSEK", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "RapidClaims", "sector": "healthtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Siddhartha Ahluwalia", "role": "Co-Founder & Managing Partner" },
+      { "name": "Nansi Mishra", "role": "Co-Founder & Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["enterprise-ai", "b2b-saas", "us-india"],
+    "summary": {
+      "en": "Neon Fund (originally the 100X Entrepreneur Fund, seeded with an investment in inFeedo in 2020 and rebranded to Neon in 2023) is a US-registered, India-focused seed fund led by Siddhartha Ahluwalia and Nansi Mishra. It backs Enterprise AI / B2B SaaS startups with a $500K first cheque and is raising a $50M Fund 4."
+    },
+    "sources": [
+      { "url": "https://neon.fund/about/", "title": "About Us - Neon Fund", "publisher": "Neon Fund", "accessed": "2026-06-02", "supports": "founding year, founders, rebrand", "quote": "The seed for 100x Entrepreneur Fund was sown with investment in Infeedo in 2020 ... rebranded from 100X Entrepreneur to Neon in 2023 ... co-founded by Nansi Mishra and Siddhartha Ahluwalia" },
+      { "url": "https://neon.fund/", "title": "We invest in ambitious Enterprise AI Startups", "publisher": "Neon Fund", "accessed": "2026-06-02", "supports": "fund 4 size, check size, sector focus, HQ, portfolio", "quote": "We are raising our Fund 4 of $50 Million ... invest $500,000 as the first cheque ... can invest between $100,000 - $500,000 ... invest only in Enterprise AI startups ... head quartered in the US ... registered as a Limited Partnership in Delaware" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Some secondary databases list founding as 2018; primary site dates first investment to 2020 and rebrand to Neon in 2023. US-registered (Delaware LP) but India team based in Bengaluru and India-focused, hence region=india / country=United States.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "in-merak-ventures",
+    "name": { "en": "Merak Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "website": "https://www.merakventures.com",
+    "links": {
+      "linkedin": "https://in.linkedin.com/company/merakventures"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2022, "size": { "raw": "$100 million (target)", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$0.5 million - $1.5 million", "usd_min": 500000, "usd_max": 1500000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["deeptech", "saas-enterprise", "fintech", "ai-ml", "agritech", "spacetech"],
+      "thesis": "Backs B2B and emerging-technology startups in India solving real-world problems with scalable solutions, at pre-seed and seed."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Manu Rikhye", "role": "Founder / Partner (ex-GrowX Ventures)" },
+      { "name": "Sheetal Bahl", "role": "Founder / Partner (ex-GrowX Ventures)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["deeptech", "b2b", "spacetech"],
+    "summary": {
+      "en": "Merak Ventures is an early-stage deeptech/B2B VC founded in 2022 by ex-GrowX Ventures partners Manu Rikhye and Sheetal Bahl. It launched a $100M maiden fund writing first cheques of $0.5M-$1.5M into pre-seed and seed startups across deeptech, SaaS, fintech, AI/ML, agritech and spacetech."
+    },
+    "sources": [
+      { "url": "https://entrackr.com/2022/08/merak-ventures-launches-100-mn-fund-for-early-stage-startups/", "title": "Merak Ventures launches $100 Mn fund for early-stage startups", "publisher": "Entrackr", "accessed": "2026-06-02", "supports": "founding year, fund size, founders, check size, focus", "quote": "Merak Ventures was founded in 2022 ... first fund with a target size of $100 million ... Manu Rikhye and Sheetal Bahl ... former GrowX Ventures partners ... first checks between $0.5 million and $1.5 million" }
+    ],
+    "confidence": "high",
+    "verification_notes": "One secondary source cited an $80M figure; primary launch coverage states a $100M target. HQ city not directly quoted; Mumbai per firm records.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "in-2am-vc",
+    "name": { "en": "2am VC" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "offices": [
+      { "country": "India", "city": "Mumbai" },
+      { "country": "India", "city": "Bengaluru" },
+      { "country": "India", "city": "Delhi NCR" },
+      { "country": "United States", "city": "Los Angeles" }
+    ],
+    "website": "https://www.2amvc.com",
+    "links": {
+      "other": ["https://www.indianvcs.com/investor/2am-vc"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2021, "size": { "raw": "$10 Mn (target)", "usd": 10000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "$25 million (target)", "usd": 25000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["India"],
+      "sector_focus": ["saas-enterprise", "consumer", "logistics"],
+      "thesis": "Global early-stage fund making pre-seed and seed investments in Indian startups across SaaS, consumer and supply chain."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Hershel Mehta", "role": "Founding Partner" },
+      { "name": "Brendan Rogers", "role": "Founding Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["pre-seed", "us-india", "saas"],
+    "summary": {
+      "en": "2am VC is a global early-stage fund founded in 2021 by Hershel Mehta and Brendan Rogers, with offices in Mumbai, Bengaluru, Delhi NCR and Los Angeles. Its $10M debut fund backed Indian SaaS, consumer and supply-chain startups; Fund II targets $25M for 30 companies."
+    },
+    "sources": [
+      { "url": "https://inc42.com/buzz/2am-vc-launches-second-fund-to-back-30-indian-startups/", "title": "2am VC Launches Second Fund To Back 30 Indian Startups", "publisher": "Inc42", "accessed": "2026-06-02", "supports": "founding year, offices, fund sizes, founders, focus", "quote": "Founded in 2021 ... offices in Mumbai, Bengaluru, Delhi NCR and Los Angeles, launched its debut fund in 2021 with a target corpus of $10 Mn ... founding partners Hershel Mehta and Brendan Rogers ... Fund II is targeting $25 million" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "in-lumikai",
+    "name": { "en": "Lumikai" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "india",
+    "country": "India",
+    "hq_city": "New Delhi",
+    "website": "https://www.lumikai.com",
+    "links": {
+      "other": ["https://tracxn.com/d/venture-capital/lumikai/__MMQWkpK96OH-0ofgjCE_5nfHaCyJtPYsTjHxSNwE94U"]
+    },
+    "capital": {
+      "aum": { "raw": "$90M+ across two funds", "usd": 90000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2020, "size": { "raw": "$40 Mn AUM", "usd": 40000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "$50 Mn (target)", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$200,000 to $2 million", "usd_min": 200000, "usd_max": 2000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["gaming"],
+      "thesis": "India's first 100% gaming & interactive-media focused VC fund, backing 18-20 early-stage companies per fund across gaming and interactive media."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Bombay Play", "sector": "gaming", "outcome": "active" },
+        { "company": "Loco", "sector": "gaming", "outcome": "active" },
+        { "company": "Elo Elo", "sector": "gaming", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Salone Sehgal", "role": "Founding General Partner" },
+      { "name": "Justin Shriram Keeling", "role": "Founding General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["gaming", "interactive-media", "first-mover"],
+    "summary": {
+      "en": "Lumikai is India's first gaming & interactive-media VC, with its debut fund unveiled in August 2020 (Salone Sehgal and Justin Shriram Keeling, founding GPs). Fund I holds $40M AUM and Fund II targets $50M, writing $200K-$2M cheques into 18-20 companies per fund; portfolio includes Loco, Bombay Play and Elo Elo."
+    },
+    "sources": [
+      { "url": "https://inc42.com/buzz/gaming-vc-firm-lumikai-launches-50-mn-fund-eyes-investment-in-18-20-startups/", "title": "Gaming VC Firm Lumikai Launches $50 Mn Fund", "publisher": "Inc42", "accessed": "2026-06-02", "supports": "first fund 2020, AUM, fund II size, check size, portfolio", "quote": "first fund in August 2020 ... first 100% gaming and interactive-focused VC fund in India ... Fund I currently has $40 Mn worth of assets under management ... fund about 20 early-stage investments ... ranging from $200,000 to $2 million ... Bombay Play ... Loco ... Elo Elo" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding entity reported as 2019; its first (and India's first gaming) fund was unveiled August 2020 — included here as an effective 2020+ emerging fund.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "in-bharat-founders-fund",
+    "name": { "en": "Bharat Founders Fund" },
+    "aka": ["BFF"],
+    "type": "micro-vc",
+    "subtypes": ["vc", "angel-syndicate"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "india",
+    "country": "India",
+    "hq_city": "New Delhi",
+    "website": "https://www.bharatfoundersfund.com",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/bharatfoundersfund",
+      "crunchbase": "https://www.crunchbase.com/organization/bharat-founders-fund"
+    },
+    "capital": {
+      "current_fund": { "raw": "$20 million (2022)", "usd": 20000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$100,000 to $200,000 on average", "usd_min": 100000, "usd_max": 200000 },
+      "lead_or_follow": "follow",
+      "geo_focus": ["India"],
+      "sector_focus": ["generalist"],
+      "thesis": "A founders' collective: ~65 successful Indian entrepreneurs jointly back and support the next generation of founders building for Bharat."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Maanav Sagar", "role": "Partner (Investopad)" },
+      { "name": "Sera Arora", "role": "Partner (Investopad)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["founders-collective", "early-stage", "delhi"],
+    "summary": {
+      "en": "Bharat Founders Fund is a New Delhi-based founders' collective VC established in 2022, managed by Investopad's Maanav Sagar and Sera Arora and pooling ~65 entrepreneur-LPs. Its ~$20M fund makes early-stage investments of $100K-$200K on average."
+    },
+    "sources": [
+      { "url": "https://www.crunchbase.com/organization/bharat-founders-fund", "title": "Bharat Founders Fund - Crunchbase", "publisher": "Crunchbase", "accessed": "2026-06-02", "supports": "founding year, HQ", "quote": "venture capital firm founded in 2022 and is located in New Delhi, India" },
+      { "url": "https://unstop.com/blog/bharat-founders-fund", "title": "Budding Indian Entrepreneurs Get A New BFF!", "publisher": "Unstop", "accessed": "2026-06-02", "supports": "corpus, managers, LP count, check size", "quote": "corpus of $20 million in 2022 ... managed by Investopad partners Maanav Sagar and Sera Arora ... 65 founders jointly invest ... typically invest $100,000 to $200,000 on average" }
+    ],
+    "confidence": "medium",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "in-z21-ventures",
+    "name": { "en": "z21 Ventures" },
+    "aka": ["Z21 Ventures"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "india",
+    "country": "United States",
+    "hq_city": "United States (US-India corridor)",
+    "website": "https://z21.ventures",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/z21-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/z21-ventures",
+      "other": ["https://www.indianvcs.com/investor/z21"]
+    },
+    "capital": {
+      "aum": { "raw": "$45M total", "usd": 45000000, "currency": "USD" },
+      "current_fund": { "raw": "$40 M", "usd": 40000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$200K - $1M", "usd_min": 200000, "usd_max": 1000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["India", "United States"],
+      "sector_focus": ["ai-ml", "deeptech", "saas-enterprise", "cybersecurity", "robotics", "healthtech"],
+      "thesis": "Community-focused, operator-led fund investing in early-stage technology startups across the US-India corridor."
+    },
+    "track_record": {
+      "portfolio_count": "~45",
+      "notable_investments": [
+        { "company": "Inito", "sector": "healthtech", "outcome": "active" },
+        { "company": "TrueFoundry", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Conifer", "sector": "deeptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Abhinav Shashank", "role": "Co-founder (Innovaccer CEO)" },
+      { "name": "Raj Singh", "role": "Co-founder" },
+      { "name": "Jyotika Gupta", "role": "Co-founder" },
+      { "name": "Sudarshan Jha", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["us-india", "operator-led", "deeptech"],
+    "summary": {
+      "en": "z21 Ventures is a US-based, operator-led VC founded in 2022 by Innovaccer's Abhinav Shashank and others, investing across the US-India corridor. It has ~$45M total / a $40M current fund, writes $200K-$1M cheques into ~45 early-stage tech companies including Inito and TrueFoundry."
+    },
+    "sources": [
+      { "url": "https://www.indianvcs.com/investor/z21", "title": "z21 - Indian VCs", "publisher": "Indian VCs", "accessed": "2026-06-02", "supports": "founding year, fund size, check size, portfolio count, sectors", "quote": "Founding Year: 2022 ... $40 M (current), $45M (total) ... $200K - $1M ... invested in around 45 companies ... Inito, TrueFoundry, and Conifer" },
+      { "url": "https://z21.ventures/blog/z21-ventures-announces-early-stage-india-focused-fund", "title": "z21 Ventures Announces Early-Stage India-Focused Fund", "publisher": "z21 Ventures", "accessed": "2026-06-02", "supports": "founders, US-India corridor focus", "quote": "founded by Abhinav Shashank ... Raj Singh ... Jyotika Gupta ... and Sudarshan Jha ... US based, community-focused, operator-led, VC fund focused on early-stage technology startups in the US-India corridor" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "US-registered but explicitly US-India corridor focused, hence region=india / country=United States. Crunchbase page returned 403; founders sourced from search result text of the z21 blog.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "in-volt-vc",
+    "name": { "en": "Volt VC" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Ahmedabad",
+    "website": "https://www.voltvc.in",
+    "links": {
+      "other": ["https://yourstory.com/2024/08/micro-vc-firm-volt-vc-launches-rs-46-cr-inaugural-fund"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Volt VC Fund-1", "vintage_year": 2024, "size": { "raw": "INR 45 crore (target corpus)", "usd": null, "currency": "INR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "INR 50 lakh to INR 2 crore", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India"],
+      "sector_focus": ["consumer", "ecommerce"],
+      "thesis": "Backs pre-seed consumer-centric startups across D2C, B2C and B2B2C models; SEBI-registered Category II AIF based in Ahmedabad."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Param Patel", "role": "Founder (ex-GVFL, ex-Terazo)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["non-hub", "ahmedabad", "gujarat", "consumer", "pre-seed"],
+    "summary": {
+      "en": "Volt VC is an Ahmedabad-based (Gujarat) micro-VC founded in July 2023 by Param Patel (ex-GVFL). Its SEBI-registered Category II maiden fund targets INR 45 crore to back 20-25 pre-seed consumer-focused (D2C/B2C/B2B2C) startups with cheques of INR 50 lakh-INR 2 crore."
+    },
+    "sources": [
+      { "url": "https://indianstartupnews.com/news/ahmedabad-based-micro-vc-firm-volt-vc-launches-rs-45-crore-inaugural-fund-6899922", "title": "Ahmedabad-based micro VC firm Volt VC launches Rs 45 crore inaugural fund", "publisher": "Indian Startup News", "accessed": "2026-06-02", "supports": "HQ, fund size, target startups, check size, SEBI category, founder", "quote": "Ahmedabad-based micro venture capital firm Volt VC ... Volt VC Fund-1, a SEBI-registered Category II Alternative Investment Fund (AIF) ... targeting a corpus of INR 45 crore ... invest in 20–25 consumer-centric startups at the pre-seed stage ... INR 50 lakh to INR 2 crore in each startup ... Founded by Param Patel ... Founded in July 2023" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "in-silverneedle-ventures",
+    "name": { "en": "Silverneedle Ventures" },
+    "aka": ["SNV"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Hyderabad",
+    "offices": [
+      { "country": "India", "city": "Hyderabad" },
+      { "country": "India", "city": "Bengaluru" },
+      { "country": "India", "city": "Mumbai" },
+      { "country": "United States", "city": "California" }
+    ],
+    "website": "https://silverneedle.vc",
+    "links": {
+      "other": ["https://www.business-standard.com/article/companies/silverneedle-ventures-launches-rs-100-cr-fund-to-invest-in-30-startups-122102100409_1.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Silverneedle Ventures Fund", "vintage_year": 2022, "size": { "raw": "$12 Mn (INR 100 Cr)", "usd": 12000000, "currency": "INR" } },
+        { "name": "SilverX Fund", "vintage_year": null, "size": { "raw": "INR 800 crore (~$95 million)", "usd": 95000000, "currency": "INR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "INR 1 Cr to INR 6 Cr", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["saas-enterprise", "deeptech", "consumer", "climate-energy"],
+      "thesis": "Invests in pre-Series A / Series A rounds of early-stage startups across B2B SaaS, deeptech, sustainability, D2C and consumer internet."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Knorish", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Ajay Jain", "role": "Founder (Xseed Partners)" },
+      { "name": "Deepesh Agarwal", "role": "Founder (Xseed Partners)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["non-hub", "hyderabad", "b2b-saas", "deeptech"],
+    "summary": {
+      "en": "Silverneedle Ventures is a Hyderabad-based (non-hub) early-stage tech VC founded in 2022 by Xseed Partners' Ajay Jain and Deepesh Agarwal. Its $12M (INR 100 Cr) fund backs ~30 pre-Series A/Series A startups (cheques INR 1-6 Cr) in B2B SaaS, deeptech, sustainability and D2C; it also runs the INR 800 Cr SilverX deeptech fund."
+    },
+    "sources": [
+      { "url": "https://inc42.com/buzz/silverneedle-ventures-founds-12-mn-fund-to-invest-in-30-early-stage-startups/", "title": "Silverneedle Ventures Launches $12 Mn Fund", "publisher": "Inc42", "accessed": "2026-06-02", "supports": "founders, fund size, check size, target startups, sectors, offices", "quote": "$12 Mn (INR 100 Cr) ... between INR 1 Cr and INR 6 Cr ... 30 startups in the next 18 months ... Pre-Series A and Series A ... B2B SaaS, deeptech, sustainability, D2C ... team is currently based in Hyderabad, Bengaluru, Mumbai, and California ... Ajay Jain and Deepesh Agarwal" },
+      { "url": "https://tracxn.com/d/venture-capital/silverneedle-ventures/__2fis2Ts6-XaOjdE0MJjSEdYDi9MMQuqd96m6uqc5Of0", "title": "Silverneedle Ventures - Tracxn", "publisher": "Tracxn", "accessed": "2026-06-02", "supports": "founding year, HQ, SilverX fund", "quote": "founded in 2022 and is primarily based out of Hyderabad, India ... SilverX Fund, which targets deep tech investments with a size of INR 800 crore" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "in-riceberg-ventures",
+    "name": { "en": "Riceberg Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc", "accelerator"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "website": "https://riceberg.vc",
+    "links": {
+      "other": ["https://inc42.com/buzz/riceberg-ventures-floats-20-mn-fund-for-deeptech-startups/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Riceberg deeptech fund", "vintage_year": null, "size": { "raw": "$20 Mn (around INR 173.4 Cr)", "usd": 20000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500K average", "usd_min": null, "usd_max": 500000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["India", "United States", "Europe"],
+      "sector_focus": ["deeptech", "spacetech", "ai-ml", "robotics", "cybersecurity", "biotech"],
+      "thesis": "Deeptech-focused fund investing globally across spacetech, medtech, cybersecurity, AI, robotics, novel energy, semiconductors and quantum computing; also runs KickSky, India's first dedicated spacetech accelerator."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Manastu Space", "sector": "spacetech", "outcome": "active" },
+        { "company": "EtherealX", "sector": "spacetech", "outcome": "active" },
+        { "company": "Keyron Medical", "sector": "healthtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Ankit Anand", "role": "Co-founder" },
+      { "name": "Mredul Sarda", "role": "Co-founder" },
+      { "name": "Shubham Raj", "role": "Co-founder" },
+      { "name": "Lino Gandola", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["deeptech", "spacetech", "accelerator"],
+    "summary": {
+      "en": "Riceberg Ventures is a deeptech VC co-founded in 2023 by Ankit Anand, Mredul Sarda, Shubham Raj and Lino Gandola. Its ~$20M fund makes ~$500K cheques globally (India, US, Europe) into spacetech, medtech, AI, robotics, semiconductors and quantum; it also runs KickSky, India's first dedicated spacetech accelerator."
+    },
+    "sources": [
+      { "url": "https://inc42.com/buzz/riceberg-ventures-floats-20-mn-fund-for-deeptech-startups/", "title": "Riceberg Ventures Floats $20 Mn Fund For Deeptech Startups", "publisher": "Inc42", "accessed": "2026-06-02", "supports": "founding year, founders, fund size, check size, sectors, portfolio, accelerator", "quote": "Founding Year: 2023 ... Ankit Anand, Mredul Sarda, Shubham Raj, and Lino Gandola ... $20 Mn (around INR 173.4 Cr) ... $500K average ... spacetech, medtech, cybersecurity, AI, robotics, novel energy, semiconductors and quantum computing ... Manastu Space ... EtherealX ... KickSky, described as 'India's first dedicated spacetech accelerator'" }
+    ],
+    "confidence": "high",
+    "verification_notes": "HQ city (Bengaluru) inferred from firm records; not directly quoted in source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "in-centre-court-capital",
+    "name": { "en": "Centre Court Capital" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "website": "https://centrecourtcapital.com",
+    "links": {
+      "other": ["https://inc42.com/buzz/sports-focussed-vc-firm-centre-court-capital-closes-maiden-fund-at-inr-410-cr/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Maiden Fund", "vintage_year": 2024, "size": { "raw": "INR 410 Cr (final close; target was INR 350 Cr)", "usd": 42000000, "currency": "INR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "INR 8 Cr to INR 24 Cr", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["gaming", "consumer"],
+      "thesis": "Sports and gaming focused VC backing 15-18 startups in the sports and gaming category."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Quintar", "sector": "gaming", "outcome": "active" }
+      ],
+      "co_investors": ["SIDBI", "Premji Invest"]
+    },
+    "people": [
+      { "name": "Mustafa Ghouse", "role": "Founding General Partner (ex-JSW Sports CEO)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["sports", "gaming", "thematic"],
+    "summary": {
+      "en": "Centre Court Capital is a Mumbai-based sports & gaming VC founded in 2024 by Mustafa Ghouse (ex-JSW Sports CEO). Its maiden fund closed at INR 410 Cr (~$42M, above its INR 350 Cr target), anchored by JSW's Parth Jindal with LPs including SIDBI and Premji Invest, backing 15-18 startups with INR 8-24 Cr cheques."
+    },
+    "sources": [
+      { "url": "https://inc42.com/buzz/sports-focussed-vc-firm-centre-court-capital-closes-maiden-fund-at-inr-410-cr/", "title": "Sports-Focussed VC Firm Centre Court Capital Closes Maiden Fund At INR 410 Cr", "publisher": "Inc42", "accessed": "2026-06-02", "supports": "founding year, fund size, founder, LPs, check size, target startups", "quote": "founded by Mustafa Ghouse in 2024 with an initial corpus of INR 350 Cr ... final close of its maiden fund at INR 410 Cr ... anchored by JSW Cement's managing director Parth Jindal ... SIDBI, Premji Invest ... backing 15-18 startups ... average ticket size of INR 8 Cr to INR 24 Cr" },
+      { "url": "https://theprint.in/india/indias-centre-court-capital-launches-42-million-sports-gaming-tech-fund/2027101/", "title": "India's Centre Court Capital launches $42 million sports, gaming tech fund", "publisher": "ThePrint", "accessed": "2026-06-02", "supports": "USD fund size, sports/gaming focus", "quote": "Centre Court Capital launches $42 million sports, gaming tech fund" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "in-devc",
+    "name": { "en": "DeVC" },
+    "aka": ["DeVC India", "DeVC Founders Collective"],
+    "type": "micro-vc",
+    "subtypes": ["vc", "angel-syndicate"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "website": "https://www.devc.in",
+    "links": {
+      "other": ["https://medium.com/devc-dugout/devc-founders-collective-announces-30-investments-e87a1c5c67e2"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$50K to $500K", "usd_min": 50000, "usd_max": 500000 },
+      "lead_or_follow": "follow",
+      "geo_focus": ["India"],
+      "sector_focus": ["generalist"],
+      "thesis": "A founders' collective investing $50K-$500K per deal with a goal to back 50+ startups annually, across sectors in India and globally."
+    },
+    "track_record": {
+      "portfolio_count": "30+ (founders collective)"
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["founders-collective", "early-stage", "bengaluru"],
+    "summary": {
+      "en": "DeVC is a Bengaluru-based founders'-collective micro-VC founded in 2022, investing $50K-$500K per deal with a goal of 50+ startups annually across sectors in India and globally."
+    },
+    "sources": [
+      { "url": "https://tracxn.com/d/venture-capital/devc/___6XTBamGm6bpe9qgP2MrYVib6EhMEMZ9QHcqrI0Ttwg", "title": "DeVC - Tracxn Investor Profile", "publisher": "Tracxn", "accessed": "2026-06-02", "supports": "founding year, HQ, check size, target", "quote": "DeVC India was founded in 2022 and is a venture capital firm based in Bangalore, India. DeVC invests between $50K to $500K in each venture, with a goal to back 50+ startups annually" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Total fund size not disclosed; partner names not captured. Operates as a founders' collective alongside Dexter Ventures.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "in-dexter-ventures",
+    "name": { "en": "Dexter Ventures" },
+    "aka": ["Dexter Angels"],
+    "type": "micro-vc",
+    "subtypes": ["vc", "angel-syndicate"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "website": "https://www.dexter.ventures",
+    "links": {
+      "linkedin": "https://in.linkedin.com/company/dexter-angels",
+      "other": ["https://www.dexter.ventures/about.html"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["India"],
+      "sector_focus": ["generalist"],
+      "thesis": "Micro-VC supporting founders on their zero-to-one journey at pre-seed and seed; began as an angel syndicate (Dexter Angels) in 2020."
+    },
+    "track_record": {
+      "portfolio_count": "40+ investments / 80+ founders supported"
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["pre-seed", "syndicate-to-fund", "bengaluru"],
+    "summary": {
+      "en": "Dexter Ventures is a pre-seed/seed micro-VC that began as the angel syndicate Dexter Angels in 2020. It has made 40+ investments and supported 80+ founders on their zero-to-one journey."
+    },
+    "sources": [
+      { "url": "https://www.dexter.ventures/about.html", "title": "About - Dexter Ventures", "publisher": "Dexter Ventures", "accessed": "2026-06-02", "supports": "origin year, portfolio scale, stage focus", "quote": "Started as an angel syndicate called Dexter Angels in 2020, having made over 40 investments and supported over 80+ founders ... micro VC fund dedicated to supporting pre-seed and seed-stage startups in India" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund size and partner names not captured. Founding (2020) reflects the angel-syndicate origin that became the micro-VC.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "in-ajvc",
+    "name": { "en": "AJVC" },
+    "aka": ["AJ Capital", "Aviral Bhatnagar Venture Capital"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "website": "https://www.ajvc.fund",
+    "links": {
+      "other": ["https://inc42.com/buzz/aviral-bhatnagars-ajvc-closes-debut-fund-at-inr-200-cr/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "AJVC Fund I", "vintage_year": 2025, "size": { "raw": "INR 200 Cr (final close; initial target INR 100 Cr)", "usd": null, "currency": "INR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "INR 1.5 crore for a 9% equity stake", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "9",
+      "lead_or_follow": "lead",
+      "geo_focus": ["India"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "consumer"],
+      "thesis": "Pre-seed, sector-agnostic fund (priority AI, SaaS, consumer tech) backing 12-15 startups annually, typically INR 1.5 Cr for ~9% ownership."
+    },
+    "track_record": {
+      "portfolio_count": "25"
+    },
+    "people": [
+      { "name": "Aviral Bhatnagar", "role": "Founder & General Partner (ex-Venture Highway)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["pre-seed", "solo-gp", "ai", "saas"],
+    "summary": {
+      "en": "AJVC is a Mumbai-based pre-seed fund founded in 2024 by Aviral Bhatnagar (ex-Venture Highway). Its maiden fund closed at INR 200 Cr (double its INR 100 Cr target), offering INR 1.5 Cr for a 9% stake and backing 12-15 startups a year in AI, SaaS and consumer tech; it has reviewed 11,000+ applications and invested in 25 startups."
+    },
+    "sources": [
+      { "url": "https://inc42.com/buzz/aviral-bhatnagars-ajvc-closes-debut-fund-at-inr-200-cr/", "title": "Aviral Bhatnagar's AJVC Closes Debut Fund At INR 200 Cr", "publisher": "Inc42", "accessed": "2026-06-02", "supports": "fund size, target, check size, equity, cadence, sectors, applications, investments", "quote": "final close of its maiden fund with commitments exceeding INR 200 crore, which is more than twice its initial target of INR 100 crore ... offering INR 1.5 crore for a 9% equity stake ... support 12-15 pre-seed startups annually ... artificial intelligence (AI), software-as-a-service (SaaS), and consumer technology ... reviewed more than 11,000 applications ... invested in 25 startups so far" }
+    ],
+    "confidence": "high",
+    "verification_notes": "First close March 2025; firm/brand launched 2024. HQ (Mumbai) per founder base.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "in-java-capital",
+    "name": { "en": "Java Capital" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "website": "https://www.java.capital",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/java-capital",
+      "other": ["https://tracxn.com/d/venture-capital/javacapital/__sz-xup7Kzlqb9-uXH48Nhei_24HFpvnTcO2KllS0v1M"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2022, "size": { "raw": "₹75 Crores (~$9 million), incl. ₹25 Cr greenshoe", "usd": 9000000, "currency": "INR" } },
+        { "name": "Fund II", "vintage_year": 2023, "size": { "raw": "₹50 Crores (~$6 million)", "usd": 6000000, "currency": "INR" } },
+        { "name": "Deeptech fund", "vintage_year": null, "size": { "raw": "Rs 400 crore", "usd": null, "currency": "INR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["India"],
+      "sector_focus": ["deeptech", "climate-energy", "spacetech"],
+      "thesis": "Backs seed-stage deeptech and hard-science startups across climate/sustainability, energy and frontier technology."
+    },
+    "track_record": {
+      "portfolio_count": "44",
+      "notable_investments": [
+        { "company": "Agnikul", "sector": "spacetech", "outcome": "active" },
+        { "company": "Eplane", "sector": "mobility", "outcome": "active" },
+        { "company": "Oorja Energy", "sector": "climate-energy", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Karteek Pulapaka", "role": "Co-founder & Partner" },
+      { "name": "Vinod Shankar", "role": "Co-founder & Partner" },
+      { "name": "Bhargavi V", "role": "Co-founder & Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["deeptech", "climate", "spacetech"],
+    "summary": {
+      "en": "Java Capital is a Bengaluru-based deeptech micro-VC founded in 2020, with its first fund (₹75 Cr) launched in December 2022 and a ₹50 Cr second fund in 2023; it has since floated a ₹400 Cr deeptech fund. It backs seed-stage hard-science startups (44 to date) including Agnikul, Eplane and Oorja Energy."
+    },
+    "sources": [
+      { "url": "https://tracxn.com/d/venture-capital/javacapital/__sz-xup7Kzlqb9-uXH48Nhei_24HFpvnTcO2KllS0v1M", "title": "Java Capital - Tracxn", "publisher": "Tracxn", "accessed": "2026-06-02", "supports": "founding year, fund sizes, founders, portfolio, sectors", "quote": "Java Capital was founded in 2020 ... first fund launched in December 2022 with a corpus of ₹75 Crores (approximately $9 million), which included a greenshoe option of ₹25 Crores ... final close of its second fund, raising ₹50 Crores (approximately $6 million) ... Rs 400 crore deeptech fund ... invested in 44 companies ... Climate/Sustainability, DeepTech/Hard Science, and Energy ... Agnikul, Eplane, Lightspeed Photonics, and Oorja Energy" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding-year sources differ: firm founded 2020 but first fund operationalised December 2022. HQ (Bengaluru) per Tracxn.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  }
+]

@@ -1,0 +1,932 @@
+[
+  {
+    "id": "il-israel-innovation-authority",
+    "name": { "en": "Israel Innovation Authority", "local": "רשות החדשנות" },
+    "aka": ["IIA", "Office of the Chief Scientist", "OCS"],
+    "type": "government-program",
+    "subtypes": ["incubator", "accelerator"],
+    "status": "active",
+    "founded_year": 1965,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Jerusalem",
+    "website": "https://innovationisrael.org.il/en/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/innovationisrael_english/",
+      "twitter": "https://twitter.com/innovationaut",
+      "other": ["https://en.wikipedia.org/wiki/Israel_Innovation_Authority"]
+    },
+    "capital": {
+      "aum": { "raw": "~NIS 3 billion annual budget (2024)", "usd": null, "currency": "ILS" },
+      "current_fund": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "growth", "all"],
+      "check_size": { "raw": "NIS 200K (Tnufa) up to NIS 15M (Startup Fund Round A)", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "0 (non-dilutive grants; royalty-based repayment)",
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist", "deeptech", "ai-ml", "biotech", "healthtech", "climate-energy", "cybersecurity", "agritech"],
+      "thesis": "Government support and investment arm responsible for Israel's national innovation policy, providing non-dilutive R&D grants across all stages of the tech ecosystem through dozens of incentive programs."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Dror Bin", "role": "CEO (2021–present; announced he will step down after five-year term)" },
+      { "name": "Amiram Applebaum", "role": "Chairman" }
+    ],
+    "application": {
+      "how_to_apply": "Apply online to specific incentive programs via innovationisrael.org.il",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "national-innovation-agency", "non-dilutive", "grants"],
+    "summary": {
+      "en": "The Israel Innovation Authority (IIA) is the support and investment arm of the Israeli government, in charge of planning and executing the country's national innovation policy. Established in 1965 as the Office of the Chief Scientist (OCS) and renamed in 2016, it runs dozens of non-dilutive grant programs (Tnufa, Startup Fund, Technological Incubators, Innovation Labs, bilateral funds and more) for entrepreneurs and companies at all stages.",
+      "local": "רשות החדשנות הישראלית היא הזרוע התומכת והמשקיעה של ממשלת ישראל, האחראית על מדיניות החדשנות הלאומית. הוקמה ב-1965 כלשכת המדען הראשי ושונה שמה ב-2016."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Israel_Innovation_Authority",
+        "title": "Israel Innovation Authority - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding, rename, HQ, leadership, role",
+        "quote": "established in 1965 as the Office of the Chief Scientist and was renamed the Israel Innovation Authority (IIA) in 2016. ... Located in the Jerusalem Technology Park ... CEO: Dror Bin (2021–Present); Chairman: Amiram Applebaum"
+      },
+      {
+        "url": "https://www.calcalistech.com/ctechnews/article/lvlox3chy",
+        "title": "Dror Bin's battle cry — Calcalist (Ctech)",
+        "publisher": "Calcalist (Ctech)",
+        "accessed": "2026-06-02",
+        "supports": "Annual budget ~NIS 3 billion (2024)",
+        "quote": "the Innovation Authority's budget increased by one billion shekels to approximately three billion shekels"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Annual budget figure (~NIS 3bn) is from 2024 reporting and varies year to year; USD conversion left null. IIA is the umbrella agency; its individual programs are modeled as separate entities below.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "il-tnufa-ideation-program",
+    "name": { "en": "Tnufa (Ideation) Incentive Program", "local": "תנופה" },
+    "aka": ["Tnufa", "Ideation Program"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Jerusalem",
+    "website": "https://innovationisrael.org.il/en/programs/ideation-tnufa-incentive-program/",
+    "links": {
+      "other": ["https://innovationisrael.org.il/en/programs/"]
+    },
+    "capital": {
+      "current_fund": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "Up to NIS 200,000 (80% grant rate)", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "0 (non-dilutive; conditional grant repaid via royalties on sales)",
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist", "deeptech"],
+      "thesis": "Non-dilutive grant for fledgling entrepreneurs (even pre-incorporation) to develop and validate an innovative technological concept, build an initial prototype and reach proof-of-concept."
+    },
+    "program": {
+      "investment": { "raw": "Up to NIS 200,000 (80% of approved budget) over 12 months", "usd": null, "currency": "ILS" },
+      "equity_taken_pct": "0",
+      "application_url": "https://innovationisrael.org.il/en/programs/ideation-tnufa-incentive-program/",
+      "application_cycles": ["Open yearlong"],
+      "eligibility": "Independent Israeli entrepreneurs and new Israeli startups; available even prior to establishing a company. Approximately 100 entrepreneurs funded each year."
+    },
+    "application": {
+      "how_to_apply": "Apply online via the Israel Innovation Authority site",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "pre-seed-grant", "non-dilutive", "ideation"],
+    "summary": {
+      "en": "Tnufa is the Israel Innovation Authority's earliest-stage grant program, awarding up to NIS 200,000 (80% of approved budget over 12 months) to roughly 100 entrepreneurs a year — including individuals prior to incorporation — for idea development, prototyping and reaching proof-of-concept. The grant is non-dilutive and repaid via royalties only on commercial success.",
+      "local": "תנופה היא תכנית התמריצים של רשות החדשנות לשלב הרעיון, המעניקה עד 200,000 ש\"ח (80% מהתקציב המאושר) ליזמים בודדים ולחברות סטארט-אפ חדשות."
+    },
+    "sources": [
+      {
+        "url": "https://innovationisrael.org.il/en/programs/ideation-tnufa-incentive-program/",
+        "title": "Ideation (Tnufa) Incentive Program — Israel Innovation Authority",
+        "publisher": "Israel Innovation Authority",
+        "accessed": "2026-06-02",
+        "supports": "Grant amount, 80% rate, 12 months, eligibility, ~100 entrepreneurs/year, non-dilutive",
+        "quote": "Entrepreneurs and new Israeli startup companies can receive a conditional grant of up to NIS 200,000 over a period of 12 months (80% of the approved budget). ... approximately 100 entrepreneurs each year ... A company undertakes to repay the grant received from the Authority via royalty payments of the product's sales."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year of the program not pinned to a specific year from sources; left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "il-iia-startup-fund",
+    "name": { "en": "Israel Innovation Authority Startup Fund", "local": "קרן הסטארט-אפ" },
+    "aka": ["IIA Startup Fund", "Startup Fund"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Jerusalem",
+    "website": "https://innovationisrael.org.il/en/programs/startup-fund/",
+    "links": {
+      "other": ["https://www.pertamapartners.com/funding/israel-startup-funding-guide-2026"]
+    },
+    "capital": {
+      "current_fund": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "Pre-Seed: up to NIS 1.5M (60% grant); Seed: up to NIS 5M (50% grant); Round A: up to NIS 15M (30% grant)", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "0 (non-dilutive; no equity or voting rights; royalty-based repayment)",
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist", "deeptech", "ai-ml", "biotech", "healthtech"],
+      "thesis": "Non-dilutive matching grants to early-stage Israeli startups across pre-seed, seed and Series A rounds; the Authority takes no equity or voting rights."
+    },
+    "program": {
+      "investment": { "raw": "Pre-Seed up to NIS 1.5M (60%); Seed up to NIS 5M (50%); Round A up to NIS 15M (30%)", "usd": null, "currency": "ILS" },
+      "equity_taken_pct": "0",
+      "application_url": "https://innovationisrael.org.il/en/programs/startup-fund/",
+      "application_cycles": ["Rolling / per program track"],
+      "eligibility": "Early-stage Israeli startups; +10% bonus for women, Arab sector and peripheral-area founders (pre-seed track)."
+    },
+    "application": {
+      "how_to_apply": "Apply online via the Israel Innovation Authority site",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "non-dilutive", "matching-grant", "pre-seed", "seed", "series-a"],
+    "summary": {
+      "en": "The Israel Innovation Authority's Startup Fund provides non-dilutive matching grants across three stages: a Pre-Seed grant covering 60% of the round up to NIS 1.5M, a Seed grant covering 50% up to NIS 5M, and a Round A grant covering 30% up to NIS 15M. The Authority takes no equity or voting rights; repayment is royalty-based on commercial success.",
+      "local": "קרן הסטארט-אפ של רשות החדשנות מעניקה מענקים לא-מדללים בשלושה שלבים: Pre-Seed עד 1.5 מיליון ש\"ח (60%), Seed עד 5 מיליון ש\"ח (50%) ו-Round A עד 15 מיליון ש\"ח (30%)."
+    },
+    "sources": [
+      {
+        "url": "https://www.pertamapartners.com/funding/israel-startup-funding-guide-2026",
+        "title": "Israel Startup Funding 2026 — Complete Guide",
+        "publisher": "Pertama Partners",
+        "accessed": "2026-06-02",
+        "supports": "Pre-seed/seed/series-A grant caps and percentages, non-dilutive structure, +10% bonus",
+        "quote": "Pre-Seed: Up to NIS 1.5M (60% grant) ... +10% bonus for women, Arab sector, peripheral areas; Seed: Up to NIS 5M (50% grant); Series A: Up to NIS 15M (30% grant) ... Royalty-based repayment only upon commercial success"
+      },
+      {
+        "url": "https://innovationisrael.org.il/en/programs/startup-fund/",
+        "title": "Startup Fund — Israel Innovation Authority",
+        "publisher": "Israel Innovation Authority",
+        "accessed": "2026-06-02",
+        "supports": "Three-stage structure, non-dilutive (no equity/voting rights)",
+        "quote": "Non-dilutive funding – the Innovation Authority will not take equity or any voting rights in the company. The program has three stages: Pre-Seed Program ... Seed Program ... Round A Program"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Pre-seed cap NIS 1.5M (60%), seed NIS 5M (50%), Round A NIS 15M (30%) corroborated by both the IIA program page and a secondary guide. Program inception year not specified; null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "il-technological-incubators-program",
+    "name": { "en": "Technological Incubators Program (Israel Innovation Authority)", "local": "תכנית החממות הטכנולוגיות" },
+    "aka": ["Technological Innovation Incubators Program", "Venture Incubators Program", "Incubators Fund"],
+    "type": "government-program",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 1991,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Jerusalem",
+    "website": "https://innovationisrael.org.il/en/programs/technological-incubators-2024/",
+    "links": {
+      "other": ["https://innovationisrael.org.il/en/programs/technological-innovation-incubators-program/", "https://startupnationcentral.org/hub/blog/16-israel-incubators-to-watch-in-2025/"]
+    },
+    "capital": {
+      "current_fund": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "Joint public-private investment up to NIS 5M (~$1.5M) per startup in first stages; new deep-tech track up to NIS 21M (~$6.25M) cumulative per company", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["deeptech", "biotech", "healthtech", "agritech", "climate-energy", "hardware-semiconductor", "robotics"],
+      "thesis": "Government-licensed network of ~15 technological incubators across Israel that incubate deep-tech startups from concept to commercial product, with the Authority funding up to 85% of early-stage project costs alongside private incubator operators."
+    },
+    "program": {
+      "cohort_size": null,
+      "investment": { "raw": "Up to NIS 5M (~$1.5M) joint public-private per startup; up to 85% of early-stage costs funded for two years", "usd": null, "currency": "ILS" },
+      "format": "in-person",
+      "location": "Across Israel (~15 incubators)",
+      "application_url": "https://innovationisrael.org.il/en/programs/technological-incubators-2024/",
+      "application_cycles": ["Via incubator operators; periodic Calls for Proposals to license new incubators"],
+      "eligibility": "Entrepreneurs establishing a startup based on an innovative technological concept; incubators selected competitively for licenses of up to five years."
+    },
+    "track_record": {
+      "portfolio_count": "2500+ startups created since 1991",
+      "notable_investments": []
+    },
+    "application": {
+      "how_to_apply": "Apply to an individual licensed incubator; the Authority issues Calls for Proposals to license new incubators",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "incubator", "deep-tech", "public-private", "franchise"],
+    "summary": {
+      "en": "Established in 1991, the Israel Innovation Authority's Technological Incubators Program licenses ~15 incubators across Israel that turn innovative technological concepts into companies. Startups typically receive a joint public-private investment of up to NIS 5M (~$1.5M), with the Authority funding up to 85% of early-stage project costs. The program has created over 2,500 startups. A 2025 deep-tech track raises cumulative state grants to as much as NIS 21M (~$6.25M) per company.",
+      "local": "תכנית החממות הטכנולוגיות של רשות החדשנות, שהוקמה ב-1991, מפעילה כ-15 חממות ברחבי ישראל. סטארט-אפים מקבלים השקעה ציבורית-פרטית של עד 5 מיליון ש\"ח, כאשר הרשות מממנת עד 85% מעלויות השלב המוקדם."
+    },
+    "sources": [
+      {
+        "url": "https://innovationisrael.org.il/en/programs/technological-innovation-incubators-program/",
+        "title": "Technological Innovation Incubators Program — Israel Innovation Authority",
+        "publisher": "Israel Innovation Authority",
+        "accessed": "2026-06-02",
+        "supports": "Founded 1991, ~15 incubators, up to NIS 5M (~$1.5M) per startup, 2500+ startups",
+        "quote": "The Technological Incubators Program was established in 1991 ... At any given time, there are about 15 active incubators in Israel. Startups in the Incubators Program typically receive a joint public-private investment of up to 5 million Shekels (Approximately 1.5M USD) ... The program has created over 2500 innovative technology startups to date"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Israel_Innovation_Authority",
+        "title": "Israel Innovation Authority - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Up to 85% of early-stage costs funded, ~15 incubators, five-year license",
+        "quote": "The incubators offer government funding of up to 85% of early stage project costs for two years. ... Incubators are selected through competitive processes for a license period of up to five years"
+      },
+      {
+        "url": "https://www.calcalistech.com/ctechnews/article/r150un9iex",
+        "title": "Israeli startups to gain access to over $6 million each under new incubator program — Ctech",
+        "publisher": "Calcalist (Ctech)",
+        "accessed": "2026-06-02",
+        "supports": "2025 deep-tech track cumulative grants up to NIS 21M (~$6.25M) per company; up to three new incubators; NIS 40M per incubator",
+        "quote": "cumulative state grants of up to NIS 21 million (about $6.25 million) ... up to three new technological incubators ... up to NIS 40 million (about $11.9 million) over five years"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Up-to-85% figure from Wikipedia; up-to-NIS-5M joint investment from IIA page; 2025 deep-tech enhancements from Calcalist. Equity stake taken by private incubator operators varies and is not standardized; left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "il-iia-innovation-labs-program",
+    "name": { "en": "Innovation Labs Program (Israel Innovation Authority)", "local": "תכנית מעבדות חדשנות" },
+    "aka": ["Innovation Labs"],
+    "type": "government-program",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Jerusalem",
+    "website": "https://innovationisrael.org.il/en/programs/innovation-labs-program/",
+    "links": {
+      "other": ["https://innovationisrael.org.il/en/programs/"]
+    },
+    "capital": {
+      "current_fund": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["deeptech", "generalist"],
+      "thesis": "Helps very-early-stage entrepreneurs prove technological feasibility by giving them access to unique infrastructure and expertise of leading corporations; the Authority funds 33% of the cost of establishing the lab infrastructure."
+    },
+    "program": {
+      "investment": { "raw": "Authority funds 33% of the cost to establish the technological lab infrastructure", "usd": null, "currency": null },
+      "format": "in-person",
+      "application_url": "https://innovationisrael.org.il/en/programs/innovation-labs-program/",
+      "application_cycles": ["Open yearlong"],
+      "eligibility": "Entrepreneurs at preliminary project stages who need infrastructure to prove feasibility; incorporation not required before approval. Labs are operated by leading corporations."
+    },
+    "application": {
+      "how_to_apply": "Apply via Innovation Labs operated by partner corporations",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "innovation-lab", "feasibility", "corporate-partnership"],
+    "summary": {
+      "en": "The Innovation Labs Program supports very-early-stage entrepreneurs who need specialized infrastructure and expertise to prove technological feasibility, via labs operated by leading corporations. Entrepreneurs need not form a company before approval; the Israel Innovation Authority funds 33% of the cost of establishing the lab infrastructure.",
+      "local": "תכנית מעבדות החדשנות מסייעת ליזמים בשלבים מוקדמים מאוד הזקוקים לתשתיות וידע ייחודיים להוכחת היתכנות טכנולוגית, באמצעות מעבדות המופעלות על-ידי תאגידים מובילים."
+    },
+    "sources": [
+      {
+        "url": "https://innovationisrael.org.il/en/programs/innovation-labs-program/",
+        "title": "Innovation Labs Program — Israel Innovation Authority",
+        "publisher": "Israel Innovation Authority",
+        "accessed": "2026-06-02",
+        "supports": "Purpose, 33% infrastructure funding, no incorporation required",
+        "quote": "The Authority will fund 33% of the costs to establish the necessary technological infrastructure for companies and corporations participating in the program. ... The entrepreneur is not required to establish a company before his project is approved"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Program inception year not specified; null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "il-mofet-manufacturing-accelerators",
+    "name": { "en": "Manufacturing Industry's R&D Accelerators (MOFET)", "local": "מאיצי מופ\"ת" },
+    "aka": ["MOFET Accelerators", "Manufacturing Accelerators"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Jerusalem",
+    "website": "https://innovationisrael.org.il/en/programs/manufacturing-industrys-accelerators/",
+    "links": {
+      "other": ["https://innovationisrael.org.il/en/press_release/accelerators-mofet/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "~NIS 30 million total Authority investment across the accelerators", "usd": null, "currency": "ILS" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "check_size": { "raw": "Up to NIS 5M full grant per accelerator over a five-year franchise", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "0 (full grant to operate the accelerator)",
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["hardware-semiconductor", "agritech", "robotics", "generalist"],
+      "thesis": "State-backed R&D accelerators (MOFET) that pair deep-tech expertise with strategic advisory to drive breakthrough R&D in Israel's traditional manufacturing industry."
+    },
+    "program": {
+      "cohort_size": null,
+      "investment": { "raw": "Up to NIS 5M full grant per accelerator over five years; ~NIS 30M total Authority investment", "usd": null, "currency": "ILS" },
+      "equity_taken_pct": "0",
+      "format": "in-person",
+      "location": "Israel",
+      "application_url": "https://innovationisrael.org.il/en/programs/manufacturing-industrys-accelerators/",
+      "application_cycles": ["Competitive Call for Proposals (six operators selected)"],
+      "eligibility": "Manufacturing companies whose core activity is based on manufacturing in Israel and whose R&D investment is below 7% of annual turnover."
+    },
+    "track_record": {
+      "portfolio_count": "6 accelerator operators selected",
+      "notable_investments": [
+        { "company": "MatX", "sector": "manufacturing R&D accelerator", "outcome": "active" },
+        { "company": "PolyX", "sector": "manufacturing R&D accelerator", "outcome": "active" },
+        { "company": "Gilboa Nexus", "sector": "manufacturing R&D accelerator", "outcome": "active" }
+      ]
+    },
+    "application": {
+      "how_to_apply": "Manufacturing companies engage via the selected MOFET accelerator operators",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "accelerator", "manufacturing", "deep-tech"],
+    "summary": {
+      "en": "The MOFET program is the Israel Innovation Authority's set of state-backed R&D accelerators for the traditional manufacturing industry. The Authority awards up to NIS 5M in full grant funding per accelerator over a five-year franchise (~NIS 30M total), and selected six operators (MatX, PolyX, FFoodi, Spark Labs, ISG Intelligence, Gilboa Nexus). It targets manufacturers based in Israel whose R&D investment is below 7% of turnover.",
+      "local": "תכנית מאיצי מופ\"ת של רשות החדשנות מקימה מאיצי מו\"פ עבור תעשיית הייצור המסורתית. הרשות מעניקה עד 5 מיליון ש\"ח במענק מלא לכל מאיץ לאורך זיכיון של חמש שנים (כ-30 מיליון ש\"ח בסך הכל)."
+    },
+    "sources": [
+      {
+        "url": "https://innovationisrael.org.il/en/press_release/accelerators-mofet/",
+        "title": "Israel Innovation Authority Invests NIS 30 Million in Accelerators for Breakthrough R&D in the Manufacturing Industry",
+        "publisher": "Israel Innovation Authority",
+        "accessed": "2026-06-02",
+        "supports": "Up to NIS 5M per accelerator, five-year franchise, ~NIS 30M total, six winners, <7% R&D eligibility",
+        "quote": "The program provides up to NIS 5 million in full grant funding over a five-year franchise period for the establishment and operation of a MOFET Accelerator. ... total investment ... amounts to approximately NIS 30 million. Six winners—MatX, PolyX, FFoodi, Spark Labs, ISG Intelligence, and Gilboa Nexus ... R&D investment is below 7% of annual turnover."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded_year set to 2025 based on the announcement/press release timing; the program is newly launched.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "il-yozma-2",
+    "name": { "en": "Yozma 2.0 (Israel Innovation Authority)", "local": "יוזמה 2.0" },
+    "aka": ["Yozma 2.0", "Yozma 2"],
+    "type": "government-program",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Jerusalem",
+    "website": "https://innovationisrael.org.il/en/",
+    "links": {
+      "other": ["https://www.calcalistech.com/ctechnews/article/skxvbvrswg"]
+    },
+    "capital": {
+      "current_fund": { "raw": "~$450M government invested in VC funds over the program's first year ($365M Track 1 + $85M Track 2)", "usd": 450000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": "Track 1: Authority invests $0.30 per $1 from institutions; Track 2: ~$85M direct into nine deeptech funds", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist", "deeptech"],
+      "thesis": "Government fund-of-funds program (echoing the 1990s Yozma) that channels public capital into Israeli VC funds to catalyze private fundraising; participating funds must invest at least 70% of capital in Israeli companies."
+    },
+    "track_record": {
+      "portfolio_count": "9 deeptech funds (Track 2)",
+      "notable_investments": []
+    },
+    "application": {
+      "how_to_apply": "VC funds apply to the Israel Innovation Authority program tracks",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "fund-of-funds", "venture-capital", "matching", "yozma"],
+    "summary": {
+      "en": "Yozma 2.0 is a 2024 Israel Innovation Authority program that revives the spirit of the original 1990s Yozma fund-of-funds. About $450M of government money was invested into Israeli VC funds in its first year — $365M in Track 1 (the Authority adding $0.30 for every institutional $1) and $85M directly into nine deeptech funds (Track 2). Participating funds must invest at least 70% of capital in Israeli companies.",
+      "local": "יוזמה 2.0 היא תכנית של רשות החדשנות משנת 2024 המחדשת את רוח קרן יוזמה המקורית משנות ה-90. כ-450 מיליון דולר ממשלתיים הושקעו בקרנות הון-סיכון ישראליות בשנה הראשונה."
+    },
+    "sources": [
+      {
+        "url": "https://www.calcalistech.com/ctechnews/article/skxvbvrswg",
+        "title": "Israel channels $450 million into venture capital to support tech industry — Ctech",
+        "publisher": "Calcalist (Ctech)",
+        "accessed": "2026-06-02",
+        "supports": "$450M total, $365M/$85M tracks, 30c per $1 match, 70% Israeli requirement",
+        "quote": "About $450 million was invested in Israeli venture capital funds over the past year under the Innovation Authority's Yozma 2.0 program. ... The Authority committed to investing 30 cents for every dollar invested by institutions. ... $365 million was invested, of which $286 million came from institutional investors and $79 million from the Innovation Authority ... directly invested $85 million in nine deeptech funds ... invest at least 70% of the capital in Israeli companies."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yozma",
+        "title": "Yozma - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Yozma 2.0 launched 2024 with $155M government funds, 30% match, targeting $700M",
+        "quote": "In 2024, the Israel Innovation Authority has launched a Yozma 2.0 with government funds of $155 million, looking to raise $700 million from private institutional venture capital investors, at a 30% match."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Two government-investment figures appear: Wikipedia cites an initial $155M commitment with a $700M private-raise target; Calcalist reports ~$450M actually invested across two tracks in the first year. The current_fund reflects the Calcalist deployed figure. Match rate (30% / $0.30 per $1) is consistent across both.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "il-yozma-original",
+    "name": { "en": "Yozma Program (original government VC program, 1993)", "local": "יוזמה" },
+    "aka": ["Yozma", "Yozma Fund"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "inactive",
+    "founded_year": 1993,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.yozmagroup.com/overview",
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/Yozma"]
+    },
+    "capital": {
+      "aum": { "raw": "$100M government program ($20M into the Yozma Fund + $80M matching 10 private VC funds)", "usd": 100000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "40% government equity stake in each fund (buy-out option after 5 years)",
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist"],
+      "thesis": "The landmark 1993 government program that kick-started Israel's venture capital industry by co-investing $100M to seed ten private VC funds, each requiring a foreign VC partner, with a government buy-out option."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "application": {
+      "how_to_apply": "Historical — program ended; the Yozma Fund was privatized in 1997 and became the private Yozma Group",
+      "accepts_cold_inbound": false
+    },
+    "tags": ["government", "historical", "venture-capital", "fund-of-funds", "privatized"],
+    "summary": {
+      "en": "Yozma was the seminal 1993 Israeli government venture capital program credited with kick-starting the country's VC industry. The government invested $100M — $20M into the Yozma Fund itself and $80M matching ten new private VC funds (each requiring a foreign VC partner), retaining a 40% equity stake with a five-year buy-out option. The funds were largely privatized; the original government program ended (the Yozma Fund became the private Yozma Group in 1997).",
+      "local": "יוזמה הייתה תכנית הון-הסיכון הממשלתית פורצת-הדרך משנת 1993 שזוכה כמי שהניעה את תעשיית ההון-סיכון בישראל. הממשלה השקיעה 100 מיליון דולר והקימה עשר קרנות הון-סיכון פרטיות."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Yozma",
+        "title": "Yozma - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "1993 founding, $100M government investment, $20M/$80M split, 40% match, privatization 1997",
+        "quote": "The Israeli government initially invested USD 100 million ... $20 million of government subsidies went to the Yozma Fund, the other $80 million the government provided went to match other foreign and domestic firms, at 40% ... The Yozma Fund privatized in 1997 and became the Yozma Group."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Status set to 'inactive' because the original government program ended/was privatized; the present-day Yozma Group is a separate private entity. Government's 40% equity stake was bought out by private partners in most funds.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "il-bird-foundation",
+    "name": { "en": "BIRD Foundation (Israel-U.S. Binational Industrial R&D Foundation)", "local": "קרן ביר\"ד" },
+    "aka": ["BIRD", "Israel-U.S. Binational Industrial Research and Development Foundation"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 1977,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.birdf.com/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/bird-foundation",
+      "other": ["https://en.wikipedia.org/wiki/BIRD_Foundation", "https://innovationisrael.org.il/en/foundation/bird-israel-usa/"]
+    },
+    "capital": {
+      "aum": { "raw": "$110 million endowment", "usd": 110000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth", "all"],
+      "check_size": { "raw": "Up to 50% of project R&D costs, max ~$1–1.5M per approved project", "usd_min": null, "usd_max": 1500000 },
+      "ownership_target_pct": "0 (conditional grant, no equity; repaid only if commercial revenues are generated)",
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel", "United States"],
+      "sector_focus": ["deeptech", "cybersecurity", "agritech", "climate-energy", "healthtech", "hardware-semiconductor", "generalist"],
+      "thesis": "A binational government foundation that funds and matchmakes joint R&D projects between U.S. and Israeli companies, providing non-dilutive conditional grants of up to 50% of project costs."
+    },
+    "program": {
+      "investment": { "raw": "Up to 50% of project costs, up to ~$1–1.5M per project", "usd": null, "currency": "USD" },
+      "equity_taken_pct": "0",
+      "application_url": "https://www.birdf.com/",
+      "application_cycles": ["Multiple cycles per year"],
+      "eligibility": "Joint U.S.-Israel company pairs (startups and established firms) collaborating on industrial R&D."
+    },
+    "track_record": {
+      "portfolio_count": "Cumulative product sales from BIRD projects exceed $10 billion",
+      "notable_investments": []
+    },
+    "application": {
+      "how_to_apply": "Apply jointly with a U.S./Israeli partner company via birdf.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "binational", "usa-israel", "non-dilutive", "r-and-d"],
+    "summary": {
+      "en": "The BIRD Foundation, established by the U.S. and Israeli governments in 1977, funds and facilitates joint industrial R&D between U.S. and Israeli companies. It has a $110M endowment and provides non-dilutive conditional grants covering up to 50% of project costs (up to roughly $1–1.5M per project), taking no equity. Cumulative product sales from BIRD-funded projects exceed $10 billion.",
+      "local": "קרן ביר\"ד, שהוקמה על-ידי ממשלות ארה\"ב וישראל ב-1977, מממנת ומקדמת מו\"פ תעשייתי משותף בין חברות אמריקאיות וישראליות. הקרן בעלת קרן צמיתה של 110 מיליון דולר ומעניקה מענקים מותנים של עד 50% מעלות הפרויקט."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/BIRD_Foundation",
+        "title": "BIRD Foundation - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Established 1977, $110M endowment, up to 50% / max $1M per project, no equity, HQ Tel Aviv",
+        "quote": "BIRD was formally established in a ceremony in Washington DC on May 18, 1977 ... The current BIRD endowment is $110 million. ... BIRD funds up to 50% of each company's R&D expenses associated with the joint project (up to a maximum of $1M per approved project)."
+      },
+      {
+        "url": "https://www.birdf.com/what-is-bird/",
+        "title": "About BIRD — BIRD Foundation",
+        "publisher": "BIRD Foundation",
+        "accessed": "2026-06-02",
+        "supports": "Established by U.S. and Israeli governments 1977; up to 50% / $1.5M per project; no equity; >$10B cumulative sales",
+        "quote": "established by the U.S. and Israeli governments in 1977 ... funding covering up to 50 percent of project development costs, up to $1.5M per project. BIRD takes no equity in the companies. ... The cumulative sales of products developed through BIRD projects have exceeded $10 billion."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding: the establishing agreement was signed March 1976 and BIRD was formally established May 18, 1977 — 1977 used as founded_year. Per-project cap is stated as $1M (Wikipedia) or $1.5M (BIRD site); both retained in check_size raw.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "il-koril-rdf",
+    "name": { "en": "KORIL-RDF (Korea-Israel Industrial R&D Foundation)", "local": "קוריל" },
+    "aka": ["KORIL-RDF", "Korea-Israel Industrial R&D Foundation"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2001,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.koril.org/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/koril-rdf",
+      "other": ["https://innovationisrael.org.il/en/foundation/koril-israel-korea/"]
+    },
+    "capital": {
+      "aum": { "raw": "Joint government fund of USD 4 million per year (equal contributions)", "usd": 4000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth", "all"],
+      "check_size": { "raw": "Up to 50% of eligible R&D costs, max USD 1 million per project", "usd_min": null, "usd_max": 1000000 },
+      "ownership_target_pct": "0 (conditional grant repaid from commercial revenues)",
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel", "South Korea"],
+      "sector_focus": ["generalist", "deeptech", "biotech"],
+      "thesis": "Binational government foundation supporting joint commercial R&D between Israeli and Korean companies, awarding grants of up to 50% of eligible costs."
+    },
+    "program": {
+      "investment": { "raw": "Up to 50% of eligible R&D costs, max USD 1M per project", "usd": null, "currency": "USD" },
+      "equity_taken_pct": "0",
+      "application_url": "https://www.koril.org/",
+      "application_cycles": ["Periodic Calls for Proposals"],
+      "eligibility": "Israeli companies registered in Israel paired with Korean companies registered in Korea; civilian/market-oriented products only."
+    },
+    "application": {
+      "how_to_apply": "Apply jointly with a Korean partner company via KORIL-RDF",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "binational", "korea-israel", "non-dilutive", "r-and-d"],
+    "summary": {
+      "en": "KORIL-RDF is a binational foundation incorporated in 2001, jointly owned and financed by the governments of Israel and South Korea, that promotes joint commercial R&D between companies in both countries. It manages a joint fund of about USD 4M per year and awards grants of up to 50% of eligible R&D costs, to a maximum of USD 1M per project, repayable from commercial revenues.",
+      "local": "קוריל היא קרן בי-לאומית שהוקמה ב-2001, בבעלות ובמימון משותף של ממשלות ישראל ודרום קוריאה, לקידום מו\"פ מסחרי משותף בין חברות בשתי המדינות."
+    },
+    "sources": [
+      {
+        "url": "https://www.devex.com/organizations/korea-israel-industrial-r-d-foundation-koril-rdf-157332",
+        "title": "Korea-Israel Industrial R&D Foundation (KORIL-RDF) — Devex",
+        "publisher": "Devex",
+        "accessed": "2026-06-02",
+        "supports": "Incorporated 2001, joint govt ownership, USD 4M/year fund, up to 50% / max USD 1M per project",
+        "quote": "incorporated in 2001, owned and financed jointly by the governments of the State of Israel and the Republic of Korea ... a joint R&D fund consisting of equal financial contributions by both governments totaling USD 4 million per year ... grants covering up to 50% of the eligible R&D costs to a maximum of USD 1 million."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Figures from Devex profile drawn from KORIL-RDF materials; consistent with IIA's binational funds page.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "il-siird",
+    "name": { "en": "SIIRD (Singapore-Israel Industrial R&D Foundation)", "local": "" },
+    "aka": ["SIIRD", "Singapore-Israel Industrial R&D Foundation"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 1997,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.siird.com/",
+    "links": {
+      "linkedin": "https://sg.linkedin.com/company/siirdf",
+      "other": ["https://innovationisrael.org.il/en/foundation/siird-israel-singapore/", "https://finder.startupnationcentral.org/investor_page/singapore-israel-industrial-r-d-foundation"]
+    },
+    "capital": {
+      "current_fund": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth", "all"],
+      "check_size": { "raw": "R&D projects: up to USD 1.5M or 50% of cost; Pilots: up to USD 1M; Feasibility: up to USD 50K", "usd_min": null, "usd_max": 1500000 },
+      "ownership_target_pct": "0 (conditional co-funding)",
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel", "Singapore"],
+      "sector_focus": ["generalist", "deeptech"],
+      "thesis": "Binational government foundation (Enterprise Singapore + Israel Innovation Authority) that co-funds joint R&D, pilot and feasibility projects between Israeli and Singaporean companies."
+    },
+    "program": {
+      "investment": { "raw": "R&D: max USD 1.5M (50%); Pilot: max USD 1M (50%); Feasibility: max USD 50K (50%)", "usd": null, "currency": "USD" },
+      "equity_taken_pct": "0",
+      "application_url": "https://www.siird.com/",
+      "application_cycles": ["Periodic Calls for Proposals"],
+      "eligibility": "Jointly submitted by a Singapore-registered company and an Israel-registered company; at least 30% of R&D work done in each country."
+    },
+    "application": {
+      "how_to_apply": "Apply jointly with a Singapore partner company via SIIRD",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "binational", "singapore-israel", "non-dilutive", "r-and-d"],
+    "summary": {
+      "en": "SIIRD, established in 1997, is a binational cooperation between Enterprise Singapore and the Israel Innovation Authority that co-funds joint R&D, pilot and feasibility projects between Israeli and Singaporean companies. It co-funds up to 50% of project cost — up to USD 1.5M for R&D projects, USD 1M for pilots and USD 50K for feasibility studies.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.enterprisesg.gov.sg/grow-your-business/innovate-with-us/market-access-and-networks/global-innovation-alliance/cip/singapore-israel-industrial-rd-programme",
+        "title": "Singapore-Israel Industrial R&D Programme — Enterprise Singapore",
+        "publisher": "Enterprise Singapore",
+        "accessed": "2026-06-02",
+        "supports": "Established 1997, EnterpriseSG + IIA cooperation, 50% co-funding, caps USD 1.5M/1M/50K",
+        "quote": "Established in 1997, the Singapore-Israel Industrial R&D Technological Innovation Fund (SIIRD) is a cooperation between Enterprise Singapore (EnterpriseSG) and the Israel Innovation Authority (IIA) ... SIIRD may co-fund a maximum of USD 1,500,000 or 50% of the total project cost ... Pilot Projects ... a maximum of USD 1,000,000 ... Feasibility Study Projects ... a maximum of USD 50,000"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Hebrew name left blank (foundation operates under its English/acronym name). Caps and 50% co-funding corroborated by Enterprise Singapore.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "il-i4f",
+    "name": { "en": "I4F (India-Israel Industrial R&D and Technological Innovation Fund)", "local": "" },
+    "aka": ["I4F", "Israel-India Industrial R&D and Technological Innovation Fund"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://i4f.org/",
+    "links": {
+      "other": ["https://innovationisrael.org.il/en/foundation/i4f-israel-india/", "https://www.timesofisrael.com/first-israel-india-projects-get-green-light-from-joint-40-million-tech-fund/"]
+    },
+    "capital": {
+      "aum": { "raw": "$40 million joint fund (equal contribution over five years)", "usd": 40000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "0 (conditional grants)",
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel", "India"],
+      "sector_focus": ["agritech", "climate-energy", "healthtech", "saas-enterprise", "generalist"],
+      "thesis": "Binational government fund (Israel Innovation Authority + India's Department of Science and Technology) supporting joint industrial R&D projects between Israeli and Indian companies in focus sectors."
+    },
+    "program": {
+      "investment": { "raw": "Grants for joint POC, R&D and pilot projects from a $40M joint fund", "usd": null, "currency": "USD" },
+      "equity_taken_pct": "0",
+      "application_url": "https://i4f.org/",
+      "application_cycles": ["Periodic Calls for Proposals"],
+      "eligibility": "Joint projects between companies from India and Israel in focus sectors (Agriculture, Energy, Healthcare, ICT, Water)."
+    },
+    "application": {
+      "how_to_apply": "Apply jointly with an Indian partner company; implemented by GITA (India) and IIA (Israel)",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "binational", "india-israel", "non-dilutive", "r-and-d"],
+    "summary": {
+      "en": "I4F is a $40M binational fund created in 2018 by the Israel Innovation Authority and India's Department of Science and Technology (each contributing equally over five years) to support joint industrial R&D, proof-of-concept and pilot projects between Israeli and Indian companies in Agriculture, Energy, Healthcare, ICT and Water. The first call was launched jointly by PM Modi and PM Netanyahu in January 2018.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://dst.gov.in/first-india-israel-initiatives-announced-joint-40-million-technology-fund",
+        "title": "First India-Israel initiatives announced for joint $40 million technology fund — DST",
+        "publisher": "Department of Science & Technology, Government of India",
+        "accessed": "2026-06-02",
+        "supports": "$40M joint fund, equal contribution over five years, launched Jan 2018, IIA+DST",
+        "quote": "DST and Israel Innovation Authority have jointly created a joint $40 Million USD I4F fund with equal contribution from both sides over a period of five years. The first call was launched jointly by Prime Minister Narendra Modi and Prime Minister Benjamin Netanyahu on 15 January 2018"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Per-project grant size not specified in sources; left null. Fund total $40M well sourced.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "il-bsf",
+    "name": { "en": "U.S.-Israel Binational Science Foundation (BSF)", "local": "" },
+    "aka": ["BSF", "United States-Israel Binational Science Foundation"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 1972,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Jerusalem",
+    "website": "https://www.bsf.org.il/",
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/United_States_%E2%80%93_Israel_Binational_Science_Foundation", "https://afbsf.org/about-bsf/"]
+    },
+    "capital": {
+      "aum": { "raw": "$100M endowment (established in equal parts by the two governments); ~$26M distributed in grants per year", "usd": 100000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "0 (research grants, not investments)",
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel", "United States"],
+      "sector_focus": ["biotech", "deeptech", "generalist"],
+      "thesis": "Binational government foundation funding collaborative basic and applied academic research between U.S. and Israeli scientists; it funds peer-reviewed research at non-profit institutions, not startups."
+    },
+    "application": {
+      "how_to_apply": "Researchers at non-profit/academic institutions apply for peer-reviewed grants via bsf.org.il",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "binational", "usa-israel", "research-grant", "academic"],
+    "summary": {
+      "en": "The U.S.-Israel Binational Science Foundation (BSF), established in 1972, promotes scientific cooperation by funding collaborative academic research between U.S. and Israeli scientists. Built on a $100M endowment contributed equally by both governments, it distributes roughly $26M per year in peer-reviewed grants. Note: BSF funds basic/applied research at non-profit institutions rather than startups, so it is a peripheral (research-funding) member of this segment.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/United_States_%E2%80%93_Israel_Binational_Science_Foundation",
+        "title": "United States–Israel Binational Science Foundation - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Established 1972, $100M endowment, Jerusalem HQ, basic research focus",
+        "quote": "established in 1972 by an agreement between the governments of the United States and Israel ... endowment of $100 million which was established in equal parts by the United States and Israeli governments"
+      },
+      {
+        "url": "https://www.bsf.org.il/about/",
+        "title": "About the BSF",
+        "publisher": "U.S.-Israel Binational Science Foundation",
+        "accessed": "2026-06-02",
+        "supports": "~$26M/year in grants, >95% for research grants",
+        "quote": "The BSF distributes some $26 million per year in grant monies, with more than 95% of the annual budget allocated for research grants."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Endowment figure varies across sources ($60M initial per some accounts vs $100M per Wikipedia); $100M used per Wikipedia with note. BSF funds academic research, not startups — included as a peripheral in-scope binational government fund. The ~$26M/year quote is from the BSF site as reported via search (direct fetch was blocked).",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "il-bard",
+    "name": { "en": "U.S.-Israel Binational Agricultural Research and Development Fund (BARD)", "local": "" },
+    "aka": ["BARD", "Binational Agricultural Research and Development Fund"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 1979,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Rishon LeZion",
+    "website": "https://www.bard-isus.org/",
+    "links": {
+      "other": ["https://jewishvirtuallibrary.org/us-israel-binational-agricultural-research-and-development-fund-bard"]
+    },
+    "capital": {
+      "aum": { "raw": "$110M endowment; ~$8M annual budget; ~$310M awarded across 1,300 projects since 1979", "usd": 110000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "0 (research grants, not investments)",
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel", "United States"],
+      "sector_focus": ["agritech", "biotech"],
+      "thesis": "Binational government fund supporting collaborative strategic and applied agricultural research between American and Israeli scientists; it funds academic/institutional research, not startups."
+    },
+    "application": {
+      "how_to_apply": "U.S.-Israel scientist teams apply for peer-reviewed agricultural research grants via bard-isus.org",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "binational", "usa-israel", "agritech", "research-grant"],
+    "summary": {
+      "en": "BARD, the U.S.-Israel Binational Agricultural Research and Development Fund, was created in 1979 to fund collaborative strategic and applied agricultural research by American and Israeli scientists, with a focus on productivity in hot, dry climates. It operates on a $110M endowment with about $8M in annual funding and has awarded roughly $310M across 1,300 projects. Like BSF, it funds research rather than startups and is a peripheral member of this segment.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://jewishvirtuallibrary.org/us-israel-binational-agricultural-research-and-development-fund-bard",
+        "title": "U.S.-Israel Binational Agricultural Research & Development Fund (BARD)",
+        "publisher": "Jewish Virtual Library",
+        "accessed": "2026-06-02",
+        "supports": "Created 1979, $110M endowment, ~$8M/year, 1,300 projects, $310M awarded",
+        "quote": "BARD ... was created in 1979 ... $8 million annually ... interest on a fixed $110 million endowment ... Since 1979, BARD has evaluated 5,000 proposals, funded 1,300 projects, and awarded $310 million."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "BARD funds academic/applied agricultural research at institutions, not startups — included as a peripheral in-scope binational government R&D fund. HQ in Rishon LeZion per BARD's public materials.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "il-citizens-fund",
+    "name": { "en": "Israeli Citizens' Fund (Sovereign Wealth Fund)", "local": "קרן אזרחי ישראל" },
+    "aka": ["Citizens' Fund", "CIF", "Israel Sovereign Wealth Fund"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Jerusalem",
+    "website": "https://www.cif.gov.il/en/",
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/Israeli_Citizens'_Fund", "https://globalswf.com/fund/CITIZ"]
+    },
+    "capital": {
+      "aum": { "raw": "~$2 billion in assets (end of 2024)", "usd": 2000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "follow",
+      "geo_focus": ["Global (overseas only)"],
+      "sector_focus": ["generalist"],
+      "thesis": "Israel's sovereign wealth fund, managed by the Bank of Israel, capitalized by windfall taxes on the Tamar and Leviathan gas fields; by law it invests only overseas in foreign currency and does NOT invest in Israeli startups."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "application": {
+      "how_to_apply": "Not applicable — sovereign fund, not a startup investor",
+      "accepts_cold_inbound": false
+    },
+    "tags": ["government", "sovereign-wealth-fund", "natural-resources", "not-startup-investor"],
+    "summary": {
+      "en": "The Israeli Citizens' Fund is Israel's sovereign wealth fund, established and operational from June 2022, managed by the Bank of Israel and funded by windfall (super-profit) taxes on the Tamar and Leviathan natural-gas fields. It reached about $2B in assets by end-2024. Critically for this segment, by law it invests only overseas in foreign currency to protect the shekel — it does not invest in Israeli startups — so it is an in-scope national/sovereign fund but not a startup-funding vehicle.",
+      "local": "קרן אזרחי ישראל היא קרן העושר הריבונית של ישראל, שהחלה לפעול ביוני 2022, מנוהלת על-ידי בנק ישראל וממומנת ממיסי רווחי-יתר על מאגרי הגז תמר ולוויתן. על-פי חוק היא משקיעה רק בחו\"ל ולא בסטארט-אפים ישראליים."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Israeli_Citizens'_Fund",
+        "title": "Israeli Citizens' Fund - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Sovereign wealth fund, gas windfall profits, managed by Bank of Israel, overseas-only investment",
+        "quote": "The Israeli Citizens' Fund is a sovereign wealth fund in Israel established to handle projected future windfall profits expected from the discovery of the Tamar and Leviathan gas fields. The fund is managed by the Bank of Israel. ... can only be invested overseas, in foreign currency, to protect the stability of the shekel."
+      },
+      {
+        "url": "https://jewishbusinessnews.com/2025/04/02/israels-sovereign-wealth-fund-reaches-2-billion-reports-11-5-return-in-2024/",
+        "title": "Israel's Sovereign Wealth Fund Reaches $2 Billion, Reports 11.5% Return in 2024",
+        "publisher": "Jewish Business News",
+        "accessed": "2026-06-02",
+        "supports": "~$2B assets end-2024, became operational June 2022",
+        "quote": "Israel's Sovereign Wealth Fund, known as the Citizens' Fund, recorded assets of approximately $2 billion by the end of 2024 ... The fund became operational in June 2022"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Included because the segment scope explicitly covers 'national/sovereign funds'. However, the fund invests only overseas and does NOT fund Israeli startups, so it is in-scope by type but not a startup-funding entity — flagged here to avoid misclassification.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  }
+]

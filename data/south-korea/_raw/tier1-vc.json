@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "kr-imm-investment",
+    "name": { "en": "IMM Investment", "local": "아이엠엠인베스트먼트" },
+    "aka": ["IMM Investment Corp.", "IMM인베"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 1999,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://imminvestment.com",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/imm-investment",
+      "other": ["https://thevc.kr/imminvestment", "https://ko.wikipedia.org/wiki/IMM_PE"]
+    },
+    "capital": {
+      "aum": { "raw": "9조4887억원 (VC+PE, end-2025)", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Venture capital funds (26 funds)", "vintage_year": null, "size": { "raw": "1.75조원 VC AUM (Jun 2025)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Asia"],
+      "sector_focus": ["generalist", "deeptech", "biotech", "climate-energy", "consumer"],
+      "thesis": "Korea's largest alternative investment manager, investing across growth equity, venture capital, infrastructure, real estate and fund-of-funds; the #1 VC house in Korea by AUM."
+    },
+    "track_record": {
+      "portfolio_count": 170,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [],
+    "summary": {
+      "en": "IMM Investment, founded in 1999, is Korea's largest alternative-investment and venture-capital house by assets under management. Its combined VC and PE AUM reached roughly 9.5 trillion won by end-2025, ranking it #1 in thebell's VC league table.",
+      "local": "1999년 설립된 아이엠엠인베스트먼트는 운용자산 기준 국내 1위 벤처캐피탈·대체투자 운용사로, 2025년 말 VC·PE 합산 AUM이 약 9.5조원에 달한다."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/imminvestment",
+        "title": "아이엠엠인베스트먼트 - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-02",
+        "supports": "founding year, HQ, portfolio count, fund count",
+        "quote": "주식회사 아이엠엠인베스트먼트(IMM Investment)는 1999년 7월에 설립된 ... 총 투자 대상 수: 170건 ... 펀드 (2개월 전): 82개"
+      },
+      {
+        "url": "https://m.thebell.co.kr/m/newsview.asp?svccode=00&newskey=202512310911215660105636",
+        "title": "[thebell League Table]VC AUM 증가폭 역대 최대…IMM 10조 클럽 눈앞",
+        "publisher": "thebell",
+        "accessed": "2026-06-02",
+        "supports": "AUM rank #1, end-2025 AUM figure",
+        "quote": "IMM Investment ... AUM: 9조4887억원 ... Expected to surpass 10 trillion KRW in 2026"
+      },
+      {
+        "url": "https://www.romanceip.xyz/private_vc/",
+        "title": "국내 운용자산 Top 20 VC의 주주와 역사",
+        "publisher": "RomanceIP",
+        "accessed": "2026-06-02",
+        "supports": "ownership/independent status, founded 1999",
+        "quote": "IMM인베스트먼트 | Independent | 1999 | 독립계 VC 롤모델 - 파트너 체제 (94.79%)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM figures combine VC and PE; thebell reports 9조4887억원 combined at end-2025 vs IMM's own ~9.7조원 stated for Jun 2025. VC-only AUM ~1.75조원. Portfolio count from THE VC reflects direct venture targets only.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "kr-korea-investment-partners",
+    "name": { "en": "Korea Investment Partners", "local": "한국투자파트너스" },
+    "aka": ["KIP", "한투파"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1986,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://kipvc.co.kr",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/korea-investment-partners",
+      "other": ["https://thevc.kr/koreainvestmentpartners", "https://ko.wikipedia.org/wiki/한국투자파트너스"]
+    },
+    "capital": {
+      "aum": { "raw": "4조4600억원 (end-2025)", "usd": 3000000000, "currency": "KRW" },
+      "funds": [
+        { "name": "Korea Investment Partners (77 funds)", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "United States", "China", "Southeast Asia"],
+      "sector_focus": ["generalist", "ai-ml", "biotech", "healthtech", "consumer", "saas-enterprise"],
+      "thesis": "A subsidiary of Korea Investment Holdings; Korea's most established and one of its most active multi-stage VCs, investing across tech, healthcare, bio, consumer and industrials with offices in the US, China and Singapore."
+    },
+    "track_record": {
+      "portfolio_count": "900+",
+      "notable_investments": [
+        { "company": "Kakao", "sector": "internet", "outcome": "IPO" },
+        { "company": "Naver", "sector": "internet", "outcome": "IPO" },
+        { "company": "YG Entertainment", "sector": "entertainment", "outcome": "IPO" },
+        { "company": "Bodyfriend", "sector": "consumer", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [],
+    "summary": {
+      "en": "Founded in 1986 as Korea's earliest venture capital firm, Korea Investment Partners (a unit of Korea Investment Holdings) is the country's #2 VC by AUM (~4.46 trillion won at end-2025). It has backed 900+ companies including Kakao, Naver and YG Entertainment, with offices across the US, China and Southeast Asia.",
+      "local": "1986년 설립된 한국투자파트너스는 한국투자금융지주 계열의 국내 대표 1세대 벤처캐피탈로, 2025년 말 기준 AUM 약 4.46조원의 업계 2위 VC다. 카카오·네이버·YG엔터테인먼트 등 900여 개사에 투자했다."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/koreainvestmentpartners",
+        "title": "한국투자파트너스 - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-02",
+        "supports": "founding year, HQ, fund count, portfolio count",
+        "quote": "1986년 11월에 설립된 한국계∙벤처캐피탈 ... 운용 펀드 총 77개 ... 총 투자 대상 수 329건"
+      },
+      {
+        "url": "https://m.thebell.co.kr/m/newsview.asp?svccode=00&newskey=202512310911215660105636",
+        "title": "[thebell League Table]VC AUM 증가폭 역대 최대",
+        "publisher": "thebell",
+        "accessed": "2026-06-02",
+        "supports": "AUM rank #2, end-2025 figure",
+        "quote": "Korea Investment Partners ... AUM: 4조4600억원 ... Maintained 2nd position since end of 2018"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/korea-investment-partners",
+        "title": "Korea Investment Partners - Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "founded 1986, 900+ companies, $3B AUM, notable portfolio, offices",
+        "quote": "founded in 1986 ... invested in more than 900 companies and has $3 billion in assets under management ... portfolio companies include Kakao, Naver and YG Entertainment"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM ~4.46조원 (thebell, ~$3B). 'Invested in 900+ companies' is cumulative; THE VC's 329 reflects active direct venture targets. Crunchbase says founded 1986 in Nov per Korean Wikipedia.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "kr-premier-partners",
+    "name": { "en": "Premier Partners", "local": "프리미어파트너스" },
+    "aka": ["프리미어 파트너스"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2005,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://premierpartners.co.kr",
+    "links": {
+      "other": ["https://thevc.kr/premierpartners", "https://pitchbook.com/profiles/investor/66352-60"]
+    },
+    "capital": {
+      "aum": { "raw": "3조5,291억원 (cumulative)", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Venture funds (12) + PE funds (7)", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist", "deeptech", "healthtech", "biotech", "mobility"],
+      "thesis": "Korea's first LLC-structured fund manager (2005); partners average ~19 years of investment experience and focus on growth-stage SMEs and mid-market companies, providing hands-on operating support post-investment."
+    },
+    "track_record": {
+      "portfolio_count": "120+",
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Kim Sung-eun", "role": "Representative / Managing Partner" },
+      { "name": "Song Hyuk-jin", "role": "Representative / Managing Partner" }
+    ],
+    "summary": {
+      "en": "Premier Partners, founded in 2005, was Korea's first LLC-structured venture/growth fund manager. It has formed 12 venture funds and 7 PE funds with cumulative AUM around 3.5 trillion won, ranking it among the top three Korean VCs by AUM at end-2025.",
+      "local": "2005년 설립된 프리미어파트너스는 국내 최초의 유한회사(LLC)형 벤처·성장투자 운용사로, 벤처펀드 12개·PE펀드 7개를 결성해 누적 운용자산 약 3.5조원을 기록하며 2025년 말 국내 VC AUM 3위권에 올랐다."
+    },
+    "sources": [
+      {
+        "url": "https://premierpartners.co.kr/kr/about-premier-partners/",
+        "title": "COMPANY – PREMIER PARTNERS",
+        "publisher": "Premier Partners (official)",
+        "accessed": "2026-06-02",
+        "supports": "founding year, HQ, cumulative AUM, fund counts, leadership",
+        "quote": "Korea's first LLC-structure fund manager ... 12 venture funds and 7 private equity funds ... Cumulative AUM: 3조 5,291억원"
+      },
+      {
+        "url": "https://m.thebell.co.kr/m/newsview.asp?svccode=00&newskey=202512310911215660105636",
+        "title": "[thebell League Table]VC AUM 증가폭 역대 최대",
+        "publisher": "thebell",
+        "accessed": "2026-06-02",
+        "supports": "AUM rank #3 at end-2025",
+        "quote": "Premier Partners ... AUM: 3조원대 ... Jumped from 4th place in 2024"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Cumulative AUM 3.5조원 per official site; thebell ranks it #3 at end-2025 with '3조원대'. Earlier (mid-2024) figure cited was 1.245조원 — the firm scaled rapidly after raising ~1조원 fund.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "kr-sbva",
+    "name": { "en": "SBVA", "local": "에스비브이에이" },
+    "aka": ["SoftBank Ventures Asia", "SoftBank Ventures Korea"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2000,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://sbvacorp.com",
+    "links": {
+      "crunchbase": "https://tracxn.com/d/venture-capital/sbva/__5xoL6LGz8SuAURl8v4zkzA32hMd0-gUdmF92BBa3B98",
+      "other": ["https://sbvacorp.com/en/"]
+    },
+    "capital": {
+      "aum": { "raw": "approx. $2 billion", "usd": 2000000000, "currency": "USD" },
+      "funds": [
+        { "name": "2023 Alpha Korea Fund", "vintage_year": 2023, "size": { "raw": "₩200 billion ($150M)", "usd": 150000000, "currency": "KRW" } },
+        { "name": "2024 Alpha Korea Fund (AI)", "vintage_year": 2024, "size": { "raw": "$150M / $130M AI fund", "usd": 150000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Asia", "United States"],
+      "sector_focus": ["ai-ml", "robotics", "healthtech", "fintech", "saas-enterprise", "consumer"],
+      "thesis": "Early-to-mid-stage investor in disruptive tech (AI, robotics, computing, enterprise SW, healthcare, content). Originally SoftBank's Korea/Asia venture arm, now independent after acquisition by The Edgeof."
+    },
+    "track_record": {
+      "portfolio_count": "300+",
+      "notable_investments": [
+        { "company": "Hyperconnect", "sector": "consumer", "outcome": "acquired" },
+        { "company": "Lunit", "sector": "healthtech", "outcome": "IPO" },
+        { "company": "Karrot (Danggeun)", "sector": "consumer", "outcome": "unicorn" },
+        { "company": "Kream", "sector": "ecommerce", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [],
+    "summary": {
+      "en": "SBVA — formerly SoftBank Ventures Asia (founded 2000) — rebranded in 2024 after The Edgeof acquired it from SoftBank Group. It manages roughly $2B and has backed 300+ startups, including Korean unicorns Hyperconnect, Lunit, Karrot and Kream. Named 'VC of the Year' at the 2024 Korea VC Awards.",
+      "local": "2000년 소프트뱅크벤처스아시아로 출범한 SBVA는 2023년 더엣지오브에 인수된 뒤 2024년 사명을 변경했다. 약 20억 달러를 운용하며 하이퍼커넥트·루닛·당근·크림 등 300개 이상 스타트업에 투자했다."
+    },
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/sbva-wins-vc-of-the-year-at-korea-vc-awards-2024-302323670.html",
+        "title": "SBVA Wins 'VC of the Year' at Korea VC Awards 2024",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-02",
+        "supports": "founded 2000, independence, AUM ~$2B, 300+ startups, portfolio",
+        "quote": "founded in 2000 ... approximately $2 billion in assets under management and has invested in more than 300 startups ... portfolio includes ... Karrot, Hyperconnect, Lunit, and Kream"
+      },
+      {
+        "url": "https://en.wowtale.net/2024/01/29/70780/",
+        "title": "SoftBank Ventures Asia, now SBVA, Establishes KRW 200B ($150M) Korea Venture Fund",
+        "publisher": "WOWTALE",
+        "accessed": "2026-06-02",
+        "supports": "rebrand 2024, 2023 Alpha Korea Fund size",
+        "quote": "closed the '2023 Alpha Korea Fund,' with a total committed amount of approximately ₩200 billion ($150M)"
+      },
+      {
+        "url": "https://m.thebell.co.kr/m/newsview.asp?svccode=00&newskey=202506300754335900108675",
+        "title": "[thebell League Table]VC AUM 61조 돌파",
+        "publisher": "thebell",
+        "accessed": "2026-06-02",
+        "supports": "AUM in KRW (2조7041억원, mid-2025)",
+        "quote": "SBVA: 2조7041억원을 기록했다"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Now independent (owned by The Edgeof). thebell mid-2025 KRW AUM 2조7041억원 (~$2B). Official site metrics showed placeholder zeros; AUM/portfolio figures taken from PR Newswire and thebell.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "kr-kb-investment",
+    "name": { "en": "KB Investment", "local": "케이비인베스트먼트" },
+    "aka": ["KBIC", "KB Investment Co., Ltd."],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 1990,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.kbic.co.kr",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/kbinvest",
+      "other": ["https://pitchbook.com/profiles/investor/50907-70"]
+    },
+    "capital": {
+      "aum": { "raw": "2조4218억원 (mid-2025); >$2.6B (Dec 2023)", "usd": 2600000000, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "United States", "Southeast Asia", "Israel"],
+      "sector_focus": ["ai-ml", "biotech", "healthtech", "fintech", "robotics", "cybersecurity", "mobility"],
+      "thesis": "A subsidiary of KB Financial Group, Korea's largest financial group; one of Korea's leading VC/PE managers with a deep-tech emphasis (AI, biotech, energy, robotics, cybersecurity, fintech, mobility)."
+    },
+    "track_record": {
+      "portfolio_count": "730+",
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [],
+    "summary": {
+      "en": "KB Investment, founded in 1990, is the venture-capital and PE arm of KB Financial Group. It held mid-2025 AUM around 2.4 trillion won (>$2.6B at end-2023) and has made 730+ investments, increasingly emphasizing deep tech, AI and biotech.",
+      "local": "1990년 설립된 케이비인베스트먼트는 KB금융지주 계열의 벤처·PE 운용사로, 2025년 상반기 종합 AUM 약 2.4조원을 기록했으며 730여 건의 투자를 집행했다."
+    },
+    "sources": [
+      {
+        "url": "https://www.cbinsights.com/investor/kb-investment-aum-fund-size",
+        "title": "KB Investment Portfolio Investments, Funds, Exits",
+        "publisher": "CB Insights",
+        "accessed": "2026-06-02",
+        "supports": "founded 1990, AUM >$2.6B, 730+ investments, parent KB Financial Group",
+        "quote": "founded in 1990 ... over USD 2.6 Billion of asset under management as of December 2023 ... KB Investment has made 730 investments"
+      },
+      {
+        "url": "https://m.thebell.co.kr/m/newsview.asp?svccode=00&newskey=202506300754335900108675",
+        "title": "[thebell League Table]VC AUM 61조 돌파",
+        "publisher": "thebell",
+        "accessed": "2026-06-02",
+        "supports": "mid-2025 combined AUM",
+        "quote": "KB인베스트먼트: 종합 AUM은 2조4218억원"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM 2조4218억원 (thebell mid-2025) vs >$2.6B (CB Insights Dec 2023). Subtype cvc reflects parent KB Financial Group ownership though it operates as a market GP.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "kr-aju-ib-investment",
+    "name": { "en": "Aju IB Investment", "local": "아주IB투자" },
+    "aka": ["AJU IB Investment Co., Ltd.", "Korea Technology Finance"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 1974,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.ajuib.co.kr",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/aju-ib-investment",
+      "other": ["https://www.ajuib.co.kr/eng/main", "https://pitchbook.com/profiles/investor/51160-87"]
+    },
+    "capital": {
+      "aum": { "raw": "2조1312억원 (mid-2025)", "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "United States"],
+      "sector_focus": ["biotech", "healthtech", "deeptech", "climate-energy", "agritech", "generalist"],
+      "thesis": "One of Korea's oldest VC firms (est. 1974 as Korea Technology Finance Corp.); a unit of the Aju Group investing across venture and PE in healthcare, technology, renewable energy and food, with Boston and San Francisco offices."
+    },
+    "track_record": {
+      "portfolio_count": "278",
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [],
+    "summary": {
+      "en": "Aju IB Investment traces its roots to 1974 (Korea Technology Finance Corp.), making it among Korea's oldest VCs. Now part of the Aju Group, it held mid-2025 combined AUM around 2.1 trillion won and ranked top-5 by VC AUM in 2023, focusing on healthcare, tech, renewable energy and food, with US offices.",
+      "local": "아주IB투자는 1974년 한국기술진흥금융에 뿌리를 둔 국내 최고참 VC 중 하나로, 현재 아주그룹 계열이다. 2025년 상반기 종합 AUM 약 2.1조원을 기록했으며 바이오·헬스케어·기술·신재생에너지 분야에 투자한다."
+    },
+    "sources": [
+      {
+        "url": "https://www.crunchbase.com/organization/aju-ib-investment",
+        "title": "Aju IB Investment - Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "founded 1974, sectors, 278 investments, US offices, top-5 by AUM 2023",
+        "quote": "established in 1974 as Korea's first venture capital firm ... made 278 investments, and in 2023, it ranked in the top 5 in venture capital assets under management ... additional offices in Boston and San Francisco"
+      },
+      {
+        "url": "https://m.thebell.co.kr/m/newsview.asp?svccode=00&newskey=202506300754335900108675",
+        "title": "[thebell League Table]VC AUM 61조 돌파",
+        "publisher": "thebell",
+        "accessed": "2026-06-02",
+        "supports": "mid-2025 combined AUM",
+        "quote": "아주IB투자: 종합 AUM은 2조1312억원"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year cited as 1974 (Korea Technology Finance lineage); some sources date the modern Aju IB entity later. AUM 2조1312억원 (thebell mid-2025).",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "kr-atinum-investment",
+    "name": { "en": "Atinum Investment", "local": "에이티넘인베스트먼트" },
+    "aka": ["Atinum Partners"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1988,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.atinuminvest.co.kr",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/atinum-investment",
+      "other": ["https://thevc.kr/atinuminvestment", "https://kr.linkedin.com/company/atinum-investment"]
+    },
+    "capital": {
+      "aum": { "raw": "$1.4B+", "usd": 1400000000, "currency": "USD" },
+      "funds": [
+        { "name": "Atinum Growth Investment Fund 2023 (에이티넘성장투자조합2023)", "vintage_year": 2023, "size": { "raw": "8,600억원", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["ai-ml", "biotech", "healthtech", "fintech", "consumer", "gaming"],
+      "thesis": "Independent growth-stage VC (est. 1988) known for the 'one-fund strategy', concentrating capital in a single large blind fund to minimize LP conflicts and enable strong follow-on support; invests in IT, biotech and healthcare paradigm shifters."
+    },
+    "track_record": {
+      "portfolio_count": "130+",
+      "notable_investments": [
+        { "company": "Dunamu (Upbit)", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Kakao Games", "sector": "gaming", "outcome": "IPO" },
+        { "company": "Pearl Abyss", "sector": "gaming", "outcome": "IPO" },
+        { "company": "Zigbang", "sector": "proptech", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [],
+    "team_size": 23,
+    "summary": {
+      "en": "Atinum Investment, founded in 1988, is a leading independent Korean growth-stage VC famous for its concentrated 'one-fund' strategy. It manages over $1.4B across 27 funds, has invested in 600+ companies since inception (130+ active), and in 2023 raised an 860 billion won flagship fund. Notable bets include Dunamu (Upbit), Kakao Games and Pearl Abyss.",
+      "local": "1988년 설립된 에이티넘인베스트먼트는 단일 대형 블라인드펀드를 운용하는 '원펀드 전략'으로 유명한 국내 대표 독립계 성장투자 VC다. 27개 펀드로 14억 달러 이상을 운용하며, 2023년 8,600억원 규모 플래그십 펀드를 결성했다. 두나무(업비트)·카카오게임즈·펄어비스 등에 투자했다."
+    },
+    "sources": [
+      {
+        "url": "https://www.atinuminvest.co.kr/en/home-en",
+        "title": "Atinum Investment - Home",
+        "publisher": "Atinum Investment (official)",
+        "accessed": "2026-06-02",
+        "supports": "AUM, fund count, companies invested, active portfolio, team size, notable portfolio",
+        "quote": "$1.4B+ ... 600+ Companies Invested Since Inception ... 130+ Active portfolio ... 27 funds formed ... 23 investment professionals"
+      },
+      {
+        "url": "https://ko.wikipedia.org/wiki/에이티넘인베스트먼트",
+        "title": "에이티넘인베스트먼트 - 위키백과",
+        "publisher": "Wikipedia (KR)",
+        "accessed": "2026-06-02",
+        "supports": "founded 1988, 2023 flagship fund size, one-fund strategy",
+        "quote": "2023년 ... '에이티넘성장투자조합2023' ... 8,600억원 ... 1988년 10월 설립 ... 국내 최초 '원펀드 전략'"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded Oct 1988. 2023 flagship reported at 8,600억원 (one source said 8,500억). 'One-fund strategy' is the firm's signature. AUM $1.4B+ per official site.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "kr-mirae-asset-venture-investment",
+    "name": { "en": "Mirae Asset Venture Investment", "local": "미래에셋벤처투자" },
+    "aka": ["Mirae Asset Venture"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1999,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seongnam",
+    "website": "https://www.miraeassetventure.com",
+    "links": {
+      "crunchbase": "https://pitchbook.com/profiles/investor/51733-90",
+      "other": ["https://tracxn.com/d/venture-capital/mirae-asset-venture/__5fAOL5OWlRa4sM5n72VGeIqBlaB5jiA3UQ1DNOLh7kY"]
+    },
+    "capital": {
+      "aum": { "raw": "1조3705억원 (mid-2025)", "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "United States", "Asia"],
+      "sector_focus": ["biotech", "healthtech", "ai-ml", "saas-enterprise", "climate-energy", "consumer"],
+      "thesis": "Listed VC affiliated with Mirae Asset Financial Group; multi-stage investor across life sciences, high tech, SaaS and clean tech with a global footprint and notable early exposure to companies such as Nvidia and Kurly."
+    },
+    "track_record": {
+      "portfolio_count": 129,
+      "notable_investments": [
+        { "company": "Kurly (Market Kurly)", "sector": "ecommerce", "outcome": "unicorn" },
+        { "company": "Nvidia", "sector": "hardware-semiconductor", "outcome": "IPO" },
+        { "company": "SiFive", "sector": "hardware-semiconductor", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [],
+    "summary": {
+      "en": "Mirae Asset Venture Investment, founded in 1999 and part of Mirae Asset Financial Group, is a publicly listed multi-stage VC with mid-2025 AUM around 1.37 trillion won. Its 129-company portfolio spans life sciences, high tech and SaaS, with exits including Kurly and historical exposure to Nvidia.",
+      "local": "1999년 설립된 미래에셋벤처투자는 미래에셋금융그룹 계열의 상장 VC로, 2025년 상반기 AUM 약 1.37조원을 기록했다. 바이오·하이테크·SaaS 등 129개사 포트폴리오를 보유하며 컬리 등에서 성과를 냈다."
+    },
+    "sources": [
+      {
+        "url": "https://tracxn.com/d/venture-capital/mirae-asset-venture/__5fAOL5OWlRa4sM5n72VGeIqBlaB5jiA3UQ1DNOLh7kY",
+        "title": "Mirae Asset Venture - Investor Profile",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "founded 1999, HQ Seongnam, 129 companies, notable portfolio",
+        "quote": "founded in 1999 ... based in Seongnam City ... invested in 129 companies, including Nvidia & Kurly ... 3 unicorns, 39 IPOs and 11 acquisitions"
+      },
+      {
+        "url": "https://thevc.kr/discussions/korea_investor_ranking_2025_h1",
+        "title": "2025 상반기 한국 스타트업 투자사 랭킹",
+        "publisher": "THE VC",
+        "accessed": "2026-06-02",
+        "supports": "mid-2025 AUM figure",
+        "quote": "미래에셋벤처투자의 AUM은 1조3705억원"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Listed on KOSDAQ. AUM 1조3705억원 (mid-2025). Nvidia exposure was early/historical via funds; treat as legacy notable.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "kr-shinhan-venture-investment",
+    "name": { "en": "Shinhan Venture Investment", "local": "신한벤처투자" },
+    "aka": ["Neoplux", "네오플럭스"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2000,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.shinhanvc.com",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/neoplux",
+      "other": ["https://www.shinhanvc.com/en/aboutus/history", "https://pitchbook.com/profiles/investor/59256-46"]
+    },
+    "capital": {
+      "aum": { "raw": "1조7574억원 (mid-2025)", "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Southeast Asia"],
+      "sector_focus": ["generalist", "ai-ml", "healthtech", "fintech", "consumer", "saas-enterprise"],
+      "thesis": "Formerly Neoplux (Doosan Group's VC arm), now a wholly owned subsidiary of Shinhan Financial Group; multi-stage VC and PE investor expanding into Southeast Asia."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [],
+    "summary": {
+      "en": "Shinhan Venture Investment was founded in 2000 as Neoplux (Doosan Group's CVC) and became a wholly owned subsidiary of Shinhan Financial Group in 2020. With mid-2025 AUM around 1.76 trillion won across ~24 funds, it is a multi-stage VC/PE investor expanding into Southeast Asia.",
+      "local": "신한벤처투자는 2000년 두산그룹 계열 네오플럭스로 출범해 2020년 신한금융지주의 완전자회사가 됐다. 2025년 상반기 AUM 약 1.76조원을 운용하며 동남아 등으로 투자를 확대하고 있다."
+    },
+    "sources": [
+      {
+        "url": "https://www.shinhanvc.com/en/aboutus/history",
+        "title": "History : Shinhan Venture Investment",
+        "publisher": "Shinhan Venture Investment (official)",
+        "accessed": "2026-06-02",
+        "supports": "founded 2000 as Neoplux, Shinhan acquisition 2020, fund count",
+        "quote": "established in 2000 as Neoplux and assumed its current name when it joined the Shinhan Financial Group in 2020 ... 24 funds"
+      },
+      {
+        "url": "https://thevc.kr/discussions/korea_investor_ranking_2025_h1",
+        "title": "2025 상반기 한국 스타트업 투자사 랭킹",
+        "publisher": "THE VC",
+        "accessed": "2026-06-02",
+        "supports": "mid-2025 AUM figure",
+        "quote": "신한벤처투자의 AUM은 1조7574억원"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Classified cvc given Shinhan Financial Group full ownership; operates as market GP. AUM 1조7574억원 (mid-2025).",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "kr-smilegate-investment",
+    "name": { "en": "Smilegate Investment", "local": "스마일게이트인베스트먼트" },
+    "aka": ["MVP Capital"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 1999,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.smilegateinvestment.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/smilegate-investment",
+      "other": ["https://www.smilegateinvestment.com/en/company.html", "https://pitchbook.com/profiles/investor/111498-04"]
+    },
+    "capital": {
+      "aum": { "raw": "approx. 1.5조원", "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["gaming", "ai-ml", "biotech", "healthtech", "consumer", "saas-enterprise"],
+      "thesis": "Originally MVP Capital (1999), now the corporate VC arm of game publisher Smilegate; invests across technology, healthcare, biotech, ICT, environment and entertainment/content."
+    },
+    "track_record": {
+      "portfolio_count": "409 investments",
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [],
+    "summary": {
+      "en": "Smilegate Investment, founded in 1999 as MVP Capital, is the corporate venture arm of game company Smilegate. It manages roughly 1.5 trillion won across technology, healthcare, biotech, ICT and content sectors and has made over 400 investments.",
+      "local": "1999년 MVP캐피탈로 설립된 스마일게이트인베스트먼트는 게임사 스마일게이트의 CVC로, 약 1.5조원을 운용하며 기술·헬스케어·바이오·ICT·콘텐츠 분야에 400건 이상 투자했다."
+    },
+    "sources": [
+      {
+        "url": "https://www.crunchbase.com/organization/smilegate-investment",
+        "title": "Smilegate Investment - Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "founded 1999 as MVP Capital, ~1.5조 AUM, 409 investments, sectors",
+        "quote": "Founded in 1999 ... Originally ... founded as MVP Capital ... manages approximately 1.5 trillion Korean Won ... made 409 investments"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM ~1.5조원 per Crunchbase; classified cvc given Smilegate ownership though it operates as an independent market GP.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "kr-lb-investment",
+    "name": { "en": "LB Investment", "local": "엘비인베스트먼트" },
+    "aka": ["LG Venture Capital", "LB인베스트먼트"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1996,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://lbinvestment.com",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/lb-investment",
+      "other": ["https://lbinvestment.com/eng/", "https://pitchbook.com/profiles/investor/60746-50"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "12 venture funds + 1 PE fund", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Asia"],
+      "sector_focus": ["ai-ml", "healthtech", "consumer", "saas-enterprise", "ecommerce", "deeptech"],
+      "thesis": "Originally LG Venture Capital (1996), spun out of the LG Group in 2000; a KOSDAQ-listed (2023) multi-stage VC investing in technologies that 'enhance human life'."
+    },
+    "track_record": {
+      "portfolio_count": "550+",
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [],
+    "summary": {
+      "en": "LB Investment, founded in 1996 as LG Venture Capital and independent from the LG Group since 2000, is a KOSDAQ-listed (2023) multi-stage VC. Over its ~30-year history it has invested in 550+ companies across healthtech, cloud, consumer and online platforms.",
+      "local": "1996년 LG벤처투자로 설립돼 2000년 LG그룹에서 독립한 엘비인베스트먼트는 2023년 코스닥에 상장한 멀티스테이지 VC다. 약 30년간 550여 개사에 투자했다."
+    },
+    "sources": [
+      {
+        "url": "https://ko.wikipedia.org/wiki/엘비인베스트먼트",
+        "title": "엘비인베스트먼트 - 위키백과",
+        "publisher": "Wikipedia (KR)",
+        "accessed": "2026-06-02",
+        "supports": "founded 1996 as LG Venture Capital, independence 2000, KOSDAQ listing 2023",
+        "quote": "1996년 7월 ... LG벤처투자 ... 2000년 LG그룹에서 독립 ... 2023년 3월 29일 코스닥 시장에 상장"
+      },
+      {
+        "url": "https://lbinvestment.com/eng/",
+        "title": "LB Investment (official)",
+        "publisher": "LB Investment",
+        "accessed": "2026-06-02",
+        "supports": "fund counts, 550+ companies, thesis",
+        "quote": "LB Investment invests in technologies that enhance human life ... over 550 companies ... 12 venture investment partnerships and 1 private equity partnership"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Member of the 1조 클럽 per thebell mid-2025 (named without an explicit figure). Founded 1996; IPO 2023. Specific AUM number left null as not separately cited.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "kr-dsc-investment",
+    "name": { "en": "DSC Investment", "local": "디에스씨인베스트먼트" },
+    "aka": ["DSC Investment Inc."],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://dscinvestment.com",
+    "links": {
+      "crunchbase": "https://ko.wikipedia.org/wiki/DSC_인베스트먼트",
+      "other": ["https://thevc.kr/dscinvestment", "https://stockanalysis.com/quote/kosdaq/241520/company/"]
+    },
+    "capital": {
+      "aum": { "raw": "1.52조원 (17 partnerships)", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "DSC Home Run Fund 1 (DSC홈런펀드1호)", "vintage_year": null, "size": { "raw": "248억원", "usd": null, "currency": "KRW" } },
+        { "name": "DSC Early-stage Scale-up Fund", "vintage_year": null, "size": { "raw": "170억원", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["ai-ml", "healthtech", "biotech", "fintech", "saas-enterprise", "deeptech"],
+      "thesis": "KOSDAQ-listed (2016) early-stage-aggressive VC; specializes in early-stage to pre-IPO, growth capital, mezzanine and secondary investments in health, life science, IT/AI, big data and fintech."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Yoon Gun-soo", "role": "CEO / Founder" }
+    ],
+    "summary": {
+      "en": "DSC Investment, founded in 2012 and KOSDAQ-listed since 2016, is a prominent early-stage-focused Korean VC. It manages roughly 1.52 trillion won across 17 venture partnerships, investing from early stage to pre-IPO in AI, health/life science, fintech and deeptech.",
+      "local": "2012년 설립돼 2016년 코스닥에 상장한 디에스씨인베스트먼트는 초기투자에 공격적인 국내 대표 VC로, 17개 벤처투자조합으로 약 1.52조원을 운용하며 AI·바이오·핀테크 등에 투자한다."
+    },
+    "sources": [
+      {
+        "url": "https://ko.wikipedia.org/wiki/DSC_인베스트먼트",
+        "title": "DSC 인베스트먼트 - 위키백과",
+        "publisher": "Wikipedia (KR)",
+        "accessed": "2026-06-02",
+        "supports": "founded 2012, KOSDAQ listing 2016, AUM 1.52조, fund examples, CEO",
+        "quote": "2012년 1월 18일 ... 2016년 12월 19일 코스닥 시장에 상장 ... 17개 벤처투자조합 ... 1.52조원 ... DSC홈런펀드1호 (248억원)"
+      },
+      {
+        "url": "https://m.thebell.co.kr/m/newsview.asp?svccode=00&newskey=202512310911215660105636",
+        "title": "[thebell League Table]VC AUM 증가폭 역대 최대",
+        "publisher": "thebell",
+        "accessed": "2026-06-02",
+        "supports": "new 2025 entrant to 1조 club",
+        "quote": "New 2025 entrants include DSC Investment, TS Investment, Company K Partners, and Now IB Capital"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "CEO Yoon Gun-soo holds ~20% per RomanceIP. AUM 1.52조원; recently crossed into the 1조 club (thebell, end-2025).",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "kr-stonebridge-ventures",
+    "name": { "en": "Stonebridge Ventures", "local": "스톤브릿지벤처스" },
+    "aka": ["Stone Bridge Ventures"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.stonebridge.co.kr",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/stonebridge-ventures",
+      "other": ["https://www.cbinsights.com/investor/stonebridge-ventures", "https://app.dealroom.co/investors/stonebridge_ventures"]
+    },
+    "capital": {
+      "aum": { "raw": "exceeding $700 million", "usd": 700000000, "currency": "USD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["consumer", "saas-enterprise", "biotech", "healthtech", "fintech", "ai-ml"],
+      "thesis": "Spun out of Stonebridge Capital (alt-investment house founded 2008), Stonebridge Ventures invests seed to late stage across consumer, enterprise, bio/healthcare and fintech."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Krafton", "sector": "gaming", "outcome": "IPO" },
+        { "company": "SoCar", "sector": "mobility", "outcome": "IPO" },
+        { "company": "Zigbang", "sector": "proptech", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [],
+    "summary": {
+      "en": "Stonebridge Ventures, the VC arm spun out of Stonebridge Capital (founded 2008), manages over $700M across multiple funds. It invests from seed to late stage in consumer, enterprise, bio/healthcare and fintech, with portfolio names including Krafton, SoCar and Zigbang.",
+      "local": "2008년 설립된 스톤브릿지캐피탈에서 분사한 스톤브릿지벤처스는 7억 달러 이상을 운용하며 시드~후기 단계에 걸쳐 소비자·엔터프라이즈·바이오·핀테크에 투자한다. 크래프톤·쏘카·직방 등에 투자했다."
+    },
+    "sources": [
+      {
+        "url": "https://www.crunchbase.com/organization/stonebridge-ventures",
+        "title": "Stonebridge Ventures - Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "spin-out, AUM >$700M, sectors, portfolio",
+        "quote": "AUM ... exceeding $700 million ... portfolio includes ... Krafton, SoCar, and Zigbang ... seed to late-stage technology companies across various sectors, including consumer, enterprise, bio/healthcare, and fintech"
+      },
+      {
+        "url": "https://m.thebell.co.kr/m/newsview.asp?svccode=00&newskey=202506300754335900108675",
+        "title": "[thebell League Table]VC AUM 61조 돌파",
+        "publisher": "thebell",
+        "accessed": "2026-06-02",
+        "supports": "membership in the 1조 club (named)",
+        "quote": "스톤브릿지벤처스 ... (1조 클럽 명단 포함)"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year of the Ventures unit cited as 2017 (Capital parent 2008). AUM >$700M (Crunchbase). Listed among 1조 club members by thebell without separate figure; could not fetch official site directly.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "kr-sv-investment",
+    "name": { "en": "SV Investment", "local": "에스브이인베스트먼트" },
+    "aka": ["SV Investment Corporation"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2006,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.svinvest.com",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/sv-investment",
+      "other": ["https://thevc.kr/svinvestment", "https://www.svinvest.com/en/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": "KRW 1B–5B per deal", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "China", "United States", "Southeast Asia"],
+      "sector_focus": ["healthtech", "biotech", "ai-ml", "consumer", "gaming", "deeptech"],
+      "thesis": "KOSDAQ-listed independent VC investing in high-growth TMT, consumer & entertainment, healthcare and advanced manufacturing; affiliate SV Partners provides IPO/M&A and operational consulting."
+    },
+    "track_record": {
+      "portfolio_count": "220+",
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [],
+    "summary": {
+      "en": "SV Investment, founded in 2006 and listed on KOSDAQ, is an independent Korean VC that has backed 220+ companies with 48 IPO exits. It invests roughly 1–5 billion won per deal in TMT, consumer & entertainment, healthcare and advanced manufacturing, with offices in Boston, Shanghai, Shenzhen and Jakarta.",
+      "local": "2006년 설립돼 코스닥에 상장한 에스브이인베스트먼트는 220여 개사에 투자하고 48건의 IPO 성과를 낸 독립계 VC다. 건당 약 10억~50억원을 TMT·소비재·헬스케어·첨단제조 분야에 투자한다."
+    },
+    "sources": [
+      {
+        "url": "https://www.cbinsights.com/investor/sv-investment",
+        "title": "SV Investment - Portfolio, Funds, Exits",
+        "publisher": "CB Insights",
+        "accessed": "2026-06-02",
+        "supports": "founded 2006, 220+ companies, 48 IPOs, check size, sectors, offices",
+        "quote": "established in April 2006 ... invested in more than 220 companies and made 48 successful IPOs ... typically invests between KRW 1 billion and KRW 5 billion per transaction"
+      },
+      {
+        "url": "https://m.thebell.co.kr/m/newsview.asp?svccode=00&newskey=202506300754335900108675",
+        "title": "[thebell League Table]VC AUM 61조 돌파",
+        "publisher": "thebell",
+        "accessed": "2026-06-02",
+        "supports": "membership in 1조 club (named)",
+        "quote": "SV인베스트먼트 ... (1조 클럽 명단 포함)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Listed among 1조 club by thebell; explicit AUM figure not separately cited so left null. Check-size from CB Insights.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "kr-intervest",
+    "name": { "en": "InterVest", "local": "인터베스트" },
+    "aka": ["InterVest Co., Ltd."],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1999,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://intervest.co.kr",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/intervest-1",
+      "other": ["https://intervest.co.kr/en/company", "https://pitchbook.com/profiles/investor/60912-82"]
+    },
+    "capital": {
+      "aum": { "raw": "US$1.2 billion (2021)", "usd": 1200000000, "currency": "USD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Southeast Asia"],
+      "sector_focus": ["biotech", "healthtech", "hardware-semiconductor", "fintech", "web3-crypto", "deeptech"],
+      "thesis": "One of Korea's largest independent VCs (est. 1999); a bio/healthcare and deep-tech leader that ran Korea's first VC fund with foreign LPs and first government-backed global bio fund."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [],
+    "summary": {
+      "en": "InterVest, founded in 1999, is one of Korea's largest independent VCs with around $1.2B AUM (2021). It is a pioneer in bio/healthcare and deep tech, having launched Korea's first VC fund with foreign LPs (2002) and its first government-backed global bio fund (2013).",
+      "local": "1999년 설립된 인터베스트는 운용자산 약 12억 달러(2021년)의 국내 최대 독립계 VC 중 하나로, 바이오·헬스케어·딥테크 분야의 선두주자다. 2002년 국내 최초 해외 LP 참여 펀드, 2013년 첫 정부지원 글로벌 바이오펀드를 결성했다."
+    },
+    "sources": [
+      {
+        "url": "https://intervest.co.kr/en/company",
+        "title": "About InterVest",
+        "publisher": "InterVest (official)",
+        "accessed": "2026-06-02",
+        "supports": "founded 1999, AUM $1.2B 2021, sectors, firsts",
+        "quote": "founding in 1999 ... Assets Under Management is US$ 1.2 billion ... Korea's first VC fund with Foreign LPs ... first government-support global Bio Fund ('13)"
+      },
+      {
+        "url": "https://m.thebell.co.kr/m/newsview.asp?svccode=00&newskey=202506300754335900108675",
+        "title": "[thebell League Table]VC AUM 61조 돌파",
+        "publisher": "thebell",
+        "accessed": "2026-06-02",
+        "supports": "membership in 1조 club (named)",
+        "quote": "인터베스트 ... (1조 클럽 명단 포함)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM $1.2B as of 2021 (official); likely higher now but not freshly cited. Heavily bio/healthcare-weighted but operates as a large generalist independent VC.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "kr-company-k-partners",
+    "name": { "en": "Company K Partners", "local": "컴퍼니케이파트너스" },
+    "aka": ["Company K"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2006,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://kpartners.co.kr",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/company-k",
+      "other": ["https://thevc.kr/companykpartners", "https://kpartners.co.kr/wordpress/"]
+    },
+    "capital": {
+      "aum": { "raw": "1조574억원 (mid-2025)", "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["ai-ml", "consumer", "gaming", "saas-enterprise", "deeptech", "generalist"],
+      "thesis": "KOSDAQ-listed (2019) multi-stage VC investing across ICT, content, components and technology; recently crossed 1 trillion won AUM to join the '1조 클럽'."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [],
+    "summary": {
+      "en": "Company K Partners, founded in 2006 and KOSDAQ-listed in 2019, is a multi-stage Korean VC. In mid-2025 it crossed 1.06 trillion won AUM to enter thebell's '1조 club', investing across ICT, content, components and technology.",
+      "local": "2006년 설립돼 2019년 코스닥에 상장한 컴퍼니케이파트너스는 멀티스테이지 VC로, 2025년 상반기 AUM 1조574억원을 넘기며 '1조 클럽'에 진입했다."
+    },
+    "sources": [
+      {
+        "url": "https://m.thebell.co.kr/m/newsview.asp?svccode=00&newskey=202506300754335900108675",
+        "title": "[thebell League Table]VC AUM 61조 돌파, 1조 클럽 20곳",
+        "publisher": "thebell",
+        "accessed": "2026-06-02",
+        "supports": "mid-2025 AUM, new 1조 club entrant",
+        "quote": "컴퍼니케이파트너스: 1조574억원을 기록하며"
+      },
+      {
+        "url": "https://www.investing.com/equities/company-k-partners-ltd",
+        "title": "Company K Partners Ltd Stock Profile",
+        "publisher": "Investing.com",
+        "accessed": "2026-06-02",
+        "supports": "founded 2006, KOSDAQ IPO 2019",
+        "quote": "founded on October 18, 2006 ... went public on May 23, 2019 on KOSDAQ"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM 1조574억원 (thebell mid-2025), newly in 1조 club. Founding/IPO from Investing.com.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "kr-woori-venture-partners",
+    "name": { "en": "Woori Venture Partners", "local": "우리벤처파트너스" },
+    "aka": ["Daol Investment", "KTB Network", "다올인베스트먼트"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 1981,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.woorivp.com",
+    "links": {
+      "crunchbase": "https://pitchbook.com/profiles/investor/11230-66",
+      "other": ["https://magnitt.com/investors/woori-venture-partners-daol-investment-ktb-network-55789"]
+    },
+    "capital": {
+      "aum": { "raw": "over US$3 billion managed (cumulative); 1.5조원 (Sep 2022)", "usd": 3000000000, "currency": "USD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "China", "Southeast Asia", "United States"],
+      "sector_focus": ["generalist", "ai-ml", "consumer", "biotech", "saas-enterprise", "deeptech"],
+      "thesis": "Founded in 1981 as KTB Network (Korea's first VC), later Daol Investment, and acquired by Woori Financial Group in 2023; a multi-stage VC/PE with offices in Shanghai, Singapore and Silicon Valley."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [],
+    "summary": {
+      "en": "Woori Venture Partners traces back to KTB Network, founded in 1981 as Korea's first venture capital firm. After operating as Daol Investment, it was acquired by Woori Financial Group in 2023 for ~210 billion won. It has managed over $3B in venture and growth funds with offices in Shanghai, Singapore and Silicon Valley.",
+      "local": "우리벤처파트너스는 1981년 국내 최초 벤처캐피탈로 설립된 KTB네트워크에 뿌리를 둔다. 다올인베스트먼트를 거쳐 2023년 우리금융지주에 약 2,100억원에 인수됐으며, 상하이·싱가포르·실리콘밸리에 사무소를 두고 30억 달러 이상을 운용해 왔다."
+    },
+    "sources": [
+      {
+        "url": "https://magnitt.com/investors/woori-venture-partners-daol-investment-ktb-network-55789",
+        "title": "Woori Venture Partners | MAGNiTT",
+        "publisher": "MAGNiTT",
+        "accessed": "2026-06-02",
+        "supports": "founded 1981 as first Korean VC, $3B managed, name history",
+        "quote": "Woori Venture Partners (former KTB) was founded in 1981 as the first Venture Capital firm in Korea ... managed over US$3 billion in venture and growth capital funds"
+      },
+      {
+        "url": "https://www.kedglobal.com/mergers-acquisitions/newsView/ked202301180001",
+        "title": "Woori Financial to acquire VC firm Daol Investment",
+        "publisher": "KED Global",
+        "accessed": "2026-06-02",
+        "supports": "Woori Financial Group acquisition 2023, ~210 billion won, AUM 1.5조 (Sep 2022)",
+        "quote": "Woori Financial Group acquired Daol Investment Co. ... for an estimated 210 billion won ($170 million) ... manages 1.5 trillion won in assets ... as of end-September, 2022"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Multiple names over time (KTB Network → Daol Investment → Woori Venture Partners). RomanceIP listed founding as 1974; MAGNiTT/most sources say 1981 — used 1981. Website slug contains Hangul; verify exact official domain.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "kr-kakao-ventures",
+    "name": { "en": "Kakao Ventures", "local": "카카오벤처스" },
+    "aka": ["K Cube Ventures"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seongnam",
+    "website": "https://www.kakao.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/kakao-ventures",
+      "linkedin": "https://www.linkedin.com/company/kakao-ventures",
+      "other": ["https://www.kakao.vc/en"]
+    },
+    "capital": {
+      "aum": { "raw": "Over $300M (11+ funds)", "usd": 300000000, "currency": "USD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["deeptech", "ai-ml", "healthtech", "gaming", "saas-enterprise"],
+      "thesis": "An independent subsidiary of Kakao Corp; Korea's most active early-stage VC, backing seed and Series A startups in deep tech, digital healthcare and gaming."
+    },
+    "track_record": {
+      "portfolio_count": "280+",
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Pitch via hello@kakao.vc or the contact form at kakao.vc/contact",
+      "accepts_cold_inbound": true,
+      "contact": "hello@kakao.vc"
+    },
+    "summary": {
+      "en": "Kakao Ventures (formerly K Cube Ventures, founded 2012; rebranded 2017) is an independent subsidiary of Kakao Corp and Korea's most active early-stage VC. It manages over $300M across 11+ funds and 280+ portfolio companies, focusing on seed/Series A deep tech, digital health and gaming.",
+      "local": "2012년 케이큐브벤처스로 설립돼 2017년 사명을 바꾼 카카오벤처스는 카카오의 독립 자회사로, 국내에서 가장 활발한 초기단계 VC다. 11개 이상 펀드로 3억 달러 이상을 운용하며 280여 개 스타트업의 시드·시리즈A에 투자한다."
+    },
+    "sources": [
+      {
+        "url": "https://www.kakao.vc/en",
+        "title": "Kakao Ventures (official)",
+        "publisher": "Kakao Ventures",
+        "accessed": "2026-06-02",
+        "supports": "AUM >$300M, 11+ funds, 280+ portfolio, HQ, sectors, contact",
+        "quote": "Over $300M ... 11+ funds ... 280+ portfolio companies ... deep tech, services, digital healthcare, and gaming"
+      },
+      {
+        "url": "https://superscout.co/investor/kakao-ventures",
+        "title": "Kakao Ventures: The Early Stage Founder's Guide",
+        "publisher": "Superscout",
+        "accessed": "2026-06-02",
+        "supports": "founded 2012 as K Cube, rebranded 2017, subsidiary of Kakao Corp",
+        "quote": "established in April 2012 and rebranded in March 2017 ... Originally founded as K Cube Ventures ... independent subsidiary of Kakao Corp"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Smaller AUM than the 1조-club firms but a household-name, most-active early-stage VC, so included as a brand-name generalist. Subtype cvc reflects Kakao parentage; operates as an independent fund manager.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  }
+]

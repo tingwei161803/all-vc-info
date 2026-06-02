@@ -1,0 +1,710 @@
+[
+  {
+    "id": "kr-sopoong-ventures",
+    "name": { "en": "Sopoong Ventures", "local": "소풍벤처스" },
+    "aka": ["Sopoong", "소풍", "SOPOONG"],
+    "type": "vc",
+    "subtypes": ["accelerator", "impact"],
+    "status": "active",
+    "founded_year": 2008,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://sopoong.net/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/sopoong",
+      "other": ["https://thevc.kr/sopoongventures", "https://ko.wikipedia.org/wiki/소풍벤처스"]
+    },
+    "capital": {
+      "aum": { "raw": "400억원+ (2023)", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "임팩트 피크닉 투자조합 (Impact Picnic Fund 1)", "vintage_year": 2022, "size": { "raw": "103억원", "usd": null, "currency": "KRW" } },
+        { "name": "임팩트 피크닉 투자조합 2호 (Impact Picnic Fund 2)", "vintage_year": null, "size": { "raw": "250억원 (target)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Southeast Asia", "United States"],
+      "sector_focus": ["impact", "climate-energy", "agritech", "saas-enterprise", "ai-ml"],
+      "thesis": "Korea's first and leading impact investor; invests in early-stage startups creating significant environmental, social and economic impact aligned with UN SDGs, with a declared focus on climate tech."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "format": "in-person",
+      "location": "HEYGROUND Seoul Forest, Seongdong-gu, Seoul",
+      "perks": ["Impact Climate Accelerating", "IMPACT EARTH (agrifood)", "TYPHOON"],
+      "eligibility": "Early-stage impact startups (climate, agrifood, ICT/SaaS)"
+    },
+    "track_record": {
+      "portfolio_count": "143 (cumulative, 2023)",
+      "notable_investments": [
+        { "company": "SOCAR", "sector": "mobility", "outcome": "IPO" },
+        { "company": "Tumblbug", "sector": "consumer", "outcome": "active" },
+        { "company": "SpaceCloud", "sector": "proptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Han Sang-yeop (한상엽)", "role": "CEO / Representative" }
+    ],
+    "team_size": 20,
+    "application": { "accepts_cold_inbound": true, "contact": "info@sopoong.net" },
+    "tags": ["impact", "climate-tech", "accelerator", "TIPS", "first-impact-investor"],
+    "summary": {
+      "en": "Sopoong Ventures, founded in 2008 (incorporated 2016), is widely cited as Korea's first impact investment firm. Led by Han Sang-yeop, it is an impact accelerator and VC (licensed AC 2020, TIPS 2021, VC 2024) focused on climate tech and SDG-aligned early-stage startups; AUM surpassed KRW 40 billion in 2023.",
+      "local": "소풍벤처스는 2008년 설립된 국내 1호 임팩트 투자사로, 한상엽 대표가 이끄는 임팩트 액셀러레이터 겸 벤처캐피탈이다. 기후테크와 UN SDGs 연계 초기 스타트업에 집중 투자하며 2023년 운용자산(AUM)이 400억원을 넘어섰다."
+    },
+    "sources": [
+      { "url": "https://ko.wikipedia.org/wiki/소풍벤처스", "title": "소풍벤처스 - 위키백과", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "founding year, founder/CEO, HQ, licenses, portfolio count", "quote": "Founded in 2008 as \"sopoong\"; incorporated as corporation on February 16, 2016 ... Founder and CEO: Han Sang-yeop (한상엽) ... Obtained VC license in 2024 ... 한국 1호 임팩트 투자사 ... cumulative portfolio of 143 companies as of 2023" },
+      { "url": "https://sopoong.net/?lang=en-US", "title": "Impact Investing — Sopoong", "publisher": "Sopoong Ventures", "accessed": "2026-06-02", "supports": "thesis, stages, sector focus, geography", "quote": "First and leading impact investor in Korea and now expanding to Southeast Asia and the US ... early stage startups creating significant environmental, social, and economic impact ... Pre-Seed to Series A companies aligned with UN Sustainable Development Goals" },
+      { "url": "https://platum.kr/archives/202418", "title": "소풍벤처스, 22년 39팀 신규 투자...기후 스타트업 대상 103억원 펀드 결성", "publisher": "Platum", "accessed": "2026-06-02", "supports": "Impact Picnic Fund 1 size, AUM, Fund 2 target", "quote": "103억 원 규모의 '임팩트 피크닉 투자조합' ... 2호 펀드는 ... 103억 대비 2배 이상인 250억원을 목표 ... 2023년 소풍벤처스의 총 운용자산(AUM)은 ... 400억을 돌파" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year cited as 2008 (operations) with corporate incorporation in 2016; some sources say founded by Lee Jae-woong (이재웅), led by Han Sang-yeop since 2016. Check size undisclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "kr-yellowdog",
+    "name": { "en": "Yellowdog", "local": "옐로우독" },
+    "aka": ["YellowDog", "옐로우독"],
+    "type": "vc",
+    "subtypes": ["impact"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.yellowdog.kr/en/",
+    "links": {
+      "other": ["https://thevc.kr/Yellowdog", "https://www.cbinsights.com/investor/yellowdog"]
+    },
+    "capital": {
+      "aum": { "raw": "1,200억원+ (2020)", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Initial capital (special purpose fund company)", "vintage_year": 2016, "size": { "raw": "20억원 (initial capital)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["South Korea", "Asia"],
+      "sector_focus": ["impact", "proptech", "climate-energy"],
+      "thesis": "First-generation Korean impact VC aiming for a 100% impact portfolio; invests in 'Sustainable Urban Solutions' linked to UN SDGs, with gender equality as a core impact domain, and pursues a lead-investment strategy."
+    },
+    "track_record": {
+      "portfolio_count": "27 (THE VC)",
+      "notable_investments": [
+        { "company": "Lendit", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Je Hyun-ju (제현주)", "role": "Co-CEO" },
+      { "name": "Cha Ji-eun (차지은)", "role": "Partner" },
+      { "name": "Bae Su-hyun (배수현)", "role": "Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true, "contact": "contact@yellowdog.kr" },
+    "tags": ["impact", "gender-equality", "sustainable-urban-solutions", "first-generation"],
+    "summary": {
+      "en": "Yellowdog is a first-generation Korean impact VC founded in May 2016 by Daum founder Lee Jae-woong with KRW 2 billion initial capital. It pursues a 100% impact portfolio focused on 'Sustainable Urban Solutions' and gender equality; AUM exceeded KRW 120 billion by 2020. Much of its capital was later transferred to spin-off Envisioning Partners (2021).",
+      "local": "옐로우독은 2016년 5월 다음 창업자 이재웅이 자본금 20억원으로 설립한 국내 1세대 임팩트 전문 벤처캐피탈이다. '지속가능한 도시 솔루션'과 성 평등을 핵심 임팩트 도메인으로 삼으며 100% 임팩트 포트폴리오를 지향한다. 2020년 운용자산(AUM)은 1,200억원을 넘어섰다."
+    },
+    "sources": [
+      { "url": "https://www.yellowdog.kr/en/", "title": "Yellowdog – 옐로우독", "publisher": "Yellowdog", "accessed": "2026-06-02", "supports": "mission, HQ, contact", "quote": "Yellowdog advances the era of impact investing as a new norm of investment ... 서울특별시 성동구 왕십리로2길 20, 3층" },
+      { "url": "http://www.thebell.co.kr/free/Content/ArticleView.asp?key=202011230954443360101443&svccode=03", "title": "[루키 VC 포커스] 옐로우독, 임팩트 투자 '미래세대'에 최우선 가치", "publisher": "The Bell", "accessed": "2026-06-02", "supports": "founding date, founder, initial capital, AUM, leadership", "quote": "Yellowdog was established in May 2016 ... Lee Jae-woong (이재웅) ... investing 2 billion won in full capital ... By 2020 ... assets under management (AUM) exceeded 120 billion won ... Je Hyun-ju (제현주), Cha Ji-eun (차지은), and Bae Su-hyun (배수현)" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM figure is from 2020; a large portion of managed assets was transferred to spin-off Envisioning Partners in 2021, so current independent AUM may be smaller. Check size undisclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "kr-envisioning-partners",
+    "name": { "en": "Envisioning Partners", "local": "인비저닝파트너스" },
+    "aka": ["Envisioning", "인비저닝 파트너스"],
+    "type": "vc",
+    "subtypes": ["impact"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://envisioning.partners/",
+    "links": {
+      "linkedin": "https://kr.linkedin.com/company/envisioning",
+      "other": ["https://thevc.kr/envisioningpartners"]
+    },
+    "capital": {
+      "aum": { "raw": "2,110억원 (2024)", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Climate Solution Fund (클라이밋 솔루션 펀드)", "vintage_year": 2021, "size": { "raw": "667억원", "usd": null, "currency": "KRW" } },
+        { "name": "Envisioning Impact Solutions Fund (임팩트 솔루션펀드)", "vintage_year": 2024, "size": { "raw": "440억원", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "United States", "Singapore", "Vietnam"],
+      "sector_focus": ["impact", "climate-energy"],
+      "thesis": "Impact VC spun out of Yellowdog's senior team in 2021; specializes in climate tech (≈60% of portfolio by amount) across Korea and the US, investing around the Series A stage."
+    },
+    "track_record": {
+      "portfolio_count": "46 startups (2024)",
+      "notable_investments": [
+        { "company": "AwesomeRay (어썸레이)", "sector": "deeptech", "outcome": "active" },
+        { "company": "LD Carbon (엘디카본)", "sector": "climate-energy", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Je Hyun-ju (제현주)", "role": "Co-CEO" },
+      { "name": "Kim Yong-hyun (김용현)", "role": "Co-CEO" }
+    ],
+    "tags": ["impact", "climate-tech", "yellowdog-spinout"],
+    "summary": {
+      "en": "Envisioning Partners is a Korean impact VC launched in 2021 by senior members of Yellowdog, who transferred their managed assets to the new firm. It specializes in climate tech across Korea, the US, Singapore and Vietnam. After a KRW 66.7 billion Climate Solution Fund (2021) and a KRW 44 billion Impact Solutions Fund (2024, with first overseas LPs), AUM reached KRW 211 billion.",
+      "local": "인비저닝파트너스는 국내 1세대 임팩트 투자기관 옐로우독의 주요 멤버들이 운용자산을 이관받아 2021년 출범한 임팩트 벤처캐피탈이다. 기후기술에 특화돼 있으며 2021년 667억원 규모 '클라이밋 솔루션 펀드', 2024년 440억원 규모 '임팩트 솔루션펀드'를 결성해 운용자산(AUM)이 2,110억원에 이른다."
+    },
+    "sources": [
+      { "url": "https://www.fnnews.com/news/202109271429296659", "title": "인비저닝 파트너스, 기후 기술 특화 펀드 667억 결성", "publisher": "Financial News", "accessed": "2026-06-02", "supports": "Climate Solution Fund size 2021, spinout from Yellowdog, stage", "quote": "기후기술(climate tech)에 특화된 '클라이밋 솔루션 펀드'를 결성 ... 총 667억 원 규모 ... 시리즈 A 전후 단계 ... 옐로우독의 주요 멤버들이 ... 2021년 출범" },
+      { "url": "https://wowtale.net/2024/01/30/70930/", "title": "인비저닝파트너스, 440억원 규모 임팩트 펀드 결성...운용자산 2,110억원", "publisher": "Wowtale", "accessed": "2026-06-02", "supports": "2024 fund size, AUM, portfolio count, climate share, co-CEOs", "quote": "44 billion won fund ... 211 billion won in assets under management (AUM) ... approximately 117 billion won across 46 startups ... climate tech representing 60% ... Co-CEOs Je Hyun-joo and Kim Yong-hyun" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Check size undisclosed. Portfolio spans Korea, US, Singapore, Vietnam (~30-46 companies depending on source/date).",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "kr-d3-jubilee-partners",
+    "name": { "en": "D3 Jubilee Partners", "local": "디쓰리쥬빌리파트너스" },
+    "aka": ["D3 Jubilee", "D3쥬빌리파트너스", "D3 Jubilee Management"],
+    "type": "vc",
+    "subtypes": ["impact", "accelerator"],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.d3jubilee.com/",
+    "offices": [
+      { "country": "South Korea", "city": "Seoul" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "links": {
+      "other": ["https://thevc.kr/d3jubileepartners", "https://www.facebook.com/d3jubilee/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "United States", "Africa"],
+      "sector_focus": ["impact", "climate-energy", "biotech", "healthtech", "edtech", "fintech"],
+      "thesis": "Impact VC founded by successful entrepreneurs in 2011 that invests at the intersection of technological innovation, entrepreneurship and impact — solving climate change and urgent social problems across Korea, Silicon Valley and frontier markets including Africa."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "perks": ["D3 Impact Engine accelerating program", "D3+ Impact Investor Club"],
+      "eligibility": "Early-stage impact startups in climate, bio/health, edtech, fintech, lifestyle"
+    },
+    "people": [
+      { "name": "Lim Sung-hoon (임성훈)", "role": "General Partner" }
+    ],
+    "tags": ["impact", "climate", "biotech", "global", "accelerator"],
+    "summary": {
+      "en": "D3 Jubilee Partners is a Korean impact VC founded in 2011 by successful entrepreneurs, with offices in Seoul and San Francisco. It invests globally (Korea, Silicon Valley, frontier markets including Africa) in climate/energy, bio/health, edtech and fintech startups, and runs the D3 Impact Engine accelerator and the D3+ Impact Investor Club.",
+      "local": "디쓰리쥬빌리파트너스(D3쥬빌리파트너스)는 성공한 창업가들이 2011년 설립한 임팩트 벤처캐피탈로, 서울과 샌프란시스코에 법인을 두고 있다. 에너지·기후테크, 헬스/바이오, 에듀테크, 핀테크 등 분야에서 한국·실리콘밸리·아프리카 등 프론티어 마켓까지 글로벌 임팩트 투자를 하며 'D3 임팩트엔진' 액셀러레이팅과 'D3+ 임팩트투자자클럽'을 운영한다."
+    },
+    "sources": [
+      { "url": "https://www.d3jubilee.com/", "title": "D3쥬빌리파트너스", "publisher": "D3 Jubilee Partners", "accessed": "2026-06-02", "supports": "founding year, founders, geography, sectors, thesis, programs", "quote": "Established in 2011 by successful entrepreneurs ... Korea, Silicon Valley, and frontier markets including Africa ... Energy and climate tech, health/biotech, edtech, fintech, and lifestyle sectors ... investment can simultaneously pursue both financial returns and impact value" },
+      { "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202111221312330240109068&lcode=00", "title": "[VC 스페셜리스트/임성훈 디쓰리쥬빌리파트너스 제너럴파트너] 바이오 임팩트 투자 '모범주자'", "publisher": "The Bell", "accessed": "2026-06-02", "supports": "GP / bio impact focus", "quote": "임성훈 디쓰리쥬빌리파트너스 제너럴파트너 ... 바이오 임팩트 투자 '모범주자'" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund sizes / AUM not disclosed in fetched sources. D3 also runs accelerator (D3 Impact Engine); program details (length, equity) not published.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "kr-crevisse-partners",
+    "name": { "en": "Crevisse Partners", "local": "크레비스파트너스" },
+    "aka": ["Crevisse", "Crevisse Ventures", "크레비스"],
+    "type": "vc",
+    "subtypes": ["impact", "accelerator", "venture-studio"],
+    "status": "active",
+    "founded_year": 2004,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.crevisse.com/",
+    "links": {
+      "other": ["https://ventures.crevisse.com/", "https://thevc.kr/CrevissePartners"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Impact venture fund", "vintage_year": null, "size": { "raw": "200억원", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["impact"],
+      "thesis": "Cited as Korea's first impact investment company (est. 2004); explores and invests in social ventures under the mission 'awaken your potential to impact the world', running fund-based impact investing and accelerating programs with public/financial partners."
+    },
+    "tags": ["impact", "first-impact-company", "accelerator", "social-venture"],
+    "summary": {
+      "en": "Crevisse Partners, established in 2004, is frequently cited as South Korea's first impact investment company. Based in Seongsu-dong, Seoul, it operates a roughly KRW 20 billion impact venture fund and runs accelerator programs with public and financial partners such as the Seoul city government, NH Bank and KOICA.",
+      "local": "크레비스파트너스는 2004년 설립돼 국내 최초의 임팩트 투자회사로 꼽힌다. 서울 성수동에 위치하며 약 200억원 규모의 임팩트 벤처펀드를 운용하고, 서울시·NH농협은행·KOICA 등 공공·금융기관과 함께 다양한 액셀러레이팅 프로그램을 진행한다."
+    },
+    "sources": [
+      { "url": "https://www.lifein.news/news/articleView.html?idxno=13234", "title": "크레비스파트너스, '세상을 향한 아름다운 혁신을 함께 만듭니다'", "publisher": "Lifein", "accessed": "2026-06-02", "supports": "founding year, first impact company, fund size, HQ, partners", "quote": "국내 최초의 임팩트 투자회사로 꼽히며, 2004년에 설립 ... 200억 원 규모의 임팩트 벤처펀드를 운용 ... 서울시, NH 농협은행, KOICA 등 ... 서울특별시 성동구 왕십리로 88, 4층(성수동1가)" },
+      { "url": "https://ventures.crevisse.com/", "title": "Crevisse Ventures", "publisher": "Crevisse", "accessed": "2026-06-02", "supports": "mission, official ventures site", "quote": "Crevisse is exploring and investing in social ventures based on their mission: \"awaken your potential to impact the world.\"" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2004-04-13; renamed 2007. Fund size cited as ~KRW 20 billion (200억) impact venture fund; AUM not separately disclosed. Crevisse also operates as a holding/venture-builder group.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "kr-mysc",
+    "name": { "en": "MYSC (Merry Year Social Company)", "local": "엠와이소셜컴퍼니" },
+    "aka": ["MYSC", "Merry Year Social Company", "엠와이소셜컴퍼니"],
+    "type": "accelerator",
+    "subtypes": ["vc", "impact"],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.mysc.co.kr/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/mysc",
+      "other": ["https://thevc.kr/mysocialcompany"]
+    },
+    "capital": {
+      "aum": { "raw": "1,000억원 (≈2025)", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "엑스트라마일 임팩트 5호 벤처투자조합 (ExtraMile Impact Fund 5)", "vintage_year": 2021, "size": { "raw": "60억원", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["impact", "climate-energy"],
+      "thesis": "Social-innovation consulting firm, accelerator and impact investor; primarily invests in early-stage social ventures, completing investment screening in about 4 weeks. AUM ~KRW 100 billion with ~KRW 20 billion deployed per year."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "eligibility": "Early-stage social ventures / impact startups"
+    },
+    "track_record": {
+      "portfolio_count": "236 companies (≈2025)"
+    },
+    "tags": ["impact", "social-venture", "accelerator", "consulting"],
+    "summary": {
+      "en": "MYSC (Merry Year Social Company), founded in November 2011, is a Seoul-based social-innovation consultancy, accelerator and impact investor. It began investing in earnest in 2019; by ~2025 cumulative investment reached ~KRW 67 billion across 236 companies, with AUM around KRW 100 billion and ~KRW 21.7 billion deployed in 2025.",
+      "local": "MYSC(엠와이소셜컴퍼니)는 2011년 11월 설립된 사회혁신 컨설팅·액셀러레이팅·임팩트투자 전문기업이다. 2019년부터 본격 투자에 나서 2025년 기준 누적 투자기업 236개사, 운용자산(AUM) 약 1,000억원 규모이며 2025년 한 해 약 217억원을 집행했다."
+    },
+    "sources": [
+      { "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202512291545204520102160", "title": "MYSC, 연 200억 투자 집행…임팩트 강자 굳힌다", "publisher": "The Bell", "accessed": "2026-06-02", "supports": "AUM, annual deployment, cumulative investment, portfolio count", "quote": "현재 MYSC의 운용자산(AUM)이 1000억원 수준 ... 2025년 ... 총 63건의 투자를 통해 217억원가량 ... 2019년부터 현재까지 누적 약 670억원 ... 투자한 기업은 총 236개" },
+      { "url": "https://www.venturesquare.net/844870", "title": "MYSC, 60억 규모 '엑스트라마일임팩트5호' 벤처투자조합 결성", "publisher": "Venture Square", "accessed": "2026-06-02", "supports": "founding year, ExtraMile Impact Fund 5 size", "quote": "2011년 설립되어 10주년을 맞은 MYSC가 총 60억 규모의 '엑스트라마일 임팩트 5호 벤처투자조합'을 결성" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2011-11-25; began active investing in 2019. Check size and equity terms not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "kr-impact-square",
+    "name": { "en": "Impact Square", "local": "임팩트스퀘어" },
+    "aka": ["ISQ", "임팩트스퀘어"],
+    "type": "accelerator",
+    "subtypes": ["impact", "vc"],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.impactsquare.com/",
+    "links": {
+      "other": ["https://thevc.kr/impactsquare", "https://isqaccel.com/about/company/"]
+    },
+    "capital": {
+      "aum": { "raw": "250억원", "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["impact", "climate-energy"],
+      "thesis": "Korea's first impact-business specialist consulting firm; accelerates and invests in seed-to-Series A social ventures whose impact maps to UN SDGs (notably SDG 8 and SDG 12)."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "location": "Seongsu-dong, Seoul",
+      "eligibility": "Seed to Series A social ventures"
+    },
+    "track_record": {
+      "portfolio_count": "62 social ventures via 6 funds (2024)"
+    },
+    "people": [
+      { "name": "Do Hyun-myung (도현명)", "role": "CEO / Representative" }
+    ],
+    "tags": ["impact", "social-venture", "accelerator", "consulting", "SDGs"],
+    "summary": {
+      "en": "Impact Square, established October 2010 by Do Hyun-myung, is described as Korea's first impact-business specialist consulting firm. Based in Seongsu-dong, Seoul, it accelerates and invests in seed-to-Series A social ventures; by 2024 it had invested ~KRW 16.06 billion in 62 social ventures across 6 funds, with AUM of KRW 25 billion.",
+      "local": "임팩트스퀘어는 2010년 10월 도현명 대표가 설립한 국내 첫 임팩트 비즈니스 전문 컨설팅 기업이다. 서울 성수동에 위치하며 시드~시리즈A 단계 소셜벤처를 액셀러레이팅·투자한다. 2020년부터 임팩트 펀드를 운용해 2024년까지 6개 펀드로 62개 소셜벤처에 총 160억 6천만원을 투자했고 운용자산(AUM)은 250억원이다."
+    },
+    "sources": [
+      { "url": "https://thevc.kr/impactsquare", "title": "임팩트스퀘어 - 기업정보", "publisher": "THE VC", "accessed": "2026-06-02", "supports": "founding date, CEO, AUM, fund count, portfolio count, investment total", "quote": "2010년 10월에 설립된 한국계 액셀러레이터 ... 대표자는 도현명 ... 총 운용자산(AUM) 규모는 250억 원 ... 2024년까지 6개의 펀드로 62개 소셜벤처에 총 160억 6천만 원을 투자" },
+      { "url": "https://www.impactsquare.com/about", "title": "About ISQ — Impact Square", "publisher": "Impact Square", "accessed": "2026-06-02", "supports": "first impact-business consulting firm, mission", "quote": "established Impact Square in 2010 as the country's first impact business specialist consulting firm" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2010-10. Primarily an accelerator/consultancy; began impact fund management in 2020. Check size and equity terms not published.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "kr-hg-initiative",
+    "name": { "en": "HG Initiative", "local": "에이치지이니셔티브" },
+    "aka": ["HGI", "에이치지이니셔티브", "HG Initiative"],
+    "type": "vc",
+    "subtypes": ["impact", "accelerator"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.hginitiative.com/en/about-en",
+    "links": {
+      "other": ["https://thevc.kr/hginitiative"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "HGI-Simone Social Impact Fund", "vintage_year": null, "size": { "raw": "10억원", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["impact"],
+      "thesis": "Impact-focused social venture investor; the only impact-focused operator among TIPS firms, playing a leading role in building Seoul's Seongsu-dong social venture valley, with focus areas including childcare, creative industries and youth."
+    },
+    "track_record": {
+      "portfolio_count": "23 companies (by Dec 2019)"
+    },
+    "people": [
+      { "name": "Jeong Kyung-sun (정경선)", "role": "Founder / Board Chair" }
+    ],
+    "tags": ["impact", "social-venture", "seongsu-valley", "TIPS"],
+    "summary": {
+      "en": "HG Initiative (HGI) is a Korean impact VC established in January 2014 by Jeong Kyung-sun, a third-generation member of the Hyundai family who also founded the nonprofit Root Impact (2012). HGI was the only impact-focused TIPS operator and helped build Seoul's Seongsu-dong social venture valley; by December 2019 it had invested in 23 companies.",
+      "local": "에이치지이니셔티브(HGI)는 정경선 대표가 2014년 1월 설립한 임팩트 벤처캐피탈이다. 정 대표는 현대가 3세이자 비영리법인 루트임팩트(2012) 설립자다. HGI는 TIPS 운용사 중 유일한 임팩트 전문사로, 서울 성수동 소셜벤처밸리 조성을 주도했으며 2019년 12월까지 23개 기업에 투자했다."
+    },
+    "sources": [
+      { "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=201910100100014890000937&lcode=00", "title": "에이치지이니셔티브, 임팩트 전문 투자 앞장", "publisher": "The Bell", "accessed": "2026-06-02", "supports": "founding date, founder, TIPS, Seongsu valley, portfolio count, Simone fund", "quote": "HG Initiative is a Korean venture capital company established in January 2014 ... founded by Jeong Kyung-sun (정경선) ... only impact-focused social venture among TIPS operating companies ... By December 2019, HGI had invested in a total of 23 companies ... 'HGI-Simone Social Impact Fund' ... worth 1 billion won" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded Jan 2014 by Jeong Kyung-sun (founder of Root Impact). A separate vehicle 'HGI Partners' was reportedly liquidated; the core HGI continues. AUM not consolidated in fetched sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "kr-coolidge-corner-investment",
+    "name": { "en": "Coolidge Corner Investment", "local": "쿨리지코너인베스트먼트" },
+    "aka": ["CCVC", "Coolidge Corner Venture Capital", "쿨리지코너", "쿨리지코너인베스트먼트"],
+    "type": "vc",
+    "subtypes": ["impact"],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://ccvc.co.kr/",
+    "links": {
+      "other": ["https://thevc.kr/coolidgecornerinvestment"]
+    },
+    "capital": {
+      "aum": { "raw": "≈2,000억원 (전체 운용, 2022)", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "CCVC 코리아임팩트펀드", "vintage_year": 2018, "size": { "raw": "187억원", "usd": null, "currency": "KRW" } },
+        { "name": "CCVC 코리아임팩트펀드 II", "vintage_year": 2020, "size": { "raw": "100억원", "usd": null, "currency": "KRW" } },
+        { "name": "CCVC 우리동네 도시재생펀드", "vintage_year": 2021, "size": { "raw": "250억원", "usd": null, "currency": "KRW" } },
+        { "name": "CCVC 우리동네 도시재생펀드 II", "vintage_year": 2022, "size": { "raw": "125억원", "usd": null, "currency": "KRW" } },
+        { "name": "CCVC ESG 임팩트펀드 IV", "vintage_year": 2023, "size": { "raw": "167억원", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["impact", "proptech", "generalist"],
+      "thesis": "Technology-focused VC that, since its 2015 social venture fund, has built a dedicated impact franchise (Korea Impact, urban regeneration, ESG funds); roughly half of its capital is deployed into impact funds alongside tech startups."
+    },
+    "track_record": {
+      "portfolio_count": "150+ startups, 50+ social ventures"
+    },
+    "people": [
+      { "name": "Kang Shin-hyuk (강신혁)", "role": "CEO / Representative" },
+      { "name": "Kwon Hyuk-tae (권혁태)", "role": "Chairman" }
+    ],
+    "tags": ["impact", "esg", "urban-regeneration", "social-venture"],
+    "summary": {
+      "en": "Coolidge Corner Investment (CCVC), founded March 2010, is a Korean tech VC that built a major impact franchise. Since a 2015 social venture fund it has raised the CCVC Korea Impact Funds (KRW 18.7bn 2018, KRW 10bn 2020), urban-regeneration funds (KRW 25bn 2021, KRW 12.5bn 2022) and an ESG Impact Fund IV (KRW 16.7bn 2023). It runs ~KRW 200 billion in total, about half in impact funds, having backed 150+ startups and 50+ social ventures.",
+      "local": "쿨리지코너인베스트먼트(CCVC)는 2010년 3월 설립된 기술 기반 벤처캐피탈로 임팩트 부문을 크게 키웠다. 2015년 소셜벤처투자조합을 시작으로 CCVC 코리아임팩트펀드(2018년 187억원, 2020년 II 100억원), 우리동네 도시재생펀드(2021년 250억원, 2022년 II 125억원), ESG 임팩트펀드 IV(2023년 167억원) 등을 결성했다. 약 2,000억원을 운용하며 재원의 절반가량이 임팩트 펀드로, 150여 개 스타트업과 50여 개 소셜벤처에 투자했다."
+    },
+    "sources": [
+      { "url": "https://www.unicornfactory.co.kr/article/2023082015351126660", "title": "쿨리지코너가 임팩트 투자에 나선 이유", "publisher": "Unicorn Factory / Money Today", "accessed": "2026-06-02", "supports": "impact fund list and sizes, total AUM, portfolio counts", "quote": "△2018년 CCVC 코리아임팩트펀드(187억원) △2020년 CCVC 코리아임팩트펀드Ⅱ(100억원) △2021년 CCVC 우리동네 도시재생펀드(250억원) △2022년 ... Ⅱ(125억원) △올해 CCVC ESG 임팩트펀드Ⅳ(167억원) ... 약 2000억원의 펀드를 운용 ... 150개 이상의 스타트업과 50여 개의 소셜벤처에 투자" },
+      { "url": "https://platum.kr/archives/150089", "title": "쿨리지코너, 소셜벤처에 투자하는 'CCVC 코리아 임팩트 펀드 II' 결성", "publisher": "Platum", "accessed": "2026-06-02", "supports": "founding year, impact fund II", "quote": "2010년 3월에 설립된 한국계 벤처캐피탈 ... CCVC 코리아임팩트펀드Ⅱ" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Generalist tech VC with a large dedicated impact program (~half of capital). Total AUM ~KRW 200bn is firm-wide, not impact-only. Check size undisclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "kr-korea-social-investment",
+    "name": { "en": "Korea Social Investment Foundation", "local": "재단법인 한국사회투자" },
+    "aka": ["Korea Social Investment", "한국사회투자", "KSI"],
+    "type": "government-program",
+    "subtypes": ["impact"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.social-investment.kr/",
+    "links": {
+      "linkedin": "https://kr.linkedin.com/company/한국사회투자",
+      "other": ["https://thevc.kr/koreasocialinvestmentfoundation"]
+    },
+    "capital": {
+      "aum": { "raw": "누적 임팩트 투자 722억원 (2025년 5월)", "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["impact"],
+      "thesis": "Nonprofit public-interest impact investment foundation that began with trusteeship of Seoul's social investment fund (2012); makes impact investments — including via corporate-donation 'donation funds' — that start from social and environmental value rather than pure return."
+    },
+    "track_record": {
+      "portfolio_count": "1,405 supported enterprises (cumulative, May 2025)"
+    },
+    "tags": ["impact", "social-finance", "nonprofit", "donation-fund", "public-interest"],
+    "summary": {
+      "en": "Korea Social Investment Foundation is a nonprofit public-interest impact investor established in December 2012, originating from the trust management of Seoul's social investment fund. It pioneered corporate-donation-based 'donation funds' and the self-raised 'Impact Future' fund. By May 2025 cumulative impact investment reached KRW 72.2 billion across 1,405 supported enterprises.",
+      "local": "재단법인 한국사회투자는 2012년 12월 서울시 사회투자기금 위탁운용을 시작으로 설립된 비영리 공익 임팩트 투자기관이다. 기업 기부금을 재원으로 한 '기부펀드'와 자체 모금펀드 '임팩트 퓨처'를 운용한다. 2025년 5월 기준 누적 임팩트 투자 722억원, 누적 지원기업 1,405개사다."
+    },
+    "sources": [
+      { "url": "https://www.venturesquare.net/1011013", "title": "사회문제 해결과 성장성 높은 기업에 투자하는 임팩트 파트너, 한국사회투자", "publisher": "Venture Square", "accessed": "2026-06-02", "supports": "founding year, nonprofit status, cumulative investment, supported enterprises", "quote": "established in December 2012 ... nonprofit public-interest impact investment institution ... As of May 2025, cumulative impact investment totaled 72.2 billion won, with cumulative supported enterprises reaching 1,405 companies" },
+      { "url": "https://www.socialimpactnews.net/news/articleView.html?idxno=2701", "title": "기부금을 재원으로 진정한 임팩트투자 이끈다..한국사회투자", "publisher": "Social Impact News", "accessed": "2026-06-02", "supports": "donation-fund model, Impact Future fund", "quote": "기부금을 재원으로 ... 임팩트투자 ... 자체 모금펀드인 '임팩트 퓨처'" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Nonprofit foundation rather than a for-profit VC; classified as government-program/public-interest impact investor. Founded Dec 2012 under MOHW jurisdiction.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "kr-impact-finance-korea",
+    "name": { "en": "Impact Finance Korea", "local": "한국임팩트금융" },
+    "aka": ["IFK", "Impact Capital Korea", "한국임팩트금융"],
+    "type": "vc",
+    "subtypes": ["impact"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://ifk.kr/",
+    "links": {
+      "other": ["https://thevc.kr/IMPACTFINANCEKOREA", "https://www.rocketpunch.com/companies/impactfinancekorea"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["impact"],
+      "thesis": "Purely private-capital impact finance company created to fund long-term impact projects beyond individual companies; its subsidiary Impact Capital Korea (ICK) acts as a private equity fund operator investing in impact companies and projects."
+    },
+    "people": [
+      { "name": "Lee Jong-soo (이종수)", "role": "Chairman / Representative" }
+    ],
+    "tags": ["impact", "impact-finance", "social-finance"],
+    "summary": {
+      "en": "Impact Finance Korea (IFK), established September 2017, is a purely private-capital impact finance company founded by Lee Jong-soo — a pioneer of Korean social finance who earlier founded the Community Credit Bank (2002) and Korea Social Investment (2012). IFK funds long-term impact projects, with subsidiary Impact Capital Korea (ICK) operating as a PE fund manager.",
+      "local": "한국임팩트금융(IFK)은 2017년 9월 설립된 순수 민간자본 임팩트 금융회사다. 국내 사회적금융의 선구자 이종수 이사장이 사회연대은행(2002), 한국사회투자(2012)에 이어 설립했다. 개별 기업을 넘어 장기 임팩트 프로젝트를 지원하며, 자회사 임팩트캐피탈코리아(ICK)가 사모펀드 운용사로 임팩트 기업·프로젝트에 투자한다."
+    },
+    "sources": [
+      { "url": "http://ifk.kr/archives/staff/cslee", "title": "이종수 Chong Soo Lee – Impact Finance Korea", "publisher": "Impact Finance Korea", "accessed": "2026-06-02", "supports": "founder background, founding chain", "quote": "이종수 ... 사회연대은행(2002) ... 한국사회투자(2012) ... Impact Finance Korea(2017)" },
+      { "url": "https://www.rocketpunch.com/companies/impactfinancekorea", "title": "한국임팩트금융 기업정보", "publisher": "Rocketpunch", "accessed": "2026-06-02", "supports": "founding date, structure, private capital", "quote": "the company was established on September 13, 2017 ... Impact Capital Korea (ICK) as a private equity fund operator subsidiary ... purely private capital financial company to invest in impact companies and impact projects" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded 2017-09-13. AUM/fund sizes not clearly disclosed; investment vehicle is subsidiary ICK. Closely related to Korea Social Investment (same founder).",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "kr-daekyo-investment",
+    "name": { "en": "Daekyo Investment", "local": "대교인베스트먼트" },
+    "aka": ["DKI", "Daekyo Investment", "대교인베스트먼트"],
+    "type": "vc",
+    "subtypes": ["women-focused"],
+    "status": "active",
+    "founded_year": null,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://www.daekyoinvest.com/",
+    "links": {
+      "other": ["https://thevc.kr/daekyoinvestment"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "DKI Growing Star 5호 투자조합 (women-enterprise fund)", "vintage_year": 2019, "size": { "raw": "220억원", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist"],
+      "thesis": "Daekyo-group VC; in 2019 formed the KRW 22 billion 'DKI Growing Star Fund 5' targeting women-owned/women-led SMEs and ventures, partnering with women-founder bodies such as KOVWA and IT Women's Entrepreneurs Association."
+    },
+    "track_record": {
+      "portfolio_count": "71 (THE VC)"
+    },
+    "tags": ["women-focused", "diversity", "women-venture-fund"],
+    "summary": {
+      "en": "Daekyo Investment (DKI) is the venture arm of Korea's Daekyo Group. In October 2019 it closed the KRW 22 billion 'DKI Growing Star Fund 5,' a women-enterprise fund anchored by the Korea Fund of Funds (KRW 12bn) with Woori Bank and Seoul Business Agency, partnering with women-founder networks (KOVWA, IT Women's Entrepreneurs Association, Girls in Tech).",
+      "local": "대교인베스트먼트(DKI)는 대교그룹 계열 벤처캐피탈이다. 2019년 10월 220억원 규모의 'DKI 그로잉스타 5호 투자조합'(여성기업 펀드)을 결성했으며, 모태펀드(120억원)가 앵커출자자로 참여하고 우리은행·서울산업진흥원 등이 출자했다. 한국여성벤처협회·IT여성기업인협회·걸스인텍 등 여성 창업 커뮤니티와 연계한다."
+    },
+    "sources": [
+      { "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=201910240100044190002749&lcode=00", "title": "대교인베, 220억 '여성 벤처기업 투자' 펀드 결성", "publisher": "The Bell", "accessed": "2026-06-02", "supports": "fund name, size, anchor LPs, women focus, partner orgs", "quote": "220억원 규모의 'DKI Growing Star 5호 투자조합' ... 여성 관련 중소·벤처기업에 투자 ... 모태펀드가 120억원을 납입 ... 한국여성벤처협회, IT여성기업인협회 ... 걸스인텍, 위넷 등 여성 창업자 커뮤니티" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Primarily a generalist VC; included for its dedicated government-backed women-enterprise fund. Founding year of the firm not confirmed in fetched sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "kr-posco-technology-investment-women-fund",
+    "name": { "en": "POSCO Technology Investment (Women Enterprise Fund)", "local": "포스코기술투자 (여성전문투자조합)" },
+    "aka": ["POSCO Technology Investment", "포스코기술투자", "포스코여성전문투자조합"],
+    "type": "cvc",
+    "subtypes": ["women-focused"],
+    "status": "active",
+    "founded_year": null,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Pohang",
+    "website": "https://www.poscoinvestment.com/",
+    "links": {
+      "other": ["https://thevc.kr/poscotechnologyinvestment"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "포스코여성전문투자조합 (POSCO Women Specialist Fund)", "vintage_year": 2014, "size": { "raw": "100억원", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist"],
+      "thesis": "POSCO-group corporate VC selected as a GP for the SMBA women-enterprise fund program (2014); operates a women-specialist fund that must invest at least 60% in companies where a woman is the largest shareholder or CEO."
+    },
+    "track_record": {
+      "portfolio_count": "188 (THE VC)"
+    },
+    "tags": ["women-focused", "diversity", "cvc", "women-venture-fund"],
+    "summary": {
+      "en": "POSCO Technology Investment, the corporate VC of Korea's POSCO group, was selected in 2014 as a GP under the SMBA's KRW 50 billion women-enterprise fund program. It formed the KRW 10 billion 'POSCO Women Specialist Fund' (July 2014), required to invest 60%+ in women-owned or women-led companies.",
+      "local": "포스코기술투자는 포스코그룹의 기업형 벤처캐피탈로, 2014년 중기청의 500억원 규모 여성기업 펀드 프로그램의 운용사(GP)로 선정됐다. 2014년 7월 100억원 규모의 '포스코여성전문투자조합'을 결성해 운용하며, 여성이 최대주주 또는 대표이사인 기업에 결성액의 60% 이상을 의무 투자한다."
+    },
+    "sources": [
+      { "url": "https://brunch.co.kr/@bzup/233", "title": "여성벤처 육성펀드… 아는 것이 '돈'이다", "publisher": "Brunch", "accessed": "2026-06-02", "supports": "GP selection, fund formation, 60% mandate", "quote": "수림창업투자, 캐피탈원, 포스코기술투자가 각각 100~145억 원 규모의 펀드를 운용 ... 포스코기술투자도 2014년 7월 '포스코여성전문투자조합'을 결성 ... 여성이 최대 주주이거나 대표이사인 기업에 펀드 결성액 60% 이상을 의무 투자" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Generalist CVC included for its dedicated government-mandated women-enterprise fund. Some sources cite fund size at KRW 10bn (100억); secondary reporting also references ~145억 for peer GPs. Firm founding year not confirmed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "kr-surim-venture-capital-women-fund",
+    "name": { "en": "Surim Venture Capital (Women Enterprise Fund)", "local": "수림창업투자 (여성창조기업 벤처투자조합)" },
+    "aka": ["Surim Venture Capital", "수림창업투자", "수림여성창조기업벤처투자조합"],
+    "type": "vc",
+    "subtypes": ["women-focused"],
+    "status": "active",
+    "founded_year": null,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://www.srvc.co.kr/",
+    "links": {
+      "other": ["https://www.thebell.co.kr/free/content/ArticleView.asp?key=202103261738481120103436&lcode=00"]
+    },
+    "capital": {
+      "aum": { "raw": "≈1,000억원 (firm-wide)", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "수림여성창조기업벤처투자조합 (Surim Women Creative-Enterprise Fund)", "vintage_year": 2015, "size": { "raw": "145억원", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist"],
+      "thesis": "VC selected as a GP under the SMBA women-enterprise fund program; in late 2015 formed the KRW 14.5 billion 'Surim Women Creative-Enterprise Venture Fund', required to invest 60%+ in women-owned or women-led companies."
+    },
+    "tags": ["women-focused", "diversity", "women-venture-fund"],
+    "summary": {
+      "en": "Surim Venture Capital was selected as a GP for the Korean SMBA women-enterprise fund program and, in late 2015, formed the KRW 14.5 billion 'Surim Women Creative-Enterprise Venture Fund.' Like its peers it must invest 60%+ in women-owned or women-led companies. The firm (later linked to DGB Financial) runs roughly KRW 100 billion overall.",
+      "local": "수림창업투자는 중기청의 여성 벤처펀드 운용사(GP)로 선정돼 2015년 말 145억원 규모의 '수림여성창조기업벤처투자조합'을 설립했다. 여성이 최대주주 또는 대표이사인 기업에 결성액의 60% 이상을 의무 투자한다. 운용자산은 약 1,000억원 규모이며 이후 DGB금융과 연계됐다."
+    },
+    "sources": [
+      { "url": "https://brunch.co.kr/@bzup/233", "title": "여성벤처 육성펀드… 아는 것이 '돈'이다", "publisher": "Brunch", "accessed": "2026-06-02", "supports": "GP selection, fund name and size, 60% mandate", "quote": "수림창업투자는 중기청의 여성 벤처펀드 운용사로 선정되어 2015년 말, 145억 원 규모의 '수림여성창조기업벤처투자조합'을 설립 ... 여성이 최대 주주이거나 대표이사인 기업에 펀드 결성액 60% 이상을 의무 투자" },
+      { "url": "https://dealsite.co.kr/articles/72370", "title": "'운용자산 1000억' 수림창투, DGB금융 품으로", "publisher": "Dealsite", "accessed": "2026-06-02", "supports": "firm-wide AUM, DGB linkage", "quote": "운용자산 1000억 수림창투, DGB금융 품으로" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Generalist VC included for its dedicated government-mandated women-enterprise fund. Firm founding year not confirmed in fetched sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  }
+]

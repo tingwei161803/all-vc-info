@@ -1,0 +1,1045 @@
+[
+  {
+    "id": "kr-primer",
+    "name": { "en": "Primer", "local": "프라이머" },
+    "aka": ["Primer Club", "프라이머 클럽"],
+    "type": "accelerator",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.primer.kr/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/primer", "https://apply.primer.kr/events/4"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "₩100M (₩1B post-money valuation)", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "10",
+      "lead_or_follow": "lead",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist"],
+      "thesis": "Korea's first startup accelerator; backs very early-stage founders with a standardized seed cheque, 6 months of management education, follow-on support and a large demo day."
+    },
+    "program": {
+      "length_weeks": 26,
+      "cohort_size": "15",
+      "batches_per_year": 2,
+      "equity_taken_pct": "10",
+      "investment": { "raw": "₩100,000,000", "usd": null, "currency": "KRW" },
+      "format": "in-person",
+      "location": "Seoul",
+      "demo_day": true,
+      "perks": ["6개월 경영교육", "후속투자 지원", "멘토 네트워크"],
+      "application_url": "https://apply.primer.kr/events/4",
+      "application_cycles": ["June batch (summer)", "December batch (winter)"],
+      "acceptance_rate": null,
+      "eligibility": "Pre-seed / very early-stage founders; batches selected twice a year."
+    },
+    "track_record": {
+      "portfolio_count": "200+",
+      "notable_investments": [
+        { "company": "Soomgo (숨고)", "sector": "consumer", "outcome": "active" },
+        { "company": "MyRealTrip (마이리얼트립)", "sector": "consumer", "outcome": "active" },
+        { "company": "idus (아이디어스)", "sector": "ecommerce", "outcome": "acquired" },
+        { "company": "Hogangnono (호갱노노)", "sector": "proptech", "outcome": "acquired" },
+        { "company": "Laftel (라프텔)", "sector": "gaming", "outcome": "acquired" }
+      ]
+    },
+    "people": [
+      { "name": "Kwon Do-kyun (권도균)", "role": "Co-founder / Partner" },
+      { "name": "Lee Taek-kyung (이택경)", "role": "Co-founder" },
+      { "name": "Jang Byung-gyu (장병규)", "role": "Co-founder" }
+    ],
+    "application": {
+      "how_to_apply": "Apply online for the seasonal batch via apply.primer.kr",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.primer.kr/"
+    },
+    "tags": ["accelerator", "seed", "generalist", "korea-first-accelerator"],
+    "summary": {
+      "en": "Founded in January 2010, Primer is widely regarded as Korea's first startup accelerator. It runs two batches a year (June and December), typically investing ₩100M for 10% equity (₩1B post-money) over a 6-month program that ends in one of Korea's largest demo days. It has backed 200+ startups including Soomgo, MyRealTrip and idus.",
+      "local": "2010년 1월 설립된 한국 최초의 스타트업 액셀러레이터. 매년 6월·12월 두 차례 배치를 선발하며 보통 1억 원을 투자하고 10% 지분을 받는다(포스트머니 10억 원). 6개월 액셀러레이팅 프로그램 후 국내 최대 규모 데모데이를 연다. 숨고, 마이리얼트립, 아이디어스 등 200개 이상 스타트업에 투자."
+    },
+    "sources": [
+      {
+        "url": "https://primer.kr/d367nxm3q48ynmj98pv1?lang=ko",
+        "title": "About - Primer",
+        "publisher": "Primer",
+        "accessed": "2026-06-02",
+        "supports": "founding year, investment amount, equity, batches per year, program length",
+        "quote": "2010년 1월에 시작한 한국 최초의 스타트업 액셀러레이터입니다 … 1억 원을 투자하고 10%의 지분을 받습니다 … 매년 6월과 12월(여름, 겨울) 두 차례의 배치"
+      },
+      {
+        "url": "https://zuzu.network/resource/blog/korea-accelerator/",
+        "title": "초기 스타트업의 성장 조력자, 국내 액셀러레이터 현황 및 특징",
+        "publisher": "ZUZU",
+        "accessed": "2026-06-02",
+        "supports": "portfolio count, notable investments",
+        "quote": "2010년 1월에 설립된 국내 최초의 스타트업 액셀러레이터로, 현재까지 200개 이상 스타트업에 투자했으며, 주요 포트폴리오사는 숨고, 호갱노노, 마이리얼트립, 아이디어스, 라프텔 등입니다."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Investment structure has two variants on official site (full ₩100M, or ₩50M + ₩50M follow-on within 6 months). Cohort size ~15 inferred from demo day reporting (Primer 26th demo day: 15 startups); program length stated as 6 months = 26 weeks.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "kr-sparklabs",
+    "name": { "en": "SparkLabs Korea", "local": "스파크랩" },
+    "aka": ["SparkLabs", "스파크랩스"],
+    "type": "accelerator",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.sparklabs.co.kr/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/sparklabs",
+      "other": ["https://www.sparklabs.co.kr/sp/program.php", "https://techcrunch.com/2022/11/02/meet-seoul-based-accelerator-sparklabs-19th-batch-of-startups/"]
+    },
+    "capital": {
+      "current_fund": { "raw": null, "usd": null, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "up to $100,000", "usd_min": null, "usd_max": 100000 },
+      "ownership_target_pct": "6",
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Global"],
+      "sector_focus": ["generalist"],
+      "thesis": "Sector-agnostic Seoul accelerator with a global VC network; takes seed-to-early-stage startups (founders worldwide welcome) through a structured mentorship program culminating in a globally attended demo day."
+    },
+    "program": {
+      "length_weeks": 22,
+      "cohort_size": "8-12",
+      "batches_per_year": 2,
+      "equity_taken_pct": "6",
+      "investment": { "raw": "up to $100,000", "usd": 100000, "currency": "USD" },
+      "format": "in-person",
+      "location": "Seoul",
+      "demo_day": true,
+      "perks": ["mentor network", "global VC introductions"],
+      "application_url": "https://www.sparklabs.co.kr/sp/program.php",
+      "application_cycles": ["Applications open mid-September (demo day late April)", "Applications open mid-March (demo day late October)"],
+      "acceptance_rate": null,
+      "eligibility": "Sector-agnostic; founders worldwide; at least one team member should be proficient in English by program launch."
+    },
+    "track_record": {
+      "portfolio_count": "140+",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Bernard Moon", "role": "Co-founder / Partner" },
+      { "name": "Jimmy Kim", "role": "Co-founder / Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Apply online during one of the two annual application windows",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.sparklabs.co.kr/"
+    },
+    "tags": ["accelerator", "seed", "generalist", "global"],
+    "summary": {
+      "en": "SparkLabs Korea (founded 2012) is a sector-agnostic Seoul accelerator that invests up to $100,000 for up to 6% equity. Its ~22-week program runs twice a year with cohorts of roughly 8-12 companies and ends in a demo day attended by global VCs.",
+      "local": "스파크랩(2012년 설립)은 분야를 가리지 않는 서울 기반 액셀러레이터로, 최대 10만 달러를 투자하고 최대 6% 지분을 받는다. 약 22주 프로그램을 연 2회 운영하며 글로벌 VC가 참석하는 데모데이로 마무리된다."
+    },
+    "sources": [
+      {
+        "url": "https://www.sparklabs.co.kr/sp/program.php",
+        "title": "SparkLabs program",
+        "publisher": "SparkLabs",
+        "accessed": "2026-06-02",
+        "supports": "investment amount, equity, program length, cohort size, application cycles, demo day",
+        "quote": "SparkLabs invests up to $100,000 in all startups in exchange for up to 6% equity of each startups … 22 weeks accelerator program for seed to early-stage startups … Anywhere between 8 to 12 companies"
+      },
+      {
+        "url": "https://techcrunch.com/2022/11/02/meet-seoul-based-accelerator-sparklabs-19th-batch-of-startups/",
+        "title": "Meet Seoul-based accelerator SparkLabs' 19th batch of startups",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "cohort and investment model context",
+        "quote": "admits 10 to 15 companies per cohort and invests up to $100,000 into each startup in exchange for 6% equity"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Cohort size and equity differ slightly between official site (8-12 companies, 'up to 6%') and TechCrunch (10-15 companies, 6%); secondary lists cite older $40k figure. Used official program page as primary.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "kr-bluepoint-partners",
+    "name": { "en": "Bluepoint Partners", "local": "블루포인트파트너스" },
+    "aka": ["Bluepoint", "블루포인트"],
+    "type": "accelerator",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Daejeon",
+    "offices": [
+      { "country": "South Korea", "city": "Daejeon" },
+      { "country": "South Korea", "city": "Seoul" }
+    ],
+    "website": "https://bluepoint.ac/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/bluepoint-partners-2",
+      "other": ["https://pitchbook.com/profiles/investor/180374-32", "https://en.wowtale.net/2024/01/25/70612/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["deeptech", "biotech", "ai-ml", "climate-energy", "healthtech"],
+      "thesis": "Korea's leading deep-tech accelerator: invests in science- and technology-based startups (biotech, AI, cleantech, healthcare, industrial tech) and runs one of the country's largest demo days."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "format": "in-person",
+      "location": "Daejeon / Seoul",
+      "demo_day": true,
+      "application_url": "https://bluepoint.ac/",
+      "eligibility": "Deep-tech / science-based early-stage startups."
+    },
+    "track_record": {
+      "portfolio_count": "400+",
+      "notable_investments": [
+        { "company": "Tomocube (토모큐브)", "sector": "deeptech", "outcome": "IPO (KOSDAQ)" },
+        { "company": "Inventage Lab", "sector": "biotech", "outcome": "IPO (KOSDAQ)" },
+        { "company": "S2W", "sector": "cybersecurity", "outcome": "IPO (KOSDAQ)" },
+        { "company": "Nota", "sector": "ai-ml", "outcome": "IPO (KOSDAQ)" }
+      ]
+    },
+    "people": [
+      { "name": "Lee Yong-kwan (이용관)", "role": "CEO / Co-founder" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via Bluepoint's website / accelerator program intake",
+      "accepts_cold_inbound": true,
+      "contact": "https://bluepoint.ac/"
+    },
+    "tags": ["accelerator", "deeptech", "largest-demo-day"],
+    "summary": {
+      "en": "Bluepoint Partners (founded 2014, Daejeon/Seoul) is Korea's leading deep-tech accelerator. It has invested in 400+ companies with KOSDAQ-listed successes (Tomocube, Inventage Lab, S2W, Nota), runs one of Korea's largest demo days, and in December 2025 raised ₩10B from Z Venture Capital and InBody. Selected as founders' most-preferred accelerator in 2023 and 2024.",
+      "local": "블루포인트파트너스(2014년 설립, 대전·서울)는 국내 대표 딥테크 액셀러레이터다. 400개 이상 기업에 투자했고 토모큐브·인벤티지랩·S2W·노타 등 코스닥 상장 성과를 냈으며, 국내 최대 규모 데모데이를 연다. 2025년 12월 Z벤처캐피탈과 인바디로부터 100억 원을 유치했다."
+    },
+    "sources": [
+      {
+        "url": "https://pitchbook.com/profiles/investor/180374-32",
+        "title": "Bluepoint Partners investment portfolio",
+        "publisher": "PitchBook",
+        "accessed": "2026-06-02",
+        "supports": "founding year, HQ, deep-tech focus, 400+ portfolio, KOSDAQ exits",
+        "quote": "founded in 2014 as a venture capital investment firm based in Daejeon and Seoul … invested in over 400 companies … KOSDAQ listings of Tomocube, Inventage Lab, S2W, and Nota"
+      },
+      {
+        "url": "https://en.wowtale.net/2025/12/22/233116/",
+        "title": "Bluepoint Partners Raises $6.8M to Expand Global Network and Strengthen Deep Tech Portfolio Discovery",
+        "publisher": "WOWTALE",
+        "accessed": "2026-06-02",
+        "supports": "2025 ₩10B raise from ZVC and InBody, most-preferred accelerator 2023-2024",
+        "quote": "raised 10 billion won (approximately $6.8 million USD) … jointly led by Z Venture Capital (ZVC) and global healthcare company InBody … selected as entrepreneurs' most preferred accelerator by Startup Alliance for two consecutive years in 2023 and 2024"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Program length, cohort size, equity and standard cheque size not publicly standardized (Bluepoint negotiates per deal); left null. Portfolio figure 400+ per PitchBook; one 2023 report cited 56 new investments that year.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "kr-futureplay",
+    "name": { "en": "FuturePlay", "local": "퓨처플레이" },
+    "aka": ["퓨처플레이"],
+    "type": "accelerator",
+    "subtypes": ["vc", "venture-studio"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://futureplay.co/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/futureplay",
+      "other": ["https://thevc.kr/futureplay", "https://thevc.kr/futureplay/portfolios"]
+    },
+    "capital": {
+      "aum": { "raw": "approx. ₩270B", "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["deeptech", "ai-ml", "hardware-semiconductor", "robotics"],
+      "thesis": "Deep-tech accelerator and company builder founded by KAIST PhD entrepreneurs; commercializes frontier technology and supports startups from formation through follow-on rounds."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "format": "in-person",
+      "location": "Seoul",
+      "demo_day": true,
+      "perks": ["TechUP / TechUP+ program", "deep-tech commercialization support"],
+      "application_url": "https://futureplay.co/",
+      "eligibility": "Deep-tech / technology-based early-stage startups."
+    },
+    "track_record": {
+      "portfolio_count": "257",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Kwon Oh-hyung (권오형)", "role": "CEO" },
+      { "name": "Ryu Joong-hee (류중희)", "role": "Founder" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via FuturePlay TechUP+ program intake",
+      "accepts_cold_inbound": true,
+      "contact": "https://futureplay.co/"
+    },
+    "tags": ["accelerator", "deeptech", "company-builder", "kaist"],
+    "summary": {
+      "en": "FuturePlay (founded March 2013) is a Seoul-based deep-tech accelerator and company builder created by KAIST PhD entrepreneurs. It started as a company builder, acquired an accelerator license in 2019 and VC qualification in 2023, has ~257 portfolio companies and AUM of roughly ₩270B.",
+      "local": "퓨처플레이(2013년 3월 설립)는 KAIST 박사 출신 창업가들이 만든 서울 기반 딥테크 액셀러레이터 겸 컴퍼니빌더다. 컴퍼니빌더로 시작해 2019년 AC 라이선스, 2023년 VC 자격을 취득했으며, 약 257개 포트폴리오와 약 2,700억 원 AUM을 보유한다."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/futureplay/portfolios",
+        "title": "퓨처플레이(액셀러레이팅) - 투자 포트폴리오 기업 257개사",
+        "publisher": "THE VC",
+        "accessed": "2026-06-02",
+        "supports": "portfolio count 257",
+        "quote": "퓨처플레이(액셀러레이팅) - 투자 포트폴리오 기업 257개사"
+      },
+      {
+        "url": "https://www.bloter.net/news/articleView.html?idxno=639810",
+        "title": "[인터뷰] 권오형 퓨처플레이 대표",
+        "publisher": "Bloter",
+        "accessed": "2026-06-02",
+        "supports": "founding year, AUM ~₩270B, AC license 2019, VC license 2023, KAIST origin",
+        "quote": "FuturePlay … founded in March 2013 … created by KAIST … current Assets Under Management (AUM) is approximately 270 billion KRW … acquired an Accelerator (AC) license in 2019 and obtained VC qualifications in 2023"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM (~₩270B) and license-acquisition years from interview reporting; program cheque size/equity/cohort not standardized. Portfolio count 257 per THE VC directory; secondary list cited ~170 via TechUP programs (subset).",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "kr-cnt-tech",
+    "name": { "en": "CNT Tech", "local": "씨엔티테크" },
+    "aka": ["CNTTech", "씨엔티테크"],
+    "type": "accelerator",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2003,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://cntt.co.kr/",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/cnttech",
+      "other": ["https://thevc.kr/cnttech", "https://ko.wikipedia.org/wiki/씨엔티테크"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist"],
+      "thesis": "High-volume generalist accelerator; ranked #1 in number of AC investment deals in Korea for several consecutive years, running capability training, mentoring, IR consulting and demo days for early-stage startups."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "format": "in-person",
+      "location": "Seoul",
+      "demo_day": true,
+      "perks": ["역량강화 교육", "분야별 멘토링", "IR 컨설팅", "투자자/대기업 네트워킹"],
+      "application_url": "https://cntt.co.kr/",
+      "eligibility": "Early-stage startups across sectors."
+    },
+    "track_record": {
+      "portfolio_count": "420+",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Jeon Hwa-sung (전화성)", "role": "CEO / Founder" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via CNT Tech accelerator program calls",
+      "accepts_cold_inbound": true,
+      "contact": "https://cntt.co.kr/"
+    },
+    "tags": ["accelerator", "generalist", "high-volume", "ac-deals-no1"],
+    "summary": {
+      "en": "CNT Tech (씨엔티테크), founded June 2003 and led by Jeon Hwa-sung, began accelerator activity in 2012 and has invested over ₩50B in 400+ companies (later reported as 420 companies / ₩53B+). It has ranked #1 in number of accelerator investment deals in Korea for four consecutive years from 2020.",
+      "local": "씨엔티테크(2003년 6월 설립, 대표 전화성)는 2012년부터 액셀러레이터 사업을 시작해 400개 넘는 기업에 500억 원 넘게 투자했다(이후 420개 기업·530억 원 이상으로 보도). 2020년부터 AC부문 투자건수 4년 연속 1위를 기록했다."
+    },
+    "sources": [
+      {
+        "url": "https://ko.wikipedia.org/wiki/씨엔티테크",
+        "title": "씨엔티테크 - 위키백과",
+        "publisher": "Wikipedia (Korean)",
+        "accessed": "2026-06-02",
+        "supports": "founding year, accelerator start 2012, 400+ companies, ₩50B+, #1 AC deals 4 years",
+        "quote": "2003년 6월에 설립된 … 2012년부터는 액셀러레이터 사업을 시작했으며 현재까지 400개 넘는 기업에 500억원 넘는 투자를 집행했다 … 2020년부터 AC부문 4년 연속 투자건수 1위"
+      },
+      {
+        "url": "https://magazine.hankyung.com/job-joy/article/202403217890d",
+        "title": "전화성 씨엔티테크 대표 … 국내 최초 420개 투자 포트폴리오 돌파",
+        "publisher": "Magazine Hankyung",
+        "accessed": "2026-06-02",
+        "supports": "420 companies / ₩53B+ portfolio",
+        "quote": "액셀러레이터 사업으로 국내 최초 420개 투자 포트폴리오 돌파 4년 연속 업계 1위의 투자 실적 달성"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Per-deal cheque size, equity and cohort structure not publicly standardized. Company founded 2003 (food-ordering/POS software business); accelerator arm dates from 2012.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "kr-mashup-ventures",
+    "name": { "en": "Mashup Ventures", "local": "매쉬업벤처스" },
+    "aka": ["Mashup Angels", "매쉬업엔젤스", "매쉬업벤처스"],
+    "type": "accelerator",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.mashupventures.co/",
+    "links": {
+      "other": ["https://www.mashupventures.co/contents/from-mashup-angels-to-mashup-ventures"]
+    },
+    "capital": {
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "up to ₩500M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "consumer"],
+      "thesis": "Early-stage accelerator founded by a Daum co-founder; originally consumer-focused, now concentrating on SaaS and AI, providing capital plus R&D and cloud-credit support and a peer founder community."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "up to ₩500,000,000", "usd": null, "currency": "KRW" },
+      "format": "hybrid",
+      "location": "Seoul",
+      "demo_day": null,
+      "perks": ["Mashup Value Growth Program", "R&D 및 클라우드 크레딧 최대 8억 원", "선배 창업가 네트워크"],
+      "application_url": "https://www.mashupventures.co/",
+      "eligibility": "Early-stage SaaS / AI / consumer startups."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Lee Taek-kyung (이택경)", "role": "Founder / Managing Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via Mashup Ventures website",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.mashupventures.co/"
+    },
+    "tags": ["accelerator", "seed", "saas", "ai"],
+    "summary": {
+      "en": "Mashup Ventures (founded 2013 as Mashup Angels by Daum co-founder Lee Taek-kyung; rebranded 2024) is an early-stage accelerator that shifted from consumer services to SaaS/AI (about 70% of its portfolio by 2023). Its newer fund invests up to ₩500M per company and offers R&D and cloud credits worth up to ₩800M.",
+      "local": "매쉬업벤처스(2013년 다음 공동창업자 이택경이 매쉬업엔젤스로 설립, 2024년 사명 변경)는 초기 액셀러레이터로, 소비자 서비스에서 SaaS·AI로 중심을 옮겨 2023년 기준 포트폴리오의 약 70%가 SaaS/AI다. 신규 펀드는 기업당 최대 5억 원을 투자하고 최대 8억 원 상당의 R&D·클라우드 크레딧을 지원한다."
+    },
+    "sources": [
+      {
+        "url": "https://www.mashupventures.co/contents/from-mashup-angels-to-mashup-ventures",
+        "title": "매쉬업엔젤스가 매쉬업벤처스로 새롭게 시작합니다",
+        "publisher": "Mashup Ventures",
+        "accessed": "2026-06-02",
+        "supports": "founding year, founder, SaaS/AI focus, ₩500M cheque, ₩800M credits, rebrand 2024",
+        "quote": "Mashup Angels was established in 2013 by Taekkyung Lee, a Daum co-founder … 500 million won … cloud credits valued at 'up to 800 million won' … about 70% of portfolio companies were SaaS/AI-related startups"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Cumulative figures (₩620B invested, ₩3.64T revenue, 8 exits) cited on site refer to the founding partners' personal track records, not Mashup's own portfolio, so not recorded as portfolio_count. Equity %, cohort and batch cadence not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "kr-the-ventures",
+    "name": { "en": "The Ventures", "local": "더벤처스" },
+    "aka": ["더벤처스"],
+    "type": "accelerator",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://theventures.vc/ko",
+    "links": {
+      "other": ["https://thevc.kr/theventures", "https://thevc.kr/theventures/portfolios"]
+    },
+    "capital": {
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist"],
+      "thesis": "Early-stage investment firm founded by Viki co-founders (Silicon Valley exit); community-driven venture investing with an accelerating program (The Plus) for pre-founders and early startups."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "format": "in-person",
+      "location": "Seoul",
+      "demo_day": null,
+      "perks": ["The Plus (더플러스) accelerating program", "community network"],
+      "application_url": "https://theventures.vc/ko",
+      "eligibility": "Pre-founders / early-stage startups."
+    },
+    "track_record": {
+      "portfolio_count": "190",
+      "notable_investments": [
+        { "company": "Sellit (셀잇)", "sector": "ecommerce", "outcome": "acquired (Kakao / K Venture Group, ₩10B, 2015)" },
+        { "company": "Park Square (파크스퀘어)", "sector": "consumer", "outcome": "acquired (Kakao Group)" }
+      ]
+    },
+    "people": [
+      { "name": "Ho Chang-sung (호창성)", "role": "Co-founder" },
+      { "name": "Moon Ji-won (문지원)", "role": "Co-founder" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via The Ventures website / The Plus program",
+      "accepts_cold_inbound": true,
+      "contact": "https://theventures.vc/ko"
+    },
+    "tags": ["accelerator", "seed", "generalist", "silicon-valley-founders"],
+    "summary": {
+      "en": "The Ventures (founded January 2014 by Viki co-founders Ho Chang-sung and Moon Ji-won) is an early-stage Korean investor with ~190 portfolio companies, 9 exits, and a community-driven model. Portfolio companies Sellit and Park Square were acquired by Kakao Group; Sellit sold for ₩10B in 2015.",
+      "local": "더벤처스(2014년 1월 Viki 공동창업자 호창성·문지원 설립)는 약 190개 포트폴리오와 9건의 회수를 보유한 초기 투자사로, 커뮤니티 주도형 모델을 실험한다. 포트폴리오사 셀잇과 파크스퀘어는 카카오그룹에 인수됐으며 셀잇은 2015년 100억 원에 매각됐다."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/theventures/portfolios",
+        "title": "더벤처스(액셀러레이팅) - 투자 포트폴리오 기업 190개사",
+        "publisher": "THE VC",
+        "accessed": "2026-06-02",
+        "supports": "portfolio count 190, founding year, founders, exits, Sellit acquisition",
+        "quote": "2014년 1월 설립한 초기 스타트업 전문 투자회사 … 190개의 포트폴리오 … 셀잇은 2015년 5월 카카오의 100% 자회사 케이벤처그룹에 100억 원에 인수"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Cheque size, equity %, cohort and program length for The Plus not publicly standardized. Portfolio count and exit details from THE VC directory and reporting.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "kr-bigbang-angels",
+    "name": { "en": "Bigbang Angels", "local": "빅뱅엔젤스" },
+    "aka": ["Bigbang Angels Inc.", "빅뱅엔젤스", "Big Bang Angels"],
+    "type": "accelerator",
+    "subtypes": ["angel-network"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "offices": [
+      { "country": "South Korea", "city": "Seoul" },
+      { "country": "Singapore", "city": "Singapore" }
+    ],
+    "website": "https://www.bigbangangels.com/",
+    "links": {
+      "linkedin": "https://kr.linkedin.com/company/bigbangangels",
+      "other": ["https://thevc.kr/bigbangangels", "https://ko.wikipedia.org/wiki/빅뱅엔젤스"]
+    },
+    "capital": {
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Singapore", "Canada"],
+      "sector_focus": ["deeptech", "ai-ml", "healthtech", "agritech", "impact"],
+      "thesis": "Cross-border early-stage institutional investor (Korea + Singapore) focused on 'Deep Tech for Sustainability'; links startups to government R&D funds and helps with global expansion."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "format": "in-person",
+      "location": "Seoul",
+      "demo_day": true,
+      "perks": ["government R&D fund linkage", "overseas expansion via Singapore/Canada"],
+      "application_url": "https://www.bigbangangels.com/",
+      "eligibility": "Early-stage deep-tech / cross-border startups."
+    },
+    "track_record": {
+      "portfolio_count": "110+",
+      "notable_investments": [
+        { "company": "Lezhin Comics (레진코믹스)", "sector": "consumer", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "(6 exit cases reported)", "type": "M&A/IPO", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Hwang Cheol-joo (황철주)", "role": "Founder / Chairman" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via Bigbang Angels website / Big Bang Angel Club",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.bigbangangels.com/"
+    },
+    "tags": ["accelerator", "angel-club", "cross-border", "deeptech"],
+    "summary": {
+      "en": "Bigbang Angels (established December 2012, Seoul + Singapore) is a cross-border early-stage accelerator focused on 'Deep Tech for Sustainability' (AI, healthcare, agtech). From 2012-2022 it invested ~₩13.5B in 110+ startups; it reports 100+ portfolio companies, 6 exits and made an early bet on Lezhin Comics.",
+      "local": "빅뱅엔젤스(2012년 12월 설립, 서울·싱가포르)는 'Deep Tech for Sustainability'에 집중하는 크로스보더 초기 액셀러레이터다. 2012~2022년 110개 이상 스타트업에 약 135억 원을 투자했고, 100개 이상 포트폴리오·6건 회수를 보유하며 레진코믹스에 초기 투자했다."
+    },
+    "sources": [
+      {
+        "url": "https://ko.wikipedia.org/wiki/빅뱅엔젤스",
+        "title": "빅뱅엔젤스 - 위키백과",
+        "publisher": "Wikipedia (Korean)",
+        "accessed": "2026-06-02",
+        "supports": "founding 2012, ₩13.5B in 110+ startups, Lezhin Comics early investment",
+        "quote": "established in December 2012 … From 2012 to 2022, Big Bang Angels invested approximately 13.5 billion won in over 110 startups … making initial investments in companies like Lezhin Comics"
+      },
+      {
+        "url": "https://www.bigbangangels.com/",
+        "title": "Accelerator | Bigbang Angels Inc.",
+        "publisher": "Bigbang Angels",
+        "accessed": "2026-06-02",
+        "supports": "Korea+Singapore base, deep-tech-for-sustainability focus, 100+ portfolios, 6 exits",
+        "quote": "an early-stage institutional investor based in Korea and Singapore … 'Deep Tech for Sustainability' … 100+ portfolios … 6 exit cases … 400M$ total valuations"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Portfolio count reported as both '110+' (cumulative 2012-2022) and '100+' (current site); founder/chair name (Hwang Cheol-joo) from secondary sources. Cheque size and equity not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "kr-sopoong-ventures",
+    "name": { "en": "Sopoong Ventures", "local": "소풍벤처스" },
+    "aka": ["Sopoong", "소풍", "소풍벤처스"],
+    "type": "accelerator",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2008,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://sopoong.net/",
+    "links": {
+      "linkedin": "https://kr.linkedin.com/company/sopoong",
+      "other": ["https://thevc.kr/sopoongventures"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Climate fund (기후펀드)", "vintage_year": null, "size": { "raw": "₩10B", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "up to ₩100M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["impact", "climate-energy", "agritech", "consumer"],
+      "thesis": "Korea's first impact accelerator; invests in startups solving social and environmental problems and was the first Korean VC to declare a climate-tech focus."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "up to ₩100,000,000", "usd": null, "currency": "KRW" },
+      "format": "in-person",
+      "location": "Seoul",
+      "demo_day": true,
+      "perks": ["ImpactUs (임팩트어스) program", "climate-tech consulting"],
+      "application_url": "https://sopoong.net/",
+      "eligibility": "Impact / climate / social-venture early-stage startups."
+    },
+    "track_record": {
+      "portfolio_count": "120",
+      "notable_investments": [
+        { "company": "Socar (쏘카)", "sector": "mobility", "outcome": "IPO" },
+        { "company": "Jaranda (자란다)", "sector": "edtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Han Sang-yeob (한상엽)", "role": "Representative Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via Sopoong's ImpactUs program / website",
+      "accepts_cold_inbound": true,
+      "contact": "https://sopoong.net/"
+    },
+    "tags": ["accelerator", "impact", "climate", "korea-first-impact"],
+    "summary": {
+      "en": "Sopoong Ventures (established 2008) is Korea's first impact accelerator, investing in startups that solve social and environmental problems. Led since late 2015 by Han Sang-yeob, it has ~120 portfolio companies (about 91 reported invested with ~₩1.01T portfolio value), runs a ₩10B climate fund, and was the first Korean VC to declare a climate-tech focus. Early backer of Socar.",
+      "local": "소풍벤처스(2008년 설립)는 한국 최초의 임팩트 액셀러레이터로, 사회·환경 문제를 비즈니스로 해결하는 스타트업에 투자한다. 2015년 말부터 한상엽 대표가 이끌며 약 120개 포트폴리오를 보유하고(91개사 투자·포트폴리오 가치 약 1.01조 원 보도), 100억 원 규모 기후펀드를 운용한다. 쏘카 초기 투자사다."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/sopoongventures",
+        "title": "소풍벤처스(투자조합) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-02",
+        "supports": "founding 2008, impact accelerator, ~120 portfolio, leadership, climate focus",
+        "quote": "Korea's first impact accelerator, established in 2008 … approximately 120 portfolio companies … Han Sangyeob has led Sopoong as representative partner since the end of 2015"
+      },
+      {
+        "url": "https://zuzu.network/resource/blog/korea-accelerator/",
+        "title": "초기 스타트업의 성장 조력자, 국내 액셀러레이터 현황 및 특징",
+        "publisher": "ZUZU",
+        "accessed": "2026-06-02",
+        "supports": "₩10B climate fund, total companies, notable investments",
+        "quote": "2008년 설립된 국내 최초의 임팩트 액셀러레이터 … 100억 원 규모의 기후펀드 … 자란다, 식스센스, 쏘카, 리하베스트, 셀쿠아"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Portfolio count varies by source (~120 per THE VC; 91 invested / ₩1.01T value per other reporting; 161 cumulative in one list). Per-company cheque 'up to ₩100M' from monthly-selection reporting. Equity % not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "kr-mysc",
+    "name": { "en": "MYSC (MY Social Company)", "local": "엠와이소셜컴퍼니" },
+    "aka": ["MYSC", "MY Social Company", "엠와이소셜컴퍼니"],
+    "type": "accelerator",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.mysc.co.kr/",
+    "links": {
+      "other": ["https://thevc.kr/mysocialcompany", "https://mysc.imweb.me/Impactinvesting"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "KAIST-MYSC Double Impact Fund", "vintage_year": 2024, "size": { "raw": "₩17.3B", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["impact", "agritech", "climate-energy", "healthtech"],
+      "thesis": "Impact investment, acceleration and consulting firm working with startups, corporates and public institutions to address social inequality and environmental crises."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "format": "hybrid",
+      "location": "Seoul",
+      "demo_day": true,
+      "perks": ["government-funded accelerating programs (e.g. EMA-AGRIFOOD)", "impact consulting"],
+      "application_url": "https://www.mysc.co.kr/",
+      "eligibility": "Impact / social-venture and agrifood early-stage startups."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "TestWorks (테스트웍스)", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Kim Jung-tae (김정태)", "role": "CEO / Founder" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via MYSC accelerating program calls (often government-hosted)",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.mysc.co.kr/"
+    },
+    "tags": ["accelerator", "impact", "agrifood", "consulting"],
+    "summary": {
+      "en": "MYSC (MY Social Company) is a Seoul-based impact investment, acceleration and consulting firm working with startups, corporates and public institutions on social and environmental challenges. It operates government-hosted accelerating programs (e.g. EMA-AGRIFOOD) and in 2024 formed the ₩17.3B KAIST-MYSC Double Impact Fund.",
+      "local": "엠와이소셜컴퍼니(MYSC)는 서울 기반 임팩트 투자·액셀러레이팅·컨설팅 기업으로, 스타트업·대기업·공공기관과 함께 사회·환경 문제 해결에 나선다. 정부 주관 액셀러레이팅 사업(예: EMA-AGRIFOOD)을 운영하며 2024년 173억 원 규모 'KAIST-MYSC 더블임팩트펀드'를 결성했다."
+    },
+    "sources": [
+      {
+        "url": "https://www.unicornfactory.co.kr/article/2024082908222978033",
+        "title": "카이스트청년창업투자지주, MYSC와 173억 '임팩트테크' 펀드 결성",
+        "publisher": "Unicorn Factory (Money Today)",
+        "accessed": "2026-06-02",
+        "supports": "₩17.3B KAIST-MYSC Double Impact Fund (2024)",
+        "quote": "'KAIST-MYSC Double Impact Fund' with a scale of 17.3 billion won, receiving 10 billion won from the mother fund"
+      },
+      {
+        "url": "https://thevc.kr/mysocialcompany",
+        "title": "엠와이소셜컴퍼니(액셀러레이팅) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-02",
+        "supports": "impact accelerator / investment / consulting profile",
+        "quote": "MYSC is an impact investment, acceleration, and consulting firm that works with startups, large corporations, and public institutions"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded year (2011) per company history widely cited; not re-confirmed in fetched snippets. Standard cheque size, equity %, cohort and program length vary by (often government-funded) program, left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "kr-500-global-korea",
+    "name": { "en": "500 Global Korea", "local": "500 글로벌 코리아" },
+    "aka": ["500 Korea", "500 Startups Korea", "500 Kimchi"],
+    "type": "accelerator",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://korea.500.co/",
+    "links": {
+      "other": ["https://korea.500.co/korea-accelerators-seed-program", "https://500.co/strategy"]
+    },
+    "capital": {
+      "current_fund": { "raw": null, "usd": null, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "up to $250,000", "usd_min": null, "usd_max": 250000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist"],
+      "thesis": "Korea arm of global firm 500 Global; runs a short seed program with global mentors, investing in roughly 15-20 new Korean companies a year."
+    },
+    "program": {
+      "length_weeks": 3,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "up to $250,000", "usd": 250000, "currency": "USD" },
+      "format": "in-person",
+      "location": "Seoul",
+      "demo_day": null,
+      "perks": ["global mentor network", "Salesforce/AWS/Google Cloud/Notion etc. credits", "₩5M participation fee"],
+      "application_url": "https://korea.500.co/apply",
+      "application_cycles": ["Rolling / first-come first-served"],
+      "eligibility": "Early-stage Korean startups; sector-agnostic."
+    },
+    "track_record": {
+      "portfolio_count": "50+",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply online at korea.500.co/apply (reviewed first-come first-served; ₩5M participation fee)",
+      "accepts_cold_inbound": true,
+      "contact": "https://korea.500.co/"
+    },
+    "tags": ["accelerator", "seed", "generalist", "global-network"],
+    "summary": {
+      "en": "500 Global Korea (the Korea arm of US firm 500 Global, active since 2015) typically invests in 15-20 new Korean companies a year. Its Seed Program is a 3-week accelerator led by global mentors, with selected companies receiving up to $250,000 in investment and a ₩5M participation fee. Since 2015 the 500 Korea family of funds has backed 50+ startups.",
+      "local": "500 글로벌 코리아(미국 500 글로벌의 한국 조직, 2015년부터 활동)는 매년 한국 신규 기업 15~20곳에 투자한다. 시드 프로그램은 글로벌 멘토가 이끄는 3주 액셀러레이터로, 선발 기업은 최대 25만 달러 투자를 받고 참가비 500만 원을 낸다. 2015년 이후 500 코리아 펀드군은 50개 이상 스타트업에 투자했다."
+    },
+    "sources": [
+      {
+        "url": "https://korea.500.co/korea-accelerators-seed-program",
+        "title": "500 Korea's Seed Program",
+        "publisher": "500 Global",
+        "accessed": "2026-06-02",
+        "supports": "investment up to $250k, 3-week program, ₩5M fee, since 2015 50+ startups",
+        "quote": "Selected companies may receive investment of up to USD $250,000 … 3-week program led by global mentors from 500 Global … We charge KRW5 million (~US $4,150) to participate … Since 2015, the 500 Korea family of funds has invested in 50+ startups"
+      },
+      {
+        "url": "https://entrepreneurloop.com/korea-startup-funding-for-foreigners-2026-program/",
+        "title": "Korea Startup Funding for Foreigners 2026",
+        "publisher": "Entrepreneur Loop",
+        "accessed": "2026-06-02",
+        "supports": "15-20 new companies a year context",
+        "quote": "500 Korea, based in Seoul, runs an accelerator and typically invests in 15-20 new companies a year in Korea"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Equity %, exact cohort size and demo-day cadence not stated on official program page. 'Up to $250k' is the maximum potential investment, not a guaranteed cheque. 2015 inferred as start year from 'Since 2015' fund statement.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "kr-google-for-startups-accelerator-korea",
+    "name": { "en": "Google for Startups Accelerator: Korea", "local": "구글 스타트업 액셀러레이터 코리아" },
+    "aka": ["Google for Startups Accelerator Korea", "GFSA Korea"],
+    "type": "accelerator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://startup.google.com/programs/accelerator/korea/",
+    "links": {
+      "other": ["https://startup.google.com/programs/accelerator/ai-first/korea/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "equity-free (no investment)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["ai-ml", "deeptech"],
+      "thesis": "Equity-free, free-of-charge Google accelerator for Seed-to-Series-A Korean startups building AI-driven, deeply technical products; provides mentoring, technical support and a demo day."
+    },
+    "program": {
+      "length_weeks": 10,
+      "cohort_size": "10-15",
+      "batches_per_year": null,
+      "equity_taken_pct": "0",
+      "investment": { "raw": "equity-free / no cash investment", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Seoul",
+      "demo_day": true,
+      "perks": ["Google mentoring & technical support", "investor mentor network", "Google Cloud resources"],
+      "application_url": "https://startup.google.com/programs/accelerator/korea/",
+      "eligibility": "Korea-based Seed-to-Series-A startups, deeply technical (ML/AI), with CTO/technical commitment; 100% bootcamp attendance and 80%+ online attendance to qualify for demo day."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply online via the Google for Startups Accelerator Korea page when cohort applications open",
+      "accepts_cold_inbound": true,
+      "contact": "https://startup.google.com/programs/accelerator/korea/"
+    },
+    "tags": ["accelerator", "equity-free", "ai", "corporate"],
+    "summary": {
+      "en": "Google for Startups Accelerator: Korea is a 10-week, equity-free and free-of-charge program for Seed-to-Series-A Korean startups building AI-driven products. Each cohort has 10-15 startups and the program ends in a mandatory Demo Day with Google leaders and investor mentors.",
+      "local": "구글 스타트업 액셀러레이터 코리아는 시드~시리즈A 단계 한국 스타트업을 위한 10주짜리 무료·무지분(equity-free) 프로그램으로, AI 기반 제품을 만드는 팀을 대상으로 한다. 각 기수는 10~15개 스타트업으로 구성되며 구글 리더와 투자 멘토가 참석하는 데모데이로 마무리된다."
+    },
+    "sources": [
+      {
+        "url": "https://startup.google.com/programs/accelerator/korea/",
+        "title": "Google for Startups Accelerator: Korea",
+        "publisher": "Google",
+        "accessed": "2026-06-02",
+        "supports": "10-week length, equity-free, cohort 10-15, demo day, eligibility",
+        "quote": "Ten weeks … The Accelerator is free of charge and equity-free … Each cohort of 10-15 startups … 100% attendance for the Bootcamp week and a minimum of 80% attendance for online sessions"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Equity-free / no cash investment program (not cash-for-equity), included as a prominent multi-sector/AI-general accelerator in Korea. Founded year of the Korea program not specified by Google.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "kr-dcamp",
+    "name": { "en": "D.CAMP (Banks Foundation for Young Entrepreneurs)", "local": "디캠프 (은행권청년창업재단)" },
+    "aka": ["D.CAMP", "디캠프", "Banks Foundation for Young Entrepreneurs", "은행권청년창업재단"],
+    "type": "accelerator",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://dcamp.kr/",
+    "links": {
+      "other": ["https://dcamp.kr/en/event/official/dday", "https://thevc.kr/dcamp"]
+    },
+    "capital": {
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "up to ₩300M (direct investment)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist"],
+      "thesis": "Non-profit startup foundation established by 19 financial institutions; provides workspace, direct investment, education and the long-running monthly D.DAY demo day as the gateway to its support programs."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": 12,
+      "equity_taken_pct": null,
+      "investment": { "raw": "up to ₩300,000,000", "usd": null, "currency": "KRW" },
+      "format": "in-person",
+      "location": "Seoul (D.CAMP / Front One)",
+      "demo_day": true,
+      "perks": ["D.CAMP / Front One residency up to 1 year", "follow-up investment by D.DAY alliance VCs", "networking & education"],
+      "application_url": "https://dcamp.kr/invest/d_day",
+      "application_cycles": ["Monthly D.DAY demo days"],
+      "eligibility": "Early-stage startups; D.DAY is the only gateway to D.CAMP residency, investment and support."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to monthly D.DAY demo day via dcamp.kr",
+      "accepts_cold_inbound": true,
+      "contact": "https://dcamp.kr/"
+    },
+    "tags": ["accelerator", "non-profit", "demo-day", "bank-foundation"],
+    "summary": {
+      "en": "D.CAMP is operated by the Banks Foundation for Young Entrepreneurs, established by 19 financial institutions in 2012. It provides workspace, education, networking and direct investment, and runs D.DAY — the longest-running monthly demo day in Korea (since June 2013). D.DAY is the gateway to D.CAMP/Front One residency and direct investment of up to ₩300M per company.",
+      "local": "디캠프는 2012년 19개 금융기관이 설립한 은행권청년창업재단이 운영한다. 공간·교육·네트워킹·직접투자를 제공하며, 2013년 6월부터 이어진 국내 최장수 월간 데모데이 'D.DAY'를 운영한다. D.DAY는 디캠프·프론트원 입주와 기업당 최대 3억 원 직접투자의 관문이다."
+    },
+    "sources": [
+      {
+        "url": "https://dcamp.kr/en/event/official/dday",
+        "title": "dcamp | 디데이 (D.DAY)",
+        "publisher": "D.CAMP / Banks Foundation for Young Entrepreneurs",
+        "accessed": "2026-06-02",
+        "supports": "founded by 19 financial institutions 2012, monthly D.DAY since June 2013, ₩300M direct investment",
+        "quote": "established by 19 financial institutions in 2012 … D.DAY is the longest running monthly demo day for startups … held … since June 2013 … initial investment up to 300 million won"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Non-profit foundation rather than a classic cash-for-equity accelerator, but functions as a generalist accelerator (residency + direct investment + monthly demo day). Cheque is 'up to ₩300M'; equity % and cohort sizes not standardized.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  }
+]

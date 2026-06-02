@@ -1,0 +1,953 @@
+[
+  {
+    "id": "il-leumi-partners",
+    "name": { "en": "Leumi Partners", "local": "לאומי פרטנרס" },
+    "aka": ["Leumi Partners Ltd", "Bank Leumi investment arm"],
+    "type": "cvc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 1980,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://leumipartners.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/leumi-partners",
+      "other": ["https://leumipartners.com/technology/", "https://www.leumi.co.il/en/Subsidiaries-and-affiliates"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist", "cybersecurity", "saas-enterprise"],
+      "thesis": "Leumi Group's merchant and investment banking arm; makes direct strategic equity investments in technology companies and provides tech investment banking, alongside underwriting, M&A and real estate financing."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Cellebrite", "sector": "cybersecurity / digital forensics", "outcome": "IPO (SPAC merger)" },
+        { "company": "OncoHost", "sector": "healthtech", "outcome": "active" },
+        { "company": "SafeBreach", "sector": "cybersecurity", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Cellebrite", "type": "IPO", "year": 2021, "value": { "raw": "$2.4 billion (merger valuation)", "usd": 2400000000, "currency": "USD" } }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Direct outreach to Leumi Partners; primarily an institutional / merchant-banking counterparty rather than an open-application fund.",
+      "accepts_cold_inbound": null,
+      "contact": "https://leumipartners.com/"
+    },
+    "tags": ["bank-cvc", "finance", "merchant-bank", "israel"],
+    "summary": {
+      "en": "Leumi Partners is Bank Leumi's merchant and investment banking arm (est. 1980), making direct strategic equity investments in Israeli technology companies. It invested ~$12.5M in Cellebrite at a $450M pre-money valuation in 2019, booking ~$40M direct profit on its 2021 SPAC merger.",
+      "local": "לאומי פרטנרס, זרוע הבנקאות להשקעות של בנק לאומי, מבצעת השקעות אסטרטגיות ישירות בחברות טכנולוגיה ישראליות."
+    },
+    "sources": [
+      {
+        "url": "https://leumipartners.com/",
+        "title": "Leumi Partners | investment banking and research services",
+        "publisher": "Leumi Partners",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, role as merchant/investment bank, HQ",
+        "quote": "ESTABLISHED IN 1980 ... Israel's premier merchant & investment banking platform"
+      },
+      {
+        "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3904035,00.html",
+        "title": "Big winners from Cellebrite's exit: Leumi, Clal and Discount bank investment arms",
+        "publisher": "CTech (Calcalist)",
+        "accessed": "2026-06-02",
+        "supports": "Cellebrite investment amount and profit",
+        "quote": "Leumi Partners ... initial investment: about $12.5 million ... direct profit: $40 million ... pre-money valuation of $450 million ... merger valued Cellebrite at $2.4 billion"
+      },
+      {
+        "url": "https://leumipartners.com/technology/",
+        "title": "Technology Investment Banking - Leumi Partners",
+        "publisher": "Leumi Partners",
+        "accessed": "2026-06-02",
+        "supports": "Technology investment focus, partnerships, portfolio companies",
+        "quote": "Leumi Partners has taken significant steps to further expand into Israel's reputable technology space ... bespoke credit and equity solutions to pioneering tech companies"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year (1980) and tech-investment role are primary-sourced. Portfolio is partly bank-financing rather than pure VC; exact AUM/fund size not disclosed. Crunchbase lists ~6 direct equity investments.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "il-discount-capital",
+    "name": { "en": "Discount Capital", "local": "דיסקונט קפיטל" },
+    "aka": ["Discount Capital Underwriting", "Israel Discount Bank investment arm"],
+    "type": "cvc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 1987,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.dcapital.co.il/",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/discount-capital",
+      "other": ["https://www.discountbank.co.il/private/discount-group/subsidiaries/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["growth", "series-b", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist", "deeptech", "saas-enterprise"],
+      "thesis": "Israel Discount Bank's real-investments arm: private equity and direct technology investments, plus underwriting and investment banking. Fully owned by Discount Group (Israel's third-largest bank)."
+    },
+    "track_record": {
+      "portfolio_count": 13,
+      "notable_investments": [
+        { "company": "Cellebrite", "sector": "cybersecurity / digital forensics", "outcome": "IPO (SPAC merger)" },
+        { "company": "Magnus Metal", "sector": "industrial / advanced manufacturing", "outcome": "active" },
+        { "company": "TailorMed", "sector": "healthtech", "outcome": "active" },
+        { "company": "Glassbox", "sector": "saas-enterprise", "outcome": "take-private acquisition" },
+        { "company": "Tritone", "sector": "industrial / 3D printing", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Cellebrite", "type": "IPO", "year": 2021, "value": { "raw": "$2.4 billion (merger valuation)", "usd": 2400000000, "currency": "USD" } },
+        { "company": "LocusView", "type": "M&A", "year": 2025, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Hila Himi", "role": "CEO" }
+    ],
+    "application": {
+      "how_to_apply": "Direct outreach; institutional investment / merchant-banking counterparty.",
+      "accepts_cold_inbound": null,
+      "contact": "info@dcapital.co.il"
+    },
+    "tags": ["bank-cvc", "finance", "merchant-bank", "israel"],
+    "summary": {
+      "en": "Discount Capital is the real-investments and investment-banking arm of Israel Discount Bank (founded 1987), wholly owned by Discount Group. It makes private-equity and direct technology investments; it invested $10M in Cellebrite (2019) for ~$30M direct profit on the 2021 exit. CB Insights lists 13 investments and 2 exits.",
+      "local": "דיסקונט קפיטל היא זרוע ההשקעות הריאליות וההשקעות של בנק דיסקונט, בבעלות מלאה של קבוצת דיסקונט."
+    },
+    "sources": [
+      {
+        "url": "https://www.cbinsights.com/investor/discount-capital",
+        "title": "Discount Capital - Investor Profile",
+        "publisher": "CB Insights",
+        "accessed": "2026-06-02",
+        "supports": "Investment count, exits, portfolio companies, CEO",
+        "quote": "13 investments ... latest investment was in Tritone ... 2 portfolio exits, including the acquisition of LocusView by Itron ... CEO is Hila Himi"
+      },
+      {
+        "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3904035,00.html",
+        "title": "Big winners from Cellebrite's exit: Leumi, Clal and Discount bank investment arms",
+        "publisher": "CTech (Calcalist)",
+        "accessed": "2026-06-02",
+        "supports": "Cellebrite investment amount and profit",
+        "quote": "Discount Capital ... initial investment: $10 million ... direct profit: $30 million"
+      },
+      {
+        "url": "https://www.discountbank.co.il/private/discount-group/subsidiaries/",
+        "title": "Discount Group subsidiaries",
+        "publisher": "Israel Discount Bank",
+        "accessed": "2026-06-02",
+        "supports": "Discount Capital is the investments subsidiary of Discount Group; founded 1987",
+        "quote": "The company was founded in 1987 and is fully owned by Discount Bank Group"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year (1987) from bank/secondary sources; official dcapital.co.il site was under construction at access time. Mix of PE and tech/VC investing.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "il-poalim-equity",
+    "name": { "en": "Poalim Equity (Poalim Capital Markets / Poalim Ventures)", "local": "פועלים אקוויטי" },
+    "aka": ["Poalim Capital Markets", "Poalim Ventures", "Bank Hapoalim investment arm"],
+    "type": "cvc",
+    "subtypes": ["growth-equity", "vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.poalimequity.com/en",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/poalim-capital-markets",
+      "other": ["https://www.poalimtech.com/en/vc", "https://www.bankhapoalim.com/en"]
+    },
+    "capital": {
+      "aum": { "raw": "more than $300 million under direct and co-management", "usd": 300000000, "currency": "USD" },
+      "funds": [
+        { "name": "Poalim Ventures I & II", "vintage_year": null, "size": { "raw": "more than $130 million under direct management", "usd": 130000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["saas-enterprise", "cybersecurity", "deeptech", "healthtech", "fintech"],
+      "thesis": "Bank Hapoalim's merchant-bank / venture arm: direct equity and fund-of-funds investments in Israeli and Israel-related high-tech companies from start-up to pre-IPO, across enterprise software, communications and IT."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "ThetaRay", "sector": "cybersecurity / fintech", "outcome": "active" },
+        { "company": "Perception Point", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Lightico", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Avivit Bender", "role": "Chief Corporate Development and Fintech Officer (Bank Hapoalim Innovation & Strategy)" }
+    ],
+    "application": {
+      "how_to_apply": "Outreach via Poalim Tech / Poalim Capital Markets.",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.poalimequity.com/en"
+    },
+    "tags": ["bank-cvc", "finance", "merchant-bank", "israel"],
+    "summary": {
+      "en": "Poalim Equity (Poalim Capital Markets, including Poalim Ventures) is Bank Hapoalim's investment / merchant-bank platform, with more than $300M under direct and co-management in Israeli high-tech, including ~$130M+ across Poalim Ventures I & II. In 2021 the bank also launched a separate growth-stage CVC track under Innovation & Strategy (initial NIS 40M, ~$12.3M) investing in cyber, RPA and digital-platform startups.",
+      "local": "פועלים אקוויטי (שוק ההון של בנק הפועלים) היא זרוע ההשקעות של בנק הפועלים בחברות הייטק ישראליות."
+    },
+    "sources": [
+      {
+        "url": "https://www.poalimtech.com/en/vc",
+        "title": "Venture Capital Banking Solutions | Poalim Tech",
+        "publisher": "Bank Hapoalim / Poalim Tech",
+        "accessed": "2026-06-02",
+        "supports": "AUM under direct and co-management; Poalim Ventures I & II",
+        "quote": "more than $300 million under direct and co-management ... Poalim Ventures I & II, with more than $130 million under direct management in these two funds"
+      },
+      {
+        "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3906211,00.html",
+        "title": "Bank Hapoalim to launch new investment track for startups",
+        "publisher": "CTech (Calcalist)",
+        "accessed": "2026-06-02",
+        "supports": "2021 growth-stage CVC track, amounts, sectors, key person",
+        "quote": "NIS 40 million (approximately $12.3 million) with plans to ... increase to NIS 150 million ($46 million) ... Perception Point ... $2 million ... Avivit Bender, Chief Corporate Development and Fintech Officer"
+      },
+      {
+        "url": "https://www.poalimequity.com/en",
+        "title": "Home Page | Poalim Equity",
+        "publisher": "Bank Hapoalim",
+        "accessed": "2026-06-02",
+        "supports": "Existence of Poalim Equity as Bank Hapoalim investment platform offering direct and technology investments",
+        "quote": "As a merchant bank, we address our clients' financial needs ... Direct Investments ... Technology Investments"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Bank Hapoalim's venture activity spans several vehicles (Poalim Capital Markets / Poalim Equity / Poalim Ventures and a separate 2021 innovation CVC track); consolidated here as one entity. Founding year not cleanly disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "il-mizrahi-tefahot-invest",
+    "name": { "en": "Mizrahi Tefahot Invest (MTI)", "local": "מזרחי טפחות אינווסט" },
+    "aka": ["MTI", "Mizrahi-Tefahot Invest", "Bank Mizrahi-Tefahot investment arm"],
+    "type": "cvc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Ramat Gan",
+    "website": "https://www.mizrahi-tefahot.co.il/en/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/mizrahi-tefahot-invest",
+      "other": ["https://www.ivc-online.com/Google-Card?id=2A4418EE-777F-EC11-B80D-00505695CD29"]
+    },
+    "capital": {
+      "aum": { "raw": "investments of over NIS 1.5 billion", "usd": null, "currency": "ILS" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "up to 20%",
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["saas-enterprise", "deeptech", "proptech", "fintech"],
+      "thesis": "Bank Mizrahi-Tefahot's direct and alternative equity investment arm, acting as an active minority partner (up to 20%) in expansion-stage (A–C) Israeli-related global technology companies, plus real estate/infrastructure and fund investments."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Gett", "sector": "mobility", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Direct outreach to MTI via Bank Mizrahi-Tefahot.",
+      "accepts_cold_inbound": null,
+      "contact": "https://il.linkedin.com/company/mizrahi-tefahot-invest"
+    },
+    "tags": ["bank-cvc", "finance", "israel"],
+    "summary": {
+      "en": "Mizrahi Tefahot Invest (MTI), established 2021, is the direct/alternative equity investment arm of Bank Mizrahi-Tefahot (Israel's third-largest bank). It invests as an active minority partner (up to 20%) in expansion-stage tech, real estate/infrastructure and funds, with a portfolio of over NIS 1.5 billion including Gett.",
+      "local": "מזרחי טפחות אינווסט (MTI) היא זרוע ההשקעות הישירות של בנק מזרחי טפחות, שהוקמה ב-2021."
+    },
+    "sources": [
+      {
+        "url": "https://il.linkedin.com/company/mizrahi-tefahot-invest",
+        "title": "Mizrahi Tefahot Invest | LinkedIn",
+        "publisher": "LinkedIn / Mizrahi Tefahot Invest",
+        "accessed": "2026-06-02",
+        "supports": "Establishment year, minority-partner strategy, focus sectors, portfolio size",
+        "quote": "Mizrahi-Tefahot Invest (MTI) was established in 2021 ... active minority partner (up to 20%) ... portfolio which spans investments of over NIS 1.5 billion ... such as Gett"
+      },
+      {
+        "url": "https://www.mizrahi-tefahot.co.il/en/about-mizrahi-tefahot/overview/",
+        "title": "Overview | Mizrahi-Tefahot Bank",
+        "publisher": "Bank Mizrahi-Tefahot",
+        "accessed": "2026-06-02",
+        "supports": "Parent bank is Israel's third-largest bank",
+        "quote": "Mizrahi-Tefahot is Israel's third largest bank based on value of assets"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Details sourced from MTI's own LinkedIn (primary-ish) and secondary databases; AUM in ILS, no USD disclosed. A meaningful share of MTI is PE/real-estate rather than pure tech VC.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "il-the-garage-vc",
+    "name": { "en": "The Garage", "local": "הגראז'" },
+    "aka": ["The Garage VC", "The GARAGE"],
+    "type": "cvc",
+    "subtypes": ["vc", "venture-studio"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.thegarage.vc/",
+    "links": {
+      "other": ["https://www.thegarage.vc/onepager", "https://finder.startupnationcentral.org/investor_page/the-garage", "https://english.leumi.co.il/Articles/49793/"]
+    },
+    "capital": {
+      "aum": { "raw": "$100M AUM", "usd": 100000000, "currency": "USD" },
+      "funds": [
+        { "name": "The Garage Fund I", "vintage_year": 2022, "size": { "raw": "$100M", "usd": 100000000, "currency": "USD" } },
+        { "name": "The Garage Fund II", "vintage_year": 2026, "size": { "raw": "$120M (target, launching Q1 2026)", "usd": 120000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel", "United States"],
+      "sector_focus": ["fintech", "cybersecurity", "ai-ml", "saas-enterprise"],
+      "thesis": "Early-stage VC and startup-formation studio in fintech and enterprise-tech, backed by financial-services LPs (Bank Leumi, Valley National Bank, BRM Capital). Hybrid model: invests in and co-founds companies."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": "1-2 founding teams per year (The Playground)",
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Tel Aviv",
+      "perks": ["startup co-formation (The Playground / The Cube)", "access to financial-services LPs"],
+      "application_url": "https://www.thegarage.vc/"
+    },
+    "track_record": {
+      "portfolio_count": 12,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Omer Nagar", "role": "Co-founder / Managing Partner" },
+      { "name": "Eyal Redler", "role": "Co-founder / Managing Partner" },
+      { "name": "Shay Dan", "role": "Co-founder / Managing Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via thegarage.vc; selective founder/startup formation program plus direct early-stage investment.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.thegarage.vc/"
+    },
+    "tags": ["bank-backed-cvc", "fintech", "venture-studio", "israel"],
+    "summary": {
+      "en": "The Garage is an early-stage fintech and enterprise-tech VC and startup-formation studio established in 2022 with $100M AUM. Its founding LPs are financial institutions — Bank Leumi (Israel's largest bank), Valley National Bank (which invested $25M), and BRM Capital family office (anchor, up to ~$160M venture). A $120M Fund II launches Q1 2026.",
+      "local": "הגראז' היא קרן הון-סיכון ואולפן הקמת חברות בשלב מוקדם בתחום הפינטק, שהוקמה ב-2022 ונתמכת על-ידי בנק לאומי, Valley National Bank ו-BRM."
+    },
+    "sources": [
+      {
+        "url": "https://www.thegarage.vc/onepager",
+        "title": "The GARAGE | Fintech and Enterprise-Tech VC",
+        "publisher": "The Garage",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, AUM, portfolio count, Fund II target",
+        "quote": "Established in 2022, The Garage is an early-stage venture capital firm with $100M AUM ... portfolio of 12 companies to date ... Fund II ... $120M ... Q1 2026"
+      },
+      {
+        "url": "https://www.fintechfutures.com/venture-capital-funding/valley-national-bancorp-invests-25m-in-fintech-focused-vc-the-garage",
+        "title": "Valley National Bancorp invests $25m in fintech-focused VC The Garage",
+        "publisher": "FinTech Futures",
+        "accessed": "2026-06-02",
+        "supports": "Bank Leumi / Valley / BRM LPs, Valley's $25M investment, fund sectors",
+        "quote": "Valley National Bancorp announced a $25 million investment in the Garage ... early-stage startups in the fields of fintech, artificial intelligence and cyber"
+      },
+      {
+        "url": "https://english.leumi.co.il/Articles/49793/",
+        "title": "Press Releases - Bank Leumi (The Garage / BRM)",
+        "publisher": "Bank Leumi",
+        "accessed": "2026-06-02",
+        "supports": "Bank Leumi and BRM backing; up to ~$160M venture",
+        "quote": "BRM joined Leumi as an anchor investor in the venture, with the amount to be invested in the fund expected to reach a sum of up to USD 160 million"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Bank-backed CVC: founding LPs are Bank Leumi and Valley National Bank plus BRM family office. Founders' full names and AUM primary-sourced. Equity %/check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "il-clal-insurance-tech",
+    "name": { "en": "Clal Insurance (tech investment arm)", "local": "כלל ביטוח" },
+    "aka": ["Clal Insurance Enterprises Holdings", "Clal Insurance tech investments"],
+    "type": "cvc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.clalbit.co.il/",
+    "links": {
+      "other": ["https://finder.startupnationcentral.org/investor_page/clal-insurance", "https://www.startuphub.ai/investors/clal-insurance/"]
+    },
+    "capital": {
+      "aum": { "raw": "portfolio that has reached an impressive scope of $2 billion", "usd": 2000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["fintech", "healthtech", "saas-enterprise"],
+      "thesis": "One of Israel's largest insurers; deploys balance-sheet and managed-fund capital into late-stage Israeli tech and fintech as a major institutional/strategic investor, plus LP commitments to VC funds (e.g. FinTLV)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Cellebrite", "sector": "cybersecurity / digital forensics", "outcome": "IPO (SPAC merger)" },
+        { "company": "Pagaya Investments", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Diagnostic Robotics", "sector": "healthtech", "outcome": "active" },
+        { "company": "ONE ZERO", "sector": "fintech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Cellebrite", "type": "IPO", "year": 2021, "value": { "raw": "$2.4 billion (merger valuation)", "usd": 2400000000, "currency": "USD" } }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Institutional / strategic co-investor; direct outreach to Clal Insurance investments division.",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.clalbit.co.il/"
+    },
+    "tags": ["insurance-cvc", "finance", "institutional-investor", "israel"],
+    "summary": {
+      "en": "Clal Insurance, one of Israel's largest insurers, is among the country's biggest institutional tech investors, with a reported ~$2 billion tech portfolio (incl. Cellebrite, Pagaya, Diagnostic Robotics, ONE ZERO) and LP commitments such as $35M to FinTLV's second fintech fund. It invested ~$12.5M in Cellebrite (2019) for ~$40M direct profit on the 2021 exit.",
+      "local": "כלל ביטוח, מהמבטחות הגדולות בישראל, היא מהמשקיעות המוסדיות הגדולות בהייטק הישראלי עם תיק טכנולוגי בהיקף של כ-2 מיליארד דולר."
+    },
+    "sources": [
+      {
+        "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3906666,00.html",
+        "title": "The biggest VC fund in Israel you didn't even know existed",
+        "publisher": "CTech (Calcalist)",
+        "accessed": "2026-06-02",
+        "supports": "~$2 billion tech portfolio scope; portfolio companies",
+        "quote": "Clal Insurance ... portfolio that has reached an impressive scope of $2 billion ... ONE ZERO, Diagnostic Robotics, Pagaya Investments"
+      },
+      {
+        "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3904035,00.html",
+        "title": "Big winners from Cellebrite's exit: Leumi, Clal and Discount bank investment arms",
+        "publisher": "CTech (Calcalist)",
+        "accessed": "2026-06-02",
+        "supports": "Cellebrite investment amount and profit",
+        "quote": "Clal Insurance ... initial investment: about $12.5 million ... direct profit: $40 million"
+      },
+      {
+        "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3890581,00.html",
+        "title": "Clal Insurance invests $35 million in FinTLV's second fintech fund",
+        "publisher": "CTech (Calcalist)",
+        "accessed": "2026-06-02",
+        "supports": "$35M LP commitment to FinTLV fintech fund",
+        "quote": "Clal Insurance invests $35 million in FinTLV's second fintech fund"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Clal Insurance invests primarily off its balance sheet / managed institutional funds rather than via a single discretely named CVC vehicle. Do not confuse with 'Claltech' (Access Industries) or 'Clal Industries'. Founding year of the tech-investment activity not specified.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "il-migdal-next-generation-finance",
+    "name": { "en": "Migdal — Next Generation Finance", "local": "מגדל" },
+    "aka": ["Next Generation Finance", "Migdal Insurance fintech investment arm"],
+    "type": "cvc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Petah Tikva",
+    "website": "https://www.migdal.co.il/",
+    "links": {
+      "other": ["https://www.migdalholdings.co.il/en/migdal-holdings/", "https://en.wikipedia.org/wiki/Migdal_(company)"]
+    },
+    "capital": {
+      "aum": { "raw": "at least 1-2 billion dollars in the next two years (target)", "usd": null, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel", "United States"],
+      "sector_focus": ["fintech", "web3-crypto"],
+      "thesis": "Migdal Insurance's dedicated fintech investment arm, targeting insurtech, capital-market trading, lending, personal finance, payments, money transfers, blockchain and risk management — via direct investments in fintech companies, startups and funds."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Pagaya", "sector": "fintech", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Guy Fischer", "role": "Chief Investment Officer, Migdal Insurance (leads Next Generation Finance)" },
+      { "name": "Moti Shatner", "role": "Senior consultant (Bluevine co-founder)" }
+    ],
+    "application": {
+      "how_to_apply": "Direct outreach to Migdal Insurance investments division.",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.migdal.co.il/"
+    },
+    "tags": ["insurance-cvc", "fintech", "finance", "israel"],
+    "summary": {
+      "en": "Next Generation Finance is the fintech investment arm of Migdal Insurance (one of Israel's largest financial institutions), announced January 2021 with a target of at least $1-2 billion over two years across fintech companies, startups and funds — including an initial $100M into US consumer loans via Pagaya. Led by CIO Guy Fischer.",
+      "local": "Next Generation Finance היא זרוע ההשקעות בפינטק של מגדל ביטוח, שהוקמה בינואר 2021."
+    },
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/migdals-newly-established-investment-arm---next-generation-finance-plans-to-invest-at-least-1-2-billion--in-the-next-two-years-in-fintech-companies-startups-and-funds-301206220.html",
+        "title": "Migdal's Newly Established Investment Arm - Next Generation Finance",
+        "publisher": "PR Newswire / Migdal Insurance",
+        "accessed": "2026-06-02",
+        "supports": "Arm name, announcement date, investment target, Pagaya, leadership",
+        "quote": "Next Generation Finance, Plans to Invest At Least 1-2 Billion $ in the Next Two Years in Fintech Companies, Startups and Funds ... $100 million in consumer loans in the United States ... Guy Fischer, Chief Investment Officer at Migdal Insurance"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Migdal_(company)",
+        "title": "Migdal (company) - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Migdal is a major Israeli insurance/financial institution",
+        "quote": "Migdal ... one of Israel's largest financial institutions"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "The $1-2B figure is a stated target, not committed capital; Migdal's actual tech-investment participation reportedly declined to ~2% of institutions by 2025. Treated as a finance CVC on the strength of the dedicated Next Generation Finance arm.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "il-harel-tech-guts",
+    "name": { "en": "Harel Insurance — Harel Tech / GUTS", "local": "הראל" },
+    "aka": ["Harel Tech", "GUTS Innovation Hub", "Harel Insurance Investments and Financial Services"],
+    "type": "cvc",
+    "subtypes": ["growth-equity", "accelerator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Ramat Gan",
+    "website": "https://www.harel-group.co.il/",
+    "links": {
+      "other": ["https://www.gutsinnovation.com/", "https://finder.startupnationcentral.org/investor_page/harel-insurance-finance", "https://www.calcalistech.com/ctech/articles/0,7340,L-3896279,00.html"]
+    },
+    "capital": {
+      "aum": { "raw": "$100 million earmarked for startup investments", "usd": 100000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel", "United States"],
+      "sector_focus": ["fintech", "cybersecurity", "healthtech", "saas-enterprise", "biotech"],
+      "thesis": "Harel Insurance's technology-investment unit (Harel Tech) makes direct late- and early-stage tech investments from the balance sheet and managed funds; its GUTS innovation hub runs an early-stage fintech/insurtech program for startups useful to insurance, finance and health."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Ramat Gan (Harel HQ)",
+      "perks": ["partnership with Harel's insurance/finance capabilities", "mentorship", "ecosystem access"],
+      "application_url": "https://www.gutsinnovation.com/for-startups",
+      "eligibility": "Early-stage startups with a CTO and a developed MVP, useful to insurance, finance, health or operational efficiency."
+    },
+    "track_record": {
+      "portfolio_count": 9,
+      "notable_investments": [
+        { "company": "Lemonade", "sector": "insurtech / fintech", "outcome": "IPO" },
+        { "company": "Quantum Machines", "sector": "deeptech", "outcome": "active" },
+        { "company": "Innoviz Technologies", "sector": "mobility / lidar", "outcome": "IPO (SPAC)" },
+        { "company": "American Well", "sector": "healthtech", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Tomer Goldberg", "role": "Head of technology investment unit (ex-Cisco Israel investments & acquisitions)" }
+    ],
+    "application": {
+      "how_to_apply": "Startups apply to GUTS via gutsinnovation.com; direct investments via Harel Tech.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.gutsinnovation.com/for-startups"
+    },
+    "tags": ["insurance-cvc", "fintech", "insurtech", "innovation-hub", "israel"],
+    "summary": {
+      "en": "Harel Insurance runs a technology-investment unit (Harel Tech) plus the GUTS fintech/insurtech innovation hub. The unit earmarked $100M for startup investments and has directly backed nine companies over four years (biotech, fintech, digital health, alt energy) — including Lemonade, Quantum Machines, Innoviz and American Well — reportedly at ~300% average return. Led by Tomer Goldberg.",
+      "local": "הראל ביטוח מפעילה יחידת השקעות טכנולוגיה (Harel Tech) ואת מרכז החדשנות GUTS לפינטק וביטוח-טק, עם הקצאה של 100 מיליון דולר להשקעות בסטארטאפים."
+    },
+    "sources": [
+      {
+        "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3896279,00.html",
+        "title": "Harel Insurance earmarks $100 million for startup investments",
+        "publisher": "CTech (Calcalist)",
+        "accessed": "2026-06-02",
+        "supports": "$100M allocation, 9 companies in 4 years, sectors, ~300% return, leadership",
+        "quote": "an additional $100 million to invest ... over the past four years, the unit has directly invested in nine companies ... biotech, fintech, digital health, alternative energy ... average return of 300% ... Tomer Goldberg"
+      },
+      {
+        "url": "https://www.gutsinnovation.com/",
+        "title": "Guts - Harel Innovation hub | The Home for Fintech",
+        "publisher": "Harel / GUTS",
+        "accessed": "2026-06-02",
+        "supports": "GUTS is Harel's fintech/insurtech innovation hub and program",
+        "quote": "Get your startup growing under one roof at GUTS, Harel's innovation hub ... empower selected early-stage startups ... in finance, insurance, and operational efficiency"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Two-pronged: balance-sheet tech investing (Harel Tech) + GUTS innovation hub/program. GUTS program economics (length, cohort, equity) not publicly disclosed. Portfolio count of 9 was as of the 2021 article and has likely grown.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "il-the-phoenix-tech-investments",
+    "name": { "en": "The Phoenix (tech / direct investments)", "local": "הפניקס" },
+    "aka": ["Phoenix Financial", "The Phoenix Holdings", "Phoenix Insurance"],
+    "type": "cvc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Givatayim",
+    "website": "https://phoenixfinancial.co.il/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/phoenixholdings",
+      "crunchbase": "https://www.crunchbase.com/organization/phoenix-insurance-company",
+      "other": ["https://finder.startupnationcentral.org/investor_page/phoenix-2"]
+    },
+    "capital": {
+      "aum": { "raw": "$5 billion benchmark in terms of investments since 2015", "usd": 5000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel", "United States"],
+      "sector_focus": ["fintech", "mobility", "deeptech", "saas-enterprise"],
+      "thesis": "One of Israel's largest financial groups; makes direct (mostly late-stage / pre-IPO and PIPE) co-investments alongside VCs in Israeli-related tech, deployed from its balance sheet and managed funds."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "REE Automotive", "sector": "mobility", "outcome": "IPO (SPAC, $3.1B valuation)" },
+        { "company": "Fiverr", "sector": "saas-enterprise / marketplace", "outcome": "IPO" },
+        { "company": "Riskified", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Classiq Technologies", "sector": "deeptech / quantum", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Eyal Ben Simon", "role": "CEO, The Phoenix Insurance" },
+      { "name": "Haggai Schreiber", "role": "Head of Investments & Finance Division" },
+      { "name": "Elad Givoni", "role": "Head of private equity investments" }
+    ],
+    "application": {
+      "how_to_apply": "Institutional / strategic co-investor; direct outreach to Phoenix Investments division.",
+      "accepts_cold_inbound": null,
+      "contact": "https://phoenixfinancial.co.il/"
+    },
+    "tags": ["insurance-cvc", "finance", "institutional-investor", "israel"],
+    "summary": {
+      "en": "The Phoenix is one of Israel's largest financial/insurance groups and a leading institutional tech investor, having crossed a $5 billion investments benchmark since 2015 and carried out 15+ direct deals (~$150M) from 2020. Notable holdings include REE Automotive ($3.1B SPAC), Fiverr, Riskified and Classiq. Tech/co-investment activity is led by the Investments & Finance Division.",
+      "local": "הפניקס היא מהקבוצות הפיננסיות והביטוחיות הגדולות בישראל ומהמשקיעות המוסדיות המובילות בהייטק."
+    },
+    "sources": [
+      {
+        "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3901205,00.html",
+        "title": "Are Israel's institutional investors late to the tech investment party?",
+        "publisher": "CTech (Calcalist)",
+        "accessed": "2026-06-02",
+        "supports": "$5B benchmark, 15+ deals/~$150M since 2020, notable investments, leadership",
+        "quote": "We are currently crossing the $5 billion benchmark in terms of investments since 2015 ... more than 15 direct investment deals at a total sum of around $150 million ... Ree ($3.1B), Otonomo, Fiverr, Riskified"
+      },
+      {
+        "url": "https://finder.startupnationcentral.org/investor_page/phoenix-2",
+        "title": "Phoenix - Israeli Investments | Startup Nation Finder",
+        "publisher": "Start-Up Nation Central",
+        "accessed": "2026-06-02",
+        "supports": "Recent direct tech investments (Classiq, Air Doctor, etc.)",
+        "quote": "Classiq Technologies (quantum computing software, $110M C Round in May 2025) ... Air Doctor ... OdysightAI ... ZOOZ Power"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "The Phoenix invests via its balance sheet / managed funds rather than a discretely named CVC vehicle, so its classification as CVC vs. pure institutional investor is borderline. Figures are aggregate investment benchmarks, not a dedicated fund size.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "il-the-kitchen-foodtech-hub",
+    "name": { "en": "The Kitchen FoodTech Hub", "local": "המטבח" },
+    "aka": ["The Kitchen Hub", "Strauss FoodTech Incubator", "The Kitchen Labs"],
+    "type": "incubator",
+    "subtypes": ["cvc", "venture-studio"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Ashdod",
+    "website": "https://www.thekitchenhub.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/the-kitchen-foodtech-hub",
+      "other": ["https://finder.startupnationcentral.org/investor_page/the-kitchen-foodtech-hub", "https://www.strauss-group.com/newsmention/launching-strauss-foodtech-incubator-kitchen/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$70 million fund", "usd": 70000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$650,000 to $750,000 over the two-year work plan per startup", "usd_min": 650000, "usd_max": 750000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["agritech"],
+      "thesis": "FoodTech incubator and investment arm of food giant Strauss Group (anchor investor), backed by the Israel Innovation Authority; builds and invests in early-stage foodtech startups across alt-protein, alternative ingredients and sustainability."
+    },
+    "program": {
+      "length_weeks": 104,
+      "cohort_size": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "$650,000 to $750,000 over the two-year work plan period", "usd": 700000, "currency": "USD" },
+      "format": "in-person",
+      "location": "Ashdod, Israel",
+      "perks": ["lab and office space", "Israel Innovation Authority backing", "Strauss Group strategic support", "The Kitchen Labs innovation center"],
+      "application_url": "https://www.thekitchenhub.com/",
+      "eligibility": "Early-stage foodtech startups (alt-protein, alternative ingredients, food sustainability, enabling technologies)."
+    },
+    "track_record": {
+      "portfolio_count": "23 investments to date (21 active portfolio companies)",
+      "notable_investments": [
+        { "company": "Aleph Farms", "sector": "agritech / cultivated meat", "outcome": "active" },
+        { "company": "Imagindairy", "sector": "agritech / precision fermentation", "outcome": "active" },
+        { "company": "Yofix", "sector": "agritech / plant-based dairy", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via thekitchenhub.com; selective foodtech incubator program.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.thekitchenhub.com/"
+    },
+    "tags": ["corporate-incubator", "industrial-cvc", "foodtech", "strauss-group", "israel"],
+    "summary": {
+      "en": "The Kitchen FoodTech Hub is the foodtech incubator and investment arm of Israeli food giant Strauss Group, founded in 2015 with Israel Innovation Authority backing. It raised a $70M fund, invests $650K-$750K per startup over a two-year program, and has made 23 investments (21 active) including Aleph Farms, Imagindairy and Yofix; portfolio companies have raised $260M+ globally.",
+      "local": "המטבח (The Kitchen) הוא חממת הפודטק וזרוע ההשקעות של קבוצת שטראוס, שהוקמה ב-2015 בגיבוי רשות החדשנות."
+    },
+    "sources": [
+      {
+        "url": "https://agfundernews.com/the-kitchen-foodtech-hub-announces-70m-fund-unveils-the-kitchen-labs-innovation-center",
+        "title": "The Kitchen FoodTech Hub announces $70m fund, unveils The Kitchen Labs",
+        "publisher": "AgFunderNews",
+        "accessed": "2026-06-02",
+        "supports": "$70M fund, Strauss anchor, founding year, investment per startup, portfolio count",
+        "quote": "raising a new $70 million fund ... Founded in 2015 by Strauss Group ... made 23 investments to date, 21 of which are active ... raised over $260 million ... budget of $650,000 to $750,000 over the two-year work plan period"
+      },
+      {
+        "url": "https://www.strauss-group.com/newsmention/launching-strauss-foodtech-incubator-kitchen/",
+        "title": "Launching the Strauss FoodTech Incubator - The Kitchen",
+        "publisher": "Strauss Group",
+        "accessed": "2026-06-02",
+        "supports": "The Kitchen is Strauss Group's foodtech incubator",
+        "quote": "Launching the Strauss FoodTech Incubator – The Kitchen"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Corporate (industrial/food) CVC-incubator: Strauss Group is anchor investor; co-funded with Israel Innovation Authority. Equity % and exact cohort size not disclosed; program is ~2 years (104 weeks).",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "il-incubit-ventures",
+    "name": { "en": "Incubit Ventures", "local": "אינקיוביט" },
+    "aka": ["Incubit Technology Ventures", "Elbit Systems incubator"],
+    "type": "incubator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Netanya",
+    "website": "https://incubitventures.com/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/incubit-technology-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/incubit-technology-ventures",
+      "other": ["https://incubitventures.com/about/", "https://www.calcalistech.com/ctech/articles/0,7340,L-3840586,00.html"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "about $1M for the first 2 years (Incubit provides 15%, IIA 85%)", "usd_min": 1000000, "usd_max": 1000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["deeptech", "robotics", "ai-ml", "hardware-semiconductor", "climate-energy", "spacetech"],
+      "thesis": "Technological incubator of defense/industrial giant Elbit Systems, investing in early-stage deep-tech startups (AR, materials, energy, AI, quantum, robotics, IoT, Industry 4.0, sensing) synergetic with Elbit; co-funded with the Israel Innovation Authority."
+    },
+    "program": {
+      "length_weeks": 104,
+      "cohort_size": "4-6 startups selected per year",
+      "equity_taken_pct": null,
+      "investment": { "raw": "about $1M in early-stage deep-tech startups for the first 2 years (plus in-kind from Elbit)", "usd": 1000000, "currency": "USD" },
+      "format": "in-person",
+      "location": "Netanya, Israel (Elbit Systems)",
+      "perks": ["office space and labs", "accounting and legal", "business development", "mentoring", "Elbit license/commercial pathway"],
+      "application_url": "https://incubitventures.com/",
+      "acceptance_rate": "~2-3% (4-6 accepted of ~250 applications/year)",
+      "eligibility": "Early-stage Israeli deep-tech startups with technology synergetic with Elbit Systems."
+    },
+    "track_record": {
+      "portfolio_count": 17,
+      "notable_investments": [
+        { "company": "New Rocket", "sector": "spacetech / propulsion", "outcome": "active" },
+        { "company": "FlyWorks", "sector": "robotics / drones", "outcome": "active" },
+        { "company": "EchoCare", "sector": "healthtech / sensing", "outcome": "active" },
+        { "company": "Sealartec", "sector": "robotics / autonomous marine", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via incubitventures.com; ~250 applications/year, 4-6 accepted.",
+      "accepts_cold_inbound": true,
+      "contact": "https://incubitventures.com/"
+    },
+    "tags": ["corporate-incubator", "industrial-cvc", "deeptech", "elbit-systems", "israel"],
+    "summary": {
+      "en": "Incubit Ventures is the technological incubator of industrial/defense giant Elbit Systems, investing in early-stage Israeli deep-tech startups. It invests ~$1M per startup over the first two years (15% from Incubit, 85% from the Israel Innovation Authority), plus in-kind Elbit support. It has backed 17 startups, receiving ~250 applications/year and accepting only 4-6 (80-85% rejected immediately).",
+      "local": "אינקיוביט היא החממה הטכנולוגית של אלביט מערכות, המשקיעה בסטארטאפים בתחומי הדיפ-טק בשלב מוקדם."
+    },
+    "sources": [
+      {
+        "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3840586,00.html",
+        "title": "Incubit nurturing deep tech startups for next generation of Elbit innovation",
+        "publisher": "CTech (Calcalist)",
+        "accessed": "2026-06-02",
+        "supports": "~$1M investment (15/85 split with IIA), portfolio count, acceptance rate, sectors, parent",
+        "quote": "invests about $1M in early-stage deep-tech startups for the first 2 years ... Incubit provides 15% of the financial investment with the Israel Innovation Authority (IIA) putting up 85% ... invested in 17 startups to date ... receives around 250 requests a year ... only 4-6 ultimately being offered a place"
+      },
+      {
+        "url": "https://incubitventures.com/about/",
+        "title": "About - Incubit Ventures",
+        "publisher": "Incubit Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Subsidiary of Elbit Systems; ~$1M / 2-year investment; deep-tech focus",
+        "quote": "a subsidiary of Elbit Systems ... about $1M in early-stage deep-tech startups for the first 2 years of operation"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Industrial CVC-incubator wholly owned by Elbit Systems; co-funded by Israel Innovation Authority. Portfolio count (17) and acceptance figures from the 2020 CTech article and may have grown. Equity % not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  },
+  {
+    "id": "il-union-tech-ventures",
+    "name": { "en": "Union Tech Ventures", "local": "יוניון טק ונצ'רס" },
+    "aka": ["Union Group tech investment arm"],
+    "type": "cvc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://uniontech.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/union-tech-ventures",
+      "other": ["https://finder.startupnationcentral.org/investor_page/union-tech-ventures", "https://uniontech.co.il/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["ai-ml", "fintech", "consumer", "hardware-semiconductor", "proptech"],
+      "thesis": "Technology investment arm of Union Group, a family-owned Israeli industrial/retail holding company (exclusive Toyota/Lexus/Hino distributor and H&M franchisee in Israel). Focuses on Series B/C in technology companies leveraging digital disruption of traditional industries."
+    },
+    "track_record": {
+      "portfolio_count": 24,
+      "notable_investments": [
+        { "company": "Mobileye", "sector": "mobility / ADAS", "outcome": "IPO" },
+        { "company": "Fiverr", "sector": "saas-enterprise / marketplace", "outcome": "IPO" },
+        { "company": "Riskified", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Taboola", "sector": "consumer / adtech", "outcome": "IPO" },
+        { "company": "SimilarWeb", "sector": "saas-enterprise", "outcome": "IPO" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "Tal Recanati", "role": "Managing Director" },
+      { "name": "Roxanne Horesh", "role": "Managing Director" },
+      { "name": "Idan Erdan", "role": "Principal" }
+    ],
+    "application": {
+      "how_to_apply": "Direct outreach via uniontech.vc.",
+      "accepts_cold_inbound": null,
+      "contact": "https://uniontech.vc/"
+    },
+    "tags": ["industrial-cvc", "retail-cvc", "family-holding", "israel"],
+    "summary": {
+      "en": "Union Tech Ventures is the technology investment arm of Union Group, a family-owned Israeli industrial/retail holding company (exclusive distributor of Toyota/Lexus/Hino and H&M franchisee in Israel). Launched in 2016 and based in Tel Aviv, it focuses on Series B/C tech and reports 24 companies, 8 exits and 4 IPOs — including Mobileye, Fiverr, Riskified, Taboola and SimilarWeb.",
+      "local": "יוניון טק ונצ'רס היא זרוע ההשקעות הטכנולוגיות של קבוצת יוניון, חברת אחזקות ישראלית משפחתית."
+    },
+    "sources": [
+      {
+        "url": "https://uniontech.vc/",
+        "title": "Home - Union Tech Ventures",
+        "publisher": "Union Tech Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, stage focus, portfolio/exit counts, people, portfolio companies",
+        "quote": "Launched in 2016 ... We focus on Series B and C and look to grow with our companies ... 24 Companies ... 8 Exits ... 4 IPO's ... Fiverr, Mobileye, Riskified, SimilarWeb, Taboola"
+      },
+      {
+        "url": "https://www.startuphub.ai/investors/union-tech-ventures/",
+        "title": "Union Tech Ventures - Investor Profile",
+        "publisher": "StartupHub.ai",
+        "accessed": "2026-06-02",
+        "supports": "Union Tech is the tech arm of Union Group, an Israeli holding company (Toyota distributor, H&M franchisee)",
+        "quote": "the technology investment arm of the Union Group ... the exclusive distributor of Toyota and Lexus cars and Hino trucks, as well as the exclusive franchisee of H&M in Israel"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Industrial/retail corporate VC via the Union Group family holding. AUM/fund size and check size not disclosed. Portfolio/exit counts from the firm's own website.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-finance-industrial"
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "id": "il-qumra-capital",
+    "name": { "en": "Qumra Capital", "local": "קומרה קפיטל" },
+    "aka": ["Qumra"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://qumracapital.com/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/qumra-capital",
+      "crunchbase": "https://www.crunchbase.com/organization/qumra-capital"
+    },
+    "capital": {
+      "aum": { "raw": "over $1Bn", "usd": 1000000000, "currency": "USD" },
+      "funds": [
+        { "name": "Qumra Capital III", "vintage_year": 2020, "size": { "raw": "$268 million", "usd": 268000000, "currency": "USD" } },
+        { "name": "Qumra Capital IV", "vintage_year": 2023, "size": { "raw": "$275 million", "usd": 275000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "check_size": { "raw": "$15 to $30 million", "usd_min": 15000000, "usd_max": 30000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "generalist"],
+      "thesis": "First Israeli VC focused on the Israeli late-stage market; backs highly analytical, data-driven companies with at least $10M in annualized revenues and helps them scale from $10M to $100M ARR and beyond toward global leadership."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Taboola", "sector": "adtech", "outcome": "IPO" },
+        { "company": "Riskified", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Minute Media", "sector": "media", "outcome": "active" },
+        { "company": "Buildots", "sector": "construction-tech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Erez Shachar", "role": "Co-Founder & Managing Partner" },
+      { "name": "Boaz Dinte", "role": "Co-Founder & Managing Partner" },
+      { "name": "Sharon Barzik Cohen", "role": "Partner" },
+      { "name": "Boaz Morris", "role": "Partner" }
+    ],
+    "summary": {
+      "en": "Tel Aviv-based late-stage / growth-equity firm, the first Israeli VC dedicated to the Israeli late-stage market. Leads Series C rounds of $20-60M with $15-30M checks into data-driven companies that have crossed roughly $10M ARR. Portfolio includes Taboola, Riskified, Minute Media and Buildots.",
+      "local": "קרן הון סיכון בשלב מאוחר (late-stage) שמטה בתל אביב, הראשונה בישראל שהתמקדה בשוק שלב הצמיחה המאוחר."
+    },
+    "sources": [
+      {
+        "url": "https://qumracapital.com/about/",
+        "title": "About Us | Qumra Capital",
+        "publisher": "Qumra Capital",
+        "accessed": "2026-06-02",
+        "supports": "AUM, check size, stage focus, revenue threshold, team",
+        "quote": "over $1Bn in assets under management ... We typically invest $15 to $30 million, leading C rounds of $20-60 million ... companies have achieved at least $10 million in annualized revenues ... from $10M to $100M ARR and beyond"
+      },
+      {
+        "url": "https://en.globes.co.il/en/article-qumra-capital-raises-275m-for-fourth-fund-1001455894",
+        "title": "Qumra Capital raises $275m for fourth fund",
+        "publisher": "Globes",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV $275M, Fund III $268M (2020), mature-stage focus",
+        "quote": "$275 million for its fourth fund ... high-tech companies at the mature stage ... Qumra's previous fund, raised in 2020, was $268 million"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/qumra-capital",
+        "title": "Qumra Capital - Crunchbase Company Profile",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2014, Tel Aviv HQ"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Official site states 'over $1Bn' AUM; some secondary sources (search aggregators) cite ~$800M. Used the official figure. Founding year 2014 corroborated by Crunchbase and Globes fund-vintage data.",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  },
+  {
+    "id": "il-viola-growth",
+    "name": { "en": "Viola Growth", "local": "ויולה גרות'" },
+    "aka": ["Viola Ventures Growth", "Viola Group - Growth"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2008,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Herzliya",
+    "website": "https://www.viola-group.com/fund/violagrowth/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/violagrowth"
+    },
+    "capital": {
+      "aum": { "raw": "~$1B AUM", "usd": 1000000000, "currency": "USD" },
+      "funds": [
+        { "name": "Viola Growth (2025 vintage)", "vintage_year": 2025, "size": { "raw": "first close ~$250M of $400M target", "usd": 250000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "check_size": { "raw": "$15M to $30M (reported)", "usd_min": 15000000, "usd_max": 30000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel", "Global"],
+      "sector_focus": ["saas-enterprise", "fintech", "healthtech", "proptech", "ecommerce"],
+      "thesis": "Israel's first and leading technology growth fund; invests in growth-stage Israeli companies poised to achieve category leadership, helping them scale and form global partnerships."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "SimilarWeb", "sector": "data-analytics", "outcome": "IPO" },
+        { "company": "Dynamic Yield", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Itamar Medical", "sector": "healthtech", "outcome": "acquired" },
+        { "company": "Guesty", "sector": "proptech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "SimilarWeb", "type": "IPO", "year": 2021, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Dynamic Yield", "type": "M&A", "year": 2019, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Harel Beit-On", "role": "Founder & General Partner" },
+      { "name": "Natalie Refuah", "role": "General Partner" },
+      { "name": "Igal Shany", "role": "General Partner" },
+      { "name": "Ayal Shiran", "role": "General Partner" }
+    ],
+    "summary": {
+      "en": "The dedicated growth fund of Tel Aviv/Herzliya-based Viola Group, founded 2008 with ~$1B AUM. Israel's first and largest technology growth fund, investing in growth-stage companies (enterprise software, fintech, healthcare, proptech, e-commerce) aiming for category leadership. Exits include SimilarWeb (IPO) and Dynamic Yield (acquired by McDonald's).",
+      "local": "קרן הצמיחה (Growth) של קבוצת ויולה, קרן הצמיחה הטכנולוגית הראשונה והגדולה בישראל."
+    },
+    "sources": [
+      {
+        "url": "https://www.viola-group.com/fund/violagrowth/",
+        "title": "Israel's first & leading technology growth fund",
+        "publisher": "Viola Group",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2008, ~$1B AUM, growth-stage focus, sectors, track record, team",
+        "quote": "Founded ... ~$1B AUM ... We invests in growth-stage start ups, poised to achieve category leadership ... over 36 investments and 12 successful exits"
+      },
+      {
+        "url": "https://www.calcalistech.com/ctechnews/article/sj0gvttgwe",
+        "title": "Viola Ventures raises $250 million to back Israel's next tech wave",
+        "publisher": "Calcalist (CTech)",
+        "accessed": "2026-06-02",
+        "supports": "2025 new fund first close ~$250M of $400M target, check size context",
+        "quote": "average check size ranges from $15M to $30M"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Reported AUM ranges from ~$725M (3 funds) to ~$1B (4 funds) across sources; used official site '~$1B'. Check-size figure ($15-30M) is from secondary search aggregation of CTech reporting. Viola Growth sits within the larger Viola Group which also runs Viola Ventures, Viola Credit and Viola Fintech.",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  },
+  {
+    "id": "il-israel-growth-partners",
+    "name": { "en": "Israel Growth Partners", "local": "אינווסט גרות' פרטנרס" },
+    "aka": ["IGP", "IGP Capital"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Herzliya",
+    "website": "https://www.igpcapital.com/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/israel-growth-partners",
+      "crunchbase": "https://www.crunchbase.com/organization/israel-growth-partners"
+    },
+    "capital": {
+      "aum": { "raw": "$800M Under Management", "usd": 800000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "check_size": { "raw": "$19M average at entry ($10M-$110M range)", "usd_min": 10000000, "usd_max": 110000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["saas-enterprise", "cybersecurity", "ai-ml", "generalist"],
+      "thesis": "Technology growth fund providing growth capital and hands-on value to Israeli-related tech companies at growth/expansion stage that have strong product differentiation and proven strategy at scale, helping them reach category leadership."
+    },
+    "track_record": {
+      "portfolio_count": 23,
+      "notable_investments": [
+        { "company": "Cellebrite", "sector": "cybersecurity", "outcome": "IPO" },
+        { "company": "HiBob", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "SafeBreach", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "D-Fend Solutions", "sector": "defense-tech", "outcome": "active" },
+        { "company": "Earnix", "sector": "fintech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Cellebrite", "type": "IPO", "year": 2021, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Moshe Lichtman", "role": "Co-Founder & General Partner" },
+      { "name": "Haim Shani", "role": "Co-Founder & General Partner" },
+      { "name": "Uri Erde", "role": "General Partner" },
+      { "name": "Yoni Levy", "role": "Partner" },
+      { "name": "Amir Oliker", "role": "Partner" }
+    ],
+    "summary": {
+      "en": "Herzliya-based technology growth-equity fund founded in 2014 by Moshe Lichtman and Haim Shani, backed by Israeli banks, insurers and pension funds. ~$800M under management across multiple funds; ~$19M average entry check ($10M-$110M range) into growth-stage Israeli-related tech. Portfolio includes Cellebrite (IPO), HiBob, SafeBreach and Earnix.",
+      "local": "קרן הון צמיחה טכנולוגית מהרצליה, נוסדה ב-2014 על ידי משה ליכטמן וחיים שני."
+    },
+    "sources": [
+      {
+        "url": "https://www.igpcapital.com/",
+        "title": "Israel Growth Partners (IGP)",
+        "publisher": "IGP Capital",
+        "accessed": "2026-06-02",
+        "supports": "AUM $800M, average/range check size, portfolio count, exits, team, growth-stage focus",
+        "quote": "$800M Under Management ... $19M Average Check at Entry ... $10M Smallest Investment ... $110M Largest Investment ... exceptional hi-tech companies at growth stage ... 8 Exits ... 2 IPOs"
+      },
+      {
+        "url": "https://leumipartners.com/portfolio/igp/",
+        "title": "IGP",
+        "publisher": "Leumi Partners",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2014 by Moshe Lichtman and Haim Shani, Herzliya, growth/late-stage, institutional backing",
+        "quote": "Israel Growth Partners (IGP) is a Private Equity investment firm founded in 2014 by Moshe Lichtman and Haim Shani"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Official site shows '$800M Under Management'; an earlier secondary source cited 'over $600M' — the $800M figure is the current official number. As of 2025 IGP was reportedly raising a new ~$250M fund (first close $100-150M).",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  },
+  {
+    "id": "il-hanaco-ventures",
+    "name": { "en": "Hanaco Ventures", "local": "האנקו" },
+    "aka": ["Hanaco", "Hanaco VC"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Herzliya",
+    "website": "https://hanacovc.com/",
+    "offices": [
+      { "country": "Israel", "city": "Herzliya" },
+      { "country": "United States", "city": "New York" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/hanaco-venture-capital",
+      "other": ["https://en.wikipedia.org/wiki/Hanaco_Ventures"]
+    },
+    "capital": {
+      "aum": { "raw": "over $2 billion", "usd": 2000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth", "series-c-plus"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel", "United States"],
+      "sector_focus": ["cybersecurity", "fintech", "ai-ml", "healthtech", "hardware-semiconductor"],
+      "thesis": "Invests in Israeli founders / Israel-related tech at both early and growth stages; runs parallel early-stage funds and late-stage growth funds targeting more mature companies with proven revenues, typically at pre-M&A or pre-IPO stages."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Moovit", "sector": "mobility", "outcome": "acquired" },
+        { "company": "Yotpo", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "DigitalOcean", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Lightricks", "sector": "ai-ml", "outcome": "active" },
+        { "company": "UVeye", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Alon Lifshitz", "role": "Co-Founder & General Partner" },
+      { "name": "Lior Prosor", "role": "Co-Founder & General Partner" },
+      { "name": "Gabi Heller", "role": "CFO & Partner" }
+    ],
+    "summary": {
+      "en": "Herzliya- and New York-based VC founded in 2017 by Alon Lifshitz (with Lior Prosor and Pasha Romanovski), managing over $2 billion. Runs both early-stage funds and dedicated late-stage growth funds targeting mature, revenue-generating companies at pre-M&A / pre-IPO stages. In June 2025 announced it would stop raising new capital and not launch follow-on funds.",
+      "local": "קרן הון סיכון מהרצליה וניו יורק, נוסדה ב-2017, מנהלת מעל 2 מיליארד דולר."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hanaco_Ventures",
+        "title": "Hanaco Ventures - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "AUM $2B, founded 2017, founders, early + late-stage growth fund structure, portfolio",
+        "quote": "Hanaco Ventures is an Israeli venture capital fund that manages over $2 billion in assets ... late-stage growth funds 'targeting more mature companies with proven revenues and growth, typically at pre-M&A or pre-IPO stages.'"
+      },
+      {
+        "url": "https://www.calcalistech.com/ctechnews/article/rkiocsqngl",
+        "title": "Hanaco Ventures winds down fundraising as founders chart new investment paths",
+        "publisher": "Calcalist (CTech)",
+        "accessed": "2026-06-02",
+        "supports": "$2B AUM, founded 2017, founders, wind-down of new fundraising",
+        "quote": "$2 billion ... is expected to stop raising new capital and will not raise a follow-on fund ... Alon Lifshitz, Lior Prosor, and Pasha Romanovski"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Classified as multi-stage VC with a substantial dedicated late-stage growth program (hence growth-equity subtype). Co-founder Pasha Romanovski departed in 2024. Firm is winding down new fundraising as of June 2025 but continues managing its portfolio, so status remains 'active'.",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  },
+  {
+    "id": "il-pitango-growth",
+    "name": { "en": "Pitango Growth", "local": "פיטנגו גרות'" },
+    "aka": ["Pitango Growth Fund", "Pitango VC - Growth"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 1993,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.pitango.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/pitango-venture-capital",
+      "other": ["https://en.wikipedia.org/wiki/Pitango"]
+    },
+    "capital": {
+      "aum": { "raw": "USD $3 billion (Pitango firm-wide, 2025)", "usd": 3000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel", "Global"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "deeptech", "generalist"],
+      "thesis": "Pitango Growth is the dedicated growth-stage vehicle of Pitango VC (alongside Pitango First and Pitango HealthTech), investing in later-stage / scaling core-technology companies."
+    },
+    "track_record": {
+      "portfolio_count": "300+ (Pitango firm-wide)"
+    },
+    "people": [
+      { "name": "Rami Kalish", "role": "Co-Founder & Managing General Partner" },
+      { "name": "Chemi Peres", "role": "Co-Founder & Managing General Partner" }
+    ],
+    "summary": {
+      "en": "The growth-stage fund of Pitango, Israel's largest and one of its oldest VCs (founded 1993, ~$3B firm-wide AUM, 300+ companies). Pitango operates three parallel vehicles — Pitango First (early-stage), Pitango Growth (growth/late-stage) and Pitango HealthTech — with Pitango Growth focused on scaling later-stage companies.",
+      "local": "קרן הצמיחה של פיטנגו, אחת מקרנות ההון סיכון הוותיקות והגדולות בישראל (נוסדה 1993)."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Pitango",
+        "title": "Pitango - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founded 1993, founders, ~$3B AUM, 300+ companies, three funds incl. Pitango Growth (growth-stage)",
+        "quote": "USD $3 billion (as of 2025) ... invested in more than 300 companies ... Pitango First (early-stage) ... Pitango HealthTech ... Pitango Growth (growth-stage investments) ... Founders: Rami Kalish and Chemi Peres ... 1993"
+      },
+      {
+        "url": "https://www.altassets.net/private-equity-news/by-pe-sector/venturegrowth/israels-pitango-returns-with-sequel-to-250m-targeting-growth-fund.html",
+        "title": "Israel's Pitango returns with sequel to $250m-targeting growth fund",
+        "publisher": "AltAssets",
+        "accessed": "2026-06-02",
+        "supports": "Pitango Growth is a distinct growth-stage fund with multiple generations"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM and portfolio counts are firm-wide for Pitango VC; Pitango Growth is the late-stage sub-fund. Individual Pitango Growth fund sizes are reported around the $250-300M range per vintage but exact current-fund size was not confirmed from a primary source, so left null at the fund level. Entry listed under growth-equity because of the dedicated growth mandate; Pitango overall is multi-stage.",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  },
+  {
+    "id": "il-vintage-investment-partners",
+    "name": { "en": "Vintage Investment Partners", "local": "וינטג' אינווסטמנט פרטנרס" },
+    "aka": ["Vintage IP", "Vintage"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2003,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Herzliya",
+    "website": "https://vintage-ip.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/vintage-investment-partners"
+    },
+    "capital": {
+      "aum": { "raw": "$4.6B Under management", "usd": 4600000000, "currency": "USD" },
+      "funds": [
+        { "name": "Vintage Growth IV", "vintage_year": 2024, "size": { "raw": "$200 million", "usd": 200000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel", "Europe", "United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "generalist"],
+      "thesis": "Global venture platform combining fund-of-funds, secondaries and direct growth/co-investment strategies. Its growth funds invest alongside its network of tier-one VC funds in 15-20 leading Israeli, European and U.S. growth-stage technology startups per fund."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Alan Feld", "role": "Founder & Managing Partner" }
+    ],
+    "summary": {
+      "en": "Herzliya-based global venture platform founded in 2003 with ~$4.6B AUM across fund-of-funds, secondary and direct growth/co-investment strategies. Its dedicated Growth funds (Growth IV closed at $200M in 2024, the firm's 16th fund) co-invest with tier-one VCs into 15-20 growth-stage Israeli, European and U.S. startups each.",
+      "local": "פלטפורמת ונצ'ר גלובלית מהרצליה, נוסדה ב-2003, עם אסטרטגיות fund-of-funds, סקנדרי וצמיחה."
+    },
+    "sources": [
+      {
+        "url": "https://vintage-ip.com/",
+        "title": "Vintage IP - Vintage Investment Partners",
+        "publisher": "Vintage Investment Partners",
+        "accessed": "2026-06-02",
+        "supports": "AUM $4.6B, three strategies including growth/co-investment",
+        "quote": "$4.6B Under management ... We invest together with our funds in growth rounds of their most promising companies."
+      },
+      {
+        "url": "https://vintage-ip.com/news/vintage-surpasses-target-raising-200m-growth-iv-fund/",
+        "title": "Vintage Surpasses Target, Raising $200M Growth IV Fund",
+        "publisher": "Vintage Investment Partners",
+        "accessed": "2026-06-02",
+        "supports": "Growth IV $200M, 15-20 growth-stage companies Israel/Europe/US, 16th fund, ~$4B AUM at time",
+        "quote": "close of Vintage's 4th Growth-Stage Venture Fund (Growth IV) at $200 million, above its target ... will invest in 15-20 leading Israeli, European, and U.S. growth-stage technology startups ... our 16th fund overall ... total assets under management to roughly $4 billion"
+      },
+      {
+        "url": "https://www.timesofisrael.com/israels-vintage-investment-partners-raises-812m-for-two-new-funds/",
+        "title": "Israel's Vintage Investment Partners raises $812m for two new funds",
+        "publisher": "Times of Israel",
+        "accessed": "2026-06-02",
+        "supports": "Herzliya HQ, fund-of-funds and secondary strategy"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded year 2003 from secondary sources (Crunchbase/PR); not on the homepage. AUM grew from 'roughly $4 billion' at Growth IV close to '$4.6B' on the current site. Included as growth-equity because of its dedicated growth/co-investment funds, though the firm is primarily a fund-of-funds/secondaries platform.",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  },
+  {
+    "id": "il-claridge-israel",
+    "name": { "en": "Claridge Israel", "local": "קלרידג' ישראל" },
+    "aka": ["Claridge"],
+    "type": "growth-equity",
+    "subtypes": ["family-office"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Herzliya",
+    "website": "https://claridgeil.com/",
+    "links": {
+      "other": ["https://finder.startupnationcentral.org/investor_page/claridge"]
+    },
+    "capital": {
+      "aum": { "raw": "more than $800M invested in Israel over the last twenty years", "usd": 800000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "check_size": { "raw": "$10m - $40m equity contribution", "usd_min": 10000000, "usd_max": 40000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist", "saas-enterprise", "consumer"],
+      "thesis": "Long-term, evergreen growth investor backed by the Stephen Bronfman family office; makes minority or majority investments in late-stage growth companies with technological depth and strong, defensible market positions."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Oded Tal", "role": "Co-Founder & Managing Partner" }
+    ],
+    "summary": {
+      "en": "Herzliya-based growth-equity / family-office investor backed by the Stephen Bronfman family (Claridge Inc.) and partners including the Wener and Bensadoun family offices. Has invested more than $800M in Israel over ~20 years, making $10-40M minority or majority investments in late-stage growth companies with an evergreen, no-fixed-fund-life approach.",
+      "local": "משקיע הון צמיחה / משרד משפחתי מהרצליה, מגובה במשפחת ברונפמן (Claridge Inc.)."
+    },
+    "sources": [
+      {
+        "url": "https://claridgeil.com/",
+        "title": "Claridge Israel",
+        "publisher": "Claridge Israel",
+        "accessed": "2026-06-02",
+        "supports": "$800M invested over 20 years, $10-40M checks, late-stage growth focus, Bronfman backing, Herzliya HQ",
+        "quote": "Claridge has invested more than $800M in Israel over the last twenty years ... Minority or majority investments of between $10m - $40m equity contribution ... late-stage growth companies"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year not disclosed (evergreen vehicle with no fixed fund timelines; ~20-year track record implies early-2000s start). Backed by Stephen Bronfman family office; a CDPQ co-investment partnership appears in some secondary sources but is not stated on the current site — left out of the structured fields.",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  },
+  {
+    "id": "il-maor-investments",
+    "name": { "en": "Maor Investments", "local": "מאור אינווסטמנטס" },
+    "aka": ["Maor", "MAOR"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://maorinvestments.com/",
+    "offices": [
+      { "country": "Israel", "city": "Tel Aviv" },
+      { "country": "Luxembourg", "city": "Luxembourg" }
+    ],
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/maor-investments",
+      "crunchbase": "https://www.crunchbase.com/organization/maor"
+    },
+    "capital": {
+      "aum": { "raw": "~$280M across two funds", "usd": 280000000, "currency": "USD" },
+      "funds": [
+        { "name": "MAOR I", "vintage_year": 2018, "size": { "raw": "~$100M", "usd": 100000000, "currency": "USD" } },
+        { "name": "MAOR II", "vintage_year": 2023, "size": { "raw": "$180M", "usd": 180000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-b", "series-c-plus"],
+      "check_size": { "raw": "$6M-$10M per deal (reported)", "usd_min": 6000000, "usd_max": 10000000 },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist", "saas-enterprise", "ai-ml", "healthtech"],
+      "thesis": "European-Israeli growth fund co-investing in revenue-generating Israeli tech companies with established proof of concept that need to scale up; provides access to a network of European corporates and family offices (cornerstone investor Rothschild & Co)."
+    },
+    "track_record": {
+      "portfolio_count": "30+",
+      "notable_investments": [
+        { "company": "Aidoc", "sector": "healthtech", "outcome": "active" },
+        { "company": "Coralogix", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "WSC Sports", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Quantum Machines", "sector": "deeptech", "outcome": "active" },
+        { "company": "Silverfort", "sector": "cybersecurity", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Philippe Guez", "role": "Co-Founder & Managing Partner" },
+      { "name": "Eric Elalouf", "role": "Co-Founder & Managing Partner" }
+    ],
+    "summary": {
+      "en": "European-Israeli growth fund (Tel Aviv + Luxembourg) founded 2018 by Philippe Guez and Eric Elalouf, with Rothschild & Co as cornerstone investor. Co-invests $6-10M into revenue-generating, scaling Israeli tech companies. Has raised ~$280M across MAOR I (~$100M) and MAOR II ($180M, closed 2023). Portfolio includes Aidoc, Coralogix, WSC Sports and Quantum Machines.",
+      "local": "קרן צמיחה אירופית-ישראלית (תל אביב ולוקסמבורג), נוסדה ב-2018, עם רוטשילד כמשקיע עוגן."
+    },
+    "sources": [
+      {
+        "url": "https://maorinvestments.com/",
+        "title": "Maor Investments – Investing in Israeli Technology",
+        "publisher": "Maor Investments",
+        "accessed": "2026-06-02",
+        "supports": "Tel Aviv + Luxembourg, revenue-generating scale-up stage focus, portfolio, two funds (MAOR I, MAOR II)",
+        "quote": "revenue-generating Israeli tech companies with an established proof of concept and a need to scale up ... MAOR 1 SLP-SERIES 1 ... MAOR SLP SICAV.RAIF.FUND II"
+      },
+      {
+        "url": "https://www.businesswire.com/news/home/20231019078844/en/MAOR-INVESTMENTS-Announces-the-Closing-of-Its-Second-Fund-at-$180M-1.8x-the-Size-of-MAOR-I",
+        "title": "MAOR INVESTMENTS Announces the Closing of Its Second Fund at $180M, 1.8x the Size of MAOR I",
+        "publisher": "Business Wire",
+        "accessed": "2026-06-02",
+        "supports": "MAOR II = $180M, 1.8x MAOR I (implying MAOR I ~$100M)",
+        "quote": "Closing of Its Second Fund at $180M, 1.8x the Size of MAOR I"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year reported as 2017 by some sources and 2018 by others; used 2018 (most common). MAOR I size (~$100M) is inferred from the official '$180M = 1.8x MAOR I' statement. Check-size $6-10M is from secondary aggregation, not a primary quote.",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  },
+  {
+    "id": "il-fortissimo-capital",
+    "name": { "en": "Fortissimo Capital", "local": "פורטיסימו קפיטל" },
+    "aka": ["Fortissimo"],
+    "type": "growth-equity",
+    "subtypes": ["family-office"],
+    "status": "active",
+    "founded_year": 2004,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.ffcapital.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/fortissimo-capital",
+      "crunchbase": "https://www.crunchbase.com/organization/fortissimo-capital"
+    },
+    "capital": {
+      "aum": { "raw": "$2.7B+ total money raised", "usd": 2700000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fortissimo Capital Fund V", "vintage_year": 2019, "size": { "raw": "$650 million", "usd": 650000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["saas-enterprise", "deeptech", "hardware-semiconductor", "generalist"],
+      "thesis": "Private equity fund investing primarily in maturing technology and industrial companies via special situations, buyouts and growth capital — typically at a point of inflection."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Cellcom", "sector": "telecom", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Yuval Cohen", "role": "Founding & Managing Partner" }
+    ],
+    "summary": {
+      "en": "Tel Aviv-based private equity fund founded in 2004, with $2.7B+ raised across 6 funds (Fund V closed at $650M in 2019). Invests in maturing Israeli technology and industrial companies via buyouts, special situations and growth capital. Sits at the buyout/growth-equity boundary of the late-stage segment.",
+      "local": "קרן פרייבט אקוויטי מתל אביב, נוסדה ב-2004, גייסה מעל 2.7 מיליארד דולר."
+    },
+    "sources": [
+      {
+        "url": "https://www.ffcapital.com/",
+        "title": "Fortissimo Capital",
+        "publisher": "Fortissimo Capital",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2004, $2.7B+ raised, 6 funds, technology + industrial, growth capital/buyout focus",
+        "quote": "$2.7B+ ... Founded ... 2004 ... 6 Funds to date ... investing primarily in technology and industrial companies ... special situations, buyouts, and growth capital"
+      },
+      {
+        "url": "https://www.prnewswire.com/news-releases/fortissimo-capital-fund-closes-its-fifth-fund-with-650-million-300998399.html",
+        "title": "Fortissimo Capital Fund Closes Its Fifth Fund With $650 Million",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-02",
+        "supports": "Fund V = $650M",
+        "quote": "Fortissimo Capital Fund Closes Its Fifth Fund With $650 Million"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Sits on the buyout/growth-equity boundary: invests in maturing tech and industrial companies via buyouts and growth capital. Included because of its explicit growth-capital and late-stage tech mandate. Key partner (Yuval Cohen) from widely reported public sources; not individually confirmed on the homepage at fetch time.",
+    "last_updated": "2026-06-02",
+    "researched_by": "growth-late-vc"
+  }
+]

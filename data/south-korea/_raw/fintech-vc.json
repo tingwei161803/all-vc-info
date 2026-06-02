@@ -1,0 +1,708 @@
+[
+  {
+    "id": "kr-fintech-innovation-fund",
+    "name": {
+      "en": "Fintech Innovation Fund",
+      "local": "핀테크 혁신펀드"
+    },
+    "aka": ["Fintech Innovation Fund of Funds", "핀테크혁신펀드"],
+    "type": "government-program",
+    "subtypes": ["fund-of-funds"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.kgrowth.or.kr",
+    "links": {
+      "other": [
+        "https://fintech.or.kr/web/intropage/intropageShow.do?page_id=3922f600eef94c9e807c8ce2b7cce951",
+        "https://www.fsc.go.kr/eng/pr010101/22360"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "KRW 1 trillion target over 2020-2027 (Fund 1: KRW 513.3bn; Fund 2: KRW 500bn)", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Fintech Innovation Fund 1 (1호)", "vintage_year": 2020, "size": { "raw": "KRW 513.3bn raised (2020-2023)", "usd": null, "currency": "KRW" } },
+        { "name": "Fintech Innovation Fund 2 (2호)", "vintage_year": 2024, "size": { "raw": "KRW 500bn (2024-2027)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["fintech"],
+      "thesis": "Government-led fund-of-funds, jointly capitalized by Korea's major financial holding companies and banks plus KOSCOM and d.camp, that selects and commits to sub-fund managers (위탁운용사) so they form blind and project funds investing at least 60% into fintech startups, from early-stage through scale-up and overseas expansion."
+    },
+    "track_record": {
+      "portfolio_count": "85 fintech startups (Fund 1)",
+      "notable_investments": [
+        { "company": "Bankware Global", "sector": "fintech", "outcome": "IPO (KOSDAQ 2024, via Korea Investment Partners sub-fund)" }
+      ]
+    },
+    "people": [],
+    "summary": {
+      "en": "Korea's government-led fintech fund-of-funds, established Dec 2019 and operated via Korea Growth Investment Corp (한국성장금융). It pools capital from major banks/financial holding companies (KB, NH, Shinhan, Woori, Hana, BNK, DGB), KOSCOM and d.camp, then commits to selected VC/accelerator sub-fund managers that build fintech-focused funds. Fund 1 (2020-2023) raised KRW 513.3bn and supplied KRW 282.4bn to 85 fintech startups; Fund 2 (2024-2027) targets KRW 500bn with Naver Financial and Kakao Pay added as anchor LPs, bringing the program to ~KRW 1tn over eight years.",
+      "local": "금융위원회 주도로 2019년 12월 설립된 핀테크 전용 재간접펀드(Fund of Funds)로, 한국성장금융투자운용이 운용한다. KB·NH·신한·우리·하나·BNK·DGB 등 금융기관과 코스콤, 디캠프가 출자하여 모펀드를 조성하고, 위탁운용사를 선정해 핀테크 자펀드를 결성하도록 한다. 1호('20~'23)는 총 5,133억원을 조성해 85개 핀테크 스타트업에 2,824억원을 공급했고, 2호('24~'27)는 5,000억원 규모로 네이버파이낸셜·카카오페이가 출자기관으로 참여했다."
+    },
+    "sources": [
+      {
+        "url": "https://www.fsc.go.kr/eng/pr010101/22360",
+        "title": "Fintech Innovation Fund to Invest More than KRW85.5 billion",
+        "publisher": "Financial Services Commission",
+        "accessed": "2026-06-02",
+        "supports": "founding date, size, operators, sub-fund managers",
+        "quote": "The fintech innovation fund in the amount of KRW300 billion for a 4-year period (2020-2023)... Created on December 23, 2019, led by major financial holding companies, banks and Koscom... Korea Investment Partners and KB Investment have been selected as the designated fund management companies for this year with each managing KRW22.5 billion"
+      },
+      {
+        "url": "https://fintech.or.kr/web/intropage/intropageShow.do?page_id=3922f600eef94c9e807c8ce2b7cce951",
+        "title": "핀테크 혁신펀드 소개 - 핀테크 포털",
+        "publisher": "Fintech Center Korea / 한국핀테크지원센터",
+        "accessed": "2026-06-02",
+        "supports": "Fund 1 size and outcomes, Fund 2 size and new anchor LPs",
+        "quote": "1호 펀드('20~'23)를 통해 4년간 총 5,133억원을 조성하고, 총 85개 핀테크 스타트업에 2,824억의 투자자금을 공급... 2호 펀드를 5,000억원 규모로 조성... 빅테크 기업(네이버파이낸셜, 카카오페이)도 모펀드 출자기관으로 참여"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Total figures evolved over time; FSC's 2019 English release cites an initial KRW 300bn that later expanded. Fund 1 final size (KRW 513.3bn) and Fund 2 (KRW 500bn) come from the Fintech Center Korea portal. USD conversions left null (figures span multiple years/FX).",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "kr-plux-ventures",
+    "name": {
+      "en": "Plux Ventures",
+      "local": "플럭스벤처스"
+    },
+    "aka": ["Flux Ventures", "플럭스벤처스 주식회사"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://www.plux.vc/",
+    "links": {
+      "other": ["https://thevc.kr/pluxventures"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Mirae Asset-Plux Fintech Innovation Investment Fund (미래에셋-플럭스 핀테크 혁신투자조합)", "vintage_year": 2022, "size": { "raw": "KRW 30bn", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["fintech"],
+      "thesis": "Boutique fintech-focused VC founded by former Samsung Venture Investment fintech examiner Bae Sangchul; aims to back growth-stage fintech companies (rather than only early Series-A-and-before startups) to cultivate domestic fintech unicorns."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Bae Sangchul (배상철)", "role": "CEO / Founder" }
+    ],
+    "summary": {
+      "en": "Plux Ventures (플럭스벤처스, English brand 'Flux Ventures') is a Seoul boutique VC established December 2021 and registered as a startup-investment company in January 2022 by Bae Sangchul, a former Mirae Asset / Samsung asset-management fund manager and Samsung Venture Investment fintech examiner. Within a quarter of registering it was selected as a Korea Growth Finance blind-fund manager and co-formed a KRW 30bn fintech innovation fund with Mirae Asset Venture Investment, with at least 60% earmarked for fintech and a focus on growth-stage companies.",
+      "local": "플럭스벤처스는 삼성벤처투자 핀테크 심사역 출신 배상철 대표가 2021년 12월 설립하고 2022년 1월 창업투자회사로 등록한 서울 소재 핀테크 전문 벤처캐피탈이다. 등록 1분기 만에 한국성장금융 블라인드펀드 운용사로 선정돼 미래에셋벤처투자와 공동으로 300억원 규모 핀테크 혁신펀드를 결성했으며, 결성액의 60% 이상을 핀테크 기업, 특히 성장 단계 기업에 투자한다."
+    },
+    "sources": [
+      {
+        "url": "https://www.hankyung.com/article/202212054366i",
+        "title": "미래에셋벤처투자-플럭스벤처스, 300억원 핀테크 혁신펀드 결성",
+        "publisher": "한국경제 (Hankyung)",
+        "accessed": "2026-06-02",
+        "supports": "fund size, co-GP structure, fintech 60% mandate, growth-stage focus, founder",
+        "quote": "300억원 블라인드펀드로, 한국성장금융이 150억원을 앵커 출자자로 참여... 미래에셋벤처투자와 플럭스벤처스가 공동 업무집행조합원(Co-GP)... 핀테크 기업에 결성금액의 60% 이상을 투자... 성장 단계의 기업에 적극적으로 투자해 국내 핀테크 '유니콘' 기업을 육성"
+      },
+      {
+        "url": "http://www.plux.vc/",
+        "title": "플럭스벤처스 공식 웹사이트",
+        "publisher": "Plux Ventures",
+        "accessed": "2026-06-02",
+        "supports": "headquarters address, contact",
+        "quote": "Teheran-ro 138, 7th floor, Gangnam-gu, Seoul, South Korea"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding month (Dec 2021) and VC registration (Jan 2022) corroborated by secondary reporting; the firm's own site is sparse and does not list fund sizes or portfolio. Treated as a genuine pure-play fintech VC.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "kr-korea-investment-partners-fintech",
+    "name": {
+      "en": "Korea Investment Partners",
+      "local": "한국투자파트너스"
+    },
+    "aka": ["KIP", "한투파트너스"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1986,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://partners.koreainvestment.com/",
+    "links": {
+      "other": ["https://thevc.kr/koreainvestmentpartners"]
+    },
+    "capital": {
+      "aum": { "raw": "approx. KRW 2.9 trillion", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Korea Investment Fintech Innovation Fund (한국투자 핀테크 혁신펀드)", "vintage_year": 2020, "size": { "raw": "KRW 24bn (KRW 240억)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "geo_focus": ["South Korea", "Asia"],
+      "sector_focus": ["fintech", "generalist"],
+      "thesis": "Korea's largest independent VC; runs a dedicated fintech vehicle as a Fintech Innovation Fund sub-fund manager, the first GP in the program to take a fintech portfolio company public."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Bankware Global (뱅크웨어글로벌)", "sector": "fintech", "outcome": "IPO (KOSDAQ, 12 Aug 2024)" }
+      ]
+    },
+    "people": [
+      { "name": "Hwang Man-soon", "role": "CEO" }
+    ],
+    "summary": {
+      "en": "Korea Investment Partners, founded 1986 and Korea's largest independent VC (~KRW 2.9tn AUM), was selected as a Fintech Innovation Fund sub-fund manager in April 2020 and formed the KRW 24bn 'Korea Investment Fintech Innovation Fund' in July 2020. It invested in core-banking-platform maker Bankware Global, which listed on KOSDAQ in Aug 2024 — the first fintech portfolio company across the program's GPs to IPO.",
+      "local": "1986년 설립된 한국 최대 독립계 벤처캐피탈(운용자산 약 2.9조원)로, 2020년 4월 핀테크혁신펀드 자펀드 위탁운용사로 선정돼 같은 해 7월 240억원 규모의 '한국투자 핀테크 혁신펀드'를 결성했다. 코어뱅킹 플랫폼 기업 뱅크웨어글로벌에 투자했고, 동 기업이 2024년 8월 코스닥에 상장하며 핀테크혁신펀드 운용사 중 첫 핀테크 IPO 성과를 냈다."
+    },
+    "sources": [
+      {
+        "url": "http://www.newstopkorea.com/news/articleView.html?idxno=23455",
+        "title": "한투파트너스, '핀테크혁신펀드' 1호 상장 일궜다",
+        "publisher": "뉴스톱 / Newstop Korea",
+        "accessed": "2026-06-02",
+        "supports": "fund size, vintage, Bankware Global investment and IPO, first-GP-to-IPO claim",
+        "quote": "2020년 7월 240억원 규모로 조성한 '한국투자 핀테크 혁신펀드'... 3년 전 투자한 뱅크웨어글로벌이 기술특례 상장으로 코스닥 입성을 앞두고 있습니다"
+      },
+      {
+        "url": "https://www.crunchbase.com/hub/south-korea-venture-capital-investors",
+        "title": "South Korea Venture Capital Investors",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "KIP founding year and scale",
+        "quote": "Korea Investment Partners has provided venture capital and private equity to entrepreneurs in industries ranging from biotech and healthcare to media and fintech"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "KIP is a generalist VC; included for this segment because it runs a dedicated fintech fund as a Fintech Innovation Fund GP. AUM (~KRW 2.9tn) and 1986 founding from Korean-language secondary sources. Fund size reported as both 'KRW 24bn' (FSC, per-manager allocation) and '240억' in Newstop — both equal KRW 24bn / KRW 240억.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "kr-kb-investment-fintech",
+    "name": {
+      "en": "KB Investment",
+      "local": "KB인베스트먼트"
+    },
+    "aka": ["KBIC", "케이비인베스트먼트"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 1990,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://www.kbic.co.kr/",
+    "links": {
+      "other": ["https://thevc.kr/kbinvestment"]
+    },
+    "capital": {
+      "aum": { "raw": "over USD 2.6 billion", "usd": 2600000000, "currency": "USD" },
+      "funds": [
+        { "name": "2020 KB Fintech Renaissance Investment Fund (2020 케이비 핀테크 르네상스 투자조합)", "vintage_year": 2020, "size": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["fintech", "saas-enterprise", "healthtech", "consumer", "ecommerce"],
+      "thesis": "Venture-capital arm of KB Financial Group; one of the first two Fintech Innovation Fund sub-fund managers (2020) and runs a dedicated fintech vehicle alongside SaaS, commerce, healthcare and consumer investing."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [],
+    "summary": {
+      "en": "KB Investment (KBIC), founded 1990, is the VC/PE arm of KB Financial Group with over USD 2.6bn AUM. It was one of the first two Fintech Innovation Fund sub-fund managers selected in 2020 (each allocated KRW 22.5bn) and runs the '2020 KB Fintech Renaissance Fund' (now in wind-down). KB Investment invests across SaaS, commerce, healthcare, consumer and fintech.",
+      "local": "1990년 설립된 KB금융그룹의 벤처캐피탈로 운용자산 26억 달러 이상을 보유한다. 2020년 핀테크혁신펀드 최초 위탁운용사 2곳 중 하나로 선정(각 225억원 배정)됐으며, '2020 케이비 핀테크 르네상스 투자조합'을 운용했다(현재 청산 절차 진행). SaaS·커머스·헬스케어·컨슈머·핀테크 분야에 투자한다."
+    },
+    "sources": [
+      {
+        "url": "https://www.fsc.go.kr/eng/pr010101/22360",
+        "title": "Fintech Innovation Fund to Invest More than KRW85.5 billion",
+        "publisher": "Financial Services Commission",
+        "accessed": "2026-06-02",
+        "supports": "selection as fintech innovation fund GP, KRW 22.5bn allocation",
+        "quote": "Korea Investment Partners and KB Investment have been selected as the designated fund management companies for this year with each managing KRW22.5 billion"
+      },
+      {
+        "url": "https://koreatechdesk.com/top-korean-venture-capital-firms-backing-startup-success",
+        "title": "Top Korean Venture Capital Firms Backing Startup Success",
+        "publisher": "KoreaTechDesk",
+        "accessed": "2026-06-02",
+        "supports": "founding year, AUM",
+        "quote": "KB Investment Co., Ltd. (KBIC), founded in 1990, is one of Korea's leading investment firms of venture capital and private equity funds with over USD 2.6 Billion of asset under management"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "KB Investment is a generalist financial-group CVC; included because it was an inaugural Fintech Innovation Fund GP and runs a named fintech fund. The '2020 KB Fintech Renaissance Fund' size was not disclosed in sources found (left null). Classified cvc (KB Financial Group affiliate) with vc subtype.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "kr-mirae-asset-venture-investment-fintech",
+    "name": {
+      "en": "Mirae Asset Venture Investment",
+      "local": "미래에셋벤처투자"
+    },
+    "aka": ["미래에셋벤처투자"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.miraeassetventures.com/",
+    "links": {
+      "other": ["https://thevc.kr/miraeassetventureinvestment"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Mirae Asset-Plux Fintech Innovation Investment Fund (미래에셋-플럭스 핀테크 혁신투자조합)", "vintage_year": 2022, "size": { "raw": "KRW 30bn", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["fintech", "generalist"],
+      "thesis": "Generalist VC under the Mirae Asset group; co-GP with Plux Ventures of a KRW 30bn Fintech Innovation Fund sub-fund targeting growth-stage fintech."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Oh Sebum (오세범)", "role": "Senior Investment Manager / Co-fund manager of the fintech fund" }
+    ],
+    "summary": {
+      "en": "Mirae Asset Venture Investment is a generalist VC in the Mirae Asset group. In December 2022 it co-formed, as Co-GP with fintech boutique Plux Ventures, a KRW 30bn 'Mirae Asset-Plux Fintech Innovation Fund' selected by Korea Growth Finance under the Fintech Innovation Fund program, with Korea Growth Finance as KRW 15bn anchor and LPs including Samsung Securities, Hana Bank and Shinhan Capital; at least 60% is earmarked for fintech, focused on growth-stage companies.",
+      "local": "미래에셋그룹 계열의 종합 벤처캐피탈로, 2022년 12월 핀테크 전문 플럭스벤처스와 공동 GP로 300억원 규모 '미래에셋-플럭스 핀테크 혁신펀드'를 결성해 한국성장금융 핀테크혁신펀드 위탁운용사로 선정됐다. 한국성장금융이 150억원을 앵커 출자했고 삼성증권·하나은행·신한캐피탈 등이 LP로 참여했으며, 결성액의 60% 이상을 성장 단계 핀테크 기업에 투자한다."
+    },
+    "sources": [
+      {
+        "url": "https://www.hankyung.com/article/202212054366i",
+        "title": "미래에셋벤처투자-플럭스벤처스, 300억원 핀테크 혁신펀드 결성",
+        "publisher": "한국경제 (Hankyung)",
+        "accessed": "2026-06-02",
+        "supports": "fund size, co-GP, anchor and LPs, fintech 60% mandate, growth focus, fund manager",
+        "quote": "300억원 블라인드펀드로, 한국성장금융이 150억원을 앵커 출자자로 참여... 미래에셋벤처투자와 플럭스벤처스가 공동 업무집행조합원(Co-GP)... 오세범 미래에셋벤처투자 수석심사역이 대표 매니저... 핀테크 기업에 결성금액의 60% 이상을 투자"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Generalist VC; included for this segment only because of its co-GP role in a dedicated KRW 30bn fintech fund. Founding year and firm-wide AUM not verified in sources found (left null).",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "kr-infobank-iaccel-fintech",
+    "name": {
+      "en": "Infobank iAccel",
+      "local": "인포뱅크 아이엑셀"
+    },
+    "aka": ["iAccel", "아이엑셀", "Infobank"],
+    "type": "accelerator",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seongnam",
+    "website": "https://www.infobank.net/iaccel",
+    "links": {
+      "other": ["https://thevc.kr/infobank"]
+    },
+    "capital": {
+      "aum": { "raw": "approx. KRW 1,100억 (as of Feb 2025)", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Infobank Fintech Innovation Fund 1 (인포뱅크 핀테크 혁신펀드 1호)", "vintage_year": 2022, "size": { "raw": "KRW 100억", "usd": null, "currency": "KRW" } },
+        { "name": "Infobank Early-Stage Innovation Fund 1 (인포뱅크 창업초기 혁신펀드 1호)", "vintage_year": 2022, "size": { "raw": "KRW 175억", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["fintech", "generalist", "deeptech"],
+      "thesis": "Corporate accelerator (investment arm of KOSDAQ-listed Infobank) and TIPS operator; runs a dedicated KRW 100억 fintech innovation fund investing in early-stage fintech and d.camp-affiliated companies, alongside broader early/deep-tech funds."
+    },
+    "program": {
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "eligibility": "Early-stage fintech and deep-tech startups; TIPS-track companies"
+    },
+    "track_record": {
+      "portfolio_count": "over 320 companies (iAccel cumulative)",
+      "notable_investments": [
+        { "company": "Toss (Viva Republica)", "sector": "fintech", "outcome": "active (Toss/Viva Republica is an LP in iAccel funds; early portfolio relationship)" }
+      ]
+    },
+    "people": [],
+    "summary": {
+      "en": "iAccel is the startup-investment division (est. 2014, investing since 2016) of KOSDAQ-listed Infobank, operating as an accelerator and TIPS operator. In 2022 it was selected to run a KRW 100억 'Infobank Fintech Innovation Fund 1' (backed by d.camp and Korea Growth Finance under the Fintech Innovation Fund) plus a KRW 175억 early-stage fund, for KRW 275억 combined; its total AUM reached ~KRW 1,100억 by Feb 2025. The fintech fund targets early-stage fintech-tech companies and d.camp-affiliated firms.",
+      "local": "iAccel(아이엑셀)은 코스닥 상장사 인포뱅크의 투자사업부(2014년 설립, 2016년부터 투자)로 액셀러레이터이자 TIPS 운용사다. 2022년 디캠프·한국성장금융의 핀테크혁신펀드가 출자한 100억원 규모 '인포뱅크 핀테크 혁신펀드 1호'와 175억원 규모 '창업초기 혁신펀드 1호'를 결성해 총 275억원 규모 펀드를 운용했고, 2025년 2월 기준 AUM이 약 1,100억원에 이르렀다. 핀테크 펀드는 핀테크 기반 우수기술 보유 창업초기 기업과 디캠프 연관 기업에 투자한다."
+    },
+    "sources": [
+      {
+        "url": "https://www.infobank.net/news/?bmode=view&idx=12977230",
+        "title": "인포뱅크, 175억 규모 창업초기 펀드·100억 규모 핀테크 펀드 결성",
+        "publisher": "Infobank",
+        "accessed": "2026-06-02",
+        "supports": "fund sizes, LPs, fintech fund mandate, accelerator role",
+        "quote": "한국모태펀드가 출자한 175억원 규모의 인포뱅크 창업초기 혁신펀드 1호와 은행권청년창업재단(디캠프)·한국성장금융의 핀테크 혁신펀드가 출자한 100억원 규모의 인포뱅크 핀테크 혁신펀드 1호의 운용사로 선정되면서 총 275억원 규모의 벤처펀드를 결성"
+      },
+      {
+        "url": "https://wowtale.net/2025/02/26/237566/",
+        "title": "인포뱅크, 190.5억원 규모 '초격차 펀드' 결성...총 자산운용규모 1,100억원",
+        "publisher": "와우테일 / Wowtale",
+        "accessed": "2026-06-02",
+        "supports": "total AUM ~KRW 1,100억",
+        "quote": "총 자산운용규모 1,100억원"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Infobank/iAccel is a generalist early-stage accelerator that also runs a dedicated fintech fund; included for that fintech vehicle. HQ in Seongnam (Bundang) per Infobank corporate info. Toss/Viva Republica is described as an LP in iAccel funds rather than a portfolio exit.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "kr-shinhan-futures-lab",
+    "name": {
+      "en": "Shinhan Future's Lab",
+      "local": "신한퓨처스랩"
+    },
+    "aka": ["Shinhan Futures Lab", "신한 퓨처스랩"],
+    "type": "accelerator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://futureslab.kr/",
+    "links": {
+      "other": ["https://www.shinhanvc.com/kr"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Shinhan Group Venture Fund (그룹벤처펀드, used for Future's Lab investments)", "vintage_year": null, "size": { "raw": "KRW 1,000억 (cohort 5 vehicle)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["South Korea", "Vietnam"],
+      "sector_focus": ["fintech"],
+      "thesis": "Korea's first financial-sector fintech accelerating program (launched 2015 by Shinhan Financial Group); discovers and nurtures fintech startups with group affiliates (incl. Shinhan Venture Investment) as mentors and investors, with overseas expansion support."
+    },
+    "program": {
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "format": "hybrid",
+      "location": "Seoul (with Vietnam program from 2016)",
+      "eligibility": "Fintech and finance-related startups; selected by cohort (기수)"
+    },
+    "track_record": {
+      "portfolio_count": "516 startups supported cumulatively; cohort 11 (2025) selected 31 companies",
+      "notable_investments": []
+    },
+    "people": [],
+    "summary": {
+      "en": "Shinhan Future's Lab, launched in 2015, is Korea's first financial-sector fintech accelerator, run by Shinhan Financial Group with group affiliates (including Shinhan Venture Investment) acting as mentors/investors. It has supported 516 startups, invested KRW 1,470억 cumulatively, produced 345 collaboration cases and 29 'baby unicorns,' and expanded to Vietnam in 2016. Cohort 11 (2025) admitted 31 companies, with investment driven via a KRW 1,000억 group venture fund.",
+      "local": "신한퓨처스랩은 2015년 출범한 국내 금융권 최초의 핀테크 액셀러레이팅 프로그램으로, 신한금융그룹이 운영하고 신한벤처투자 등 계열사가 멘토·투자자로 참여한다. 출범 이후 516개 스타트업을 지원해 1,470억원을 투자하고 345건의 협업과 29개 아기유니콘을 배출했으며, 2016년 베트남에 진출했다. 11기(2025)는 31개사를 선발했고 1,000억원 규모 그룹벤처펀드를 통해 투자한다."
+    },
+    "sources": [
+      {
+        "url": "https://www.venturesquare.net/763030",
+        "title": "뭐가 다르지? 국내 핀테크랩 7",
+        "publisher": "VentureSquare",
+        "accessed": "2026-06-02",
+        "supports": "launch year, first financial-sector fintech accelerator, Vietnam expansion",
+        "quote": "Shinhan Future's Lab... Launch: 2015... Portfolio: 40+ domestic companies; 6.3 billion won invested; Vietnam expansion (2016)"
+      },
+      {
+        "url": "https://www.fetv.co.kr/news/article.html?no=207466",
+        "title": "신한벤처투자, 퓨처스랩 연계 스타트업 투자 집중",
+        "publisher": "FETV",
+        "accessed": "2026-06-02",
+        "supports": "cumulative startups supported, cumulative investment, collaborations, baby unicorns, KRW 1,000억 group venture fund",
+        "quote": "출범 이후 최근까지 516개 스타트업을 대상으로 1470억원의 투자를 통해 345개의 협업 사례를 발굴하고, 29개의 아기유니콘 기업을 탄생시켰다... 1천억 원 규모의 그룹벤처펀드"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Cumulative figures (516 startups, KRW 1,470억) are program-to-date and grow over time. Per-cohort investment amount and equity terms not disclosed (null). Classified accelerator with cvc subtype given Shinhan Venture Investment's direct investing role.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "kr-kb-innovation-hub",
+    "name": {
+      "en": "KB Innovation Hub",
+      "local": "KB이노베이션허브"
+    },
+    "aka": ["KB Innovation HUB"],
+    "type": "accelerator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.kbfg.com/",
+    "links": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["fintech"],
+      "thesis": "KB Financial Group's fintech/startup accelerator program connecting startups with group affiliates for collaboration and investment, with stage-tailored mentoring (investment, overseas expansion, mobile, IT)."
+    },
+    "program": {
+      "investment": { "raw": "facilitated over KRW 100억 in investment connections", "usd": null, "currency": "KRW" },
+      "format": "hybrid",
+      "location": "Seoul",
+      "eligibility": "Fintech / startups (KB 'Starters')"
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [],
+    "summary": {
+      "en": "KB Innovation Hub, opened August 2017 by KB Financial Group, is a fintech/startup accelerator that researches and collaborates with startups, fintech and open-source projects. It provides stage-tailored mentoring (investment, overseas expansion, mobile, IT), has signed collaborations with seven group affiliates, and facilitated over KRW 100억 in investment connections.",
+      "local": "KB이노베이션허브는 KB금융그룹이 2017년 8월 출범한 핀테크·스타트업 액셀러레이터로, 스타트업·핀테크·오픈소스를 연구·협업한다. 투자·해외진출·모바일·IT 등 성장단계별 멘토링을 제공하며 7개 계열사와 협업 계약을 맺고 100억원 이상의 투자를 연계했다."
+    },
+    "sources": [
+      {
+        "url": "https://www.venturesquare.net/763030",
+        "title": "뭐가 다르지? 국내 핀테크랩 7",
+        "publisher": "VentureSquare",
+        "accessed": "2026-06-02",
+        "supports": "launch date, operator, offerings, investment facilitated, affiliate collaborations",
+        "quote": "KB Innovation Hub... Operator: KB Financial Group... Launch: August 2017... Connected with 7 affiliates; facilitated '100 billion won or more' in investments"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "The 'over 100억 investment' figure is described as facilitated/connected investment, not a managed fund. Equity terms, cohort size and dedicated fund size not disclosed (null). Classified accelerator with cvc subtype (KB Financial Group affiliate).",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "kr-hanwha-dreamplus-fintech",
+    "name": {
+      "en": "Hanwha DreamPlus (Fintech)",
+      "local": "한화 드림플러스"
+    },
+    "aka": ["DreamPlus 63", "드림플러스 63", "DreamPlus"],
+    "type": "incubator",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.dreamplus.asia/",
+    "links": {
+      "other": ["https://www.dreamplus.asia/accelerating/fintech", "http://fintech.dreamplus.asia/"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["fintech"],
+      "thesis": "Hanwha Life's fintech incubation center (Korea's largest single-floor fintech center) connecting fintech startups with financial firms for business partnerships, with global expansion support via Hanwha Group's network."
+    },
+    "program": {
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "format": "in-person",
+      "location": "63 Building, Yeouido, Seoul (4th floor, 3,074㎡)",
+      "cohort_size": 11,
+      "perks": ["office space", "150-seat event hall", "legal/accounting/tax/IP consulting", "access to US/UK/Singapore/Israel VCs", "global expansion support"],
+      "eligibility": "Fintech startups (robo-advisor, asset management, brokerage, credit rating, security solutions, etc.)"
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [],
+    "summary": {
+      "en": "Hanwha DreamPlus 63, opened October 2016 by Hanwha Life, is Korea's largest fintech incubation center, occupying the entire 3,074㎡ fourth floor of the 63 Building in Seoul (described as the world's largest single-floor fintech center). It selected 11 startups initially, pairing each with dedicated support staff and legal/accounting/tax/IP consulting, building partnerships with financial firms including Hanwha Life and offering global expansion via Hanwha's network and access to US/UK/Singapore/Israel VCs.",
+      "local": "한화생명이 2016년 10월 출범한 국내 최대 핀테크 육성센터로, 서울 63빌딩 4층 전체(3,074㎡)를 사용하며 단일 층 기준 세계 최대 규모로 소개된다. 초기 11개 스타트업을 선발해 전담 지원인력과 법률·회계·세무·IP 컨설팅을 제공하고, 한화생명 등 금융사와의 파트너십 및 미국·영국·싱가포르·이스라엘 VC 연계와 글로벌 진출을 지원한다."
+    },
+    "sources": [
+      {
+        "url": "https://www.hanwha.com/newsroom/news/press-releases/hanwha-life-opens-fintech-startup-incubator-dreamplus-63.do",
+        "title": "Hanwha Life Opens FinTech Startup Incubator DREAMPLUS 63",
+        "publisher": "Hanwha",
+        "accessed": "2026-06-02",
+        "supports": "opening date, operator, size/scale, cohort size, offerings",
+        "quote": "Opening Date: October 12, 2016... occupies the entire 3,074㎡ fourth floor of the 63 Building... South Korea's largest FinTech center... Eleven startups were selected and given office space"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "DreamPlus is an incubator/accelerator (space + partnerships + mentoring) rather than a dedicated fund; direct investment amounts and equity terms not disclosed for the fintech program. Cohort size (11) reflects the inaugural intake.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "kr-hana-1q-agile-lab",
+    "name": {
+      "en": "Hana 1Q Agile Lab",
+      "local": "하나 1Q 애자일랩"
+    },
+    "aka": ["1Q Agile Lab", "KEB Hana 1Q Lab"],
+    "type": "accelerator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.kebhana.com/",
+    "links": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["fintech"],
+      "thesis": "KEB Hana Bank's fintech accelerator (described as a bank-industry first in 2015), offering infrastructure, mentoring, investment, legal/tax/security support and global expansion to fintech startups."
+    },
+    "program": {
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "format": "hybrid",
+      "location": "Seoul",
+      "eligibility": "Fintech startups (selected by cohort)"
+    },
+    "track_record": {
+      "portfolio_count": "44 startups (as of 2018); cohort 6 admitted 13 companies",
+      "notable_investments": []
+    },
+    "people": [],
+    "summary": {
+      "en": "Hana 1Q Agile Lab is KEB Hana Bank's fintech accelerator, launched June 2015 and described as a Korean bank-industry first. It provides infrastructure, mentoring, investment, and legal/tax/security/global-expansion support. As of 2018 it had supported 44 startups, with cohort 6 (selected March 2018) admitting 13 companies.",
+      "local": "하나 1Q 애자일랩은 KEB하나은행의 핀테크 액셀러레이터로 2015년 6월 출범했으며 국내 은행권 최초로 소개된다. 인프라·멘토링·투자와 법률·세무·보안·글로벌 진출 지원을 제공한다. 2018년 기준 44개 스타트업을 지원했고 6기(2018년 3월 선발)는 13개사를 선발했다."
+    },
+    "sources": [
+      {
+        "url": "https://www.venturesquare.net/763030",
+        "title": "뭐가 다르지? 국내 핀테크랩 7",
+        "publisher": "VentureSquare",
+        "accessed": "2026-06-02",
+        "supports": "launch date, operator, offerings, portfolio count, cohort size",
+        "quote": "1Q Agile Lab... Operator: KEB Hana Bank... Launch: June 2015 (bank industry first)... Portfolio: 44 startups total; 13 companies in 6th cohort (selected March 2018)"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Figures are as of 2018 (latest comprehensive comparison source found); current cohort and cumulative numbers likely higher. Per-startup investment and equity not disclosed (null).",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "kr-woori-fintech-lab",
+    "name": {
+      "en": "Woori Fintech Lab",
+      "local": "우리 핀테크랩"
+    },
+    "aka": ["Wibee Fintech Lab", "위비 핀테크랩"],
+    "type": "accelerator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.wooribank.com/",
+    "links": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["fintech"],
+      "thesis": "Woori Bank's fintech accelerator offering tax/legal/IT support, consulting, marketing/PR, video IR and commercialization guidance to early-stage fintech startups."
+    },
+    "program": {
+      "investment": { "raw": "KRW 82억 in investments (per 2018-era comparison)", "usd": null, "currency": "KRW" },
+      "format": "hybrid",
+      "location": "Seoul",
+      "eligibility": "Early-stage fintech startups"
+    },
+    "track_record": {
+      "portfolio_count": "17 early-stage companies (as of comparison source)",
+      "notable_investments": []
+    },
+    "people": [],
+    "summary": {
+      "en": "Woori Fintech Lab is Woori Bank's fintech accelerator, offering tax/legal/IT support, consulting, marketing/PR, video IR and commercialization guidance. Per a 2018-era comparison it had supported 17 early-stage fintech companies with KRW 8.2 billion (82억) in investments.",
+      "local": "우리 핀테크랩은 우리은행의 핀테크 액셀러레이터로 세무·법률·IT 지원, 컨설팅, 마케팅·홍보, 영상 IR, 사업화 가이드를 제공한다. 2018년 무렵 비교 자료 기준 17개 창업초기 기업을 지원하고 82억원을 투자했다."
+    },
+    "sources": [
+      {
+        "url": "https://www.venturesquare.net/763030",
+        "title": "뭐가 다르지? 국내 핀테크랩 7",
+        "publisher": "VentureSquare",
+        "accessed": "2026-06-02",
+        "supports": "operator, offerings, portfolio count, investment amount",
+        "quote": "Woori Fintech Lab... Operator: Woori Bank... Portfolio: 17 early-stage companies; 8.2 billion won in investments"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year not specified in source (null). Figures (17 companies, 82억) are as of the comparison article (c. 2018) and likely higher now.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "kr-nh-fintech-innovation-center",
+    "name": {
+      "en": "NH Fintech Innovation Center",
+      "local": "NH핀테크혁신센터"
+    },
+    "aka": ["NH Digital Challenge+", "농협 핀테크혁신센터"],
+    "type": "accelerator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.nonghyup.com/",
+    "links": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["fintech"],
+      "thesis": "NH Nonghyup Bank's fintech support center providing office space, patent/investment linkage and a financial-API testbed; ran Korea's first bank open-API testbed (2015) and P2P-specific APIs (2017)."
+    },
+    "program": {
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "format": "hybrid",
+      "location": "Seoul",
+      "eligibility": "Fintech startups (API/financial-data focused)"
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [],
+    "summary": {
+      "en": "NH Fintech Innovation Center is NH Nonghyup Bank's fintech support program, providing office space, patent/investment linkage and a financial-API testbed. It operated Korea's first bank open-API testbed (2015) and introduced P2P-specific APIs (2017).",
+      "local": "NH핀테크혁신센터는 NH농협은행의 핀테크 지원 프로그램으로 사무공간, 특허·투자 연계, 금융 API 테스트베드를 제공한다. 2015년 국내 은행권 최초의 오픈 API 테스트베드를 운영했고 2017년 P2P 전용 API를 도입했다."
+    },
+    "sources": [
+      {
+        "url": "https://www.venturesquare.net/763030",
+        "title": "뭐가 다르지? 국내 핀테크랩 7",
+        "publisher": "VentureSquare",
+        "accessed": "2026-06-02",
+        "supports": "operator, offerings, first bank API testbed, P2P API",
+        "quote": "NH Fintech Innovation Center... Operator: NH Nonghyup Bank... First bank API testbed (2015); P2P-specific APIs (2017)"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Primarily an API testbed / support center rather than a fund; investment amounts not disclosed. Founding year (2015) inferred from the first-API-testbed date. Name has varied (NH Digital Challenge+).",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  }
+]

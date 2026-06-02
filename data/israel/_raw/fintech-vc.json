@@ -1,0 +1,548 @@
+[
+  {
+    "id": "il-moneta-vc",
+    "name": { "en": "Moneta VC", "local": "מונטה" },
+    "aka": ["Moneta Venture Capital", "Moneta Seeds"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Ramat Gan",
+    "website": "https://www.monetavc.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/moneta-seeds",
+      "other": ["https://finder.startupnationcentral.org/investor_page/moneta-seeds"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "~$120M", "usd": 120000000, "currency": "USD" },
+      "funds": [
+        { "name": "Moneta Growth Fund", "vintage_year": 2022, "size": { "raw": "~$120M", "usd": 120000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "$500K–$6M", "usd_min": 500000, "usd_max": 6000000 },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel", "Global"],
+      "sector_focus": ["fintech"],
+      "thesis": "Israel's first fintech-focused VC fund, investing across the lifecycle in fintech, insurtech and financial-related AI through parallel Seed and Growth funds."
+    },
+    "track_record": {
+      "portfolio_count": "40+",
+      "notable_investments": [
+        { "company": "TipRanks", "sector": "fintech", "outcome": "acquired" },
+        { "company": "Rewire", "sector": "fintech", "outcome": "acquired" },
+        { "company": "Human API", "sector": "healthtech", "outcome": "acquired" },
+        { "company": "Insurify", "sector": "fintech", "outcome": "active" },
+        { "company": "Panorays", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Railsr", "sector": "fintech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Rewire", "type": "M&A", "year": 2022, "value": { "raw": null, "usd": null, "currency": null } }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Adoram Gaash", "role": "Founding Partner", "linkedin": "" },
+      { "name": "Meirav Har Noy", "role": "Founding Partner", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via official website",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.monetavc.com/"
+    },
+    "tags": ["fintech", "insurtech", "fintech-ai"],
+    "summary": {
+      "en": "Moneta VC, founded in 2015, is described as the first fintech-focused venture capital fund in Israel. Based in Ramat Gan, it runs parallel Seed and Growth funds investing in fintech, insurtech and financial-related AI, with 40+ portfolio companies and 7 exits including TipRanks, Rewire and Human API.",
+      "local": "מונטה היא קרן הון סיכון ישראלית ממוקדת פינטק שהוקמה ב-2015, ומתמחה בפינטק, אינשורטק ובינה מלאכותית פיננסית."
+    },
+    "sources": [
+      {
+        "url": "https://www.monetavc.com/",
+        "title": "Moneta Venture Capital",
+        "publisher": "Moneta VC",
+        "accessed": "2026-06-02",
+        "supports": "Fintech focus, portfolio count, exits, partner names",
+        "quote": "having invested in 40+ world-class Fintechs, 7 of which have exited"
+      },
+      {
+        "url": "https://www.calcalistech.com/ctechnews/article/bkf11h8nj",
+        "title": "Moneta Venture Capital raises $120 million for new fintech and insurtech fund",
+        "publisher": "Calcalist (CTech)",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, fund size, stages, partner names, fintech-first claim",
+        "quote": "Moneta was established in 2015 as the first fintech focused venture capital fund in Israel ... The new fund will manage approximately $120 million ... intended to operate in the early growth stages (entry in rounds A and B) ... managed by founding partners, Adoram Gaash and Meirav Har Noy"
+      },
+      {
+        "url": "https://superscout.co/investor/moneta-vc",
+        "title": "Moneta VC: The Early Stage Founder's Guide",
+        "publisher": "SuperScout",
+        "accessed": "2026-06-02",
+        "supports": "Check size range",
+        "quote": "Moneta VC typically invests between $500,000 and $6 million"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund-size figure is for the 2022 growth/insurtech fund ($120M per Calcalist); total AUM not disclosed. Check-size range from secondary source (SuperScout). Some lists cite '$219M' AUM but this is unverified, left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "il-fintlv-ventures",
+    "name": { "en": "FinTLV Ventures", "local": "פינ-תל-אביב" },
+    "aka": ["FinTLV", "FinTLV Fund"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://fintlv.com/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/fintlv",
+      "crunchbase": "https://www.crunchbase.com/organization/fintlv-ventures",
+      "other": ["https://finder.startupnationcentral.org/investor_page/fintlv"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$120M", "usd": 120000000, "currency": "USD" },
+      "funds": [
+        { "name": "FinTLV Fund I", "vintage_year": 2018, "size": { "raw": null, "usd": null, "currency": null } },
+        { "name": "FinTLV Fund II", "vintage_year": 2021, "size": { "raw": "$120M", "usd": 120000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Europe", "Israel"],
+      "sector_focus": ["fintech"],
+      "thesis": "Global growth-stage VC investing in insurtech and fintech companies, leveraging a strategic network of global insurers, reinsurers and financial institutions to help portfolio companies scale."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Next Insurance", "sector": "fintech", "outcome": "acquired" },
+        { "company": "Hippo Insurance", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Unqork", "sector": "saas-enterprise", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Next Insurance", "type": "M&A", "year": 2025, "value": { "raw": "$2.6B (acquired by Munich Re)", "usd": 2600000000, "currency": "USD" } }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Gil Arzi", "role": "Founding / Managing Partner", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via official website",
+      "accepts_cold_inbound": true,
+      "contact": "https://fintlv.com/"
+    },
+    "tags": ["fintech", "insurtech", "growth-stage"],
+    "summary": {
+      "en": "FinTLV Ventures is a Tel Aviv-based global VC focused on growth-stage insurtech and fintech companies across the US, Europe and Israel. It closed a second $120M fund in 2021 and is known for a large position in Next Insurance (acquired by Munich Re for $2.6B in 2025).",
+      "local": "פינ-תל-אביב (FinTLV) היא קרן הון סיכון ישראלית הממוקדת בהשקעות בחברות אינשורטק ופינטק בעולם, שגייסה קרן שנייה של 120 מיליון דולר."
+    },
+    "sources": [
+      {
+        "url": "https://fintlv.com/",
+        "title": "FinTLV Ventures",
+        "publisher": "FinTLV Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Insurtech/fintech focus, global strategy",
+        "quote": "A leading global venture capital firm investing in Insurtech and Fintech companies."
+      },
+      {
+        "url": "https://www.crowdfundinsider.com/2021/01/171777-israeli-venture-capital-investment-firm-fintlv-closes-120-million-global-insurtech-fintech-fund/",
+        "title": "Israeli Venture Capital Investment Firm FinTLV Closes $120 Million Global Insurtech-Fintech Fund",
+        "publisher": "Crowdfund Insider",
+        "accessed": "2026-06-02",
+        "supports": "Fund II size, founding year, stage, geo focus, Next Insurance investment",
+        "quote": "closed its second $120 million global insurtech-fintech fund ... Founded in 2016 ... focus primarily on global growth-stage insurtech and fintech companies ... invested about $50M as part of a $250M round in Next Insurance"
+      },
+      {
+        "url": "https://www.calcalist.co.il/markets/articles/0,7340,L-3890474,00.html",
+        "title": "כלל מובילה גיוס של 120 מיליון דולר לקרן הפינטק השנייה של FinTLV",
+        "publisher": "Calcalist",
+        "accessed": "2026-06-02",
+        "supports": "Fund II $120M, managers, Israeli/foreign LP split, insurer LPs",
+        "quote": "FinTLV ... השלימה גיוס של 120 מיליון דולר ... כמחצית מגופים מוסדיים ישראלים והשאר ממשקיעים זרים"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year reported as 2016 (Crowdfund Insider) but Hebrew media cites mid-2018 for Fund I launch; both kept in funds[]. Total AUM not disclosed (some lists cite ~$500M, unverified, left null). Hebrew 'local' name is a transliteration gloss, not an official Hebrew brand name.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "il-viola-fintech",
+    "name": { "en": "Viola FinTech", "local": "ויולה פינטק" },
+    "aka": ["Viola Fintech"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Herzliya",
+    "website": "https://www.viola-group.com/fund/violafintech/",
+    "links": {
+      "other": ["https://www.viola-group.com/"]
+    },
+    "capital": {
+      "aum": { "raw": "~$200M", "usd": 200000000, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "Viola FinTech I", "vintage_year": 2017, "size": { "raw": null, "usd": null, "currency": null } },
+        { "name": "Viola FinTech II", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["North America", "Europe", "Israel"],
+      "sector_focus": ["fintech"],
+      "thesis": "Cross-stage fintech venture fund partnering with fintech enthusiasts to reshape global financial services across FinTech, InsurTech, RegTech and PropTech, leveraging Israeli innovation DNA and relationships with global financial institutions."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Insurify", "sector": "fintech", "outcome": "active" },
+        { "company": "Rewire", "sector": "fintech", "outcome": "acquired" },
+        { "company": "TrueAccord", "sector": "fintech", "outcome": "active" },
+        { "company": "Cowbell", "sector": "fintech", "outcome": "active" },
+        { "company": "Tookitaki", "sector": "fintech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Rewire", "type": "M&A", "year": 2022, "value": { "raw": "acquired by Remitly", "usd": null, "currency": null } }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Daniel Tsiddon", "role": "Founder & General Partner", "linkedin": "" },
+      { "name": "Avi Zeevi", "role": "Co-founder & General Partner, Chairman", "linkedin": "" },
+      { "name": "Noam Inbar", "role": "General Partner", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via Viola Group website",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.viola-group.com/fund/violafintech/"
+    },
+    "tags": ["fintech", "insurtech", "regtech", "proptech", "cross-stage"],
+    "summary": {
+      "en": "Viola FinTech, launched in 2017 as part of Israel's Viola Group, is a cross-stage (A/B) fund investing in global FinTech, InsurTech, RegTech and PropTech companies, with roughly $200M AUM across two funds. Viola is described as the largest fintech investor in Israel with 47+ companies to date.",
+      "local": "ויולה פינטק היא קרן ממוקדת פינטק במסגרת קבוצת ויולה, המשקיעה בחברות פינטק, אינשורטק, רגטק ופרופטק ברחבי העולם."
+    },
+    "sources": [
+      {
+        "url": "https://www.viola-group.com/fund/violafintech/",
+        "title": "Viola FinTech - a cross-stage FinTech venture fund",
+        "publisher": "Viola Group",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, AUM, stage, sector focus, partners, geo focus",
+        "quote": "Founded in 2017 ... Approximately $200M AUM ... 2 funds managed ... PARTNERING WITH FINTECH ENTHUSIASTS TO RESHAPE GLOBAL FINANCIAL SERVICES"
+      },
+      {
+        "url": "https://www.viola-group.com/violanotes/250m-to-back-israels-next-wave-of-tech-gamechangers/",
+        "title": "Viola - $250M to Back Israel's Next Wave of Tech Gamechangers",
+        "publisher": "Viola Group",
+        "accessed": "2026-06-02",
+        "supports": "Largest fintech investor in Israel, portfolio count",
+        "quote": "Viola is the largest fintech investor in Israel with over 47 companies to date."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM (~$200M) and founding year (2017) from Viola's own fund page. The '47 companies' figure refers to Viola Group's overall fintech portfolio, not solely the Viola FinTech fund. Individual fund sizes not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "il-group-11",
+    "name": { "en": "Group 11" },
+    "aka": ["Group 11 VC"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "israel",
+    "country": "United States",
+    "hq_city": "Beverly Hills",
+    "website": "https://group11.vc/",
+    "links": {
+      "other": ["https://group11.vc/team/", "https://dovifrances.medium.com/announcing-group-11-first-closing-of-our-fifth-fund-at-120mm-364be0fa695a"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": ">$120M (Fund V, first close)", "usd": 120000000, "currency": "USD" },
+      "funds": [
+        { "name": "Group 11 Fund V", "vintage_year": 2020, "size": { "raw": ">$120M", "usd": 120000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Israel"],
+      "sector_focus": ["fintech"],
+      "thesis": "Fintech-only VC discovering tomorrow's fintech leaders today; invests primarily in Silicon Valley-based financial technology software companies, ~70% of which are Israeli-related through founding teams and Israeli R&D."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Navan (formerly TripActions)", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Next Insurance", "sector": "fintech", "outcome": "acquired" },
+        { "company": "Tipalti", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Papaya Global", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Sunbit", "sector": "fintech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Next Insurance", "type": "M&A", "year": 2025, "value": { "raw": "$2.6B (acquired by Munich Re)", "usd": 2600000000, "currency": "USD" } }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Dovi Frances", "role": "Founding / Managing Partner", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via official website",
+      "accepts_cold_inbound": false,
+      "contact": "https://group11.vc/"
+    },
+    "tags": ["fintech", "israeli-american", "silicon-valley"],
+    "summary": {
+      "en": "Group 11 is a fintech-only venture capital firm founded in 2012 by Israeli-American investor Dovi Frances. Headquartered in Beverly Hills with deep Israeli ties (~70% of portfolio Israeli-related), it raised over $120M for its fifth fintech fund in 2021 and backs companies including Navan, Tipalti, Papaya Global and Next Insurance.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://group11.vc/",
+        "title": "Group 11",
+        "publisher": "Group 11",
+        "accessed": "2026-06-02",
+        "supports": "Fintech-only focus, mission, portfolio companies",
+        "quote": "Discovering tomorrow's fintech leaders, today."
+      },
+      {
+        "url": "https://nocamels.com/2021/03/group-11-fintech-fund-dovi-frances-fifth/",
+        "title": "Dovi Frances' Group 11 Secures Over $120M In Fifth Fintech Fund",
+        "publisher": "NoCamels",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, Fund V size, HQ, fintech focus, founder",
+        "quote": "secured over $120 million in the first closing for the firm's fifth fintech fund ... Founded in 2012 by current managing partner Frances ... Silicon Valley-based VC Group 11 ... invest primarily in Silicon Valley-based financial technology software companies"
+      },
+      {
+        "url": "https://www.calcalistech.com/ctechnews/article/skdputiake",
+        "title": "Group 11's Fund V valuation tumbles 25% in two years",
+        "publisher": "Calcalist (CTech)",
+        "accessed": "2026-06-02",
+        "supports": "Fund V raise, TASE listing, Israel connection, portfolio",
+        "quote": "Fund V was launched in late 2020, and by March 2021, it had raised $120 million within 90 days."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "US-domiciled (Beverly Hills) but included for its deep Israel focus: ~70% of portfolio is Israeli-related and the fund lists on the Tel Aviv Stock Exchange (TASE UP). country set to 'United States' per schema (org's specific country); region remains 'israel'. Firm-wide AUM not officially disclosed (~$1.4B cited by some sources, left null).",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "il-selah-ventures",
+    "name": { "en": "Selah Ventures", "local": "סלע" },
+    "aka": ["Selah VC"],
+    "type": "micro-vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://selahvc.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/selahventures",
+      "crunchbase": "https://www.crunchbase.com/organization/selah-ventures",
+      "other": ["https://www.vcsheet.com/who/adi-levanon"]
+    },
+    "capital": {
+      "aum": { "raw": "$15M", "usd": 15000000, "currency": "USD" },
+      "current_fund": { "raw": "$15M", "usd": 15000000, "currency": "USD" },
+      "funds": [
+        { "name": "Selah Fund I", "vintage_year": 2022, "size": { "raw": "$15M", "usd": 15000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$250K–$500K (typical first checks; up to $10M total)", "usd_min": 250000, "usd_max": 500000 },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel", "United States"],
+      "sector_focus": ["fintech"],
+      "thesis": "Female-founded solo-GP fund writing first institutional checks to pre-seed and seed fintech (broadly defined) — payments, lending, wealth, insurtech, regtech, fraud/identity and fintech infrastructure for banks and insurers — bridging US and Israeli markets."
+    },
+    "track_record": {
+      "portfolio_count": "17",
+      "notable_investments": [
+        { "company": "Justt", "sector": "fintech", "outcome": "active" },
+        { "company": "Entrio", "sector": "fintech", "outcome": "active" },
+        { "company": "Unit", "sector": "fintech", "outcome": "active" },
+        { "company": "Alloy", "sector": "fintech", "outcome": "active" },
+        { "company": "Dig Security", "sector": "cybersecurity", "outcome": "acquired" }
+      ],
+      "exits": [
+        { "company": "Dig Security", "type": "M&A", "year": 2023, "value": { "raw": "acquired by Palo Alto Networks", "usd": null, "currency": null } }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Adi Levanon", "role": "Founder & Managing Partner (Solo GP)", "linkedin": "" }
+    ],
+    "team_size": 1,
+    "application": {
+      "how_to_apply": "Contact via official website or LinkedIn",
+      "accepts_cold_inbound": true,
+      "contact": "https://selahvc.com/"
+    },
+    "tags": ["fintech", "pre-seed", "seed", "solo-gp", "female-founded", "us-israel"],
+    "summary": {
+      "en": "Selah Ventures is a $15M solo-GP, female-founded micro-VC founded in 2022 by Adi Levanon (ex-Payoneer, ex-Conduit). It writes first institutional pre-seed/seed checks into fintech in its broadest sense across Israeli and American founders, with 17 investments including Justt, Entrio, Unit and Alloy.",
+      "local": "סלע (Selah) היא קרן מיקרו ממוקדת פינטק בהיקף 15 מיליון דולר, בניהול שותפה יחידה אדי לבנון, המשקיעה בשלבי פרי-סיד וסיד ביזמים ישראלים ואמריקאים."
+    },
+    "sources": [
+      {
+        "url": "https://selahvc.com/",
+        "title": "Home - Selah Ventures",
+        "publisher": "Selah Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Fintech focus, stages, founder, portfolio companies",
+        "quote": "invests in pre-seed / seed fintech in its broadest sense"
+      },
+      {
+        "url": "https://www.vcsheet.com/who/adi-levanon",
+        "title": "Adi Levanon (Selah VC)",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "Fund size, check size, stages, solo-GP structure, geo focus",
+        "quote": "$15M solo-GP fund led by Adi Levanon that writes first institutional checks to pre-seed and seed fintech companies ... Check Size: $500K - $10M ... USA and Israel"
+      },
+      {
+        "url": "https://tracxn.com/d/venture-capital/selah-ventures/__4VjECiFjitgwNYGB5C5s6tOoucj6ST6HR8rDI1QUGPs",
+        "title": "Selah Ventures - 2025 Investor Profile",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, investment count",
+        "quote": "Selah Ventures is a venture capital firm founded in 2022 ... has made 17 investments"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Reported check size differs by source: VC Sheet states $500K–$10M; other secondary sources cite typical first checks of $250K–$500K. Both noted; range left wide. Investment count (17) per Tracxn as of late 2025. Classified as micro-VC given $15M solo-GP structure.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "il-team8-fintech",
+    "name": { "en": "Team8 Fintech", "local": "טים8 פינטק" },
+    "aka": ["Team8 FinTech"],
+    "type": "venture-studio",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://team8.vc/team8-fintech/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/team8-fintech",
+      "other": ["https://team8.vc/", "https://team8.vc/fintech/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "~$100M target (Fintech practice)", "usd": 100000000, "currency": "USD" },
+      "funds": [
+        { "name": "Team8 Fintech (foundry/practice)", "vintage_year": 2020, "size": { "raw": "~$100M target", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel", "United States", "Global"],
+      "sector_focus": ["fintech"],
+      "thesis": "Fintech venture-creation foundry plus capital arm that builds B2B and B2B2C fintech companies from scratch and invests in them — supporting digital transformation of financial incumbents, enhancing fintechs, and enabling non-financial firms to become fintech providers ('embedded fintech')."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "FundGuard", "sector": "fintech", "outcome": "active" },
+        { "company": "Ballerine", "sector": "fintech", "outcome": "active" },
+        { "company": "Panax", "sector": "fintech", "outcome": "active" },
+        { "company": "Curv", "sector": "web3-crypto", "outcome": "acquired" },
+        { "company": "Planck", "sector": "fintech", "outcome": "acquired" }
+      ],
+      "exits": [
+        { "company": "Curv", "type": "M&A", "year": 2021, "value": { "raw": "acquired by PayPal", "usd": null, "currency": null } },
+        { "company": "Planck", "type": "M&A", "year": null, "value": { "raw": "acquired by Applied Systems", "usd": null, "currency": null } }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Rakefet Russak-Aminoach", "role": "Managing Partner (former President & CEO, Bank Leumi Group)", "linkedin": "" },
+      { "name": "Ronen Assia", "role": "Managing Partner (Co-founder, eToro)", "linkedin": "" },
+      { "name": "Galia Beer-Gabel", "role": "Managing Partner (former Head of BD EMEA, PayPal)", "linkedin": "" },
+      { "name": "Yuval Tal", "role": "Founding member (Founder & President, Payoneer)", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via Team8 website",
+      "accepts_cold_inbound": true,
+      "contact": "https://team8.vc/team8-fintech/"
+    },
+    "tags": ["fintech", "venture-studio", "venture-creation", "foundry", "embedded-fintech"],
+    "summary": {
+      "en": "Team8 Fintech, launched September 2020 as the fintech vertical of Tel Aviv's Team8 group, both builds (foundry) and invests in fintech companies. Led by former Bank Leumi CEO Rakefet Russak-Aminoach with eToro co-founder Ronen Assia, Payoneer's Yuval Tal and ex-PayPal exec Galia Beer-Gabel, it targeted ~$100M and is backed by Microsoft, Walmart, Barclays and Moody's.",
+      "local": "טים8 פינטק הוא הזרוע הממוקדת פינטק של קבוצת Team8, המקימה ומשקיעה בחברות פינטק, בהובלת רקפת רוסק-עמינח (לשעבר מנכ\"לית בנק לאומי)."
+    },
+    "sources": [
+      {
+        "url": "https://team8.vc/team8-fintech/",
+        "title": "Team8 Fintech",
+        "publisher": "Team8",
+        "accessed": "2026-06-02",
+        "supports": "Build + invest model, managing partners, portfolio companies",
+        "quote": "creating and investing in fintech companies ... Rakefet Russak Aminoach - Managing Partner ... Ronen Assia - Managing Partner ... Galia Beer-Gabel - Managing Partner"
+      },
+      {
+        "url": "https://www.prnewswire.com/news-releases/former-bank-ceo-and-two-fintech-unicorn-entrepreneurs-join-forces-with-team8-to-launch-new-fintech-venture-powerhouse-301131054.html",
+        "title": "Former Bank CEO and Two Fintech Unicorn Entrepreneurs Join Forces with Team8 to Launch New Fintech Venture Powerhouse",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-02",
+        "supports": "Launch date, founders and former roles, strategic backers",
+        "quote": "Sept. 15, 2020 ... Rakefet Russak-Aminoach: former President & CEO of Israel's largest bank, Leumi Group ... Yuval Tal: Founder & President of digital payments unicorn Payoneer ... Ronen Assia: Founder and Former Chief Product Officer of ... eToro ... backed with strategic funding from Microsoft, Walmart, Barclays and Moody's"
+      },
+      {
+        "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3849835,00.html",
+        "title": "Team8 launches new fintech startup founding platform, targeting $100 million in investments",
+        "publisher": "Calcalist (CTech)",
+        "accessed": "2026-06-02",
+        "supports": "~$100M target for fintech practice",
+        "quote": "Team8 launches new fintech startup founding platform, targeting $100 million in investments"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Team8 Fintech is a vertical/practice within the Team8 group (distinct from generalist Team8 Capital and Team8 Enterprise). Classified as venture-studio with vc subtype because it both builds companies (foundry) and invests. ~$100M is the announced target for the fintech practice; final raised amount not confirmed. Leadership composition has evolved since launch (Galia Beer-Gabel now Managing Partner; Yuval Tal was a founding member).",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  }
+]

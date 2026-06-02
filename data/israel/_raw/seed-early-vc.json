@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "il-aleph-vc",
+    "name": { "en": "Aleph" },
+    "aka": ["Aleph VC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.aleph.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/aleph-vc",
+      "other": ["https://medium.com/aleph-vc"]
+    },
+    "capital": {
+      "aum": { "raw": "$850M under management", "usd": 850000000, "currency": "USD" },
+      "funds": [
+        { "name": "Aleph I", "vintage_year": 2013, "size": { "raw": "$140 million", "usd": 140000000, "currency": "USD" } },
+        { "name": "Aleph IV", "vintage_year": 2021, "size": { "raw": "$300 million", "usd": 300000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist", "fintech", "ai-ml", "saas-enterprise", "consumer"],
+      "thesis": "Early-stage VC partnering with great Israeli entrepreneurs to build large, meaningful companies and impactful global brands; runs Ampliphy as an operating-system for portfolio support."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Lemonade", "sector": "insurtech", "outcome": "IPO" },
+        { "company": "Melio", "sector": "fintech", "outcome": "acquired" },
+        { "company": "Freightos", "sector": "logistics", "outcome": "IPO" },
+        { "company": "HoneyBook", "sector": "saas-enterprise", "outcome": "unicorn" }
+      ],
+      "exits": [
+        { "company": "Lemonade", "type": "IPO", "year": 2020, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Melio", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Michael Eisenberg", "role": "Co-Founder & Equal Partner" },
+      { "name": "Eden Shochat", "role": "Co-Founder & Equal Partner" },
+      { "name": "Tomer Diari", "role": "Partner" },
+      { "name": "Yael Elad", "role": "Partner" }
+    ],
+    "summary": {
+      "en": "Aleph is a Tel Aviv-based early-stage venture capital fund founded in 2013 by Michael Eisenberg and Eden Shochat, with $850M under management. It partners with Israeli entrepreneurs at seed and Series A, backing companies such as Lemonade, Melio, Freightos and HoneyBook."
+    },
+    "sources": [
+      { "url": "https://www.aleph.vc/about", "title": "Aleph | About", "publisher": "Aleph", "accessed": "2026-06-02", "supports": "AUM, founding year, stage focus, partners", "quote": "$850M under management ... Founded in 2013 ... early stage venture capital fund focused on partnering with great Israeli entrepreneurs" },
+      { "url": "https://www.aleph.vc/", "title": "Aleph", "publisher": "Aleph", "accessed": "2026-06-02", "supports": "portfolio companies, exits", "quote": "IPOs: Lemonade (NYSE: LMND, July 2020), Freightos (NASDAQ: CRGO, January 2022) ... Acquisitions: Melio (acquired by Xero)" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-hetz-ventures",
+    "name": { "en": "Hetz Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.hetz.vc/",
+    "links": {},
+    "capital": {
+      "aum": { "raw": "~$500M total commitments", "usd": 500000000, "currency": "USD" },
+      "current_fund": { "raw": "$140 million (Hetz IV)", "usd": 140000000, "currency": "USD" },
+      "funds": [
+        { "name": "Hetz I", "vintage_year": 2018, "size": { "raw": "$55M", "usd": 55000000, "currency": "USD" } },
+        { "name": "Hetz II", "vintage_year": 2020, "size": { "raw": "$77M", "usd": 77000000, "currency": "USD" } },
+        { "name": "Hetz III", "vintage_year": 2022, "size": { "raw": "$123M", "usd": 123000000, "currency": "USD" } },
+        { "name": "Hetz IV", "vintage_year": 2026, "size": { "raw": "$140M", "usd": 140000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "averaging $5-7 million", "usd_min": 5000000, "usd_max": 7000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["cybersecurity", "ai-ml", "saas-enterprise", "deeptech"],
+      "thesis": "Leads seed rounds and co-leads Series A for technical B2B founders, operating two practices in one fund: Cyber (with CISO/security exec network) and Data & AI infrastructure."
+    },
+    "track_record": {
+      "portfolio_count": 50,
+      "notable_investments": [
+        { "company": "Tabnine", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Trigo", "sector": "retail-tech", "outcome": "active" },
+        { "company": "8fig", "sector": "fintech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Granulate", "type": "M&A", "year": 2022, "value": { "raw": "$650 million (to Intel)", "usd": 650000000, "currency": "USD" } },
+        { "company": "Silk Security", "type": "M&A", "year": 2024, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Prompt Security", "type": "M&A", "year": 2025, "value": { "raw": "$275 million (to SentinelOne)", "usd": 275000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Pavel Livshiz", "role": "Managing Partner" },
+      { "name": "Judah Taub", "role": "Managing Partner" },
+      { "name": "Guy Fighel", "role": "Partner" }
+    ],
+    "summary": {
+      "en": "Hetz Ventures is a Tel Aviv seed-to-Series-A VC founded in 2018, with ~$500M in total commitments across four funds (latest Hetz IV at $140M). It leads seed rounds (avg $5-7M) in cybersecurity, data and AI infrastructure, with exits including Granulate (Intel) and Prompt Security (SentinelOne)."
+    },
+    "sources": [
+      { "url": "https://www.hetz.vc/", "title": "Hetz Ventures", "publisher": "Hetz Ventures", "accessed": "2026-06-02", "supports": "founding year, fund sizes, AUM, sector focus, exits", "quote": "Fund I (2018): $55M; Fund II (2020): $77M; Opportunity Fund (2022): $27M; Fund III (2022): $123M; Fund IV (2026): $140M; Total AUM: 500m" },
+      { "url": "https://en.globes.co.il/en/article-1001531185", "title": "Hetz Ventures raises $140m fourth fund", "publisher": "Globes", "accessed": "2026-06-02", "supports": "Fund IV size, check size, stage, sectors, partners", "quote": "maintain its investment policy of leading seed rounds with investments averaging 5-7 million ... Hetz Ventures specializes in cyber security, artificial intelligence, and software infrastructure ... Pavel Livshiz, Judah Taub, and Guy Fighel" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-grove-ventures",
+    "name": { "en": "Grove Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.grovevc.com/",
+    "links": {},
+    "capital": {
+      "aum": { "raw": "$500M+ AUM", "usd": 500000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["ai-ml", "deeptech", "healthtech"],
+      "thesis": "Seed and early-stage partner to founders building in Enterprise AI, DeepTech, AI infrastructure and HealthTech; team of founders and operators offering experience, strategy and execution beyond capital."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Wiliot", "sector": "deeptech", "outcome": "active" },
+        { "company": "NoTraffic", "sector": "mobility", "outcome": "active" },
+        { "company": "Quantum Source", "sector": "deeptech", "outcome": "active" },
+        { "company": "ActiveFence", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "summary": {
+      "en": "Grove Ventures is a Tel Aviv early-stage VC with $500M+ AUM, leading pre-seed and seed rounds in Enterprise AI, DeepTech, AI infrastructure and HealthTech. Portfolio includes Wiliot, NoTraffic, Quantum Source and ActiveFence."
+    },
+    "sources": [
+      { "url": "https://www.grovevc.com/", "title": "Early-Stage Venture Capital in Israel | Grove Ventures", "publisher": "Grove Ventures", "accessed": "2026-06-02", "supports": "AUM, stage, sectors, portfolio", "quote": "$500M+ AUM ... Enterprise AI · Deeptech · AI Infra · Healthtech ... seed and early-stage partners to exceptional founders building tomorrow, today" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year (2016) widely reported in secondary sources but not confirmed on the homepage fetched; AUM and sector/stage focus confirmed from the official site.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-tlv-partners",
+    "name": { "en": "TLV Partners" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.tlv.partners/",
+    "links": {},
+    "capital": {
+      "aum": { "raw": "over $1B under management", "usd": 1000000000, "currency": "USD" },
+      "current_fund": { "raw": "$250M (Fund V)", "usd": 250000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2015, "size": { "raw": "$115M", "usd": 115000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2018, "size": { "raw": "$150M", "usd": 150000000, "currency": "USD" } },
+        { "name": "Fund III", "vintage_year": 2020, "size": { "raw": "$150M", "usd": 150000000, "currency": "USD" } },
+        { "name": "Fund IV", "vintage_year": 2021, "size": { "raw": "$220M", "usd": 220000000, "currency": "USD" } },
+        { "name": "Fund V", "vintage_year": 2023, "size": { "raw": "$250M", "usd": 250000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["ai-ml", "cybersecurity", "fintech", "healthtech", "deeptech", "saas-enterprise"],
+      "thesis": "Backs Israel's most brilliant founders from day zero, across AI/ML, quantum computing, cybersecurity, healthcare, fintech and developer tools."
+    },
+    "track_record": {},
+    "people": [],
+    "summary": {
+      "en": "TLV Partners is a Tel Aviv early-stage VC founded in 2015 with over $1B under management across five funds (latest $250M, 2023). It backs Israeli founders from day zero in AI/ML, cybersecurity, fintech, healthcare and developer tools."
+    },
+    "sources": [
+      { "url": "https://www.tlv.partners/", "title": "TLV Partners", "publisher": "TLV Partners", "accessed": "2026-06-02", "supports": "founding year, AUM, fund sizes, stage, sectors", "quote": "over $1B under management ... Fund I (2015): $115M ... Fund V (2023): $250M ... Since 2015, we've backed Israel's most brilliant founders from day zero" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-f2-venture-capital",
+    "name": { "en": "F2 Venture Capital" },
+    "aka": ["F2 Capital"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.f2vc.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/f2-capital"
+    },
+    "capital": {
+      "aum": { "raw": "above $400 million", "usd": 400000000, "currency": "USD" },
+      "current_fund": { "raw": "$150 million (Seed Fund III)", "usd": 150000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2017, "size": { "raw": "$60 million", "usd": 60000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2019, "size": { "raw": "$75 million", "usd": 75000000, "currency": "USD" } },
+        { "name": "Seed Fund III", "vintage_year": 2022, "size": { "raw": "$150 million", "usd": 150000000, "currency": "USD" } },
+        { "name": "Continuation Fund", "vintage_year": 2022, "size": { "raw": "$100 million", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$500K-$3.0M (partner Rabinowitz); up to ~$4M", "usd_min": 500000, "usd_max": 4000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["ai-ml", "fintech", "saas-enterprise", "cybersecurity"],
+      "thesis": "Pre-seed to Series A fund for Israeli founders; runs 'The Junction' pre-seed investment program (dating to 2011 under Genesis Partners) that helps founders hit milestones in an accelerated time frame."
+    },
+    "program": {
+      "format": "in-person",
+      "location": "Tel Aviv",
+      "eligibility": "The Junction: pre-seed Israeli founders"
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "HoneyBook", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "AppsFlyer", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Coralogix", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Jonathan Saacks", "role": "Managing Partner" },
+      { "name": "Barak Rabinowitz", "role": "Managing Partner" },
+      { "name": "Maor Fridman", "role": "Partner" }
+    ],
+    "summary": {
+      "en": "F2 Venture Capital (formerly F2 Capital) is a Tel Aviv pre-seed/seed/Series A fund founded in 2016 by ex-Genesis Partners investors, with over $400M AUM. Its 2022 raise added a $150M seed fund plus a $100M continuation fund; it runs The Junction pre-seed program (HoneyBook, AppsFlyer, Coralogix)."
+    },
+    "sources": [
+      { "url": "https://www.calcalistech.com/ctechnews/article/sy4qip11sq", "title": "F2 Venture Capital raises $250 million for early-stage investments", "publisher": "Calcalist (Ctech)", "accessed": "2026-06-02", "supports": "AUM, fund sizes, partners, The Junction", "quote": "This brings F2's total funds under management above $400 million ... Seed Fund III: $150 million ... Continuation Fund: $100 million ... The Junction, a pre-seed investment program ... launched dozens of companies including Honeybook, Appsflyer, Coralogix" },
+      { "url": "https://www.f2vc.com/team/barak-rabinowitz", "title": "Barak Rabinowitz, Managing Partner", "publisher": "F2 Venture Capital", "accessed": "2026-06-02", "supports": "stage and check size", "quote": "invests at Pre-seed and Seed stages with investment ranges between $500K and $3.0M" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-s-capital",
+    "name": { "en": "S Capital" },
+    "aka": ["S Capital VC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.scapitalvc.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/s-capital"
+    },
+    "capital": {
+      "funds": [
+        { "name": "S Capital I", "vintage_year": 2020, "size": { "raw": "$120 million", "usd": 120000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "average first investment $3-5 million", "usd_min": 3000000, "usd_max": 5000000 },
+      "geo_focus": ["Israel"],
+      "sector_focus": ["deeptech", "ai-ml", "cybersecurity"],
+      "thesis": "Early-stage fund by former Sequoia Israel investors backing innovative deep technology companies at seed and Series A."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "SALT Security", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Capitolis", "sector": "fintech", "outcome": "active" },
+        { "company": "Pecan.ai", "sector": "ai-ml", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Run:ai", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Aya Peterburg", "role": "Managing Partner" },
+      { "name": "Haim Sadger", "role": "Founder & Managing Partner" }
+    ],
+    "summary": {
+      "en": "S Capital is a Tel Aviv early-stage VC founded in 2018 by former Sequoia Israel investors Aya Peterburg and Haim Sadger. It closed a $120M fund and writes $3-5M first checks into deep tech at seed and Series A; portfolio includes SALT Security, Capitolis and Pecan.ai."
+    },
+    "sources": [
+      { "url": "https://en.globes.co.il/en/article-israels-s-capital-closes-120m-venture-capital-fund-1001325918", "title": "Israel's S Capital closes $120m venture capital fund", "publisher": "Globes", "accessed": "2026-06-02", "supports": "fund size, founding year, partners, check size, sector", "quote": "$120 million venture capital fund ... founded in 2018 ... managing partners Aya Peterburg and Haim Sadger ... innovative deep technology companies ... $3-5 million" }
+    ],
+    "confidence": "high",
+    "verification_notes": "A more recent aggregate figure of ~$500M total fund size appears in secondary trackers (Tracxn/Signal) but is not confirmed by a primary source; only the $120M fund is documented with a quote.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-stageone-ventures",
+    "name": { "en": "StageOne Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Herzliya",
+    "website": "https://www.stageonevc.com/",
+    "links": {},
+    "capital": {
+      "aum": { "raw": "more than $650 million under management, five funds", "usd": 650000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["deeptech", "saas-enterprise", "cybersecurity"],
+      "thesis": "Seed-stage investor of choice for enterprise-tech founders; backs early-stage, transformative deep tech startups solving complex enterprise challenges. Runs StageZero program for pre-seed founders."
+    },
+    "track_record": {
+      "portfolio_count": "69+",
+      "notable_investments": [
+        { "company": "Avanan", "sector": "cybersecurity", "outcome": "acquired" },
+        { "company": "Epsagon", "sector": "saas-enterprise", "outcome": "acquired" }
+      ],
+      "exits": [
+        { "company": "Avanan", "type": "M&A", "year": null, "value": { "raw": "acquired by Check Point", "usd": null, "currency": null } },
+        { "company": "Epsagon", "type": "M&A", "year": null, "value": { "raw": "acquired by Cisco", "usd": null, "currency": null } }
+      ]
+    },
+    "people": [],
+    "summary": {
+      "en": "StageOne Ventures is a Herzliya-based seed/early-stage deep-tech and enterprise VC with more than $650M across five funds. It positions as the seed-stage investor of choice for enterprise-tech founders (21 exits including Avanan to Check Point, Epsagon to Cisco) and runs the StageZero pre-seed program."
+    },
+    "sources": [
+      { "url": "https://www.stageonevc.com/", "title": "StageOne Ventures", "publisher": "StageOne Ventures", "accessed": "2026-06-02", "supports": "AUM, fund count, stage, sectors, exits, portfolio count", "quote": "more than $650 million under management, five funds ... Seed Stage Investor of Choice for Enterprise Tech Founders ... 69+ companies backed with 21 exits including Avanan (acquired by Check Point), Epsagon (acquired by Cisco)" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year not stated on the homepage; left null rather than guessed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-nfx-israel",
+    "name": { "en": "NFX (Israel)" },
+    "aka": ["NFX"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "offices": [
+      { "country": "United States", "city": "San Francisco" },
+      { "country": "Israel", "city": "Tel Aviv" }
+    ],
+    "website": "https://www.nfx.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/nfx-guild"
+    },
+    "capital": {
+      "current_fund": { "raw": "$450M fund (reported 2021)", "usd": 450000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500K-$5.0M (Gigi Levy-Weiss), sweet spot $2.5M", "usd_min": 500000, "usd_max": 5000000 },
+      "geo_focus": ["Israel", "United States"],
+      "sector_focus": ["ai-ml", "gaming", "consumer", "fintech", "saas-enterprise"],
+      "thesis": "Global early-stage seed firm with a strong Israeli presence (NFX Israel led by Gigi Levy-Weiss), focused on network-effects businesses, AI, gaming and consumer."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Papaya Gaming", "sector": "gaming", "outcome": "active" },
+        { "company": "Triple Whale", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Gigi Levy-Weiss", "role": "Founding Partner (heads NFX Israel)" }
+    ],
+    "summary": {
+      "en": "NFX is a global seed-stage venture firm with offices in Silicon Valley and Tel Aviv; NFX Israel is led by founding partner Gigi Levy-Weiss, who writes $500K-$5M checks (sweet spot $2.5M) into AI, gaming and consumer. A $450M fund was reported in 2021."
+    },
+    "sources": [
+      { "url": "https://signal.nfx.com/investors/gigi-levy-weiss", "title": "Gigi Levy-Weiss' Investing Profile - NFX General Partner", "publisher": "NFX Signal", "accessed": "2026-06-02", "supports": "Israel office, check size, fund size", "quote": "current fund size of $450M ... heads up NFX Israel ... investment range is $500K - $5.0M with a sweet spot of $2.5M ... based in Tel Aviv, Israel" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "NFX is HQ'd in San Francisco with a substantial Israel operation (NFX Israel); included as a key seed investor in the Israeli ecosystem. Fund-size figure is from a 2021 secondary source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-lool-ventures",
+    "name": { "en": "lool ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.lool.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/lool-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "$200 million in assets under management", "usd": 200000000, "currency": "USD" },
+      "funds": [
+        { "name": "lool III", "vintage_year": 2021, "size": { "raw": "$60M first close of $100M target", "usd": 60000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist"],
+      "thesis": "Israel's seed fund; deliberately anti-thematic, leads seed rounds for Israeli founders at the very start, believing impactful companies will come from new market categories that don't exist yet. Does not lead Series A."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Avichay Nissenbaum", "role": "Co-Founder & General Partner" },
+      { "name": "Yaniv Golan", "role": "Co-Founder & General Partner" }
+    ],
+    "summary": {
+      "en": "lool ventures is a Tel Aviv seed fund founded in late 2012 by Avichay Nissenbaum and Yaniv Golan, with ~$200M AUM. It is deliberately sector-agnostic and leads seed rounds for early Israeli founders; its third fund (lool III) held a $60M first close toward a $100M target."
+    },
+    "sources": [
+      { "url": "https://www.lool.vc/about/", "title": "About Us - lool ventures", "publisher": "lool ventures", "accessed": "2026-06-02", "supports": "stage focus, anti-thematic thesis", "quote": "Israel's Seed Fund ... lead seed rounds ... We are deliberately anti-thematic. We believe that many of the world's most impactful tech companies will come from new market categories that don't exist yet" },
+      { "url": "https://www.finsmes.com/2021/12/lool-ventures-holds-60m-first-close-of-100m-third-seed-fund.html", "title": "lool ventures Holds $60M First Close of $100M Third Seed Fund", "publisher": "FinSMEs", "accessed": "2026-06-02", "supports": "founding year, founders, fund size, AUM", "quote": "founded in late 2012 by Avichay Nissenbaum and Yaniv Golan ... total of $200 million in assets under management ... lool III, closing at $60 million in December 2021" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-glilot-capital-partners",
+    "name": { "en": "Glilot Capital Partners" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2011,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Herzliya",
+    "website": "https://glilotcapital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/glilot-capital-partners"
+    },
+    "capital": {
+      "aum": { "raw": "more than $1 billion", "usd": 1000000000, "currency": "USD" },
+      "current_fund": { "raw": "$500 million across two funds", "usd": 500000000, "currency": "USD" },
+      "funds": [
+        { "name": "Glilot Seed (4th fund)", "vintage_year": null, "size": { "raw": "$220 million", "usd": 220000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$1M-$20M; avg seed check $6.61M", "usd_min": 1000000, "usd_max": 20000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["cybersecurity", "ai-ml", "saas-enterprise"],
+      "thesis": "Cyber and AI-focused VC with a dual structure: Glilot Seed for early-stage and Glilot+ for later-stage; backs young, fast-growing cybersecurity, enterprise software and AI startups."
+    },
+    "track_record": {
+      "exits": [
+        { "company": "Cider Security", "type": "M&A", "year": null, "value": { "raw": "acquired by Palo Alto Networks", "usd": null, "currency": null } },
+        { "company": "IntSights", "type": "M&A", "year": null, "value": { "raw": "acquired by Rapid7", "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Kobi Samboursky", "role": "Co-Founder & Managing Partner" },
+      { "name": "Arik Kleinstein", "role": "Co-Founder & Managing Partner" }
+    ],
+    "summary": {
+      "en": "Glilot Capital Partners is a Herzliya cybersecurity-and-AI VC founded in 2011 by Kobi Samboursky and Arik Kleinstein, with over $1B AUM. Its dual structure pairs Glilot Seed (early-stage, $220M fourth fund) with Glilot+ for later stages; exits include Cider Security (Palo Alto Networks) and IntSights (Rapid7)."
+    },
+    "sources": [
+      { "url": "https://www.calcalistech.com/ctechnews/article/sj500f7dsle", "title": "Glilot Capital raises $500 million, topping $1 billion in assets", "publisher": "Calcalist (Ctech)", "accessed": "2026-06-02", "supports": "AUM, $500M raise, fund structure, founding year, founders, exits", "quote": "Glilot Capital has raised $500 million ... bringing its total assets under management to more than $1 billion ... split between its early-stage Glilot Seed vehicle and Glilot Plus ... Established in 2011 ... co-founded by Kobi Samboursky and Arik Kleinstein" },
+      { "url": "https://www.timesofisrael.com/israels-glilot-partners-raises-220m-to-back-early-stage-cyber-software-startups/", "title": "Israel's Glilot Partners raises $220m to back early-stage cyber, software startups", "publisher": "Times of Israel", "accessed": "2026-06-02", "supports": "seed fund size, sectors", "quote": "raised $220 million for its fourth fund to back seed-stage startups focused on cybersecurity, enterprise software, and developer tools" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-entree-capital",
+    "name": { "en": "Entrée Capital" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2010,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://entreecap.com/",
+    "links": {
+      "other": ["https://medium.com/entree-capital"]
+    },
+    "capital": {
+      "aum": { "raw": "$1.5 billion", "usd": 1500000000, "currency": "USD" },
+      "current_fund": { "raw": "$300 million (two new funds, 2022)", "usd": 300000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "growth"],
+      "check_size": { "raw": "$500k to $6 million (Israel Early Stage Fund IV)", "usd_min": 500000, "usd_max": 6000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel", "United States", "Europe"],
+      "sector_focus": ["ai-ml", "deeptech", "fintech", "cybersecurity", "saas-enterprise", "web3-crypto"],
+      "thesis": "Backs founders from pre-seed to growth across AI, Data, DeepTech, FinTech, Cyber, SaaS and Crypto; its Israel Early Stage Fund IV provides pre-seed and seed funding for $500k-$6M deals."
+    },
+    "track_record": {
+      "portfolio_count": 180,
+      "notable_investments": [
+        { "company": "monday.com", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Riskified", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Rapyd", "sector": "fintech", "outcome": "unicorn" }
+      ],
+      "exits": [
+        { "company": "monday.com", "type": "IPO", "year": 2021, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Coupang", "type": "IPO", "year": 2021, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Aviad (Avi) Eyal", "role": "Co-Founder & Managing Partner" },
+      { "name": "Martin Moshal", "role": "Co-Founder" }
+    ],
+    "summary": {
+      "en": "Entrée Capital is a Tel Aviv multi-stage VC founded in 2010 by Aviad Eyal and Martin Moshal, with $1.5B AUM. It invests pre-seed to growth (Israel Early Stage Fund IV writes $500k-$6M checks) across AI, deep tech, fintech, cyber and crypto; portfolio includes monday.com, Riskified and Rapyd."
+    },
+    "sources": [
+      { "url": "https://www.calcalistech.com/ctechnews/article/bkymiav11wl", "title": "Entrée Capital raises $300 million, lifting total AUM to $1.5 billion", "publisher": "Calcalist (Ctech)", "accessed": "2026-06-02", "supports": "AUM, fund size, stage, check size", "quote": "two new funds totaling $300 million, bringing its assets under management to $1.5 billion ... Israel Early Stage Fund IV will provide pre-seed and seed funding ... deals of $500k to $6 million" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Entrée Capital is multi-stage; included here for its dedicated pre-seed/seed Israel Early Stage funds. Founding year (2010) and portfolio count (180) from reputable secondary aggregation of Entrée's own Medium posts.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-vertex-ventures-israel",
+    "name": { "en": "Vertex Ventures Israel" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1997,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Herzliya",
+    "website": "https://www.vertexventures.co.il/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/vertex-ventures-israel"
+    },
+    "capital": {
+      "aum": { "raw": "$1.6B raised to its funds", "usd": 1600000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "avg seed round size $6.12M (secondary data)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["ai-ml", "cybersecurity", "healthtech", "deeptech"],
+      "thesis": "One of Israel's first and most successful VCs; partners early (Seed to Series B) with top teams in AI, Cyber, Healthtech and Deep Tech."
+    },
+    "track_record": {
+      "portfolio_count": "150+",
+      "notable_investments": [
+        { "company": "CyberArk", "sector": "cybersecurity", "outcome": "IPO" },
+        { "company": "Waze", "sector": "mobility", "outcome": "acquired" },
+        { "company": "SolarEdge", "sector": "climate-energy", "outcome": "IPO" }
+      ],
+      "exits": [
+        { "company": "Waze", "type": "M&A", "year": null, "value": { "raw": "acquired by Google", "usd": null, "currency": null } }
+      ]
+    },
+    "people": [],
+    "summary": {
+      "en": "Vertex Ventures Israel, founded in 1997, is one of Israel's oldest and most successful VCs, with $1.6B raised across funds. It invests Seed to Series B in AI, Cyber, Healthtech and Deep Tech; 47 exits worth over $22B include CyberArk, Waze and SolarEdge."
+    },
+    "sources": [
+      { "url": "https://www.vertexventures.co.il/", "title": "Vertex Ventures Israel", "publisher": "Vertex Ventures Israel", "accessed": "2026-06-02", "supports": "founding year, AUM, stage, sectors, portfolio, exits", "quote": "Founded ... 1997 ... $1.6B under management ... 150+ portfolio companies ... from Seed to Series B, focusing on AI, Cyber, Healthtech, and Deep Tech ... 47 exits generating a total value over $22B" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Multi-stage (Seed to Series B); included for its substantial seed activity. Per-stage check sizes are from secondary trackers and left partially null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-pitango-first",
+    "name": { "en": "Pitango First" },
+    "aka": ["Pitango VC (First fund)"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Herzliya",
+    "website": "https://www.pitango.com/first/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/pitango-venture-capital"
+    },
+    "capital": {
+      "current_fund": { "raw": "~$150 million (half of $300M two-fund raise)", "usd": 150000000, "currency": "USD" },
+      "aum": { "raw": "Pitango VC over $3 billion across three funds", "usd": 3000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "initial checks starting around $5 million", "usd_min": 5000000, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["ai-ml", "deeptech", "cybersecurity", "saas-enterprise"],
+      "thesis": "Early-stage arm of Pitango (founded 1993); invests in AI, infrastructure, quantum, cybersecurity and cloud, often before a product exists, targeting 15-25 core positions while reserving capital for follow-on."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Eyal Niv", "role": "Managing Partner, Pitango First" },
+      { "name": "Ayal Itzkovitz", "role": "Partner, Pitango First" },
+      { "name": "Gad Huldai", "role": "Partner, Pitango First" },
+      { "name": "Yair Cassuto", "role": "Partner, Pitango First" }
+    ],
+    "summary": {
+      "en": "Pitango First is the seed/early-stage fund of Pitango Venture Capital (Israel's largest VC, founded 1993, $3B+ AUM). It raised roughly $150M (half of a $300M 2024 two-fund close) and writes initial checks around $5M in AI, infrastructure, quantum, cyber and cloud, often pre-product."
+    },
+    "sources": [
+      { "url": "https://www.calcalistech.com/ctechnews/article/b14dscfjzg", "title": "Pitango raises $300 million across two new early-stage funds", "publisher": "Calcalist (Ctech)", "accessed": "2026-06-02", "supports": "fund size, sectors, partners, AUM", "quote": "two new seed-stage funds totaling $300 million ... Each fund raised roughly half ... led by Eyal Niv, Dr. Ayal Itzkovitz, Gad Huldai, and Yair Cassuto ... companies in artificial intelligence, infrastructure, quantum, cybersecurity, and cloud computing ... manages over $3 billion in assets across three funds: Pitango First (early-stage investments), Pitango Growth (growth-stage), and Pitango HealthTech" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Pitango First's specific inception year not separately documented; Pitango parent founded 1993. Initial-check figure ($5M) from the same Calcalist coverage.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-cardumen-capital",
+    "name": { "en": "Cardumen Capital" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "offices": [
+      { "country": "Israel", "city": "Tel Aviv" },
+      { "country": "Spain", "city": "Madrid" }
+    ],
+    "website": "https://www.cardumencapital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/cardumen-capital"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund II (deep tech)", "vintage_year": null, "size": { "raw": "$120 million", "usd": 120000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Israel", "Europe", "United States"],
+      "sector_focus": ["ai-ml", "cybersecurity", "deeptech"],
+      "thesis": "Israeli-European deep-tech VC investing in pre-seed and seed companies in AI, cybersecurity, big data and information technologies."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Gil Gidron", "role": "Founding Partner" },
+      { "name": "Gonzalo Martínez de Azagra", "role": "Founding Partner" },
+      { "name": "Igor de la Sota", "role": "Founding Partner" }
+    ],
+    "summary": {
+      "en": "Cardumen Capital is an Israeli-European deep-tech VC founded in 2018 (offices in Tel Aviv and Madrid). It raised $120M for its second fund to back pre-seed and seed startups in AI, cybersecurity and big data."
+    },
+    "sources": [
+      { "url": "https://www.calcalistech.com/ctechnews/article/rkcejrbta", "title": "Cardumen Capital raises $120 million for early-stage deep tech fund", "publisher": "Calcalist (Ctech)", "accessed": "2026-06-02", "supports": "fund size, stage, sectors, founding year, founders, HQ", "quote": "$120 million for their second deep tech fund ... pre-Seed and Seed stage companies ... AI, cybersecurity, big data, and information technologies ... 2018 ... Gil Gidron, Gonzalo Martínez de Azagra, and Igor de la Sota ... Tel Aviv and Madrid" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-remagine-ventures",
+    "name": { "en": "Remagine Ventures" },
+    "aka": ["Reimagine Ventures", "Remagine AI Ventures"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://remagineventures.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/reimagine-ventures"
+    },
+    "capital": {
+      "current_fund": { "raw": "$25 million second pre-Seed fund", "usd": 25000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["ai-ml", "consumer", "gaming", "saas-enterprise"],
+      "thesis": "Writes first institutional checks to Israeli founders at pre-seed; second fund organized around three pillars — AI infrastructure, AI agents, and applications delivering measurable business or consumer outcomes."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Hour One", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Munch", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Eze Vidra", "role": "Co-Founder & Managing Partner" },
+      { "name": "Kevin Baxpehler", "role": "Co-Founder & Managing Partner" }
+    ],
+    "summary": {
+      "en": "Remagine Ventures is a Tel Aviv pre-seed fund founded in 2018 by Eze Vidra and Kevin Baxpehler, writing first institutional checks to Israeli founders. Its $25M second fund focuses on AI infrastructure, AI agents and applications."
+    },
+    "sources": [
+      { "url": "https://www.calcalistech.com/ctechnews/article/byo2o7ql11e", "title": "Remagine Ventures raises $25 million second fund amid war to back AI startups", "publisher": "Calcalist (Ctech)", "accessed": "2026-06-02", "supports": "fund size, stage, founding year, founders, thesis", "quote": "$25 million second pre-Seed fund ... 2018 ... Eze Vidra (Co-founder and Managing Partner) and Kevin Baxpehler ... AI infrastructure, AI agents, and applications that deliver measurable business or consumer outcomes" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-state-of-mind-ventures",
+    "name": { "en": "State of Mind Ventures" },
+    "aka": ["SOMV"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Herzliya",
+    "website": "https://www.somv.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/state-of-mind-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "approximately $400 million", "usd": 400000000, "currency": "USD" },
+      "current_fund": { "raw": "two new funds valued at approximately $200 million (SOMV 3 + Momentum)", "usd": 200000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["ai-ml", "cybersecurity", "deeptech", "spacetech"],
+      "thesis": "Seed and early-growth VC backing founders in big data, AI, cyber, sensors, space, automotive and computer vision."
+    },
+    "track_record": {
+      "portfolio_count": 30,
+      "notable_investments": [
+        { "company": "Perception Point", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Optibus", "sector": "mobility", "outcome": "unicorn" },
+        { "company": "Rivery", "sector": "saas-enterprise", "outcome": "acquired" }
+      ]
+    },
+    "people": [
+      { "name": "Pinhas Buchris", "role": "Co-Founder & Managing Partner" },
+      { "name": "Yuval Baharav", "role": "Co-Founder & Managing Partner" }
+    ],
+    "summary": {
+      "en": "State of Mind Ventures (SOMV) is a Herzliya seed/early-growth VC founded in 2015 by Pinhas Buchris and Yuval Baharav, with ~$400M AUM. Its 2021 raise added SOMV 3 and Momentum funds (~$200M) backing AI, cyber, deep tech and space; portfolio includes Perception Point, Optibus and Rivery."
+    },
+    "sources": [
+      { "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3919652,00.html", "title": "State of Mind Ventures announces two new funds totaling $200 million", "publisher": "Calcalist (Ctech)", "accessed": "2026-06-02", "supports": "new funds, total AUM, stage", "quote": "two new funds, SOMV 3, their third early stage fund, and Momentum for early growth ... valued at approximately $200 million ... total capital under management of SOMV to approximately $400 million" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year (2015), founders and portfolio count (30) from reputable secondary trackers; the $200M/$400M figures are quoted from Calcalist.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-maverick-ventures-israel",
+    "name": { "en": "Maverick Ventures Israel" },
+    "aka": ["Maverick VC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.maverick.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/maverick-ventures-israel"
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "typically $2-5 million per investment", "usd_min": 2000000, "usd_max": 5000000 },
+      "geo_focus": ["Israel"],
+      "sector_focus": ["saas-enterprise", "healthtech", "ai-ml"],
+      "thesis": "Founded by entrepreneurs for entrepreneurs; early-stage fund backing innovative Israeli companies across enterprise applications, high tech and healthtech."
+    },
+    "track_record": {
+      "portfolio_count": 40,
+      "notable_investments": [
+        { "company": "Taboola", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Redis", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Semperis", "sector": "cybersecurity", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Yaron Carni", "role": "Founder & Managing Partner" }
+    ],
+    "summary": {
+      "en": "Maverick Ventures Israel is a Tel Aviv early-stage VC founded in 2013 by Yaron Carni (formerly of Tel Aviv Angel Group). It writes $2-5M checks across enterprise, high tech and healthtech; its ~40-company portfolio has produced 2 unicorns and exits including Taboola and Redis."
+    },
+    "sources": [
+      { "url": "https://www.crunchbase.com/organization/maverick-ventures-israel", "title": "Maverick Ventures Israel - Crunchbase Company Profile", "publisher": "Crunchbase", "accessed": "2026-06-02", "supports": "founding year, founder, portfolio, check size", "quote": "founded in 2013 ... founded by Yaron Carni ... portfolio of about 40 different companies ... typically $2-5 million per investment ... 2 unicorns, 2 IPOs and 16 acquisitions including key companies like Taboola, Artemis Health and Redis" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Facts drawn from reputable aggregators (Crunchbase/Tracxn); could not fetch the firm's own site for primary confirmation. No public total-AUM figure found.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-pico-venture-partners",
+    "name": { "en": "PICO Venture Partners" },
+    "aka": ["Pico Partners"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Jerusalem",
+    "offices": [
+      { "country": "Israel", "city": "Jerusalem" },
+      { "country": "Israel", "city": "Tel Aviv" },
+      { "country": "United States", "city": "New York" }
+    ],
+    "website": "https://www.pico.partners/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/pico-partners"
+    },
+    "capital": {
+      "funds": [
+        { "name": "PICO fund (2019 close)", "vintage_year": 2019, "size": { "raw": "$80M", "usd": 80000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["saas-enterprise", "fintech", "healthtech", "consumer", "cybersecurity"],
+      "thesis": "Early-stage VC backing visionary Israeli entrepreneurs building technology-enabled services solving inefficiencies in large markets — automotive retail, consumer, foodtech, healthtech, enterprise SaaS and cyber."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "ironSource", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "K Health", "sector": "healthtech", "outcome": "unicorn" },
+        { "company": "Gloat", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "summary": {
+      "en": "PICO Venture Partners is an early-stage Israeli VC (offices in Jerusalem, Tel Aviv and New York) that closed an $80M fund in 2019. It backs technology-enabled services in enterprise SaaS, fintech, healthtech, consumer and cyber; portfolio includes ironSource, K Health and Gloat."
+    },
+    "sources": [
+      { "url": "https://www.pico.partners/", "title": "PICO Venture Partners", "publisher": "PICO Venture Partners", "accessed": "2026-06-02", "supports": "offices, stage, sectors, portfolio", "quote": "Offices are located in Jerusalem, Tel Aviv, and New York ... visionary Israeli entrepreneurs building future-defining technologies ... IronSource, Gloat, K Health, ChargeAfter, Spotinst" },
+      { "url": "https://techcrunch.com/2019/09/26/israeli-vc-pico-venture-partners-closes-on-80/", "title": "Israeli VC PICO Venture Partners closes on $80M", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "fund size", "quote": "Israeli VC PICO Venture Partners closes on $80M" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year (2013) from secondary sources; $80M fund close (2019) per TechCrunch headline. Current total AUM not disclosed on site.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-crescendo-venture-partners",
+    "name": { "en": "Crescendo Venture Partners" },
+    "aka": ["CRVP"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://cr-vp.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/crecendo-venture-partners"
+    },
+    "capital": {
+      "current_fund": { "raw": "target up to $100 million", "usd": 100000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "agritech", "edtech", "healthtech"],
+      "thesis": "Tel Aviv VC investing primarily in Israeli seed and early-stage B2B software companies that use AI and data to solve complex problems with strong defensive moats."
+    },
+    "track_record": {
+      "portfolio_count": 10
+    },
+    "people": [
+      { "name": "Zvi Schechter", "role": "Co-Founder & Partner" },
+      { "name": "Yuval Avni", "role": "Co-Founder & Partner" },
+      { "name": "Tal Mizrahi", "role": "Co-Founder & Partner" },
+      { "name": "Mark Kavelaars", "role": "Partner" }
+    ],
+    "summary": {
+      "en": "Crescendo Venture Partners is a Tel Aviv VC (founded by ex-Giza Venture Capital partners with Geneva-based Crescendo group) raising up to $100M to invest pre-seed to Series B in Israeli B2B AI/data software companies."
+    },
+    "sources": [
+      { "url": "https://finder.startupnationcentral.org/investor_page/crescendo-venture-partners", "title": "Crescendo Venture Partners - Israeli VC and Private Equity", "publisher": "Start-Up Nation Central Finder", "accessed": "2026-06-02", "supports": "HQ, stage focus", "quote": "Tel-Aviv based venture capital firm that invests primarily in Israeli seed and early stage technology start-ups ... investments ranging from Pre-Seed to Series B" },
+      { "url": "https://globalaginvesting.com/israel-based-crescendo-ventures-raising-new-tech-vc-fund-100m/", "title": "Israel-Based Crescendo Ventures Raising New Tech VC Fund of up to $100M", "publisher": "Global AgInvesting", "accessed": "2026-06-02", "supports": "fund target, founders, focus", "quote": "raising up to $100 million to invest in Israeli software startups ... led by Zvi Schechter, Dr Yuval Avni and Tal Mizrahi, formerly partners at Giza Venture Capital, together with Mark Kavelaars" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year not pinned to a primary source; fund is described as 'raising up to $100M' (target, may not be final close). Portfolio count (10) from CB Insights.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-fusion-vc",
+    "name": { "en": "Fusion VC" },
+    "aka": ["Fusion", "Fusion LA"],
+    "type": "accelerator",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "offices": [
+      { "country": "Israel", "city": "Tel Aviv" },
+      { "country": "United States", "city": "Dover" }
+    ],
+    "website": "https://www.fusion-vc.com/",
+    "links": {},
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist", "ai-ml"],
+      "thesis": "Israel's leading pre-seed platform backed by top global VCs and 70+ serial founders; funds first-time Israeli founders entering non-traditional industries."
+    },
+    "program": {
+      "length_weeks": 10,
+      "cohort_size": "fewer than 20",
+      "equity_taken_pct": 7.5,
+      "investment": { "raw": "$150,000", "usd": 150000, "currency": "USD" },
+      "format": "in-person",
+      "location": "Tel Aviv",
+      "acceptance_rate": "~1.7%",
+      "eligibility": "Pre-seed Israeli startups, especially first-time founders"
+    },
+    "track_record": {
+      "portfolio_count": "140+",
+      "notable_investments": [
+        { "company": "Innplay Labs", "sector": "gaming", "outcome": "acquired" },
+        { "company": "ScaleOps", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Agora", "sector": "fintech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Innplay Labs", "type": "M&A", "year": null, "value": { "raw": "$300M (to Playtika)", "usd": 300000000, "currency": "USD" } },
+        { "company": "Digital Owl", "type": "M&A", "year": null, "value": { "raw": "over $200M (to Datavant)", "usd": 200000000, "currency": "USD" } }
+      ]
+    },
+    "people": [],
+    "summary": {
+      "en": "Fusion VC is Israel's leading pre-seed accelerator/fund (est. 2017, Tel Aviv & Dover, DE), backed by Insight Partners and 70+ founders. Its 10-week program invests $150K for 7.5% equity (acceptance ~1.7%); it has funded 140+ startups (>$3B combined valuation), with exits including Innplay Labs ($300M to Playtika)."
+    },
+    "sources": [
+      { "url": "https://www.fusion-vc.com/", "title": "Fusion VC", "publisher": "Fusion VC", "accessed": "2026-06-02", "supports": "founding year, program terms, portfolio, exits", "quote": "established in 2017 ... 10-week intensive bootcamp ... Investment: $150,000 per startup ... Equity: 7.5% ... Acceptance Rate: Approximately 1.7% ... funded over 140 startups with a combined valuation of over $3 Billion ... Innplay Labs (acquired by Playtika for $300M) ... Digital Owl (acquired by Datavant for over $200M)" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Operates as a pre-seed accelerator/fund hybrid; classified as accelerator with micro-vc subtype.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  },
+  {
+    "id": "il-cyrus-angel-fund",
+    "name": { "en": "Cyrus Angel Fund" },
+    "type": "vc",
+    "subtypes": ["angel-network"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.cyrusventures.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/cyrus-angel-fund"
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["saas-enterprise", "consumer"],
+      "thesis": "Early-stage / early-seed fund focused on Israeli software startups (SaaS, consumer internet and other software ventures) with very active, hands-on involvement."
+    },
+    "track_record": {},
+    "people": [],
+    "summary": {
+      "en": "Cyrus Angel Fund is a Tel Aviv early-seed fund focused on Israeli software startups (SaaS, consumer internet), known for very active involvement with founders at the earliest stages."
+    },
+    "sources": [
+      { "url": "https://972vc.com/", "title": "972VC - The Israeli Startup Funding Ecosystem", "publisher": "972VC", "accessed": "2026-06-02", "supports": "stage focus, sector", "quote": "Cyrus Angel Fund - Unique early stage fund focused on Israeli software startups" }
+    ],
+    "confidence": "low",
+    "verification_notes": "Smaller/early-seed vehicle; details limited to ecosystem-directory descriptions. Fund size and founding year not verifiable from a primary source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "seed-early-vc"
+  }
+]

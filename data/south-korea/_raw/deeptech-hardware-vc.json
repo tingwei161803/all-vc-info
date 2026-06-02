@@ -1,0 +1,860 @@
+[
+  {
+    "id": "kr-gu-investment",
+    "name": { "en": "G.U. Investment", "local": "지유투자" },
+    "aka": ["GU Investment", "G.U. Equity", "지유투자 유한회사"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://thevc.kr/guequity",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/guequity"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": "지유반도체성장투자조합 273억원", "usd": null, "currency": "KRW" },
+      "funds": [
+        {
+          "name": "지유반도체성장투자조합 (G.U. Semiconductor Growth Fund I)",
+          "vintage_year": null,
+          "size": { "raw": "273억원", "usd": null, "currency": "KRW" }
+        },
+        {
+          "name": "지유시스템반도체상생투자조합 (G.U. System Semiconductor Fund II)",
+          "vintage_year": 2020,
+          "size": { "raw": "305억원", "usd": null, "currency": "KRW" }
+        },
+        {
+          "name": "지유과학기술일자리창출펀드 (G.U. Science Job Creation Fund)",
+          "vintage_year": null,
+          "size": { "raw": "160억원", "usd": null, "currency": "KRW" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["hardware-semiconductor", "deeptech"],
+      "thesis": "Semiconductor-specialist VC ('반도체 명가') founded by former Samsung Semiconductor / Samsung Advanced Institute of Technology engineers, focused on domestic fabless / system-semiconductor companies. Selected as a first-phase operator of the government-backed System Semiconductor Fund co-funded by Samsung Electronics and SK Hynix."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Rebellions (리벨리온)", "sector": "AI semiconductor", "outcome": "active (unicorn)" },
+        { "company": "TEMC (티이엠씨)", "sector": "semiconductor materials/gas", "outcome": "IPO" },
+        { "company": "OpenEdge Technology (오픈엣지테크놀로지)", "sector": "semiconductor IP", "outcome": "IPO" },
+        { "company": "Zaram Technology (자람테크놀로지)", "sector": "fabless semiconductor", "outcome": "IPO" },
+        { "company": "Gaonchips (가온칩스)", "sector": "semiconductor design (DSP)", "outcome": "IPO" },
+        { "company": "NJet (엔젯)", "sector": "hardware / printing", "outcome": "IPO" },
+        { "company": "BlueDot (블루닷)", "sector": "deeptech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "TEMC (티이엠씨)", "type": "IPO", "year": null, "value": { "raw": "텐배거(10배 수익률) 수준의 회수", "usd": null, "currency": "KRW" } }
+      ],
+      "co_investors": ["Samsung Electronics", "SK Hynix", "Korea Growth Investment Corp"]
+    },
+    "people": [
+      { "name": "Yang Jeong-kyu (양정규)", "role": "Representative / CEO (former CEO of Aju IB Investment)", "linkedin": "" },
+      { "name": "Lee Kang-woon (이강운)", "role": "Executive Director / Lead fund manager", "linkedin": "" },
+      { "name": "Cho Jang-ho (조장호)", "role": "Senior Managing Director", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Direct outreach to the firm; no public accelerator program.",
+      "accepts_cold_inbound": null,
+      "contact": ""
+    },
+    "tags": ["semiconductor", "fabless", "system-semiconductor", "deeptech", "kvca-member"],
+    "summary": {
+      "en": "G.U. Investment (지유투자) is a Seoul-based, semiconductor-specialist venture capital firm founded in 2017 by ex-Samsung Semiconductor executives. It manages dedicated semiconductor growth funds (incl. a 273억원 fund and a 305억원 system-semiconductor fund) and was selected as a first-phase operator of the government System Semiconductor Fund co-funded by Samsung Electronics and SK Hynix. Portfolio includes Rebellions, TEMC, OpenEdge Technology, Zaram, and Gaonchips.",
+      "local": "지유투자는 삼성반도체연구원·삼성종합기술원 출신 전문가들이 2017년 설립한 반도체 전문 벤처캐피탈로, 273억원 규모 지유반도체성장투자조합과 305억원 규모 시스템반도체상생투자조합 등 반도체 전용 펀드를 운용한다. 삼성전자·SK하이닉스가 출자한 시스템반도체 펀드 1기 운용사로 선정됐으며, 리벨리온·티이엠씨·오픈엣지테크놀로지·자람테크놀로지·가온칩스 등에 투자했다."
+    },
+    "sources": [
+      {
+        "url": "https://www.newstopkorea.com/news/articleView.html?idxno=29564",
+        "title": "‘반도체 명가’ 지유투자, 성장금융에 잭팟 안겼다",
+        "publisher": "더비스타 / 뉴스톱",
+        "accessed": "2026-06-02",
+        "supports": "founding year 2017, ex-Samsung semiconductor founders, fund names/sizes (273억원, 305억원), portfolio (Rebellion, TEMC, OpenEdge, Zaram, Gaonchips, NJet, BlueDot), TEMC 10x return",
+        "quote": "구성원들 대부분 삼성전자, 삼성종합기술원, 삼성반도체연구원 등을 거친 산업계 전문가들 ... 지유반도체성장투자조합 ... 273억원 ... 지유시스템반도체상생투자조합 ... 305억원 ... 엔젯, 티이엠씨, 오픈엣지테크놀로지, 자람테크놀로지, 블루닷, 가온칩스, 리벨리온 ... 텐배거(10배 수익률) 수준의 회수 실적"
+      },
+      {
+        "url": "https://busan.fnnews.com/news/202007011316061556",
+        "title": "성장금융, 시스템반도체 운용사에 지유투자·피앤피",
+        "publisher": "Financial News",
+        "accessed": "2026-06-02",
+        "supports": "selected as first-phase System Semiconductor Fund operator; mother fund contributions Samsung 500억, SK Hynix 300억, 성장금융 200억",
+        "quote": "지유투자 ... 300억원 ... 피앤피인베스트먼트 ... 200억원 ... 삼성전자 500억원, SK하이닉스 300억원, 성장금융 200억원 ... 1000억원 규모"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Two distinct funds report similar but different sizes for the system-semiconductor vehicle (305억원 closed vs 200억원 allocation in the selection article); both figures quoted. Total AUM not disclosed in a single primary source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "kr-pnp-investment",
+    "name": { "en": "P&P Investment", "local": "피앤피인베스트먼트" },
+    "aka": ["PNP Investment", "P&P Investment Co., Ltd."],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://pnpinvest.co.kr/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/pnpinvestment"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": "시스템반도체 펀드 1기 200억원 배정", "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["hardware-semiconductor", "deeptech"],
+      "thesis": "Venture investment firm established by KOSDAQ-listed Newpower Plasma, specializing in intellectual-property and semiconductor investments — particularly foundry-related design houses, automotive semiconductors, power semiconductors, and DRAM/flash memory controllers. Selected with G.U. Investment as a first-phase operator of the government System Semiconductor Fund."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": ["Samsung Electronics", "SK Hynix", "Korea Growth Investment Corp", "G.U. Investment"]
+    },
+    "people": [
+      { "name": "Kim Nam-jeong (김남정)", "role": "CEO / founding member (patent attorney, engineering PhD, former deputy director at the Ministry of Trade, Industry and Energy)", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Direct outreach to the firm; no public accelerator program.",
+      "accepts_cold_inbound": null,
+      "contact": ""
+    },
+    "tags": ["semiconductor", "fabless", "system-semiconductor", "intellectual-property", "automotive-semiconductor"],
+    "summary": {
+      "en": "P&P Investment (피앤피인베스트먼트) is a Seoul-based venture investment firm founded in 2018 by KOSDAQ-listed Newpower Plasma, specializing in semiconductor and IP investing. It was selected alongside G.U. Investment as a first-phase operator of Korea's government System Semiconductor Fund (co-funded by Samsung Electronics and SK Hynix), with a roughly 200억원 allocation, and focuses on foundry design houses, automotive and power semiconductors, and memory controllers.",
+      "local": "피앤피인베스트먼트는 코스닥 상장사 뉴파워프라즈마가 2018년 설립한 벤처투자사로, 지식재산권과 반도체 분야 투자를 전문으로 한다. 지유투자와 함께 삼성전자·SK하이닉스가 출자한 시스템반도체 펀드 1기 운용사로 선정돼 약 200억원을 배정받았으며, 파운드리 디자인하우스·차량용/전력 반도체·메모리 컨트롤러 분야에 집중한다."
+    },
+    "sources": [
+      {
+        "url": "https://busan.fnnews.com/news/202007011316061556",
+        "title": "성장금융, 시스템반도체 운용사에 지유투자·피앤피",
+        "publisher": "Financial News",
+        "accessed": "2026-06-02",
+        "supports": "selected as System Semiconductor Fund first-phase operator; 200억원 allocation; founded by Newpower Plasma; semiconductor/IP focus; areas (foundry design house, automotive/power semiconductor, memory controller)",
+        "quote": "피앤피인베스트먼트 ... 200억원 ... 삼성전자 500억원, SK하이닉스 300억원, 성장금융 200억원 ... 1000억원 규모"
+      },
+      {
+        "url": "https://m.sedaily.com/amparticle/12747140",
+        "title": "[시그널] 지유투자·피앤피 인베, 시스템반도체 강소 기업 투자 나선다",
+        "publisher": "Seoul Economic Daily",
+        "accessed": "2026-06-02",
+        "supports": "established 2018 by Newpower Plasma; IP and semiconductor specialization; CEO Kim Nam-jeong background; focus on foundry design houses, automotive/power semiconductors, DRAM/flash controllers",
+        "quote": "피앤피인베스트먼트는 2018년 코스닥 상장사 뉴파워프라즈마가 설립한 벤처투자회사로 지식재산권·반도체 분야 스타트업과 성장기업에 투자해왔다"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year and parent (Newpower Plasma) and semiconductor/IP focus are well-supported; total AUM and current portfolio count not found in primary sources. Official site (pnpinvest.co.kr) and THE VC profile returned 403 to automated fetch.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "kr-bnw-investment",
+    "name": { "en": "BNW Investment", "local": "비엔더블유인베스트먼트" },
+    "aka": ["BNW Investments", "BN Investment"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.bnwinvest.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/bnw-investment",
+      "other": ["https://pitchbook.com/profiles/investor/125109-01"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["hardware-semiconductor", "deeptech", "climate-energy"],
+      "thesis": "Korea-based private equity / growth investor concentrated on the semiconductor and secondary-battery (EV materials) value chains, leveraging founders' deep industry expertise. Chairman Jea Wook Kim is a former President of Samsung Electronics' Device Solutions (semiconductor) Division; co-founder Jang Dong-sik is a former Samsung SDI R&D head."
+    },
+    "track_record": {
+      "portfolio_count": 28,
+      "notable_investments": [
+        { "company": "DeepX (딥엑스)", "sector": "AI semiconductor (NPU)", "outcome": "active" },
+        { "company": "EcoPro BM (에코프로비엠)", "sector": "battery materials", "outcome": "active (listed)" }
+      ],
+      "exits": [],
+      "co_investors": ["SkyLake Equity Partners", "AJU IB Investment", "TimeFolio Asset Management"]
+    },
+    "people": [
+      { "name": "Jea Wook Kim (김재욱)", "role": "Chairman (former President, Device Solutions Division, Samsung Electronics)", "linkedin": "" },
+      { "name": "Jang Dong-sik (장동식)", "role": "Co-founder (former VP / head of research, Samsung SDI)", "linkedin": "" }
+    ],
+    "team_size": 15,
+    "application": {
+      "how_to_apply": "Direct outreach to the firm; no public accelerator program.",
+      "accepts_cold_inbound": null,
+      "contact": ""
+    },
+    "tags": ["semiconductor", "battery-materials", "growth-equity", "private-equity", "deeptech"],
+    "summary": {
+      "en": "BNW Investment is a Seoul-based private-equity / growth investor founded in 2013, specializing in the semiconductor and EV-battery-materials value chains. Its leadership is anchored by former Samsung semiconductor and SDI executives. Notable bets include AI-chip startup DeepX and battery-materials maker EcoPro BM. Reported team of 15 (10 partners) and 28 portfolio companies.",
+      "local": "비엔더블유인베스트먼트(BNW)는 2013년 설립된 서울 소재 사모·성장투자사로, 반도체와 2차전지 소재 밸류체인에 특화돼 있다. 삼성전자 반도체(DS) 부문 사장 출신 김재욱 회장과 삼성SDI 연구임원 출신 공동창업자가 이끌며, AI 반도체 스타트업 딥엑스, 배터리 소재 기업 에코프로비엠 등에 투자했다."
+    },
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/korean-semiconductor-industry-titans-back-deepx-in-series-c-funding-round-302141172.html",
+        "title": "Korean Semiconductor Industry Titans Back DEEPX in Series C Funding Round",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-02",
+        "supports": "BNW participated in DeepX Series C; Chairman Jea Wook Kim is former President of Device Solutions Division at Samsung Electronics",
+        "quote": "Mr. Jea Wook Kim, Chairman of BNW Investment, is a renowned semiconductor expert in Korea who served as the former President of the Device Solutions Division at Samsung Electronics."
+      },
+      {
+        "url": "https://www.caproasia.com/2025/08/09/south-korea-ai-semiconductor-startup-deepx-plans-ipo-in-2027-hires-morgan-stanley-for-fundraising-round-raised-80-5-million-in-series-c-funding-at-529-million-valuation-in-2024-founded-in-2018-b/",
+        "title": "South Korea AI Semiconductor Startup DEEPX ... Investors Include SkyLake Equity Partners, BNW Investments, AJU IB & TimeFolio",
+        "publisher": "Caproasia",
+        "accessed": "2026-06-02",
+        "supports": "BNW Investments named among DeepX Series C investors alongside SkyLake, AJU IB, TimeFolio",
+        "quote": "Investors Include SkyLake Equity Partners, BNW Investments, AJU IB & TimeFolio Asset Management"
+      },
+      {
+        "url": "https://www.cbinsights.com/investor/bnw-investment",
+        "title": "BNW Investment Portfolio Investments, Funds, Exits",
+        "publisher": "CB Insights",
+        "accessed": "2026-06-02",
+        "supports": "founded 2013; Seoul HQ; team of 15 incl. 10 partners; 28 portfolio companies incl. EcoPro BM & DeepX; co-founded 2012 by Kim and Jang Dong-sik",
+        "quote": "BNW Investment has a team of 15, including 10 partners. BNW Investment has invested in 28 companies, including ECOPRO BM & DeepX."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year reported as 2013 (CB Insights) but co-founding dated to 2012 in one secondary account; firm is technically PE/growth but is included for its semiconductor specialization. Fund sizes/AUM not disclosed in fetched sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "kr-quantum-ventures-korea",
+    "name": { "en": "Quantum Ventures Korea", "local": "퀀텀벤처스코리아" },
+    "aka": ["Quantum Ventures", "QVK"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://quantumepk.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/quantum-ventures-korea",
+      "other": ["https://thevc.kr/quantumventureskorea"]
+    },
+    "capital": {
+      "aum": { "raw": "약 2,105억원 (2022.01 기준); 이후 3,000억원 이상 목표", "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "ai-ml", "biotech"],
+      "thesis": "Venture capital firm investing in the core technologies and application areas of the 'Fourth Industrial Revolution' (incl. AI semiconductors) plus bio-healthcare. Best known as an early and large backer of AI-chip unicorn FuriosaAI."
+    },
+    "track_record": {
+      "portfolio_count": "58+",
+      "notable_investments": [
+        { "company": "FuriosaAI (퓨리오사AI)", "sector": "AI semiconductor", "outcome": "active (unicorn)" }
+      ],
+      "exits": [],
+      "co_investors": ["Korea Development Bank", "Kakao Investment", "Industrial Bank of Korea"]
+    },
+    "people": [
+      { "name": "Kim Hak-gyun (김학균)", "role": "Founder / CEO (16th Chairman of the Korea Venture Capital Association, from Feb 2025)", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Direct outreach to the firm; no public accelerator program.",
+      "accepts_cold_inbound": null,
+      "contact": ""
+    },
+    "tags": ["deeptech", "ai-semiconductor", "fourth-industrial-revolution", "biotech", "kvca-member"],
+    "summary": {
+      "en": "Quantum Ventures Korea (퀀텀벤처스코리아) is a Seoul-based VC founded in October 2017 by Kim Hak-gyun (current KVCA chairman). It invests in Fourth-Industrial-Revolution core technologies — including AI semiconductors — and bio-healthcare. It is best known as an early, large backer of AI-chip unicorn FuriosaAI, into which it invested a reported total of about 160억원 starting at a sub-10억원 valuation. AUM was ~2,105억원 as of early 2022.",
+      "local": "퀀텀벤처스코리아는 2017년 10월 김학균(현 한국벤처캐피탈협회 회장)이 설립한 서울 소재 VC로, 4차 산업혁명 핵심기술(AI 반도체 포함)과 바이오헬스케어에 투자한다. AI 반도체 유니콘 퓨리오사AI의 초기·대규모 투자자로 잘 알려져 있으며, 기업가치 100억원 미만일 때부터 투자해 총 약 160억원을 투입했다. 2022년 초 기준 운용자산은 약 2,105억원이다."
+    },
+    "sources": [
+      {
+        "url": "https://www.topdaily.kr/articles/89803",
+        "title": "퀀텀벤처스, 공격적 투자 행보 '눈길'",
+        "publisher": "Topdaily",
+        "accessed": "2026-06-02",
+        "supports": "AUM ~2,105억원 (2022.01); 10 funds; FuriosaAI total investment 160억원; 2021 deployed 470억원 to 22 companies",
+        "quote": "운용자산 ... 2,105억원 ... 퓨리오사AI ... 총 투자금액 ... 160억원 ... 22개 ... 470억원"
+      },
+      {
+        "url": "https://news.nate.com/view/20250303n09466",
+        "title": "\"벤처생태계 살아야 글로벌 AI 전쟁 승리\"…김학균 VC협회장 목표는",
+        "publisher": "Nate / 머니투데이",
+        "accessed": "2026-06-02",
+        "supports": "founder Kim Hak-gyun became 16th KVCA chairman (Feb 2025); founded 2017; Fourth Industrial Revolution + bio focus; FuriosaAI early backer",
+        "quote": "퀀텀벤처스코리아 ... 2017년 ... 4차 산업혁명 ... 퓨리오사AI"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM figure (2,105억원) is from early 2022; one secondary search summary reported a larger figure (~3,480억원) for 2025 but that was not confirmed from a primary article, so the 2022 figure is used with date qualifier. Portfolio count (58) is from CB Insights aggregation.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "kr-futureplay",
+    "name": { "en": "FuturePlay", "local": "퓨처플레이" },
+    "aka": ["Future Play"],
+    "type": "accelerator",
+    "subtypes": ["vc", "venture-studio"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://futureplay.co/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/futureplay-co",
+      "other": ["https://www.cbinsights.com/investor/futureplay"]
+    },
+    "capital": {
+      "aum": { "raw": "약 1,000억원 (국내 액셀러레이터 중 최대 규모로 보도)", "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Future Play Innovation Growth Fund No. 1", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "United States"],
+      "sector_focus": ["deeptech", "robotics", "hardware-semiconductor", "ai-ml", "spacetech", "mobility"],
+      "thesis": "Deep-tech-focused accelerator and early-stage VC ('for those who build, not just dream') backing technology-driven startups in robotics, autonomous driving, AI, sensors, and aerospace from inception through Series B and beyond."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "format": "hybrid",
+      "location": "Seoul (Gangnam-gu)",
+      "demo_day": null,
+      "perks": ["team building support", "follow-on funding", "business development / networking"],
+      "application_url": "https://futureplay.co/",
+      "application_cycles": ["rolling"],
+      "acceptance_rate": null,
+      "eligibility": "Early-stage deep-tech startups, primarily in South Korea (with US exposure)."
+    },
+    "track_record": {
+      "portfolio_count": "170+",
+      "notable_investments": [
+        { "company": "Seoul Robotics", "sector": "robotics / autonomous", "outcome": "active" },
+        { "company": "Innospace (이노스페이스)", "sector": "spacetech (launch vehicles)", "outcome": "IPO (KOSDAQ)" },
+        { "company": "SOS LAB", "sector": "LiDAR / sensors", "outcome": "active" },
+        { "company": "Tidepool / 티디팜", "sector": "deeptech", "outcome": "IPO (KOSDAQ 2024)" }
+      ],
+      "exits": [
+        { "company": "Innospace (이노스페이스)", "type": "IPO", "year": 2026, "value": { "raw": null, "usd": null, "currency": "KRW" } }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Kwon Oh-Hyoung (권오형)", "role": "CEO", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Apply via the firm's website; rolling deep-tech accelerator and early-stage investment.",
+      "accepts_cold_inbound": true,
+      "contact": ""
+    },
+    "tags": ["deeptech", "accelerator", "robotics", "spacetech", "tips-operator"],
+    "summary": {
+      "en": "FuturePlay (퓨처플레이) is a Seoul-based deep-tech accelerator and early-stage VC founded in 2014, regarded as one of Korea's largest accelerators by capital (~1,000억원 reported). It specializes in robotics, autonomous driving, AI, sensors, and aerospace, and has backed 170+ startups including Seoul Robotics, LiDAR maker SOS LAB, and KOSDAQ-listed space-launch company Innospace. It is a designated TIPS operator (named 'TIPS Operator of the Year' in 2025).",
+      "local": "퓨처플레이는 2014년 설립된 서울 기반 딥테크 액셀러레이터 겸 초기투자사로, 국내 액셀러레이터 중 자본 규모(약 1,000억원)가 가장 큰 곳으로 보도된다. 로보틱스·자율주행·AI·센서·우주항공에 특화해 서울로보틱스, 라이다 기업 SOS LAB, 코스닥 상장 우주발사체 기업 이노스페이스 등 170개 이상 스타트업에 투자했다. TIPS 운용사로, 2025년 '올해의 TIPS 운용사'에 선정됐다."
+    },
+    "sources": [
+      {
+        "url": "https://futureplay.co/",
+        "title": "FuturePlay — official site",
+        "publisher": "FuturePlay",
+        "accessed": "2026-06-02",
+        "supports": "founded 2014; Seoul (Gangnam-gu) HQ; deep-tech thesis; portfolio Seoul Robotics, Innospace, Tidepool, SOS LAB; CEO Kwon Oh-Hyoung",
+        "quote": "For those who build, not just dream ... Seoul Robotics ... Innospace ... SOS LAB"
+      },
+      {
+        "url": "https://www.kedglobal.com/venture-capital/newsView/ked202204250015",
+        "title": "S.Korean accelerators FuturePlay and Bluepoint Partners rev up for IPOs",
+        "publisher": "KED Global (The Korea Economic Daily)",
+        "accessed": "2026-06-02",
+        "supports": "largest accelerator funding amount ~100 billion won; 170+ startups; deep-tech focus since establishment",
+        "quote": "FuturePlay boasts the biggest funding amount among all domestic accelerators with 100 billion won ... injected funds into more than 170 startups ... specializes in deep tech sectors such as robotics, autonomous driving, and artificial intelligence"
+      },
+      {
+        "url": "https://koreatechdesk.com/futureplay-tips-operator-of-the-year-2025",
+        "title": "FuturePlay Secures 'TIPS Operator of the Year'",
+        "publisher": "KoreaTechDesk",
+        "accessed": "2026-06-02",
+        "supports": "designated TIPS operator; named TIPS Operator of the Year 2025",
+        "quote": "FuturePlay Secures 'TIPS Operator of the Year'"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year cited as 2013 in some sources and 2014 in others; 2014 is used per Crunchbase/CBInsights and the official-site interpretation. Fund-level sizes and check sizes not individually disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "kr-bluepoint-partners",
+    "name": { "en": "Bluepoint Partners", "local": "블루포인트파트너스" },
+    "aka": ["BluePoint Partners", "Bluepoint"],
+    "type": "accelerator",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://bluepoint.ac/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/bluepoint-partners-2",
+      "other": ["https://tracxn.com/d/accelerator-incubator/bluepointpartners/__VRJTdCOMADtxklwtv23zjCu6I4If9F49jRH5BZSArKI"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "biotech", "climate-energy", "ai-ml", "agritech"],
+      "thesis": "Partnership-driven deep-tech accelerator and seed VC backing science- and engineering-based founders across biotech, medical, cleantech, materials, AI, and industrial/hardware tech, with strong roots in Korea's Daejeon science cluster."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "format": "hybrid",
+      "location": "Seoul (Gangnam) and Daejeon (Tech Valley)",
+      "demo_day": null,
+      "perks": ["hands-on team building", "networking", "follow-on investment"],
+      "application_url": "https://bluepoint.ac/",
+      "application_cycles": ["rolling"],
+      "acceptance_rate": null,
+      "eligibility": "Early-stage deep-tech / science-based startups in South Korea."
+    },
+    "track_record": {
+      "portfolio_count": "140+",
+      "notable_investments": [
+        { "company": "Tomocube", "sector": "deeptech / 3D holographic microscopy", "outcome": "active" },
+        { "company": "Nota AI", "sector": "AI optimization / edge AI", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Lee Yong-kwan (이용관)", "role": "CEO / Co-founder", "linkedin": "" }
+    ],
+    "team_size": 46,
+    "application": {
+      "how_to_apply": "Apply via website; rolling deep-tech accelerator and seed investment.",
+      "accepts_cold_inbound": true,
+      "contact": ""
+    },
+    "tags": ["deeptech", "accelerator", "daejeon", "science-based", "kosdaq-ipo-track"],
+    "summary": {
+      "en": "Bluepoint Partners (블루포인트파트너스) is a Korean deep-tech accelerator and seed VC founded in 2014, with offices in Seoul (Gangnam) and Daejeon (Tech Valley). It backs science- and engineering-based founders in biotech, cleantech, materials, AI, and industrial/hardware tech, has supported ~140 startups (8 exits as of 2026), and pursued a KOSDAQ listing as one of Korea's first publicly listed accelerators. Notable portfolio: Tomocube, Nota AI.",
+      "local": "블루포인트파트너스는 2014년 설립된 한국의 딥테크 액셀러레이터 겸 시드 투자사로, 서울(강남)과 대전(테크밸리)에 사무소를 둔다. 바이오·클린테크·소재·AI·산업/하드웨어 기술 등 과학·공학 기반 창업가를 지원하며 약 140개 스타트업에 투자(2026년 기준 8건 회수)했고, 국내 최초로 코스닥 상장을 추진한 액셀러레이터 중 하나다. 대표 포트폴리오로 토모큐브, 노타AI 등이 있다."
+    },
+    "sources": [
+      {
+        "url": "https://alltechasia.com/interview-bluepoint-partners-korean-accelerator-supports-deep-tech-startups/",
+        "title": "Interview: Bluepoint Partners is a Korean accelerator that supports deep tech startups",
+        "publisher": "AllTechAsia",
+        "accessed": "2026-06-02",
+        "supports": "deep-tech accelerator focus; partnership-driven model; Daejeon roots",
+        "quote": "Bluepoint Partners is a Korean accelerator that supports deep tech startups"
+      },
+      {
+        "url": "https://tracxn.com/d/accelerator-incubator/bluepointpartners/__VRJTdCOMADtxklwtv23zjCu6I4If9F49jRH5BZSArKI",
+        "title": "BluePoint Partners — 2026 Investor Profile",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "founded 2013/2014; Seoul + Daejeon offices; deep-tech sector focus; ~140 startups supported; 8 exits as of March 2026; team of 46; portfolio Tomocube, Nota",
+        "quote": "founded in 2013, based in Seoul ... offices in Daejeon (Tech Valley) and Seoul (Gangnam) ... supported around 140 startups ... As of March 2026, BluePoint Partners has witnessed 8 portfolio exits. Notable companies include Tomocube and Nota."
+      },
+      {
+        "url": "https://www.kedglobal.com/venture-capital/newsView/ked202204250015",
+        "title": "S.Korean accelerators FuturePlay and Bluepoint Partners rev up for IPOs",
+        "publisher": "KED Global",
+        "accessed": "2026-06-02",
+        "supports": "Bluepoint pursuing KOSDAQ IPO as an accelerator",
+        "quote": "S.Korean accelerators FuturePlay and Bluepoint Partners rev up for IPOs"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year reported as both 2013 and 2014 across sources; 2014 used as the commonly cited incorporation year. Program-level investment amount and equity % not publicly disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "kr-ascendo-ventures",
+    "name": { "en": "Ascendo Ventures", "local": "어센도벤처스" },
+    "aka": ["Ascendo Ventures LLC"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.ascendovc.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/ascendo-ventures-llc",
+      "other": ["https://www.ascendovc.com/about", "https://www.ascendovc.com/team"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Ascendo New Horizon Fund", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Asia"],
+      "sector_focus": ["deeptech", "ai-ml", "robotics", "hardware-semiconductor", "climate-energy", "healthtech"],
+      "thesis": "Stage-agnostic 'lifecycle partner' VC whose portfolio has shifted to roughly 90% deep tech over five years; invests in industrial AI, robotics, advanced materials, energy/cleantech, IoT and digital health, with a deliberate regional (Daejeon, Busan) footprint to tap Korea's deep-tech research base."
+    },
+    "track_record": {
+      "portfolio_count": "46+",
+      "notable_investments": [
+        { "company": "WithRobot", "sector": "industrial AI / robotics", "outcome": "active" },
+        { "company": "Enerzai", "sector": "industrial AI", "outcome": "active" },
+        { "company": "Alsemy", "sector": "semiconductor design AI / advanced materials", "outcome": "active" },
+        { "company": "Grinergy", "sector": "energy / batteries", "outcome": "active" },
+        { "company": "LIVSMED", "sector": "surgical devices (medtech)", "outcome": "IPO (KRX, Dec 2025)" },
+        { "company": "ROKIT Healthcare", "sector": "biotech / 3D bioprinting", "outcome": "IPO (KRX)" }
+      ],
+      "exits": [
+        { "company": "LIVSMED", "type": "IPO", "year": 2025, "value": { "raw": "$938M market cap at listing", "usd": 938000000, "currency": "USD" } },
+        { "company": "ROKIT Healthcare", "type": "IPO", "year": null, "value": { "raw": "$76.4M market cap at listing", "usd": 76400000, "currency": "USD" } }
+      ],
+      "co_investors": []
+    },
+    "people": [],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Direct outreach to the firm.",
+      "accepts_cold_inbound": null,
+      "contact": ""
+    },
+    "tags": ["deeptech", "industrial-ai", "robotics", "advanced-materials", "regional-vc"],
+    "summary": {
+      "en": "Ascendo Ventures (어센도벤처스) is a Seoul-based VC founded in 2017 that positions itself as a stage-agnostic lifecycle partner and has shifted its portfolio to roughly 90% deep tech over five years. It invests in industrial AI, robotics, advanced materials, energy and digital health, and has opened Daejeon and Busan offices since 2023 to source regional deep-tech deals. It has invested in 46+ companies (incl. WithRobot, Enerzai, Alsemy, Grinergy) with KRX IPO exits LIVSMED and ROKIT Healthcare.",
+      "local": "어센도벤처스는 2017년 설립된 서울 기반 VC로, 단계에 구애받지 않는 '라이프사이클 파트너'를 표방하며 최근 5년간 포트폴리오의 약 90%를 딥테크로 전환했다. 산업용 AI·로보틱스·첨단소재·에너지·디지털헬스에 투자하며, 2023년부터 대전·부산 사무소를 열어 지역 딥테크 딜을 발굴한다. 46개 이상 기업(위드로봇·에너자이·알세미·그리너지 등)에 투자했고, 리브스메드·로킷헬스케어의 KRX 상장 회수 실적이 있다."
+    },
+    "sources": [
+      {
+        "url": "https://ionanalytics.com/insights/mergermarket/korean-vc-investors-expect-national-ai-agenda-to-reshape-their-industry/",
+        "title": "Korean VC investors expect national AI agenda to reshape their industry",
+        "publisher": "ION Analytics (Mergermarket)",
+        "accessed": "2026-06-02",
+        "supports": "deep tech grew from ~50% to ~90% of portfolio over five years; Daejeon & Busan offices since 2023",
+        "quote": "Deep tech increased from about 50% to 90% of the portfolio in the past five years ... offices in Daejeon and Busan since 2023"
+      },
+      {
+        "url": "https://tracxn.com/d/venture-capital/ascendo-ventures/__l_VOiHlJb60dq1XA-syrCNjHpKyrjQt-6E83xqwOYY4",
+        "title": "Ascendo Ventures — 2026 Investor Profile, Portfolio, Team & Investment Trends",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "founded 2017; 46 companies invested as of Dec 2024; portfolio incl. WithRobot, Enerzai, Alsemy, Grinergy; LIVSMED & ROKIT Healthcare KRX listings with market caps",
+        "quote": "As of Dec 2024, Ascendo Ventures has invested in 46 companies ... LIVSMED got listed on the Korea Exchange (KRX), in Dec 2025 at marketcap of $938M and ROKIT Healthcare got listed on the Korea Exchange (KRX) at marketcap of $76.4M"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "The ~90% deep-tech figure and regional offices are from a reputable secondary (ION Analytics); exact AUM and fund sizes are not publicly disclosed. Some portfolio companies (e.g., LIVSMED, ROKIT) are medtech/biotech-adjacent rather than pure hardware/semiconductor.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "kr-innopolis-partners",
+    "name": { "en": "Innopolis Partners", "local": "이노폴리스파트너스" },
+    "aka": ["Innopolis Partners LLC", "이노폴리스파트너스(유)"],
+    "type": "vc",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2006,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "offices": [
+      { "country": "South Korea", "city": "Seoul" },
+      { "country": "South Korea", "city": "Daejeon" }
+    ],
+    "website": "https://innollc.com/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/innopolispartners", "https://ko.wikipedia.org/wiki/이노폴리스파트너스"]
+    },
+    "capital": {
+      "aum": { "raw": "누적 4,000억원+ (운용 펀드 9개)", "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "대덕벤처투자조합 (Daeduk Fund I)", "vintage_year": null, "size": { "raw": "800억원", "usd": null, "currency": "KRW" } },
+        { "name": "공공기술기반 펀드 (Public Technology-Based Fund)", "vintage_year": null, "size": { "raw": "500억원", "usd": null, "currency": "KRW" } },
+        { "name": "과학기술성장 펀드 (Science & Technology Growth Fund)", "vintage_year": null, "size": { "raw": "420억원", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "biotech", "spacetech", "robotics"],
+      "thesis": "LLC-type VC with incubation functions specializing in public-technology commercialization and deep tech — semiconductors, advanced materials, aerospace, biotech and robotics — with a strong base in Korea's Daedeok/Daejeon science cluster. First/leading TIPS and ScaleUp TIPS operator."
+    },
+    "track_record": {
+      "portfolio_count": "130+",
+      "notable_investments": [
+        { "company": "Hana Materials (하나머티리얼즈)", "sector": "semiconductor materials", "outcome": "active (listed)" },
+        { "company": "LB Semicon (LB세미콘)", "sector": "semiconductor (test/packaging)", "outcome": "active (listed)" },
+        { "company": "Cosem (코셈)", "sector": "scientific instruments / electron microscopes", "outcome": "active" },
+        { "company": "Perigee Aerospace (페리지에어로스페이스)", "sector": "spacetech (launch vehicles)", "outcome": "active" },
+        { "company": "EasyEndo Surgical (이지엔도서지컬)", "sector": "surgical robotics", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": ["National Pension Service", "Industrial Bank of Korea", "Korea Growth Investment Corp"]
+    },
+    "people": [
+      { "name": "Lee Sang-jin (이상진)", "role": "Co-CEO / Partner", "linkedin": "" },
+      { "name": "Lee Ki-ju (이기주)", "role": "Co-CEO / Partner", "linkedin": "" },
+      { "name": "Cho Gyu-cheol (조규철)", "role": "VP / Partner", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Direct outreach; TIPS / ScaleUp TIPS deep-tech program participation.",
+      "accepts_cold_inbound": null,
+      "contact": ""
+    },
+    "tags": ["deeptech", "public-technology", "daejeon", "semiconductor", "tips-operator", "scaleup-tips"],
+    "summary": {
+      "en": "Innopolis Partners (이노폴리스파트너스) is an LLC-type, incubation-oriented VC founded in 2006 that specializes in public-technology commercialization and deep tech — semiconductors, advanced materials, aerospace, biotech and robotics — anchored in Korea's Daedeok/Daejeon science cluster. It manages 9 funds totaling 4,000억원+ cumulatively (including the 800억원 Daeduk Fund I), backs 130+ companies (incl. semiconductor firms Hana Materials, LB Semicon, and space-launch firm Perigee Aerospace), and is a leading TIPS / ScaleUp TIPS operator.",
+      "local": "이노폴리스파트너스는 2006년 설립된 인큐베이팅 기능을 갖춘 유한회사형 VC로, 공공기술 사업화와 딥테크(반도체·소재·항공우주·바이오·로보틱스)에 특화돼 있으며 대덕연구단지를 기반으로 한다. 800억원 규모 대덕벤처투자조합 등 9개 펀드, 누적 4,000억원 이상을 운용하고 130개 이상 기업(하나머티리얼즈·LB세미콘·코셈·페리지에어로스페이스 등)에 투자했으며, TIPS·스케일업 TIPS 운용사다."
+    },
+    "sources": [
+      {
+        "url": "https://innollc.com/",
+        "title": "이노폴리스파트너스(유) — official site",
+        "publisher": "Innopolis Partners",
+        "accessed": "2026-06-02",
+        "supports": "founded 2006; cumulative 4,000억원+; 9 active funds; Daeduk Fund 800억원 IRR 17.4%; 130+ portfolio, 40+ exits; semiconductor/materials/aerospace/bio/robotics focus; co-CEOs; TIPS & ScaleUp TIPS operator; portfolio Hana Materials, LB Semicon, Cosem, Perigee, EasyEndo",
+        "quote": "4000억원+ ... 운용 펀드 9개 ... 대덕벤처투자조합 800억 ... IRR 17.4% ... 130+ 포트폴리오 ... 40+ 회수 ... 공공기술 사업화 전문성, Deep Tech 이해도 ... 하나머티리얼즈, LB세미콘, ㈜코셈 ... 페리지에어로스페이스 ... ㈜이지엔도서지컬"
+      },
+      {
+        "url": "https://ko.wikipedia.org/wiki/이노폴리스파트너스",
+        "title": "이노폴리스파트너스 — 위키백과",
+        "publisher": "Wikipedia (Korean)",
+        "accessed": "2026-06-02",
+        "supports": "established 2006; public-technology commercialization and deep-tech / advanced manufacturing & biotech focus; Daeduk Fund liquidation IRR 17.4%; LPs incl. National Pension, IBK, Growth Finance",
+        "quote": "공공기술 사업화 ... Deep Tech ... 대덕펀드 ... IRR 17.4% ... 국민연금 ... 기업은행"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund-by-fund sizes vary slightly between the official site and secondary write-ups (e.g., Daeduk Fund cited as 800억원 on the official site vs '80 billion won' / 800억 in secondary translations — consistent). Some individual fund sizes are approximate. Total exits stated as 40+ on the official site.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "kr-nextg-investment",
+    "name": { "en": "NextG Investment", "local": "넥스트지인베스트먼트" },
+    "aka": ["Next G Investment"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": null,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "",
+    "links": { "other": [] },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["deeptech", "ai-ml", "hardware-semiconductor"],
+      "thesis": "Korean venture capital firm with a deep-tech emphasis; its leadership notes that Korea has only 'tens of companies' in deep-tech categories mature enough to attract the country's largest VCs."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Nina Jung (정나라)", "role": "Investment Director (former KVIC executive; in VC since 2007)", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Direct outreach to the firm.",
+      "accepts_cold_inbound": null,
+      "contact": ""
+    },
+    "tags": ["deeptech", "ai-ml"],
+    "summary": {
+      "en": "NextG Investment (넥스트지인베스트먼트) is a Seoul-based VC with a deep-tech investment emphasis. Investment Director Nina Jung, a former KVIC executive in the local VC industry since 2007, has noted that Korea has only 'tens of companies' in deep-tech categories mature enough to draw the country's largest VCs. Public details on fund size, founding year, and portfolio are limited.",
+      "local": "넥스트지인베스트먼트는 딥테크 투자에 중점을 둔 서울 기반 VC다. 한국벤처투자(KVIC) 출신이자 2007년부터 국내 VC 업계에서 활동한 정나라 투자이사는 한국에 국내 대형 VC가 투자할 만큼 성숙한 딥테크 기업이 '수십 개' 수준에 불과하다고 진단했다. 펀드 규모·설립 연도·포트폴리오 등 공개 정보는 제한적이다."
+    },
+    "sources": [
+      {
+        "url": "https://ionanalytics.com/insights/mergermarket/korean-vc-investors-expect-national-ai-agenda-to-reshape-their-industry/",
+        "title": "Korean VC investors expect national AI agenda to reshape their industry",
+        "publisher": "ION Analytics (Mergermarket)",
+        "accessed": "2026-06-02",
+        "supports": "NextG Investment is a deep-tech VC; Nina Jung is Investment Director, former KVIC executive, in VC since 2007; Korea has only 'tens of companies' in mature deep tech",
+        "quote": "Korea only has 'tens of companies' in deep tech categories that are mature enough to appeal to the country's biggest VC firms ... Nina Jung ... worked in the local VC space since 2007"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Only one reputable secondary source confirms the firm and its deep-tech focus; founding year, AUM, website, and portfolio could not be verified. Included as a confirmed-real but thinly-documented deep-tech investor.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "kr-system-semiconductor-fund",
+    "name": { "en": "System Semiconductor Fund (Korea Growth Investment Corp / Samsung-SK Hynix)", "local": "시스템반도체 펀드 (시스템반도체상생펀드)" },
+    "aka": ["시스템반도체상생펀드", "반도체성장펀드", "Semiconductor Growth Fund"],
+    "type": "government-program",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.kdbgrowth.co.kr/",
+    "links": { "other": ["https://gpis.skhynix.com/dongbanPortalPage.do?page=es-finance-semiconductor-fund"] },
+    "capital": {
+      "aum": { "raw": "1기 1,000억원 규모 (모펀드 출자: 삼성전자 500억, SK하이닉스 300억, 성장금융 200억)", "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "지유투자 운용 (G.U. Investment vehicle)", "vintage_year": 2020, "size": { "raw": "300억원 배정", "usd": null, "currency": "KRW" } },
+        { "name": "피앤피인베스트먼트 운용 (P&P Investment vehicle)", "vintage_year": 2020, "size": { "raw": "200억원 배정", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["hardware-semiconductor", "deeptech"],
+      "thesis": "Government / corporate co-funded fund-of-funds program (anchored by Korea Growth Investment Corp with capital from Samsung Electronics and SK Hynix) that backs domestic small and mid-sized system-semiconductor (fabless) companies through selected VC operators, supporting M&A, marketing and overseas expansion."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "1기 500억원 (지유투자 300억 + 피앤피 200억)", "usd": null, "currency": "KRW" },
+      "format": "fund-of-funds via selected VC operators",
+      "location": "South Korea",
+      "demo_day": null,
+      "perks": ["M&A support", "marketing support", "overseas expansion support"],
+      "application_url": "",
+      "application_cycles": [],
+      "acceptance_rate": "3.5:1 operator selection competition (1st phase)",
+      "eligibility": "Domestic system-semiconductor / fabless companies with global competitiveness."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": ["Samsung Electronics", "SK Hynix", "Korea Growth Investment Corp", "G.U. Investment", "P&P Investment"]
+    },
+    "people": [],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Capital flows to startups via the selected VC operators (G.U. Investment, P&P Investment); not a direct-apply program.",
+      "accepts_cold_inbound": null,
+      "contact": ""
+    },
+    "tags": ["semiconductor", "fabless", "system-semiconductor", "fund-of-funds", "government-corporate"],
+    "summary": {
+      "en": "The System Semiconductor Fund (시스템반도체 펀드) is a Korean government/corporate co-funded fund-of-funds backing domestic fabless / system-semiconductor companies. Its first phase (~1,000억원, with mother-fund contributions of 500억원 from Samsung Electronics, 300억원 from SK Hynix and 200억원 from Korea Growth Investment Corp) deployed 500억원 through two selected operators — G.U. Investment (300억원) and P&P Investment (200억원) — chosen via a 3.5:1 competition.",
+      "local": "시스템반도체 펀드(시스템반도체상생펀드)는 국내 팹리스·시스템반도체 기업을 지원하는 정부·기업 공동 출자형 모자펀드다. 1기는 약 1,000억원 규모로, 모펀드에 삼성전자 500억원·SK하이닉스 300억원·성장금융 200억원이 출자됐으며, 3.5:1 경쟁을 거쳐 선정된 지유투자(300억원)·피앤피인베스트먼트(200억원) 2개 운용사를 통해 500억원을 집행했다."
+    },
+    "sources": [
+      {
+        "url": "https://busan.fnnews.com/news/202007011316061556",
+        "title": "성장금융, 시스템반도체 운용사에 지유투자·피앤피",
+        "publisher": "Financial News",
+        "accessed": "2026-06-02",
+        "supports": "fund mother-fund contributions (Samsung 500억, SK Hynix 300억, 성장금융 200억); operators G.U. (300억) and P&P (200억); 1,000억원 scale; supports fabless/system semiconductor incl. M&A, marketing, overseas expansion",
+        "quote": "삼성전자 500억원, SK하이닉스 300억원, 성장금융 200억원 ... 지유투자 ... 300억원 ... 피앤피인베스트먼트 ... 200억원 ... 1000억원 규모"
+      },
+      {
+        "url": "https://m.sedaily.com/amparticle/12747140",
+        "title": "[시그널] 지유투자·피앤피 인베, 시스템반도체 강소 기업 투자 나선다",
+        "publisher": "Seoul Economic Daily",
+        "accessed": "2026-06-02",
+        "supports": "operators selected via 3.5:1 competition to invest first-phase 500억원 in system-semiconductor companies",
+        "quote": "3.5대 1의 경쟁률 ... 시스템반도체 기업 ... 500억원"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "This is a fund-of-funds / public-private program rather than an independent firm; its operating VCs (G.U. Investment, P&P Investment) are listed separately. Figures are from 2020 first-phase reporting; subsequent phases/total program size may have grown. Website field uses Korea Growth Investment Corp (성장금융) as the anchor manager.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  }
+]

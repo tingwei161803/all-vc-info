@@ -1,0 +1,568 @@
+[
+  {
+    "id": "kr-s-ventures",
+    "name": { "en": "S Ventures", "local": "에스벤처스" },
+    "aka": ["Sventures, Inc.", "에스벤처스 주식회사"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://sventures.co.kr/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/sventures", "https://www.unicornfactory.co.kr/article/2024122123493050745"]
+    },
+    "capital": {
+      "aum": { "raw": "약 950억원 (공동운용 포함)", "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "에스 세컨더리 투자조합 1호 (S Secondary Investment Combination 1)", "vintage_year": null, "size": { "raw": "105억원", "usd": null, "currency": "KRW" } },
+        { "name": "2023 에스 채고차 지역균형발전 투자조합 (S 2023 Regional Balanced Development Investment Combination)", "vintage_year": 2023, "size": { "raw": "300억원", "usd": null, "currency": "KRW" } },
+        { "name": "국방기술혁신펀드 3차 (Defense Technology Innovation Fund 3, GP)", "vintage_year": 2024, "size": { "raw": "약 400억원 목표 (방산 펀드)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Busan / regional Korea"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "spacetech", "robotics", "ai-ml"],
+      "thesis": "Deep-tech specialist VC focusing on materials/components/equipment (소부장), defense technology, robotics, semiconductors and space; emphasizes specialization over trend-chasing and supports regional (Busan) development funds."
+    },
+    "track_record": {
+      "portfolio_count": "6+ (per THE VC)",
+      "notable_investments": [
+        { "company": "Bionever (바이온에버)", "sector": "biotech", "outcome": "active" },
+        { "company": "Alpes (알프스)", "sector": "deeptech", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Kim Hyun-chul (김현철)", "role": "Co-CEO", "linkedin": "" },
+      { "name": "Do Seung-hwan (도승환)", "role": "Co-CEO (former CEO of BNK Venture Investment)", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via official website",
+      "accepts_cold_inbound": null,
+      "contact": "sventures.co.kr/contact"
+    },
+    "tags": ["emerging-2020plus", "rookie-league", "deep-tech", "defense", "regional-fund"],
+    "summary": {
+      "en": "S Ventures is a deep-tech specialist VC founded in 2021 by veterans Kim Hyun-chul and Do Seung-hwan. It has grown to roughly KRW 95 billion AUM across four funds, was selected as a Mother Fund 'Super-Gap Rookie' GP (July 2024) and as a GP for the Korea Growth Finance Defense Technology Innovation Fund, and runs regional (Busan) and defense-focused vehicles.",
+      "local": "에스벤처스는 2021년 설립된 딥테크 전문 VC로, 김현철·도승환 공동대표가 이끈다. 운용자산(공동운용 포함) 약 950억원 규모이며, 모태펀드 '슈퍼루키' 리그와 성장금융 국방기술혁신펀드 GP로 선정됐다."
+    },
+    "sources": [
+      {
+        "url": "https://www.unicornfactory.co.kr/article/2024122123493050745",
+        "title": "모태펀드 이어 성장금융까지 사로잡은 '특급루키' 에스벤처스",
+        "publisher": "유니콘팩토리 (머니투데이)",
+        "accessed": "2026-06-02",
+        "supports": "founding year 2021, co-CEOs, fund sizes, AUM, rookie league and defense fund GP selection",
+        "quote": "에스벤처스는 2021년 7월에 설립된 한국계 벤처캐피탈입니다. 현재까지 결성한 펀드는 4개, 운용자산은 약 950억원(공동운용 포함)입니다."
+      },
+      {
+        "url": "https://www.bloter.net/news/articleView.html?idxno=628506",
+        "title": "'성장금융 GP 선정' 에스벤처스, 대형하우스 제친 딥테크 전문 VC",
+        "publisher": "블로터 (Bloter)",
+        "accessed": "2026-06-02",
+        "supports": "deep-tech focus, fund names and sizes, AUM ~400억, defense GP win, co-CEO experience",
+        "quote": "2023 에스 채고차 지역균형발전 투자조합: 300억원; 에스 세컨더리 투자조합 1호: 105억원; 딥테크 스타트업에 주로 투자하고"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year (2021), AUM ~950억, and fund sizes confirmed by two reputable secondary sources (unicornfactory/MoneyToday and Bloter). HQ city (Seoul) per THE VC profile; official website did not render for direct quote. Check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "kr-ecopro-partners",
+    "name": { "en": "EcoPro Partners", "local": "에코프로파트너스" },
+    "aka": ["EcoPro Partners Co., Ltd.", "㈜에코프로파트너스"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Cheongju",
+    "website": "https://www.ecopro-partners.com/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/ecopropartners", "https://www.ecopro.co.kr/sub01030208"]
+    },
+    "capital": {
+      "aum": { "raw": "1000억원 돌파 (2024 1분기); 2023년 말 999억8000만원", "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "누적 15개 투자조합 (15 investment combinations cumulative)", "vintage_year": null, "size": { "raw": "AUM 약 1000억원", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea (non-capital / regional 지방 focus)"],
+      "sector_focus": ["climate-energy", "hardware-semiconductor", "biotech", "deeptech", "impact"],
+      "thesis": "Corporate VC subsidiary of EcoPro Group (battery materials / environment). Invests in secondary batteries, environment/energy, materials & components and biotech; roughly 70% of capital is directed to non-capital-region (지방) ventures. Government Scale-up TIPS operator."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "",
+      "location": "Cheongju",
+      "demo_day": null,
+      "perks": [],
+      "application_url": "",
+      "application_cycles": [],
+      "acceptance_rate": null,
+      "eligibility": "Scale-up TIPS linked secondary battery / future mobility companies"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Seongil Hi-Tech (성일하이텍)", "sector": "battery recycling", "outcome": "active" },
+        { "company": "Mintech (민테크)", "sector": "battery diagnostics", "outcome": "IPO planned 2024" },
+        { "company": "Soul Material (소울머티리얼)", "sector": "thermal materials", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": ["Hyundai Securities (Scale-up TIPS co-operator)"]
+    },
+    "people": [
+      { "name": "Lee Jae-hoon (이재훈)", "role": "President / CEO (former Korea Technopark Promotion Association chair, Yeungnam University professor)", "linkedin": "" },
+      { "name": "Lee Dong-chae (이동채)", "role": "Founder (former EcoPro chairman)", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via official website",
+      "accepts_cold_inbound": null,
+      "contact": "ecopro-partners.com"
+    },
+    "tags": ["emerging-2020plus", "non-hub", "cvc", "battery", "climate", "regional-fund", "scale-up-tips"],
+    "summary": {
+      "en": "EcoPro Partners is the corporate VC arm of EcoPro Group, established July 2020 and headquartered in Cheongju (outside Seoul). It focuses on secondary batteries, environment/energy, materials and biotech, directs roughly 70% of its capital to non-capital-region ventures, crossed KRW 100 billion AUM across 15 funds in early 2024, and serves as a government Scale-up TIPS operator.",
+      "local": "에코프로파트너스는 에코프로그룹의 기업주도형 벤처캐피털(CVC)로 2020년 7월 청주에서 설립됐다. 2차전지·환경·소재·바이오에 투자하며 자금의 약 70%를 비수도권(지방) 벤처기업에 투자한다. 2024년 1분기 누적 운용자산(AUM) 1000억원을 돌파했다."
+    },
+    "sources": [
+      {
+        "url": "https://www.ecopro-partners.com/about",
+        "title": "ABOUT – EcoPro Partners",
+        "publisher": "EcoPro Partners (official)",
+        "accessed": "2026-06-02",
+        "supports": "founding date July 20 2020, Cheongju HQ, parent EcoPro, capital 50억, environment/energy/materials focus",
+        "quote": "설립일: 2020년 7월 20일 … ㈜에코프로가 설립한 중소기업창업투자회사입니다 … 자본금: 50억원"
+      },
+      {
+        "url": "https://biz.heraldcorp.com/article/3303787",
+        "title": "에코프로파트너스, 운용자산 1000억 시대…\"70%는 지방 벤처 투자\"",
+        "publisher": "헤럴드경제 (Herald Corp)",
+        "accessed": "2026-06-02",
+        "supports": "AUM ~1000억 / 2023 year-end 999.8억, 70% regional investment, CEO Lee Jae-hoon, 15 funds, sector breakdown",
+        "quote": "전체의 약 70% 가량이 지방에 소재한 유망 벤처기업에 초점이 맞춰져 있다 … 지난해 말 기준 999억8000만원"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding date (2020-07-20) and Cheongju HQ confirmed by official site; AUM ~100B KRW and 70%-regional focus confirmed by Herald Corp. Individual fund sizes not itemized publicly. Both a 2020+ founding AND a non-hub (Cheongju) HQ, fitting both segment criteria.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "kr-on-venture-investment",
+    "name": { "en": "ON Venture Investment", "local": "오엔벤처투자" },
+    "aka": ["ON Venture Investment Co., Ltd.", "오엔벤처투자(주)", "On Venture"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.onventure.co.kr/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/onventureinvestment", "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202006181405283720101846"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": "오엔 제6호 투자조합 140억원 (2025)", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "오엔 제1호 세컨더리 투자조합 (ON Venture Secondary Fund 1)", "vintage_year": 2020, "size": { "raw": "100억원", "usd": null, "currency": "KRW" } },
+        { "name": "오엔 제2호 세컨더리 투자조합", "vintage_year": 2021, "size": { "raw": "200억원", "usd": null, "currency": "KRW" } },
+        { "name": "오엔 제3호 세컨더리 투자조합", "vintage_year": 2021, "size": { "raw": "100억원", "usd": null, "currency": "KRW" } },
+        { "name": "오엔 제1호 사모투자 합자회사 (PEF, liquidated 2025)", "vintage_year": 2022, "size": { "raw": "210억원", "usd": null, "currency": "KRW" } },
+        { "name": "오엔 제4호 투자조합", "vintage_year": 2023, "size": { "raw": "60억원", "usd": null, "currency": "KRW" } },
+        { "name": "오엔 제5호 세컨더리 투자조합", "vintage_year": 2024, "size": { "raw": "340억원", "usd": null, "currency": "KRW" } },
+        { "name": "오엔 제6호 투자조합", "vintage_year": 2025, "size": { "raw": "140억원", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist"],
+      "thesis": "Secondary-focused VC founded by ex-Partners Investment executive Kim Sang-chul; specializes in venture secondary transactions (LP stake / portfolio purchases) alongside primary investments, positioning itself as a 'good advisor' to portfolio companies."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Kim Sang-chul (김상철)", "role": "CEO / Lead Fund Manager (former co-CEO of Partners Investment)", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via official website",
+      "accepts_cold_inbound": null,
+      "contact": "onventure.co.kr"
+    },
+    "tags": ["emerging-2020plus", "secondary", "spinout"],
+    "summary": {
+      "en": "ON Venture Investment is a secondary-specialist VC established 27 May 2020 with KRW 2 billion capital by Kim Sang-chul, a former co-CEO of Partners Investment. Its flagship ON Secondary Fund 1 (KRW 10 billion) closed June 2020, and it has since formed at least six funds plus a PEF, with several dedicated venture-secondary vehicles.",
+      "local": "오엔벤처투자는 파트너스인베스트먼트 공동대표 출신 김상철 대표가 2020년 5월 27일 자본금 20억원으로 설립한 세컨더리 전문 VC다. 1호 세컨더리 투자조합(100억원)을 2020년 6월 결성했으며 이후 6호까지 다수 펀드를 결성했다."
+    },
+    "sources": [
+      {
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202006181405283720101846",
+        "title": "'파트너스 출신' 김상철 대표, '오엔벤처투자' 설립 새출발",
+        "publisher": "thebell",
+        "accessed": "2026-06-02",
+        "supports": "founding date 2020-05-27, capital 20억, CEO Kim Sang-chul ex-Partners Investment, first fund 100억 secondary closed June 2020",
+        "quote": "오엔벤처투자는 김상철 대표가 2020년 5월 27일 자본금 20억원으로 설립 … 1호 세컨더리 투자조합이 100억원 규모로 결성"
+      },
+      {
+        "url": "https://www.onventure.co.kr/fund",
+        "title": "FUND | 오엔벤처투자홈페이지",
+        "publisher": "ON Venture Investment (official)",
+        "accessed": "2026-06-02",
+        "supports": "fund list with sizes and dates (Fund 1 100억 2020.06.30 through Fund 6 140억 2025.09.25; PEF 210억 2022)",
+        "quote": "오엔 제1호 세컨더리 투자조합 100억원 2020.06.30 … 오엔 제5호 세컨더리 투자조합 340억원 2024.04.08 … 오엔 제6호 투자조합 140억원 2025.09.25"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding date, capital, founder and first fund confirmed by thebell; full fund roster with sizes confirmed by the firm's official fund page. AUM total and check size not disclosed. HQ city (Seoul) per THE VC; exact address not published.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "kr-vine-ventures",
+    "name": { "en": "Vine Ventures", "local": "바인벤처스" },
+    "aka": ["ViNe Ventures", "바인벤처스 주식회사"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Incheon",
+    "website": "https://vinevc.co.kr/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/vineventures", "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202201191639193760101941"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "Target 2022 AUM goal", "vintage_year": 2022, "size": { "raw": "AUM 500억원 (2022 1차 목표)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Incheon / regional"],
+      "sector_focus": ["biotech", "healthtech", "deeptech", "robotics", "mobility"],
+      "thesis": "Early-stage specialist VC founded by ex-Mega Investment co-CEO Cho Myung-woo; strong in creation/very-early-stage companies, with a biotech/healthcare specialism (partner Shin Na-ri) and a deep-tech focus (materials/components, robotics, aviation, future vehicles). Relocated HQ to Incheon Songdo to anchor in the Incheon startup ecosystem."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": ["Incheon Technopark"]
+    },
+    "people": [
+      { "name": "Cho Myung-woo (조명우)", "role": "CEO (former co-CEO of Mega Investment / JB Investment)", "linkedin": "" },
+      { "name": "Shin Na-ri (신나리)", "role": "Partner / Managing Director (biotech & healthcare)", "linkedin": "" },
+      { "name": "Kim Chan-yun (김찬윤)", "role": "Managing Director", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via official website",
+      "accepts_cold_inbound": null,
+      "contact": "vinevc.co.kr"
+    },
+    "tags": ["emerging-2020plus", "non-hub", "incheon", "early-stage", "bio-healthcare", "deep-tech"],
+    "summary": {
+      "en": "Vine Ventures (ViNe Ventures) is an early-stage VC founded in January 2022 by Cho Myung-woo, former co-CEO of Mega Investment, with biotech specialist Shin Na-ri. It targets creation-stage startups in biotech/healthcare and deep tech, set an initial AUM goal of KRW 50 billion, and in March 2025 relocated its headquarters to Songdo, Incheon to anchor in the regional startup ecosystem.",
+      "local": "바인벤처스는 메가인베스트먼트 공동대표 출신 조명우 대표가 바이오·헬스케어 전문 신나리 파트너와 함께 2022년 1월 설립한 초기기업 전문 VC다. 창업초기 투자에 강점을 갖고 있으며 2025년 3월 본사를 인천 송도로 이전했다."
+    },
+    "sources": [
+      {
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202201191639193760101941",
+        "title": "조명우 전 메가인베 대표, 창투사 바인벤처스 설립",
+        "publisher": "thebell",
+        "accessed": "2026-06-02",
+        "supports": "founding Jan 2022, CEO Cho Myung-woo ex-Mega Investment, partners Shin Na-ri & Kim Chan-yun, early-stage + bio/healthcare focus, AUM 500억 target",
+        "quote": "올해 상반기 … 운용자산(AUM) 500억원을 조성하는게 2022년 1차 목표 … 바이오·헬스케어 전문 심사역인 신나리 파트너와 함께 의기투합해 설립"
+      },
+      {
+        "url": "https://v.daum.net/v/ZTWbjAkPSj",
+        "title": "초기기업 전문 투자 '바인벤처스', 인천 송도로 본사 이전",
+        "publisher": "Daum News",
+        "accessed": "2026-06-02",
+        "supports": "HQ relocation to Incheon Songdo March 2025, deep-tech focus areas, CEO Cho Myung-woo, Incheon Technopark partnership",
+        "quote": "바인벤처스가 인천광역시의 훌륭한 스타트업 인프라를 활용해 적극적으로 초기창업기업 투자와 육성에 기여하고 싶다 … 인천 송도로 본사 이전"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding (Jan 2022), founders and early-stage/bio focus confirmed by thebell; Incheon Songdo HQ relocation (Mar 2025) confirmed by Daum News. AUM 500억 is a stated 2022 goal, not confirmed actual AUM. Both a 2020+ founding AND a non-hub (Incheon) HQ.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "kr-daseong-ventures",
+    "name": { "en": "Daseong Ventures", "local": "다성벤처스" },
+    "aka": ["Dasung Ventures", "다성벤처스 주식회사"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://dasungvc.co.kr/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/dasungventures", "https://dealsite.co.kr/articles/105886"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "Mother Fund Rookie League fund (2025 GP selection)", "vintage_year": 2025, "size": { "raw": "약 100억원 (모태펀드 출자 기반)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist", "ai-ml", "consumer"],
+      "thesis": "Generalist early-stage VC founded by veteran investor Kim Jung-min (a first-generation Korean VC, founding CEO of Mega Investment) together with Danawa founder Sung Jang-hyeon; selected as a Mother Fund Rookie League GP in 2025."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Kim Jung-min (김정민)", "role": "CEO (first-gen VC; founding CEO of Mega Investment / now JB Investment)", "linkedin": "" },
+      { "name": "Sung Jang-hyeon (성장현)", "role": "Co-founder / Chairman (former chairman of Danawa)", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via official website",
+      "accepts_cold_inbound": null,
+      "contact": "dasungvc.co.kr"
+    },
+    "tags": ["emerging-2020plus", "rookie-league", "spinout", "generalist"],
+    "summary": {
+      "en": "Daseong Ventures is a generalist early-stage VC established 26 May 2023 with KRW 3 billion capital, co-founded by veteran investor Kim Jung-min (founding CEO of Mega Investment) and Danawa founder Sung Jang-hyeon. It was selected as a Mother Fund Rookie League GP (securing roughly KRW 10 billion) in 2025.",
+      "local": "다성벤처스는 메가인베스트먼트 초대 대표를 지낸 1세대 벤처캐피털리스트 김정민 대표와 다나와 창업자 성장현이 함께 2023년 5월 26일 자본금 30억원으로 설립한 초기투자 전문 VC다. 2025년 모태펀드 루키리그 위탁운용사(GP)로 선정됐다."
+    },
+    "sources": [
+      {
+        "url": "https://dealsite.co.kr/articles/105886",
+        "title": "14년 인연 성장현·김정민, '다성벤처스'서 의기투합",
+        "publisher": "딜사이트 (Dealsite)",
+        "accessed": "2026-06-02",
+        "supports": "founding date 2023-05-26, capital 30억, co-founders Kim Jung-min (ex-Mega Investment CEO) and Sung Jang-hyeon (Danawa founder), Kim's 20+ yr VC background",
+        "quote": "다성벤처스는 2023년 5월 26일 자본금 30억원으로 설립 … 다나와 성장현 전 회장과 메가인베스트먼트(현 JB인베스트먼트) 초대 대표 김정민이 설립"
+      },
+      {
+        "url": "https://www.newstopkorea.com/news/articleView.html?idxno=27828",
+        "title": "초접전 모태펀드 루키리그, '중고 신인' 빛났다",
+        "publisher": "더비스타 (뉴스톱)",
+        "accessed": "2026-06-02",
+        "supports": "2025 Mother Fund Rookie League GP selection, ~100억 secured, founder Kim Jung-min background",
+        "quote": "다성벤처스 … 약 100억원을 확보 … 메가인베스트먼트(현 JB인베스트먼트) 초대 대표를 지낸 김정민"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding date (2023-05-26), capital (30억) and founders confirmed by Dealsite; 2025 Rookie League GP selection confirmed by Newstop/더비스타. Sector focus inferred as generalist; AUM not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "kr-nautilus-investment",
+    "name": { "en": "Nautilus Investment", "local": "노틸러스인베스트먼트" },
+    "aka": ["Nautilus Investment Co., Ltd.", "노틸러스인베스트먼트(주)"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Incheon",
+    "website": "https://nautilusinve.com/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/nautilusinvestment", "https://www.asiae.co.kr/article/2021112612382496130"]
+    },
+    "capital": {
+      "aum": { "raw": "약 1400억원 (2021)", "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "데이터펀드 (Data Economy fund, 2024 Mother Fund 1st round)", "vintage_year": 2024, "size": { "raw": "170억원", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Incheon", "Silicon Valley (via Nautilus Venture Partners)"],
+      "sector_focus": ["deeptech", "ai-ml", "biotech", "hardware-semiconductor"],
+      "thesis": "Deep-tech and data-economy focused VC led by ex-Samsung Venture Investment partner Lim Sung-won; became Incheon's first registered venture capital firm after relocating from Pangyo in October 2021, and is linked to Silicon Valley-based Nautilus Venture Partners for global deep-tech expansion."
+    },
+    "track_record": {
+      "portfolio_count": "25+ (2021)",
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Lim Sung-won (임성원)", "role": "CEO (former Samsung Venture Investment; partner at Nautilus Venture Partners, Silicon Valley)", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via official website",
+      "accepts_cold_inbound": null,
+      "contact": "nautilusinve.com"
+    },
+    "tags": ["emerging-2020plus", "non-hub", "incheon", "deep-tech", "data-economy"],
+    "summary": {
+      "en": "Nautilus Investment is a deep-tech / data-economy VC led by former Samsung Venture Investment partner Lim Sung-won. In October 2021 it relocated its HQ from Pangyo to become Incheon's first registered venture capital firm, managing roughly KRW 140 billion across 25+ portfolio companies, and in 2024 it formed a KRW 17 billion data-economy fund backed by the Mother Fund. It is affiliated with Silicon Valley-based Nautilus Venture Partners.",
+      "local": "노틸러스인베스트먼트는 삼성벤처투자 출신 임성원 대표가 이끄는 딥테크·데이터이코노미 전문 VC다. 2021년 10월 판교에서 본사를 이전해 '인천 제1호 벤처캐피털'이 됐으며, 약 1400억원 규모 자산과 25개 이상 포트폴리오를 운용한다. 2024년 모태펀드 기반 170억원 데이터펀드를 결성했다."
+    },
+    "sources": [
+      {
+        "url": "https://www.asiae.co.kr/article/2021112612382496130",
+        "title": "'인천 제1호 벤처캐피털' 노틸러스인베스트먼트, 내년 투자 본격화",
+        "publisher": "아시아경제 (Asia Economy)",
+        "accessed": "2026-06-02",
+        "supports": "Incheon's first VC, HQ relocation from Pangyo Oct 2021, ~1400억 AUM, 25 portfolio companies, CEO Lim Sung-won, Nautilus Venture Partners (Silicon Valley) affiliation",
+        "quote": "노틸러스인베스트먼트 … 2021년 10월 경기 판교에서 본사를 이전 … 인천 제1호 등록 벤처캐피털 … 약 1400억원 규모의 자산을 운용 … 25개사"
+      },
+      {
+        "url": "https://m.thebell.co.kr/m/newsview.asp?svccode=&newskey=202408281036591920102645",
+        "title": "'루키' 노틸러스인베, 170억 데이터펀드 결성",
+        "publisher": "thebell",
+        "accessed": "2026-06-02",
+        "supports": "2024 data-economy fund 170억, lead PM Lim Sung-won, data/next-computing focus",
+        "quote": "신규 펀드는 170억원 규모로 조성 … 데이터이코노미 국가경쟁력강화를 위한 넥스트 빅씽 분야"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Included as a NON-HUB firm: Incheon's first registered VC (HQ relocated from Pangyo Oct 2021). The Korean entity 노틸러스인베스트먼트 was incorporated Nov 2019 (per THE VC) — slightly before the 2020 cutoff — but qualifies under the non-hub criterion and its Incheon presence dates from 2021. AUM ~1400억 and 25 portfolio figures are from 2021; data fund 170억 confirmed 2024.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "kr-weventures",
+    "name": { "en": "WE Ventures", "local": "위벤처스" },
+    "aka": ["WeVentures", "위벤처스 유한회사"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://weventures.co.kr/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/weventures", "https://dealsite.co.kr/articles/53829"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "미래에셋위반도체1호 창업·벤처전문 사모투자 합자회사", "vintage_year": 2021, "size": { "raw": "1,001억원", "usd": null, "currency": "KRW" } },
+        { "name": "위청년메이트펀드1호", "vintage_year": 2022, "size": { "raw": "753억원", "usd": null, "currency": "KRW" } },
+        { "name": "아이비케이-위스케일업펀드1호 (IBK-WE Scale-up Fund 1)", "vintage_year": 2024, "size": { "raw": "677억원", "usd": null, "currency": "KRW" } },
+        { "name": "WE지방기업육성펀드1호 (WE Regional Enterprise Fund 1)", "vintage_year": 2019, "size": { "raw": "160억원", "usd": null, "currency": "KRW" } },
+        { "name": "2025KIF-WE초기펀드2호", "vintage_year": 2025, "size": { "raw": "274억원", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "regional (지방)"],
+      "sector_focus": ["generalist", "ai-ml", "deeptech", "biotech", "consumer", "impact"],
+      "thesis": "LLC-type VC founded by three LB Investment alumni (led by Ha Tae-hun, who earlier co-founded DSC Investment). Invests across AI/data, consumer, deep tech, bio/health, ESG and digital content, with explicit focus on early-stage companies, regional (지방) enterprises and social ventures."
+    },
+    "track_record": {
+      "portfolio_count": "107 (per THE VC)",
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": ["Mirae Asset", "IBK"]
+    },
+    "people": [
+      { "name": "Ha Tae-hun (하태훈)", "role": "CEO (former LB Investment director; co-founder of DSC Investment)", "linkedin": "" },
+      { "name": "Park Jeong-geun (박정근)", "role": "Vice President (ex-LB Investment)", "linkedin": "" },
+      { "name": "Kim So-hee (김소희)", "role": "Managing Director, Investment (ex-LB Investment)", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via official website",
+      "accepts_cold_inbound": null,
+      "contact": "weventures.co.kr"
+    },
+    "tags": ["emerging-2020plus", "spinout", "regional-fund", "impact", "llc-vc"],
+    "summary": {
+      "en": "WE Ventures is an LLC-type VC founded in April 2019 (capital KRW 500 million) by three LB Investment alumni led by Ha Tae-hun, who previously co-founded DSC Investment. Explicitly targeting early-stage, regional (지방) and social-venture companies, it has formed numerous funds since 2019 — including a KRW 100.1 billion semiconductor PEF with Mirae Asset (2021) — and lists 107 portfolio companies.",
+      "local": "위벤처스는 LB인베스트먼트 출신 3인(하태훈 대표 외)이 2019년 4월 자본금 5억원으로 설립한 LLC형 VC다. 하 대표는 앞서 DSC인베스트먼트를 공동 창업했다. 초기·지방·소셜벤처 투자에 집중하며 미래에셋과 1001억원 규모 반도체 PEF(2021) 등 다수 펀드를 운용한다."
+    },
+    "sources": [
+      {
+        "url": "https://dealsite.co.kr/articles/53829",
+        "title": "신생 VC 위벤처스, LB인베스트 출신 3인방 뭉쳤다",
+        "publisher": "딜사이트 (Dealsite, former Paxnet News)",
+        "accessed": "2026-06-02",
+        "supports": "founded April 2019, capital 5억, three LB Investment alumni (Ha Tae-hun, Park Jeong-geun, Kim So-hee), Ha co-founded DSC Investment, early-stage/regional/social-venture focus",
+        "quote": "지난 4월 자본금 5억원 규모로 설립된 위벤처스 … 하태훈 대표를 비롯해 투자 핵심 인력 3명 모두가 LB인베스트먼트 출신"
+      },
+      {
+        "url": "https://weventures.co.kr/Funds",
+        "title": "Funds | WE Ventures",
+        "publisher": "WE Ventures (official)",
+        "accessed": "2026-06-02",
+        "supports": "fund roster with sizes and vintages incl. 미래에셋위반도체1호 1,001억원 (2021), 위청년메이트펀드1호 753억원 (2022), IBK-WE스케일업펀드1호 677억원 (2024), WE지방기업육성펀드1호 160억원 (2019)",
+        "quote": "미래에셋위반도체1호창업 벤처전문사모투자 합자회사 1,001억 원 2021 … 위청년메이트펀드1호 753억 원 2022 … WE지방기업육성펀드1호 160억 원 2019"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded April 2019 — just before the strict 2020 cutoff — but included for this catch-all segment because of its strong emerging/spinout profile and explicit regional (지방) and social-venture mandate (a WE Regional Enterprise Fund predates the cutoff). Most of its scaled funds were formed 2020-2025. Portfolio count 107 per THE VC; AUM total not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  }
+]

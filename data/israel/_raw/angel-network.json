@@ -1,0 +1,699 @@
+[
+  {
+    "id": "il-ourcrowd",
+    "name": { "en": "OurCrowd" },
+    "type": "crowdfunding",
+    "subtypes": ["angel-syndicate", "vc"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Jerusalem",
+    "website": "https://www.ourcrowd.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/ourcrowd-llc",
+      "crunchbase": "https://www.crunchbase.com/organization/ourcrowd",
+      "other": ["https://en.wikipedia.org/wiki/OurCrowd"]
+    },
+    "capital": {
+      "aum": { "raw": "over $2.6 billion", "usd": 2600000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": "minimum investment $10,000 in companies or $50,000 in funds", "usd_min": 10000, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel", "Global"],
+      "sector_focus": ["generalist", "deeptech", "cybersecurity", "ai-ml", "fintech"],
+      "thesis": "Equity crowdfunding / online venture investing platform that gives accredited investors worldwide access to vetted startup and fund deals, co-investing alongside its members in each round."
+    },
+    "track_record": {
+      "portfolio_count": "over 500 portfolio companies",
+      "notable_investments": [
+        { "company": "Lemonade", "sector": "insurtech", "outcome": "IPO" },
+        { "company": "Beyond Meat", "sector": "foodtech", "outcome": "IPO" },
+        { "company": "Innoviz", "sector": "mobility", "outcome": "IPO" },
+        { "company": "CyberX", "sector": "cybersecurity", "outcome": "acquired" }
+      ],
+      "exits": [
+        { "company": "Lemonade", "type": "IPO", "year": 2020, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "CyberX", "type": "M&A", "year": 2020, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Jonathan (Jon) Medved", "role": "Founder & Chairman (former CEO)" }
+    ],
+    "application": {
+      "how_to_apply": "Startups can apply for funding via the OurCrowd website; investors register as accredited members.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["equity-crowdfunding", "syndicate", "online-venture-platform"],
+    "summary": {
+      "en": "OurCrowd is a Jerusalem-based global online venture investing platform founded in 2013 by Jon Medved. It lets accredited investors worldwide co-invest in startups and funds curated by OurCrowd, which leads or joins each deal. It manages over $2.6B and has registered 240,000+ members across 195 countries, with 500+ portfolio companies and 70+ exits including Lemonade, Beyond Meat and CyberX."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/OurCrowd",
+        "title": "OurCrowd - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "founded year, founder, HQ, minimum investment, exits, notable companies",
+        "quote": "Founding Year: 2013; Founder: Jonathan Medved; HQ City: Jerusalem ... Registered Investors: 'over 200,000 registered members' ... Minimum Investment: '$10,000 in companies or $50,000 in funds' ... Number of Exits: 'over 60 exits' ... notable exits 'Beyond Meat, Lemonade, Innoviz and Hub Security' plus 'CyberX by Microsoft'"
+      },
+      {
+        "url": "https://www.timesofisrael.com/ourcrowds-medved-bullish-about-war-tech-as-he-steps-down-as-ceo-becomes-chairman/",
+        "title": "OurCrowd's Medved bullish about defense tech as he steps down as CEO, becomes chairman",
+        "publisher": "The Times of Israel",
+        "accessed": "2026-06-02",
+        "supports": "AUM, member count, portfolio and exits, founder transition",
+        "quote": "OurCrowd manages $2.6 billion in assets and has invested in over 500 startups ... 240,000 registered members across 195 countries who can invest as little as $10,000 ... more than 68 fund positions, 500 investments in portfolio companies and 73 exits"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Member count and exit figures vary by source/date (200k members and 60+ exits in 2022; 240k members and 73 exits in 2025). Classified as crowdfunding given its online accredited-investor model; functions as a syndicate that co-invests with members.",
+    "last_updated": "2026-06-02",
+    "researched_by": "il-angel-network"
+  },
+  {
+    "id": "il-iangels",
+    "name": { "en": "iAngels" },
+    "type": "angel-syndicate",
+    "subtypes": ["vc", "crowdfunding"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.iangels.com/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/iangels",
+      "crunchbase": "https://www.cbinsights.com/investor/iangels",
+      "other": ["https://www.iangels.com/startups/"]
+    },
+    "capital": {
+      "aum": { "raw": "over $400m AUM", "usd": 400000000, "currency": "USD" },
+      "funds": [
+        { "name": "iAngels Ventures (first institutional fund)", "vintage_year": 2021, "size": { "raw": "$55.5 million (€47M)", "usd": 55500000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["ai-ml", "fintech", "deeptech", "biotech", "cybersecurity"],
+      "thesis": "Women-led online investment platform giving accredited investors worldwide curated, due-diligence-vetted access to Israeli tech startups via co-investment syndicates and managed VC funds."
+    },
+    "track_record": {
+      "portfolio_count": "79 investments",
+      "notable_investments": [
+        { "company": "eToro", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Arbe Robotics", "sector": "mobility", "outcome": "IPO" },
+        { "company": "Immunai", "sector": "biotech", "outcome": "active" },
+        { "company": "Applitools", "sector": "saas-enterprise", "outcome": "acquired" }
+      ],
+      "exits": [
+        { "company": "Arbe Robotics", "type": "IPO", "year": null, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Applitools", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Shelly Hod Moyal", "role": "Founding Partner" },
+      { "name": "Mor Assia", "role": "Founding Partner" },
+      { "name": "David Assia", "role": "Co-founder" }
+    ],
+    "application": {
+      "how_to_apply": "Investors register on iAngels platform; startups are sourced through iAngels' proprietary due-diligence pipeline.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["women-led", "syndicate", "co-investment", "online-platform"],
+    "summary": {
+      "en": "iAngels is a women-led Tel Aviv investment platform founded in 2014 by Shelly Hod Moyal, Mor Assia and David Assia. It lets accredited investors worldwide co-invest in curated Israeli tech startups via syndicates/SPVs and managed VC funds. It has over $400M AUM, a global network of ~20,000 members, ~24 profitable exits (eToro, Arbe, Applitools), and closed a $55.5M first institutional fund anchored by the European Investment Fund in 2021."
+    },
+    "sources": [
+      {
+        "url": "https://www.iangels.com/",
+        "title": "iAngels: Investing in Innovation",
+        "publisher": "iAngels",
+        "accessed": "2026-06-02",
+        "supports": "founded year, founders, HQ, AUM, exits, portfolio companies",
+        "quote": "Founding Year: 2014; Founders: Shelly Hod Moyal and Mor Assia; Headquarters: Tel Aviv, Israel ... 'over $400m AUM' ... '24 profitable exits' ... Notable Portfolio Companies: Arbe ... eToro ... Immunai"
+      },
+      {
+        "url": "https://www.prnewswire.com/news-releases/iangels-ventures-raises-55-5m-47m-for-first-institutional-fund-anchored-by-the-european-investment-fund-bringing-total-aum-to-over-300m-255m-301341785.html",
+        "title": "iAngels Ventures Raises $55.5M for First Institutional Fund",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-02",
+        "supports": "first institutional fund size, AUM, member network, exits, syndicate model",
+        "quote": "a venture capital firm founded in 2014 by Shelly Hod Moyal, Mor Assia and David Assia ... 'With more than $300 million AUM, a global network of 20,000 members' ... 'After recording 22 exits in 7 years' ... 'the successful closing of $55.5 million in capital for iAngels Ventures, the firm's first institutional fund'"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM grew from $300M (2021 PR) to $400M (current homepage); exit count cited as 22 (2021) and 24 (current). Number of investments (79) from CB Insights. Classified as angel-syndicate given its co-investment/SPV core, with VC-fund and platform subtypes.",
+    "last_updated": "2026-06-02",
+    "researched_by": "il-angel-network"
+  },
+  {
+    "id": "il-angel-investment-network",
+    "name": { "en": "Israel Angel Investment Network" },
+    "aka": ["Angel Investment Network Israel"],
+    "type": "angel-network",
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": null,
+    "website": "https://www.angelinvestmentnetwork.co.il/",
+    "links": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "investor ranges shown from $1,000 to $1,000,000+", "usd_min": 1000, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist"],
+      "thesis": "Online matchmaking platform (Israeli arm of the global Angel Investment Network) connecting Israeli entrepreneurs seeking funding with registered angel investors across 19+ industries."
+    },
+    "application": {
+      "how_to_apply": "Entrepreneurs create and submit pitches on the platform; investors browse pitches and connect.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["matchmaking-platform", "directory"],
+    "summary": {
+      "en": "The Israel Angel Investment Network is the Israeli arm of the global Angel Investment Network platform. It is an online directory/matchmaking service connecting Israeli startups seeking investment with registered angel investors across 19+ sectors. It states it has operated for over 15 years and raised funding for thousands of businesses, though exact registered-investor counts are not published."
+    },
+    "sources": [
+      {
+        "url": "https://www.angelinvestmentnetwork.co.il/",
+        "title": "Israel Angel Investment Network",
+        "publisher": "Angel Investment Network",
+        "accessed": "2026-06-02",
+        "supports": "what it does, longevity claim, sectors, investment ranges",
+        "quote": "connects 'Israeli companies seeking investment with Israeli investors' ... operating for 'over the past 15 years' and has 'raised funding for thousands of businesses' ... covers 19+ industry sectors and displays investors with varying investment ranges (from $1,000 to $1,000,000+)"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Part of the global Angel Investment Network white-label platform; self-reported longevity/'thousands of businesses' claims are marketing copy and not independently verified. Founding year and HQ city not disclosed on site.",
+    "last_updated": "2026-06-02",
+    "researched_by": "il-angel-network"
+  },
+  {
+    "id": "il-il-angel-club",
+    "name": { "en": "IL Angel Club" },
+    "type": "angel-network",
+    "subtypes": ["angel-syndicate"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": null,
+    "website": "https://www.ilangelclub.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/il-angel-club"
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "average check size $250K per round allocation", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["deeptech", "generalist"],
+      "thesis": "Curated private angel network using a hybrid model (the discipline of a professional fund plus a network of private angels) giving members deal-by-deal access to validated early-stage Israeli startups; no membership fees."
+    },
+    "track_record": {
+      "portfolio_count": 11
+    },
+    "people": [
+      { "name": "Ram Yonish", "role": "Founder & CEO" }
+    ],
+    "application": {
+      "how_to_apply": "Investors join the club (no fee) and choose deals on a deal-by-deal basis; startups are sourced via ecosystem partners.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["angel-club", "deal-by-deal", "innovation-authority-backed", "no-membership-fee"],
+    "summary": {
+      "en": "IL Angel Club is a private angel investor network founded in September 2024 by Ram Yonish and backed by the Israel Innovation Authority (one of the 8 Angel Club tender winners). It connects 200+ Israeli and international investors with validated pre-seed/seed Israeli startups on a deal-by-deal basis with no membership fees. Average allocation is ~$250K per round; it reports 11 portfolio companies and aims to grow to 2,000 investors within 24 months."
+    },
+    "summary_local": null,
+    "sources": [
+      {
+        "url": "https://www.ilangelclub.com/",
+        "title": "IL Angel Club | Private Angel Investor Network",
+        "publisher": "IL Angel Club",
+        "accessed": "2026-06-02",
+        "supports": "founding date, CEO, member count, check size, portfolio count, no fees, stages",
+        "quote": "Founded in September 2024 and backed by the Israel Innovation Authority ... Ram Yonish serves as Founder & CEO ... '200+ active investors' ... 'No membership fees' ... 'Average check size: $250K per round allocation' ... 'Portfolio: 11 portfolio companies'"
+      },
+      {
+        "url": "https://innovationisrael.org.il/en/press_release/winners-to-establish-angel-clubs/",
+        "title": "Israel Innovation Authority Announces 8 Winners In Tender To Establish Angel Clubs",
+        "publisher": "Israel Innovation Authority",
+        "accessed": "2026-06-02",
+        "supports": "selected as one of 8 Innovation Authority angel-club winners",
+        "quote": "IL ANGEL CLUB LTD (CEO: Ram Yonish) – Club of 'experienced investors and the industry's seasoned and serial entrepreneurs' operating 'in a unique model to create an international ambassador network.'"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "200-investor figure and 11-company portfolio are self-reported; the 2,000-investor target is aspirational. Same entity as 'IL ANGEL CLUB LTD' in the Innovation Authority tender.",
+    "last_updated": "2026-06-02",
+    "researched_by": "il-angel-network"
+  },
+  {
+    "id": "il-hasoub-angels",
+    "name": { "en": "Hasoub Angels", "local": "حسوب أنجلز" },
+    "aka": ["Arab Angels Club"],
+    "type": "angel-network",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Ar'ara",
+    "website": "https://www.hasoub.org/angels",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/hasoub"
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist"],
+      "thesis": "Industry-agnostic, stage-specific angel club that pools members' expertise and capital to invest in early-stage tech ventures, focused on (but not limited to) Arab entrepreneurs in Israel; an initiative of the Hasoub NGO."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "application": {
+      "how_to_apply": "Investors join the club and pool resources; Hasoub also runs a training program for new angel investors.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["arab-society", "angel-club", "ngo-initiative", "investor-training"],
+    "summary": {
+      "en": "Hasoub Angels (formerly the Arab Angels Club) is an angel investment club founded in 2013 in Ar'ara as an initiative of the Hasoub NGO, dedicated to building the entrepreneurial ecosystem in Arab society in Israel. It is industry-agnostic but stage-specific (early-stage tech), pools members' capital and expertise, and runs training programs for new investors. Its alumni have invested roughly $1 million to date."
+    },
+    "summary_local": null,
+    "sources": [
+      {
+        "url": "https://www.hasoub.org/angels",
+        "title": "Hasoub Angels",
+        "publisher": "Hasoub",
+        "accessed": "2026-06-02",
+        "supports": "what it is, focus, HQ, parent NGO, stage focus, investor model",
+        "quote": "'an exclusive club dedicated to fostering the investment and entrepreneurial ecosystem within the Arab Society in Israel' ... Headquarters: Al-Quds Road, Ar'ara ... 'an initiative of Hasoub; a grassroots NGO aiming to empower underrepresented Arab tech-entrepreneurs in Israel' ... 'industry-agnostic but stage-specific'"
+      },
+      {
+        "url": "https://beamstart.com/@Hasoub-Angels",
+        "title": "Hasoub Angels - Investor Profile",
+        "publisher": "BEAMSTART",
+        "accessed": "2026-06-02",
+        "supports": "founding year, amount invested by alumni",
+        "quote": "Hasoub Angels was established in 2013 ... So far, their alumni have invested around one million dollars."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year (2013) and the ~$1M cumulative alumni-invested figure come from aggregator/profile pages; portfolio company count and current membership not publicly disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "il-angel-network"
+  },
+  {
+    "id": "il-maverick-ventures-israel",
+    "name": { "en": "Maverick Ventures Israel" },
+    "type": "angel-syndicate",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.maverick.vc/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/maverick-ventures-israel-l-p",
+      "crunchbase": "https://www.crunchbase.com/organization/maverick-ventures-israel"
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "typically $2-5 million per investment", "usd_min": 2000000, "usd_max": 5000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["healthtech", "fintech", "agritech", "cybersecurity", "hardware-semiconductor"],
+      "thesis": "A venture fund composed entirely of private investors / angels who pool capital and operational support; invests in differentiated, defensible Israeli technology companies with initial traction."
+    },
+    "track_record": {
+      "portfolio_count": "50+ active portfolio companies"
+    },
+    "people": [
+      { "name": "Yaron Carni", "role": "Founder & Managing Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Startups pitch via the Maverick website; the firm invests with capital from its network of private investors.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["private-investor-fund", "angel-collective"],
+    "summary": {
+      "en": "Maverick Ventures Israel is a Tel Aviv venture fund 'composed entirely of private investors' (angels), founded by Yaron Carni, who previously founded the Tel Aviv Angel Group. It pools angel capital plus operational support to invest typically $2-5M in differentiated Israeli tech companies across healthcare, fintech, agriculture, cybersecurity and advanced manufacturing, with 50+ active portfolio companies."
+    },
+    "sources": [
+      {
+        "url": "https://www.maverick.vc/",
+        "title": "Maverick VC Israel",
+        "publisher": "Maverick Ventures Israel",
+        "accessed": "2026-06-02",
+        "supports": "HQ, structure (private investors), check size, sectors, portfolio scale",
+        "quote": "'a network of highly successful private investors spanning many geographies and professions' ... Check Size: 'typically $2-5 million per investment' ... Headquarters: Tel Aviv, Israel ... portfolio displays 50+ active portfolio companies"
+      },
+      {
+        "url": "https://finder.startupnationcentral.org/investor_page/maverick-ventures",
+        "title": "Maverick Ventures Israel - Startup Nation Finder",
+        "publisher": "Start-Up Nation Central",
+        "accessed": "2026-06-02",
+        "supports": "founder background, fund composed of private investors",
+        "quote": "Maverick Ventures Israel was founded by Yaron Carni, who previously founded the Tel Aviv Angel Group ... an Israeli venture capital fund composed entirely of private investors"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Structurally an angel collective/syndicate (fund of private investors) rather than an institutional LP-backed VC, hence angel-syndicate primary type. Founding year not stated on site (commonly cited ~2015). Yaron Carni's earlier 'Tel Aviv Angel Group' appears largely succeeded by Maverick.",
+    "last_updated": "2026-06-02",
+    "researched_by": "il-angel-network"
+  },
+  {
+    "id": "il-teclub-vc",
+    "name": { "en": "TEClub VC" },
+    "aka": ["TEClub VC Ltd"],
+    "type": "angel-network",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "israel",
+    "country": "Israel",
+    "website": null,
+    "links": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["deeptech"],
+      "thesis": "Investor club for 'mega-angels' from Israel and abroad investing in early-stage breakthrough (deep tech) technologies through a selective platform, with a focus on unicorn creation and venture-creation models."
+    },
+    "people": [
+      { "name": "Stav Erez", "role": "CEO" }
+    ],
+    "tags": ["innovation-authority-backed", "deeptech", "mega-angels"],
+    "summary": {
+      "en": "TEClub VC is one of 8 angel clubs selected in June 2024 by the Israel Innovation Authority's tender (each winner receiving NIS 900,000/year for three years). Led by CEO Stav Erez, it targets 'mega-angels' from Israel and abroad investing in early-stage breakthrough deep-tech, with a focus on creating unicorns and venture-creation models."
+    },
+    "sources": [
+      {
+        "url": "https://innovationisrael.org.il/en/press_release/winners-to-establish-angel-clubs/",
+        "title": "Israel Innovation Authority Announces 8 Winners In Tender To Establish Angel Clubs",
+        "publisher": "Israel Innovation Authority",
+        "accessed": "2026-06-02",
+        "supports": "selection as winner, CEO, focus, grant amount and duration",
+        "quote": "TEClub VC LTD (CEO: Stav Erez) – 'a new investor club for mega-angels from Israel and abroad interested in investing in breakthrough technologies at early stages through a smart and selective investment platform. The club also focuses on creating unicorn companies and Venture Creation models.' ... grant of 'NIS 900,000 per year for a three-year period'"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Newly established via the 2024 Innovation Authority tender; details limited to the IIA announcement. No independent website/portfolio confirmed at time of research.",
+    "last_updated": "2026-06-02",
+    "researched_by": "il-angel-network"
+  },
+  {
+    "id": "il-investors-forum",
+    "name": { "en": "Investors Forum" },
+    "aka": ["Investors Forum Ltd"],
+    "type": "angel-network",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "israel",
+    "country": "Israel",
+    "website": null,
+    "links": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["deeptech"],
+      "thesis": "Angel club built with partners including professional associations (CFO Forum / Association of Certified CFOs, the Forum of Companies' Leaders for Growth and Employment, Ben-Gurion University) and senior high-tech figures, focused on deep tech and startup creation around industry needs."
+    },
+    "people": [
+      { "name": "Michal Etti Matroni Reiten", "role": "CEO" }
+    ],
+    "tags": ["innovation-authority-backed", "deeptech", "professional-associations"],
+    "summary": {
+      "en": "Investors Forum is one of 8 angel clubs selected in June 2024 by the Israel Innovation Authority tender. It is formed with partners including the Association of Certified CFOs, the Forum of Companies' Leaders for Growth and Employment, Ben-Gurion University and prominent high-tech figures, focusing on deep tech and startup creation around industry needs."
+    },
+    "sources": [
+      {
+        "url": "https://innovationisrael.org.il/en/press_release/winners-to-establish-angel-clubs/",
+        "title": "Israel Innovation Authority Announces 8 Winners In Tender To Establish Angel Clubs",
+        "publisher": "Israel Innovation Authority",
+        "accessed": "2026-06-02",
+        "supports": "selection as winner, CEO, partners, grant",
+        "quote": "Investors Forum Ltd (CEO: Michal Etti Matroni Reiten) – 'a new club formed with partners, including professional associations like the Association of Certified Chief Financial Officers, The Forum of Companies' Leaders for Growth and Employment, Ben-Gurion University, and prominent figures in the high-tech industry.'"
+      },
+      {
+        "url": "https://bioconvergence.org.il/angel-investors-clubs/",
+        "title": "Angel Investors' Clubs",
+        "publisher": "Bioconvergence Israel",
+        "accessed": "2026-06-02",
+        "supports": "CEO name, focus area",
+        "quote": "Investors Forum Ltd (CEO: Eti Mitrani) – Focus: DeepTech and startup creation around industry needs"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "CEO name rendered as 'Michal Etti Matroni Reiten' (IIA) and 'Eti Mitrani' (Bioconvergence) — likely the same person. New 2024 IIA-backed club; details limited to the tender announcement.",
+    "last_updated": "2026-06-02",
+    "researched_by": "il-angel-network"
+  },
+  {
+    "id": "il-baba-metzia",
+    "name": { "en": "Baba Metzia", "local": "בבא מציעא" },
+    "aka": ["BABA METZIA GP LLP"],
+    "type": "angel-network",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "israel",
+    "country": "Israel",
+    "website": null,
+    "links": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Israel", "Global"],
+      "sector_focus": ["deeptech"],
+      "thesis": "Angel club with Israeli and international companies/angels and an extensive investor network, designed to support startups, solve initial fundraising barriers and attract new investors from around the world."
+    },
+    "people": [
+      { "name": "Lior Elkan", "role": "CEO" }
+    ],
+    "tags": ["innovation-authority-backed", "deeptech"],
+    "summary": {
+      "en": "Baba Metzia (BABA METZIA GP LLP) is one of 8 angel clubs selected in June 2024 by the Israel Innovation Authority tender. Led by CEO Lior Elkan, it brings together Israeli and international companies and angels with a broad investor network to support startups, lower initial fundraising barriers and attract new investors globally."
+    },
+    "summary_local": null,
+    "sources": [
+      {
+        "url": "https://innovationisrael.org.il/en/press_release/winners-to-establish-angel-clubs/",
+        "title": "Israel Innovation Authority Announces 8 Winners In Tender To Establish Angel Clubs",
+        "publisher": "Israel Innovation Authority",
+        "accessed": "2026-06-02",
+        "supports": "selection as winner, CEO, focus, grant",
+        "quote": "BABA METZIA GP LLP (CEO: Lior Elkan) – Club with Israeli and international companies/Angels supporting startups with extensive investor networks, designed to 'generate widespread impact, have a strong investor base, attract new investors from around the world.'"
+      },
+      {
+        "url": "https://bioconvergence.org.il/angel-investors-clubs/",
+        "title": "Angel Investors' Clubs",
+        "publisher": "Bioconvergence Israel",
+        "accessed": "2026-06-02",
+        "supports": "CEO name, focus",
+        "quote": "BABA METZIA GP LLP (CEO: Lior Elkan) – Focus: Supporting startups and solving initial fundraising barriers"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "New 2024 IIA-backed club; details limited to the tender announcement. No independent website confirmed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "il-angel-network"
+  },
+  {
+    "id": "il-wings-il",
+    "name": { "en": "Wings IL" },
+    "aka": ["WINGS IL LTD"],
+    "type": "angel-network",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "israel",
+    "country": "Israel",
+    "website": null,
+    "links": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["deeptech"],
+      "thesis": "Investment club established to position Israel as a leader in the development of advanced Deep Tech technologies, aiming to immediately increase the pace and magnitude of early-stage investments."
+    },
+    "people": [
+      { "name": "Eliran Ezer", "role": "CEO" }
+    ],
+    "tags": ["innovation-authority-backed", "deeptech"],
+    "summary": {
+      "en": "Wings IL is one of 8 angel clubs selected in June 2024 by the Israel Innovation Authority tender. Led by CEO Eliran Ezer, it was established to position Israel as a leader in advanced deep-tech development and to immediately increase the pace and magnitude of early-stage investments."
+    },
+    "sources": [
+      {
+        "url": "https://innovationisrael.org.il/en/press_release/winners-to-establish-angel-clubs/",
+        "title": "Israel Innovation Authority Announces 8 Winners In Tender To Establish Angel Clubs",
+        "publisher": "Israel Innovation Authority",
+        "accessed": "2026-06-02",
+        "supports": "selection as winner, CEO, focus, grant",
+        "quote": "WINGS IL LTD (CEO: Eliran Ezer) – 'a new investment club established to position Israel as a leader in investments and development of advanced Deep Tech technologies, aiming to immediately increase the pace and magnitude of investments.'"
+      },
+      {
+        "url": "https://bioconvergence.org.il/angel-investors-clubs/",
+        "title": "Angel Investors' Clubs",
+        "publisher": "Bioconvergence Israel",
+        "accessed": "2026-06-02",
+        "supports": "CEO name, focus",
+        "quote": "WINGS IL LTD (CEO: Eliran Ezer) – Focus: Advanced Deep Tech technologies and early-stage ventures"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "New 2024 IIA-backed club; details limited to the tender announcement.",
+    "last_updated": "2026-06-02",
+    "researched_by": "il-angel-network"
+  },
+  {
+    "id": "il-eretz-angels",
+    "name": { "en": "Eretz Angels", "local": "ארץ אנג'לס" },
+    "aka": ["ERETZ ANGELS LTD"],
+    "type": "angel-network",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "israel",
+    "country": "Israel",
+    "website": null,
+    "links": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["agritech", "impact", "deeptech"],
+      "thesis": "Angel club founded in partnership with kibbutz and agricultural organizations to expand the influence of Israeli technological innovation on the Israeli economy and society, with an agriculture/periphery and societal-impact emphasis."
+    },
+    "people": [
+      { "name": "Nir Blazer", "role": "CEO" }
+    ],
+    "tags": ["innovation-authority-backed", "agritech", "impact", "kibbutz"],
+    "summary": {
+      "en": "Eretz Angels is one of 8 angel clubs selected in June 2024 by the Israel Innovation Authority tender. Led by CEO Nir Blazer and partnered with kibbutz and agricultural organizations, it was founded to expand the impact of Israeli technological innovation on the economy and society, with an agriculture, periphery and societal-impact focus."
+    },
+    "summary_local": null,
+    "sources": [
+      {
+        "url": "https://innovationisrael.org.il/en/press_release/winners-to-establish-angel-clubs/",
+        "title": "Israel Innovation Authority Announces 8 Winners In Tender To Establish Angel Clubs",
+        "publisher": "Israel Innovation Authority",
+        "accessed": "2026-06-02",
+        "supports": "selection as winner, CEO, partners, focus, grant",
+        "quote": "ERETZ ANGELS LTD (CEO: Nir Blazer) – Partnership with kibbutz and agricultural organizations, founded 'to expand the influence of Israeli technological innovation on the Israeli economy and society.'"
+      },
+      {
+        "url": "https://bioconvergence.org.il/angel-investors-clubs/",
+        "title": "Angel Investors' Clubs",
+        "publisher": "Bioconvergence Israel",
+        "accessed": "2026-06-02",
+        "supports": "CEO name, focus",
+        "quote": "ERETZ ANGELS LTD (CEO: Nir Blazer) – Focus: Agriculture, settlements, and societal impact in Israel"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "New 2024 IIA-backed club; details limited to the tender announcement.",
+    "last_updated": "2026-06-02",
+    "researched_by": "il-angel-network"
+  },
+  {
+    "id": "il-eight-two-hundred-angels",
+    "name": { "en": "Eight Two Hundred Angels", "local": "8200 Angels" },
+    "aka": ["EIGHT TWO HUNDRED ANGELS LTD", "8200 Angels"],
+    "type": "angel-network",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "israel",
+    "country": "Israel",
+    "website": null,
+    "links": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["deeptech", "agritech", "robotics"],
+      "thesis": "Angel club established in a broad partnership of ecosystem leaders — the 8200 Alumni Association alongside VC funds Grove Ventures and IL Ventures and Harel Insurance — investing across areas with a focus on Industry 4.0, AgTech and FoodTech."
+    },
+    "people": [
+      { "name": "Hader Abtalyon Dagan", "role": "CEO" }
+    ],
+    "tags": ["innovation-authority-backed", "8200-alumni", "deeptech", "industry-4.0"],
+    "summary": {
+      "en": "Eight Two Hundred Angels is one of 8 angel clubs selected in June 2024 by the Israel Innovation Authority tender. Led by CEO Hader Abtalyon Dagan, it was established by a broad partnership including the 8200 Alumni Association, VC funds Grove Ventures and IL Ventures, and Harel Insurance, investing with a focus on Industry 4.0, AgTech and FoodTech."
+    },
+    "summary_local": null,
+    "sources": [
+      {
+        "url": "https://innovationisrael.org.il/en/press_release/winners-to-establish-angel-clubs/",
+        "title": "Israel Innovation Authority Announces 8 Winners In Tender To Establish Angel Clubs",
+        "publisher": "Israel Innovation Authority",
+        "accessed": "2026-06-02",
+        "supports": "selection as winner, CEO, partners, focus, grant",
+        "quote": "EIGHT TWO HUNDRED ANGELS LTD (CEO: Hader Abtalyon Dagan) – 'established in a broad partnership of leaders in the ecosystem, such as the 8200 Alumni Association, alongside venture capital funds Grove Ventures and IL Ventures, the Harel Insurance Company.'"
+      },
+      {
+        "url": "https://igrownews.com/israel-innovation-authority-announces-angel-clubs/",
+        "title": "Israel Innovation Authority Announces Angel Clubs",
+        "publisher": "iGrow News",
+        "accessed": "2026-06-02",
+        "supports": "CEO name, focus on Industry 4.0/AgTech/FoodTech",
+        "quote": "EIGHT TWO HUNDRED ANGELS LTD (CEO: Hader Abtalyon Dagan) ... with a focus on Industry 4.0, AgTech and FoodTech"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "New 2024 IIA-backed club. Name relates to the IDF Unit 8200 alumni network. Details limited to the tender announcement.",
+    "last_updated": "2026-06-02",
+    "researched_by": "il-angel-network"
+  },
+  {
+    "id": "il-ziv-haft-angel-club",
+    "name": { "en": "Ziv Haft Angel Club (BDO / SeedBiz)" },
+    "aka": ["Ziv Haft Consulting and Management Ltd", "BDO Israel angel club"],
+    "type": "angel-network",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "israel",
+    "country": "Israel",
+    "website": null,
+    "links": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Israel", "United States", "United Arab Emirates", "Bahrain", "China", "India", "Vietnam"],
+      "sector_focus": ["climate-energy", "agritech", "healthtech", "biotech"],
+      "thesis": "Angel club founded by BDO Israel (Ziv Haft) in partnership with SeedBiz, operating a broad international network (Israel, USA, UAE, Bahrain, China, India, Vietnam) to connect entrepreneurs with investors in ClimateTech, AgriTech, FoodTech, Health and Life Sciences."
+    },
+    "people": [
+      { "name": "Tamir Nahmias", "role": "CEO" }
+    ],
+    "tags": ["innovation-authority-backed", "bdo", "international-network", "climatetech"],
+    "summary": {
+      "en": "The Ziv Haft Angel Club is one of 8 angel clubs selected in June 2024 by the Israel Innovation Authority tender. Founded by BDO Israel (Ziv Haft Consulting and Management) in partnership with SeedBiz and led by CEO Tamir Nahmias, it runs a broad international network spanning the USA, UAE, Bahrain, China, India and Vietnam to connect entrepreneurs with investors in ClimateTech, AgriTech, FoodTech, Health and Life Sciences."
+    },
+    "sources": [
+      {
+        "url": "https://innovationisrael.org.il/en/press_release/winners-to-establish-angel-clubs/",
+        "title": "Israel Innovation Authority Announces 8 Winners In Tender To Establish Angel Clubs",
+        "publisher": "Israel Innovation Authority",
+        "accessed": "2026-06-02",
+        "supports": "selection as winner, CEO, founders (BDO/SeedBiz), international network, focus, grant",
+        "quote": "Ziv Haft Consulting and Management Ltd (CEO: Tamir Nahmias) – 'founded by BDO in partnership with SeedBiz, will consolidate and operate a broad network in Israel, the United States, the United Arab Emirates, Bahrain, China, India, Vietnam, and more.'"
+      },
+      {
+        "url": "https://bioconvergence.org.il/angel-investors-clubs/",
+        "title": "Angel Investors' Clubs",
+        "publisher": "Bioconvergence Israel",
+        "accessed": "2026-06-02",
+        "supports": "CEO name, sector focus",
+        "quote": "Ziv Haft Consulting and Management Ltd (CEO: Tamir Nahmias) – Focus: ClimateTech, AgriTech, FoodTech, Health, and Life Sciences"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "New 2024 IIA-backed club operated by BDO Israel (Ziv Haft) with SeedBiz; details limited to the tender announcement.",
+    "last_updated": "2026-06-02",
+    "researched_by": "il-angel-network"
+  }
+]

@@ -1,0 +1,907 @@
+[
+  {
+    "id": "il-citi-accelerator-tlv",
+    "name": { "en": "Citi Accelerator TLV (Citi Innovation Lab Tel Aviv)" },
+    "aka": ["Citi Innovation Lab Tel Aviv", "Citi Accelerator", "Citi TLV Innovation Lab"],
+    "type": "accelerator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.citigroup.com/global/about-us/global-presence/israel",
+    "links": {
+      "other": ["https://finder.startupnationcentral.org/mnc_page/citi"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["fintech", "ai-ml", "cybersecurity", "saas-enterprise"],
+      "thesis": "Pro-bono, equity-free corporate accelerator run by Citi's Tel Aviv Innovation Lab for Israeli fintech and enterprise startups, providing mentorship from Citi personnel and access to the bank as a design partner and customer."
+    },
+    "program": {
+      "length_weeks": 17,
+      "cohort_size": 10,
+      "equity_taken_pct": 0,
+      "investment": { "raw": "none (equity-free, no investment)", "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Tel Aviv",
+      "eligibility": "Israeli startups in fintech, enterprise, customer experience, data and AI; open to companies at any stage.",
+      "acceptance_rate": null
+    },
+    "track_record": {
+      "portfolio_count": "110+",
+      "notable_investments": [
+        { "company": "Splitit", "sector": "fintech", "outcome": "active" },
+        { "company": "PayKey", "sector": "fintech", "outcome": "active" },
+        { "company": "Credifi", "sector": "fintech", "outcome": "active" },
+        { "company": "MyCheck", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Avi Gefen", "role": "Head of Citi TLV Innovation Lab" }
+    ],
+    "application": {
+      "how_to_apply": "Applications opened per accelerator round via Citi Innovation Lab Tel Aviv.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "fintech", "bank-accelerator"],
+    "summary": {
+      "en": "Citi's Tel Aviv Innovation Lab (established 2013, the bank's first innovation lab) runs a four-month, equity-free accelerator for Israeli fintech and enterprise startups, offering free office space and pro-bono mentorship from Citi staff. Graduates have raised more than $2 billion collectively."
+    },
+    "sources": [
+      {
+        "url": "https://en.globes.co.il/en/article-funds-raised-by-citi-accelerator-tlv-graduates-reaches-320m-1001219710",
+        "title": "Funds raised by Citi Accelerator TLV graduates reaches $320m",
+        "publisher": "Globes",
+        "accessed": "2026-06-02",
+        "supports": "program length, cohort size, graduate count, funds raised, notable portfolio",
+        "quote": "The Citi Accelerator program is four months long ... is expected to include 10 companies in the fields of Fintech, Enterprise, Customer Experience, Data, AI, etc. ... 68 startups have graduated the accelerator program in seven classes ... startups graduating the Citi Accelerator in Tel Aviv have raised more than $320 million over the past four years"
+      },
+      {
+        "url": "https://www.citigroup.com/global/news/perspectives/2015/citi-innovation-lab-spotlight",
+        "title": "Citi Innovation Lab Spotlight: Tel Aviv, Israel",
+        "publisher": "Citigroup",
+        "accessed": "2026-06-02",
+        "supports": "founding year, equity-free model, 110+ startups, $2B raised",
+        "quote": "Citi's first Innovation Lab was established in Tel Aviv in 2013 ... The Accelerator has helped over 110 startups who raised more than $2B ... Citi does its mentoring and fostering pro bono, without taking any stakes in the companies it fosters."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Program length stated as four months (~17 weeks). Founding year of the lab is 2013 per Citi; one secondary source cites 2011 for the broader lab/engineering operation. Cohort size 10 per round; graduate count and total raised grow over time (68 graduates as of 2018; 110+ later).",
+    "last_updated": "2026-06-02",
+    "researched_by": "corporate-accelerator"
+  },
+  {
+    "id": "il-intel-ignite",
+    "name": { "en": "Intel Ignite" },
+    "aka": ["Ignite", "Intel Ignite Tel Aviv"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://intelignite.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/intel-ignite"
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Israel", "Europe", "United States"],
+      "sector_focus": ["deeptech", "ai-ml", "cybersecurity", "hardware-semiconductor"],
+      "thesis": "Founder-first deep-tech accelerator originally launched by Intel; equity-free, focused on ideation, pre-seed and seed deep-tech startups with intensive mentorship from global business and technology leaders."
+    },
+    "program": {
+      "length_weeks": 12,
+      "cohort_size": 10,
+      "equity_taken_pct": 0,
+      "investment": { "raw": "equity-free (no direct investment)", "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Tel Aviv",
+      "demo_day": true,
+      "eligibility": "Early-stage deep-tech startups at ideation, pre-seed and seed stages.",
+      "acceptance_rate": "~4% (10 selected from 250+ applicants in 2024 Israel cohort)"
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Deci", "sector": "ai-ml", "outcome": "acquired by Nvidia" },
+        { "company": "Granulate", "sector": "deeptech", "outcome": "acquired by Intel" },
+        { "company": "Flow Security", "sector": "cybersecurity", "outcome": "acquired by CrowdStrike" },
+        { "company": "Speedb", "sector": "deeptech", "outcome": "acquired by Redis" }
+      ],
+      "exits": [
+        { "company": "Deci", "type": "M&A" },
+        { "company": "Granulate", "type": "M&A" },
+        { "company": "Flow Security", "type": "M&A" }
+      ]
+    },
+    "people": [
+      { "name": "Tzahi Weisfeld", "role": "Founder & Chairman" },
+      { "name": "Alon Leibovich", "role": "Managing Director" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via intelignite.com per cohort.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "deep-tech", "equity-free"],
+    "summary": {
+      "en": "Intel Ignite is a 12-week deep-tech accelerator first launched in Tel Aviv in 2019 by Intel. In December 2024 it spun out as an independent accelerator (with Intel as first corporate client, plus the Israel Innovation Authority and Ministry of Economy). Each Israel cohort selects ~10 startups from 250+ applicants; alumni have raised over $2.5 billion."
+    },
+    "sources": [
+      {
+        "url": "https://www.calcalistech.com/ctechnews/article/h1i00n2efr",
+        "title": "Intel Ignite announces ninth Israel cohort for early-stage deep tech startups",
+        "publisher": "Calcalist (Ctech)",
+        "accessed": "2026-06-02",
+        "supports": "program length, cohort size, applicant pool, founding year, total alumni funding",
+        "quote": "From an applicant pool of more than 250 companies, 10 startups were selected to participate in the 12-week program ... Since the program launched in 2019, collectively, the companies have secured over $2.5 billion in funding."
+      },
+      {
+        "url": "https://www.calcalistech.com/ctechnews/article/r1aeen0v1g",
+        "title": "Four months after Intel shut it down, Ignite relaunches as an independent accelerator",
+        "publisher": "Calcalist (Ctech)",
+        "accessed": "2026-06-02",
+        "supports": "spin-out to independent status, leadership, notable exits, funding model",
+        "quote": "Intel closed the program four months before ... relaunches as an independent accelerator ... Deci (acquired by Nvidia), Flow Security (acquired by CrowdStrike), Granulate (acquired by Intel), Speedb (acquired by Redis) ... We are seeking $1 million per year for three years from each partner."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Intel shut down the in-house program in 2024 and it relaunched as an independent accelerator in December 2024, with Intel as the founding corporate client. Equity-free; no direct cash investment to startups. Acceptance rate derived from 10/250+ applicants.",
+    "last_updated": "2026-06-02",
+    "researched_by": "corporate-accelerator"
+  },
+  {
+    "id": "il-microsoft-scaleup-tel-aviv",
+    "name": { "en": "Microsoft ScaleUp Tel Aviv" },
+    "aka": ["Microsoft Accelerator Tel Aviv", "Microsoft Ventures Accelerator Tel Aviv", "Microsoft for Startups"],
+    "type": "accelerator",
+    "status": "unknown",
+    "founded_year": 2012,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://startups.microsoft.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/microsoft-ventures-accelerator-tel-aviv",
+      "other": ["https://finder.startupnationcentral.org/program_page/microsoft-ventures-accelerators"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "cybersecurity"],
+      "thesis": "Microsoft's later-stage scaleup program for B2B startups, focused on cloud computing and enterprise software, offering Azure credits, technical support and co-sell access to Microsoft's enterprise customer base; equity-free."
+    },
+    "program": {
+      "cohort_size": "10-11 per cohort (historical)",
+      "equity_taken_pct": 0,
+      "investment": { "raw": "equity-free (Azure credits and support, no equity)", "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Tel Aviv",
+      "eligibility": "Series A and later-stage B2B startups, particularly in cloud and enterprise software.",
+      "acceptance_rate": null
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "exits": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via Microsoft for Startups (startups.microsoft.com).",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "enterprise", "cloud"],
+    "summary": {
+      "en": "Microsoft ScaleUp Tel Aviv (formerly Microsoft Accelerator / Microsoft Ventures Accelerator) is Microsoft's later-stage program for B2B cloud and enterprise startups, providing Azure credits, technical support and co-sell access without taking equity. It has supported 100+ startups with 30+ exits, though Microsoft has since shifted its global startup engagement toward the online Microsoft for Startups Founders Hub."
+    },
+    "sources": [
+      {
+        "url": "https://startups.microsoft.com/en-us/blog/microsoft-accelerator-in-tel-aviv-welcomes-11-startups-ready-to-scale-up",
+        "title": "Microsoft Accelerator in Tel Aviv Welcomes 11 Startups Ready to Scale-Up",
+        "publisher": "Microsoft for Startups",
+        "accessed": "2026-06-02",
+        "supports": "cohort size, stage focus, location",
+        "quote": "Microsoft Accelerator in Tel Aviv Welcomes 11 Startups Ready to Scale-Up"
+      },
+      {
+        "url": "https://www.startupacceleratorhub.com/accelerator/microsoftscaleuptelaviv/",
+        "title": "Microsoft ScaleUp Tel Aviv",
+        "publisher": "Startup Accelerator Hub",
+        "accessed": "2026-06-02",
+        "supports": "100+ startups supported, 30+ exits, B2B cloud focus, equity-free",
+        "quote": "Microsoft ScaleUp Tel Aviv has supported over 100 startups, leading to more than 30 successful exits."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Current status uncertain: Microsoft globally wound down its in-person ScaleUp/Accelerator model in favor of the online Microsoft for Startups Founders Hub; the Tel Aviv ScaleUp brand may no longer run discrete cohorts. Founded year ~2012 for the original Microsoft Accelerator Israel. Equity-free; figures (100+ startups, 30+ exits) from secondary aggregator. Status set to 'unknown'.",
+    "last_updated": "2026-06-02",
+    "researched_by": "corporate-accelerator"
+  },
+  {
+    "id": "il-ibm-alpha-zone",
+    "name": { "en": "IBM Alpha Zone" },
+    "aka": ["Alpha Zone Accelerator", "IBM Alpha Zone Accelerator"],
+    "type": "accelerator",
+    "status": "unknown",
+    "founded_year": 2014,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Petah Tikva",
+    "website": "https://www.ibmalphazone.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/ibm-alpha-zone",
+      "other": ["https://finder.startupnationcentral.org/program_page/ibm-alpha-zone"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "healthtech", "fintech"],
+      "thesis": "IBM's enterprise-focused accelerator in Israel (its first accelerator anywhere) building long-term technology and business partnerships between Israeli startups and IBM and its global enterprise customers; equity-free, providing IBM Cloud credits."
+    },
+    "program": {
+      "length_weeks": 26,
+      "cohort_size": null,
+      "equity_taken_pct": 0,
+      "investment": { "raw": "up to $120,000 per year in IBM Cloud credits (no equity, no cash)", "usd": 120000, "currency": "USD" },
+      "format": "in-person",
+      "location": "IBM headquarters, Petah Tikva",
+      "demo_day": true,
+      "eligibility": "Post-seed and Series A funded companies developing enterprise solutions.",
+      "acceptance_rate": null
+    },
+    "track_record": {
+      "portfolio_count": 63
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via ibmalphazone.com.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "enterprise", "equity-free"],
+    "summary": {
+      "en": "IBM Alpha Zone, IBM's first accelerator anywhere in the world (launched in Israel ~2014), is a six-month immersion program at IBM's Petah Tikva headquarters for post-seed/Series A startups building enterprise solutions. It provides free workspace and up to $120,000/year in IBM Cloud credits without taking equity; 63 startups have graduated."
+    },
+    "sources": [
+      {
+        "url": "https://www.timesofisrael.com/new-israel-accelerator-ibms-first-anywhere/",
+        "title": "New Israel accelerator IBM's first anywhere",
+        "publisher": "The Times of Israel",
+        "accessed": "2026-06-02",
+        "supports": "IBM's first accelerator globally, location, enterprise focus",
+        "quote": "New Israel accelerator IBM's first anywhere"
+      },
+      {
+        "url": "https://www.ibmalphazone.com/new-home-page-desgin/",
+        "title": "Join the IBM startup accelerator! - IBM Alpha Zone",
+        "publisher": "IBM Alpha Zone",
+        "accessed": "2026-06-02",
+        "supports": "program length, cloud credits, graduate count, stage focus",
+        "quote": "6-month professional and deep immersion program ... up to $120,000 per year in IBM Cloud credits ... post-Seed & Round A funded companies ... 63 startups have graduated successfully."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded ~2014 (described as IBM's first accelerator worldwide; opened 5th class circa 2018). Operated in partnership with Hadasit / Hadassah for a medical track. Equity-free; value is workspace plus up to $120K/yr cloud credits. Cohort size per batch not clearly disclosed. Current operating status uncertain (recent cohort cadence unclear), so status set to 'unknown'.",
+    "last_updated": "2026-06-02",
+    "researched_by": "corporate-accelerator"
+  },
+  {
+    "id": "il-check-point-cyberup",
+    "name": { "en": "Check Point CyberUp" },
+    "aka": ["CyberUp", "Check Point CyberUp Accelerator"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.checkpoint.com/",
+    "links": {
+      "other": ["https://www.checkpoint.com/press-releases/check-point-software-launches-cyberup-israels-premier-accelerator-hub-for-cybersecurity-start-ups/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["cybersecurity"],
+      "thesis": "Check Point's cybersecurity-only accelerator connecting mature, deployable startups to Check Point's enterprise customer base and investors; selective, focused on solutions of value to Check Point's existing customers."
+    },
+    "program": {
+      "length_weeks": 16,
+      "cohort_size": 7,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Check Point Innovation Center, Tel Aviv",
+      "eligibility": "Cybersecurity startups with a mature, deployable solution of value to Check Point's enterprise customers.",
+      "acceptance_rate": null
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Grip Security", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Sentra", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Zero Networks", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Reflectiz", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Suridata", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Infinipoint", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Cyberpion", "sector": "cybersecurity", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Noa Zilberman", "role": "Founder / Head of CyberUp" }
+    ],
+    "application": {
+      "how_to_apply": "Selective invitation/vetting via Check Point.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "cybersecurity"],
+    "summary": {
+      "en": "CyberUp, launched by Check Point Software in November 2022, is a 16-week, cybersecurity-only accelerator at Check Point's Innovation Center in Israel. It connects selected, mature startups to Check Point's customers (via CISO talks) and investors. The first batch of seven included Grip Security, Sentra and Zero Networks."
+    },
+    "sources": [
+      {
+        "url": "https://www.checkpoint.com/press-releases/check-point-software-launches-cyberup-israels-premier-accelerator-hub-for-cybersecurity-start-ups/",
+        "title": "Check Point Software Launches CyberUp: Israel's Premier Accelerator Hub for Cybersecurity Start-ups",
+        "publisher": "Check Point Software",
+        "accessed": "2026-06-02",
+        "supports": "launch date, program length, first cohort size and companies, founder, focus",
+        "quote": "16-week program ... seven early-growth companies selected to take part. The first batch included Cyberpion, Grip Security, Infinipoint, Reflectiz, Sentra, Suridata and Zero Networks ... bi-weekly in-person briefings at Check Point's Innovation Center"
+      },
+      {
+        "url": "https://nocamels.com/2022/11/check-point-launches-accelerator-for-cybersecurity-startups/",
+        "title": "Check Point Launches Accelerator For Cybersecurity Startups",
+        "publisher": "NoCamels",
+        "accessed": "2026-06-02",
+        "supports": "launch year, cybersecurity-only focus, selectivity",
+        "quote": "Check Point Launches Accelerator For Cybersecurity Startups"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Equity and investment terms not disclosed (program appears to be value-add/customer-access, not cash investment). Launched November 2022.",
+    "last_updated": "2026-06-02",
+    "researched_by": "corporate-accelerator"
+  },
+  {
+    "id": "il-the-kitchen-foodtech-hub",
+    "name": { "en": "The Kitchen FoodTech Hub", "local": "המטבח" },
+    "aka": ["The Kitchen Hub", "Strauss FoodTech Incubator", "The Kitchen"],
+    "type": "incubator",
+    "subtypes": ["accelerator", "venture-studio"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Ashdod",
+    "website": "https://www.thekitchenhub.com/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/the-kitchen-hub",
+      "crunchbase": "https://www.crunchbase.com/organization/the-kitchen-foodtech-hub",
+      "other": ["https://finder.startupnationcentral.org/investor_page/the-kitchen-foodtech-hub"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "The Kitchen new fund (announced 2021)", "vintage_year": 2021, "size": { "raw": "$70 million", "usd": 70000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["agritech", "biotech"],
+      "thesis": "Foodtech incubator and venture studio of food giant Strauss Group, operating under an Israel Innovation Authority incubator license; co-founds and seed-invests in early-stage foodtech ventures, providing labs (cell culture, fermentation, drying) and industry connections."
+    },
+    "program": {
+      "equity_taken_pct": null,
+      "investment": { "raw": "undisclosed seed investment per company (IIA incubator-backed)", "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Ashdod, Israel",
+      "eligibility": "Early-stage technology ventures relevant to the food industry across the value chain.",
+      "acceptance_rate": null
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Aleph Farms", "sector": "agritech", "outcome": "active" },
+        { "company": "Imagindairy", "sector": "agritech", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via The Kitchen Hub website.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "foodtech", "incubator", "venture-studio"],
+    "summary": {
+      "en": "The Kitchen FoodTech Hub is the foodtech incubator and investment arm of Israeli food giant Strauss Group, founded in 2015 after winning the Chief Scientist's (Israel Innovation Authority) incubator tender. Operating as a venture studio, it co-founds and seed-funds foodtech startups (including Aleph Farms and Imagindairy) and in 2021 announced a new $70M fund and The Kitchen Labs facility.",
+      "local": "מרכז חדשנות הפודטק 'המטבח' הוא זרוע ההשקעות והחממה של קבוצת שטראוס בתחום הפודטק, שהוקם בשנת 2015 במסגרת מכרז החממות של רשות החדשנות."
+    },
+    "sources": [
+      {
+        "url": "https://www.strauss-group.com/newsmention/launching-strauss-foodtech-incubator-kitchen/",
+        "title": "Launching the Strauss FoodTech Incubator – The Kitchen",
+        "publisher": "Strauss Group",
+        "accessed": "2026-06-02",
+        "supports": "founding year, Strauss operator role, Chief Scientist/IIA tender, foodtech focus",
+        "quote": "the Chief Scientist's tender for the establishment of a technological incubator ... groundbreaking early-stage technology ventures that are relevant to the food industry across the entire value chain"
+      },
+      {
+        "url": "https://agfundernews.com/the-kitchen-foodtech-hub-announces-70m-fund-unveils-the-kitchen-labs-innovation-center",
+        "title": "The Kitchen FoodTech Hub announces $70m fund, unveils The Kitchen Labs innovation center",
+        "publisher": "AgFunderNews",
+        "accessed": "2026-06-02",
+        "supports": "$70M fund, The Kitchen Labs, IIA support, Strauss ownership",
+        "quote": "the foodtech incubator and investment arm of Israeli food giant Strauss Group, is raising a new $70 million fund and launching The Kitchen Labs ... with the support of the Israeli Innovation Authority (IIA)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Operates under Israel Innovation Authority incubator license (so partly government-backed) but founded and run by corporate Strauss Group, fitting 'corporate accelerator/open-innovation run by a corporate'. Per-company investment amount and equity not disclosed. HQ listed as Ashdod (relocated from earlier Tel Aviv base).",
+    "last_updated": "2026-06-02",
+    "researched_by": "corporate-accelerator"
+  },
+  {
+    "id": "il-aion-labs",
+    "name": { "en": "AION Labs" },
+    "aka": ["AION"],
+    "type": "venture-studio",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Rehovot",
+    "website": "https://aionlabs.com/",
+    "links": {
+      "other": ["https://finder.startupnationcentral.org/investor_page/aion-labs", "https://en.wikipedia.org/wiki/AION_Labs"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["ai-ml", "biotech", "healthtech"],
+      "thesis": "Venture studio created by a consortium of global pharma (AstraZeneca, Merck KGaA, Pfizer, Teva) plus AWS and Israeli biotech VCs, building AI-driven startups that transform drug discovery and development; reduces risk via cross-industry data sharing and pharma R&D access."
+    },
+    "program": {
+      "equity_taken_pct": null,
+      "investment": { "raw": "venture-studio co-creation funding (amount undisclosed)", "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Rehovot, Israel",
+      "eligibility": "Founders/teams building AI-for-drug-discovery startups, formed around AION Labs challenges; powered by AWS with wet lab and computational lab.",
+      "acceptance_rate": null
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Promise Bio", "sector": "biotech", "outcome": "active" },
+        { "company": "CombinAble.AI", "sector": "biotech", "outcome": "acquired by insitro" }
+      ]
+    },
+    "people": [
+      { "name": "Mati Gill", "role": "CEO" }
+    ],
+    "application": {
+      "how_to_apply": "Apply to AION Labs challenges via aionlabs.com.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "venture-studio", "pharma", "ai-drug-discovery"],
+    "summary": {
+      "en": "AION Labs is a Rehovot-based venture studio formed in 2021 (after winning a 2020 government tender) by AstraZeneca, Merck KGaA, Pfizer and Teva together with AWS and Israeli VCs Israel Biotech Fund and Amiti Ventures. Powered by AWS with a wet lab and computational lab, it creates AI-driven drug-discovery startups such as Promise Bio.",
+      "local": null
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/AION_Labs",
+        "title": "AION Labs - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "founding via tender, corporate consortium partners, location, AWS, venture-studio model",
+        "quote": "AION Labs was formed after winning a government tender in 2020, bringing together AstraZeneca, Merck KGaA, Pfizer, and Teva ... with Amazon Web Services (AWS) ... and biotech and deeptech VC firms Israel Biotech Fund and Amiti Ventures."
+      },
+      {
+        "url": "https://www.pharmtech.com/view/astrazeneca-merck-kgaa-pfizer-and-teva-team-up-with-tech-and-investment-leaders-to-launch-new-biotech-innovation-lab",
+        "title": "AstraZeneca, Merck KGaA, Pfizer, and Teva Team up with Tech and Investment Leaders to Launch New Biotech Innovation Lab",
+        "publisher": "Pharmaceutical Technology",
+        "accessed": "2026-06-02",
+        "supports": "Rehovot location, AWS-powered, wet lab and computational lab, CEO",
+        "quote": "The lab will be based in Rehovot, Israel, and will be 'powered by AWS.' AION Labs will house a wet lab for biomedical research and a cloud-based computational lab environment ... Mati Gill, formerly head of government affairs at Teva, is the hub's CEO."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Classified as venture-studio (its self-description) created by a corporate pharma consortium; also operates under an IIA innovation-lab framework, so partly government-backed. Per-startup investment and equity terms not disclosed. Founded 2021 (won tender 2020).",
+    "last_updated": "2026-06-02",
+    "researched_by": "corporate-accelerator"
+  },
+  {
+    "id": "il-sosa-innofense",
+    "name": { "en": "SOSA Innofense", "local": "אינופנס" },
+    "aka": ["Innofense", "SOSA-Innofense Accelerator"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.sosa.co/hls/innofense",
+    "links": {
+      "other": ["https://ddrd-mafat.mod.gov.il/en/innofense", "https://finder.startupnationcentral.org/program_page/innofense"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["cybersecurity", "deeptech", "spacetech", "robotics"],
+      "thesis": "Dual-use (civilian + defense) accelerator operated by SOSA (with iHLS) for Israel's Ministry of Defense DDR&D; provides non-equity grants and techno-operational support to help startups bridge into the defense/HLS sector while retaining their IP."
+    },
+    "program": {
+      "length_weeks": 24,
+      "cohort_size": null,
+      "equity_taken_pct": 0,
+      "investment": { "raw": "non-equity grant (~₪200,000 / ~$50,000 per startup, per program materials)", "usd": null, "currency": "ILS" },
+      "format": "in-person",
+      "location": "SOSA Space, Tel Aviv",
+      "eligibility": "Civilian startups with dual-use technologies relevant to the Ministry of Defense and IDF challenges.",
+      "acceptance_rate": "~14% (35 participants from ~250 applications across 6 cohorts)"
+    },
+    "track_record": {
+      "portfolio_count": 35
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to the current Innofense cohort via SOSA.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "defense-tech", "dual-use", "government-backed"],
+    "summary": {
+      "en": "SOSA Innofense is a dual-use (civilian-and-defense) accelerator operated by open-innovation firm SOSA (with iHLS) for Israel's Ministry of Defense DDR&D. It gives startups a non-equity grant and techno-operational access to the MoD/IDF as design partners, without the ministry taking equity or IP. Six cohorts have run with ~35 participants from ~250 applications.",
+      "local": "אינופנס היא תוכנית האצה לטכנולוגיות דו-שימושיות (אזרחי-ביטחוני) המופעלת על ידי SOSA עבור מנהל המחקר והפיתוח של משרד הביטחון."
+    },
+    "sources": [
+      {
+        "url": "https://www.sosa.co/hls/innofense",
+        "title": "SOSA Innofense Accelerator | Dual-Use Tech Program in Tel Aviv",
+        "publisher": "SOSA",
+        "accessed": "2026-06-02",
+        "supports": "operator, dual-use focus, six cohorts, participants, applications, non-equity grant, duration",
+        "quote": "Six-month entry to SOSA Space ... ₪200,000 non-equity grant ... 6 cohorts ... 35 program participants ... 250 applications"
+      },
+      {
+        "url": "https://ddrd-mafat.mod.gov.il/en/innofense",
+        "title": "INNOFENSE | DDR&D",
+        "publisher": "Israel Ministry of Defense (DDR&D)",
+        "accessed": "2026-06-02",
+        "supports": "DDR&D operator, dual-use program, SOSA and iHLS operators, MoD not a shareholder",
+        "quote": "INNOFENSE is the DDR&D's innovation program for dual-use technology ventures ... operated through acceleration and mentorship programs offered by SOSA and iHLS ... will not be considered a shareholder or owner of the company's intellectual property"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Grant amount conflicts between sources: SOSA's own page states ₪200,000 non-equity grant, while a search snippet of a separate page cited $50,000; raw kept as the SOSA figure with note. Government-backed (MoD DDR&D) but operated by a corporate/private open-innovation firm (SOSA). Founded ~2019. Acceptance rate derived from 35/250.",
+    "last_updated": "2026-06-02",
+    "researched_by": "corporate-accelerator"
+  },
+  {
+    "id": "il-finsec-innovation-lab",
+    "name": { "en": "FinSec Innovation Lab" },
+    "aka": ["FinSec Lab", "Mastercard Enel X FinSec Innovation Lab"],
+    "type": "incubator",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Be'er Sheva",
+    "website": "https://www.finseclab.com/",
+    "links": {
+      "other": ["https://finder.startupnationcentral.org/investor_page/finsec-innovation-lab", "https://corporate.enelx.com/en/media/press-releases/2021/11/mastercard-and-enel-x-launch-the-finsec-innovation-lab"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["fintech", "cybersecurity"],
+      "thesis": "Fintech-and-cyber innovation lab jointly owned by Mastercard and Enel X, established via Israel Innovation Authority tender; provides startups production-grade test environments and IIA-funded PoC budgets to commercialize payments, energy-network and cyber solutions."
+    },
+    "program": {
+      "length_weeks": 26,
+      "cohort_size": "~5 PoC startups per cycle",
+      "equity_taken_pct": 0,
+      "investment": { "raw": "85% of PoC budget up to NIS 500,000 from the Israel Innovation Authority", "usd": null, "currency": "ILS" },
+      "format": "in-person",
+      "location": "Gav-Yam Negev Hi-Tech Park, Be'er Sheva",
+      "eligibility": "Israeli startups in fintech, cyber, IoT, biometrics, digital wallets, open banking, fraud detection and financial inclusion.",
+      "acceptance_rate": null
+    },
+    "track_record": {},
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via FinSec Innovation Lab / Israel Innovation Authority.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "fintech", "cybersecurity", "innovation-lab"],
+    "summary": {
+      "en": "FinSec Innovation Lab is a fintech-and-cybersecurity lab in Be'er Sheva jointly owned by Mastercard and Enel X, established in 2021 after winning an Israel Innovation Authority tender. It gives startups production-grade test environments and IIA-funded proof-of-concept budgets (85% of PoC up to NIS 500,000); five startups per cycle run six-month PoCs.",
+      "local": null
+    },
+    "sources": [
+      {
+        "url": "https://corporate.enelx.com/en/media/press-releases/2021/11/mastercard-and-enel-x-launch-the-finsec-innovation-lab",
+        "title": "Mastercard and Enel X launch FinSec Innovation Lab",
+        "publisher": "Enel X",
+        "accessed": "2026-06-02",
+        "supports": "joint Mastercard/Enel X ownership, Be'er Sheva location, fintech/cyber focus, founding year",
+        "quote": "The FinSec Innovation Lab was inaugurated by Enel X and Mastercard in 'Gav-Yam Negev' Hi-tech Park in Be'er Sheva, Israel."
+      },
+      {
+        "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3923092,00.html",
+        "title": "Mastercard and Enel X open FinSec Innovation Lab in Be'er Sheva's Hi-Tech Park",
+        "publisher": "Calcalist (Ctech)",
+        "accessed": "2026-06-02",
+        "supports": "IIA funding (NIS 13M), PoC budget terms, 5 startups, 6-month PoC",
+        "quote": "received a total of NIS 13 million in funding from the Israel Innovation Authority ... Startups that join the Lab receive 85% of funding up to a budget of half a million Shekels ... five startups were chosen to conduct a Proof of Concept (PoC) project which takes place over six months."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Government-backed via IIA tender but owned and operated by corporates Mastercard and Enel X. PoC funding comes from IIA (85% up to NIS 500K), not equity. Founded 2021; cohort/PoC cadence ~5 startups per cycle.",
+    "last_updated": "2026-06-02",
+    "researched_by": "corporate-accelerator"
+  },
+  {
+    "id": "il-iai-astra",
+    "name": { "en": "ASTRA (IAI x Starburst Accelerator)" },
+    "aka": ["ASTRA", "IAI Accelerator", "ASTRA by IAI and Starburst"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://starburst.aero/astra/",
+    "links": {
+      "other": ["https://starburst.aero/astra/news/the-israel-aerospace-industries-iai-accelerator-is-launching-a-new-cohort/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["spacetech", "deeptech", "robotics", "cybersecurity"],
+      "thesis": "Israel's only dedicated aviation/space/defense/dual-use accelerator, run by Israel Aerospace Industries (IAI) with global accelerator firm Starburst; gives early-stage startups IAI technical experts, feasibility testing and access to global defense primes."
+    },
+    "program": {
+      "length_weeks": 30,
+      "cohort_size": 4,
+      "equity_taken_pct": null,
+      "investment": { "raw": "support package up to $200,000 (half cash investment ~$100,000, half strategic assistance)", "usd": 200000, "currency": "USD" },
+      "format": "in-person",
+      "location": "Midtown Tower, Tel Aviv",
+      "eligibility": "Early-stage startups and entrepreneurs in aviation, space, defense and dual-use technologies.",
+      "acceptance_rate": null
+    },
+    "track_record": {
+      "co_investors": ["Raytheon", "Airbus", "Northrop Grumman"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via the ASTRA / Starburst program website per cohort.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "aerospace", "defense", "dual-use"],
+    "summary": {
+      "en": "ASTRA is the accelerator of Israel Aerospace Industries (IAI), run with global aerospace accelerator Starburst. Described as Israel's only program dedicated to aviation, space, defense and dual-use tech, its seven-month program (five-month bootcamp plus two months support) admits only four startups per cohort, each eligible for a package worth up to $200,000 (half investment, half strategic support) and access to IAI experts and primes like Raytheon, Airbus and Northrop Grumman.",
+      "local": null
+    },
+    "sources": [
+      {
+        "url": "https://starburst.aero/astra/news/the-israel-aerospace-industries-iai-accelerator-is-launching-a-new-cohort/",
+        "title": "The Israel Aerospace Industries (IAI) accelerator is launching a new cohort",
+        "publisher": "Starburst Aerospace",
+        "accessed": "2026-06-02",
+        "supports": "operators, program length, cohort size, support package, partners, focus, location",
+        "quote": "ASTRA, the acceleration program led by Israel Aerospace Industries (IAI) and the global accelerator firm Starburst ... The program spans seven months, including five months of 'bootcamp' followed by two additional months ... Only four companies are accepted per cohort ... a support package valued at $200,000, half as financial investment and half as strategic assistance ... leading global partners including Raytheon, Airbus, and Northrop Grumman."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Equity percentage not disclosed; $100K is described as financial investment, $100K as in-kind strategic assistance. Founded ~2021 (seventh cohort launched summer 2025). Run by corporate IAI with Starburst as operating partner.",
+    "last_updated": "2026-06-02",
+    "researched_by": "corporate-accelerator"
+  },
+  {
+    "id": "il-the-bridge-by-coca-cola",
+    "name": { "en": "The Bridge by Coca-Cola" },
+    "aka": ["The Bridge", "The Bridge Builders"],
+    "type": "accelerator",
+    "status": "unknown",
+    "founded_year": 2014,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "http://thebridgebycocacola.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/the-bridge-2"
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["consumer", "logistics", "saas-enterprise", "mobility"],
+      "thesis": "Commercialization-focused corporate accelerator launched by Coca-Cola in Tel Aviv, later joined by Turner and Mercedes-Benz as sponsors; bridges Israeli startups with commercial pilots and licensing deals across the sponsors' global businesses."
+    },
+    "program": {
+      "length_weeks": 30,
+      "cohort_size": 10,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Tel Aviv",
+      "eligibility": "Startups with software solutions ready to commercialize that fit the sponsors' themes (customer experience, supply chain, HR, health & wellness, IT infrastructure, etc.).",
+      "acceptance_rate": null
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Bringg", "sector": "logistics", "outcome": "active" },
+        { "company": "Cimagine", "sector": "consumer", "outcome": "acquired by Snap" }
+      ],
+      "exits": [
+        { "company": "Cimagine", "type": "M&A", "value": { "raw": "$30-40 million (reported)", "usd": null, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Gabby Czertok", "role": "General Manager" },
+      { "name": "Alan Boehme", "role": "Coca-Cola Global CTO (co-founder)" }
+    ],
+    "application": {
+      "how_to_apply": "Historically via The Bridge program website.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "commercialization", "consumer"],
+    "summary": {
+      "en": "The Bridge by Coca-Cola, launched in Tel Aviv in 2014, was a commercialization-focused corporate accelerator (later joined by Turner and Mercedes-Benz as sponsors) connecting Israeli startups to pilots and licensing deals across the sponsors' global businesses. Within three years 30 startups had set up 90 pilots and 27 licensing agreements; alumni include Bringg and Cimagine (acquired by Snap).",
+      "local": null
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2017/06/28/coca-cola-has-built-a-commercialization-bridge-to-startups-worldwide/",
+        "title": "Coca-Cola has built a commercialization 'Bridge' to startups worldwide",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "leadership, sponsors, startups/pilots/licensing counts, exits",
+        "quote": "30 startups have come through The Bridge's glass and steel doors, and have set up 90 pilots and 27 licensing agreements ... Mercedes-Benz (fourth class addition) ... Cimagine was acquired by Snap for a reported $30-40 million"
+      },
+      {
+        "url": "https://blogs.timesofisrael.com/coca-colas-new-bridge-to-israel/",
+        "title": "Coca-Cola's New 'Bridge' to Israel",
+        "publisher": "The Times of Israel (Blogs)",
+        "accessed": "2026-06-02",
+        "supports": "founding in Tel Aviv, program length ~7 months, cohort selection",
+        "quote": "The program lasts seven months ... Of nearly 200 recommended startups, 102 were scanned and 10 were accepted into the program."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded 2014 in Tel Aviv; later partner programs in Mexico City and Atlanta. Program length ~7 months (~30 weeks); 10 per cohort. Equity terms not disclosed (commercialization program, not pure investor). Current operating status uncertain — no clearly active recent cohorts found — so status set to 'unknown'.",
+    "last_updated": "2026-06-02",
+    "researched_by": "corporate-accelerator"
+  },
+  {
+    "id": "il-nielsen-innovate",
+    "name": { "en": "Nielsen Innovate" },
+    "aka": ["Nielsen Innovate Fund", "NIF"],
+    "type": "incubator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Caesarea",
+    "website": "https://nif.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/nielsen-innovate",
+      "crunchbase": "https://www.crunchbase.com/organization/nielsen-innovate",
+      "other": ["https://finder.startupnationcentral.org/investor_page/nielsen-innovate"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["consumer", "saas-enterprise", "ai-ml", "ecommerce"],
+      "thesis": "Early-stage incubator and fund launched by The Nielsen Company with Israeli VC Partam Hi-Tech, licensed by the Israel Innovation Authority; specializes in retail, research, marketing and media technologies, giving startups access to Nielsen's network and resources."
+    },
+    "program": {
+      "equity_taken_pct": null,
+      "investment": { "raw": "incubator seed funding (IIA-backed); ~$3M invested across portfolio (reported)", "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Caesarea, Israel",
+      "eligibility": "Early-stage Israeli startups in retail, research, marketing and media tech.",
+      "acceptance_rate": null
+    },
+    "track_record": {},
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via Nielsen Innovate (nif.vc).",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "incubator", "martech", "media-tech"],
+    "summary": {
+      "en": "Nielsen Innovate (NIF) is an early-stage incubator and fund founded in 2013 by global measurement company The Nielsen Company together with Israeli VC Partam Hi-Tech, licensed by the Israel Innovation Authority. Based in Caesarea, it funds and supports retail, research, marketing and media-tech startups with access to Nielsen's global network.",
+      "local": null
+    },
+    "sources": [
+      {
+        "url": "https://finder.startupnationcentral.org/investor_page/nielsen-innovate",
+        "title": "Nielsen Innovate - Israeli Incubator | Startup Nation Finder",
+        "publisher": "Start-Up Nation Central",
+        "accessed": "2026-06-02",
+        "supports": "incubator type, IIA license, founding partners, sector focus, location",
+        "quote": "Nielsen Innovate (NIF) is an early-stage incubator, licensed by the Israeli Innovation Authority ... launched in 2013 by global market research and consumer behavior leader The Nielsen Company, and one of Israel's top early stage venture capital fund Partam Hi-Tech ... Based in the ancient city of Caesarea"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Corporate-backed (Nielsen) incubator operating under IIA license with VC Partam Hi-Tech. Founded 2013, based in Caesarea. ~$3M-invested figure is from a secondary report; per-company terms and equity not confirmed. Current incubator-license status not re-verified for 2026.",
+    "last_updated": "2026-06-02",
+    "researched_by": "corporate-accelerator"
+  },
+  {
+    "id": "il-sosa",
+    "name": { "en": "SOSA" },
+    "aka": ["SOSA Global", "South of Salame"],
+    "type": "accelerator",
+    "subtypes": ["venture-studio"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.sosa.co/",
+    "links": {
+      "linkedin": "https://www.facebook.com/SOSA.global/",
+      "other": ["https://finder.startupnationcentral.org/program_page/sosa"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["all"],
+      "geo_focus": ["Israel", "United States", "Europe"],
+      "sector_focus": ["generalist", "cybersecurity", "fintech", "deeptech"],
+      "thesis": "Global open-innovation company that designs and operates corporate accelerators, scouting programs and innovation challenges for multinationals and public entities, connecting them to vetted Israeli and global startups; operates its own innovation hub/community in Tel Aviv."
+    },
+    "program": {
+      "equity_taken_pct": 0,
+      "investment": { "raw": "varies by mandate (program operator; typically no equity / non-equity)", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "SOSA Space, Tel Aviv (plus New York, London)",
+      "eligibility": "Startups matched to the needs of SOSA's corporate and public-entity clients via open-innovation programs and challenges.",
+      "acceptance_rate": null
+    },
+    "track_record": {
+      "co_investors": ["HP", "Schneider Electric", "Swiss Re", "RBC", "Rafael", "Tokio Marine"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Engage via SOSA's open-innovation programs and the Savvy platform.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-accelerator", "open-innovation", "program-operator"],
+    "summary": {
+      "en": "SOSA is a Tel Aviv-founded (2014) global open-innovation company that designs and operates corporate accelerators, scouting and innovation-challenge programs on behalf of multinationals (e.g. HP, Schneider Electric, Swiss Re, RBC, Tokio Marine) and public entities, connecting them to vetted startups. It runs an innovation hub/community in Tel Aviv (plus New York and London) and operates programs such as Innofense.",
+      "local": null
+    },
+    "sources": [
+      {
+        "url": "https://www.sosa.co/openinnovation/corporates",
+        "title": "SOSA Corporate Innovation | Accelerate Growth with Strategic Tech Solutions",
+        "publisher": "SOSA",
+        "accessed": "2026-06-02",
+        "supports": "open-innovation operator for corporates, services",
+        "quote": "SOSA manages open innovation for international corporations, specializing in distilling and connecting specific technologies to companies that seek them."
+      },
+      {
+        "url": "https://finder.startupnationcentral.org/program_page/sosa",
+        "title": "SOSA | Startup Nation Finder",
+        "publisher": "Start-Up Nation Central",
+        "accessed": "2026-06-02",
+        "supports": "founding year, founders, corporate/public clients, global hubs",
+        "quote": "SOSA was founded in 2013 by 25 leading Israeli investors and high-tech entrepreneurs ... SOSA's clients include multinational corporations such as HP, Schneider Electric, SwissRe, RBC, Rafael, and Tokio Marine"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "SOSA is an operator/enabler of corporate accelerators (open-innovation platform) rather than a single corporate's in-house program; included because it runs many corporate accelerator/open-innovation programs in Israel (e.g. Innofense). Founding year cited as 2013-2014 across sources (SNC says founded 2013, opened TLV HQ 2015). It does not typically take equity in startups it scouts.",
+    "last_updated": "2026-06-02",
+    "researched_by": "corporate-accelerator"
+  }
+]
