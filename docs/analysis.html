@@ -3,19 +3,11 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-  <title>全球創投與加速器名錄 · All-VC-Info</title>
-  <meta name="description" content="2,400+ 筆可溯源的創投、加速器、育成、CVC、天使、政府計畫等投資機構,橫跨 9 大地區 — 多軸篩選、全文搜尋、統計分析、中英雙語。" />
-  <link rel="canonical" href="https://tingwei161803.github.io/all-vc-info/" />
+  <title>統計分析 · All-VC-Info</title>
+  <meta name="description" content="全球創投生態系的資料分析:地區×類型熱力圖、產業/階段/成立年分布、AUM 排行、加速器經濟學、資料溯源 — 全部由附來源的資料集計算。" />
+  <link rel="canonical" href="https://tingwei161803.github.io/all-vc-info/analysis.html" />
   <meta name="theme-color" content="#6750A4" />
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='88'%3E%F0%9F%8F%A6%3C/text%3E%3C/svg%3E" />
-  <meta property="og:type" content="website" />
-  <meta property="og:title" content="All-VC-Info · 全球創投與加速器名錄" />
-  <meta property="og:description" content="2,400+ 筆可溯源的投資機構,橫跨 9 大地區。多軸篩選 · 統計分析 · 中英雙語。" />
-  <meta property="og:url" content="https://tingwei161803.github.io/all-vc-info/" />
-  <meta name="twitter:card" content="summary_large_image" />
-  <script type="application/ld+json">
-  { "@context":"https://schema.org","@type":"WebSite","name":"All-VC-Info","url":"https://tingwei161803.github.io/all-vc-info/" }
-  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,400..700&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet" />
@@ -47,21 +39,20 @@
   <footer class="footer"><p id="footerText"></p></footer>
   <script>
   window.SITE_PAGE = {
-    id:"home", kind:"home",
-    title:{en:"Global VC & Accelerator Directory", zh:"全球創投與加速器名錄"},
+    id:"analysis", kind:"analysis",
+    title:{en:"Statistical analysis", zh:"統計分析"},
     sections:[
-      {type:"kpi", id:"overview", source:"overview",
-        title:{en:"Global VC & Accelerator Directory", zh:"全球創投與加速器名錄"},
-        sub:{en:"A cross-region, fully-sourced directory of investment organizations — VC firms, accelerators, incubators, corporate VCs, angel networks, government programs, venture studios, micro-VCs and family offices. Every figure is traceable to its source.",
-             zh:"跨地區、逐筆附來源的投資機構名錄 — 涵蓋創投、加速器、育成中心、企業創投、天使網絡、政府計畫、創業工作室、Micro-VC 與家族辦公室。每個數字都可回溯到出處。"}},
-      {type:"regioncards", id:"regions", title:{en:"By region", zh:"分地區"}, sub:{en:"Nine regions — click through to each region's full landscape.", zh:"九大地區,點進去看各地區完整樣貌與名錄。"}},
-      {type:"bars", id:"by-region", title:{en:"Organizations by region", zh:"各地區機構數"}, source:"axis:region"},
-      {type:"donut", id:"by-type", title:{en:"By organization type", zh:"依機構類型"}, source:"axis:type"},
-      {type:"freshness", id:"fresh", title:{en:"Freshness check · 2026", zh:"現況查核 · 2026"}, sub:{en:"Spot-checked 2025–26 developments for marquee firms.", zh:"旗艦機構 2025–26 最新動態抽查。"}},
-      {type:"cta", id:"cta", title:{en:"Dive deeper", zh:"看更多"}, sub:{en:"Explore the full directory, the statistical analysis, or how this was built.", zh:"瀏覽完整名錄、統計分析,或這份資料是怎麼做的。"},
-        links:[ {href:"directory.html", icon:"travel_explore", label:{en:"Full directory", zh:"完整名錄"}},
-                {href:"analysis.html", icon:"analytics", label:{en:"Analysis", zh:"統計分析"}},
-                {href:"methodology.html", icon:"menu_book", label:{en:"Methodology", zh:"方法論"}} ]}
+      {type:"kpi", id:"a-top", source:"overview",
+        title:{en:"Statistical analysis", zh:"統計分析"},
+        sub:{en:"Everything below is computed from the sourced dataset — open any name to trace it back.", zh:"以下全部由附來源的資料集計算而得 — 點任一名稱可回溯來源。"}},
+      {type:"heatmap", id:"heatmap", title:{en:"Region × type heatmap", zh:"地區 × 類型 熱力圖"}, sub:{en:"Where each kind of investor concentrates across regions.", zh:"各類投資機構在各地區的集中程度。"}},
+      {type:"bars", id:"types", title:{en:"By organization type", zh:"依機構類型"}, source:"axis:type"},
+      {type:"donut", id:"sectors", title:{en:"Sector focus (top 14)", zh:"產業 focus(前 14)"}, source:"axis:sector", limit:14},
+      {type:"bars", id:"stages", title:{en:"Stage focus", zh:"投資階段分布"}, source:"axis:stage"},
+      {type:"bars", id:"founded", title:{en:"Founding cohort", zh:"成立年代分布"}, source:"analytics:founded"},
+      {type:"toplist", id:"aum", title:{en:"Largest by AUM / fund size", zh:"管理規模最大(前 20)"}, sub:{en:"Among organizations that disclose a USD figure.", zh:"以有揭露美元數字者為準。"}, limit:20},
+      {type:"accel", id:"accel", title:{en:"Accelerator economics", zh:"加速器經濟學"}, sub:{en:"How much equity accelerators & incubators take.", zh:"加速器與育成中心收取多少股權。"}},
+      {type:"provenance", id:"prov", title:{en:"Data provenance", zh:"資料溯源"}, sub:{en:"How well-sourced this dataset is.", zh:"這份資料的來源紮實程度。"}}
     ]
   };
   </script>
