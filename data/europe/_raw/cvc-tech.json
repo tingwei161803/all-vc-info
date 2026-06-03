@@ -1,0 +1,875 @@
+[
+  {
+    "id": "eu-sap-io-fund",
+    "name": { "en": "SAP.iO Fund" },
+    "aka": ["SAP.iO", "SAP.iO Venture Studio"],
+    "type": "cvc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Walldorf",
+    "website": "https://sap.io/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/sap-io",
+      "other": ["https://news.sap.com/2022/08/inhouse-venture-program-sap-future-portfolio/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$35M", "usd": 35000000, "currency": "USD" },
+      "funds": [
+        { "name": "SAP.iO Fund", "vintage_year": 2017, "size": { "raw": "$35M", "usd": 35000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "more than USD 0.25 million", "usd_min": 250000, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Global", "Europe"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "SAP's strategic business unit to incubate, accelerate and scale startup innovation; the SAP.iO Fund makes early-stage equity investments in B2B software startups that extend the SAP ecosystem."
+    },
+    "track_record": {
+      "portfolio_count": "300+ startups helped (SAP.iO program)",
+      "notable_investments": []
+    },
+    "summary": {
+      "en": "SAP.iO is SAP's open-innovation unit combining the SAP.iO Fund (a $35M early-stage venture fund launched in 2017) with the SAP.iO Foundry accelerator network. It makes equity investments of more than $250K in B2B software startups that expand the SAP ecosystem, and reports its broader portfolio has yielded 5 unicorns and 70 exits.",
+      "local": "SAP.iO ist die Open-Innovation-Einheit von SAP. Der 2017 gestartete SAP.iO Fund investiert frühphasig in B2B-Software-Startups, die das SAP-Ökosystem erweitern."
+    },
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/sap-announces-sapio-fund-to-drive-startup-innovation-300428259.html",
+        "title": "SAP Announces SAP.iO Fund to Drive Startup Innovation",
+        "publisher": "PR Newswire / SAP",
+        "accessed": "2026-06-02",
+        "supports": "Fund size, founding, HQ, investment amount, stages",
+        "quote": "SAP announced the SAP.iO Fund in Walldorf, Germany on March 23, 2017, seeded with an initial investment of US$35 million, to make early-stage investments in software startups that will expand the SAP ecosystem. The fund was designed to invest in 10 to 100 software startups with investments of more than USD 0.25 million."
+      },
+      {
+        "url": "https://news.sap.com/2022/08/inhouse-venture-program-sap-future-portfolio/",
+        "title": "In-House Venture Program Paves Way for SAP's Future Portfolio",
+        "publisher": "SAP News",
+        "accessed": "2026-06-02",
+        "supports": "Portfolio outcomes (300+ startups, unicorns, exits)",
+        "quote": "Since 2017, SAP.iO has helped 300+ external startups and internal ventures both start and scale their businesses. The SAP.iO portfolio has yielded 5 unicorns, 70 exits."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "SAP.iO Fund is SAP's directly managed CVC fund; distinct from Sapphire Ventures, which spun out of SAP in 2011 and is now an independent US-based VC (excluded from this set). Portfolio-wide stats (unicorns/exits) cover the broader SAP.iO program, not only the fund.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "eu-bosch-ventures",
+    "name": { "en": "Bosch Ventures" },
+    "aka": ["Robert Bosch Venture Capital", "RBVC"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2007,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Stuttgart",
+    "website": "https://www.bosch-ventures.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/robert-bosch-venture-capital",
+      "linkedin": "https://www.linkedin.com/company/robert-bosch-venture-capital"
+    },
+    "offices": [
+      { "country": "Germany", "city": "Stuttgart" },
+      { "country": "Germany", "city": "Frankfurt" },
+      { "country": "United States", "city": "Sunnyvale" },
+      { "country": "United States", "city": "Boston" },
+      { "country": "Israel", "city": "Tel Aviv" },
+      { "country": "China", "city": "Shanghai" }
+    ],
+    "capital": {
+      "current_fund": { "raw": "€250 million (approximately $282 million)", "usd": 282000000, "currency": "EUR" },
+      "funds": [
+        { "name": "Robert Bosch Venture Capital Fund VI", "vintage_year": 2025, "size": { "raw": "€250 million (approximately $282 million)", "usd": 282000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Global", "Europe", "United States", "Israel", "China"],
+      "sector_focus": ["deeptech", "ai-ml", "climate-energy", "hardware-semiconductor", "robotics"],
+      "thesis": "Corporate venture arm of the Bosch Group investing in deep-tech startups in energy efficiency, AI, semiconductors, quantum computing and other foundational technologies across software and hardware."
+    },
+    "track_record": {
+      "portfolio_count": "over 60 active investments",
+      "notable_investments": [
+        { "company": "IonQ", "sector": "deeptech", "outcome": "IPO" },
+        { "company": "Quantum Motion", "sector": "deeptech", "outcome": "active" },
+        { "company": "Arduino", "sector": "hardware-semiconductor", "outcome": "active" },
+        { "company": "Aleph Alpha", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Ingo Ramesohl", "role": "Managing Director" }
+    ],
+    "summary": {
+      "en": "Bosch Ventures (Robert Bosch Venture Capital) is the corporate venture arm of the Bosch Group, founded in 2007 in Stuttgart. In May 2025 it launched its sixth fund of €250m (~$282m) focused on deep-tech in AI, climatetech, semiconductors and quantum computing. It has made over 100 investments since 2007 and currently holds more than 60 active positions; it was an early backer of IonQ.",
+      "local": "Bosch Ventures (Robert Bosch Venture Capital) ist die Corporate-Venture-Capital-Einheit der Bosch-Gruppe, gegründet 2007 in Stuttgart. 2025 startete der sechste Fonds mit 250 Mio. Euro für Deep-Tech."
+    },
+    "sources": [
+      {
+        "url": "https://thequantuminsider.com/2025/05/08/bosch-ventures-launches-fund-with-over-280m-to-support-deep-tech-startups-includes-quantum-computing/",
+        "title": "Bosch Ventures Launches Fund With Over $280M to Support Deep-Tech Startups",
+        "publisher": "The Quantum Insider",
+        "accessed": "2026-06-02",
+        "supports": "Fund VI size, founding year, portfolio counts, sectors, offices, notable investments",
+        "quote": "€250 million (approximately $282 million) ... over 100 investments since 2007 ... over 60 active investments ... an early investor in IonQ, the first publicly traded quantum computing company ... regional offices and dedicated startup ecosystem teams in Shanghai, Stuttgart, Frankfurt, Tel Aviv, Boston, and Sunnyvale."
+      },
+      {
+        "url": "https://www.everythingstartups.com/vc-funds/robert-bosch-venture-capital-bosch-ventures",
+        "title": "Robert Bosch Ventures",
+        "publisher": "Everything Startups",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, HQ, leadership, notable portfolio companies",
+        "quote": "Founded in 2007 and headquartered in Stuttgart ... RBVC is led by Managing Director Ingo Ramesohl ... portfolio includes over 60 active investments."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Parent Bosch is a technology and hardware conglomerate; classified here as a technology/hardware CVC. Check sizes not publicly disclosed; left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "eu-next47",
+    "name": { "en": "N47" },
+    "aka": ["Next47", "next47"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Munich",
+    "website": "https://www.n47.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/next47",
+      "other": ["https://press.siemens.com/global/en/feature/next47-siemens-founds-separate-unit-startups"]
+    },
+    "offices": [
+      { "country": "Germany", "city": "Munich" },
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "France", "city": "Paris" },
+      { "country": "Sweden", "city": "Stockholm" },
+      { "country": "United States", "city": "Palo Alto" },
+      { "country": "United States", "city": "Boston" },
+      { "country": "Israel", "city": "Herzliya" }
+    ],
+    "capital": {
+      "current_fund": { "raw": "$1.2 billion", "usd": 1200000000, "currency": "USD" },
+      "funds": [
+        { "name": "next47 (initial funding)", "vintage_year": 2016, "size": { "raw": "€1 billion for the first five years", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Global", "Europe", "United States", "Israel"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "deeptech", "cybersecurity"],
+      "thesis": "Independent, global venture firm backed by Siemens AG investing in enterprise-focused businesses across AI platforms, infrastructure, autonomous systems and cloud security."
+    },
+    "track_record": {
+      "portfolio_count": "239 companies",
+      "notable_investments": []
+    },
+    "summary": {
+      "en": "N47 (formerly Next47) is the global, Siemens-backed corporate venture firm founded effective October 2016, named after Siemens' founding year 1847. Siemens committed €1bn for its first five years; it is described as a $1.2bn firm with independent investment decision-making and offices including Munich, London, Paris and Stockholm. It focuses on enterprise technology and reports a portfolio of 239 companies with 14 unicorns.",
+      "local": "N47 (ehemals Next47) ist die globale, von Siemens AG getragene Corporate-Venture-Einheit, gegründet zum 1. Oktober 2016. Siemens stellte für die ersten fünf Jahre 1 Mrd. Euro bereit; Schwerpunkt ist Enterprise-Technologie."
+    },
+    "sources": [
+      {
+        "url": "https://press.siemens.com/global/en/feature/next47-siemens-founds-separate-unit-startups",
+        "title": "next47: Siemens founds separate unit for startups",
+        "publisher": "Siemens Press",
+        "accessed": "2026-06-02",
+        "supports": "Founding date, name origin, initial funding",
+        "quote": "Effective October 1, 2016, Siemens will set up a separate unit to foster disruptive ideas. The unit's name, 'next47,' plays on the fact that Siemens was founded in 1847 ... the new unit will have funding of €1 billion for the first five years."
+      },
+      {
+        "url": "https://tracxn.com/d/venture-capital/next47/__bI8hs_enpgZod4GZWlhZ1aGsgpmZ2a0eY9H-LX4BiLM",
+        "title": "Next47 / N47 Investor Profile",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "Firm size, portfolio counts, offices",
+        "quote": "Next47 is a $1.2 billion independent, global venture firm backed by Siemens AG ... N47 has made 358 investments, and it has a portfolio of 239 companies and has 14 unicorns in its portfolio."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Rebranded from Next47 to N47. Backed solely by Siemens but operates with independent investment decisions. Specific check sizes not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "eu-siemens-energy-ventures",
+    "name": { "en": "Siemens Energy Ventures" },
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Erlangen",
+    "website": "https://www.siemens-energy.com/global/en/home/innovations/ventures.html",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/siemens-energy-ventures"
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Global", "Europe"],
+      "sector_focus": ["climate-energy", "deeptech", "hardware-semiconductor"],
+      "thesis": "Corporate venture capital arm of Siemens Energy investing in startups focused on industrial decarbonisation and the energy transition at Series A, B and growth stages."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Marvel Fusion", "sector": "deeptech", "outcome": "active" },
+        { "company": "Malta", "sector": "climate-energy", "outcome": "active" },
+        { "company": "Factor2 Energy", "sector": "climate-energy", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "Siemens Energy Ventures is the corporate venture capital arm of Siemens Energy, founded in 2020 and headquartered in Erlangen, Germany. It invests in Series A, B and growth-stage startups focused on industrial decarbonisation and the energy transition, with portfolio companies including Marvel Fusion, Malta and Factor2 Energy.",
+      "local": "Siemens Energy Ventures ist die Corporate-Venture-Capital-Einheit von Siemens Energy, gegründet 2020 mit Sitz in Erlangen. Investiert wird in Start-ups für industrielle Dekarbonisierung und Energiewende."
+    },
+    "sources": [
+      {
+        "url": "https://www.crunchbase.com/organization/siemens-energy-ventures",
+        "title": "Siemens Energy Ventures - Crunchbase Company Profile",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, HQ, stages, sectors, notable investments",
+        "quote": "Siemens Energy Ventures is the corporate venture capital arm of Siemens Energy, founded in 2020 and headquartered in Erlangen, Germany ... industrial decarbonisation and the energy transition at the series A, B, and growth stages ... investments in companies like Factor2 Energy, Marvel Fusion, and Malta."
+      },
+      {
+        "url": "https://www.siemens-energy.com/global/en/home/innovations/ventures.html",
+        "title": "Ventures | Siemens Energy",
+        "publisher": "Siemens Energy",
+        "accessed": "2026-06-02",
+        "supports": "Existence of the venture unit and parent company",
+        "quote": "Siemens Energy Ventures"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year and details sourced from Crunchbase (secondary). Fund size and check sizes not publicly disclosed; left null. Energy-transition / industrial deep-tech focus.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "eu-t-capital-deutsche-telekom",
+    "name": { "en": "T.Capital" },
+    "aka": ["Deutsche Telekom Strategic Investments", "DTSI", "Telekom Innovation Pool", "T-Venture"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 1998,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Bonn",
+    "website": "https://www.t.capital/",
+    "links": {
+      "other": ["https://www.t.capital/investment-strategies/", "https://www.t.capital/portfolio/"]
+    },
+    "capital": {
+      "aum": { "raw": "€2.3 billion", "usd": null, "currency": "EUR" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "€1 to €15 million (Ventures); €50 to €300 million (Tech Fund)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Global", "Europe"],
+      "sector_focus": ["ai-ml", "cybersecurity", "saas-enterprise", "deeptech"],
+      "thesis": "Strategic investment arm of Deutsche Telekom; the Ventures team invests as a strategic follower in Series A-C (€1-15m) in AI, cybersecurity, connectivity and consumer, while the Tech Fund takes growth/buyout positions (€50-300m) in AI, defence tech, cloud, cybersecurity and IoT."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "ElevenLabs", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Perplexity", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Lovable", "sector": "ai-ml", "outcome": "active" },
+        { "company": "n8n", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Filigran", "sector": "cybersecurity", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "T.Capital is the strategic corporate venture arm of Deutsche Telekom (formerly T-Venture, founded 1998, later Deutsche Telekom Strategic Investments / Telekom Innovation Pool). It manages €2.3bn across two strategies: Ventures (Series A-C strategic follower, €1-15m tickets, AI/cyber/connectivity/consumer) and Tech Fund (growth/buyout, €50-300m, AI/defence/cloud/cyber/IoT). Recent investments include ElevenLabs, Perplexity, Lovable and n8n.",
+      "local": "T.Capital ist die strategische Corporate-Venture-Einheit der Deutschen Telekom (zuvor T-Venture, gegründet 1998). Verwaltet werden 2,3 Mrd. Euro über die Strategien Ventures und Tech Fund."
+    },
+    "sources": [
+      {
+        "url": "https://www.t.capital/",
+        "title": "Scaling the Next Generation of Technology - T.Capital",
+        "publisher": "T.Capital / Deutsche Telekom",
+        "accessed": "2026-06-02",
+        "supports": "AUM, parent company, strategies, portfolio examples",
+        "quote": "We manage €2.3 billion in assets on behalf of Deutsche Telekom across our Ventures and Tech Fund strategies. T.Capital is the strategic investment arm of Deutsche Telekom."
+      },
+      {
+        "url": "https://www.t.capital/investment-strategies/",
+        "title": "We operate through strategies in Ventures and Tech Fund",
+        "publisher": "T.Capital",
+        "accessed": "2026-06-02",
+        "supports": "Ticket sizes, stages, sectors",
+        "quote": "T.Capital Ventures primarily invests in Series A to C financing rounds with ticket sizes of 1 to 15 million euros ... T.Capital Tech Fund typically invests between 50 and 300 million euros in controlling or significant non-controlling interests."
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/t-venture",
+        "title": "Deutsche Telekom Strategic Investments - Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "Lineage from T-Venture (founded 1998)",
+        "quote": "T-Venture ... Deutsche Telekom Strategic Investments"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Lineage: T-Venture (founded 1998) -> Deutsche Telekom Strategic Investments / Telekom Innovation Pool -> rebranded T.Capital. AUM figure includes both Ventures and the larger Tech Fund growth-equity strategy. HQ taken as Bonn (Deutsche Telekom headquarters); not explicitly stated on T.Capital site.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "eu-orange-ventures",
+    "name": { "en": "Orange Ventures" },
+    "aka": ["Orange Digital Ventures"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://ventures.orange.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/orange-digital-ventures"
+    },
+    "offices": [
+      { "country": "France", "city": "Paris" },
+      { "country": "Senegal", "city": "Dakar" }
+    ],
+    "capital": {
+      "aum": { "raw": "350 million euros", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": "350 million euros", "usd": null, "currency": "EUR" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "investment tickets up to 20 million euros per financing round", "usd_min": null, "usd_max": 20000000 },
+      "geo_focus": ["Europe", "Africa", "Middle East", "United States"],
+      "sector_focus": ["deeptech", "cybersecurity", "fintech", "saas-enterprise"],
+      "thesis": "Venture capital arm of the Orange Group investing in innovative startups across Networks & IT, Digital Enterprise, Cybersecurity and Fintech, plus consumer platforms, e-gaming, edtech and health, from seed in Africa/Middle East to mature companies in Europe and the US."
+    },
+    "summary": {
+      "en": "Orange Ventures is the corporate venture capital fund of French telecom operator Orange, established as a separate legal entity in January 2021 with a €350m allocation. It invests across stages with tickets up to €20m per round, focusing on Networks & IT, Digital Enterprise, Cybersecurity and Fintech, and operates from Paris and Dakar.",
+      "local": "Orange Ventures est le fonds de capital-risque du groupe Orange, créé comme entité distincte en janvier 2021 avec une allocation de 350 millions d'euros, investissant jusqu'à 20 millions d'euros par tour."
+    },
+    "sources": [
+      {
+        "url": "https://newsroom.orange.com/orange-strengthens-its-venture-capital-activity-in-digital-innovation-by-creating-a-new-entity-orange-ventures-with-an-allocation-of-350-million-euros/",
+        "title": "Orange strengthens its venture capital activity ... Orange Ventures with an allocation of 350 million euros",
+        "publisher": "Orange Newsroom",
+        "accessed": "2026-06-02",
+        "supports": "Creation date, fund allocation, ticket size, sectors, offices",
+        "quote": "11 January 2021 ... 350 million euros ... Networks & IT, Digital Enterprise, Cybersecurity, and Fintech ... investment tickets up to 20 million euros per financing round ... offices in Paris and Dakar."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Orange Ventures was created as an independent entity in 2021, building on the earlier Orange Digital Ventures (launched 2015). €350m is the total allocation/AUM.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "eu-se-ventures",
+    "name": { "en": "SE Ventures" },
+    "aka": ["Schneider Electric Ventures"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Rueil-Malmaison",
+    "website": "https://www.seventures.com/",
+    "links": {
+      "other": ["https://www.se.com/ww/en/about-us/newsroom/news/press-releases/se-ventures-announces-%E2%82%AC500-million-fund-ii-to-accelerate-climate-and-industrial-tech-start-ups-63763c6d1ec9843c8f08db34/"]
+    },
+    "capital": {
+      "aum": { "raw": "€1bn of committed capital", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": "€500m ($519m) Fund II", "usd": 519000000, "currency": "EUR" },
+      "funds": [
+        { "name": "SE Ventures Fund I", "vintage_year": 2018, "size": { "raw": null, "usd": null, "currency": "EUR" } },
+        { "name": "SE Ventures Fund II", "vintage_year": 2022, "size": { "raw": "€500m ($519m)", "usd": 519000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Europe", "United States", "Global"],
+      "sector_focus": ["climate-energy", "deeptech", "robotics", "saas-enterprise"],
+      "thesis": "Corporate venture arm backed by Schneider Electric investing in climate and industrial technology startups across clean energy, industrial automation, electrification, digitisation and decarbonisation."
+    },
+    "track_record": {
+      "portfolio_count": "more than 40 startups and seven venture funds (via Fund I)"
+    },
+    "summary": {
+      "en": "SE Ventures is the corporate venture capital firm backed by French electrification and automation conglomerate Schneider Electric, founded in 2017. Its €500m ($519m) Fund II (announced November 2022) brought total committed capital to €1bn; Fund I (2018) invested in over 40 startups and seven venture funds. Focus is climate and industrial technology.",
+      "local": "SE Ventures est la société de capital-risque adossée à Schneider Electric, fondée en 2017. Son Fonds II de 500 millions d'euros (2022) porte le capital engagé total à 1 milliard d'euros, ciblant les technologies climatiques et industrielles."
+    },
+    "sources": [
+      {
+        "url": "https://globalventuring.com/corporate/se-ventures-launches-e500m-climate-and-industrial-tech-fund/",
+        "title": "SE Ventures launches €500m climate and industrial tech fund",
+        "publisher": "Global Venturing",
+        "accessed": "2026-06-02",
+        "supports": "Fund II size, Fund I year, total committed, founding year, sectors, parent, Fund I portfolio count",
+        "quote": "€500m ($519m) ... €1bn ... clean energy and industrial automation ... Founding Year: 2017 ... Schneider Electric ... Fund I, SE Ventures invested in more than 40 startups and seven venture funds."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Parent Schneider Electric is an electrical/industrial technology conglomerate; classified as a technology/hardware CVC. Fund I 2018 launch confirmed; Fund I size not disclosed. HQ taken as Schneider Electric's Rueil-Malmaison; SE Ventures also operates from California.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "eu-capgemini-ventures",
+    "name": { "en": "Capgemini Ventures" },
+    "aka": ["ISAI Cap Venture"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://www.capgemini.com/about-us/who-we-are/innovation-ecosystem/capgemini-ventures/",
+    "links": {
+      "other": ["https://www.consultancy.uk/news/21807/capgemini-launches-first-technology-venture-capital-fund"]
+    },
+    "capital": {
+      "current_fund": { "raw": "up to €90 million", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "ISAI Cap Venture", "vintage_year": 2019, "size": { "raw": "up to €90 million", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": "between €1 million and €5 million", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Europe", "Global"],
+      "sector_focus": ["saas-enterprise", "deeptech", "ai-ml"],
+      "thesis": "Capgemini's corporate venture capital activity, run via the ISAI Cap Venture fund with asset manager ISAI Gestion, makes minority investments of €1-5m in around 15-20 early-stage B2B technology companies, with a particular focus on Europe and 'future software market leaders' and sustainable IT."
+    },
+    "summary": {
+      "en": "Capgemini Ventures is the corporate venture capital unit of French IT services and consulting group Capgemini. Its first fund, ISAI Cap Venture (launched July 2019 with asset manager ISAI Gestion), plans to invest up to €90m, writing €1-5m cheques into around 15-20 B2B technology companies raising Series A, B and C, with a particular focus on Europe.",
+      "local": "Capgemini Ventures est l'unité de capital-risque du groupe français de services informatiques Capgemini. Son fonds ISAI Cap Venture (2019) prévoit d'investir jusqu'à 90 millions d'euros, avec des tickets de 1 à 5 millions d'euros dans des entreprises B2B."
+    },
+    "sources": [
+      {
+        "url": "https://www.consultancy.uk/news/21807/capgemini-launches-first-technology-venture-capital-fund",
+        "title": "Capgemini launches first technology venture capital fund",
+        "publisher": "Consultancy.uk",
+        "accessed": "2026-06-02",
+        "supports": "Fund size, partner, stages, geo focus, check size, launch year",
+        "quote": "plans to invest up to €90 million in early-stage technology companies ... invest between €1 million and €5 million in around 15-20 companies ... The fund, called ISAI Cap Venture ... target companies looking to raise money in Series A, B and C funding rounds ... have a particular focus on Europe ... 12 July 2019."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Capgemini Ventures invests primarily via the externally co-managed ISAI Cap Venture fund (with ISAI Gestion); it is a corporate venture program rather than a fully captive fund. Check sizes and stages from the 2019 launch.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "eu-swisscom-ventures",
+    "name": { "en": "Swisscom Ventures" },
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2007,
+    "region": "europe",
+    "country": "Switzerland",
+    "hq_city": "Zurich",
+    "website": "https://ventures.swisscom.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/swisscom-ventures"
+    },
+    "offices": [
+      { "country": "Switzerland", "city": "Zurich" },
+      { "country": "Switzerland", "city": "Bern" },
+      { "country": "Switzerland", "city": "Lausanne" },
+      { "country": "United States", "city": "Palo Alto" }
+    ],
+    "capital": {
+      "aum": { "raw": "over CHF 600 million (over $650 million in assets and advisory)", "usd": 650000000, "currency": "CHF" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": "initial ticket sizes ranging from $2 million to $10 million", "usd_min": 2000000, "usd_max": 10000000 },
+      "geo_focus": ["Switzerland", "Europe", "United States", "Israel"],
+      "sector_focus": ["deeptech", "ai-ml", "cybersecurity", "saas-enterprise"],
+      "thesis": "Corporate venture arm of Swisscom investing minority stakes from Seed to Series C in Swiss and international startups, including Swiss university spin-offs, in telecom/IT infrastructure, AI and cybersecurity."
+    },
+    "track_record": {
+      "portfolio_count": "90+ companies backed; 45 exits",
+      "exits": []
+    },
+    "summary": {
+      "en": "Swisscom Ventures is the corporate venture capital arm of Swiss telecom operator Swisscom, founded in 2007 in Zurich. It manages over CHF 600m (over $650m in assets and advisory), writing initial cheques of $2-10m from Seed to Series C, and has backed 90+ companies with 45 exits, with a particular interest in Swiss university spin-offs.",
+      "local": "Swisscom Ventures ist die Corporate-Venture-Capital-Einheit des Schweizer Telekomanbieters Swisscom, gegründet 2007 in Zürich. Verwaltet werden über 600 Mio. CHF; Tickets von 2 bis 10 Mio. US-Dollar von Seed bis Series C."
+    },
+    "sources": [
+      {
+        "url": "https://ventures.swisscom.com/",
+        "title": "Home - Swisscom Ventures",
+        "publisher": "Swisscom Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, portfolio counts, exits, check size, stages, HQ, offices",
+        "quote": "Since 2007, Swisscom Ventures has invested in over 80 start-up companies ... + 90 Companies backed ... 45 Exits ... initial ticket sizes ranging from $2 million to $10 million ... Seed to Series C ... HQ Zürich (Konradstrasse 12, 8005 Zurich) ... Additional offices: Bern, Lausanne, and Palo Alto."
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/swisscom-ventures",
+        "title": "Swisscom Ventures - Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "AUM",
+        "quote": "Swisscom Ventures manages over $650 million in assets and advisory ... assets under management and advice of over CHF 600 million."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM expressed in both CHF (CHF 600m) and a combined assets-and-advisory figure (~$650m); roughly one-third financed by Swisscom and the rest by ~20 institutional investors.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "eu-abb-technology-ventures",
+    "name": { "en": "ABB Technology Ventures" },
+    "aka": ["ABB Ventures", "ATV"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2009,
+    "region": "europe",
+    "country": "Switzerland",
+    "hq_city": "Zurich",
+    "website": "https://www.abb.com/global/en/company/ventures",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/abb-technology-ventures",
+      "linkedin": "https://www.linkedin.com/showcase/abb-technology-ventures/"
+    },
+    "offices": [
+      { "country": "Switzerland", "city": "Zurich" },
+      { "country": "United States", "city": "Silicon Valley" },
+      { "country": "United States", "city": "Washington DC" }
+    ],
+    "capital": {
+      "aum": { "raw": "approximately $400 million in assets under management", "usd": 400000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": "initial check sizes ranging from $500,000 to $10 million", "usd_min": 500000, "usd_max": 10000000 },
+      "geo_focus": ["Global", "Europe", "United States"],
+      "sector_focus": ["robotics", "deeptech", "ai-ml", "climate-energy", "cybersecurity"],
+      "thesis": "Strategic venture capital arm of ABB Group investing in early- to growth-stage industrial technology startups aligned with ABB's electrification and automation goals — robotics, industrial IoT, AI, energy transition, cybersecurity and smart buildings."
+    },
+    "track_record": {
+      "portfolio_count": "around 4-6 new investments annually",
+      "notable_investments": []
+    },
+    "summary": {
+      "en": "ABB Technology Ventures is the corporate venture capital arm of Swiss-Swedish industrial technology group ABB, founded in 2009 and headquartered in Zurich (with offices in Silicon Valley and Washington DC). It manages around $400m, writing initial cheques of $500K-$10m into early- to growth-stage industrial-tech startups in robotics, industrial IoT, AI, energy transition and cybersecurity. It has deployed roughly $400-500m since inception.",
+      "local": "ABB Technology Ventures ist die Corporate-Venture-Capital-Einheit des Industrietechnologiekonzerns ABB, gegründet 2009 mit Sitz in Zürich. Verwaltet werden rund 400 Mio. US-Dollar; Tickets von 0,5 bis 10 Mio. US-Dollar."
+    },
+    "sources": [
+      {
+        "url": "https://www.crunchbase.com/organization/abb-technology-ventures",
+        "title": "ABB Ventures - Crunchbase Company Profile",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, AUM, check sizes, sectors, HQ, offices, deals per year",
+        "quote": "ABB Technology Ventures is the corporate venture capital arm of ABB Group ... headquartered in Zurich, Switzerland, with additional offices in Silicon Valley and Washington DC ... manages approximately $400 million in assets under management and writes initial check sizes ranging from $500,000 to $10 million. Founded in 2009, ABB Ventures has deployed around $400–500 million across approximately 4-6 new investments annually."
+      },
+      {
+        "url": "https://www.hopohopo.io/investors/abb-technology-ventures",
+        "title": "ABB Technology Ventures - Startup Match Score & Focus Areas",
+        "publisher": "Hopohopo",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, deployed amount, sectors",
+        "quote": "ABB Ventures, established in 2009 ... has deployed approximately $400 million into startups across sectors such as robotics, industrial IoT, AI/machine learning, energy transition, cybersecurity, sustainability, electric mobility, smart buildings, and distributed energy."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "ABB is headquartered in Zurich, Switzerland (Swiss-Swedish group); classified under Switzerland. Figures from secondary aggregators (Crunchbase/Hopohopo) as the official ABB Ventures page was not directly fetchable; deployed amount cited as both ~$400m and ~$500m.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "eu-kpn-ventures",
+    "name": { "en": "KPN Ventures" },
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "europe",
+    "country": "Netherlands",
+    "hq_city": "Rotterdam",
+    "website": "https://www.kpnventures.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/kpn-ventures"
+    },
+    "offices": [
+      { "country": "Netherlands", "city": "Rotterdam" },
+      { "country": "Netherlands", "city": "Amsterdam" }
+    ],
+    "capital": {
+      "current_fund": { "raw": "70 million euros", "usd": null, "currency": "EUR" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": "1 to 5 million euro for minority stakes", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Netherlands", "Europe"],
+      "sector_focus": ["cybersecurity", "ai-ml", "healthtech", "deeptech"],
+      "thesis": "Venture capital investment arm of Dutch telecom and ICT provider KPN, investing €1-5m for minority stakes in Series A-C rounds in companies relevant to KPN's B2C and B2B customers — cybersecurity, IoT, digital health and networking technology."
+    },
+    "summary": {
+      "en": "KPN Ventures is the corporate venture capital arm of Dutch telecom and ICT provider KPN, established in 2015 with a €70m fund and based in Rotterdam. It invests €1-5m for minority stakes in Series A, B and C rounds, focusing on cybersecurity, IoT, digital health and networking technology relevant to KPN's customers; its philosophy targets external exits rather than acquisitions.",
+      "local": "KPN Ventures is de corporate-venture-capital-tak van de Nederlandse telecom- en ICT-aanbieder KPN, opgericht in 2015 met een fonds van 70 miljoen euro en gevestigd in Rotterdam. Het investeert 1 tot 5 miljoen euro in minderheidsbelangen."
+    },
+    "sources": [
+      {
+        "url": "https://www.kpnventures.com/",
+        "title": "KPN Ventures | Revenue adding investment partner",
+        "publisher": "KPN Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Check size, stages, HQ, parent, strategy",
+        "quote": "Our investments typically range from 1 to 5 million euro for minority stakes ... long-term partnerships, ultimately aiming for external exits, not acquisitions."
+      },
+      {
+        "url": "https://golden.com/wiki/KPN_Ventures-BWK4KJK",
+        "title": "KPN Ventures",
+        "publisher": "Golden",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, fund size, HQ, sectors",
+        "quote": "KPN Ventures was established in 2015 with a fund size of 70 million euros ... began operation on June 1, 2015, with its headquarters in Rotterdam in the Netherlands."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Check size and strategy confirmed on official site; founding year (2015) and €70m fund size from secondary (Golden). Current portfolio examples on site include Airalo and ElevenLabs.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "eu-philips-ventures",
+    "name": { "en": "Philips Ventures" },
+    "aka": ["Philips Health Technology Ventures", "Philips Venture Capital Fund"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 1998,
+    "region": "europe",
+    "country": "Netherlands",
+    "hq_city": "Amsterdam",
+    "website": "https://www.philips.com/a-w/about/innovation/philips-ventures.html",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/philips-venture-capital-fund"
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Global", "Europe"],
+      "sector_focus": ["healthtech", "deeptech", "ai-ml"],
+      "thesis": "Corporate venture capital arm of health-technology company Philips, investing in early and growth-stage companies advancing digital health, medtech and patient care, with support on regulatory/clinical strategy and commercialisation."
+    },
+    "track_record": {
+      "portfolio_count": "35 investments"
+    },
+    "summary": {
+      "en": "Philips Ventures is the corporate venture capital arm of Dutch health-technology company Philips, based in Amsterdam (founded 1998). It invests in early- and growth-stage companies in digital health, medtech and patient care, providing guidance on regulatory, clinical and commercial strategy. It has made around 35 investments.",
+      "local": "Philips Ventures is de corporate-venture-capital-tak van het Nederlandse gezondheidstechnologiebedrijf Philips, gevestigd in Amsterdam (opgericht in 1998). Het investeert in vroege- en groeifasebedrijven in digital health en medtech."
+    },
+    "sources": [
+      {
+        "url": "https://www.philips.com/a-w/about/innovation/philips-ventures.html",
+        "title": "Philips Ventures | Philips",
+        "publisher": "Philips",
+        "accessed": "2026-06-02",
+        "supports": "Existence, parent, focus areas, support model",
+        "quote": "Philips Ventures ... the corporate venture capital arm of Philips, investing in early and growth-stage companies advancing digital health, medtech, and patient care."
+      },
+      {
+        "url": "https://pitchbook.com/profiles/investor/11271-34",
+        "title": "Philips Ventures investment portfolio | PitchBook",
+        "publisher": "PitchBook",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, HQ, investment count",
+        "quote": "Philips Ventures is the venture capital arm of Philips based in Amsterdam, Netherlands, founded in 1998 ... Philips Ventures has made 35 investments."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Philips is a health-technology / hardware company; this CVC leans health-tech / medtech. Included as a technology/hardware company CVC given Philips' technology heritage. Fund size and check sizes not publicly disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "eu-telia-ventures",
+    "name": { "en": "Telia Ventures" },
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "europe",
+    "country": "Sweden",
+    "hq_city": "Solna",
+    "website": "https://www.teliacompany.com/en/about-the-company/our-operations/telia-ventures/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/telia-ventures"
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Northern Europe", "Europe"],
+      "sector_focus": ["saas-enterprise", "cybersecurity", "ai-ml"],
+      "thesis": "Corporate venture capital arm of Nordic telecom operator Telia Company, investing in Series A and B rounds across consumer and enterprise markets, focusing on cloud, mobile and security in Northern Europe and selected innovation hubs."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Aporeto", "sector": "cybersecurity", "outcome": "acquired" },
+        { "company": "Volterra", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Swappie", "sector": "ecommerce", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "Telia Ventures is the corporate venture capital arm of Nordic telecom operator Telia Company, founded in 2018 and based in Solna, Sweden. It invests in Series A and B rounds across consumer and enterprise markets, focusing on cloud, mobile and security in Northern Europe. Portfolio exits include Aporeto (acquired by Palo Alto Networks) and Volterra (acquired by F5).",
+      "local": "Telia Ventures är riskkapitalarmen för den nordiska teleoperatören Telia Company, grundad 2018 med bas i Solna, Sverige. Den investerar i Serie A- och B-rundor med fokus på moln, mobil och säkerhet."
+    },
+    "sources": [
+      {
+        "url": "https://www.eu-startups.com/investor/telia-ventures/",
+        "title": "Telia Ventures | EU-Startups",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, HQ, stages, sectors, geo focus, parent",
+        "quote": "Telia Ventures is a corporate venture capital arm of Telia Company based in Solna, Sweden. Telia Ventures was launched in 2018 ... invests in consumer and enterprise markets focusing on cloud, mobile, and security ... invest in Series A and B rounds and their geographical focus is Northern Europe and other selected innovation hubs."
+      },
+      {
+        "url": "https://www.teliacompany.com/en/about-the-company/our-operations/telia-ventures/",
+        "title": "Telia Ventures - Telia Company",
+        "publisher": "Telia Company",
+        "accessed": "2026-06-02",
+        "supports": "Existence and parent company",
+        "quote": "Telia Ventures"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year, stages and focus from EU-Startups (secondary); official Telia page confirms existence but page body did not render full details. Fund size and check sizes not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "eu-ericsson-ventures",
+    "name": { "en": "Ericsson Ventures" },
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2002,
+    "region": "europe",
+    "country": "Sweden",
+    "hq_city": "Stockholm",
+    "website": "https://www.ericsson.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/ericsson-ventures"
+    },
+    "offices": [
+      { "country": "Sweden", "city": "Stockholm" },
+      { "country": "United States", "city": "Santa Clara" }
+    ],
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Europe", "North America", "Global"],
+      "sector_focus": ["deeptech", "ai-ml", "cybersecurity", "saas-enterprise"],
+      "thesis": "Corporate venture capital arm of Swedish telecom-equipment maker Ericsson, investing across stages in emerging growth areas — next-generation networking/5G, AI, IoT, cybersecurity, cloud computing and enterprise software — to accelerate Ericsson's core business."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "actnano", "sector": "hardware-semiconductor", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "Ericsson Ventures is the corporate venture capital arm of Swedish telecom-equipment maker Ericsson, based in Stockholm with an office in Santa Clara. It invests across stages in next-generation networking/5G, AI, IoT, cybersecurity and enterprise software to accelerate Ericsson's core business; recent deals include a $3m Series C investment in actnano in 2024.",
+      "local": "Ericsson Ventures är riskkapitalarmen för den svenska telekomutrustningstillverkaren Ericsson, med bas i Stockholm. Den investerar i nästa generations nätverk/5G, AI, IoT och cybersäkerhet."
+    },
+    "sources": [
+      {
+        "url": "https://www.crunchbase.com/organization/ericsson-ventures",
+        "title": "Ericsson Ventures - Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, HQ, sectors, stages, offices, parent",
+        "quote": "Ericsson Ventures is the corporate venture capital arm of Ericsson based in Stockholm, Sweden. Founded in 2002 ... emerging growth areas such as next-generation networking, artificial intelligence, IoT, cybersecurity, cloud computing, data analytics, and enterprise software ... offices in both Stockholm and Santa Clara, California."
+      },
+      {
+        "url": "https://actnano.com/press/actnano-inc-announces-additional-series-c-investment/",
+        "title": "actnano, Inc. Announces Additional Series C Investment",
+        "publisher": "actnano",
+        "accessed": "2026-06-02",
+        "supports": "Recent 2024 investment activity",
+        "quote": "In October 2024, actnano, Inc. announced a second close of its Series C funding round with an additional $3M investment from Ericsson Ventures."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year (2002) and details from Crunchbase (secondary); Ericsson Ventures does not publish a standalone fund size. Activity confirmed via a 2024 portfolio investment.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "eu-wayra-telefonica",
+    "name": { "en": "Wayra" },
+    "aka": ["Wayra Telefónica", "Telefónica Wayra"],
+    "type": "cvc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "europe",
+    "country": "Spain",
+    "hq_city": "Madrid",
+    "website": "https://wayra.com/",
+    "links": {
+      "other": ["https://www.telefonica.com/en/sustainability-innovation/innovation/wayra/", "https://www.wayra.es/"]
+    },
+    "offices": [
+      { "country": "Spain", "city": "Madrid" },
+      { "country": "Spain", "city": "Barcelona" },
+      { "country": "Germany", "city": "Munich" },
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "Brazil", "city": "São Paulo" }
+    ],
+    "capital": {
+      "aum": { "raw": "over €260 million cumulative investment", "usd": null, "currency": "EUR" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "check_size": { "raw": "€50K to €5M", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Spain", "Germany", "United Kingdom", "Brazil", "Europe", "Latin America"],
+      "sector_focus": ["ai-ml", "cybersecurity", "fintech", "deeptech"],
+      "thesis": "Corporate venture capital arm and open-innovation platform of Telefónica investing seed-to-growth (€50K-€5M) in startups that can generate business with Telefónica, using a venture-client model across Digital Consumer, B2B (AI, IoT, Cyber, Cloud, Data), next-generation connectivity and Web3."
+    },
+    "track_record": {
+      "portfolio_count": "520 active startups (1,200+ invested cumulatively)",
+      "notable_investments": [
+        { "company": "Perplexity", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "Wayra is the corporate venture capital arm and open-innovation platform of Spanish telecom group Telefónica, created in 2011. By its 15th anniversary it had invested over €260m in more than 1,200 startups, with an active portfolio of 520. It writes €50K-€5M cheques (seed to growth) using a venture-client model, operating mainly in Spain, Germany, the UK and Brazil.",
+      "local": "Wayra es el brazo de capital riesgo corporativo y la plataforma de innovación abierta de Telefónica, creado en 2011. Ha invertido más de 260 millones de euros en más de 1.200 startups, con una cartera activa de 520, con tickets de 50.000 a 5 millones de euros."
+    },
+    "sources": [
+      {
+        "url": "https://www.telefonica.com/en/communication-room/press-room/wayra-celebrates-15-years-barcelona-meeting-point-start-ups-telefonicas-business/",
+        "title": "Wayra celebrates 15 years in Barcelona as a meeting point between start-ups and Telefónica's business",
+        "publisher": "Telefónica",
+        "accessed": "2026-06-02",
+        "supports": "Cumulative investment, number of startups, active portfolio, revenue collaboration",
+        "quote": "Wayra celebrates its 15th anniversary after investing in more than 1,200 start-ups with a cumulative investment of over €260 million. It currently has a portfolio of 520 active start-ups, of which more than 200 now collaborate with the Group."
+      },
+      {
+        "url": "https://wayra.com/about-us",
+        "title": "About us - Wayra",
+        "publisher": "Wayra / Telefónica",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, evolution into CVC, geographic presence",
+        "quote": "Since 2011, Wayra has been connecting startups with Telefónica ... Wayra evolved in 2018 into Telefónica's Corporate Venture Capital ... operates mainly in Spain, Germany, the United Kingdom and Brazil."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Ticket range (€50K-€5M) and sector breakdown from Telefónica/Wayra corporate descriptions. Founded 2011 as an accelerator; became Telefónica's CVC in 2018. HQ taken as Madrid (Telefónica HQ); flagship hubs also in Barcelona.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  }
+]

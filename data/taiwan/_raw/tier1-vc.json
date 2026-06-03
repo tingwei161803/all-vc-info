@@ -1,0 +1,541 @@
+[
+  {
+    "id": "tw-appworks",
+    "name": { "en": "AppWorks", "local": "之初創投 / 之初加速器" },
+    "aka": ["AppWorks Ventures", "之初創投", "AppWorks Accelerator"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://appworks.tw/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/appworks/",
+      "crunchbase": "https://www.crunchbase.com/organization/appworks",
+      "other": ["https://zh.wikipedia.org/zh-tw/AppWorks"]
+    },
+    "capital": {
+      "aum": { "raw": "US$212 million", "usd": 212000000, "currency": "USD" },
+      "current_fund": { "raw": "US$150 million (Fund III, 2021)", "usd": 150000000, "currency": "USD" },
+      "funds": [
+        { "name": "AppWorks Fund I", "vintage_year": 2012, "size": { "raw": "US$11 million", "usd": 11000000, "currency": "USD" } },
+        { "name": "AppWorks Fund II", "vintage_year": 2014, "size": { "raw": "US$50 million", "usd": 50000000, "currency": "USD" } },
+        { "name": "AppWorks Fund III", "vintage_year": 2021, "size": { "raw": "US$150 million", "usd": 150000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": "seed ~US$50,000–US$200,000; growth-stage (Series A–C) starting at US$2 million", "usd_min": 50000, "usd_max": 2000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "Southeast Asia"],
+      "sector_focus": ["generalist", "ai-ml", "web3-crypto"],
+      "thesis": "Largest software accelerator and VC in Greater Southeast Asia, anchored on three investment themes: Southeast Asia, blockchain, and artificial intelligence. Backs founders both through its accelerator and through direct growth-stage venture funds."
+    },
+    "track_record": {
+      "portfolio_count": "414 active startups in ecosystem",
+      "notable_investments": [
+        { "company": "Carousell", "sector": "ecommerce", "outcome": "active" },
+        { "company": "Dapper Labs", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Animoca Brands", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "WeMo Scooter", "sector": "mobility", "outcome": "active" },
+        { "company": "Omnichat", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Pickone", "sector": "ecommerce", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Jamie Lin (林之晨)", "role": "Founding Partner / Chairman" }
+    ],
+    "application": {
+      "how_to_apply": "Apply to the AppWorks Accelerator (twice-yearly batches) or pitch the fund directly.",
+      "accepts_cold_inbound": true
+    },
+    "summary": {
+      "en": "Founded in 2010, AppWorks is Asia's leading startup accelerator and a multi-stage VC headquartered in Taipei, with US$212M AUM across three funds and an ecosystem of 400+ active startups. Fund III ($150M, 2021) focuses on Taiwan and Southeast Asia, blockchain, and AI.",
+      "local": "之初創投（AppWorks）成立於 2010 年，是亞洲領先的創業加速器與多階段創投，總部位於台北，旗下三檔基金管理規模達 2.12 億美元，生態系匯聚超過 400 家活躍新創。第三檔基金（1.5 億美元，2021 年）聚焦台灣與東南亞、區塊鏈與 AI。"
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2021/08/11/appworks-closes-third-fund-with-150m-for-taiwan-and-southeast-asia-startups/",
+        "title": "AppWorks closes third fund with $150M for Taiwan and Southeast Asia startups",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund III size, total AUM, Fund I/II sizes & vintages, check sizes, ecosystem size, portfolio companies",
+        "quote": "Fund III: $150 million (closed August 2021) ... Fund II: $50 million (2014) ... Fund I: $11 million (2012) ... Total AUM: $212 million ... seed-stage investments (ranging from about $50,000 to $200,000) ... growth-stage (Series A-C starting at $2 million) ... The AppWorks ecosystem comprises 414 active startups that have collectively raised $4.3 billion"
+      },
+      {
+        "url": "https://zh.wikipedia.org/zh-tw/AppWorks",
+        "title": "AppWorks - 維基百科",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, Taipei HQ, accelerator-led model",
+        "quote": "AppWorks成立於2010年 ... 臺灣最大的軟體加速器"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM figure (US$212M) is as of 2021 Fund III close; a later Chinese source cites US$386M AUM, so current AUM may be higher.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "tw-cherubic-ventures",
+    "name": { "en": "Cherubic Ventures", "local": "心元資本" },
+    "aka": ["心元資本", "Cherubic"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2014,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://cherubic.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/cherubic-ventures",
+      "other": ["https://cherubic.com/about/"]
+    },
+    "capital": {
+      "aum": { "raw": "US$462 million (4.62 億美元)", "usd": 462000000, "currency": "USD" },
+      "funds": [
+        { "name": "Funds I–VI (six funds raised)", "vintage_year": null, "size": { "raw": "five funds raised, Fund VI launched 2024", "usd": null, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Greater China", "Taiwan", "Asia"],
+      "sector_focus": ["ai-ml", "fintech", "healthtech", "consumer", "saas-enterprise"],
+      "thesis": "Global pre-seed and seed-stage fund investing in pre-product/market-fit startups, operated on a Solo GP model; one of the few Asian VCs to break into Silicon Valley."
+    },
+    "track_record": {
+      "portfolio_count": "200+",
+      "notable_investments": [
+        { "company": "Hims & Hers", "sector": "healthtech", "outcome": "IPO (NYSE)" },
+        { "company": "Flexport", "sector": "logistics", "outcome": "active" },
+        { "company": "Paidy", "sector": "fintech", "outcome": "acquired (PayPal, US$2.7B)" },
+        { "company": "Photomath", "sector": "edtech", "outcome": "acquired (Google)" },
+        { "company": "Calm", "sector": "healthtech", "outcome": "active" },
+        { "company": "91APP", "sector": "saas-enterprise", "outcome": "IPO (Taiwan)" },
+        { "company": "Astranis", "sector": "spacetech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Hims & Hers", "type": "IPO", "year": null, "value": { "raw": "listed on NYSE", "usd": null, "currency": "USD" } },
+        { "company": "Paidy", "type": "M&A", "year": null, "value": { "raw": "US$2.7 billion (acquired by PayPal)", "usd": 2700000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Matt Cheng (鄭博仁)", "role": "Founder & Managing Partner (Solo GP)" }
+    ],
+    "application": {
+      "how_to_apply": "Pitch directly via website/network; seed-focused.",
+      "accepts_cold_inbound": true
+    },
+    "summary": {
+      "en": "Cherubic Ventures (心元資本) is a Taipei-founded global seed-stage VC (Solo GP model) led by Matt Cheng, with US$462M AUM, 200+ portfolio companies, and an aggregate portfolio valuation exceeding US$52 billion. Backers include Hims & Hers, Flexport, Paidy, Calm, and 91APP.",
+      "local": "心元資本（Cherubic Ventures）由鄭博仁（Matt Cheng）於台北創立，採 Solo GP 模式的全球種子期創投，總管理資產 4.62 億美元，投資超過 200 家新創，整體投資組合估值突破 520 億美元，代表案例包括 Hims & Hers、Flexport、Paidy、Calm 與 91APP。"
+    },
+    "sources": [
+      {
+        "url": "https://www.inside.com.tw/article/39773-heartbeat-ventures-marks-10th-anniversary-global-portfolio-value-surpasses-52-billion-usd-focuses-on-ai-and-human-centered-technology",
+        "title": "心元資本十週年邁向新篇章：全球投資組合估值突破 520 億美元",
+        "publisher": "INSIDE",
+        "accessed": "2026-06-02",
+        "supports": "AUM, portfolio valuation, fund count, portfolio companies, exits, IPO/M&A counts",
+        "quote": "總管理資產（AUM）達 4.62 億美元 ... 整體投資組合估值突破 520 億美元 ... 已募集五檔基金 ... 5 件 IPO 與 15 件併購案 ... Paidy（後由 PayPal 以 27 億美元併購） ... 投資超過 200 家新創公司"
+      },
+      {
+        "url": "https://cherubic.com/about/",
+        "title": "About - Cherubic Ventures",
+        "publisher": "Cherubic Ventures (official)",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, Solo GP, pre-seed/seed focus, 200+ portfolio, notable companies",
+        "quote": "Founded in 2014 ... pre-seed and seed-stage venture fund investing in pre-product/market fit startups ... Cherubic has a global network of more than 200 portfolio companies ... Astranis, Bellabeat, Calm, Flexport, Hims & Hers, Paidy, Photomath, Tezign, Trialspark, and 91APP"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year cited as 2014 on official site but 2015 in the INSIDE 10th-anniversary article; AUM US$462M (INSIDE) vs ~US$400M (secondary databases).",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "tw-taiwania-capital",
+    "name": { "en": "Taiwania Capital", "local": "台杉投資" },
+    "aka": ["台杉投資", "Taiwania Capital Management"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.taiwaniacapital.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/taiwania-capital",
+      "crunchbase": "https://www.crunchbase.com/organization/taiwania-capital",
+      "other": ["https://en.wikipedia.org/wiki/Taiwania_Capital"]
+    },
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" },
+      { "country": "United States", "city": "Silicon Valley" }
+    ],
+    "capital": {
+      "aum": { "raw": "US$865 million across six funds (2022); company info box states US$1 billion (2024)", "usd": 865000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I (IoT / Tech)", "vintage_year": null, "size": { "raw": "US$150 million", "usd": 150000000, "currency": "USD" } },
+        { "name": "Fund II (Biotech)", "vintage_year": null, "size": { "raw": "US$200 million", "usd": 200000000, "currency": "USD" } },
+        { "name": "Fund III (digital medical / medical devices)", "vintage_year": null, "size": { "raw": "US$59 million", "usd": 59000000, "currency": "USD" } },
+        { "name": "Fund V (early-stage)", "vintage_year": null, "size": { "raw": "US$56 million", "usd": 56000000, "currency": "USD" } },
+        { "name": "CEE Fund (Central & Eastern Europe)", "vintage_year": 2022, "size": { "raw": "US$200 million", "usd": 200000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "United States", "Central and Eastern Europe"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "biotech", "ai-ml", "healthtech"],
+      "thesis": "Government-and-private-backed flagship VC (40% owned by Taiwan's National Development Fund) connecting Taiwanese technology and capital with global markets; invests in tech (IoT, semiconductors, AI) and biotech."
+    },
+    "track_record": {
+      "portfolio_count": "75+",
+      "notable_investments": [
+        { "company": "Ambiq Micro", "sector": "hardware-semiconductor", "outcome": "active" },
+        { "company": "C4 Therapeutics", "sector": "biotech", "outcome": "IPO (US$3.3B)" },
+        { "company": "Fractyl Health", "sector": "healthtech", "outcome": "IPO" },
+        { "company": "EirGenix", "sector": "biotech", "outcome": "IPO (US$1.11B mkt cap)" },
+        { "company": "AEye", "sector": "mobility", "outcome": "IPO (US$1.5B)" }
+      ]
+    },
+    "people": [
+      { "name": "Lin Hsin-yi (林信義)", "role": "Chairman (from 2024)" },
+      { "name": "David Weng", "role": "CEO / Tech Fund" },
+      { "name": "Cheng Wu", "role": "General Partner / Tech Fund" },
+      { "name": "Jerome Shen, Ph.D.", "role": "General Partner / BioTech Fund" }
+    ],
+    "summary": {
+      "en": "Taiwania Capital (台杉投資), established in August 2017 and 40% owned by Taiwan's National Development Fund, is the island's flagship public-private VC with US$865M–US$1B AUM across six funds spanning tech (IoT, semiconductors, AI) and biotech, with offices in Taipei and Silicon Valley.",
+      "local": "台杉投資成立於 2017 年 8 月，由行政院國家發展基金（持股 40%）與民間企業共同創立，是台灣旗艦級公私合資創投，旗下六檔基金管理規模約 8.65 億至 10 億美元，橫跨科技（物聯網、半導體、AI）與生技領域，於台北與矽谷設有據點。"
+    },
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/taiwania-capital-accelerates-its-efforts-in-connecting-international-technologies-and-capital-301383627.html",
+        "title": "Taiwania Capital Accelerates Its Efforts in Connecting International Technologies and Capital",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, NDF backing, AUM, fund sizes/focus, leadership, IPO exits",
+        "quote": "established in August 2017 by the National Development Fund of the Executive Yuan of Taiwan and private enterprises ... a combined AUM of US$490 million across four total funds ... Fund I: IoT focus (US$150M) ... Fund II: Biotech (US$200M) ... Five portfolio companies achieved public listings: EirGenix (US$1.11B market cap) ... C4 (US$3.3B) ... AEye (US$1.5B)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Taiwania_Capital",
+        "title": "Taiwania Capital - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "40% NDF ownership, US$1B AUM (2024), six funds, US$865M, 75+ companies, CEE fund",
+        "quote": "Founded in August 2017 ... 40% ownership from the National Development Fund ... US$1 billion (2024) ... invested in over 75 companies ... a $200 million fund to invest in Central and Eastern European companies"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM reported variously as US$490M (4 funds, 2021), US$865M (6 funds, 2022) and US$1B (2024 info box). Fund numbering skips Fund IV in available sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "tw-cdib-capital-group",
+    "name": { "en": "CDIB Capital Group", "local": "中華開發資本" },
+    "aka": ["中華開發資本", "CDIB Capital", "China Development Industrial Bank (legacy)"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2001,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.cdibcapitalgroup.com/en",
+    "links": {
+      "linkedin": "https://tw.linkedin.com/company/cdib-capital-group",
+      "other": ["https://zh.wikipedia.org/zh-tw/中華開發資本"]
+    },
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" },
+      { "country": "China", "city": "Shanghai" },
+      { "country": "Hong Kong", "city": "Hong Kong" },
+      { "country": "United States", "city": "New York" }
+    ],
+    "capital": {
+      "aum": { "raw": "NT$85+ billion", "usd": null, "currency": "TWD" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus", "growth"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "Greater China", "North America", "Asia-Pacific"],
+      "sector_focus": ["deeptech", "ai-ml", "healthtech", "consumer", "hardware-semiconductor"],
+      "thesis": "Taiwan's pioneer development-finance institution turned private-equity/VC group (part of KGI Financial Group); invests across venture, growth capital, healthcare, buyout and special situations spanning advanced manufacturing, consumer, tech/AI and healthcare."
+    },
+    "track_record": {
+      "portfolio_count": "250+"
+    },
+    "summary": {
+      "en": "CDIB Capital Group (中華開發資本), part of KGI Financial Group, is one of Taiwan's largest and most established PE/VC platforms with NT$85B+ AUM, 65+ years of investment heritage, 250+ portfolio companies and 100+ investment professionals across venture, growth, healthcare and special-situations strategies.",
+      "local": "中華開發資本（CDIB Capital Group）為凱基金控旗下成員，是台灣規模最大、歷史最悠久的私募股權/創投平台之一，管理資產逾新台幣 850 億元，擁有逾 65 年投資經驗、超過 250 家被投公司與逾 100 位投資專業人員，策略涵蓋創投、成長資本、醫療保健與特殊機會。"
+    },
+    "sources": [
+      {
+        "url": "https://www.cdibcapitalgroup.com/en",
+        "title": "CDIB Capital Group (official)",
+        "publisher": "CDIB Capital Group",
+        "accessed": "2026-06-02",
+        "supports": "AUM, years of experience, portfolio count, professionals, parent group",
+        "quote": "85 + NTD$bn ... 65 + years in PE & VC investment ... 250+ companies ... 100+ professionals ... part of KGI Financial Group"
+      },
+      {
+        "url": "https://zh.wikipedia.org/zh-tw/中華開發資本",
+        "title": "中華開發資本 - 維基百科",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Heritage, 200+ holdings, sectors, offices",
+        "quote": "由海內外超過100位專業投資人士組成的專業團隊 ... 持有超過200家公司之股權 ... 投資領域橫跨先進製造、消費、科技與AI ... 並於上海、香港、紐約等地設有據點"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year 2001 refers to CDIB Capital Group as a management entity; the institution traces roots to China Development Trust (1959). AUM in TWD (NT$85B+); USD conversion not stated by source so left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "tw-hotung-investment",
+    "name": { "en": "Hotung Investment Holdings", "local": "和通創業投資" },
+    "aka": ["和通", "Hotung Venture Group", "Hotung Investment Holdings Ltd"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1987,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.hihl.com.sg/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/hotung-venture-group",
+      "other": ["https://www.privateequityinternational.com/institution-profiles/hotung-investment.html"]
+    },
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" },
+      { "country": "United States", "city": "" },
+      { "country": "China", "city": "" }
+    ],
+    "capital": {
+      "aum": { "raw": "portfolio value currently worth more than US$5 billion; described as the biggest AUM in Taiwan VC", "usd": null, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus", "growth"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Greater China", "Taiwan", "United States", "Israel"],
+      "sector_focus": ["generalist", "hardware-semiconductor", "deeptech", "healthtech"],
+      "thesis": "One of Taiwan's oldest and largest venture/PE groups (listed on SGX), with nearly four decades investing in technology and growth companies across Greater China, Silicon Valley and Israel."
+    },
+    "track_record": {
+      "portfolio_count": "700+",
+      "exits": [
+        { "company": "200+ IPO/M&A exits", "type": "IPO/M&A", "year": null, "value": { "raw": "38 on Nasdaq/NYSE, 100+ on Taiwan Stock Exchange/OTC", "usd": null, "currency": "USD" } }
+      ]
+    },
+    "summary": {
+      "en": "Hotung Investment (和通), established in 1987 and listed on SGX, is one of Taiwan's oldest and largest venture/PE groups, having invested in 700+ companies (portfolio value >US$5B) with 200+ IPO/M&A exits — including 38 Nasdaq/NYSE listings — across Greater China, Silicon Valley and Israel.",
+      "local": "和通創投（Hotung Investment）成立於 1987 年並於新加坡證交所掛牌，是台灣歷史最悠久、規模最大的創投/私募股權集團之一，累計投資逾 700 家公司（投資組合價值逾 50 億美元），逾 200 件 IPO/併購出場（含 38 家於 Nasdaq/NYSE 上市），布局橫跨大中華、矽谷與以色列。"
+    },
+    "sources": [
+      {
+        "url": "https://www.privateequityinternational.com/institution-profiles/hotung-investment.html",
+        "title": "Hotung Investment | Institution Profile",
+        "publisher": "Private Equity International",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, HQ, geographies",
+        "quote": "Established in 1987 ... Taipei, Taiwan ... Greater China, Silicon Valley, and Israel"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/hotung-venture-group",
+        "title": "Hotung Venture Capital - Crunchbase Company Profile",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "700+ companies invested, 200+ exits, 38 Nasdaq/NYSE listings, US$5B portfolio value, biggest AUM in Taiwan VC",
+        "quote": "Hotung has invested in over 700 companies and over 200 have successfully been acquired through M&A or listed ... 38 companies to list on Nasdaq/NYSE and over 100 entities on the Taiwan Stock Exchange ... a total value currently worth more than US$5 billion, and holds the biggest AUM in Taiwan VC ... incorporated in March 1997 and has been listed on the Main Board of SGX-ST since August 1997"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "The 'biggest AUM in Taiwan VC' and 'US$5B portfolio value' claims come from a Crunchbase/secondary profile, not Hotung's audited filings; exact AUM not disclosed. The 1987 founding refers to the venture group; the SGX-listed holding company was incorporated in 1997.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "tw-top-taiwan-venture-capital",
+    "name": { "en": "TOP TAIWAN Venture Capital Group", "local": "益鼎創業投資" },
+    "aka": ["益鼎創投", "TOP TAIWAN", "Top Taiwan Venture Capital Group", "益鼎創業投資管理"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1996,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.toptaiwan.com.tw/",
+    "links": {
+      "other": ["http://www.toptaiwan.com.tw/toptaiwan/services/"]
+    },
+    "capital": {
+      "aum": { "raw": "基金規模已超過120億元 (managed fund size over NT$12 billion)", "usd": null, "currency": "TWD" },
+      "funds": [
+        { "name": "17 funds raised since 1996", "vintage_year": null, "size": { "raw": "已募集17檔基金", "usd": null, "currency": "TWD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus", "growth"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "Greater China"],
+      "sector_focus": ["hardware-semiconductor", "healthtech", "climate-energy", "ai-ml"],
+      "thesis": "Largest VC entity by managed fund size in Taiwan's VC association (TVCA), with deep roots in optoelectronics, IC design and key electronic components, now focused on technology, healthcare, green energy and the digital economy. Strong shareholder base of 14 major insurers and 11 major securities firms."
+    },
+    "track_record": {
+      "portfolio_count": "500+"
+    },
+    "people": [
+      { "name": "Andy T.C. Chiu (邱德成)", "role": "Partner" },
+      { "name": "Joseph Wang (王紹新)", "role": "Partner" }
+    ],
+    "summary": {
+      "en": "TOP TAIWAN (益鼎創投), founded in 1996, manages over NT$12 billion across 17 funds and has invested in 500+ companies — ranked #1 by managed fund size in Taiwan's VC association. It focuses on technology, healthcare, green energy and the digital economy, backed by 14 major insurers and 11 securities firms.",
+      "local": "益鼎創投（TOP TAIWAN）成立於 1996 年，旗下 17 檔基金管理規模超過新台幣 120 億元，投資超過 500 家企業，居創投公會排名第一、為國內最大創投事業體，聚焦科技、醫療、綠能與數位經濟，主要投資人涵蓋台灣 14 家大型保險公司與 11 家大型綜合證券公司。"
+    },
+    "sources": [
+      {
+        "url": "http://www.toptaiwan.com.tw/toptaiwan/services/",
+        "title": "公司介紹 Our Services | TOP TAIWAN 益鼎創投",
+        "publisher": "TOP TAIWAN (official)",
+        "accessed": "2026-06-02",
+        "supports": "Fund size, TVCA #1 ranking, founding year, number of funds, companies invested, sectors, shareholder base",
+        "quote": "益鼎團隊所管理的基金規模已超過120億元，居創投公會排名第一，為國內最大創投事業體 ... 益鼎創投自1996年成立以來，已募集17檔基金，投資超過500家企業 ... 專注於科技、醫療、綠能及數位經濟等領域 ... 主要投資人涵蓋台灣十四家大型保險公司和十一家大型綜合證券公司"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Figures are self-reported on the official site; '#1 by fund size in TVCA' is the firm's own claim. Older PitchBook profile gives 1996 founding consistent with this.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "tw-id-softcapital",
+    "name": { "en": "iD SoftCapital Group", "local": "智融集團 / 智榮基金會體系" },
+    "aka": ["智融集團", "iD SoftCapital", "iD Ventures America"],
+    "type": "vc",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2005,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "http://idsoftcapital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/id-softcapital-group",
+      "other": ["https://e27.co/investor/id-softcapital-group/"]
+    },
+    "capital": {
+      "aum": { "raw": "US$664 million", "usd": 664000000, "currency": "USD" },
+      "funds": [
+        { "name": "Total fund size (venture / incubation / reengineering / branding funds)", "vintage_year": null, "size": { "raw": "US$832 million", "usd": 832000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "United States", "Greater China"],
+      "sector_focus": ["deeptech", "ai-ml", "hardware-semiconductor", "saas-enterprise"],
+      "thesis": "Founded by Acer founder Stan Shih and former Acer senior management; manages venture, incubation/post-incubation, reengineering and branding funds, applying corporate-builder expertise to back technology startups."
+    },
+    "people": [
+      { "name": "Stan Shih (施振榮)", "role": "Founder / Acer founder" }
+    ],
+    "summary": {
+      "en": "iD SoftCapital Group (智融集團), established by Acer founder Stan Shih and ex-Acer executives after his end-2004 retirement, manages US$664M AUM (US$832M total fund size) across venture, incubation, reengineering and branding funds, backing technology startups in Taiwan and the US.",
+      "local": "智融集團（iD SoftCapital）由宏碁創辦人施振榮於 2004 年底退休後與宏碁前高階主管共同成立，管理資產達 6.64 億美元（總基金規模 8.32 億美元），涵蓋創投、育成/育成後、再造與品牌等基金，投資台灣與美國的科技新創。"
+    },
+    "sources": [
+      {
+        "url": "https://e27.co/investor/id-softcapital-group/",
+        "title": "iD SoftCapital Group - e27 Investor Profile",
+        "publisher": "e27",
+        "accessed": "2026-06-02",
+        "supports": "Founder (Stan Shih/Acer), AUM, total fund size, fund types",
+        "quote": "established by Acer Founder, Stan Shih, together with venture capital veterans and former Acer senior management ... currently manages assets worth US$664 million, and a total fund size of US$832 million divided between venture capital, incubation/post-incubation, reengineering and branding funds"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/id-softcapital-group",
+        "title": "iD SoftCapital Group - Crunchbase Investor Profile",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "Group founded by Stan Shih after retiring from Acer end of 2004; includes iD SoftCapital Foundation",
+        "quote": "Stan Shih established the group after retiring from Acer at the end of 2004 ... iD SoftCapital Group ... includes the iD SoftCapital Foundation"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "AUM US$664M / total fund size US$832M figures come from secondary profiles (e27, PE International); official site (idsoftcapital.com) refused automated connection so figures not primary-confirmed. Founding year ~2005 inferred from Stan Shih's end-2004 Acer retirement.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "tw-darwin-ventures",
+    "name": { "en": "Darwin Ventures", "local": "達盈管理顧問" },
+    "aka": ["達盈", "Darwin Venture Management", "達盈創投"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2009,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.darwinventures.com/",
+    "links": {
+      "linkedin": "https://tw.linkedin.com/company/darwin-venture-management",
+      "other": ["https://www.darwinventures.com/en/about"]
+    },
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" },
+      { "country": "Japan", "city": "Tokyo" },
+      { "country": "United States", "city": "" }
+    ],
+    "capital": {
+      "aum": { "raw": "approx. NT$2–3 billion across funds; latest fund NT$750 million", "usd": null, "currency": "TWD" },
+      "current_fund": { "raw": "NT$750 million (latest fund, ~1/3 from National Development Fund)", "usd": null, "currency": "TWD" },
+      "funds": [
+        { "name": "6 funds raised since 2009", "vintage_year": null, "size": { "raw": "總共 6 個 fund", "usd": null, "currency": "TWD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": "US$1 million to US$2 million per investment", "usd_min": 1000000, "usd_max": 2000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "Japan", "United States"],
+      "sector_focus": ["consumer", "saas-enterprise", "healthtech", "ai-ml"],
+      "thesis": "Long-established Taipei tech VC (since 2009) investing across angel, seed and Series A/B+ stages in Taiwan, Japan and the US; known for consumer-internet and lifestyle-tech bets and for backing spinouts from Taiwan's research institutions."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "KKday", "sector": "consumer", "outcome": "active" },
+        { "company": "AsiaYo", "sector": "consumer", "outcome": "active" },
+        { "company": "FunNow", "sector": "consumer", "outcome": "active" },
+        { "company": "inline", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Kdan Mobile", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Jubo (智齡科技)", "sector": "healthtech", "outcome": "active" },
+        { "company": "M17 / 17 Media", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "Darwin Ventures (達盈), founded in Taipei in 2009, is a long-running tech VC that has raised 6 funds (latest NT$750M, ~1/3 from the National Development Fund), investing US$1–2M per deal from angel through Series A/B+ across Taiwan, Japan and the US. Portfolio includes KKday, AsiaYo, FunNow, inline and Kdan Mobile.",
+      "local": "達盈管顧（Darwin Ventures）2009 年於台北成立，是老字號科技創投，已募集 6 檔基金（最新一檔規模新台幣 7.5 億元，約三分之一來自國發基金），單筆投資介於 100 萬至 200 萬美元，涵蓋天使、種子至 A/B 輪以上，布局台灣、日本與美國，代表案例包括 KKday、AsiaYo、FunNow、inline 與 Kdan Mobile。"
+    },
+    "sources": [
+      {
+        "url": "https://meet.bnext.com.tw/articles/view/46129",
+        "title": "達盈管顧看好台灣新創",
+        "publisher": "Meet 創業小聚 (BusinessNext)",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, fund count, latest fund size, NDF share, check size, stages, portfolio",
+        "quote": "成立年份：2009年 ... 總共 6 個fund，最近一輪的資金總額達 7.5 億台幣 ... 最近一檔資金有三分之一來自國發基金投資 ... 每個投資單位在 US$1M 到 US$2M 之間 ... Atgenomix、biodenta、iWEECARE、智齡科技、FunNow、AsiaYo、inline、ZUVIO、17 Media"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund count cited as 6 (Meet) vs '10 funds since 2009' (LinkedIn) vs '3 funds, NT$2-3B' (another secondary source) — figures conflict; total AUM not precisely disclosed. Some portfolio attributions (e.g., 91APP) are uncertain and excluded.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "id": "il-team8",
+    "name": { "en": "Team8" },
+    "aka": ["Team8 Group", "Team8 Capital"],
+    "type": "venture-studio",
+    "subtypes": ["vc", "cvc"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "offices": [
+      { "country": "Israel", "city": "Tel Aviv" },
+      { "country": "United States", "city": "New York" }
+    ],
+    "website": "https://team8.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/team8",
+      "other": ["https://finder.startupnationcentral.org/investor_page/team8"]
+    },
+    "capital": {
+      "aum": { "raw": "over $1 billion", "usd": 1000000000, "currency": "USD" },
+      "funds": [
+        { "name": "Team8 Capital (venture arm)", "vintage_year": 2020, "size": { "raw": "$104 million", "usd": 104000000, "currency": "USD" } },
+        { "name": "New funds (2023)", "vintage_year": 2023, "size": { "raw": "$500 million", "usd": 500000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel", "United States"],
+      "sector_focus": ["cybersecurity", "saas-enterprise", "fintech", "healthtech", "ai-ml"],
+      "thesis": "A company-creation 'foundry' co-founded by former leaders of Israel's Unit 8200 that identifies large industry problems, ideates novel solutions in-house and builds new technology companies from scratch, alongside a venture-capital arm that invests in existing startups."
+    },
+    "track_record": {
+      "portfolio_count": "20 companies built + ~21 invested",
+      "notable_investments": [
+        { "company": "Claroty", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Sygnia", "sector": "cybersecurity", "outcome": "acquired" },
+        { "company": "Illusive Networks", "sector": "cybersecurity", "outcome": "acquired" },
+        { "company": "Hysolate", "sector": "cybersecurity", "outcome": "acquired" },
+        { "company": "Curv", "sector": "fintech", "outcome": "acquired" }
+      ],
+      "exits": [
+        { "company": "Talon Cyber Security", "type": "M&A", "year": 2023, "value": { "raw": "part of combined ~$1 billion (with Dig Security) to Palo Alto Networks", "usd": null, "currency": "USD" } },
+        { "company": "Dig Security", "type": "M&A", "year": 2023, "value": { "raw": "part of combined ~$1 billion (with Talon) to Palo Alto Networks", "usd": null, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Nadav Zafrir", "role": "Co-founder (former managing partner; former Unit 8200 chief)" },
+      { "name": "Israel Grimberg", "role": "Co-founder (Managing Partner)" },
+      { "name": "Liran Grinberg", "role": "Co-founder (Managing Partner)" }
+    ],
+    "team_size": "40+",
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["foundry", "company-builder", "cybersecurity", "unit-8200"],
+    "summary": {
+      "en": "Team8 is an Israeli cybersecurity/enterprise-tech 'foundry' (venture studio) founded in 2014 by former Unit 8200 leaders. It builds companies in-house and also invests via Team8 Capital; over its first decade it spurred ~20 companies and invested in ~21 others, including Claroty, Sygnia, Illusive Networks and Hysolate, with AUM well over $1B."
+    },
+    "sources": [
+      {
+        "url": "https://www.timesofisrael.com/backed-by-microsoft-and-cisco-israels-team8-raises-500m-to-help-build-startups/",
+        "title": "Backed by Microsoft and Cisco, Israel's Team8 raises $500m to help build startups",
+        "publisher": "The Times of Israel",
+        "accessed": "2026-06-02",
+        "supports": "founded year, foundry model, $500M fund, total AUM, companies built/invested, exits",
+        "quote": "Over the past decade, Team8's activity has spurred the development of 20 companies, and investments in 21 others, including Sygnia, Claroty, Illusive Networks and Hysolate."
+      },
+      {
+        "url": "https://nocamels.com/2020/06/israel-team8-capital-venture-arm/",
+        "title": "Israel's Team8 Launches New Venture Arm, Raises $104M",
+        "publisher": "NoCamels",
+        "accessed": "2026-06-02",
+        "supports": "founded year, founders, HQ cities, foundry model, $104M venture arm, team size",
+        "quote": "Founded in 2014, Team8 is a cybersecurity think tank and startup foundry ... led by Nadav Zafrir ... who founded the company with other former IDF intelligence unit 8200 leaders Israel Grinberg and Liran Grinberg ... employ an in-house team of forty across its New York and Tel Aviv headquarters ... Team8 Capital ... has already raised $104 million in commitments."
+      },
+      {
+        "url": "https://team8.vc/",
+        "title": "Team8 — Venture Creation & Venture Capital",
+        "publisher": "Team8",
+        "accessed": "2026-06-02",
+        "supports": "venture-creation/foundry model, sectors",
+        "quote": "Working closely with the industry's edge-finders, we'll find the problem beneath the problem together."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founder 'Israel Grimberg' is sometimes rendered 'Israel Grinberg' in press; both spellings appear. The combined ~$1B Palo Alto Networks deal (Talon + Dig Security) is reported as a joint figure, not split per company. The $500M was raised across new funds (2023) and brings total AUM well over $1B.",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "il-kamet-ventures",
+    "name": { "en": "Kamet Ventures" },
+    "aka": ["Kamet"],
+    "type": "venture-studio",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "offices": [
+      { "country": "Israel", "city": "Tel Aviv" },
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "France", "city": "Paris" }
+    ],
+    "website": "https://www.kametventures.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/kametventures",
+      "crunchbase": "https://www.cbinsights.com/investor/kamet-1",
+      "other": ["https://finder.startupnationcentral.org/investor_page/kamet-ventures"]
+    },
+    "capital": {
+      "aum": { "raw": "$1.8b+ total portfolio valuation", "usd": null, "currency": "USD" },
+      "funds": [
+        { "name": "Initial AXA commitment", "vintage_year": 2015, "size": { "raw": "€100m", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel", "Europe", "United States"],
+      "sector_focus": ["healthtech", "fintech", "mobility"],
+      "thesis": "An AXA-backed venture builder that conceives, validates and builds disruptive companies from the ground up in InsurTech, Digital Health and Mobility, generating ideas through its own ideation lab and partnering with entrepreneurs to scale them."
+    },
+    "track_record": {
+      "portfolio_count": "25+ startups launched",
+      "notable_investments": [
+        { "company": "Anagog", "sector": "mobility", "outcome": "active" },
+        { "company": "Birdie Care", "sector": "healthtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Stéphane Guinet", "role": "Founder & CEO (former CEO of AXA Global Direct)" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["venture-builder", "company-builder", "insurtech", "corporate-backed", "AXA"],
+    "summary": {
+      "en": "Kamet Ventures is a venture builder created in 2016 with an initial €100m commitment from insurer AXA. From offices in Tel Aviv, London and Paris it ideates and builds companies from scratch in InsurTech, Digital Health and Mobility; it reports 25+ startups launched and $1.8b+ total portfolio valuation.",
+      "local": "Kamet Ventures הוא 'מפעל חברות' (venture builder) שנוסד ב-2016 בגיבוי חברת הביטוח AXA, עם משרדים בתל אביב, לונדון ופריז, הבונה חברות מאפס בתחומי ביטוח-טק, בריאות דיגיטלית וניידות."
+    },
+    "sources": [
+      {
+        "url": "https://www.axa.com/en/press/press-releases/axa-launches-kamet",
+        "title": "AXA launches Kamet, a €100m InsurTech incubator",
+        "publisher": "AXA",
+        "accessed": "2026-06-02",
+        "supports": "AXA backing, €100m commitment, incubator/builder model, sectors",
+        "quote": "AXA announced the creation of Kamet, a €100m InsurTech incubator dedicated to conceptualizing, launching and accompanying disruptive products and services."
+      },
+      {
+        "url": "https://www.kametventures.com/",
+        "title": "Kamet Ventures",
+        "publisher": "Kamet Ventures",
+        "accessed": "2026-06-02",
+        "supports": "venture-builder self-description, 25+ startups launched, $1.8b+ portfolio valuation, sectors",
+        "quote": "a venture builder. We build companies that redefine systems ... 25+ Startups launched ... $1,8b+ Total portfolio valuation ... All ventures result from our own framework of research & solution design."
+      },
+      {
+        "url": "https://finder.startupnationcentral.org/investor_page/kamet-ventures",
+        "title": "Kamet Ventures — Foreign Corporate VC",
+        "publisher": "Start-Up Nation Central Finder",
+        "accessed": "2026-06-02",
+        "supports": "founded 2016, Tel Aviv/London/Paris offices, AXA funding, ~€200m invested, sectors",
+        "quote": "Founded in 2016, Kamet invests in early stage startups and has to date invested 200 million euros, most of the initial funding allocated to it by AXA ... offices across Paris, London and Tel Aviv."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Company is corporate-backed (AXA) but operates as a true venture builder/company creator; classified venture-studio with cvc subtype. Initial commitment was €100m (2015 AXA release); secondary sources report ~€200m invested to date. Headquartered with offices in Tel Aviv, London and Paris — Israel office is a core build location.",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "il-and-ventures",
+    "name": { "en": "AnD Ventures" },
+    "aka": ["AnD", "AnD Studio"],
+    "type": "venture-studio",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Herzliya",
+    "offices": [{ "country": "Israel", "city": "Herzliya" }],
+    "website": "https://and-ventures.com/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/and-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/and-ventures",
+      "other": ["https://finder.startupnationcentral.org/investor_page/and-ventures"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$70 million", "usd": 70000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2023, "size": { "raw": "$70 million (target $50m)", "usd": 70000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$100K–$200K (studio); $1M–$3M (fund)", "usd_min": 100000, "usd_max": 3000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "consumer", "gaming"],
+      "thesis": "Company builders 'before we are investors': AnD supports pre-seed ventures through an in-house Studio model (market validation, team-building, network, fundraising) and seed companies through its fund."
+    },
+    "track_record": {
+      "portfolio_count": 10,
+      "notable_investments": [
+        { "company": "Onebeat", "sector": "ecommerce", "outcome": "active" },
+        { "company": "VineSight", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Conntour", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Qualifire", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Ludeo", "sector": "gaming", "outcome": "active" },
+        { "company": "InfiniGrow", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Lee Moser", "role": "Founder & Managing Partner (formerly BlackRock, iAngels)" },
+      { "name": "Roy Geva Glasberg", "role": "Co-founder & Partner (ex-Google for Startups Accelerator)" },
+      { "name": "Ariel Cohen", "role": "Co-founder & Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["venture-studio", "company-builder", "pre-seed", "studio-plus-fund"],
+    "summary": {
+      "en": "AnD Ventures is a Herzliya-based Israeli firm (founded 2020) that brands itself 'company builders before we are investors.' It builds pre-seed startups in-house through its Studio (typically $100K–$200K) and backs seed companies via its $70M Fund I ($1M–$3M checks). Portfolio includes Onebeat, Conntour, Qualifire and Ludeo."
+    },
+    "sources": [
+      {
+        "url": "https://www.jpost.com/business-and-innovation/banking-and-finance/article-742976",
+        "title": "AnD Ventures closes $70M fund, surpassing $50M target",
+        "publisher": "The Jerusalem Post",
+        "accessed": "2026-06-02",
+        "supports": "$70M fund close, $50M target, founders, studio model, check sizes, portfolio count",
+        "quote": "closed its first fund at $70 million, exceeding its initial target of $50m ... founded by Lee Moser, Roy Geva Glasberg, and Ariel Cohen ... supports Pre-Seed ventures through its Studio model and Seed companies through its fund ... Investments generally range from $100,000 to $200,000 for AnD's studio investments and $1m. to $3m. for fund investments ... has already invested in 10 companies, including Connected Insurance, Onebeat and InfiniGrow."
+      },
+      {
+        "url": "https://and-ventures.com/",
+        "title": "AnD Ventures",
+        "publisher": "AnD Ventures",
+        "accessed": "2026-06-02",
+        "supports": "company-builder self-description, studio model, portfolio companies",
+        "quote": "COMPANY BUILDERS ... BEFORE WE ARE INVESTORS ... market validation, strategic team-building, access to a powerful network, expert fundraising support, and growth acceleration."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "HQ in Herzliya per Start-Up Nation Finder / company listings; the J-Post article does not name the city. Portfolio company names vary slightly across sources (e.g. 'Connected Insurance' in J-Post vs. site portfolio); count of 10 is as of the 2023 fund-close article.",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "il-the-kitchen-foodtech-hub",
+    "name": { "en": "The Kitchen FoodTech Hub", "local": "The Kitchen Hub" },
+    "aka": ["The Kitchen", "The Kitchen Hub", "The Kitchen Labs"],
+    "type": "venture-studio",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Ashdod",
+    "offices": [
+      { "country": "Israel", "city": "Ashdod" },
+      { "country": "Israel", "city": "Rehovot" }
+    ],
+    "website": "https://www.thekitchenhub.com/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/the-kitchen-hub",
+      "crunchbase": "https://www.crunchbase.com/organization/the-kitchen-foodtech-hub",
+      "other": ["https://finder.startupnationcentral.org/investor_page/the-kitchen-foodtech-hub"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "New fund (Innovation Authority-backed)", "vintage_year": null, "size": { "raw": "$70 million", "usd": 70000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$650,000–$750,000 over a two-year work plan", "usd_min": 650000, "usd_max": 750000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["agritech", "biotech"],
+      "thesis": "A FoodTech 'venture creation'/venture-studio operated by Strauss Group under the Israeli Innovation Authority incubator program: rather than scouting existing companies it scouts scientific breakthroughs and IP, then recruits founders and builds new FoodTech companies in-house."
+    },
+    "program": {
+      "length_weeks": 104,
+      "cohort_size": null,
+      "investment": { "raw": "$650,000–$750,000", "usd": 750000, "currency": "USD" },
+      "format": "in-person",
+      "location": "Ashdod / Rehovot, Israel",
+      "eligibility": "Early-stage FoodTech / AgriFoodTech innovations and scientific breakthroughs"
+    },
+    "track_record": {
+      "portfolio_count": "23 investments (21 active)",
+      "notable_investments": [
+        { "company": "Aleph Farms", "sector": "agritech", "outcome": "active" },
+        { "company": "Imagindairy", "sector": "agritech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Amir Zaidman", "role": "Chief Business Officer" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["foodtech", "venture-creation", "venture-studio", "Strauss", "innovation-authority"],
+    "summary": {
+      "en": "The Kitchen FoodTech Hub, founded in 2015 by Strauss Group under Israel's Innovation Authority incubator program, runs a 'venture creation' / venture-studio model: it starts from market needs and scientific IP, recruits founders and builds FoodTech companies in-house over a two-year plan funding each $650K–$750K. It launched alt-protein leaders Aleph Farms and Imagindairy and raised a $70M fund.",
+      "local": "The Kitchen Hub הוא חממת פודטק שהוקמה ב-2015 על ידי קבוצת שטראוס במסגרת תכנית החממות של רשות החדשנות, הפועלת במודל 'יצירת מיזמים' (venture studio) ובונה חברות פודטק מאפס. בין בוגריה: Aleph Farms ו-Imagindairy."
+    },
+    "sources": [
+      {
+        "url": "https://agfundernews.com/israeli-incubator-the-kitchen-plans-to-intensify-its-venture-studio-model-for-foodtech-startups-in-2023",
+        "title": "Israeli incubator The Kitchen plans to 'intensify' its venture studio model for foodtech startups in 2023",
+        "publisher": "AgFunderNews",
+        "accessed": "2026-06-02",
+        "supports": "founded 2015, Strauss, Innovation Authority program, venture-creation/studio model, 23 investments, two-year plan, $650K-$750K per company, Aleph Farms/Imagindairy",
+        "quote": "The Kitchen was founded in 2015 by Strauss Group, and has made 23 investments to date, 21 of which are active portfolio companies ... the incubator operates under a 'venture creation' or 'venture studio' model ... Startups receive a budget of $650,000 to $750,000 over the two-year work plan period."
+      },
+      {
+        "url": "https://agfundernews.com/the-kitchen-foodtech-hub-announces-70m-fund-unveils-the-kitchen-labs-innovation-center",
+        "title": "The Kitchen FoodTech Hub announces $70m fund, unveils The Kitchen Labs innovation center",
+        "publisher": "AgFunderNews",
+        "accessed": "2026-06-02",
+        "supports": "$70M fund, Rehovot Kitchen Labs",
+        "quote": "The Kitchen FoodTech Hub announces $70m fund, unveils The Kitchen Labs innovation center."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Operates within the Innovation Authority technological-incubator framework (hence incubator subtype) but explicitly describes itself as a 'venture creation / venture studio' that builds companies in-house, justifying venture-studio primary type. HQ in Ashdod; The Kitchen Labs innovation center is in Rehovot.",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "il-the-founders-kitchen",
+    "name": { "en": "The Founders Kitchen" },
+    "aka": ["Founders Kitchen"],
+    "type": "venture-studio",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "offices": [{ "country": "Israel", "city": "Tel Aviv" }],
+    "website": "https://founders.kitchen/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/the-founders-kitchen",
+      "other": ["https://finder.startupnationcentral.org/investor_page/the-founders-kitchen"]
+    },
+    "capital": {
+      "current_fund": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist", "fintech", "agritech"],
+      "thesis": "A company builder led by Waze co-founder Uri Levine that co-founds startups from inception using its 'PCM Method' (validate the problem, select a strong CEO, mentor), serving as co-founder and active board member from brainstorming through seed and follow-on rounds. Most of its startups are homebrewed in-house."
+    },
+    "track_record": {
+      "portfolio_count": "7+ visible",
+      "notable_investments": [
+        { "company": "Pontera", "sector": "fintech", "outcome": "active" },
+        { "company": "SeeTree", "sector": "agritech", "outcome": "active" },
+        { "company": "Oversee", "sector": "fintech", "outcome": "active" },
+        { "company": "Dynamo", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Uri Levine", "role": "Founder (co-founder of Waze)" },
+      { "name": "Ariel Sacerdoti", "role": "Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["company-builder", "co-founder-model", "Uri-Levine", "Waze"],
+    "summary": {
+      "en": "The Founders Kitchen is a Tel Aviv company builder founded in 2019 by Waze co-founder Uri Levine. Using its 'PCM Method' it co-founds startups from inception, mostly homebrewed ideas, acting as co-founder and active board member through seed and follow-on rounds. Portfolio includes Pontera, SeeTree and Oversee."
+    },
+    "sources": [
+      {
+        "url": "https://founders.kitchen/",
+        "title": "The Founders Kitchen — Home",
+        "publisher": "The Founders Kitchen",
+        "accessed": "2026-06-02",
+        "supports": "founder Uri Levine, founded 2019, PCM method / co-founding model, inception investing, portfolio companies",
+        "quote": "The Founders Kitchen invests in inception, seed and follow up rounds ... we validate problems, select strong CEO leaders, and provide mentorship (the 'PCM Method')."
+      },
+      {
+        "url": "https://finder.startupnationcentral.org/investor_page/the-founders-kitchen",
+        "title": "The Founders Kitchen — Israeli VC and Private Equity",
+        "publisher": "Start-Up Nation Central Finder",
+        "accessed": "2026-06-02",
+        "supports": "Tel Aviv HQ, Uri Levine, company-building focus",
+        "quote": "The Founders Kitchen is an investment fund, led by Uri Levine, founder of Waze ... with the goal of building startups."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund size and per-deal check size not disclosed (left null). Some listed portfolio companies (e.g. Pontera/SeeTree) predate the formal 2019 vehicle and reflect Uri Levine's broader involvement; the site frames most startups as 'homebrewed.' Treated as a company builder with a co-founding model rather than a passive VC.",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "il-ehealth-ventures",
+    "name": { "en": "eHealth Ventures" },
+    "aka": ["eHV"],
+    "type": "venture-studio",
+    "subtypes": ["incubator", "vc"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "offices": [{ "country": "Israel", "city": "Tel Aviv" }],
+    "website": "https://ehv.health/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/ehealth-ventures-llc",
+      "crunchbase": "https://www.crunchbase.com/organization/ehealth-ventures",
+      "other": ["https://finder.startupnationcentral.org/investor_page/ehealth-ventures"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Digital health fund", "vintage_year": null, "size": { "raw": "$30 million (target $40m)", "usd": 30000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["healthtech", "biotech"],
+      "thesis": "A digital-health technological incubator and fund manager that finds, funds and builds early-stage Israeli digital-health companies from ideation to commercialization, backed by Maccabi Healthcare Services, Amgen, the Mayo Clinic and others."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Tel Aviv, Israel",
+      "eligibility": "Early-stage digital health / medtech companies (diagnostics, digital monitoring, digital therapeutics, home care, bioconvergence)"
+    },
+    "track_record": {
+      "portfolio_count": "15-24 (sources vary)",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["digital-health", "incubator", "Maccabi", "Amgen", "Mayo-Clinic"],
+    "summary": {
+      "en": "eHealth Ventures (eHV), founded in 2014 and based in Tel Aviv, is a digital-health technological incubator and fund manager that builds early-stage Israeli digital-health companies from ideation to commercialization. Backed by Maccabi, Amgen, the Mayo Clinic and others, it raised a $30M fund (target $40M) and has a portfolio of roughly 15-24 companies.",
+      "local": "eHealth Ventures היא חממה טכנולוגית וקרן השקעות בתחום הבריאות הדיגיטלית שהוקמה ב-2014 בתל אביב, הבונה חברות בריאות דיגיטלית ישראליות מהרעיון ועד למסחור, בגיבוי מכבי, Amgen ומרפאת Mayo."
+    },
+    "sources": [
+      {
+        "url": "https://en.globes.co.il/en/article-digital-health-incubator-ehealth-ventures-raising-30m-1001370057",
+        "title": "Digital health incubator eHealth Ventures raising $30m",
+        "publisher": "Globes",
+        "accessed": "2026-06-02",
+        "supports": "incubator classification, $30M fund, digital health focus",
+        "quote": "Digital health incubator eHealth Ventures raising $30m."
+      },
+      {
+        "url": "https://ehv.health/news/ehealth-ventures-raises-30-million-for-digital-health-fund/",
+        "title": "eHealth Ventures raises $30 million for digital health fund",
+        "publisher": "eHealth Ventures",
+        "accessed": "2026-06-02",
+        "supports": "$30M fund / $40M target, founded 2014, builds and funds digital-health companies, partners (Maccabi, Amgen, Mayo Clinic)",
+        "quote": "eHealth Ventures ... announced the establishment of a new $30 million venture capital fund, with the aim of raising a total of $40 million ... finding, funding, and growing early-stage Israeli digital health companies."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Primarily an Innovation-Authority-style technological incubator that also runs VC funds; included here for its in-house company-building/value-creation role in digital health. Portfolio count varies across sources (15 active vs. 24 invested), left as a range. No founder names verified to primary source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "il-futurx",
+    "name": { "en": "FutuRx" },
+    "aka": ["FutuRx Biotech Incubator"],
+    "type": "venture-studio",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Ness Ziona",
+    "offices": [{ "country": "Israel", "city": "Ness Ziona" }],
+    "website": "https://www.futurx.co.il/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/futurx",
+      "crunchbase": "https://www.cbinsights.com/company/futurx",
+      "other": ["https://finder.startupnationcentral.org/investor_page/futurx"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["biotech", "healthtech"],
+      "thesis": "A biotech incubator/company foundry that forms early-stage drug-discovery and therapeutics companies in-house, in collaboration with the Israeli Innovation Authority and global pharma backers (J&J/JJDC, Takeda Ventures, OrbiMed Israel, Leaps by Bayer)."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Weizmann Science Park, Ness Ziona, Israel",
+      "eligibility": "Early-stage biotech / therapeutics technologies from research institutes"
+    },
+    "track_record": {
+      "portfolio_count": "more than 20 companies formed",
+      "notable_investments": [
+        { "company": "A2i Therapeutics", "sector": "biotech", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["biotech", "incubator", "company-foundry", "J&J", "Takeda", "OrbiMed", "Bayer"],
+    "summary": {
+      "en": "FutuRx is an Israeli biotech incubator (founded 2014, Ness Ziona) that forms early-stage therapeutics companies in-house under the Innovation Authority program. Backed by Johnson & Johnson (JJDC), Takeda Ventures, OrbiMed Israel and Leaps by Bayer, it has formed more than 20 early-stage companies including A2i Therapeutics.",
+      "local": "FutuRx היא חממת ביוטק ישראלית (נוסדה 2014, נס ציונה) הבונה חברות תרפיוטיקה בשלב מוקדם, בגיבוי Johnson & Johnson, Takeda, OrbiMed ו-Leaps by Bayer, ובמסגרת תכנית רשות החדשנות."
+    },
+    "sources": [
+      {
+        "url": "https://www.timesofisrael.com/jj-takeda-team-up-to-open-israeli-biotech-incubator/",
+        "title": "J&J, Takeda team up to open Israeli biotech incubator",
+        "publisher": "The Times of Israel",
+        "accessed": "2026-06-02",
+        "supports": "founders/backers (J&J, Takeda, OrbiMed), biotech incubator, founding ~2014",
+        "quote": "J&J, Takeda team up to open Israeli biotech incubator."
+      },
+      {
+        "url": "https://www.prnewswire.com/il/news-releases/biotech-incubator-futurx-announces-new-investor-leaps-by-bayer-301101312.html",
+        "title": "Biotech incubator FutuRx announces new investor Leaps by Bayer",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-02",
+        "supports": "more than 20 companies formed, Innovation Authority collaboration, backers including Leaps by Bayer",
+        "quote": "FutuRx has formed more than 20 early-stage companies in collaboration with the Israeli Innovation Authority."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Operates as an Innovation-Authority biotech incubator but creates/forms companies in-house, so included in the venture-studio/company-builder segment with incubator subtype. Located in the Weizmann Science Park, Ness Ziona. Per-company investment not disclosed to a primary source (left null).",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "il-beyond22",
+    "name": { "en": "Beyond22" },
+    "aka": ["Beyond 22"],
+    "type": "venture-studio",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "offices": [
+      { "country": "Israel", "city": "Tel Aviv" },
+      { "country": "United States", "city": "New York" }
+    ],
+    "website": "https://beyond22.vc/",
+    "links": {
+      "crunchbase": "https://pitchbook.com/profiles/investor/663946-21",
+      "other": ["https://finder.startupnationcentral.org/investor_page/beyond22"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$100K–$750K", "usd_min": 100000, "usd_max": 750000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel", "United States"],
+      "sector_focus": ["consumer", "ecommerce"],
+      "thesis": "A founder-operator-led venture builder for early-stage Israeli consumer startups targeting the US market, combining capital with hands-on operational support across go-to-market, product, marketing, operations and team-building."
+    },
+    "track_record": {
+      "portfolio_count": "9 companies",
+      "notable_investments": [
+        { "company": "Owlue", "sector": "proptech", "outcome": "active" },
+        { "company": "Kimba", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Suf Kletter", "role": "Co-founder & Managing Partner" },
+      { "name": "Omer Sher", "role": "Co-founder & Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["venture-builder", "consumer", "DTC", "US-market"],
+    "summary": {
+      "en": "Beyond22 is a Tel Aviv- and New York-based venture builder (founded 2024) for early-stage Israeli consumer startups targeting the US. Led by founder-operators Suf Kletter and Omer Sher, it pairs $100K–$750K investments with hands-on operational support; 972VC classifies it as 'Venture Builder · Venture Capital'."
+    },
+    "sources": [
+      {
+        "url": "https://972vc.com/companies/beyond22/",
+        "title": "Beyond22 — 972VC",
+        "publisher": "972VC",
+        "accessed": "2026-06-02",
+        "supports": "venture-builder classification, Tel Aviv, consumer focus, $100K-$750K investment range",
+        "quote": "Type: Venture Builder · Venture Capital ... Location: Tel Aviv ... Investment Range: $100K - $750K."
+      },
+      {
+        "url": "https://beyond22.vc/",
+        "title": "Early-Stage Consumer Ventures in Israel | Beyond22",
+        "publisher": "Beyond22",
+        "accessed": "2026-06-02",
+        "supports": "founders, consumer/DTC focus, US-market hands-on model, Tel Aviv & New York",
+        "quote": "We come from consumer. We know what to look for before the metrics show up ... We help you build the relationships, channels, and presence to win in the US."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Beyond22's own site frames it primarily as a consumer VC fund, while 972VC and Start-Up Nation Finder tag it as a 'Venture Builder.' Included on the strength of those venture-builder classifications and its hands-on, founder-operator model; founded year (2024) from secondary sources. Fund size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  }
+]

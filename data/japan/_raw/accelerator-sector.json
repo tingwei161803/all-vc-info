@@ -1,0 +1,777 @@
+[
+  {
+    "id": "jp-deepcore",
+    "name": { "en": "DEEPCORE", "local": "株式会社ディープコア" },
+    "aka": ["Deepcore", "DEEPCORE TOKYO"],
+    "type": "incubator",
+    "subtypes": ["accelerator", "cvc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://deepcore.jp/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/deepcore",
+      "other": ["https://group.softbank/en/news/press/20180129"]
+    },
+    "capital": {
+      "aum": { "raw": "JPY 18.3 billion (total funds under management, secondary)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "DEEPCORE TOKYO I Investment Limited Partnership", "vintage_year": 2018, "size": { "raw": "JPY 5.6 billion / ~$55M", "usd": 55000000, "currency": "JPY" } },
+        { "name": "DEEPCORE TOKYO II Investment Limited Partnership", "vintage_year": 2019, "size": { "raw": "JPY 11.7 billion", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["ai-ml", "deeptech", "robotics"],
+      "thesis": "AI-focused incubator and seed/early-stage investor, especially in deep learning, leveraging SoftBank Group's network and a co-working/R&D facility (KERNEL) in Hongo near the University of Tokyo and the Matsuo Lab."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "KERNEL Hongo, Bunkyo-ku, Tokyo",
+      "perks": ["GPU computing resources", "incubation facility (KERNEL)", "SoftBank Group network", "joint projects with companies"],
+      "eligibility": "AI / deep learning entrepreneurs and early-stage startups"
+    },
+    "track_record": {
+      "portfolio_count": 88,
+      "notable_investments": [
+        { "company": "Telexistence", "sector": "robotics", "outcome": "active" },
+        { "company": "RevComm", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via DEEPCORE website / KERNEL membership",
+      "accepts_cold_inbound": true,
+      "contact": "https://deepcore.jp/"
+    },
+    "tags": ["ai", "deeptech", "softbank", "incubator"],
+    "summary": {
+      "en": "DEEPCORE is a Tokyo-based AI-focused incubator wholly owned by SoftBank Group, launched in 2018. It runs the KERNEL incubation facility in Hongo (near the University of Tokyo's Matsuo Lab), provides GPU compute and seed/early-stage capital to deep-learning startups, and manages the DEEPCORE TOKYO funds.",
+      "local": "ソフトバンクグループ完全子会社のAI特化型インキュベーター。2018年設立、本郷にKERNELを運営。"
+    },
+    "sources": [
+      {
+        "url": "https://group.softbank/en/news/press/20180129",
+        "title": "DEEPCORE Launches AI Incubation Business",
+        "publisher": "SoftBank Group Corp.",
+        "accessed": "2026-06-02",
+        "supports": "AI/deep learning focus, founded 2018, SoftBank wholly-owned subsidiary, Hongo facility, Matsuo Lab partnership",
+        "quote": "SoftBank Group Corp. owns DEEPCORE as a wholly-owned subsidiary ... AI-focused incubation ... Deep Learning arena ... advanced co-working space in Hongo, Bunkyo-ku, Tokyo ... joint research agreement with Matsuo Lab of The University of Tokyo"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/deepcore",
+        "title": "Deepcore - Crunchbase Company Profile & Funding",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "First fund ~$55M raised 2018; 18 early startups backed",
+        "quote": "Deepcore raised its first fund of about $55 million in 2018. That fund has backed 18 early-stage startups."
+      },
+      {
+        "url": "https://tracxn.com/d/accelerator-incubator/deepcore/",
+        "title": "DEEPCORE Investor Profile",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "Fund sizes (TOKYO I JPY 5.6B, TOKYO II JPY 11.7B), portfolio of 88 companies, notable Telexistence/RevComm",
+        "quote": "DEEPCORE TOKYO I Investment Limited Partnership with a Fund Size of JPY 5.6 Billion ... DEEPCORE TOKYO II Investment Limited Partnership with a Fund Size of JPY 11.7 Billion ... portfolio of 88 companies ... Telexistence and RevComm"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Primary SoftBank press release confirms AI focus, 2018 founding and ownership. Fund sizes and portfolio count are from secondary aggregators (Tracxn/Crunchbase) and should be treated as approximate; AUM of JPY 18.3B is secondary.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-sector"
+  },
+  {
+    "id": "jp-ai-accelerator-dip",
+    "name": { "en": "AI.Accelerator (dip)", "local": "AI.Accelerator（ディップ株式会社）" },
+    "aka": ["AIアクセラレーター", "AI Accelerator", "dip AI.Accelerator"],
+    "type": "accelerator",
+    "subtypes": ["incubator", "cvc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.dip-net.co.jp/service/aiaccelerator",
+    "links": {
+      "other": ["https://www.dip-net.co.jp/news/1597", "https://ainow.ai/accelerator/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["ai-ml"],
+      "thesis": "Japan's first AI-specialized incubation program, run by recruitment-services company dip Corporation. Provides ~3 months of acceleration and seed investment to AI-related startups and talent, aiming to create AI mega-ventures."
+    },
+    "program": {
+      "length_weeks": 13,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "seed investment (amount undisclosed)", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Tokyo (Roppongi)",
+      "demo_day": true,
+      "perks": ["seed investment", "mentoring", "demo day fundraising exposure"],
+      "eligibility": "AI-related businesses and talented individuals from the startup-preparation stage",
+      "application_cycles": ["recurring cohorts (~2-3 per year historically)"]
+    },
+    "track_record": {
+      "portfolio_count": "105+ (through 16 cohorts, as of 2021)",
+      "notable_investments": [
+        { "company": "EmbodyMe", "sector": "ai-ml", "outcome": "active (selected for Techstars US)" }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply per cohort via dip's AI.Accelerator page",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.dip-net.co.jp/service/aiaccelerator"
+    },
+    "tags": ["ai", "incubation", "seed", "dip"],
+    "summary": {
+      "en": "AI.Accelerator, launched April 2017 by dip Corporation, is described as Japan's first AI-specialized incubation/support program. It runs a roughly 3-month accelerator with seed investment for AI startups and talent; cumulatively 105 companies were selected from ~750 applications across 16 cohorts as of 2021.",
+      "local": "ディップが2017年4月に開始した日本初のAI特化インキュベーションプログラム。約3ヶ月のアクセラレータとシード投資を提供。"
+    },
+    "sources": [
+      {
+        "url": "https://www.dip-net.co.jp/news/1597",
+        "title": "「AI.Accelerator」16期生4社を採択",
+        "publisher": "dip Corporation (ディップ株式会社)",
+        "accessed": "2026-06-02",
+        "supports": "Started April 2017, AI-specialized, 3-month accelerator, seed investment, cumulative 105 companies from ~750 applications across 16 cohorts",
+        "quote": "2017年4月に開始 ... AI特化のインキュベーションプログラム ... 3ヶ月間のアクセラレータ・プログラム ... 2017年4月より行なった16回の公募で、約750件の応募の中から支援制度の合計105社を採択"
+      },
+      {
+        "url": "https://www.dip-net.co.jp/news/343",
+        "title": "「AI.Accelerator」7期採択企業デモデイ",
+        "publisher": "dip Corporation",
+        "accessed": "2026-06-02",
+        "supports": "Japan's first AI venture support program, ~3 months support",
+        "quote": "AI特化のインキュベーションプログラム ... 約３か月支援 ... 過去5回のプログラムを通じた採択企業は40社を超えました"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Investment amount per startup is not publicly disclosed (seed investment confirmed but figure null). Cumulative portfolio count of 105 is as of the 16th cohort (2021); later totals likely higher but not verified here.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-sector"
+  },
+  {
+    "id": "jp-beyond-next-ventures-brave",
+    "name": { "en": "Beyond Next Ventures / BRAVE", "local": "Beyond Next Ventures株式会社 / BRAVE" },
+    "aka": ["BRAVE", "Beyond Next Ventures", "BNV"],
+    "type": "accelerator",
+    "subtypes": ["vc", "incubator"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://beyondnextventures.com/incubation/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/beyond-next-ventures",
+      "other": ["https://brave.beyondnextventures.com/"]
+    },
+    "capital": {
+      "aum": { "raw": "JPY 22 billion (as of March 2021, across funds)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "Beyond Next Ventures III (deep-tech fund)", "vintage_year": 2023, "size": { "raw": "first close ¥10 billion (~$67.7M); targeting up to ¥25 billion (~$168M)", "usd": 67700000, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["deeptech", "biotech", "healthtech", "robotics", "ai-ml", "agritech"],
+      "thesis": "Deep-tech focused VC and accelerator that translates university and lab research into companies across drug discovery, biotech/pharma, medical/digital health, AI, robotics/materials and agri-food."
+    },
+    "program": {
+      "length_weeks": 8,
+      "cohort_size": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "Demo Day prize up to ¥2,000,000; eligibility for JST START grants up to ¥30M/year; BNV direct investment", "usd": null, "currency": "JPY" },
+      "format": "hybrid",
+      "location": "Nihonbashi, Tokyo",
+      "demo_day": true,
+      "perks": ["technical and business mentoring", "JST START grant eligibility (up to ¥30M/year)", "BNV direct investment opportunity", "no application fee"],
+      "eligibility": "Individuals or teams interested in commercializing deep-tech research seeds with entrepreneurial vision; incorporation not required; non-Japanese welcome",
+      "application_url": "https://brave.beyondnextventures.com/"
+    },
+    "track_record": {
+      "portfolio_count": "BRAVE: 200+ researchers supported; 120+ teams",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Tsuyoshi Ito", "role": "Founder & CEO, Beyond Next Ventures" }
+    ],
+    "application": {
+      "how_to_apply": "Apply per cohort via the BRAVE program site",
+      "accepts_cold_inbound": true,
+      "contact": "https://brave.beyondnextventures.com/"
+    },
+    "tags": ["deeptech", "biotech", "drug-discovery", "robotics", "accelerator"],
+    "summary": {
+      "en": "Beyond Next Ventures is a Tokyo deep-tech VC that runs BRAVE, described as Japan's largest deep-tech accelerator. Launched in 2016, BRAVE turns research seeds into R&D startups across drug discovery, biotech, medical, AI, robotics/materials and agri-food; it has supported 200+ researchers and enabled 300M+ USD in financing.",
+      "local": "ディープテック特化のVCが運営する国内最大級の研究者向けアクセラレーター『BRAVE』。創薬・バイオ・医療・AI・ロボティクス等を対象。"
+    },
+    "sources": [
+      {
+        "url": "https://beyondnextventures.com/incubation/",
+        "title": "INCUBATION | Beyond Next Ventures",
+        "publisher": "Beyond Next Ventures",
+        "accessed": "2026-06-02",
+        "supports": "BRAVE is Japan's largest deep-tech accelerator; 200+ researchers; $300M+ financing",
+        "quote": "Japan's largest deep-tech accelerator, BRAVE has supported over 200 researchers and enabled more than $300M in financing."
+      },
+      {
+        "url": "https://brave.beyondnextventures.com/frontier/robotics_material/",
+        "title": "ディープテック特化型アクセラレーションプログラム",
+        "publisher": "Beyond Next Ventures",
+        "accessed": "2026-06-02",
+        "supports": "~2 months mentoring; Demo Day prize up to ¥2M; JST START grant up to ¥30M/year; sector areas; BNV runs JPY 22B in funds (Mar 2021)",
+        "quote": "Up to 2 million yen for top-performing teams at Demo Day ... 年間3,000万円の研究開発費 ... managing 22 billion yen in funds as of March 2021"
+      },
+      {
+        "url": "https://techcrunch.com/2023/10/10/japanese-vc-beyond-next-ventures-raises-67-7m-in-a-first-close-of-its-deep-tech-fund/",
+        "title": "Japanese VC Beyond Next Ventures raises $67.7M in a first close of its deep tech fund",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Third fund first close ¥10B (~$67.7M), targeting up to ¥25B (~$168M); robotics and biotech focus",
+        "quote": "targeting up to ¥25 billion (about $168 million) for its third fund and completed a first close of ¥10 billion (approximately $67.7 million) for investments in deep tech startups in fields like robotics and biotech"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "BRAVE launched 2016 per secondary sources; firm founded 2014. Program length (~2 months/8 weeks) and prize figures are from the program site. Per-startup equity not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-sector"
+  },
+  {
+    "id": "jp-blockbuster-tokyo",
+    "name": { "en": "Blockbuster TOKYO", "local": "Blockbuster TOKYO（創薬・医療系ベンチャー育成支援プログラム）" },
+    "aka": ["Blockbuster Tokyo", "Blockbuster Creation"],
+    "type": "accelerator",
+    "subtypes": ["government-program", "incubator"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.tokyo-lifescience.metro.tokyo.lg.jp/en/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000090.000017460.html"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["biotech", "healthtech"],
+      "thesis": "Tokyo Metropolitan Government acceleration program (operated by Beyond Next Ventures) dedicated to drug-discovery and medical/pharmaceutical startups, leveraging Tokyo's concentration of pharma companies, support organizations and investors."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": "~19 teams (FY2019 selection program)",
+      "equity_taken_pct": null,
+      "investment": { "raw": "non-investment public support program (mentoring, matching, fundraising support)", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Tokyo",
+      "demo_day": true,
+      "perks": ["expert mentoring (drug discovery, clinical trial design, IP, marketing, BD)", "talent matching", "business-partnership and fundraising support"],
+      "eligibility": "Drug-discovery and medical/pharmaceutical venture teams"
+    },
+    "track_record": {
+      "portfolio_count": "50+ entrepreneurs/teams since 2018",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Annual public call via Tokyo Metropolitan Government / program site",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.tokyo-lifescience.metro.tokyo.lg.jp/en/"
+    },
+    "tags": ["biotech", "drug-discovery", "medical", "government", "tokyo"],
+    "summary": {
+      "en": "Blockbuster TOKYO is a drug-discovery and medical/pharmaceutical startup acceleration program sponsored by the Tokyo Metropolitan Government and operated by Beyond Next Ventures since FY2018. It offers a training program plus a selection program with specialized mentoring; over 50 entrepreneurs/teams have been supported.",
+      "local": "東京都主催・Beyond Next Ventures運営の創薬・医療系ベンチャー育成支援プログラム（2018年度開始）。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000090.000017460.html",
+        "title": "創薬・医療系ベンチャー育成支援プログラム『Blockbuster TOKYO』ビジネスプラン発表会",
+        "publisher": "Beyond Next Ventures (PR Times)",
+        "accessed": "2026-06-02",
+        "supports": "Operated by Beyond Next Ventures; sponsored by Tokyo Metropolitan Government; drug discovery/medical focus; mentoring areas",
+        "quote": "Beyond Next Ventures株式会社が運営する ... 創薬・医療系ベンチャー育成支援プログラム『Blockbuster TOKYO』 ... 東京都 ... メンタリング（創薬研究、知財、マーケティング等）"
+      },
+      {
+        "url": "https://port.creww.me/innovation/18509",
+        "title": "創薬・医療系ベンチャーに特化した育成支援プログラム\"Blockbuster TOKYO\" 選抜プログラム 19チームが決定",
+        "publisher": "Creww PORT",
+        "accessed": "2026-06-02",
+        "supports": "FY2019 selection program: 19 teams selected; since FY2018",
+        "quote": "創薬・医療系ベンチャーに特化した育成支援プログラム ... 選抜プログラム 19チームが決定"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Official program English site (blockbuster.tokyo) was returning a 'coming soon'/parked page at access time; details verified via Beyond Next Ventures PR Times release, Creww PORT and Tokyo Metropolitan Government pages. This is a public support program, not an equity investor.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-sector"
+  },
+  {
+    "id": "jp-onlab-web3",
+    "name": { "en": "onlab web3 (Open Network Lab)", "local": "onlab web3（オープンネットワークラボ）" },
+    "aka": ["Open Network Lab web3", "Onlab web3", "onlab"],
+    "type": "accelerator",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://onlab.jp/en/web3/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/open-network-lab",
+      "other": ["https://dgincubation.com/en/onlab/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Onlab Fund II", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "approx. JPY 10 million to 30 million per company", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["web3-crypto", "fintech"],
+      "thesis": "web3/blockchain-focused track of Open Network Lab (Japan's first seed accelerator, run by Digital Garage Group), supporting crypto, NFT, infrastructure and on-ramp startups looking to enter the Japanese market, backed by Digital Garage's blockchain/crypto-exchange expertise."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "equity investment from Onlab Fund II, ~JPY 10M–30M (case-by-case)", "usd": null, "currency": "JPY" },
+      "format": "hybrid",
+      "location": "Tokyo (Shibuya / Ebisu)",
+      "demo_day": true,
+      "perks": ["Digital Garage / Crypto Garage network", "crypto regulatory expertise", "mentoring"],
+      "eligibility": "web3/blockchain startups in Japan and abroad aiming to enter the Japanese market",
+      "application_url": "https://onlab.jp/en/web3/"
+    },
+    "track_record": {
+      "portfolio_count": "Open Network Lab overall: 150+ graduates since 2010",
+      "notable_investments": [
+        { "company": "giftee", "sector": "consumer", "outcome": "IPO (Onlab overall)" },
+        { "company": "WHILL", "sector": "mobility", "outcome": "active (Onlab overall)" },
+        { "company": "SmartHR", "sector": "saas-enterprise", "outcome": "unicorn (Onlab overall)" }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via onlab web3 page; selection requires equity investment from Onlab Fund II",
+      "accepts_cold_inbound": true,
+      "contact": "https://onlab.jp/en/web3/"
+    },
+    "tags": ["web3", "blockchain", "crypto", "digital-garage", "accelerator"],
+    "summary": {
+      "en": "onlab web3 is the web3/blockchain-focused program of Open Network Lab, Japan's first seed accelerator (since 2010), operated by Digital Garage Group. Selected startups take an equity investment from Onlab Fund II (typically ~JPY 10M–30M), with support backed by Digital Garage's crypto-exchange and blockchain expertise.",
+      "local": "デジタルガレージグループのOpen Network Labによるweb3特化プログラム。採択企業はOnlab Fund IIから約1,000万〜3,000万円の出資を受ける。"
+    },
+    "sources": [
+      {
+        "url": "https://onlab.jp/en/web3/",
+        "title": "onlab web3 - Open Network Lab",
+        "publisher": "Digital Garage / Open Network Lab",
+        "accessed": "2026-06-02",
+        "supports": "web3/blockchain focus, Digital Garage Group operator, 150+ startups since 2010, equity investment from Onlab Fund II ~JPY 10M-30M",
+        "quote": "participation will require an equity investment from the Open Network Lab Fund II ('Onlab Fund II'), with the investment amount determined on a case-by-case basis, though the typical range is approximately JPY 10 million to 30 million ... over 150 startups since 2010 ... Digital Garage Group ... a pioneer in blockchain research and development"
+      },
+      {
+        "url": "https://dgincubation.com/en/onlab/",
+        "title": "Open Network Lab & ESG I Fund 'Earthshot Fund' | DG Incubation",
+        "publisher": "DG Incubation",
+        "accessed": "2026-06-02",
+        "supports": "Open Network Lab established 2010, Japan's first seed accelerator; operated by Digital Garage",
+        "quote": "Onlab Fund II works in collaboration with Open Network Lab ('Onlab') — Japan's first seed accelerator, in operation since 2010"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "onlab itself is a generalist seed accelerator; the entity here is its dedicated web3 track. Investment range (~JPY 10M-30M) applies to Onlab Fund II generally. Notable companies (giftee/WHILL/SmartHR) are Open Network Lab overall alumni, not necessarily web3-track.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-sector"
+  },
+  {
+    "id": "jp-sakura-deeptech-shibuya",
+    "name": { "en": "Sakura Deeptech Shibuya Accelerator", "local": "SAKURA DEEPTECH SHIBUYA アクセラレーター" },
+    "aka": ["Sakura Deeptech Accelerator", "SDS Accelerator"],
+    "type": "accelerator",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.sakuradeeptechshibuya.com/en/accelerator/",
+    "links": {
+      "other": ["https://scrum.vc/studio/", "https://www.tokyu-land.co.jp/english/news/2025/001535.html"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Global", "Japan"],
+      "sector_focus": ["deeptech", "climate-energy", "ai-ml", "robotics", "hardware-semiconductor"],
+      "thesis": "Deep-tech co-innovation accelerator at Shibuya Sakura Stage, operated by Scrum Studio (Scrum Ventures) with Tokyu Land Corporation, focused on Climate Tech and AI/Robotics; connects global early-to-growth-stage deep-tech startups with Japanese corporate partners and MIT/Oxford mentorship."
+    },
+    "program": {
+      "length_weeks": 26,
+      "cohort_size": "~10 startups/year",
+      "batches_per_year": 1,
+      "equity_taken_pct": null,
+      "investment": { "raw": "no investment/equity terms disclosed", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Shibuya Sakura Stage, Tokyo",
+      "demo_day": true,
+      "perks": ["shared office space, dry lab, wet lab", "subsidized housing", "MIT / Oxford Science Enterprises mentorship", "Japan's largest corporate deeptech community"],
+      "eligibility": "Early-to-growth-stage global deep-tech startups (PMF confirmed) in climate tech and AI/robotics",
+      "application_url": "https://www.sakuradeeptechshibuya.com/en/accelerator/"
+    },
+    "track_record": {
+      "portfolio_count": "10 (inaugural 2025 cohort)",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Annual application cycle via Sakura Deeptech Shibuya site",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.sakuradeeptechshibuya.com/en/accelerator/"
+    },
+    "tags": ["deeptech", "climate-tech", "ai", "robotics", "scrum-ventures", "tokyu-land"],
+    "summary": {
+      "en": "Sakura Deeptech Shibuya is a deep-tech accelerator launched in 2025 at Shibuya Sakura Stage, operated by Scrum Studio (Scrum Ventures) with Tokyu Land Corporation. It runs a ~6-month program for around 10 global startups/year in Climate Tech and AI/Robotics, with wet/dry labs, subsidized housing and MIT/Oxford mentorship. Inaugural 2025 cohort: 10 startups.",
+      "local": "東急不動産とScrum Studioが2025年に渋谷サクラステージで開始したディープテック・アクセラレーター。気候テックとAI・ロボティクスが対象。"
+    },
+    "sources": [
+      {
+        "url": "https://www.sakuradeeptechshibuya.com/en/accelerator/",
+        "title": "ACCELERATOR | SAKURA DEEPTECH SHIBUYA",
+        "publisher": "Scrum Studio / Tokyu Land Corporation",
+        "accessed": "2026-06-02",
+        "supports": "Climate Tech and AI/Robotics focus, ~10 startups/year, 6 months mentoring, begins 2025, labs and subsidized housing",
+        "quote": "Climate Tech ... AI/Robotics ... Around 10 startups / year ... 6 months of mentoring（in-person and online） ... The accelerator program will begin in 2025 ... Shared office space, dry lab, wet lab, subsidized housing"
+      },
+      {
+        "url": "https://www.tokyu-land.co.jp/english/news/2025/001535.html",
+        "title": "Tokyu Land Corporation and Scrum Studio Announce Inaugural Sakura Deeptech Shibuya Accelerator Cohort: 10 Global Deep Tech Startups Selected",
+        "publisher": "Tokyu Land Corporation",
+        "accessed": "2026-06-02",
+        "supports": "Inaugural cohort of 10 global deep-tech startups; operated by Scrum Studio with Tokyu Land",
+        "quote": "Inaugural Sakura Deeptech Shibuya Accelerator Cohort: 10 Global Deep Tech Startups Selected"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "New program (2025); investment/equity terms not disclosed. Hub 'SAKURA DEEPTECH SHIBUYA' opened Jan 2025; accelerator cohort kicked off June 2025.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-sector"
+  },
+  {
+    "id": "jp-ja-accelerator-agventure-lab",
+    "name": { "en": "JA Accelerator (AgVenture Lab)", "local": "JAアクセラレーター（AgVenture Lab）" },
+    "aka": ["JA Accelerator", "AgVenture Lab"],
+    "type": "accelerator",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://agventurelab.or.jp/en/jaaccelerator/",
+    "links": {
+      "other": ["https://agventurelab.or.jp/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["agritech", "consumer", "fintech", "impact"],
+      "thesis": "Agriculture/food-focused accelerator run by AgVenture Lab (established by the JA Group). Supports AgTech, FoodTech, LifeTech and related startups, leveraging the JA Group's farmer networks, retail infrastructure and financial (banking/insurance) assets."
+    },
+    "program": {
+      "length_weeks": 26,
+      "cohort_size": "~9 companies/batch",
+      "batches_per_year": 1,
+      "equity_taken_pct": null,
+      "investment": { "raw": "not disclosed", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Tokyo (Otemachi)",
+      "demo_day": true,
+      "perks": ["JA Group farmer networks", "retail infrastructure", "banking/insurance assets", "mentoring and matching"],
+      "eligibility": "Startups with innovative ideas/technologies for food, agriculture and life",
+      "application_url": "https://agventurelab.or.jp/en/jaaccelerator/",
+      "application_cycles": ["typically January–March each year"]
+    },
+    "track_record": {
+      "portfolio_count": "70+ startups across 7 main batches",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Annual application (Jan-Mar) via JA Accelerator site",
+      "accepts_cold_inbound": true,
+      "contact": "https://agventurelab.or.jp/en/jaaccelerator/"
+    },
+    "tags": ["agritech", "foodtech", "ja-group", "accelerator"],
+    "summary": {
+      "en": "JA Accelerator is an agriculture/food-focused accelerator operated by AgVenture Lab (JA Group's innovation lab), launched in 2019. It runs ~6-month batches of around 9 startups (e.g., Batch 7 in 2025 selected 9 from 189 applications), leveraging JA Group's farmer, retail and financial networks; 70+ startups supported across 7 batches.",
+      "local": "JAグループのAgVenture Labが運営するアグリ・フード特化アクセラレーター（2019年開始）。"
+    },
+    "sources": [
+      {
+        "url": "https://agventurelab.or.jp/en/jaaccelerator/",
+        "title": "JA Accelerator | AgVenture Lab",
+        "publisher": "AgVenture Lab (JA Group)",
+        "accessed": "2026-06-02",
+        "supports": "Launched 2019, ~9 companies/batch, ~6 months, application Jan-Mar, 70+ startups across 7 batches, Batch 7 (2025) 9 from 189 applications",
+        "quote": "Batch 1 ran May-October 2019 ... Batch 7 (2025): 9 companies selected from 189 applications ... 70+ startups across 7 main batches ... Applications are typically accepted between January and March each year"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Per-startup investment amount and equity not disclosed. Cohort sizes and application stats from official program page.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-sector"
+  },
+  {
+    "id": "jp-finolab",
+    "name": { "en": "FINOLAB", "local": "FINOLAB（フィノラボ）" },
+    "aka": ["FINOLAB Inc.", "The Fintech Center of Tokyo"],
+    "type": "incubator",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://finolab.tokyo/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/finolab",
+      "other": ["https://finolab.co.jp/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "FINOLAB Fund", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["fintech"],
+      "thesis": "Japan's first fintech-focused hub/community in Otemachi, born from Mitsubishi Estate, Dentsu and ISID. Provides facilities, community and (via its own fund) seed/early-stage support to fintech startups; runs the FINOPITCH global pitch contest."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "FINOLAB Fund (seed/early-stage; amount undisclosed)", "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Otemachi, Tokyo",
+      "demo_day": true,
+      "perks": ["membership community", "access to financial/legal professionals", "FINOPITCH pitch contest", "corporate connections"],
+      "eligibility": "Fintech startups (seed to early stage)",
+      "application_url": "https://finolab.tokyo/"
+    },
+    "track_record": {
+      "portfolio_count": "57 startups; 31 corporations/associations; 800+ individual members (community)",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Membership application / FINOPITCH contest via FINOLAB site",
+      "accepts_cold_inbound": true,
+      "contact": "https://finolab.tokyo/"
+    },
+    "tags": ["fintech", "hub", "community", "mitsubishi-estate", "dentsu"],
+    "summary": {
+      "en": "FINOLAB (The Fintech Center of Tokyo) is Japan's first fintech-focused hub/community, established in 2016 in Otemachi by Mitsubishi Estate, Dentsu and ISID. It hosts 57 startups, 31 corporations and 800+ individual members, runs the FINOPITCH global pitch contest, and provides seed/early-stage support through its own fund.",
+      "local": "三菱地所・電通・ISIDが2016年に設立した日本初のフィンテック特化ハブ。FINOPITCHを運営。"
+    },
+    "sources": [
+      {
+        "url": "https://www.japan.go.jp/kizuna/2024/12/accelerating_fintech_in_japan.html",
+        "title": "Accelerating Fintech in Japan: The Significance and Role of FINOLAB",
+        "publisher": "Government of Japan (JapanGov)",
+        "accessed": "2026-06-02",
+        "supports": "Fintech-focused hub; collaboration of Mitsubishi Estate, Dentsu, ISID; community scale and FINOPITCH",
+        "quote": "FINOLAB ... born from a collaboration between Mitsubishi Estate, Dentsu, and Information Services International-Dentsu (ISID) ... 57 startups and 31 corporations and associations, with over 800 individual members ... FINOPITCH, held since 2012"
+      },
+      {
+        "url": "https://finolab.tokyo/aboutus/",
+        "title": "ABOUT US | FINOLAB",
+        "publisher": "FINOLAB Inc.",
+        "accessed": "2026-06-02",
+        "supports": "Established 2016, Tokyo Otemachi, fintech center",
+        "quote": "FINOLAB ... established in 2016, located in Tokyo's Otemachi financial district"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "FINOLAB is primarily a fintech hub/community with an associated fund and the FINOPITCH contest rather than a fixed-cohort equity accelerator; classified as incubator with accelerator subtype. Fund size and per-startup terms undisclosed. Founding year 2016 per official about page; FINOPITCH contest predates it (since 2012).",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-sector"
+  },
+  {
+    "id": "jp-mufg-icj-esg-accelerator",
+    "name": { "en": "MUFG ICJ ESG Accelerator (FOOD x TECH Mercato)", "local": "MUFG ICJ ESG アクセラレーター（FOOD×TECH Mercato）" },
+    "aka": ["FOOD x TECH Mercato", "MUFG ESG Accelerator", "ESG Accelerator"],
+    "type": "accelerator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.esgaccelerator.com/en",
+    "links": {
+      "other": ["https://port.creww.me/en/innovation/130673"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["impact", "agritech", "climate-energy"],
+      "thesis": "ESG/sustainability accelerator run by MUFG (Mitsubishi UFJ Bank) with VC Inclusion Japan (ICJ) and London's Movimento Metropolitano, focused on sustainable food and biodiversity ('FOOD x TECH Mercato')."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "Grand Prize JPY 1,000,000; collaboration with 30+ sponsors and VCs", "usd": null, "currency": "JPY" },
+      "format": "hybrid",
+      "location": "Tokyo",
+      "demo_day": true,
+      "perks": ["mentorship", "networking with corporates and government agencies", "Demo Day", "priority for Movimento Metropolitano store openings", "Grand Prize ¥1M"],
+      "eligibility": "Sustainable food/beverage businesses, food/biodiversity solution startups, and individual professionals",
+      "application_url": "https://www.esgaccelerator.com/en"
+    },
+    "track_record": {
+      "portfolio_count": "~293 participants across 2021-2024 cohorts",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply per cohort via the ESG Accelerator site",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.esgaccelerator.com/en"
+    },
+    "tags": ["esg", "foodtech", "sustainability", "mufg", "impact"],
+    "summary": {
+      "en": "The MUFG ICJ ESG Accelerator 'FOOD x TECH Mercato' is a sustainability/ESG accelerator run by Mitsubishi UFJ Bank with VC Inclusion Japan and London's Movimento Metropolitano, focused on sustainable food and biodiversity. Inclusion Japan ran Japan's first ESG accelerator in fall 2021; ~293 ventures have participated across cohorts. Grand Prize is ¥1M.",
+      "local": "三菱UFJ銀行とInclusion Japanによるサステナブルフード・生物多様性に特化したESGアクセラレーター。2021年秋に日本初のESGアクセラレーターを開催。"
+    },
+    "sources": [
+      {
+        "url": "https://port.creww.me/en/innovation/130673",
+        "title": "Pioneering the Future of Sustainable Food! MUFG ICJ ESG Accelerator Grand Prize Winners Announced",
+        "publisher": "Creww PORT",
+        "accessed": "2026-06-02",
+        "supports": "Operated by Mitsubishi UFJ Bank and Inclusion Japan with Movimento Metropolitano; first ESG accelerator fall 2021; ~300 ventures; food/biodiversity focus",
+        "quote": "MUFG ICJ ESG Accelerator 'FOOD×TECH Mercato' ... Mitsubishi UFJ Bank and Inclusion Japan (ICJ) ... together with Movimento Metropolitano ... Since Inclusion Japan hosted Japan's first ESG Accelerator Program in the fall of 2021 ... nearly 300 venture companies"
+      },
+      {
+        "url": "https://www.esgaccelerator.com/en/home",
+        "title": "MUFG ICJ ESG アクセラレーター | FOOD×TECH Mercato",
+        "publisher": "MUFG / Inclusion Japan",
+        "accessed": "2026-06-02",
+        "supports": "Food/biodiversity/sustainability focus; Grand Prize ¥1M; ~293 participants 2021-2024; 30+ sponsors and VCs",
+        "quote": "293 total participants ... Grand Prize: 1 million JPY ... 30+ sponsors and VCs ... sustainable food and biodiversity"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Theme has shifted toward sustainable food/biodiversity ('FOOD x TECH Mercato'); earlier MUFG fintech accelerator (since 2015) is a related but distinct program. No equity/investment amount beyond the ¥1M Grand Prize is disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-sector"
+  },
+  {
+    "id": "jp-plug-and-play-japan",
+    "name": { "en": "Plug and Play Japan", "local": "Plug and Play Japan株式会社" },
+    "aka": ["Plug and Play Japan", "PnP Japan"],
+    "type": "accelerator",
+    "subtypes": ["cvc", "incubator"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://japan.plugandplaytechcenter.com/",
+    "links": {
+      "other": ["https://www.plugandplaytechcenter.com/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["fintech", "mobility", "healthtech", "climate-energy", "agritech", "deeptech"],
+      "thesis": "Vertical-specific accelerator running industry programs (Fintech, Insurtech, Mobility, Health, Smart Cities, New Materials & Packaging, Energy, Food & Beverage) that connect corporate partners with Japanese and international startups; runs large batch cohorts twice a year."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": "51-103 startups per batch (across all verticals)",
+      "batches_per_year": 2,
+      "equity_taken_pct": null,
+      "investment": { "raw": "selective equity investment (PnP Ventures); batch participation typically equity-free", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Tokyo, Osaka, Kyoto",
+      "demo_day": true,
+      "perks": ["dealflow meetings with corporate partners", "networking", "mentoring", "workshops", "global Plug and Play network"],
+      "eligibility": "Startups across the program verticals (Fintech, Insurtech, Mobility, Health, Energy, Food & Beverage, New Materials, Smart Cities)",
+      "application_url": "https://japan.plugandplaytechcenter.com/"
+    },
+    "track_record": {
+      "portfolio_count": "73 startups (Winter/Spring 2024 batch); 51 (Summer 2025 batch)",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to a vertical batch via Plug and Play Japan site",
+      "accepts_cold_inbound": true,
+      "contact": "https://japan.plugandplaytechcenter.com/"
+    },
+    "tags": ["fintech", "insurtech", "mobility", "health", "energy", "corporate-innovation", "multi-vertical"],
+    "summary": {
+      "en": "Plug and Play Japan, operating since 2017, runs vertical (sector-specific) accelerator batches—Fintech, Insurtech, Mobility, Health, Smart Cities, New Materials & Packaging, Energy and Food & Beverage—connecting corporate partners with Japanese and global startups. Batches are large (e.g., 73 startups in Winter/Spring 2024; 51 in Summer 2025) and run roughly twice a year.",
+      "local": "2017年から日本で業界特化型（フィンテック、モビリティ、ヘルス等）アクセラレーターを運営。年2回の大規模バッチ。"
+    },
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/plug-and-play-japan-selects-73-startups-for-its-winterspring-2024-batch-accelerator-program-302019735.html",
+        "title": "Plug and Play Japan Selects 73 startups for its Winter/Spring 2024 Batch Accelerator Program",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-02",
+        "supports": "73 startups in Winter/Spring 2024 batch; verticals Fintech, Insurtech, Mobility, Health, Smart Cities, New Materials & Packaging, Energy, Food & Beverage",
+        "quote": "Plug and Play Japan selected 73 startups for the Winter/Spring 2024 Batch ... verticals included Fintech, Insurtech, Mobility, Health, Smart Cities, New Materials & Packaging, Energy, and Food & Beverage"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000232.000028153.html",
+        "title": "アクセラレータープログラム Summer 2025 Batchで国内外のスタートアップ51社を採択",
+        "publisher": "Plug and Play Japan (PR Times)",
+        "accessed": "2026-06-02",
+        "supports": "Summer 2025 batch: 51 startups across fintech, insurtech, mobility, health, deeptech, energy verticals; operating in Japan since 2017",
+        "quote": "Summer 2025 Batchで国内外合計51社のスタートアップを採択 ... 2017年より日本市場においてアクセラレータープログラムの運営"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Plug and Play Japan is the local arm of US-based Plug and Play; its value here is its multiple sector-specific vertical programs. It is primarily a corporate-innovation/matching accelerator; selective equity investment occurs but standard batch participation is largely equity-free. Per-startup investment terms not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-sector"
+  }
+]

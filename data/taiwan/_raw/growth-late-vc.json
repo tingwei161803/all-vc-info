@@ -1,0 +1,545 @@
+[
+  {
+    "id": "tw-cdib-capital-group",
+    "name": { "en": "CDIB Capital Group", "local": "中華開發資本" },
+    "aka": ["CDIB Capital", "CDIB", "China Development Industrial Bank", "開發資本"],
+    "type": "growth-equity",
+    "subtypes": ["vc", "cvc"],
+    "status": "active",
+    "founded_year": 2006,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.cdibcapitalgroup.com/en/",
+    "links": {
+      "linkedin": "https://tw.linkedin.com/company/cdib-capital-group",
+      "other": ["https://www.kgi.com/en/about-page/cdib", "https://zh.wikipedia.org/zh-tw/中華開發資本"]
+    },
+    "capital": {
+      "aum": { "raw": "over US$2.3bn (2024); CDIB site states 85+ NTD$bn", "usd": 2300000000, "currency": "USD" },
+      "funds": [
+        {
+          "name": "CDIB Cross Border Innovation Fund II LP (with Cool Japan Fund)",
+          "vintage_year": 2024,
+          "size": { "raw": "raised $62m so far, with plans for it to reach between $75m and $100m", "usd": 62000000, "currency": "USD" }
+        },
+        { "name": "CDIB Capital Growth Partners", "vintage_year": null, "size": { "raw": "undisclosed" } },
+        { "name": "CDIB–TEN Capital Limited Partnership", "vintage_year": null, "size": { "raw": "undisclosed" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus", "all"],
+      "check_size": { "raw": "undisclosed", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "Asia-Pacific", "Japan", "Greater China"],
+      "sector_focus": ["healthtech", "biotech", "consumer", "saas-enterprise", "fintech", "deeptech"],
+      "thesis": "Taiwan's first private development-finance institution and largest private equity / venture house; invests across venture, growth and buyout opportunities globally, with deep cross-border (esp. Taiwan-Japan) and healthcare/consumer focus. Holds ~30% share of Taiwan's VC market."
+    },
+    "track_record": {
+      "portfolio_count": "200+",
+      "notable_investments": [
+        { "company": "World Gym Taiwan", "sector": "consumer", "outcome": "active (largest gym chain in Taiwan)" }
+      ]
+    },
+    "people": [
+      { "name": "Angelo Koo (辜仲瑩)", "role": "Chairman (CDIB / KGI Financial Holding)" }
+    ],
+    "application": { "how_to_apply": "Institutional PE/growth investor; engages via warm intros and proprietary deal sourcing.", "accepts_cold_inbound": null, "contact": "ir@cdibh.com" },
+    "tags": ["growth-equity", "private-equity", "late-stage", "cross-border", "taiwan-japan", "kgi"],
+    "summary": {
+      "en": "CDIB Capital Group is the private equity / growth-equity arm of Taiwan's KGI Financial Holdings (formerly China Development Financial). It manages over US$2.3bn across venture, growth and buyout funds with 200+ portfolio companies and an estimated 30% share of Taiwan's VC market.",
+      "local": "中華開發資本是凱基金控旗下的私募股權/成長期投資平台(前身為中華開發金控),管理資產逾 23 億美元,橫跨創投、成長期與併購基金,投資組合逾 200 家公司,約佔台灣創投市場三成市佔率。"
+    },
+    "sources": [
+      {
+        "url": "https://globalventuring.com/corporate/asia/cdib-and-cool-japan-fund-launch-a-62m-cross-border-fund/",
+        "title": "CDIB and Cool Japan Fund launch a $62m cross-border fund",
+        "publisher": "Global Venturing",
+        "accessed": "2026-06-02",
+        "supports": "AUM, fund size, parent company, portfolio count, partnership",
+        "quote": "It has more than 200 portfolio companies, with over $2.3bn in assets under management. ... The CDIB Cross Border Innovation Fund has raised $62m so far, with plans for it to reach between $75m and $100m. ... CDIB Capital Group, a venture capital arm of Taiwanese financial conglomerate KGI Financial Holdings"
+      },
+      {
+        "url": "https://zh.wikipedia.org/zh-tw/中華開發資本",
+        "title": "中華開發資本 - 維基百科",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "core business, market share, parent company, chairman",
+        "quote": "以創投、籌集及管理私募股權為其核心業務 ... 在臺灣佔有創投市場百分之三十的市佔率 ... 凱基金融控股"
+      },
+      {
+        "url": "https://www.privateequityinternational.com/institution-profiles/cdib-capital-group.html",
+        "title": "CDIB Capital Group | Institution Profile",
+        "publisher": "Private Equity International",
+        "accessed": "2026-06-02",
+        "supports": "investment strategy",
+        "quote": "invests across venture, growth, and buyout opportunities across the globe."
+      },
+      {
+        "url": "https://www.cdibcapitalgroup.com/en/",
+        "title": "CDIB Capital Group — About",
+        "publisher": "CDIB Capital Group",
+        "accessed": "2026-06-02",
+        "supports": "AUM (NTD), portfolio count, experience",
+        "quote": "85 + NTD$bn ... 250+ portfolio companies ... 65 + years"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding date ambiguous: institutional lineage dates to 1959 (China Development); the private equity arm 'CDIB Capital' was established in 2006; the group was renamed '中華開發資本股份有限公司' in March 2017. Used 2006 (PE platform). AUM cited as 'over $2.3bn' (Global Venturing 2024) vs site figure of '85+ NTD$bn' (~US$2.7bn) — figures broadly consistent.",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "id": "tw-tgvest-capital",
+    "name": { "en": "TGVest Capital", "local": "台元創投" },
+    "aka": ["TGVest", "TGVest Asia Partners"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.tgvestcapital.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/tgvest-capital/",
+      "other": ["https://www.tgvestcapital.com/aboutus", "https://pitchbook.com/profiles/investor/343229-68"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "TriKnight Capital", "vintage_year": null, "size": { "raw": "undisclosed" } },
+        { "name": "TGVest Asia Partners II (Taiwan), L.P.", "vintage_year": null, "size": { "raw": "undisclosed (Taiwan Life committed US$32.3m)", "usd": null, "currency": "USD" } },
+        { "name": "TGVest Asia Partners II, L.P.", "vintage_year": null, "size": { "raw": "undisclosed (Taiwan Life committed US$32.3m)", "usd": null, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus", "series-b"],
+      "check_size": { "raw": "undisclosed", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "Japan"],
+      "sector_focus": ["hardware-semiconductor", "deeptech", "saas-enterprise", "healthtech"],
+      "thesis": "Asia-based technology-focused private equity fund specializing in growth capital, buyout and PIPE (pre-IPO / late-stage) investments, with a unique Taiwan-Japan cross-border value proposition. Sectors: semiconductor & hardware, advanced manufacturing, enterprise/B2B software, tech-enabled services."
+    },
+    "track_record": {
+      "portfolio_count": "9",
+      "notable_investments": [
+        { "company": "TXOne Networks", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "TOKIUM", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "DC Cheng (鄭敦謙)", "role": "Chairman" },
+      { "name": "Claire Lai", "role": "Managing Director & Partner" },
+      { "name": "Isabel Liu", "role": "Managing Director & Partner" },
+      { "name": "YK Yu", "role": "Managing Director & Partner" }
+    ],
+    "application": { "how_to_apply": "Institutional growth/PE investor; active management model — engages via direct sourcing in Taiwan and Japan.", "accepts_cold_inbound": null, "contact": "admin@tgvestcap.com" },
+    "tags": ["growth-equity", "buyout", "pre-ipo", "pipe", "taiwan-japan", "semiconductor", "late-stage"],
+    "summary": {
+      "en": "TGVest Capital is a Taipei-headquartered, Asia-based technology-focused private equity fund (founded 2016) specializing in growth capital, buyout and PIPE / pre-IPO investments across Taiwan and Japan, with emphasis on semiconductor, hardware, advanced manufacturing and enterprise software.",
+      "local": "台元創投是總部位於台北的亞洲科技導向私募股權基金(2016 年成立),專注於台灣與日本的成長資本、併購與 PIPE/上市前投資,聚焦半導體、硬體、先進製造與企業軟體。"
+    },
+    "sources": [
+      {
+        "url": "https://www.tgvestcapital.com/aboutus",
+        "title": "About Us | TGVest Capital",
+        "publisher": "TGVest Capital",
+        "accessed": "2026-06-02",
+        "supports": "strategy (growth capital, buyout, PIPE), Taiwan-Japan focus, key people, HQ",
+        "quote": "Growth Capital, Buyout, PIPE (Private Investment in Public Equity) ... Taiwan-Japan link is part of a unique value proposition ... DC Cheng (Chairman) ... Room 1311, 13F, No. 333, Sec. 1, Keelung Rd., Xinyi Dist., Taipei"
+      },
+      {
+        "url": "https://www.dealstreetasia.com/stories/taiwan-life-tgvest-capital-249040",
+        "title": "Taiwan Life commits $32.3m to TGVest Capital's technology-focused fund",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-02",
+        "supports": "LP commitment, technology focus",
+        "quote": "Taiwan Life commits $32.3m to TGVest Capital's technology-focused fund"
+      },
+      {
+        "url": "https://www.tgvestcapital.com/dc",
+        "title": "DC Cheng - TGVest Capital",
+        "publisher": "TGVest Capital",
+        "accessed": "2026-06-02",
+        "supports": "founding year, chairman experience",
+        "quote": "DC has over 30 years of tech investment experience ... establishing TGVest's strategic development direction"
+      },
+      {
+        "url": "https://pitchbook.com/profiles/investor/343229-68",
+        "title": "TGVest Capital Investor Profile",
+        "publisher": "PitchBook",
+        "accessed": "2026-06-02",
+        "supports": "fund names, portfolio count",
+        "quote": "TGVest currently manages TriKnight Capital, TGVest Asia Partners II (Taiwan), L.P. and TGVest Asia Partners II, L.P."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year cited as 2016 by search aggregation; site copyright shows 2023 but does not list founding year. Total AUM / individual fund sizes are not publicly disclosed (set null); only the Taiwan Life US$32.3m LP commitment to TGVest Asia Partners II is sourced. Local name '台元創投' is the commonly used Chinese rendering; primary site is English-only.",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "id": "tw-hq-asia-pacific",
+    "name": { "en": "H&Q Asia Pacific", "local": "漢鼎亞太" },
+    "aka": ["H&QAP", "Hambrecht & Quist Asia Pacific", "漢鼎"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 1985,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "offices": [
+      { "country": "United States", "city": "Palo Alto" },
+      { "country": "Taiwan", "city": "Taipei" }
+    ],
+    "website": "https://www.hqap.com/",
+    "links": {
+      "other": ["https://tracxn.com/d/private-equity/hqasiapacific/__MJIaJmj4JjiP9NyeiycUZbec8sECGmbCz9SuNbKAGh4", "https://privateequitylist.com/investor/hq-asia-pacific-ltd"]
+    },
+    "capital": {
+      "aum": { "raw": "over $2.7 billion in committed capital through 23 funds since inception (1985)", "usd": 2700000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus", "all"],
+      "check_size": { "raw": "undisclosed", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "United States", "Asia"],
+      "sector_focus": ["hardware-semiconductor", "deeptech", "consumer", "fintech"],
+      "thesis": "One of Asia's pioneer private equity firms, founded as a division of US investment bank Hambrecht & Quist. Conducts both later-stage control investments and earlier-stage venture capital across technology, technology manufacturing, consumer brands and financial services in the US and Taiwan."
+    },
+    "track_record": {
+      "portfolio_count": "87+"
+    },
+    "people": [
+      { "name": "Ta-lin Hsu (徐大麟)", "role": "Founder & Chairman" },
+      { "name": "Mark Hsu", "role": "Partner" }
+    ],
+    "team_size": 15,
+    "application": { "how_to_apply": "Institutional growth/PE & VC investor; engages via proprietary sourcing.", "accepts_cold_inbound": null },
+    "tags": ["growth-equity", "later-stage", "buyout", "control", "cross-border", "pioneer"],
+    "summary": {
+      "en": "H&Q Asia Pacific is a pioneering Asian private equity firm founded in 1985 by Dr. Ta-lin Hsu (originally a division of Hambrecht & Quist). It has managed over US$2.7bn across 23 funds, conducting both later-stage control investments and earlier-stage venture capital, primarily in the US and Taiwan.",
+      "local": "漢鼎亞太是亞洲私募股權的先驅,由徐大麟博士於 1985 年創立(前身為美國投資銀行 Hambrecht & Quist 的一個部門)。自成立以來透過 23 檔基金管理逾 27 億美元,從事後期控股投資與早期創投,主要聚焦美國與台灣。"
+    },
+    "sources": [
+      {
+        "url": "https://privateequitylist.com/investor/hq-asia-pacific-ltd",
+        "title": "H&Q Asia Pacific Ltd. | Private Equity List",
+        "publisher": "Private Equity List",
+        "accessed": "2026-06-02",
+        "supports": "founding year, AUM, number of funds, strategy, team, sectors, geography",
+        "quote": "managed an aggregate of over $2.7 billion in committed capital through 23 funds since its inception in 1985 ... conducts both later-stage control investments and earlier-stage venture capital investments ... team of 15 people, including 7 partners ... primarily invests in companies based in United States and Taiwan"
+      },
+      {
+        "url": "https://tracxn.com/d/private-equity/hqasiapacific/__MJIaJmj4JjiP9NyeiycUZbec8sECGmbCz9SuNbKAGh4",
+        "title": "H&Q Asia Pacific - Investor Profile",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "founding year, sectors, portfolio count, partners",
+        "quote": "Founded Year: 1985 ... Portfolio Sectors: Semiconductors, High Tech ... a portfolio of 87 companies ... Ta Lin Hsu, Mark Hsu"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "HQ is dual: founder Ta-lin Hsu and a major Taiwan focus, but Tracxn/PEList list the registered HQ as Palo Alto, US. Placed in the Taiwan bucket given its deep Taiwan roots and Taiwan investment focus; offices[] records both. AUM/fund-count figures are from secondary aggregators (the official hqap.com returned HTTP 403), hence medium confidence.",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "id": "tw-taiwania-capital",
+    "name": { "en": "Taiwania Capital", "local": "台杉投資" },
+    "aka": ["Taiwania", "台杉", "Taiwania Capital Management Corporation"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" },
+      { "country": "United States", "city": "Silicon Valley" }
+    ],
+    "website": "https://www.taiwaniacapital.com/en/",
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/Taiwania_Capital", "https://www.crunchbase.com/organization/taiwania-capital"]
+    },
+    "capital": {
+      "aum": { "raw": "US$1 billion (2024)", "usd": 1000000000, "currency": "USD" },
+      "funds": [
+        { "name": "Five funds (as of Aug 2021)", "vintage_year": null, "size": { "raw": "raised about US$490 million (NT$13.75 billion) for five funds", "usd": 490000000, "currency": "USD" } },
+        { "name": "Central and Eastern Europe (CEE) fund", "vintage_year": 2022, "size": { "raw": "$200 million fund to invest in Central and Eastern European companies", "usd": 200000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": "undisclosed", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "United States", "Central and Eastern Europe"],
+      "sector_focus": ["deeptech", "biotech", "hardware-semiconductor", "ai-ml", "healthtech"],
+      "thesis": "National Development Fund-sponsored fund-of-record connecting Taiwanese capital with global technology and biotech companies from seed to late-stage; flagship vehicle for scaling Taiwan deep-tech and life-science champions and bridging international (US, CEE) opportunities."
+    },
+    "track_record": {
+      "portfolio_count": "75+",
+      "notable_investments": [
+        { "company": "Ambiq Micro", "sector": "hardware-semiconductor", "outcome": "IPO" },
+        { "company": "C4 Therapeutics", "sector": "biotech", "outcome": "IPO" },
+        { "company": "Fractyl Health", "sector": "healthtech", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Lin Hsin-i (林信義)", "role": "Chairman (from 2024)" }
+    ],
+    "application": { "how_to_apply": "Institutional VC/growth investor; engages via proprietary and government-linked deal sourcing.", "accepts_cold_inbound": null },
+    "tags": ["growth", "late-stage", "national-development-fund", "deeptech", "biotech", "cross-border"],
+    "summary": {
+      "en": "Taiwania Capital is a Taiwan VC manager founded in 2017 and sponsored by the National Development Fund (40% ownership). With ~US$1bn AUM (2024) across multiple funds, it invests from seed to late-stage in technology and biotech, with notable IPO exits (Ambiq Micro, C4 Therapeutics, Fractyl Health) and a US$200M Central/Eastern Europe fund.",
+      "local": "台杉投資是 2017 年成立、由國發基金主導(持股 40%)的台灣創投管理公司。管理資產約 10 億美元(2024),橫跨種子到後期,聚焦科技與生技,已有多家 IPO 案例(Ambiq Micro、C4 Therapeutics、Fractyl Health),並設有 2 億美元的中東歐基金。"
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Taiwania_Capital",
+        "title": "Taiwania Capital - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "founding year, NDF sponsor %, AUM, fund sizes, stages, sectors, IPO exits, portfolio count, CEE fund",
+        "quote": "Founded: August 2017 ... National Development Fund 40% ownership ... AUM: US$1 billion (2024) ... raised about US$490 million (NT$13.75 billion) for five funds ... invested in over 75 companies ... launched a $200 million fund to invest in Central and Eastern European companies ... Ambiq Micro, C4 Therapeutics, Fractyl Health"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Taiwania spans seed→late-stage so it overlaps with tier1-vc / seed-early-vc segments; included here for its clear growth/late-stage mandate and late-stage IPO exits. Dedup later if duplicated by another segment file.",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "id": "tw-cathay-venture",
+    "name": { "en": "Cathay Venture Inc.", "local": "國泰創投" },
+    "aka": ["Cathay Venture", "國泰創業投資"],
+    "type": "cvc",
+    "subtypes": ["vc", "growth-equity"],
+    "status": "active",
+    "founded_year": 2003,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.cathayholdings.com/en/holdings/cathayventure",
+    "links": {
+      "other": ["https://pitchbook.com/profiles/investor/180366-22", "https://www.crunchbase.com/organization/cathay-venture"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "series-c-plus", "all"],
+      "check_size": { "raw": "undisclosed", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "Southeast Asia", "Global"],
+      "sector_focus": ["fintech", "ai-ml", "hardware-semiconductor", "biotech", "healthtech", "robotics"],
+      "thesis": "Evergreen corporate venture arm of Cathay Financial Holdings (Taiwan's largest financial holding by assets), investing across all stages from seed to pre-IPO in frontier technology, biotech/healthcare, fintech and overseas (Taiwan-linked, Southeast Asia) opportunities."
+    },
+    "track_record": {
+      "portfolio_count": "400+"
+    },
+    "application": { "how_to_apply": "Corporate venture investor; engages through Cathay FHC ecosystem and direct sourcing.", "accepts_cold_inbound": null },
+    "tags": ["cvc", "evergreen", "all-stage", "pre-ipo", "fintech", "cathay"],
+    "summary": {
+      "en": "Cathay Venture Inc. is the evergreen corporate venture arm of Cathay Financial Holdings (TSE:2882), founded in 2003. It invests across all stages from seed to pre-IPO in frontier tech, biotech/healthcare and fintech, with 400+ companies invested to date.",
+      "local": "國泰創投是國泰金控(TSE:2882)旗下的常青企業創投,2003 年 4 月成立,從種子到上市前全階段投資前沿科技、生技醫療與金融科技,迄今已投資逾 400 家公司。"
+    },
+    "sources": [
+      {
+        "url": "https://www.cathayholdings.com/en/holdings/cathayventure",
+        "title": "Cathay Venture Inc. - Home",
+        "publisher": "Cathay Financial Holdings",
+        "accessed": "2026-06-02",
+        "supports": "founding year, parent, stages, portfolio count, sectors",
+        "quote": "Founded in April 2003 ... member of Cathay Financial Holding Co., Ltd. (Cathay FHC) ... TSE:2882 ... from seed to pre-IPO ... we have invested in more than 400 companies"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "All-stage evergreen CVC; included in growth/late segment for its explicit seed-to-pre-IPO mandate. Also fits cvc-finance-industrial segment — dedup later. Total AUM / fund sizes not disclosed (evergreen balance-sheet investor), set null.",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "id": "tw-wi-harper-group",
+    "name": { "en": "WI Harper Group", "local": "美商中經合集團" },
+    "aka": ["WI Harper", "中經合", "WIH"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 1993,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "offices": [
+      { "country": "United States", "city": "San Francisco" },
+      { "country": "Taiwan", "city": "Taipei" },
+      { "country": "China", "city": "Beijing" }
+    ],
+    "website": "https://wiharper.com/about/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/wi-harper-group",
+      "crunchbase": "https://www.crunchbase.com/organization/wi-harper-group"
+    },
+    "capital": {
+      "aum": { "raw": "nearly US$1 billion in assets under management (across eight venture funds)", "usd": 1000000000, "currency": "USD" },
+      "funds": [
+        { "name": "WIH Fund VIII LP", "vintage_year": 2016, "size": { "raw": "Oversubscribed closing of WIH Fund VIII LP at US$175 million", "usd": 175000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth", "series-c-plus"],
+      "check_size": { "raw": "undisclosed", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "United States", "China", "Greater China"],
+      "sector_focus": ["ai-ml", "healthtech", "biotech", "consumer", "deeptech"],
+      "thesis": "Pioneer of cross-border (US–Greater China) venture investing since 1993, focusing on early and expansion-stage companies in high-tech / digital media (TMT) and healthcare. 350+ portfolio companies and 80+ IPO/M&A exits."
+    },
+    "track_record": {
+      "portfolio_count": "350+"
+    },
+    "people": [
+      { "name": "Peter Liu (劉宇環)", "role": "Founder & Chairman" }
+    ],
+    "team_size": "over 20 investment professionals",
+    "application": { "how_to_apply": "Cross-border venture investor; engages via San Francisco, Taipei and Beijing offices.", "accepts_cold_inbound": null },
+    "tags": ["cross-border", "expansion-stage", "growth", "tmt", "healthcare", "greater-china"],
+    "summary": {
+      "en": "WI Harper Group is a cross-border venture firm founded in 1993, one of the first to invest across the US and Greater China. It manages eight venture funds with nearly US$1bn AUM (Fund VIII closed at US$175M), focusing on early and expansion-stage TMT and healthcare, with 350+ portfolio companies and 80+ exits.",
+      "local": "美商中經合集團(WI Harper)是 1993 年成立的跨境創投,是最早橫跨美國與大中華區投資的創投之一。管理八檔創投基金、資產近 10 億美元(第八號基金募得 1.75 億美元),聚焦早期與擴張期的 TMT 與醫療,投資組合逾 350 家、退場逾 80 件。"
+    },
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/wi-harper-group-closes-eighth-venture-fund-at-us175m-300269732.html",
+        "title": "WI Harper Group Closes Eighth Venture Fund at US$175M",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-02",
+        "supports": "Fund VIII size, founding year, AUM, fund count, exits, founder",
+        "quote": "Oversubscribed closing of WIH Fund VIII LP at US$175 million ... Founded in 1993 ... total assets under management are now close to US$1 billion ... Over 300 investments with more than 80 exits ... Founder and Chairman: Peter Liu"
+      },
+      {
+        "url": "https://findit.org.tw/en/Investor/clJDZlluTWUvTFd3SXY3WjNNaEhhZz09",
+        "title": "Top Taiwan Venture Capital Group - FINDIT",
+        "publisher": "FINDIT (Taiwan MOEA)",
+        "accessed": "2026-06-02",
+        "supports": "AUM, portfolio count, exits, sector focus",
+        "quote": "Manages eight venture funds with nearly US$1 billion in assets ... over 350 portfolio companies and more than 80 successful IPO and M&A exits ... high-tech, digital media, healthcare"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "WI Harper is primarily early/expansion-stage; included for its expansion/growth-stage activity and large multi-fund AUM. Borderline with tier1-vc / seed-early-vc — dedup later. Portfolio count cited as '300+' (PR Newswire 2016) vs '350+' (FINDIT, later) — used latest. Taiwan/US dual presence; placed in Taiwan bucket per its Greater-China origin and Taipei office.",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "id": "tw-hotung-venture-capital",
+    "name": { "en": "Hotung Venture Capital", "local": "和通創業投資" },
+    "aka": ["Hotung", "和通", "Hotung Investment Holdings"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 1997,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.crunchbase.com/organization/hotung-venture-group",
+    "links": {
+      "other": ["https://pitchbook.com/profiles/investor/11212-66", "https://privateequitylist.com/investor/hotung-venture-capital-corp"]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth", "series-c-plus"],
+      "check_size": { "raw": "undisclosed", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "United States", "Asia"],
+      "sector_focus": ["hardware-semiconductor", "deeptech", "ai-ml", "saas-enterprise"],
+      "thesis": "SGX-listed Taiwan venture group (parent Hotung Investment Holdings, incorporated 1997) investing in start-up and expansion / late-stage ventures; one of Taiwan's most prolific in taking portfolio companies public, with ~200 IPOs across Nasdaq/NYSE and TWSE/TPEx."
+    },
+    "track_record": {
+      "portfolio_count": "around 200 successful IPOs",
+      "notable_investments": [
+        { "company": "Rivos", "sector": "hardware-semiconductor", "outcome": "active" },
+        { "company": "indie Microelectronics", "sector": "hardware-semiconductor", "outcome": "active" },
+        { "company": "iKala", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "application": { "how_to_apply": "Venture/growth investor; part of SGX-listed Hotung Investment Holdings.", "accepts_cold_inbound": null },
+    "tags": ["late-stage", "expansion-stage", "ipo-track-record", "sgx-listed", "semiconductor"],
+    "summary": {
+      "en": "Hotung Venture Capital is a Taiwan venture firm, subsidiary of SGX-listed Hotung Investment Holdings (incorporated 1997). It invests in start-up through expansion / late-stage ventures and is among Taiwan's most prolific at IPOs — around 200 listings including 38 on Nasdaq/NYSE and 100+ on TWSE/TPEx.",
+      "local": "和通創業投資是台灣創投公司,母公司為新加坡上市的和通投資控股(1997 年註冊)。投資範圍涵蓋初創到擴張/後期,是台灣最擅長協助被投公司上市的創投之一——約 200 件 IPO,其中 38 件登上 Nasdaq/NYSE、逾 100 件登上台灣證交所/櫃買中心。"
+    },
+    "sources": [
+      {
+        "url": "https://privateequitylist.com/investor/hotung-venture-capital-corp",
+        "title": "Hotung Venture Capital Corp. | Private Equity List",
+        "publisher": "Private Equity List",
+        "accessed": "2026-06-02",
+        "supports": "parent, incorporation, stage focus, IPO track record",
+        "quote": "subsidiary of Hotung Investment Holdings ... Hotung Investment Holdings Ltd was incorporated in March 1997 and has been listed on the Main Board of SGX-ST since August 1997 ... around 200 successful IPOs ... 38 companies to list on Nasdaq / NYSE and over 100 entities on the Taiwan Stock Exchange / Taiwan's OTC market"
+      },
+      {
+        "url": "https://pitchbook.com/profiles/investor/11212-66",
+        "title": "Hotung Venture Capital investment portfolio | PitchBook",
+        "publisher": "PitchBook",
+        "accessed": "2026-06-02",
+        "supports": "stage focus, notable investments",
+        "quote": "focusing on early and late stage ventures ... Rivos, Indie Microelectronics, and iKala"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "founded_year reflects parent Hotung Investment Holdings' 1997 incorporation; the operating VC entity was formed via merger of Hotung, Litung and Futung Venture Capital. Total AUM / fund sizes not publicly disclosed (set null). Covers early-through-late stage; included for its strong late-stage / pre-IPO activity. Borderline with other VC segments — dedup later.",
+    "last_updated": "2026-06-02"
+  },
+  {
+    "id": "tw-appworks",
+    "name": { "en": "AppWorks", "local": "之初創投" },
+    "aka": ["AppWorks Ventures", "之初", "AppWorks Funds"],
+    "type": "vc",
+    "subtypes": ["accelerator", "growth-equity"],
+    "status": "active",
+    "founded_year": 2009,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://appworks.tw/",
+    "links": {
+      "other": ["https://appworks.tw/appworks-fund-iii/", "https://techcrunch.com/2021/08/11/appworks-closes-third-fund-with-150m-for-taiwan-and-southeast-asia-startups/"]
+    },
+    "capital": {
+      "aum": { "raw": "AppWorks' total assets under management (AUM) to US$212 million", "usd": 212000000, "currency": "USD" },
+      "funds": [
+        { "name": "AppWorks Fund III", "vintage_year": 2021, "size": { "raw": "successfully raising US$150 million", "usd": 150000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "investments starting at US$2 million in Series A-C companies (plus seed-stage investments)", "usd_min": 2000000, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Taiwan", "Southeast Asia"],
+      "sector_focus": ["ai-ml", "web3-crypto", "saas-enterprise"],
+      "thesis": "Greater Southeast Asia venture firm investing from Seed to Series C, writing lead tickets in high-growth startups; three core themes are AI, blockchain and Southeast Asia (ABS). Growth-stage capability: leads with up to ~US$10M into Series C rounds."
+    },
+    "track_record": {
+      "portfolio_count": "40 deals targeted in Fund III"
+    },
+    "application": { "how_to_apply": "Apply to AppWorks Accelerator (free, no equity) or pitch the fund directly for investment.", "accepts_cold_inbound": true, "contact": "https://appworks.tw/" },
+    "tags": ["seed-to-series-c", "growth", "lead-investor", "ai", "blockchain", "southeast-asia"],
+    "summary": {
+      "en": "AppWorks is a Greater Southeast Asia venture firm (founded 2009) investing from Seed to Series C with lead tickets, themed on AI, blockchain and Southeast Asia. Fund III closed at US$150M (total AUM US$212M); for later rounds it writes checks starting at US$2M in Series A–C.",
+      "local": "之初創投(AppWorks)是 2009 年成立、橫跨大東南亞的創投,從種子到 C 輪領投,聚焦 AI、區塊鏈與東南亞三大主軸。第三號基金募得 1.5 億美元(總管理資產 2.12 億美元),在 A–C 輪可投出每筆 200 萬美元起跳的支票。"
+    },
+    "sources": [
+      {
+        "url": "https://appworks.tw/appworks-fund-iii/",
+        "title": "AppWorks Successfully Closes US$150 Million Fund III",
+        "publisher": "AppWorks",
+        "accessed": "2026-06-02",
+        "supports": "Fund III size, AUM, stage range, check size, deal count",
+        "quote": "AppWorks Fund III, successfully raising US$150 million ... AppWorks' total assets under management (AUM) to US$212 million ... roughly 40 deals, including 20 investments starting at US$2 million in Series A-C companies and 20 seed-stage investments ... three core themes of artificial intelligence, blockchain, and Southeast Asia (ABS)"
+      },
+      {
+        "url": "https://techcrunch.com/2021/08/11/appworks-closes-third-fund-with-150m-for-taiwan-and-southeast-asia-startups/",
+        "title": "AppWorks closes third fund with $150M for Taiwan and Southeast Asia startups",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund III size, geography, stage range",
+        "quote": "AppWorks closes third fund with $150M for Taiwan and Southeast Asia startups ... invests in deals ranging from Seed to Series C stages"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AppWorks is primarily a seed/early-stage fund + accelerator; included here ONLY for its growth-stage capability (lead tickets up to Series C, US$2M+ in Series A–C). It belongs more naturally to tier1-vc / seed-early-vc / accelerator segments — expect dedup. Light overlap intentional per segment-scope guidance.",
+    "last_updated": "2026-06-02"
+  }
+]

@@ -1,0 +1,877 @@
+[
+  {
+    "id": "jp-utec",
+    "name": {
+      "en": "UTEC - The University of Tokyo Edge Capital Partners",
+      "local": "株式会社東京大学エッジキャピタルパートナーズ"
+    },
+    "aka": ["UTEC", "University of Tokyo Edge Capital"],
+    "type": "vc",
+    "subtypes": ["university-vc"],
+    "status": "active",
+    "founded_year": 2004,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.ut-ec.co.jp/english/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/utec/",
+      "crunchbase": "https://www.crunchbase.com/organization/utec"
+    },
+    "capital": {
+      "aum": { "raw": "USD 1B+", "usd": 1000000000, "currency": "USD" },
+      "current_fund": { "raw": "JPY 47 billion (~USD 326M) — UTEC 6", "usd": 326000000, "currency": "JPY" },
+      "funds": [
+        { "name": "UTEC 6", "vintage_year": 2025, "size": { "raw": "JPY 47 billion (~USD 326M)", "usd": 326000000, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "USD 10M–20M per company (UTEC 6)", "usd_min": 10000000, "usd_max": 20000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan", "United States", "Singapore", "India", "Europe"],
+      "sector_focus": ["deeptech", "biotech", "healthtech", "ai-ml", "hardware-semiconductor"],
+      "thesis": "Asia's largest science & technology VC. Backs transformative deep tech in Healthcare & Life Sciences, IT/AI, and Physical Sciences & Engineering, supporting bold founders tackling global challenges."
+    },
+    "track_record": {
+      "portfolio_count": "150+",
+      "notable_investments": [
+        { "company": "PeptiDream", "sector": "biotech", "outcome": "IPO" },
+        { "company": "Mujin", "sector": "robotics", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "20 IPOs (cumulative)", "type": "IPO", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Tomotaka Goji", "role": "Managing Partner and CEO" },
+      { "name": "Noriaki Sakamoto", "role": "Managing Partner and COO" }
+    ],
+    "summary": {
+      "en": "UTEC is a Tokyo-based seed/early-stage deep-tech VC associated with the University of Tokyo, and one of Asia's largest science & technology VC firms with over USD 1 billion AUM across six funds.",
+      "local": "東京大学関連の科学技術・ディープテック特化VC。運用総額は10億ドル超でアジア最大級。"
+    },
+    "sources": [
+      {
+        "url": "https://www.ut-ec.co.jp/english/about_us/news/utec6/",
+        "title": "UTEC, One of Asia's Largest Science & Technology VC Firms, Raises USD 326M Fund and Surpasses $1B in AUM",
+        "publisher": "UTEC",
+        "accessed": "2026-06-02",
+        "supports": "fund size, AUM, founded year, check size, portfolio count, IPOs, sectors, partners",
+        "quote": "UTEC raised its sixth fund, UTEC 6, with a size of JPY 47 billion (approximately USD 326 million)... the firm has surpassed USD 1 billion in total assets under management (AUM)... UTEC 6 will make larger investments ranging from USD 10 million to 20 million per company."
+      },
+      {
+        "url": "https://www.ut-ec.co.jp/english/about_us/firm_profile/",
+        "title": "Firm Profile — UTEC",
+        "publisher": "UTEC",
+        "accessed": "2026-06-02",
+        "supports": "founded year 2004, Tokyo HQ, sectors, leadership",
+        "quote": "Founded: 2004 ... predominantly invests in three deep-tech sectors: a) Healthcare & Life Sciences, b) IT/AI, and c) Physical Sciences & Engineering."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "150+ companies, 20 IPOs, 22 M&A cited as of Nov 2025 per official UTEC 6 announcement.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "jp-beyond-next-ventures",
+    "name": {
+      "en": "Beyond Next Ventures",
+      "local": "Beyond Next Ventures株式会社"
+    },
+    "aka": ["BNV"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://beyondnextventures.com/en/",
+    "links": {
+      "other": ["https://beyondnextventures.com/"]
+    },
+    "capital": {
+      "aum": { "raw": "approx. JPY 48 billion (約480億円)", "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "JPY 25.7 billion (257億円) — Fund 3", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "Beyond Next Ventures Fund 3", "vintage_year": 2024, "size": { "raw": "JPY 25.7 billion (257億円)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Japan", "India"],
+      "sector_focus": ["deeptech", "biotech", "healthtech", "ai-ml", "agritech", "spacetech", "climate-energy"],
+      "thesis": "Deep-tech specialist VC and incubator connecting researchers with business talent. Invests in medical/healthcare, drug discovery/biotech, agri-food, digital (quantum/AI), space and climate tech in Japan and India."
+    },
+    "program": {
+      "format": "in-person",
+      "eligibility": "Researchers and deep-tech founders; runs the BRAVE acceleration program (since 2016) and BRAVE GLOBAL for Japanese researchers abroad."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "ispace", "sector": "spacetech", "outcome": "IPO" },
+        { "company": "Heartseed", "sector": "biotech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Tsuyoshi Ito", "role": "Founder CEO / Managing Partner" },
+      { "name": "Kengo Ueha", "role": "Managing Director / General Partner" },
+      { "name": "Jay Krishnan", "role": "Partner & Head of India Investment Groups" }
+    ],
+    "summary": {
+      "en": "Founded in 2014, Beyond Next Ventures is a deep-tech-specialist VC and accelerator operating in Japan and India, with total AUM of roughly JPY 48 billion. Its Fund 3 closed at JPY 25.7 billion in 2024.",
+      "local": "2014年設立のディープテック特化VC・アクセラレーター。日本とインドで活動し、運用総額約480億円。3号ファンドは257億円。"
+    },
+    "sources": [
+      {
+        "url": "https://sg.wantedly.com/companies/beyondnextventures/post_articles/916454",
+        "title": "Beyond Next Ventures、ディープテック特化3号ファンドを257億円でファイナルクローズ",
+        "publisher": "Beyond Next Ventures / Wantedly",
+        "accessed": "2026-06-02",
+        "supports": "Fund 3 size, total AUM, sectors, founding year, CEO",
+        "quote": "257億円でファイナルクローズ ... ファンド運用総額は約480億円にまで拡大 ... established August 2014 ... 代表 伊藤毅 (Tsuyoshi Ito)"
+      },
+      {
+        "url": "https://beyondnextventures.com/company/",
+        "title": "Beyond Next Ventures — Company",
+        "publisher": "Beyond Next Ventures",
+        "accessed": "2026-06-02",
+        "supports": "founded 2014, Japan since 2014, India since 2019, deep tech sectors",
+        "quote": "Since founding in 2014 ... healthcare, climate, agri-food, and AI ... Japan (primary market since 2014); India (active since 2019)."
+      },
+      {
+        "url": "https://beyondnextventures.com/team/",
+        "title": "Beyond Next Ventures — Team",
+        "publisher": "Beyond Next Ventures",
+        "accessed": "2026-06-02",
+        "supports": "founder/CEO and key people",
+        "quote": "Tsuyoshi Ito - Founder CEO / Managing Partner"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund 3 = JPY 25.7B (257億円); total AUM ~JPY 48B (約480億円). BRAVE program details (length/cohort/equity) not disclosed on fetched pages.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "jp-untrod-real-tech-fund",
+    "name": {
+      "en": "UntroD Capital Japan (Real Tech Fund)",
+      "local": "UntroD Capital Japan株式会社（リアルテックファンド）"
+    },
+    "aka": ["Real Tech Fund", "リアルテックファンド", "Real Tech Holdings (former)", "UntroD"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://untrod.inc/en/",
+    "links": {
+      "other": ["https://untrod.inc/en/solutions/real-tech-fund-japan/", "https://www.cbinsights.com/investor/real-tech-fund"]
+    },
+    "capital": {
+      "aum": { "raw": "total capital exceeding JPY 40 billion (managed across multiple funds)", "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "approx. JPY 12.5 billion — RealTech Fund 4 (RTF4), final close 2025", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "RealTech Fund 4 (RTF4)", "vintage_year": 2025, "size": { "raw": "approx. JPY 12.5 billion", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "biotech", "spacetech", "climate-energy", "agritech"],
+      "thesis": "Seed/early-stage deep-tech fund backing R&D-driven startups (~70% university/research-origin) solving global and human challenges across biotech, aerospace, electronics, new materials, energy and agri/marine."
+    },
+    "track_record": {
+      "portfolio_count": "80+",
+      "notable_investments": [
+        { "company": "Euglena", "sector": "biotech", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "summary": {
+      "en": "UntroD Capital Japan (formerly Real Tech Holdings), founded April 2015, runs the Real Tech Fund series — Japan's largest deep-tech-focused VC by some measures, with total capital over JPY 40 billion and 80+ seed/early deep-tech investments across 25+ prefectures.",
+      "local": "2015年4月設立。リアルテックファンドを運営するディープテック特化VC。運用総額40億円超、シード・アーリーのディープテック80社以上に投資。"
+    },
+    "sources": [
+      {
+        "url": "https://untrod.inc/en/solutions/real-tech-fund-japan/",
+        "title": "REAL TECH FUND Japan",
+        "publisher": "UntroD Capital Japan",
+        "accessed": "2026-06-02",
+        "supports": "founded April 2015, 80+ portfolio companies, Fund IV size, seed/early stage, sectors",
+        "quote": "Real Tech Fund Completes its Final Closing of Fund IV at Approximately 12.5 Billion Yen ... Since our establishment in April 2015, we have invested in and supported over 80 seed and early-stage deep tech startups ... over 25 Prefectures."
+      },
+      {
+        "url": "https://www.kandc.com/vc/comparing/realtech/",
+        "title": "UntroD Capital Japan株式会社 会社概要・投資スタイル",
+        "publisher": "Kreis & Company",
+        "accessed": "2026-06-02",
+        "supports": "founded 2015, total capital exceeding JPY 40 billion, sectors, ~70% university-origin",
+        "quote": "総額40億円超 ... Investment Areas include Biotechnology, aerospace, electronics, agriculture/marine, environment/energy, new materials ... approximately 70% being startups originating from universities and research institutions."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM phrased as 'total capital exceeding JPY 40 billion' across multiple funds in secondary source; RTF4 = ~JPY 12.5 billion per official site (final close 2025). Portfolio cited as 80+ on official page (85 in some secondary sources).",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "jp-abies-ventures",
+    "name": {
+      "en": "Abies Ventures",
+      "local": "Abies Ventures株式会社"
+    },
+    "aka": ["アビエス・ベンチャーズ"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://abies.vc/en/",
+    "links": {},
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Japan", "United States"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "robotics", "ai-ml"],
+      "thesis": "\"DEEP TECH for DEEP ISSUES.\" Invests in deep-tech startups with unique advanced science and engineering technologies, primarily in Japan and the United States, with an emphasis on data science and global expansion."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Pixie Dust Technologies", "sector": "deeptech", "outcome": "IPO" },
+        { "company": "Synspective", "sector": "spacetech", "outcome": "active" },
+        { "company": "Qubitcore", "sector": "deeptech", "outcome": "active" },
+        { "company": "LeBo Robotics", "sector": "robotics", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Fuyuki Yamaguchi", "role": "Managing Partner" },
+      { "name": "Sota Nagano", "role": "Managing Partner" },
+      { "name": "Taizo Son", "role": "Executive Advisor (Founder of Mistletoe)" }
+    ],
+    "summary": {
+      "en": "Founded in 2017, Abies Ventures is a deep-tech VC with offices in Tokyo and Kyoto, investing in startups with unique advanced science/engineering technologies primarily in Japan and the US.",
+      "local": "2017年設立のディープテック特化VC。東京・京都に拠点を置き、日米中心に先端科学技術スタートアップへ投資。"
+    },
+    "sources": [
+      {
+        "url": "https://abies.vc/en/",
+        "title": "Abies Ventures",
+        "publisher": "Abies Ventures",
+        "accessed": "2026-06-02",
+        "supports": "geo focus, thesis, portfolio, partners, Tokyo/Kyoto offices",
+        "quote": "DEEP TECH for DEEP ISSUES ... We invest in deep tech startups with unique technologies and high aspirations primarily in Japan and the United States ... Fuyuki Yamaguchi (Managing Partner), Sota Nagano (Managing Partner)."
+      },
+      {
+        "url": "https://ils.tokyo/contents/deep-tech-startups-vol2/",
+        "title": "ディープテックとは？日本経済の鍵を握るディープテックスタートアップの創出（後編）",
+        "publisher": "Innovation Leaders Summit",
+        "accessed": "2026-06-02",
+        "supports": "founded 2017",
+        "quote": "2017年にディープテックにフォーカスするベンチャーキャピタルAbiesVenturesを創業し、特に投資先のグローバル展開を目指して支援をおこなっている。"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund sizes / AUM / check size not disclosed on official site. Founding year (2017) from reputable secondary source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "jp-jic-vgi",
+    "name": {
+      "en": "JIC Venture Growth Investments",
+      "local": "JICベンチャー・グロース・インベストメンツ株式会社"
+    },
+    "aka": ["JIC VGI", "JIC-VGI"],
+    "type": "vc",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.j-vgi.co.jp/en",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/jic-venture-growth-investments"
+    },
+    "capital": {
+      "aum": { "raw": "VGF1 ~JPY 120B + VGF2 ~JPY 200B + OPF1 ~JPY 40B", "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "VGF2 — approx. JPY 200 billion", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "JIC Venture Growth Fund No. 1 (VGF1)", "vintage_year": null, "size": { "raw": "approx. JPY 120 billion", "usd": null, "currency": "JPY" } },
+        { "name": "JIC Venture Growth Fund No. 2 (VGF2)", "vintage_year": null, "size": { "raw": "approx. JPY 200 billion", "usd": null, "currency": "JPY" } },
+        { "name": "Open Innovation Fund No. 1 (OPF1)", "vintage_year": null, "size": { "raw": "approx. JPY 40 billion", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "robotics", "spacetech", "biotech", "climate-energy"],
+      "thesis": "Government-affiliated growth-stage venture fund (subsidiary of Japan Investment Corporation). Provides long-term, large-scale risk capital for deep tech across eight areas: Quantum, Climate Tech, Materials & Biotechnology, Robotics, Innovative Engineering, Energy, Space, and other highly innovative technologies."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Kyoto Fusioneering", "sector": "deeptech", "outcome": "active" },
+        { "company": "GITAI", "sector": "robotics", "outcome": "active" },
+        { "company": "TeraWatt Technology", "sector": "hardware-semiconductor", "outcome": "active" },
+        { "company": "QibiTech", "sector": "robotics", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Hideki Yarimizu", "role": "Representative / CEO" }
+    ],
+    "summary": {
+      "en": "Established July 2020 as the venture/growth arm of the government's Japan Investment Corporation, JIC VGI provides large-scale, late-stage capital for deep tech — quantum, robotics, space, materials, energy — via funds totaling several hundred billion yen.",
+      "local": "2020年7月設立、政府系JIC傘下のグロース投資VC。量子・ロボティクス・宇宙・材料など先端技術に大規模リスクマネーを供給。"
+    },
+    "sources": [
+      {
+        "url": "https://www.j-vgi.co.jp/en/our-investment",
+        "title": "Our investment — JIC VGI",
+        "publisher": "JIC Venture Growth Investments",
+        "accessed": "2026-06-02",
+        "supports": "fund sizes VGF1/VGF2/OPF1",
+        "quote": "VGF1: Fund size: Approximately 120 billion yen ... VGF2: Fund size: Approximately 200 billion yen ... OPF1: Fund size: Approximately 40 billion yen."
+      },
+      {
+        "url": "https://www.j-vgi.co.jp/en/company",
+        "title": "Company Overview — JIC VGI",
+        "publisher": "JIC Venture Growth Investments",
+        "accessed": "2026-06-02",
+        "supports": "founded July 2020, Tokyo HQ, CEO, JIC Group parent",
+        "quote": "July 2020 ... 1-3-1 Toranomon, Minato, Tokyo ... Hideki Yarimizu ... JIC VGI was established as a venture capital firm of the JIC Group."
+      },
+      {
+        "url": "https://www.j-vgi.co.jp/en/deeptech",
+        "title": "Deep Tech — JIC VGI",
+        "publisher": "JIC Venture Growth Investments",
+        "accessed": "2026-06-02",
+        "supports": "deep tech sector areas and notable portfolio companies",
+        "quote": "Quantum, Climate Tech, Materials & Biotechnology, Robotics, Innovative Engineering, Energy, Space ... TeraWatt Technology, GITAI, Kyoto Fusioneering, and QibiTech."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund sizes are approximate per official 'Our investment' page. Vintage years not stated on page.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "jp-utokyo-ipc",
+    "name": {
+      "en": "UTokyo Innovation Platform (UTokyo IPC)",
+      "local": "東京大学協創プラットフォーム開発株式会社"
+    },
+    "aka": ["UTokyo IPC", "東大IPC"],
+    "type": "vc",
+    "subtypes": ["university-vc", "incubator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.utokyo-ipc.co.jp/en/",
+    "links": {
+      "linkedin": "https://jp.linkedin.com/company/utokyo-ipc"
+    },
+    "capital": {
+      "aum": { "raw": "nearing JPY 60 billion across three funds (IPC Fund 1, AOI Fund 1, ASA Fund)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "AOI Fund 1", "vintage_year": 2020, "size": { "raw": "JPY ~24 billion (grown from ~2.8B in 2020 to 24B by 2021)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "robotics", "spacetech", "biotech", "ai-ml"],
+      "thesis": "University of Tokyo's wholly-owned VC, investing in academia-linked deep-tech startups across five fields: life science/healthcare/agritech, space, robotics & hardware, IT & services, and AI. Also runs incubation programs (1stRound, Startup Building Program)."
+    },
+    "people": [
+      { "name": "Kosuke Ueda", "role": "President and CEO" }
+    ],
+    "summary": {
+      "en": "Established January 2016 as the University of Tokyo's first 100%-owned VC, UTokyo IPC manages roughly JPY 60 billion across three funds, investing in academia-linked deep tech including robotics, hardware, space and AI.",
+      "local": "2016年1月設立、東京大学が100%出資する初のVC。3ファンドで運用総額約600億円。ロボティクス・ハードウェア・宇宙・AIなどアカデミア発ディープテックに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.utokyo-ipc.co.jp/en/company/",
+        "title": "Company — UTokyo IPC",
+        "publisher": "UTokyo IPC",
+        "accessed": "2026-06-02",
+        "supports": "founded Jan 2016, University of Tokyo ownership, CEO, sector fields",
+        "quote": "January 21, 2016 ... The University of Tokyo ... Kosuke Ueda (President and CEO) ... Life Science & Agritech, Space, Hardware & Material, IT & Software, and AI."
+      },
+      {
+        "url": "https://www.utokyo-ipc.co.jp/en/investment/",
+        "title": "Investment — UTokyo IPC",
+        "publisher": "UTokyo IPC",
+        "accessed": "2026-06-02",
+        "supports": "AUM nearing JPY 60 billion across three funds; five deep tech fields",
+        "quote": "three funds - IPC Fund 1, AOI Fund 1 and ASA Fund - with a combined asset size of nearing JPY 60 billion ... five major fields: (1) life science, healthcare and agritech, (2) space, (3) robotics and hardware, (4) IT and services, (5) artificial intelligence (AI)."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Combined fund size 'nearing JPY 60 billion' per official investment page; AOI Fund 1 growth figures from same source. Company capital (¥90M) is corporate capitalization, not AUM.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "jp-universal-materials-incubator",
+    "name": {
+      "en": "Universal Materials Incubator",
+      "local": "ユニバーサルマテリアルズインキュベーター株式会社"
+    },
+    "aka": ["UMI"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.umi.co.jp/en/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/universal-materials-incubator-b260"
+    },
+    "capital": {
+      "aum": { "raw": "JPY 33.6 billion across 5 funds (as of 30 Jun 2023)", "usd": null, "currency": "JPY" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "climate-energy"],
+      "thesis": "Specialist deep-tech VC for the materials and chemical industries. Makes equity investments in innovative materials, technologies and chemical processes, connecting chemical/material companies with downstream user industries."
+    },
+    "people": [
+      { "name": "Shosuke Kiba", "role": "Representative Director and Managing Partner" }
+    ],
+    "summary": {
+      "en": "Founded October 2015, Universal Materials Incubator (UMI) is a Tokyo-based deep-tech VC specializing in early-stage materials and chemicals startups, with AUM of about JPY 33.6 billion across five funds (mid-2023). Backed by the Development Bank of Japan and the chemicals/materials new-technology fund.",
+      "local": "2015年10月設立。化学・材料分野に特化したディープテックVC。5ファンドで運用総額約336億円（2023年6月時点）。"
+    },
+    "sources": [
+      {
+        "url": "https://www.umi.co.jp/en/company/",
+        "title": "Company — Universal Materials Incubator",
+        "publisher": "Universal Materials Incubator",
+        "accessed": "2026-06-02",
+        "supports": "founded Oct 2015, Tokyo HQ, representative, materials/chemicals focus, backers",
+        "quote": "October 6, 2015 ... Shosuke Kiba (Representative Director and Managing Partner) ... the materials and chemical industries ... Development Fund for New Technologies of Chemicals and Materials; Development Bank of Japan Inc."
+      },
+      {
+        "url": "https://tracxn.com/d/venture-capital/universal-materials-incubator/__QaMhwgpRUbpaxcD9RIp8S4zZoMzT9u5z8CIlwwDpJ58",
+        "title": "Universal Materials Incubator — Investor Profile",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "AUM JPY 33.6 billion across 5 funds (as of 30 Jun 2023)",
+        "quote": "As of data from June 30, 2023, UMI has an Assets Under Management (AUM) of ¥33,600,000,000 across 5 funds."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM figure (JPY 33.6B / 5 funds, Jun 2023) from secondary source (Tracxn); official site confirms founding, focus and backers but not AUM. Earlier 2019 figure was JPY 16.5B.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "jp-xvc",
+    "name": {
+      "en": "XVC",
+      "local": "XVC有限責任事業組合"
+    },
+    "aka": ["X-VC", "X-DOJO"],
+    "type": "accelerator",
+    "subtypes": ["vc", "venture-studio"],
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://x-vc.jp/",
+    "links": {},
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "robotics"],
+      "thesis": "Y Combinator-style accelerator/VC supporting DeepTech and HardTech startups from the pre-seed and seed stages — helping with business model development, technology development, partnering and fundraising in domains where commercialization is difficult."
+    },
+    "program": {
+      "format": "hybrid",
+      "location": "Tokyo (Nihonbashi)",
+      "eligibility": "Pre-seed/seed DeepTech and HardTech founders; runs the X-DOJO accelerator (cohorts since 2021)."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Thermalytica", "sector": "deeptech", "outcome": "active" },
+        { "company": "Ubie", "sector": "healthtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Shingo Tsuda", "role": "Co-founder (INDEE Japan)" },
+      { "name": "Masato Iino", "role": "Co-founder (Scaleout)" },
+      { "name": "Yasuchika Wakayama", "role": "Co-founder (Breakpoint)" }
+    ],
+    "summary": {
+      "en": "XVC is a Tokyo-based, Y Combinator-style accelerator and pre-seed/seed VC for DeepTech and HardTech startups, formed as a joint venture of INDEE Japan, Scaleout and Breakpoint. It runs the X-DOJO acceleration program.",
+      "local": "ディープテック・ハードテックをプレシードから支援するYC型アクセラレーター／VC。INDEE Japan・Scaleout・BreakpointのJV。X-DOJOを運営。"
+    },
+    "sources": [
+      {
+        "url": "https://x-vc.jp/",
+        "title": "ディープテック系スタートアップをプレシードから支援するVC｜XVC",
+        "publisher": "XVC",
+        "accessed": "2026-06-02",
+        "supports": "Tokyo HQ, pre-seed/seed deep tech/hard tech focus, founders, parent companies, X-DOJO program, portfolio",
+        "quote": "DeepTech, HardTech等と呼ばれる事業化が困難な領域 ... 東京都中央区日本橋箱崎町１番２号 ... INDEE Japan, Scaleout, Breakpoint ... X-DOJO ... Thermalytica, Ubie."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year, fund size, investment amount and equity terms not disclosed on official site. X-DOJO cohorts run since 2021.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "jp-deepcore",
+    "name": {
+      "en": "DEEPCORE",
+      "local": "株式会社ディープコア"
+    },
+    "aka": ["ディープコア"],
+    "type": "incubator",
+    "subtypes": ["vc", "cvc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://deepcore.jp/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/deepcore"
+    },
+    "capital": {
+      "aum": { "raw": "JPY ~18.3 billion total across two funds", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "DEEPCORE TOKYO I", "vintage_year": 2018, "size": { "raw": "max JPY 6 billion (60億円)", "usd": null, "currency": "JPY" } },
+        { "name": "DEEPCORE TOKYO II", "vintage_year": 2023, "size": { "raw": "JPY 11.7 billion", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["ai-ml", "deeptech", "robotics"],
+      "thesis": "SoftBank Group's AI-focused incubator and VC, developing entrepreneurs in the deep-learning/AI field and supporting seed-to-Series A startups across AI, generative AI, robotics and deep tech. Operates the KERNEL community/co-working space in Hongo, Tokyo."
+    },
+    "program": {
+      "format": "in-person",
+      "location": "KERNEL co-working space, Hongo, Bunkyo-ku, Tokyo",
+      "eligibility": "Early-stage AI / deep-learning founders."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "VAAK", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Katsumasa Niki", "role": "CEO / Representative Director" }
+    ],
+    "summary": {
+      "en": "Founded in 2017 as a wholly-owned subsidiary of SoftBank Group, DEEPCORE is a Tokyo AI/deep-tech incubator and VC. Its first fund (DEEPCORE TOKYO I) was sized up to JPY 6 billion and its second (DEEPCORE TOKYO II, 2023) at JPY 11.7 billion.",
+      "local": "2017年設立、ソフトバンクG完全子会社のAI・ディープテック特化インキュベーター／VC。1号ファンドは最大60億円、2号（2023年）は117億円。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000005.000031481.html",
+        "title": "DEEPCORE、最大60億円規模のAIスタートアップ特化ファンドを設立",
+        "publisher": "DEEPCORE / PR TIMES",
+        "accessed": "2026-06-02",
+        "supports": "Fund 1 size (max JPY 6 billion), AI focus, first investment VAAK",
+        "quote": "最大60億円規模のAIスタートアップ特化ファンドを設立 ... 第1号案件はVAAKに出資"
+      },
+      {
+        "url": "https://sogyotecho.jp/deepcore-niki-interview/",
+        "title": "ディープコア 仁木 勝雅 インタビュー",
+        "publisher": "創業手帳",
+        "accessed": "2026-06-02",
+        "supports": "founded 2017, SoftBank subsidiary, CEO Katsumasa Niki",
+        "quote": "established in 2017 ... CEO Katsumasa Niki ... wholly-owned subsidiary of SoftBank Group Corp."
+      },
+      {
+        "url": "https://www.openfor.co/company/deepcore-cf921747-5297-4235-92ac-066917a932e9",
+        "title": "DEEPCORE — company profile",
+        "publisher": "Openfor",
+        "accessed": "2026-06-02",
+        "supports": "Fund 1 JPY 5.6B, Fund 2 JPY 11.7B, total JPY 18.3B AUM",
+        "quote": "DEEPCORE TOKYO I ... fund size of JPY 5.6 Billion ... DEEPCORE TOKYO II ... fund size of JPY 11.7 Billion ... over JPY 18.3 billion in total funds under management."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund 1 announced as 'max JPY 6 billion' (official PR TIMES); secondary source reports actual close at JPY 5.6 billion. Fund 2 JPY 11.7 billion (2023) and total AUM JPY 18.3B from secondary source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "jp-drone-fund",
+    "name": {
+      "en": "DRONE FUND",
+      "local": "DRONE FUND株式会社"
+    },
+    "aka": ["ドローンファンド"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://dronefund.vc/en/",
+    "links": {
+      "other": ["https://initial.inc/investors/V10336"]
+    },
+    "capital": {
+      "aum": { "raw": "JPY 17.3 billion total across three funds", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "DRONE FUND 1", "vintage_year": 2017, "size": { "raw": "JPY 1.59 billion", "usd": null, "currency": "JPY" } },
+        { "name": "DRONE FUND 3", "vintage_year": 2020, "size": { "raw": "JPY 10.519 billion", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["robotics", "hardware-semiconductor", "mobility", "spacetech"],
+      "thesis": "The world's only VC dedicated exclusively to the drone and air-mobility space, expanding into ground- and aquatic-based robotics: autonomous robots, infrastructure inspection, personal air mobility and transportation. Provides capital, operational support, collaborative planning and regulatory assistance."
+    },
+    "track_record": {
+      "portfolio_count": "80+",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Kotaro Chiba", "role": "Co-Founder / Representative Partner" },
+      { "name": "Soki Ohmae", "role": "Co-Founder / Representative Partner" }
+    ],
+    "summary": {
+      "en": "Launched in June 2017 by Kotaro Chiba and Soki Ohmae, DRONE FUND is Japan's first (and described as the world's only) VC specialized in drones, air mobility and robotics, with about JPY 17.3 billion AUM across three funds and 80+ portfolio companies.",
+      "local": "2017年6月、千葉功太郎・大前創希が設立した日本初のドローン・エアモビリティ専門VC。3ファンドで運用総額約173億円、投資先80社以上。"
+    },
+    "sources": [
+      {
+        "url": "https://dronefund.vc/en/about/",
+        "title": "About — DRONE FUND",
+        "publisher": "DRONE FUND",
+        "accessed": "2026-06-02",
+        "supports": "founded 2017, Fund 1 size, Fund 3 size, total AUM, founders, sector focus",
+        "quote": "I launched DRONE FUND in 2017 ... Fund 1: 1.59 billion yen ... Fund 3: 10.519 billion yen ... Total across three funds: 17.3 billion yen ... Kotaro Chiba, Co-Founder; Soki Ohmae, Co-Founder."
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000074.000026186.html",
+        "title": "DRONE FUNDが設立7周年",
+        "publisher": "DRONE FUND / PR TIMES",
+        "accessed": "2026-06-02",
+        "supports": "fund establishment dates, 80+ portfolio companies, founders",
+        "quote": "2017年6月（1号）、2018年8月（2号）、2020年5月（3号）... 1号・2号・3号ファンドを通じて、国内外の80社以上のポートフォリオを形成しています ... 代表パートナー： 千葉 功太郎、大前 創希"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund 2 size not clearly stated on official about page (total of three funds = JPY 17.3B; Fund 1 = 1.59B, Fund 3 = 10.519B imply Fund 2 ≈ 5.2B). Portfolio count cited 80+ (some 2024 sources).",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "jp-monozukuri-ventures",
+    "name": {
+      "en": "Monozukuri Ventures",
+      "local": "Monozukuri Ventures株式会社"
+    },
+    "aka": ["MZV", "Makers Boot Camp (predecessor)"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Kyoto",
+    "website": "https://monozukuri.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/monozukuriventures",
+      "crunchbase": "https://www.crunchbase.com/organization/makers-boot-camp"
+    },
+    "offices": [
+      { "country": "Japan", "city": "Kyoto" },
+      { "country": "United States", "city": "New York" },
+      { "country": "Canada", "city": "Toronto" }
+    ],
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "USD 100K–300K initial, follow-on up to USD 1M cumulative", "usd_min": 100000, "usd_max": 1000000 },
+      "geo_focus": ["Japan", "United States", "Singapore"],
+      "sector_focus": ["hardware-semiconductor", "robotics", "climate-energy", "spacetech", "healthtech"],
+      "thesis": "Hard-tech VC focused on hardware startups (robotics, AI, clean energy, wearables, space tech, IoT, smart home), investing in 10-15 hardware startups per year and providing dedicated prototyping and mass-production support."
+    },
+    "track_record": {
+      "portfolio_count": "57",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Narimasa Makino", "role": "CEO" }
+    ],
+    "summary": {
+      "en": "Monozukuri Ventures (formed from Makers Boot Camp and FabFoundry) is a hard-tech VC headquartered in Kyoto and New York, investing USD 100K–300K initial checks in 10-15 hardware startups per year. It launched its first fund in 2017 and second in 2021, with 57 hardware portfolio companies (26 Japan / 30 US / 1 Singapore).",
+      "local": "京都・NY拠点のハードテック特化VC。年10〜15社のハードウェアスタートアップに初回1000〜3000万円規模で投資。投資先57社。"
+    },
+    "sources": [
+      {
+        "url": "https://monozukuri.vc/final-close-monozukuri-ventures-second-fund/",
+        "title": "Monozukuri Ventures hits Final Close of its Second Fund",
+        "publisher": "Monozukuri Ventures",
+        "accessed": "2026-06-02",
+        "supports": "57 portfolio companies, fund launch years, CEO, HQ cities",
+        "quote": "a total of 57 hardware startups (26 in Japan, 30 in the US, and 1 in Singapore) ... launched the first Fund in the summer of 2017 and the second in 2021 ... CEO: Narimasa Makino ... HQs: Kyoto, Japan, and New York, USA."
+      },
+      {
+        "url": "https://monozukuri.vc/services/",
+        "title": "Services — Monozukuri Ventures",
+        "publisher": "Monozukuri Ventures",
+        "accessed": "2026-06-02",
+        "supports": "check size, 10-15 startups/year, hardware focus areas",
+        "quote": "invests in 10-15 hardware startups per year, with a typical check ranging from USD 100K to 300K at first, with a chance to follow investment up to USD 1M accumulate ... robotics, AI, clean energy, wearables, space tech, IoT."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Specific fund sizes (Fund 1 / Fund 2 totals) not disclosed publicly. Check size and portfolio count from official pages.",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "jp-15th-rock-ventures",
+    "name": {
+      "en": "15th Rock Ventures",
+      "local": "15th Rock Ventures"
+    },
+    "aka": ["15th Rock"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://en.15th-rock.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/15th-rock"
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "geo_focus": ["Japan", "United States"],
+      "sector_focus": ["robotics", "hardware-semiconductor", "deeptech", "biotech"],
+      "thesis": "Deep-tech VC investing in 'Human Augmentation' and IT — robotics, electronics, AR/VR, brain-machine interface and biotechnology — with seed to pre-IPO investments primarily across Japan and the United States."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Takeshi Minamoto", "role": "Co-founder" },
+      { "name": "Tetsu Nakajima", "role": "Co-founder" }
+    ],
+    "summary": {
+      "en": "Established July 2019 by Takeshi Minamoto and Tetsu Nakajima, 15th Rock Ventures is a Tokyo-based deep-tech VC focused on human augmentation, robotics, electronics, AR/VR, brain-machine interface and biotech across Japan and the US.",
+      "local": "2019年7月設立のディープテックVC。ロボティクス・電子・AR/VR・BMI・バイオなど『人間拡張』領域に日米で投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.cbinsights.com/investor/15th-rock-ventures",
+        "title": "15th Rock Ventures — Investor Profile",
+        "publisher": "CB Insights",
+        "accessed": "2026-06-02",
+        "supports": "founded July 2019, founders, sector focus, Tokyo HQ",
+        "quote": "15th Rock, headquartered in Tokyo, Japan, is a venture capital firm established in July 2019 by Takeshi Minamoto and Tetsu Nakajima that invests in transformative sectors including robotics, electronics, AR/VR, brain machine interface, biotechnology, and IT."
+      },
+      {
+        "url": "https://signal.nfx.com/firms/15th-rock-ventures",
+        "title": "15th Rock Ventures — Venture Capital Firm",
+        "publisher": "Signal (NFX)",
+        "accessed": "2026-06-02",
+        "supports": "human augmentation focus, seed/pre-IPO, Japan/US",
+        "quote": "15th Rock Ventures invests in Human Augmentation and IT fields and focuses on seed and pre-IPO investments in sectors such as robotics, electronics, AR/VR, brain-machine interface, biotechnology, and IT."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund sizes obfuscated/undisclosed on Crunchbase and PitchBook. Two funds raised (amounts not public).",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  },
+  {
+    "id": "jp-global-brain",
+    "name": {
+      "en": "Global Brain",
+      "local": "株式会社グローバル・ブレイン"
+    },
+    "aka": ["GB", "グローバル・ブレイン"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 1998,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://globalbrains.com/",
+    "links": {
+      "linkedin": "https://jp.linkedin.com/company/globalbrain"
+    },
+    "capital": {
+      "aum": { "raw": "JPY 400B+ (運用総額)", "usd": null, "currency": "JPY" }
+    },
+    "strategy": {
+      "stages": ["all"],
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["generalist", "deeptech", "hardware-semiconductor", "ai-ml", "climate-energy"],
+      "thesis": "Large multi-stage generalist VC that also runs a dedicated deep-tech arm — the Strategic Technology Investment (STI) team — targeting technologies expected to form markets within 5-10 years: quantum technology, silicon photonics, next-generation batteries and metamaterials."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "QunaSys", "sector": "deeptech", "outcome": "active" },
+        { "company": "SiLC Technologies", "sector": "hardware-semiconductor", "outcome": "active" },
+        { "company": "Metalenz", "sector": "hardware-semiconductor", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Keiji Niitsu", "role": "Leader, Strategic Technology Investment (STI) team" }
+    ],
+    "summary": {
+      "en": "Global Brain is a large Tokyo-based generalist VC (JPY 400B+ AUM) that operates a dedicated deep-tech investment team (Strategic Technology Investment / STI) focused on quantum technology, silicon photonics, next-gen batteries and metamaterials over a 5-10 year horizon.",
+      "local": "運用総額400億円超の大手汎用VC。量子・シリコンフォトニクス・次世代電池・メタマテリアル等を狙う専門ディープテックチーム（STI）を持つ。"
+    },
+    "sources": [
+      {
+        "url": "https://globalbrains.com/funds",
+        "title": "Funds — Global Brain",
+        "publisher": "Global Brain",
+        "accessed": "2026-06-02",
+        "supports": "total AUM JPY 400B+",
+        "quote": "Total AUM (運用総額): ¥400B+"
+      },
+      {
+        "url": "https://universe.globalbrains.com/posts/why-global-brain-has-created-a-team-dedicated-to-discovering-the-deeptech-of-the-next-5-10-years",
+        "title": "Why Global Brain has created a team dedicated to discovering the deep tech of the next 5-10 years",
+        "publisher": "Global Brain (GB Universe)",
+        "accessed": "2026-06-02",
+        "supports": "deep tech STI team focus areas and investments",
+        "quote": "量子技術やシリコンフォトニクス、次世代太陽電池/蓄電池、メタマテリアル ... SiLC Technologies ... QunaSys ... Metalenz ... Caelux"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Generalist multi-stage VC included for its dedicated deep-tech (STI) arm, not a pure deep-tech specialist. Founded year 1998 is widely reported but not on the fetched pages (AUM and deep-tech focus are sourced).",
+    "last_updated": "2026-06-02",
+    "researched_by": "deeptech-hardware-vc"
+  }
+]

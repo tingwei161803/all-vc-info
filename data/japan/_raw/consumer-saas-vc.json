@@ -1,0 +1,502 @@
+[
+  {
+    "id": "jp-all-star-saas-fund",
+    "name": { "en": "ALL STAR SAAS FUND", "local": "株式会社ALL STAR SAAS FUND" },
+    "aka": ["All Star SaaS Fund"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://allstarsaas.com/",
+    "links": {
+      "twitter": "https://twitter.com/djtokyo",
+      "other": ["https://blog.allstarsaas.com/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "約157億円 (Fund III)", "usd": 110000000, "currency": "JPY" },
+      "funds": [
+        { "name": "ALL STAR SAAS FUND THREE (3号ファンド)", "vintage_year": 2023, "size": { "raw": "約157億円", "usd": 110000000, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["japan"],
+      "sector_focus": ["saas-enterprise"],
+      "thesis": "Specialist fund investing exclusively in B2B SaaS startups from seed to growth stage, differentiating through 'people'-centric support: recruiting (via a large SaaS talent network), enablement workshops, and leadership development."
+    },
+    "track_record": {
+      "portfolio_count": "40+",
+      "notable_investments": [
+        { "company": "SmartHR", "sector": "HR SaaS", "outcome": "unicorn" },
+        { "company": "ANDPAD", "sector": "construction SaaS", "outcome": "active" },
+        { "company": "HRBrain", "sector": "HR SaaS", "outcome": "active" },
+        { "company": "Loglass", "sector": "finance SaaS", "outcome": "active" },
+        { "company": "hacomono", "sector": "fitness/wellness SaaS", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Hiro Maeda (前田 紘典 / 前田ヒロ)", "role": "Managing Partner" },
+      { "name": "Masayuki Minato (湊 雅之)", "role": "Senior Partner" }
+    ],
+    "team_size": "~12",
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Tokyo-based VC specializing exclusively in B2B SaaS, operated under the BEENEXT umbrella. Closed its third fund (ALL STAR SAAS FUND THREE) at approximately JPY 15.7 billion in 2023. Has backed 40+ SaaS companies including unicorn SmartHR.",
+      "local": "SaaSベンチャーに特化して投資と支援をする独立系VC。2023年に3号ファンドを総額約157億円でクローズ。SmartHRなど40社以上のSaaSスタートアップに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://allstarsaas.com/ALLSTARSAASFUNDTHREE",
+        "title": "SaaS特化型ファンド ALL STAR SAAS FUND、3号ファンドを総額約157億円でクローズ",
+        "publisher": "ALL STAR SAAS FUND",
+        "accessed": "2026-06-02",
+        "supports": "Fund III size, SaaS-specialist focus",
+        "quote": "3号ファンドを総額約157億円でクローズ"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000011.000060027.html",
+        "title": "SaaS特化型ファンド ALL STAR SAAS FUND、3号ファンドを総額約157億円でクローズ",
+        "publisher": "BEENEXT Capital Management / PR TIMES",
+        "accessed": "2026-06-02",
+        "supports": "Fund III closed Aug 2023, 40+ SaaS portfolio, managing partner",
+        "quote": "Size: 約157億円 ... Closed: August 30, 2023 ... Portfolio: Over 40 SaaS companies invested across seed to growth-stage ... Managing Partner: 前田紘典"
+      },
+      {
+        "url": "https://www.kandc.com/vc/comparing/allstar/",
+        "title": "株式会社ALL STAR SAAS FUND 会社概要・投資スタイル",
+        "publisher": "Kreis & Company (クライス＆カンパニー)",
+        "accessed": "2026-06-02",
+        "supports": "Independent VC, seed to pre-IPO, ~7 deals/year, partners, portfolio, team size",
+        "quote": "Latest Fund: 3号ファンド 157億円 ... Stages: Seed to pre-IPO ... Managing Partner: 前田 ヒロ (Hiro Maeda) ... Senior Partner: 湊 雅之 (Masayuki Minato) ... Notable Portfolio Companies: SmartHR, ANDPAD, HRBrain, POL, Karakuri, A1A, Loglass, hacomono ... Company Size: Approximately 12 employees"
+      },
+      {
+        "url": "https://hiromaeda.com/",
+        "title": "前田ヒロ - ALL STAR SAAS FUND Managing Partner",
+        "publisher": "Hiro Maeda (personal site)",
+        "accessed": "2026-06-02",
+        "supports": "Founding year ~2019, Tokyo HQ, managing partner identity"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I and Fund II sizes not disclosed in available sources; only Fund III (約157億円) is confirmed. Founding year reported as 2019 by secondary sources; SaaS investing under the broader BEENEXT umbrella began around 2015. USD ~$110M for Fund III per official PR (約157億円 / $110M).",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "jp-one-capital",
+    "name": { "en": "One Capital", "local": "One Capital株式会社" },
+    "aka": ["One Capital, Inc."],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://onecapital.jp/",
+    "links": {
+      "twitter": "https://twitter.com/asada23",
+      "crunchbase": "https://initial.inc/investors/V14502"
+    },
+    "capital": {
+      "funds": [
+        { "name": "One Capital 1号投資事業有限責任組合 (Fund 1)", "vintage_year": 2020, "size": { "raw": "約50億円", "usd": 47000000, "currency": "JPY" } },
+        { "name": "One Capital 2号ファンド (Fund 2)", "vintage_year": 2023, "size": { "raw": "170億円（最終200億円程度を見込む）", "usd": 110000000, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "pre-seed", "series-a"],
+      "check_size": { "raw": "5,000万円〜5億円", "usd_min": 350000, "usd_max": 3500000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["japan"],
+      "sector_focus": ["saas-enterprise", "consumer", "healthtech", "fintech"],
+      "thesis": "SaaS-focused independent VC investing ~80% in B2B SaaS and ~20% in healthcare/fintech/consumer subscription ('Future of Work'). Differentiates by also offering DX advisory to its LPs and building its own SaaS products."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Knowledge Work (ナレッジワーク)", "sector": "enablement SaaS", "outcome": "active" },
+        { "company": "PIVOT", "sector": "media", "outcome": "active" },
+        { "company": "oVice", "sector": "virtual office SaaS", "outcome": "active" },
+        { "company": "Helpfeel", "sector": "SaaS", "outcome": "active" },
+        { "company": "CRISP", "sector": "consumer/food", "outcome": "active" },
+        { "company": "ROXX", "sector": "HR SaaS", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Shinji Asada (浅田 慎二)", "role": "Representative Director / CEO / General Partner" },
+      { "name": "Wataru Sakakura (坂倉 亘)", "role": "COO / General Partner" },
+      { "name": "Yukako Yokota (横田 有香子)", "role": "Partner (healthcare)" }
+    ],
+    "team_size": "~10",
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Tokyo-based independent VC founded in 2020 by ex-Salesforce Ventures investor Shinji Asada, specializing in B2B SaaS (~80%) plus healthcare and fintech. Fund II reached JPY 17 billion (final close ~JPY 20 billion).",
+      "local": "SaaSに特化した独立系VC。元Salesforce Venturesの浅田慎二が2020年に設立。約8割をB2B SaaS、残り2割をヘルスケア・フィンテックに投資。2号ファンドは170億円に到達（最終200億円程度を見込む）。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000030.000061145.html",
+        "title": "独立系VCのOne Capitalの2号ファンドの調達金額が170億円に到達。最終的な運用総額は200億円を見込む。",
+        "publisher": "One Capital / PR TIMES",
+        "accessed": "2026-06-02",
+        "supports": "Founded April 2020, Tokyo HQ, Fund 2 size, CEO, B2B SaaS focus",
+        "quote": "Founded: 2020年4月 ... Headquarters: 東京都港区港南2-16-1 品川East One Tower 7F ... CEO: 浅田慎二 ... Fund 2: 2024年5月末時点で170億円(200億円程度でファイナルクローズ予定)"
+      },
+      {
+        "url": "https://thebridge.jp/2020/07/one-capital-forms-1st-fund",
+        "title": "元Salesforce Ventures浅田氏ら、One Capitalを設立——50億円規模となる1号ファンドを組成",
+        "publisher": "The Bridge",
+        "accessed": "2026-06-02",
+        "supports": "Fund 1 ~JPY 5 billion, founder ex-Salesforce Ventures",
+        "quote": "50億円規模となる1号ファンドを組成"
+      },
+      {
+        "url": "https://www.kandc.com/vc/comparing/onecapital/",
+        "title": "One Capital株式会社 会社概要・投資スタイル",
+        "publisher": "Kreis & Company",
+        "accessed": "2026-06-02",
+        "supports": "Check size, stages, lead stance, portfolio, partners, team size",
+        "quote": "Check Size: 5,000万円-5億円 ... Stages: Seed/Pre Series A/Series A ... Notable Portfolio Companies: PIVOT、ナレッジワーク、CRISP、ROXX、oVice、Helpfeel、Spir ... CEO/General Partner: 浅田慎二 ... COO/General Partner: 坂倉亘 ... Team Size: Approximately 10 people"
+      },
+      {
+        "url": "https://thebridge.jp/2024/07/one-capital-asada-talks-about-saas-investment-strategy-in-age-of-ai",
+        "title": "One Capital浅田氏、AI時代のSaaS投資戦略を語る",
+        "publisher": "The Bridge",
+        "accessed": "2026-06-02",
+        "supports": "~80% B2B SaaS / 20% healthcare-fintech split",
+        "quote": "1号ファンドから一貫して、約8割をB2B SaaSに、残り2割をヘルスケアやフィンテックに投資してきており"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund 1 reported as ~JPY 5 billion (50億円) by The Bridge at formation in 2020; one secondary source (kandc) labelled Fund 1 as 170億円, which appears to conflate it with Fund 2 — the 170億円 figure is the Fund 2 raise per the official PR TIMES release. USD conversions approximate.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "jp-dnx-ventures",
+    "name": { "en": "DNX Ventures", "local": "DNX Ventures" },
+    "aka": ["Draper Nexus Ventures"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2011,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.dnx.vc/",
+    "offices": [
+      { "country": "Japan", "city": "Tokyo" },
+      { "country": "United States", "city": "San Mateo" }
+    ],
+    "links": {
+      "linkedin": "https://jp.linkedin.com/company/dnx-jp",
+      "other": ["https://www.dnx.vc/jpfund-en/top"]
+    },
+    "capital": {
+      "aum": { "raw": "約750M USD (8 funds / 約990億円)", "usd": 750000000, "currency": "USD" },
+      "current_fund": { "raw": "$188M (Japan Fund IV)", "usd": 188000000, "currency": "USD" },
+      "funds": [
+        { "name": "Japan Fund IV", "vintage_year": 2024, "size": { "raw": "$188M", "usd": 188000000, "currency": "USD" } },
+        { "name": "Japan Annex Fund III", "vintage_year": 2024, "size": { "raw": "$55M", "usd": 55000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["japan", "united-states"],
+      "sector_focus": ["saas-enterprise", "fintech", "deeptech", "climate-energy"],
+      "thesis": "Cross-border (Japan/US) early-stage VC focused on B2B software. Thesis centers on Japan's labor shortage and digitization driving demand for cloud SaaS that transforms legacy enterprise markets."
+    },
+    "track_record": {
+      "portfolio_count": "190+",
+      "notable_investments": [
+        { "company": "ANDPAD", "sector": "construction SaaS", "outcome": "active" },
+        { "company": "Kakehashi", "sector": "pharmacy SaaS", "outcome": "active" },
+        { "company": "Techtouch", "sector": "digital adoption SaaS", "outcome": "active" },
+        { "company": "FLUX", "sector": "AI SaaS", "outcome": "active" },
+        { "company": "DataX", "sector": "marketing cloud", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "TeamSpirit", "type": "IPO", "year": null, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "toBeMarketing", "type": "M&A", "year": null, "value": { "raw": "acquired by Fujitsu", "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Akira Kurabayashi (倉林 陽)", "role": "Head of Japan / Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Cross-border Japan/US early-stage VC founded in 2011, focused on B2B software (cloud SaaS, fintech, deep tech, climate). Closed Japan Fund IV at $188M and Japan Annex Fund III at $55M in 2024; ~$750M total AUM across eight funds, 190+ investments and 23 exits. Operates the SPROUND seed incubation community in Tokyo.",
+      "local": "東京とシリコンバレーに拠点を構えるアーリーステージのB2Bスタートアップ特化VC。2011年設立。クラウドSaaS・フィンテック・ディープテックなどに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/dnx-ventures-announces--final-close-of-new-japan-funds-japan-fund-iv-and-japan-annex-fund-iii-302096581.html",
+        "title": "DNX Ventures announces final close of new Japan funds: Japan Fund IV and Japan Annex Fund III",
+        "publisher": "PR Newswire / DNX Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV $188M, Annex III $55M, total ~$243M, AUM ~$750M, 190+ investments, 23 exits",
+        "quote": "final close of $188M for Japan Fund IV and $55M for Japan Annex Fund III, bringing the total of approximately 36.5 billion yen (U.S. $243M) ... invested in more than 190 startups ... led 23 companies to exits, through a total of eight funds totaling approximately U.S. $750M under management"
+      },
+      {
+        "url": "https://technode.global/2024/03/26/dnx-ventures-raises-243m-for-two-new-japan-funds/",
+        "title": "DNX Ventures raises $243M for two new Japan funds",
+        "publisher": "TNGlobal / TechNode",
+        "accessed": "2026-06-02",
+        "supports": "B2B software focus: cloud SaaS, fintech, deep tech, sustainability; early stages",
+        "quote": "the main areas of investment are in cloud SaaS, fintech, deep tech, and sustainability, all in early stages"
+      },
+      {
+        "url": "https://www.dnx.vc/teamjp/akira-kurabayashi",
+        "title": "倉林 陽 | DNX Ventures",
+        "publisher": "DNX Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2011, Head of Japan / Managing Partner, B2B focus, portfolio and exits",
+        "quote": "Akira Kurabayashi is Head of Japan and Managing Partner at DNX Ventures ... Representative portfolio companies include AndPad, Kakehashi, DataX, TechTouch, and FLUX, with exits including TeamSpirit ... toBeMarketing (acquisition by Fujitsu)"
+      },
+      {
+        "url": "https://www.dnx.vc/jpfund-en/top",
+        "title": "DNX Ventures | An Early Stage VC focused on B2B Startups",
+        "publisher": "DNX Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Tokyo and Silicon Valley offices, SPROUND, portfolio, Japan labor-shortage thesis",
+        "quote": "Tokyo HQ: 2 Chome−15−1, 22nd Floor Konan, Minato-ku, Tokyo ... Silicon Valley: 55 E 3rd Avenue, San Mateo, California ... Operate SPROUND, a seed-stage startup incubation community"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded year (2011) and total ~$750M AUM / 190+ investments / 23 exits per official PR and team page. Per-deal check size not publicly itemized. Sector spans SaaS, fintech, deep tech and climate — included here for its strong B2B/SaaS-enterprise concentration.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "jp-d4v",
+    "name": { "en": "D4V (Design for Ventures)", "local": "D4V合同会社" },
+    "aka": ["Design for Ventures"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://d4v.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/d4v-designforventures",
+      "crunchbase": "https://www.crunchbase.com/organization/d4v"
+    },
+    "capital": {
+      "aum": { "raw": "約107億円 (Fund I 約53億円 + Fund II 約54億円)", "usd": 75000000, "currency": "JPY" },
+      "funds": [
+        { "name": "D4V 1号ファンド (Fund I)", "vintage_year": 2017, "size": { "raw": "約53億円", "usd": 50000000, "currency": "JPY" } },
+        { "name": "D4V 2号ファンド (Fund II)", "vintage_year": 2021, "size": { "raw": "約54億円", "usd": 38000000, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["japan"],
+      "sector_focus": ["consumer", "saas-enterprise", "generalist"],
+      "thesis": "Seed/early-stage VC investing in disruptive consumer and enterprise technology startups across all industries, partnering with global design firm IDEO to provide human-centered design support (branding, product, organizational design)."
+    },
+    "track_record": {
+      "portfolio_count": "70+",
+      "notable_investments": [
+        { "company": "FiNANCiE", "sector": "consumer/web3", "outcome": "active" },
+        { "company": "Crevo", "sector": "creative SaaS", "outcome": "active" },
+        { "company": "Sprocket", "sector": "marketing SaaS", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Makoto Takano (高野 真)", "role": "CEO / Managing Partner" },
+      { "name": "Kengo Ito (伊藤 健吾)", "role": "Founding Partner" },
+      { "name": "Tom Kelley", "role": "Partner (IDEO)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Tokyo-based early-stage VC founded in 2016 as a joint venture of Genuine Startups and design firm IDEO, investing in disruptive consumer and enterprise tech. Closed Fund I at ~JPY 5.3 billion (2017) and Fund II at ~JPY 5.4 billion (2021), pairing capital with IDEO's design support.",
+      "local": "IDEOとGenuine Startupsが2016年に共同設立した、シード〜アーリーステージ向け独立系VC。消費者向け・エンタープライズ向けスタートアップに投資。1号ファンド約53億円、2号ファンド約54億円。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000003.000033616.html",
+        "title": "D4V合同会社がD4V1号ファンドを約53億でクローズ",
+        "publisher": "D4V / PR TIMES",
+        "accessed": "2026-06-02",
+        "supports": "Fund I ~JPY 5.3 billion close",
+        "quote": "D4V1号ファンドを約53億でクローズ"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000005.000033616.html",
+        "title": "D4Vが2号ファンドを総額54億円でクローズ",
+        "publisher": "D4V / PR TIMES",
+        "accessed": "2026-06-02",
+        "supports": "Fund II ~JPY 5.4 billion close",
+        "quote": "D4Vが2号ファンドを総額54億円でクローズ"
+      },
+      {
+        "url": "https://thebridge.jp/2016/10/ideo-geniune-startups-jointly-launch-d4v",
+        "title": "デザインスタジオ大手のIDEOとGenuine Startups、合弁でアーリーステージ向けVC「D4V」を設立",
+        "publisher": "The Bridge",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2016, IDEO + Genuine Startups JV, consumer/enterprise focus",
+        "quote": "IDEOとGenuine Startups、合弁でアーリーステージ向けVC「D4V」を設立"
+      },
+      {
+        "url": "https://d4v.com/news/fund-2-launched",
+        "title": "D4V has officially launched its 2nd fund focused on early stage startups",
+        "publisher": "D4V",
+        "accessed": "2026-06-02",
+        "supports": "Consumer and enterprise tech focus, seed/early stage, IDEO partnership, ownership structure, CEO",
+        "quote": "Genuine Startups holding 60% and IDEO holding 40%, with CEO Takano Makoto ... founding partners including Takano Makoto, Itou Kengo ... and Tom Kelley ... from IDEO"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund sizes confirmed by official PR TIMES releases (Fund I 約53億円; Fund II 約54億円). USD figures approximate; one secondary source cites '$50M under management'. Portfolio count (70+) and FiNANCiE/Crevo/Sprocket per CB Insights/secondary sources. Sector spans consumer + enterprise; included for its explicit consumer-and-enterprise mandate.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "jp-coral-capital",
+    "name": { "en": "Coral Capital", "local": "Coral Capital株式会社" },
+    "aka": ["500 Startups Japan (predecessor)"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://coralcap.co/",
+    "links": {
+      "other": ["https://coralcap.co/team/?lang=en"]
+    },
+    "capital": {
+      "aum": { "raw": "約60億円 (approximately JPY 60 billion)", "usd": 400000000, "currency": "JPY" },
+      "current_fund": { "raw": "JPY 25 billion (Coral Capital IV)", "usd": 165000000, "currency": "JPY" },
+      "funds": [
+        { "name": "Coral Capital III", "vintage_year": 2021, "size": { "raw": "$128M (約14億円→約140億円規模)", "usd": 128000000, "currency": "USD" } },
+        { "name": "Coral Capital IV", "vintage_year": 2024, "size": { "raw": "JPY 25 billion", "usd": 165000000, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": "¥30 million to ¥3 billion", "usd_min": 200000, "usd_max": 20000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["japan"],
+      "sector_focus": ["saas-enterprise", "generalist", "deeptech"],
+      "thesis": "Independent 'ecosystem VC' supporting Japanese founders from seed to Series C with capital, talent and insights. Invests across a wide range from SaaS to deep tech; heavily weighted toward B2B SaaS/enterprise (flagship: SmartHR)."
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "notable_investments": [
+        { "company": "SmartHR", "sector": "HR SaaS", "outcome": "unicorn" },
+        { "company": "Kakehashi", "sector": "pharmacy SaaS", "outcome": "active" },
+        { "company": "Graffer", "sector": "govtech SaaS", "outcome": "active" },
+        { "company": "Kyoto Fusioneering", "sector": "deep tech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "James Riney", "role": "Founding Partner / CEO" },
+      { "name": "Yohei Sawayama (澤山 陽平)", "role": "Founding Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Leading Tokyo-based independent VC, founded in 2019 by the former 500 Startups Japan team (James Riney, Yohei Sawayama). Invests seed to Series C across SaaS to deep tech with checks of ¥30M–¥3B; Coral Capital IV is JPY 25 billion with total AUM ~JPY 60 billion. Backed 100+ companies including unicorn SmartHR.",
+      "local": "500 Startups Japanのチームが2019年に設立した独立系VC。シード〜シリーズCに投資。4号ファンドは250億円、運用総額約600億円。SmartHRなど100社以上に投資。"
+    },
+    "sources": [
+      {
+        "url": "https://coralcap.co/2024/05/announcing-coral-capital-iv/?lang=en",
+        "title": "Announcing Coral IV: JPY 25 billion Dedicated To Finding Japan's Next Sonys and Toyotas",
+        "publisher": "Coral Capital",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV JPY 25B, AUM ~JPY 60B, check size, stages, 14-year fund life, portfolio",
+        "quote": "Coral Capital IV: JPY 25 billion ... Total AUM: approximately JPY 60 billion ... Check size: JPY 50 million to JPY 3 billion per company ... Stages: Seed to Series C ... Notable Portfolio Companies: SmartHR, Kakehashi, Kyoto Fusioneering"
+      },
+      {
+        "url": "https://techcrunch.com/2019/03/04/coral-capital-45-million/",
+        "title": "500 Startups Japan becomes Coral Capital with a new $45M fund",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2019 from 500 Startups Japan, founders James Riney & Yohei Sawayama, $45M Fund II",
+        "quote": "500 Startups Japan team starts new fund called Coral Capital ... founding partners James Riney and Yohei Sawayama previously led 500 Startups Japan ... $45 million second fund"
+      },
+      {
+        "url": "https://www.firstcvc.jp/en/story/coralcapital",
+        "title": "VC Details: Coral Capital Co., Ltd.",
+        "publisher": "FIRST CVC",
+        "accessed": "2026-06-02",
+        "supports": "Fund III $128M, SaaS-to-deep-tech range, 14-year horizon, ecosystem VC",
+        "quote": "Coral Capital III: Closed with $128M for startups in Japan ... invests in a wide range of fields, from SaaS to deep tech ... long-term investment period of 14 years"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Coral is a generalist 'ecosystem VC' (SaaS to deep tech) rather than a pure SaaS specialist, but is heavily B2B-SaaS/enterprise weighted with SmartHR as flagship — included with this caveat; light overlap with generalist segment expected. Coral I and II sizes ($45M Fund II) partly disclosed; Fund III $128M, Fund IV JPY 25B confirmed. USD conversions approximate.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "jp-salesforce-ventures-japan",
+    "name": { "en": "Salesforce Ventures (Japan)", "local": "セールスフォース・ベンチャーズ" },
+    "aka": ["Salesforce Ventures Japan Trailblazer Fund"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.salesforce.com/jp/company/ventures/",
+    "links": {
+      "crunchbase": "https://initial.inc/investors/V08705"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Japan Trailblazer Fund", "vintage_year": 2018, "size": { "raw": "$100 million", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["japan"],
+      "sector_focus": ["saas-enterprise"],
+      "thesis": "Corporate VC arm of Salesforce investing in B2B SaaS / enterprise cloud startups, with emphasis on companies that integrate with or extend the Salesforce platform and the 'future of work'."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "freee", "sector": "accounting SaaS", "outcome": "IPO" },
+        { "company": "Sansan", "sector": "business-card SaaS", "outcome": "IPO" },
+        { "company": "BizReach (Visional)", "sector": "HR SaaS", "outcome": "IPO" },
+        { "company": "TeamSpirit", "sector": "workforce SaaS", "outcome": "IPO" }
+      ]
+    },
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Japan arm of Salesforce's corporate venture program. Launched the $100M Japan Trailblazer Fund in 2018 to back B2B SaaS / enterprise cloud startups, especially those integrating with the Salesforce platform. Japan portfolio includes freee, Sansan, BizReach and TeamSpirit.",
+      "local": "Salesforceの企業ベンチャー部門の日本拠点。2018年に1億ドル規模の「Japan Trailblazer Fund」を組成し、B2B SaaS／エンタープライズクラウドのスタートアップに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.firstcvc.jp/en/story/salesforcejapan",
+        "title": "CVC Details: Salesforce Japan",
+        "publisher": "FIRST CVC",
+        "accessed": "2026-06-02",
+        "supports": "$100M Japan Trailblazer Fund (2018), B2B SaaS focus, Japan portfolio",
+        "quote": "Salesforce Ventures announced a $100 million 'Japan Trailblazer Fund' in 2018 ... Notable Japan Portfolio Companies: BizReach, Inc. ... freee, Inc. ... Sansan, Inc. ... TeamSpirit, Inc. ... TERRASKY Inc."
+      },
+      {
+        "url": "https://www.salesforce.com/jp/blog/appx-ventures/",
+        "title": "「未来の働き方」に注目 Salesforce Venturesの活動と投資領域",
+        "publisher": "Salesforce Japan",
+        "accessed": "2026-06-02",
+        "supports": "Enterprise/B2B SaaS focus, future-of-work thesis, platform-integration emphasis"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Corporate VC (CVC), not an independent fund; included because it is a significant enterprise-software / SaaS investor in Japan. $100M Japan Trailblazer Fund (2018) confirmed; subsequent fund top-ups and exact current AUM in Japan not separately disclosed. Per-deal check size not public.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  }
+]

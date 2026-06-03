@@ -1,0 +1,803 @@
+[
+  {
+    "id": "us-andreessen-horowitz",
+    "name": { "en": "Andreessen Horowitz" },
+    "aka": ["a16z"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2009,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Menlo Park, California",
+    "website": "https://a16z.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/andreessen-horowitz",
+      "twitter": "https://twitter.com/a16z",
+      "other": ["https://en.wikipedia.org/wiki/Andreessen_Horowitz"]
+    },
+    "capital": {
+      "aum": { "raw": "$90 billion (as of Jan 2026)", "usd": 90000000000, "currency": "USD" },
+      "current_fund": { "raw": "$15 billion raised across five new funds (January 2026)", "usd": 15000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["ai-ml", "biotech", "healthtech", "consumer", "web3-crypto", "saas-enterprise", "fintech", "gaming", "deeptech"],
+      "thesis": "Multi-stage generalist investing from seed to growth across AI, bio + healthcare, consumer, crypto, enterprise, fintech, games, infrastructure, and American dynamism; operator-heavy platform model."
+    },
+    "track_record": {
+      "portfolio_count": 1076,
+      "notable_investments": [
+        { "company": "Coinbase", "sector": "web3-crypto", "outcome": "IPO" },
+        { "company": "Stripe", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Airbnb", "sector": "consumer", "outcome": "IPO" },
+        { "company": "GitHub", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Figma", "sector": "saas-enterprise", "outcome": "IPO" }
+      ],
+      "exits": [
+        { "company": "GitHub", "type": "M&A", "year": 2018, "value": { "raw": "$7.5 billion (acquired by Microsoft)", "usd": 7500000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Marc Andreessen", "role": "Co-founder & General Partner" },
+      { "name": "Ben Horowitz", "role": "Co-founder & General Partner" },
+      { "name": "Chris Dixon", "role": "General Partner (a16z crypto)" },
+      { "name": "Martin Casado", "role": "General Partner" }
+    ],
+    "application": { "how_to_apply": "Warm intro preferred; pitch submissions via website.", "accepts_cold_inbound": true },
+    "tags": ["tier-1", "household-name", "multi-stage", "generalist", "largest-aum"],
+    "summary": {
+      "en": "Andreessen Horowitz (a16z), founded in 2009 by Marc Andreessen and Ben Horowitz, is the largest US venture firm by AUM (~$90B as of Jan 2026), investing across all stages and sectors with a heavily operator-driven platform model."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Andreessen_Horowitz", "title": "Andreessen Horowitz - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "AUM, founded year, HQ, founders, portfolio count, notable investments, GitHub exit", "quote": "$90 billion (as of Jan 2026) ... July 6, 2009 ... Menlo Park, California ... By November 2025, Andreessen Horowitz's website lists 1076 portfolio companies. ... The company invested $100 million in GitHub, which netted over $1 billion for the fund when Microsoft acquired GitHub for $7.5 billion." },
+      { "url": "https://a16z.com/about/", "title": "About | Andreessen Horowitz", "publisher": "Andreessen Horowitz", "accessed": "2026-06-02", "supports": "Sectors, stages, founders", "quote": "Founded: 2009 ... Founders: Marc Andreessen and Ben Horowitz ... AI, bio + healthcare, consumer, crypto, enterprise, fintech, games, infrastructure, and American dynamism" },
+      { "url": "https://dealroom.net/blog/top-venture-capital-firms", "title": "Top Venture Capital Firms by AUM", "publisher": "Dealroom", "accessed": "2026-06-02", "supports": "AUM ranking Q1 2026", "quote": "Andreessen Horowitz | $90.0B | Menlo Park, CA | 2009" }
+    ],
+    "confidence": "high",
+    "verification_notes": "a16z's own About page cites '$100B+ under management' while Wikipedia and Dealroom cite ~$90B as of Jan 2026; used the more conservative, dated $90B figure.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "us-sequoia-capital",
+    "name": { "en": "Sequoia Capital" },
+    "aka": ["Sequoia"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1972,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Menlo Park, California",
+    "website": "https://www.sequoiacap.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/sequoia-capital",
+      "twitter": "https://twitter.com/sequoia",
+      "other": ["https://en.wikipedia.org/wiki/Sequoia_Capital"]
+    },
+    "capital": {
+      "aum": { "raw": "approximately US$56 billion in assets under management (as of January 2025)", "usd": 56000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["generalist", "ai-ml", "saas-enterprise", "consumer", "fintech", "healthtech", "deeptech"],
+      "thesis": "Generalist multi-stage investor (seed to pre-IPO) backing technology companies from formation onward; one of the most storied US venture franchises."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Apple", "sector": "hardware-semiconductor", "outcome": "IPO" },
+        { "company": "Google", "sector": "ai-ml", "outcome": "IPO" },
+        { "company": "ByteDance", "sector": "consumer", "outcome": "active" },
+        { "company": "Cisco", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Atari", "sector": "gaming", "outcome": "acquired" }
+      ]
+    },
+    "people": [
+      { "name": "Don Valentine", "role": "Founder (1972)" },
+      { "name": "Roelof Botha", "role": "Former Senior Steward / Managing Partner" },
+      { "name": "Alfred Lin", "role": "Joint Managing Partner (since Nov 2025)" },
+      { "name": "Pat Grady", "role": "Joint Managing Partner (since Nov 2025)" }
+    ],
+    "application": { "how_to_apply": "Warm intro strongly preferred; some programs (e.g. Arc) take applications.", "accepts_cold_inbound": true },
+    "tags": ["tier-1", "household-name", "multi-stage", "generalist"],
+    "summary": {
+      "en": "Sequoia Capital, founded by Don Valentine in 1972 in Menlo Park, is one of the most influential US venture firms (~$56B AUM as of Jan 2025), an early backer of Apple, Google, Cisco and ByteDance, investing across all stages."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Sequoia_Capital", "title": "Sequoia Capital - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "AUM, founded year, HQ, founder, notable investments, leadership", "quote": "As of January 2025, the firm had approximately US$56 billion in assets under management (AUM). ... Sequoia was founded by Don Valentine in 1972 in Menlo Park, California ... including in Apple, ByteDance, and Cisco ... In November 2025, Botha was succeeded by Alfred Lin and Pat Grady as joint managing partners." },
+      { "url": "https://dealroom.net/blog/top-venture-capital-firms", "title": "Top Venture Capital Firms by AUM", "publisher": "Dealroom", "accessed": "2026-06-02", "supports": "AUM ranking, HQ, founded year", "quote": "Sequoia Capital | $56.0B | Menlo Park, CA | 1972" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "us-general-catalyst",
+    "name": { "en": "General Catalyst" },
+    "aka": ["GC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2000,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Cambridge, Massachusetts",
+    "website": "https://www.generalcatalyst.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/general-catalyst-partners",
+      "other": ["https://en.wikipedia.org/wiki/General_Catalyst"]
+    },
+    "capital": {
+      "aum": { "raw": "manages more than US$43 billion in assets as of December 2024", "usd": 43000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Europe", "Global"],
+      "sector_focus": ["generalist", "ai-ml", "healthtech", "fintech", "saas-enterprise", "consumer", "deeptech"],
+      "thesis": "Multi-stage generalist (seed to growth) pursuing a 'global resilience' and transformation thesis across health, fintech, AI and enterprise; has expanded into Europe and health systems."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Stripe", "sector": "fintech", "outcome": "active" },
+        { "company": "Airbnb", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Anthropic", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Canva", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "HubSpot", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Anduril", "sector": "deeptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Hemant Taneja", "role": "CEO & Managing Director" },
+      { "name": "Joel Cutler", "role": "Co-founder" },
+      { "name": "David Fialkow", "role": "Co-founder" },
+      { "name": "Ken Chenault", "role": "Chairman & Managing Director" }
+    ],
+    "application": { "how_to_apply": "Warm intro preferred; inbound via website.", "accepts_cold_inbound": true },
+    "tags": ["tier-1", "household-name", "multi-stage", "generalist"],
+    "summary": {
+      "en": "General Catalyst, founded in 2000 and headquartered in Cambridge, MA, manages more than $43B (Dec 2024). A multi-stage generalist led by CEO Hemant Taneja, it has backed Stripe, Airbnb, Anthropic, Canva and Anduril."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/General_Catalyst", "title": "General Catalyst - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "AUM, founded year, HQ, founders, leadership, notable investments", "quote": "manages more than US$43 billion in assets as of December 2024 ... Founded in 2000 ... headquarted in Cambridge, Massachusetts ... Joel Cutler and David Fialkow ... Hemant Taneja (CEO & managing director) ... portfolio includes Airbnb, Anthropic, Stripe, Canva, HubSpot, Anduril, Mistral, Ramp, Mercor, and Helsing" },
+      { "url": "https://dealroom.net/blog/top-venture-capital-firms", "title": "Top Venture Capital Firms by AUM", "publisher": "Dealroom", "accessed": "2026-06-02", "supports": "AUM ranking, HQ, founded year", "quote": "General Catalyst | $30.0B | Cambridge, MA | 2000" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM figures vary by source: Wikipedia cites '$43B as of December 2024' while Dealroom's Q1 2026 ranking lists $30.0B; used the firm-cited Wikipedia figure as primary.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "us-new-enterprise-associates",
+    "name": { "en": "New Enterprise Associates" },
+    "aka": ["NEA"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1977,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Menlo Park, California",
+    "offices": [
+      { "country": "United States", "city": "Menlo Park, California" },
+      { "country": "United States", "city": "New York City" },
+      { "country": "United States", "city": "Timonium, Maryland" }
+    ],
+    "website": "https://www.nea.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/new-enterprise-associates",
+      "other": ["https://en.wikipedia.org/wiki/New_Enterprise_Associates"]
+    },
+    "capital": {
+      "aum": { "raw": "over $25 billion in committed capital", "usd": 25000000000, "currency": "USD" },
+      "funds": [
+        { "name": "NEA 18", "vintage_year": 2023, "size": { "raw": "$3 billion early-stage vehicle", "usd": 3000000000, "currency": "USD" } },
+        { "name": "NEA 18 Venture Growth Equity", "vintage_year": 2023, "size": { "raw": "$3.2 billion growth-stage fund", "usd": 3200000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "healthtech", "biotech", "deeptech", "fintech"],
+      "thesis": "One of the world's largest and oldest venture firms, investing across technology and healthcare from seed through growth, with separate dedicated early-stage and venture-growth-equity vehicles."
+    },
+    "track_record": {
+      "portfolio_count": "nearly 1,000 companies since founding",
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [
+      { "name": "Scott Sandell", "role": "Executive Chairman" },
+      { "name": "Tony Florence", "role": "Co-CEO" },
+      { "name": "Mohamad Makhzoumi", "role": "Co-CEO" },
+      { "name": "C. Richard (Dick) Kramlich", "role": "Co-founder (1977)" }
+    ],
+    "application": { "how_to_apply": "Warm intro preferred; inbound via website.", "accepts_cold_inbound": true },
+    "tags": ["tier-1", "multi-stage", "generalist", "tech-and-healthcare"],
+    "summary": {
+      "en": "NEA, founded in 1977, is one of the world's largest venture firms with over $25B committed capital, investing across technology and healthcare from seed to growth; it has backed nearly 1,000 companies with 650+ liquidity events."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/New_Enterprise_Associates", "title": "New Enterprise Associates - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "AUM, founded year, HQ, founders, portfolio/liquidity events, leadership", "quote": "With over $25 billion in committed capital, NEA is one of the world's largest venture capital firms. ... NEA was founded in 1977 by C. Richard (Dick) Kramlich, Charles (Chuck) Newhall III, and Frank Bonsal, Jr. ... headquartered in Menlo Park, California ... invested in nearly 1,000 companies ... realizing over 650 liquidity events" },
+      { "url": "https://www.nea.com/", "title": "NEA: New Enterprise Associates", "publisher": "NEA", "accessed": "2026-06-02", "supports": "NEA 18 fund sizes, AUM as of Dec 2024", "quote": "NEA 18 is a $3 billion early-stage vehicle, along with NEA 18 Venture Growth Equity, a $3.2 billion growth-stage fund, both launched in 2023 ... over $27 billion in assets under management as of December 31, 2024" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Wikipedia lists HQ as Menlo Park; the firm has long-standing Maryland roots (Timonium/Chevy Chase area) and one aggregator (Dealroom) lists Chevy Chase, MD. AUM cited as 'over $25B' (Wikipedia) and 'over $27B as of Dec 31 2024' (NEA site); fund-size quote sourced via NEA press materials reported in search.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "us-lightspeed-venture-partners",
+    "name": { "en": "Lightspeed Venture Partners" },
+    "aka": ["Lightspeed"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2000,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Menlo Park, California",
+    "website": "https://lsvp.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/lightspeed-venture-partners",
+      "other": ["https://en.wikipedia.org/wiki/Lightspeed_Venture_Partners"]
+    },
+    "capital": {
+      "aum": { "raw": "approximately US$35 billion in assets under management (as of 2023)", "usd": 35000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["saas-enterprise", "consumer", "ai-ml", "fintech", "cybersecurity", "deeptech"],
+      "thesis": "Multi-stage generalist investing from seed to growth across enterprise, consumer, fintech and AI; early investor in Snap, Nutanix and MuleSoft."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Snap", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Nutanix", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "MuleSoft", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Nest", "sector": "hardware-semiconductor", "outcome": "acquired" }
+      ],
+      "exits": [
+        { "company": "MuleSoft", "type": "M&A", "year": 2018, "value": { "raw": "$6.5 billion (acquired by Salesforce)", "usd": 6500000000, "currency": "USD" } },
+        { "company": "Nest", "type": "M&A", "year": 2014, "value": { "raw": "$3.2 billion (acquired by Google)", "usd": 3200000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Ravi Mhatre", "role": "Co-founder & Partner" },
+      { "name": "Barry Eggers", "role": "Co-founder & Partner" },
+      { "name": "Bejul Somaia", "role": "Partner" }
+    ],
+    "application": { "how_to_apply": "Warm intro preferred; inbound via website.", "accepts_cold_inbound": true },
+    "tags": ["tier-1", "multi-stage", "generalist"],
+    "summary": {
+      "en": "Lightspeed Venture Partners, founded in 2000 in Menlo Park, manages ~$35B (2023) as a multi-stage generalist. It was the first venture investor in Snap and an early backer of Nutanix, MuleSoft and Nest."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Lightspeed_Venture_Partners", "title": "Lightspeed Venture Partners - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "AUM, founded year, HQ, founders, notable investments and exit values", "quote": "as of 2023 had approximately US$35 billion in assets under management ... Lightspeed was founded in 2000 ... Menlo Park, California ... In 2012, Lightspeed became the first venture investor in Snap Inc. ... MuleSoft ... acquired by Salesforce for $6.5 billion ... Nest ... acquired by Google for $3.2 billion" },
+      { "url": "https://dealroom.net/blog/top-venture-capital-firms", "title": "Top Venture Capital Firms by AUM", "publisher": "Dealroom", "accessed": "2026-06-02", "supports": "AUM ranking, HQ, founded year", "quote": "Lightspeed Venture Partners | $25.0B | Menlo Park, CA | 2000" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM figures vary: Wikipedia cites ~$35B (2023), Dealroom's Q1 2026 ranking lists $25.0B; firm itself does not officially disclose a single AUM figure.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "us-accel",
+    "name": { "en": "Accel" },
+    "aka": ["Accel Partners"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1983,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Palo Alto, California",
+    "offices": [
+      { "country": "United States", "city": "Palo Alto, California" },
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "India", "city": "Bengaluru" }
+    ],
+    "website": "https://www.accel.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/accel-partners",
+      "other": ["https://en.wikipedia.org/wiki/Accel_(company)"]
+    },
+    "capital": {
+      "aum": { "raw": "AUM exceeding $20 billion", "usd": 20000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Europe", "India", "Global"],
+      "sector_focus": ["saas-enterprise", "consumer", "fintech", "ai-ml", "cybersecurity"],
+      "thesis": "Global multi-stage venture firm running early and growth vehicles across the US, Europe and India; famed for its prescient early bet on Facebook."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Facebook", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Slack", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Spotify", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Atlassian", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Dropbox", "sector": "saas-enterprise", "outcome": "IPO" }
+      ],
+      "exits": [
+        { "company": "Facebook", "type": "IPO", "year": 2012, "value": { "raw": "Accel's 10% stake worth $6.6 billion at IPO", "usd": 6600000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Arthur Patterson", "role": "Co-founder (1983)" },
+      { "name": "Jim Swartz", "role": "Co-founder (1983)" }
+    ],
+    "application": { "how_to_apply": "Warm intro preferred; inbound via website.", "accepts_cold_inbound": true },
+    "tags": ["tier-1", "household-name", "multi-stage", "generalist", "global"],
+    "summary": {
+      "en": "Accel, founded in 1983 by Arthur Patterson and Jim Swartz in Palo Alto, is a global multi-stage generalist (AUM $20B+). Its $12.7M investment for ~10% of Facebook was worth $6.6B at the 2012 IPO; it also backed Slack, Spotify, Atlassian and Dropbox."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Accel_(company)", "title": "Accel (company) - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "Founded year, HQ, founders, Facebook investment and exit value", "quote": "In 1983, Accel was founded by Arthur Patterson and Jim Swartz. ... invested $12.7 million for 10% of Facebook ... worth $6.6 billion at the time of the company's initial public offering in 2012." },
+      { "url": "https://dealroom.net/blog/top-venture-capital-firms", "title": "Top Venture Capital Firms by AUM", "publisher": "Dealroom", "accessed": "2026-06-02", "supports": "AUM, HQ, founded year", "quote": "Accel | $20.0B | Palo Alto, CA | 1983" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Wikipedia article did not state a current AUM; AUM ~$20B sourced from Dealroom's Q1 2026 ranking and corroborating coverage describing Accel with 'AUM exceeding $20 billion'.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "us-founders-fund",
+    "name": { "en": "Founders Fund" },
+    "aka": ["FF"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2005,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://foundersfund.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/founders-fund",
+      "other": ["https://en.wikipedia.org/wiki/Founders_Fund"]
+    },
+    "capital": {
+      "aum": { "raw": "US$17 billion (2025)", "usd": 17000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["deeptech", "spacetech", "ai-ml", "fintech", "saas-enterprise", "biotech", "robotics"],
+      "thesis": "Contrarian, founder-friendly multi-stage firm backing transformative and frontier technology; first institutional investor in SpaceX and Palantir, early in Facebook."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "SpaceX", "sector": "spacetech", "outcome": "active" },
+        { "company": "Palantir", "sector": "deeptech", "outcome": "IPO" },
+        { "company": "Facebook", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Stripe", "sector": "fintech", "outcome": "active" },
+        { "company": "Anduril", "sector": "deeptech", "outcome": "active" },
+        { "company": "Neuralink", "sector": "healthtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Peter Thiel", "role": "Co-founder & Partner" },
+      { "name": "Luke Nosek", "role": "Co-founder & Partner" },
+      { "name": "Trae Stephens", "role": "Partner" },
+      { "name": "Scott Nolan", "role": "Partner" }
+    ],
+    "application": { "how_to_apply": "Warm intro strongly preferred.", "accepts_cold_inbound": null },
+    "tags": ["tier-1", "household-name", "multi-stage", "deeptech", "contrarian"],
+    "summary": {
+      "en": "Founders Fund, launched in 2005 by Peter Thiel, Ken Howery and Luke Nosek in San Francisco, manages ~$17B (2025). A multi-stage frontier-tech firm, it was the first institutional investor in SpaceX and Palantir and an early backer of Facebook, Stripe and Anduril."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Founders_Fund", "title": "Founders Fund - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "AUM, founded year, HQ, founders, notable investments, partners", "quote": "US$17 billion (2025) ... July 2005 ... San Francisco, California, U.S. ... Peter Thiel, Ken Howery, Luke Nosek ... the first institutional investor in Space Exploration Technologies (SpaceX) and Palantir Technologies, and an early investor in Facebook" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "us-bessemer-venture-partners",
+    "name": { "en": "Bessemer Venture Partners" },
+    "aka": ["BVP", "Bessemer"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1911,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "offices": [
+      { "country": "United States", "city": "San Francisco, California" },
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "India", "city": "Bengaluru" },
+      { "country": "Israel", "city": "Herzliya" }
+    ],
+    "website": "https://www.bvp.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/bessemer-venture-partners",
+      "other": ["https://en.wikipedia.org/wiki/Bessemer_Venture_Partners"]
+    },
+    "capital": {
+      "aum": { "raw": "US$20 billion (2022)", "usd": 20000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Israel", "India", "Europe", "Global"],
+      "sector_focus": ["saas-enterprise", "fintech", "healthtech", "consumer", "cybersecurity", "spacetech", "ai-ml"],
+      "thesis": "One of the oldest US venture firms (roots in 1911 Bessemer Trust), a multi-stage generalist known for cloud/SaaS investing and helping build 100+ IPOs."
+    },
+    "track_record": {
+      "portfolio_count": "420+ portfolio companies",
+      "notable_investments": [
+        { "company": "Shopify", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "LinkedIn", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Twilio", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Pinterest", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Wix.com", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Rocket Lab", "sector": "spacetech", "outcome": "IPO" }
+      ]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Warm intro preferred; inbound via website.", "accepts_cold_inbound": true },
+    "tags": ["tier-1", "household-name", "multi-stage", "generalist", "oldest"],
+    "summary": {
+      "en": "Bessemer Venture Partners, with roots in the 1911 Bessemer Trust and now headquartered in San Francisco, is a multi-stage generalist managing ~$20B. It has helped build 100+ IPOs including Shopify, LinkedIn, Twilio, Pinterest and Wix."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Bessemer_Venture_Partners", "title": "Bessemer Venture Partners - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "AUM, founding origin, HQ", "quote": "US$20 billion (2022) ... In 1911, Henry Phipps Jr., a co-founder of Carnegie Steel, formed Bessemer Trust in New York to manage his family's assets. ... San Francisco" },
+      { "url": "https://businessabc.net/wiki/bessemer-venture-partners", "title": "Bessemer Venture Partners - Early Stage Venture", "publisher": "businessabc", "accessed": "2026-06-02", "supports": "Notable investments, IPO count, portfolio count, HQ", "quote": "BVP helped build 117 IPOs including Twilio, Yelp, LinkedIn, Shopify and Wix. ... headquarters is located in San Francisco, California ... LinkedIn, PagerDuty, Pinterest, Rocket Lab, Shopify, Toast, Twilio, Twitch, Wix.com, and Yelp" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded year reflects the 1911 Bessemer Trust origin; the modern venture arm formalized later in the 20th century. AUM cited as $20B (2022); IPO count varies by source (100+).",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "us-khosla-ventures",
+    "name": { "en": "Khosla Ventures" },
+    "aka": ["KV"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2004,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Menlo Park, California",
+    "website": "https://www.khoslaventures.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/khosla-ventures",
+      "other": ["https://en.wikipedia.org/wiki/Khosla_Ventures"]
+    },
+    "capital": {
+      "aum": { "raw": "approximately US$15 billion in assets under management (as of 2021)", "usd": 15000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["ai-ml", "deeptech", "climate-energy", "fintech", "healthtech", "robotics", "consumer"],
+      "thesis": "Founder Vinod Khosla's multi-stage firm taking bold technology risk across AI, deeptech, climate and frontier science; first VC into OpenAI."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "OpenAI", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Square (Block)", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Instacart", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "DoorDash", "sector": "logistics", "outcome": "IPO" }
+      ],
+      "exits": [
+        { "company": "DoorDash", "type": "IPO", "year": 2020, "value": { "raw": "$72 billion valuation at IPO", "usd": 72000000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Vinod Khosla", "role": "Founder" }
+    ],
+    "application": { "how_to_apply": "Warm intro preferred; inbound accepted via website.", "accepts_cold_inbound": true },
+    "tags": ["tier-1", "household-name", "multi-stage", "deeptech", "ai"],
+    "summary": {
+      "en": "Khosla Ventures, founded in 2004 by Vinod Khosla in Menlo Park, manages ~$15B (2021). A bold multi-stage firm, it was the first VC into OpenAI (2018) and an early backer of Square, Instacart and DoorDash."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Khosla_Ventures", "title": "Khosla Ventures - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "AUM, founded year, HQ, founder, notable investments, DoorDash IPO valuation, OpenAI", "quote": "as of 2021 had approximately US$15 billion in assets under management ... founded in 2004 by Vinod Khosla ... based in Menlo Park, California ... Khosla Ventures was the first venture capital firm to invest in OpenAI in 2018 ... DoorDash in 2013 before the company went public in 2020 with a $72 billion valuation" },
+      { "url": "https://dealroom.net/blog/top-venture-capital-firms", "title": "Top Venture Capital Firms by AUM", "publisher": "Dealroom", "accessed": "2026-06-02", "supports": "AUM, HQ, founded year", "quote": "Khosla Ventures | $15.0B | Menlo Park, CA | 2004" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "us-kleiner-perkins",
+    "name": { "en": "Kleiner Perkins" },
+    "aka": ["KPCB", "Kleiner Perkins Caufield & Byers"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1972,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Menlo Park, California",
+    "website": "https://www.kleinerperkins.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/kleiner-perkins-caufield-byers",
+      "other": ["https://en.wikipedia.org/wiki/Kleiner_Perkins"]
+    },
+    "capital": {
+      "aum": { "raw": "US$21 billion (2026)", "usd": 21000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "consumer", "fintech", "healthtech", "biotech", "climate-energy"],
+      "thesis": "Storied Sand Hill Road firm running early and growth funds; legendary early bets on Google, Amazon and Genentech across multiple decades."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Google", "sector": "ai-ml", "outcome": "IPO" },
+        { "company": "Amazon", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "Genentech", "sector": "biotech", "outcome": "IPO" }
+      ],
+      "exits": [
+        { "company": "Amazon", "type": "IPO", "year": 1997, "value": { "raw": "returns in excess of $1 billion on an $8 million investment", "usd": 1000000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "John Doerr", "role": "Chairman" },
+      { "name": "Brook Byers", "role": "Founder" },
+      { "name": "Mamoon Hamid", "role": "Partner" },
+      { "name": "Ilya Fushman", "role": "Partner" }
+    ],
+    "application": { "how_to_apply": "Warm intro preferred; inbound via website.", "accepts_cold_inbound": true },
+    "tags": ["tier-1", "household-name", "multi-stage", "generalist", "storied"],
+    "summary": {
+      "en": "Kleiner Perkins, founded in 1972 by Eugene Kleiner and Thomas Perkins in Menlo Park, manages ~$21B (2026). One of Silicon Valley's most storied firms, its early bets on Google, Amazon and Genentech produced legendary returns."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Kleiner_Perkins", "title": "Kleiner Perkins - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "AUM, founded year, HQ, founders, Google/Amazon/Genentech investments, partners", "quote": "US$21 billion (2026) ... 1972 ... Menlo Park, California ... Eugene Kleiner, Thomas Perkins, Frank J. Caufield, Brook Byers ... paid $12 million for a stake in Google ... initial investors in Amazon.com Kleiner Perkins scored returns in excess of $1 billion on an $8 million investment" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "us-greylock-partners",
+    "name": { "en": "Greylock Partners" },
+    "aka": ["Greylock"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1965,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Menlo Park, California",
+    "website": "https://greylock.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/greylock-partners",
+      "other": ["https://en.wikipedia.org/wiki/Greylock_Partners"]
+    },
+    "capital": {
+      "aum": { "raw": "committed capital of over $3.5 billion under management", "usd": 3500000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["saas-enterprise", "consumer", "ai-ml", "fintech", "cybersecurity"],
+      "thesis": "One of the oldest US venture firms, focused on backing entrepreneurs from day one across enterprise and consumer; partners include LinkedIn co-founder Reid Hoffman."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "LinkedIn", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Facebook", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Airbnb", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Workday", "sector": "saas-enterprise", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Reid Hoffman", "role": "Partner" },
+      { "name": "David Sze", "role": "Partner" },
+      { "name": "Mustafa Suleyman", "role": "Partner (former)" }
+    ],
+    "application": { "how_to_apply": "Warm intro preferred; inbound via website.", "accepts_cold_inbound": true },
+    "tags": ["tier-1", "household-name", "multi-stage", "generalist", "oldest"],
+    "summary": {
+      "en": "Greylock Partners, founded in 1965 and headquartered in Menlo Park, is one of the oldest US venture firms with over $3.5B committed capital. Partners include Reid Hoffman and David Sze; it backed LinkedIn, Facebook and Airbnb."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Greylock_Partners", "title": "Greylock Partners - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "AUM, founded year, HQ, founders, partners, LinkedIn/Facebook investments", "quote": "committed capital of over $3.5 billion under management ... founded in 1965 ... Menlo Park, California ... Bill Elfers and Dan Gregory ... Greylock partners include David Sze, Reid Hoffman, and Mustafa Suleyman" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Wikipedia directly confirms LinkedIn and Facebook; Airbnb and Workday are widely reported Greylock investments but were not verbatim-confirmed in the fetched article, so confidence on those two specific names is slightly lower.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "us-battery-ventures",
+    "name": { "en": "Battery Ventures" },
+    "aka": ["Battery"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1983,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Boston, Massachusetts",
+    "website": "https://www.battery.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/battery-ventures",
+      "other": ["https://en.wikipedia.org/wiki/Battery_Ventures"]
+    },
+    "capital": {
+      "aum": { "raw": "$13 billion", "usd": 13000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Europe", "Israel", "Global"],
+      "sector_focus": ["saas-enterprise", "deeptech", "consumer", "fintech", "biotech", "hardware-semiconductor"],
+      "thesis": "Multi-stage, sector-spanning firm investing from seed through buyout across application software, infrastructure software, consumer, and industrial tech + life sciences."
+    },
+    "track_record": {
+      "portfolio_count": "530+ portfolio companies; 70 IPOs and 185 M&A",
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [
+      { "name": "Howard Anderson", "role": "Co-founder (1983)" }
+    ],
+    "application": { "how_to_apply": "Warm intro preferred; inbound via website.", "accepts_cold_inbound": true },
+    "tags": ["tier-1", "multi-stage", "generalist"],
+    "summary": {
+      "en": "Battery Ventures, founded in 1983 in Boston, manages ~$13B as a multi-stage, sector-spanning firm investing from seed through buyout. Of 530+ portfolio companies, 70 have gone public and 185 have merged or been acquired."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Battery_Ventures", "title": "Battery Ventures - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "AUM, founded year, HQ, founders, portfolio/exit counts, sector focus", "quote": "$13 billion ... Founded in 1983 ... Boston, Massachusetts ... Rick Frisbie, Howard Anderson and Bob Barrett ... 70 of which have gone public and another 185 have merged or acquired ... Application software, Infrastructure software, Consumer, Industrial tech + life sciences" },
+      { "url": "https://dealroom.net/blog/top-venture-capital-firms", "title": "Top Venture Capital Firms by AUM", "publisher": "Dealroom", "accessed": "2026-06-02", "supports": "AUM ranking, HQ, founded year", "quote": "Battery Ventures | $16.8B | Boston, MA | 1983" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM cited as $13B (Wikipedia) vs $16.8B (Dealroom Q1 2026 ranking); Wikipedia article carries a promotional-content warning.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "us-thrive-capital",
+    "name": { "en": "Thrive Capital" },
+    "aka": ["Thrive"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2009,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York City, New York",
+    "website": "https://thrivecap.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/thrive-capital",
+      "other": ["https://en.wikipedia.org/wiki/Thrive_Capital"]
+    },
+    "capital": {
+      "aum": { "raw": "US$50 billion (2026)", "usd": 50000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "fintech", "consumer", "deeptech"],
+      "thesis": "Concentrated, multi-stage firm led by Josh Kushner making high-conviction bets, notably the only term sheet offered to OpenAI in 2022; backs internet and AI platforms."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "OpenAI", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Instagram", "sector": "consumer", "outcome": "acquired" },
+        { "company": "Stripe", "sector": "fintech", "outcome": "active" },
+        { "company": "GitHub", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Databricks", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Anysphere (Cursor)", "sector": "ai-ml", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Affirm", "type": "IPO", "year": 2021, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Nubank", "type": "IPO", "year": 2021, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Joshua Kushner", "role": "Founder & Managing Partner" },
+      { "name": "Nitin Nohria", "role": "Executive Chairman" }
+    ],
+    "application": { "how_to_apply": "Warm intro strongly preferred.", "accepts_cold_inbound": null },
+    "tags": ["tier-1", "household-name", "multi-stage", "ai", "concentrated"],
+    "summary": {
+      "en": "Thrive Capital, founded by Josh Kushner in 2009 at age 24 in New York, manages ~$50B (2026). A concentrated multi-stage firm, it was an early backer of Instagram, Stripe and GitHub and gave OpenAI its only 2022 term sheet."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Thrive_Capital", "title": "Thrive Capital - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "AUM, founded year, HQ, founder, notable investments, OpenAI term sheet, partners", "quote": "US$50 billion (2026) ... Founded 2009 ... Puck Building, New York City, New York, U.S. ... Joshua Kushner founded Thrive Capital in 2009, at 24 years old. ... In 2022, Thrive invested $130 million in OpenAI at a $29 billion valuation, the only term sheet the organization received at the time. ... ten of Thrive's portfolio companies went public, including Affirm and Nubank" },
+      { "url": "https://dealroom.net/blog/top-venture-capital-firms", "title": "Top Venture Capital Firms by AUM", "publisher": "Dealroom", "accessed": "2026-06-02", "supports": "AUM ranking, HQ, founded year", "quote": "Thrive Capital | $37.0B | New York, NY | 2009" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM figures vary widely by source/date: Wikipedia infobox $50B (2026), Dealroom Q1 2026 ranking $37.0B, Visible.vc $37B; used Wikipedia's most recent figure as primary.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "us-insight-partners",
+    "name": { "en": "Insight Partners" },
+    "aka": ["Insight Venture Partners"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 1995,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York City, New York",
+    "offices": [
+      { "country": "United States", "city": "New York City" },
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "Israel", "city": "Tel Aviv" },
+      { "country": "United States", "city": "Palo Alto, California" }
+    ],
+    "website": "https://www.insightpartners.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/insight-venture-partners",
+      "other": ["https://en.wikipedia.org/wiki/Insight_Partners"]
+    },
+    "capital": {
+      "aum": { "raw": "approximately $90 billion in assets under management (as of April 2025)", "usd": 90000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Europe", "Israel", "Global"],
+      "sector_focus": ["saas-enterprise", "fintech", "cybersecurity", "ai-ml"],
+      "thesis": "Global venture and private equity firm investing in high-growth software and internet businesses, mostly at scale-up and growth stages, with a hands-on 'Onsite' operations team."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Twitter", "sector": "consumer", "outcome": "acquired" },
+        { "company": "Shopify", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "Wix", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Qualtrics", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "monday.com", "sector": "saas-enterprise", "outcome": "IPO" }
+      ],
+      "exits": [
+        { "company": "Recorded Future", "type": "M&A", "year": 2024, "value": { "raw": "$2.65 billion (acquired by Mastercard)", "usd": 2650000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Jeff Horing", "role": "Co-founder & Managing Director" },
+      { "name": "Jerry Murdock", "role": "Co-founder" }
+    ],
+    "application": { "how_to_apply": "Warm intro preferred; inbound via website.", "accepts_cold_inbound": true },
+    "tags": ["tier-1", "household-name", "multi-stage", "growth", "software"],
+    "summary": {
+      "en": "Insight Partners, founded in 1995 by Jeff Horing and Jerry Murdock in New York, manages ~$90B (April 2025). A software/internet-focused venture and growth-equity firm, it backed Twitter, Shopify, Wix, Qualtrics and monday.com."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Insight_Partners", "title": "Insight Partners - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "AUM, founded year, HQ, founders, software focus, Recorded Future exit", "quote": "As of April 2025, the firm has approximately $90 billion in assets under management. ... Insight Partners was founded in 1995 by Jeff Horing and Jerry Murdock. ... headquartered in New York City ... invests in software and internet businesses ... Mastercard acquired cybersecurity company Recorded Future for $2.65 billion from Insight Partners" },
+      { "url": "https://dealroom.net/blog/top-venture-capital-firms", "title": "Top Venture Capital Firms by AUM", "publisher": "Dealroom", "accessed": "2026-06-02", "supports": "AUM ranking, HQ, founded year", "quote": "Insight Partners | $90.0B | New York, NY | 1995" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Insight is software-focused and leans growth/private-equity rather than a true seed-to-growth generalist; included as a brand-name multi-stage software investor with a growth-equity subtype. Specific portfolio names (Twitter, Shopify, Wix, Qualtrics, monday.com) are well-documented elsewhere but not all verbatim-confirmed in the fetched Wikipedia text.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  }
+]

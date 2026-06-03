@@ -1,0 +1,1015 @@
+[
+  {
+    "id": "in-fund-of-funds-for-startups",
+    "name": {
+      "en": "Fund of Funds for Startups (FFS)",
+      "local": "स्टार्टअप के लिए फंड ऑफ फंड्स"
+    },
+    "aka": ["FFS", "Startup India Fund of Funds", "SIDBI Fund of Funds for Startups"],
+    "type": "government-program",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Lucknow",
+    "website": "https://www.sidbivcf.in/en/funds/ffs",
+    "links": {
+      "other": ["https://www.startupindia.gov.in/", "https://www.sidbi.in/"]
+    },
+    "capital": {
+      "aum": { "raw": "₹10,000 crore", "usd": null, "currency": "INR" },
+      "current_fund": { "raw": "₹10,000 crore", "usd": null, "currency": "INR" },
+      "funds": [
+        { "name": "Fund of Funds for Startups (FFS) 1.0", "vintage_year": 2016, "size": { "raw": "₹10,000 crore", "usd": null, "currency": "INR" } },
+        { "name": "Startup India Fund of Funds 2.0", "vintage_year": 2025, "size": { "raw": "₹10,000 crore", "usd": null, "currency": "INR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": "commitments to SEBI-registered AIFs (daughter funds)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "fund-of-funds (invests in AIFs, not directly in startups)",
+      "geo_focus": ["India"],
+      "sector_focus": ["generalist", "deeptech"],
+      "thesis": "Government fund-of-funds that does not invest directly in startups; it commits capital to SEBI-registered Alternative Investment Funds (daughter funds), which in turn invest at least twice the FFS contribution into Indian startups. Implemented by SIDBI. FoF 2.0 prioritises deep tech, manufacturing and smaller/early-growth AIFs."
+    },
+    "track_record": {
+      "portfolio_count": "1,270+ startups (incl. 22 unicorns) via supported AIFs",
+      "co_investors": ["SEBI-registered Alternative Investment Funds"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "AIFs (not startups) apply to SIDBI to receive FFS commitments; startups raise from the AIFs that FFS backs.",
+      "accepts_cold_inbound": null,
+      "contact": "SIDBI Venture Capital Ltd"
+    },
+    "tags": ["fund-of-funds", "central-government", "DPIIT", "SIDBI", "AIF", "Startup India"],
+    "summary": {
+      "en": "India's flagship government fund-of-funds, announced in the Startup India Action Plan (2016) with a ₹10,000 crore corpus managed by SIDBI. It invests in SEBI-registered AIFs rather than startups directly. A second tranche, Startup India Fund of Funds 2.0 (₹10,000 crore), was notified in 2025 with a focus on deep tech and manufacturing.",
+      "local": "स्टार्टअप इंडिया एक्शन प्लान (2016) के तहत ₹10,000 करोड़ के कोष वाला भारत सरकार का प्रमुख फंड ऑफ फंड्स, जिसका प्रबंधन SIDBI करता है।"
+    },
+    "sources": [
+      {
+        "url": "https://www.sidbi.in/annualreport/AnnualReport202122/fund-of-funds.php",
+        "title": "Fund of Funds — SIDBI Annual Report 2021-22",
+        "publisher": "SIDBI",
+        "accessed": "2026-06-02",
+        "supports": "Corpus, year, sanctions and disbursements",
+        "quote": "₹10,000 crore to be managed with SIDBI ... ₹7,225.45 crore [sanctioned] ... ₹2,492.24 crore [disbursed] as of March 31, 2022"
+      },
+      {
+        "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1895964",
+        "title": "The Fund of Funds Scheme (FFS) for startups commits Rs. 7,980 crores to 99 AIFs",
+        "publisher": "Press Information Bureau, Government of India",
+        "accessed": "2026-06-02",
+        "supports": "Commitments to AIFs and investments in startups",
+        "quote": "The Fund of Funds Scheme (FFS) for startups commits Rs. 7,980 crores to 99 Alternative Investment Funds (AIFs) and Rs. 3,400 crores to 72 AIFs which have in turn made investments of Rs. 14,077 crore in 791 startups"
+      },
+      {
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2251638&reg=3&lang=1",
+        "title": "Government notifies Startup India Fund of Funds 2.0 with ₹10,000 crore corpus",
+        "publisher": "Press Information Bureau, Government of India",
+        "accessed": "2026-06-02",
+        "supports": "FoF 2.0 corpus and focus areas",
+        "quote": "Startup India Fund of Funds 2.0 ... with a total corpus of ₹10,000 crore ... focus on Alternative Investment Funds supporting priority segments including deep tech startups"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Cumulative figures vary by source/date (e.g. some secondary sources cite 145-150 AIFs and 1,270-1,370 startups and ₹91,000 crore catalysed). Used PIB and SIDBI primary figures for high-confidence numbers; later cumulative totals left as approximate ranges in summary.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "in-startup-india-seed-fund-scheme",
+    "name": {
+      "en": "Startup India Seed Fund Scheme (SISFS)",
+      "local": "स्टार्टअप इंडिया सीड फंड योजना"
+    },
+    "aka": ["SISFS", "Seed Fund Scheme"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "india",
+    "country": "India",
+    "hq_city": "New Delhi",
+    "website": "https://seedfund.startupindia.gov.in/",
+    "links": {
+      "other": ["https://www.startupindia.gov.in/", "https://www.myscheme.gov.in/schemes/sisfs-fs"]
+    },
+    "capital": {
+      "aum": { "raw": "₹945 crore", "usd": null, "currency": "INR" },
+      "current_fund": { "raw": "₹945 crore", "usd": null, "currency": "INR" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "up to ₹20 lakh grant (PoC/prototype) + up to ₹50 lakh investment (commercialisation)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "grant + convertible-debenture investment via incubators",
+      "geo_focus": ["India"],
+      "sector_focus": ["generalist"],
+      "thesis": "DPIIT scheme that channels seed capital to early-stage DPIIT-recognised startups through a network of ~300 approved incubators, which evaluate applications and disburse funds. Grants for proof of concept/prototype/product trials; convertible-debenture/debt investment for market entry, commercialisation and scale-up."
+    },
+    "program": {
+      "investment": { "raw": "up to ₹50 lakh per startup (plus up to ₹20 lakh grant)", "usd": null, "currency": "INR" },
+      "format": "via DPIIT-approved incubators",
+      "application_url": "https://seedfund.startupindia.gov.in/",
+      "application_cycles": ["rolling / quarterly via incubators"],
+      "eligibility": "DPIIT-recognised startup incorporated not more than 2 years ago at time of application; Indian-promoter majority; not received >₹10 lakh other monetary support (excl. prize money/competitions)."
+    },
+    "track_record": {
+      "portfolio_count": "2,600+ startups supported (as of Dec 2024)"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply on the Startup India Seed Fund portal selecting up to 3 incubators; the incubator's Selection Committee evaluates and disburses.",
+      "accepts_cold_inbound": true,
+      "contact": "DPIIT / approved incubators"
+    },
+    "tags": ["seed", "central-government", "DPIIT", "incubator-channel", "Startup India"],
+    "summary": {
+      "en": "A ₹945 crore DPIIT scheme (2021) providing seed capital to early-stage startups via ~300 approved incubators: up to ₹20 lakh grant for proof of concept/prototype and up to ₹50 lakh for commercialisation through convertible debentures or debt.",
+      "local": "DPIIT की ₹945 करोड़ की योजना (2021) जो लगभग 300 इन्क्यूबेटरों के माध्यम से शुरुआती स्टार्टअप को बीज पूंजी देती है।"
+    },
+    "sources": [
+      {
+        "url": "https://seedfund.startupindia.gov.in/",
+        "title": "Startup India Seed Fund Scheme (SISFS)",
+        "publisher": "DPIIT, Government of India",
+        "accessed": "2026-06-02",
+        "supports": "Scheme existence, portal, grant/investment structure",
+        "quote": "Startup India Seed Fund Scheme (SISFS)"
+      },
+      {
+        "url": "https://www.startupindia.gov.in/content/dam/invest-india/Templates/public/Guidelines%20for%20Startup%20India%20Seed%20Fund%20Scheme.pdf",
+        "title": "Guidelines for Startup India Seed Fund Scheme",
+        "publisher": "DPIIT, Government of India",
+        "accessed": "2026-06-02",
+        "supports": "Corpus, grant amount, investment amount, eligibility",
+        "quote": "Total Corpus: Rs 945 crore ... Up to Rs 20 lakh [PoC/prototype] ... Up to Rs 50 lakh [commercialisation] via convertible debentures ... DPIIT-recognised startups incorporated within maximum 2 years"
+      },
+      {
+        "url": "https://www.myscheme.gov.in/schemes/sisfs-fs",
+        "title": "Startup India Seed Fund Scheme — For Startups",
+        "publisher": "myScheme, Government of India",
+        "accessed": "2026-06-02",
+        "supports": "Network of ~300 incubators, ~3,600 startups target",
+        "quote": "up to Rs. 20 Lakhs as grant ... up to Rs. 50 Lakhs of investment ... through a network of around 300 DPIIT-approved incubators"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "PDF guidelines were partially compressed; corpus (₹945 crore) and amounts corroborated across the official portal, myScheme and DPIIT guidelines. 2,600+ supported figure is from secondary reporting as of Dec 2024.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "in-atal-innovation-mission",
+    "name": {
+      "en": "Atal Innovation Mission (AIM)",
+      "local": "अटल नवप्रवर्तन मिशन"
+    },
+    "aka": ["AIM", "Atal Innovation Mission, NITI Aayog"],
+    "type": "government-program",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "india",
+    "country": "India",
+    "hq_city": "New Delhi",
+    "website": "https://aim.gov.in/",
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/Atal_Innovation_Mission"]
+    },
+    "capital": {
+      "current_fund": { "raw": "AIM 2.0 outlay ₹2,750 crore (approved 2024)", "usd": null, "currency": "INR" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["India"],
+      "sector_focus": ["generalist", "deeptech", "healthtech", "agritech", "spacetech"],
+      "thesis": "NITI Aayog's flagship innovation mission (2016). Establishes and funds Atal Incubation Centres (AICs) at universities/institutions/corporates — each AIC eligible for up to ₹10 crore grant over five years — plus Atal Tinkering Labs in schools and Atal Community Innovation Centres (up to ₹2.5 crore on matching basis)."
+    },
+    "program": {
+      "investment": { "raw": "up to ₹10 crore grant per Atal Incubation Centre over 5 years", "usd": null, "currency": "INR" },
+      "format": "grants to incubators (AICs) and schools (ATLs)",
+      "eligibility": "Universities, institutions, corporates and individuals setting up AICs/ACICs; schools for Atal Tinkering Labs."
+    },
+    "track_record": {
+      "portfolio_count": "72 AICs; 3,500+ startups incubated; 10,000 Atal Tinkering Labs"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Call-for-applications for setting up Atal Incubation Centres / Atal Tinkering Labs via aim.gov.in.",
+      "accepts_cold_inbound": null,
+      "contact": "Atal Innovation Mission, NITI Aayog"
+    },
+    "tags": ["NITI-Aayog", "central-government", "incubation", "tinkering-labs", "innovation"],
+    "summary": {
+      "en": "NITI Aayog's flagship innovation mission set up in 2016. It funds Atal Incubation Centres (up to ₹10 crore each over five years), Atal Tinkering Labs in schools and Atal Community Innovation Centres. As of 2025 there are 72 AICs, 10,000 ATLs and 3,500+ startups incubated; AIM 2.0 (₹2,750 crore) was approved in 2024.",
+      "local": "नीति आयोग का प्रमुख नवप्रवर्तन मिशन (2016) जो अटल इन्क्यूबेशन सेंटर और अटल टिंकरिंग लैब को वित्तपोषित करता है।"
+    },
+    "sources": [
+      {
+        "url": "https://aim.gov.in/overview.php",
+        "title": "Atal Innovation Mission (AIM) — Overview",
+        "publisher": "NITI Aayog, Government of India",
+        "accessed": "2026-06-02",
+        "supports": "Founding, parent, AIC count, ATL count, startups incubated",
+        "quote": "72 AICs across India ... 3500+ startups are incubated at these AICs ... 10,000 Atal Tinkering Labs in Schools across the country"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Atal_Innovation_Mission",
+        "title": "Atal Innovation Mission — Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding year and parent organization",
+        "quote": "Founded: January 16, 2016 ... Parent Organization: NITI Aayog"
+      },
+      {
+        "url": "https://www.bajajfinserv.in/atal-innovation-mission",
+        "title": "Atal Innovation Mission: Objective, Achievements, and Initiatives",
+        "publisher": "Bajaj Finserv",
+        "accessed": "2026-06-02",
+        "supports": "AIC grant amount and AIM 2.0 outlay",
+        "quote": "Each AIC is provided up to ₹10 crore in grant funding ... AIM 2.0, approved in late 2024, with an enhanced financial outlay of ₹2,750 crore"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Per-AIC grant (₹10 crore) and AIM 2.0 outlay (₹2,750 crore) are from a reputable secondary source (Bajaj Finserv) as the AIM overview page did not state these explicitly; founding/parent/AIC-count are primary.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "in-meity-samridh",
+    "name": {
+      "en": "SAMRIDH — Startup Accelerators of MeitY for Product Innovation, Development and Growth",
+      "local": "समृद्ध"
+    },
+    "aka": ["SAMRIDH", "MeitY SAMRIDH"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "india",
+    "country": "India",
+    "hq_city": "New Delhi",
+    "website": "https://msh.meity.gov.in/schemes/samridh",
+    "links": {
+      "other": ["https://www.meity.gov.in/content/startup-accelerator-meity-product-innovation-development-and-growth-samridh-scheme"]
+    },
+    "capital": {
+      "current_fund": { "raw": "₹99 crore outlay over 4 years", "usd": null, "currency": "INR" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["India"],
+      "sector_focus": ["healthtech", "edtech", "agritech", "fintech", "saas-enterprise", "consumer"],
+      "thesis": "MeitY's flagship software-product startup acceleration programme under the National Policy on Software Products 2019. Works through established accelerators that provide acceleration services plus one-to-one matching investment of up to ₹40 lakh to selected startups; aims to support 300 software product startups."
+    },
+    "program": {
+      "cohort_size": "5-10 startups per accelerator",
+      "investment": { "raw": "up to ₹40 lakh matching funding per startup", "usd": null, "currency": "INR" },
+      "format": "via selected accelerators",
+      "eligibility": "Software product startups in focus areas (health-tech, ed-tech, agri-tech, consumer-tech, fin-tech, SaaS, sustainability) selected by partner accelerators."
+    },
+    "track_record": {
+      "portfolio_count": "target 300 startups; 22 accelerators selected in cohort 1"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Startups apply via SAMRIDH partner accelerators; accelerators selected via MeitY open calls for proposals.",
+      "accepts_cold_inbound": true,
+      "contact": "MeitY Startup Hub"
+    },
+    "tags": ["MeitY", "central-government", "accelerator", "software-product", "matching-investment"],
+    "summary": {
+      "en": "MeitY's ₹99 crore accelerator programme (launched Aug 2021) under the National Policy on Software Products 2019. It backs established accelerators that provide acceleration services and up to ₹40 lakh matching investment to software-product startups, targeting 300 startups. Cohort 2 launched in Sept 2024.",
+      "local": "MeitY की ₹99 करोड़ की एक्सेलेरेटर योजना (अगस्त 2021) जो सॉफ्टवेयर प्रोडक्ट स्टार्टअप को ₹40 लाख तक मैचिंग निवेश देती है।"
+    },
+    "sources": [
+      {
+        "url": "https://msh.meity.gov.in/schemes/samridh",
+        "title": "MeitY | SAMRIDH Scheme",
+        "publisher": "MeitY Startup Hub, Government of India",
+        "accessed": "2026-06-02",
+        "supports": "Scheme existence and ownership by MeitY",
+        "quote": "SAMRIDH"
+      },
+      {
+        "url": "https://www.meity.gov.in/content/startup-accelerator-meity-product-innovation-development-and-growth-samridh-scheme",
+        "title": "SAMRIDH Scheme",
+        "publisher": "Ministry of Electronics & IT, Government of India",
+        "accessed": "2026-06-02",
+        "supports": "Launch date, outlay, target, matching funding",
+        "quote": "launched in August 2021 aims to support 300 software product startups with outlay of ₹99 crore over a period of 4 years ... matching funding support of up to ₹40 lakh"
+      },
+      {
+        "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2052139",
+        "title": "Secretary, MeitY launches 2nd Cohort of SAMRIDH",
+        "publisher": "Press Information Bureau, Government of India",
+        "accessed": "2026-06-02",
+        "supports": "Cohort 1 accelerators, cohort 2 launch",
+        "quote": "22 accelerators from 12 States were selected ... second cohort SAMRIDH was launched on 4th September, 2024"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Outlay (₹99 crore), ₹40 lakh matching and 300-startup target corroborated by MeitY pages and PIB. Cohort/accelerator counts from PIB secondary summary.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "in-nidhi-dst",
+    "name": {
+      "en": "NIDHI — National Initiative for Developing and Harnessing Innovations (DST)",
+      "local": "निधि"
+    },
+    "aka": ["NIDHI", "NIDHI PRAYAS", "NIDHI-TBI", "NIDHI Seed Support System"],
+    "type": "government-program",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "india",
+    "country": "India",
+    "hq_city": "New Delhi",
+    "website": "https://nidhi.dst.gov.in/",
+    "links": {
+      "other": ["https://nidhi-prayas.org/", "https://dst.gov.in/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["India"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "generalist"],
+      "thesis": "Umbrella programme of the Department of Science & Technology (NSTEDB) to nurture knowledge-based and technology-driven ideas into startups. Components include NIDHI-PRAYAS (idea-to-prototype, up to ₹10 lakh per innovator), NIDHI-Seed Support System, NIDHI Technology Business Incubators (TBI/iTBI) and Centres of Excellence — a network of 160+ TBIs."
+    },
+    "program": {
+      "investment": { "raw": "up to ₹10 lakh per innovator under NIDHI-PRAYAS", "usd": null, "currency": "INR" },
+      "format": "grants via DST-supported incubators",
+      "eligibility": "Innovators/early-stage startups with technology-driven ideas hosted at NIDHI/DST incubators."
+    },
+    "track_record": {
+      "portfolio_count": "160+ Technology Business Incubators; 8 NIDHI Centres of Excellence"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to NIDHI-PRAYAS centres / NIDHI TBIs via nidhi.dst.gov.in calls.",
+      "accepts_cold_inbound": true,
+      "contact": "NSTEDB, Department of Science & Technology"
+    },
+    "tags": ["DST", "NSTEDB", "central-government", "deeptech", "incubation", "PRAYAS"],
+    "summary": {
+      "en": "An umbrella programme of the Department of Science & Technology (NSTEDB) supporting tech-driven startups from idea to scale through NIDHI-PRAYAS (up to ₹10 lakh/innovator), Seed Support System, and a network of 160+ Technology Business Incubators and 8 Centres of Excellence.",
+      "local": "विज्ञान एवं प्रौद्योगिकी विभाग (NSTEDB) का छत्र कार्यक्रम जो NIDHI-PRAYAS के तहत प्रति इनोवेटर ₹10 लाख तक देता है।"
+    },
+    "sources": [
+      {
+        "url": "https://nidhi.dst.gov.in/about-department/about-nidhi/",
+        "title": "About NIDHI",
+        "publisher": "Department of Science & Technology, Government of India",
+        "accessed": "2026-06-02",
+        "supports": "Umbrella programme description and parent body",
+        "quote": "NIDHI is an umbrella programme conceived and developed by the ... National Science and Technology Entrepreneurship Development Board, of Department of Science & Technology, Government of India"
+      },
+      {
+        "url": "https://nidhi.dst.gov.in/schemes-programmes/nidhiprayas/",
+        "title": "NIDHI-PRAYAS",
+        "publisher": "Department of Science & Technology, Government of India",
+        "accessed": "2026-06-02",
+        "supports": "PRAYAS funding amount",
+        "quote": "The maximum funding support offered to an innovator/Startup under this program is INR 10 lakhs"
+      },
+      {
+        "url": "https://nidhi.dst.gov.in/nidhitbi/",
+        "title": "NIDHI — Technology Business Incubators",
+        "publisher": "Department of Science & Technology, Government of India",
+        "accessed": "2026-06-02",
+        "supports": "Network of incubators and centres of excellence",
+        "quote": "more than 160 Technology Business Incubators (TBIs) / NIDHI TBIs and 8 NIDHI Centres of Excellence (NIDHI-CoE) across the country"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "PRAYAS amount and TBI/CoE counts are primary (DST pages). NIDHI launch commonly dated to 2016 under NSTEDB; founding_year reflects programme launch.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "in-birac-big",
+    "name": {
+      "en": "BIRAC — Biotechnology Ignition Grant (BIG)",
+      "local": "बायोटेक्नोलॉजी इग्निशन ग्रांट"
+    },
+    "aka": ["BIG", "BIRAC BIG", "Biotechnology Industry Research Assistance Council"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "india",
+    "country": "India",
+    "hq_city": "New Delhi",
+    "website": "https://birac.nic.in/big.php",
+    "links": {
+      "other": ["https://birac.nic.in/", "https://www.indiascienceandtechnology.gov.in/funding-opportunities/startups/biotechnology-ignition-grant-scheme-big"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["India"],
+      "sector_focus": ["biotech", "healthtech"],
+      "thesis": "Flagship early-stage grant of BIRAC (a PSU under the Department of Biotechnology). BIG is India's largest early-stage biotech grant programme, providing up to ₹50 lakh grant-in-aid over 18 months to translate ideas into proof of concept, with no equity dilution. Delivered through BIG Partner incubators."
+    },
+    "program": {
+      "length_weeks": 78,
+      "equity_taken_pct": 0,
+      "investment": { "raw": "up to ₹50 lakh grant-in-aid over 18 months", "usd": null, "currency": "INR" },
+      "format": "grant via 8 BIG Partner incubators",
+      "eligibility": "Indian citizens or companies/LLPs less than 5 years old with at least 51% Indian ownership; project leader with science/engineering/medicine degree; incubatee or registered company with functional R&D lab."
+    },
+    "track_record": {
+      "portfolio_count": "largest early-stage biotech grant programme in India"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to BIRAC BIG calls via one of the 8 BIG Partner incubators.",
+      "accepts_cold_inbound": true,
+      "contact": "BIRAC, Department of Biotechnology"
+    },
+    "tags": ["BIRAC", "DBT", "central-government", "biotech", "grant", "non-dilutive"],
+    "summary": {
+      "en": "The flagship early-stage grant of BIRAC (a Department of Biotechnology PSU). BIG provides up to ₹50 lakh grant-in-aid over 18 months for proof of concept with no equity dilution, delivered through 8 BIG Partner incubators. It is India's largest early-stage biotech funding programme.",
+      "local": "BIRAC (जैव प्रौद्योगिकी विभाग) का प्रमुख अनुदान जो प्रूफ ऑफ कॉन्सेप्ट के लिए 18 महीने में ₹50 लाख तक देता है।"
+    },
+    "sources": [
+      {
+        "url": "https://birac.nic.in/big.php",
+        "title": "Biotechnology Ignition Grant Scheme (BIG)",
+        "publisher": "BIRAC, Department of Biotechnology, Government of India",
+        "accessed": "2026-06-02",
+        "supports": "Grant amount, duration, no equity, largest biotech grant",
+        "quote": "BIG provides early-stage funding support of INR 50 Lakhs as grant-in-aid for a period of 18 months to translate innovative ideas into Proof of Concept ... largest early stage biotech funding programme in India"
+      },
+      {
+        "url": "https://www.myscheme.gov.in/schemes/big",
+        "title": "Biotechnology Ignition Grant Scheme",
+        "publisher": "myScheme, Government of India",
+        "accessed": "2026-06-02",
+        "supports": "Eligibility and 8 BIG Partners",
+        "quote": "companies/LLPs less than 5 years old with at least 51% Indian ownership ... managed through 8 BIG Partners"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "BIRAC founded 2012; BIG is its flagship scheme. Grant amount and 18-month/no-equity terms are primary (BIRAC). The '15 lakh biotech startups / ₹4,200 crore' figure from one secondary source appears inflated and was not used.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "in-credit-guarantee-scheme-for-startups",
+    "name": {
+      "en": "Credit Guarantee Scheme for Startups (CGSS)",
+      "local": "स्टार्टअप के लिए ऋण गारंटी योजना"
+    },
+    "aka": ["CGSS"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "india",
+    "country": "India",
+    "hq_city": "New Delhi",
+    "website": "https://www.startupindia.gov.in/content/sih/en/credit-guarantee-scheme-for-startups.html",
+    "links": {
+      "other": ["https://www.ncgtc.in/en/product-details/CGSS/Credit-Guarantee-Scheme-for-Start-ups-(CGSS)"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": "guarantee cover up to ₹20 crore per borrower", "usd_min": null, "usd_max": null },
+      "geo_focus": ["India"],
+      "sector_focus": ["generalist"],
+      "thesis": "DPIIT credit-guarantee scheme operationalised by NCGTC. It provides credit guarantee cover (not direct funding) to Member Institutions (banks/NBFCs/AIFs) lending to DPIIT-recognised startups via venture debt, working capital and other debt instruments. Guarantee ceiling raised from ₹10 crore to ₹20 crore per borrower."
+    },
+    "program": {
+      "investment": { "raw": "guarantee cover up to ₹20 crore per borrower (85% of default up to ₹10 crore; 75% above)", "usd": null, "currency": "INR" },
+      "format": "guarantee cover via NCGTC to Member Institutions",
+      "eligibility": "DPIIT-recognised startups not in default and not classified as NPA per RBI guidelines."
+    },
+    "track_record": {},
+    "people": [],
+    "application": {
+      "how_to_apply": "Startups borrow from Member Institutions (banks/NBFCs/AIFs) who avail guarantee cover from NCGTC.",
+      "accepts_cold_inbound": null,
+      "contact": "NCGTC / DPIIT"
+    },
+    "tags": ["DPIIT", "NCGTC", "central-government", "credit-guarantee", "venture-debt", "non-dilutive"],
+    "summary": {
+      "en": "A DPIIT credit-guarantee scheme (2022) operationalised by NCGTC that backs loans (venture debt, working capital, etc.) to DPIIT-recognised startups. It provides guarantee cover to lending Member Institutions, with the per-borrower ceiling raised from ₹10 crore to ₹20 crore.",
+      "local": "DPIIT की ऋण गारंटी योजना (2022) जो NCGTC के माध्यम से DPIIT-मान्यता प्राप्त स्टार्टअप को दिए गए ऋणों पर गारंटी कवर देती है।"
+    },
+    "sources": [
+      {
+        "url": "https://www.ncgtc.in/en/product-details/CGSS/Credit-Guarantee-Scheme-for-Start-ups-(CGSS)",
+        "title": "Credit Guarantee Scheme for Startups (CGSS)",
+        "publisher": "National Credit Guarantee Trustee Company (NCGTC)",
+        "accessed": "2026-06-02",
+        "supports": "Administering bodies and mechanism",
+        "quote": "administered by the Department for Promotion of Industry and Internal Trade (DPIIT) and operationalized by the National Credit Guarantee Trustee Company Limited (NCGTC)"
+      },
+      {
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127843",
+        "title": "Government notifies the expansion of the Credit Guarantee Scheme for Startups (CGSS)",
+        "publisher": "Press Information Bureau, Government of India",
+        "accessed": "2026-06-02",
+        "supports": "Guarantee ceiling increase and coverage extent",
+        "quote": "increases the ceiling on guarantee cover per borrower under the Scheme from Rs. 10 crore to Rs. 20 crore ... 85% of the amount in default for loan amount up to Rs. 10 crore and 75% ... exceeding Rs. 10 crore"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Scheme notified Oct 2022; expansion (₹20 crore) notified later. Figures are primary (NCGTC/PIB). No direct equity investment — guarantee cover only.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "in-stand-up-india",
+    "name": {
+      "en": "Stand-Up India Scheme",
+      "local": "स्टैंड-अप इंडिया योजना"
+    },
+    "aka": ["Stand Up India", "Stand-Up India"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "india",
+    "country": "India",
+    "hq_city": "New Delhi",
+    "website": "https://www.standupmitra.in/",
+    "links": {
+      "other": ["https://www.ibef.org/government-schemes/stand-up-india", "https://en.wikipedia.org/wiki/Stand-Up_India"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "₹10 lakh to ₹1 crore composite bank loan", "usd_min": null, "usd_max": null },
+      "geo_focus": ["India"],
+      "sector_focus": ["generalist"],
+      "thesis": "Government scheme facilitating collateral-free composite bank loans between ₹10 lakh and ₹1 crore to at least one SC/ST and one woman borrower per bank branch for greenfield enterprises in manufacturing, services, trading or agri-allied activities. Backed by the Credit Guarantee Fund for Stand-Up India (CGFSI)."
+    },
+    "program": {
+      "investment": { "raw": "₹10 lakh to ₹1 crore composite bank loan (debt, not equity)", "usd": null, "currency": "INR" },
+      "format": "bank loans via scheduled commercial banks",
+      "eligibility": "SC/ST and/or women entrepreneurs (18+) setting up a greenfield enterprise; for non-individual enterprises, 51%+ held by SC/ST/woman."
+    },
+    "track_record": {
+      "portfolio_count": "~275,321 beneficiaries; ₹62,807 crore sanctioned (as of Oct 2025)"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via the Stand-Up India (standupmitra) portal or directly at bank branches.",
+      "accepts_cold_inbound": true,
+      "contact": "Scheduled commercial banks / SIDBI (portal)"
+    },
+    "tags": ["central-government", "bank-loan", "women-entrepreneurs", "SC-ST", "debt", "non-dilutive"],
+    "summary": {
+      "en": "A 2016 Government of India scheme facilitating collateral-free composite bank loans of ₹10 lakh to ₹1 crore to SC/ST and women entrepreneurs for greenfield enterprises. As of Oct 2025 banks had sanctioned ~₹62,807 crore to ~275,321 beneficiaries. It is debt finance (not equity).",
+      "local": "2016 की भारत सरकार योजना जो SC/ST और महिला उद्यमियों को ₹10 लाख से ₹1 करोड़ तक का बैंक ऋण देती है।"
+    },
+    "sources": [
+      {
+        "url": "https://www.ibef.org/government-schemes/stand-up-india",
+        "title": "Stand-Up India Scheme | Empowering Women & SC/ST Entrepreneurs",
+        "publisher": "India Brand Equity Foundation (IBEF)",
+        "accessed": "2026-06-02",
+        "supports": "Loan range, eligibility, beneficiaries, amount sanctioned",
+        "quote": "composite bank loans ... between Rs. 10 lakh and Rs. 1 crore to at least one SC or ST borrower and one-woman borrower per bank branch ... banks have sanctioned Rs. 62,807.46 crore ... to about 275,321 beneficiaries"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Stand-Up_India",
+        "title": "Stand-Up India — Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Launch year and purpose",
+        "quote": "launched by the Government of India in 2016 to promote entrepreneurship ... to Scheduled Caste (SC) / Scheduled Tribe (ST) and women entrepreneurs"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Debt-financing scheme (not venture equity), but a core government startup-finance program. Loan range and cumulative sanctions/beneficiaries from IBEF; launch year corroborated by Wikipedia.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "in-stpi-coe-ngis",
+    "name": {
+      "en": "Software Technology Parks of India (STPI) — CoEs / NGIS",
+      "local": "सॉफ्टवेयर टेक्नोलॉजी पार्क्स ऑफ इंडिया"
+    },
+    "aka": ["STPI", "STPI Centres of Entrepreneurship", "STPINEXT", "NGIS"],
+    "type": "government-program",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 1991,
+    "region": "india",
+    "country": "India",
+    "hq_city": "New Delhi",
+    "website": "https://stpi.in/en/stpi-startup-ecosystem",
+    "links": {
+      "other": ["https://startup.stpi.in/", "https://stpi.in/en/stpi-coe"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["India"],
+      "sector_focus": ["ai-ml", "fintech", "healthtech", "agritech", "deeptech", "saas-enterprise"],
+      "thesis": "MeitY autonomous society (est. 1991). Runs Centres of Entrepreneurship (CoEs) and the Next Generation Incubation Scheme (NGIS) to incubate tech-product startups in emerging domains (AI, IoT, fintech, medtech, agritech, etc.), with seed funding support and infrastructure. 23 CoEs launched targeting 1,900+ startups."
+    },
+    "program": {
+      "investment": { "raw": "up to ₹5 lakh seed funding support (CoE startups)", "usd": null, "currency": "INR" },
+      "format": "incubation via STPI Centres of Entrepreneurship",
+      "eligibility": "Tech-product startups in emerging-technology domains incubated under STPI CoEs / NGIS."
+    },
+    "track_record": {
+      "portfolio_count": "23 CoEs; target 1,900+ startups"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via STPI CoE / NGIS calls on startup.stpi.in.",
+      "accepts_cold_inbound": true,
+      "contact": "STPI, MeitY"
+    },
+    "tags": ["STPI", "MeitY", "central-government", "incubation", "CoE", "NGIS"],
+    "summary": {
+      "en": "An autonomous MeitY society (est. 1991) that, alongside its export-promotion role, runs Centres of Entrepreneurship and the Next Generation Incubation Scheme to incubate emerging-tech product startups, with seed support up to ₹5 lakh. It has launched 23 CoEs targeting 1,900+ startups.",
+      "local": "MeitY की स्वायत्त संस्था (1991) जो उभरती तकनीक के स्टार्टअप के लिए सेंटर ऑफ एंटरप्रेन्योरशिप और NGIS चलाती है।"
+    },
+    "sources": [
+      {
+        "url": "https://stpi.in/en/stpi-startup-ecosystem",
+        "title": "STPI Startup Ecosystem",
+        "publisher": "Software Technology Parks of India, MeitY",
+        "accessed": "2026-06-02",
+        "supports": "CoEs and NGIS initiatives",
+        "quote": "Centres of Entrepreneurship (CoEs) and Next Generation Incubation Scheme (NGIS) to provide a robust collaborative ecosystem to tech startups"
+      },
+      {
+        "url": "https://stpi.in/en/stpi-coe",
+        "title": "STPI Centres of Entrepreneurship",
+        "publisher": "Software Technology Parks of India, MeitY",
+        "accessed": "2026-06-02",
+        "supports": "Number of CoEs and startup target",
+        "quote": "23 CoEs in emerging technology domains and targets to support 1,900+ startups"
+      },
+      {
+        "url": "https://www.startupgrantsindia.com/providers/software-technology-parks-of-india-stpi",
+        "title": "Software Technology Parks of India (STPI) — Programs",
+        "publisher": "Startup Grants India",
+        "accessed": "2026-06-02",
+        "supports": "Seed funding up to ₹5 lakh",
+        "quote": "13 start-ups under CoEs program have been provided with funding support up to Rs. 5 Lakh"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "STPI founded 1991 as an MeitY society; CoE/NGIS startup-funding role is the relevant part. ₹5 lakh seed figure is from a secondary aggregator; CoE count and target are primary.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "in-t-hub",
+    "name": {
+      "en": "T-Hub",
+      "local": "టి-హబ్"
+    },
+    "aka": ["T-Hub", "Technology Hub", "T-Hub Foundation"],
+    "type": "government-program",
+    "subtypes": ["incubator", "accelerator"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Hyderabad",
+    "website": "https://t-hub.co/",
+    "links": {
+      "linkedin": "https://in.linkedin.com/company/thubhyd",
+      "other": ["https://it.telangana.gov.in/initiatives/t-hub/", "https://en.wikipedia.org/wiki/T-Hub"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["India"],
+      "sector_focus": ["generalist", "saas-enterprise", "fintech", "healthtech"],
+      "thesis": "A Government of Telangana initiative (with IIIT-H, ISB, NALSAR and private partners) under the triple-helix model. India's largest innovation/incubation campus; its T-Hub 2.0 facility (5.82 lakh sq ft, inaugurated 2022) is described as the world's largest startup incubation centre. Provides incubation, acceleration, corporate-innovation and investor connect."
+    },
+    "program": {
+      "format": "in-person, campus-based incubation/acceleration",
+      "location": "Raidurg / Gachibowli, Hyderabad",
+      "eligibility": "Startups across stages and sectors selected into T-Hub programs."
+    },
+    "track_record": {
+      "portfolio_count": "2,000+ startups supported; $2B+ funding facilitated; 25,000+ jobs"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to T-Hub programs via t-hub.co.",
+      "accepts_cold_inbound": true,
+      "contact": "T-Hub Foundation, Hyderabad"
+    },
+    "tags": ["Telangana", "state-government", "incubator", "accelerator", "PPP", "largest-in-world"],
+    "summary": {
+      "en": "A Government of Telangana initiative (incorporated 2015) and India's largest startup incubator. Its 2022 campus (5.82 lakh sq ft) is described as the world's largest innovation campus. T-Hub has supported 2,000+ startups, helped raise $2B+ and created 25,000+ jobs.",
+      "local": "తెలంగాణ ప్రభుత్వ చొరవ (2015) — భారతదేశంలో అతిపెద్ద స్టార్టప్ ఇంక్యుబేటర్."
+    },
+    "sources": [
+      {
+        "url": "https://it.telangana.gov.in/initiatives/t-hub/",
+        "title": "T-Hub — Department of IT, Telangana",
+        "publisher": "Government of Telangana",
+        "accessed": "2026-06-02",
+        "supports": "Government of Telangana initiative",
+        "quote": "T-Hub ... is a government of Telangana initiative ... a novel intervention of the government of Telangana to promote entrepreneurship in the State"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/T-Hub",
+        "title": "T-Hub — Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Incorporation year, launch, partners, campus size",
+        "quote": "T-Hub was incorporated in 2015 ... formally launched ... on 5 November 2015 ... partnership between the Government of Telangana, three academic institutes ... new facility, inaugurated in 2022 ... spanning 5.82 lakh square feet"
+      },
+      {
+        "url": "https://www.entrepreneur.com/en-in/news-and-trends/t-hub-worlds-largest-innovation-campus-opens-in-hyderabad/430430",
+        "title": "T-Hub: World's Largest Innovation Campus Opens In Hyderabad",
+        "publisher": "Entrepreneur India",
+        "accessed": "2026-06-02",
+        "supports": "Startups supported, funding facilitated, jobs",
+        "quote": "T-Hub has supported 2,000+ startups, securing over $2 billion in funding and creating 25,000+ jobs"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Incorporation (2015) and partners are primary (Telangana govt + Wikipedia). 2,000+ startups / $2B / 25,000 jobs from reputable secondary reporting and may aggregate over time.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "in-kerala-startup-mission",
+    "name": {
+      "en": "Kerala Startup Mission (KSUM)",
+      "local": "കേരള സ്റ്റാർട്ടപ്പ് മിഷൻ"
+    },
+    "aka": ["KSUM", "Kerala Startup Mission"],
+    "type": "government-program",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Thiruvananthapuram",
+    "website": "https://startupmission.kerala.gov.in/",
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/Kerala_Startup_Mission", "https://eitd.kerala.gov.in/en/kerala-startup-mission/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["India", "Kerala"],
+      "sector_focus": ["generalist", "saas-enterprise", "hardware-semiconductor", "biotech", "robotics"],
+      "thesis": "Nodal agency of the Government of Kerala for entrepreneurship development and incubation (est. 2014). Runs a seed fund, innovation grants and specialised facilities (Maker Village for hardware, BioNest for life sciences, BRINC for drones, LEAP coworking). Grants range roughly ₹5-15 lakh by category/stage."
+    },
+    "program": {
+      "investment": { "raw": "grants ranging ₹5 lakh to ₹15 lakh by category/stage", "usd": null, "currency": "INR" },
+      "format": "state incubators, coworking and seed fund",
+      "eligibility": "Kerala-registered startups recognised by KSUM."
+    },
+    "track_record": {
+      "portfolio_count": "6,000+ recognised startups; 60+ incubators"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Register and apply via startupmission.kerala.gov.in schemes.",
+      "accepts_cold_inbound": true,
+      "contact": "Kerala Startup Mission, Thiruvananthapuram"
+    },
+    "tags": ["Kerala", "state-government", "incubator", "seed-fund", "innovation-grant"],
+    "summary": {
+      "en": "The Government of Kerala's nodal agency for startups (est. 2014). It runs a seed fund, innovation grants (~₹5-15 lakh) and specialised facilities like Maker Village, BioNest and BRINC. It has supported 6,000+ recognised startups across 60+ incubators.",
+      "local": "കേരള സർക്കാരിന്റെ സ്റ്റാർട്ടപ്പ് നോഡൽ ഏജൻസി (2014) — സീഡ് ഫണ്ടും ഇൻകുബേറ്ററുകളും നടത്തുന്നു."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Kerala_Startup_Mission",
+        "title": "Kerala Startup Mission — Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founding year and nodal-agency role",
+        "quote": "KSUM is a nodal agency of the Government of Kerala for entrepreneurship development and incubation activities ... Established in 2014"
+      },
+      {
+        "url": "https://www.blueberryfm.com/blogs/news/kerala-startup-mission-ksum-subsidies-schemes-2026",
+        "title": "Kerala Startup Mission KSUM 2026 — Subsidies, Grants & Incubation Guide",
+        "publisher": "Blueberry",
+        "accessed": "2026-06-02",
+        "supports": "Startup count, incubators, grant ranges",
+        "quote": "6,000+ recognized startups, 20+ incubators, and ₹500+ Crores in funding facilitated ... grants ranging from ₹5 lakhs to ₹15 lakhs"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year (2014) and nodal-agency status are primary/Wikipedia. Grant ranges and aggregate counts vary across secondary sources (6,000-6,400 startups, 20-63 incubators); reported as approximate.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "in-c-camp",
+    "name": {
+      "en": "Centre for Cellular and Molecular Platforms (C-CAMP)",
+      "local": "सेंटर फॉर सेल्युलर एंड मॉलिक्युलर प्लेटफॉर्म्स"
+    },
+    "aka": ["C-CAMP", "CCAMP"],
+    "type": "government-program",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2009,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "website": "https://www.ccamp.res.in/",
+    "links": {
+      "linkedin": "https://in.linkedin.com/company/c-camp-india",
+      "other": ["https://www.ccamp.res.in/incubation"]
+    },
+    "capital": {
+      "aum": { "raw": "up to ₹80 crore invested across portfolio", "usd": null, "currency": "INR" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["India"],
+      "sector_focus": ["biotech", "healthtech", "agritech"],
+      "thesis": "A life-sciences innovation and bio-incubation centre supported by the Department of Biotechnology (Government of India), part of the Bangalore Life Science Cluster. Runs bio-incubation supported by BIRAC BioNEST, AIM and the Karnataka government; funds, mentors and incubates life-sciences, agritech and medtech startups."
+    },
+    "program": {
+      "format": "bio-incubation with lab infrastructure and funding",
+      "location": "NCBS-TIFR campus, Bengaluru",
+      "eligibility": "Life-sciences, agritech and medtech startups."
+    },
+    "track_record": {
+      "portfolio_count": "450 startups funded/mentored/incubated; 2,000+ associated; ₹2,000 crore+ raised by portfolio"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to C-CAMP incubation / programs via ccamp.res.in.",
+      "accepts_cold_inbound": true,
+      "contact": "C-CAMP, Bengaluru"
+    },
+    "tags": ["DBT", "BIRAC", "Karnataka", "central-government", "bio-incubator", "life-sciences"],
+    "summary": {
+      "en": "A Department of Biotechnology-supported life-sciences innovation and bio-incubation centre in Bengaluru (est. 2009), part of the Bangalore Life Science Cluster. It has directly funded, mentored or incubated 450 startups (2,000+ associated) and invested up to ₹80 crore, helping portfolio raise ₹2,000 crore+.",
+      "local": "जैव प्रौद्योगिकी विभाग समर्थित बेंगलुरु का जीवन विज्ञान बायो-इन्क्यूबेशन केंद्र (2009)।"
+    },
+    "sources": [
+      {
+        "url": "https://www.ccamp.res.in/incubation",
+        "title": "Incubation at C-CAMP",
+        "publisher": "C-CAMP",
+        "accessed": "2026-06-02",
+        "supports": "DBT support, founding, bio-incubation",
+        "quote": "C-CAMP is an initiative supported by the Department of Biotechnology, Government of India ... since 2009 ... bio incubation program ... supported ... with the support of BIRAC BioNEST, Niti Aayog AIM"
+      },
+      {
+        "url": "https://www.startupgrantsindia.com/providers/c-camp-bangalore",
+        "title": "Centre for Cellular and Molecular Platforms (C-CAMP) — Programs",
+        "publisher": "Startup Grants India",
+        "accessed": "2026-06-02",
+        "supports": "Startups funded, amount invested, capital raised",
+        "quote": "C-CAMP has directly funded, mentored or incubated 450 startups ... invested up to ₹80 crore in its portfolio and helped its startups raise over ₹2,000 crore"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "DBT support and 2009 founding are primary (C-CAMP). Portfolio/investment figures (450 startups, ₹80 crore, ₹2,000 crore raised) are from a secondary aggregator and may vary by date.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "in-icreate",
+    "name": {
+      "en": "iCreate — International Centre for Entrepreneurship and Technology",
+      "local": "आईक्रिएट"
+    },
+    "aka": ["iCreate", "International Centre for Entrepreneurship and Technology", "GFEE"],
+    "type": "government-program",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Ahmedabad",
+    "website": "https://icreate.org.in/",
+    "links": {
+      "other": ["https://icreate.org.in/about-us/", "https://www.indiascienceandtechnology.gov.in/innovations/incubators/international-centre-entrepreneurship-and-technology-icreate-gujarat-foundation-entrepreneurial"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["India"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "agritech", "climate-energy", "healthtech"],
+      "thesis": "A technology business incubator backed by the Government of Gujarat and Government of India, run through GFEE (a 50:50 JV between GMDC, a state PSU, and GEVPF). Provides mentoring, prototyping support and grants up to ₹30 lakh (product development and go-to-market) over 12 months across host government schemes."
+    },
+    "program": {
+      "length_weeks": 52,
+      "investment": { "raw": "grants up to ₹30 lakh (product development + go-to-market), 12 months", "usd": null, "currency": "INR" },
+      "format": "technology business incubation",
+      "location": "Ahmedabad, Gujarat",
+      "eligibility": "Tech startups across India hosted at iCreate under government schemes."
+    },
+    "track_record": {
+      "portfolio_count": "National Award for Technology Business Incubator 2020 (NSTEDB)"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via icreate.org.in program listings.",
+      "accepts_cold_inbound": true,
+      "contact": "iCreate / GFEE, Ahmedabad"
+    },
+    "tags": ["Gujarat", "state-government", "central-government", "incubator", "deeptech", "TBI"],
+    "summary": {
+      "en": "A technology business incubator in Ahmedabad (started 2012) backed by the Governments of Gujarat and India via GFEE, a 50:50 JV between the state PSU GMDC and GEVPF. It offers mentoring and grants up to ₹30 lakh for product development and go-to-market, and won the 2020 NSTEDB national TBI award.",
+      "local": "गुजरात और भारत सरकार समर्थित अहमदाबाद का प्रौद्योगिकी व्यवसाय इन्क्यूबेटर (2012)।"
+    },
+    "sources": [
+      {
+        "url": "https://icreate.org.in/about-us/",
+        "title": "About Us — iCreate",
+        "publisher": "iCreate",
+        "accessed": "2026-06-02",
+        "supports": "Founding, government backing, GFEE JV",
+        "quote": "Started in 2012, iCreate is supported by the Government of Gujarat as well as the Government of India ... GFEE ... a 50:50 joint venture between GMDC ... and GEVPF"
+      },
+      {
+        "url": "https://www.indiascienceandtechnology.gov.in/innovations/incubators/international-centre-entrepreneurship-and-technology-icreate-gujarat-foundation-entrepreneurial",
+        "title": "iCreate at Gujarat Foundation for Entrepreneurial Excellence",
+        "publisher": "ISTI Portal, Government of India",
+        "accessed": "2026-06-02",
+        "supports": "Incubator listing and government association",
+        "quote": "International Centre for Entrepreneurship and Technology (iCreate) at Gujarat Foundation for Entrepreneurial Excellence (GFEE)"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding (2012), government backing and GFEE JV are primary (iCreate + ISTI). ₹30 lakh grant figure is from the iCreate site description via search snippet.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "in-maharashtra-state-innovation-society",
+    "name": {
+      "en": "Maharashtra State Innovation Society (MSInS)",
+      "local": "महाराष्ट्र राज्य नवप्रवर्तन सोसायटी"
+    },
+    "aka": ["MSInS", "Maharashtra State Innovation Society"],
+    "type": "government-program",
+    "subtypes": ["accelerator", "incubator"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "website": "https://msins.in/",
+    "links": {
+      "other": ["http://www.mahastartupweek.msins.in/", "https://msins.in/IncubationProgram"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["India", "Maharashtra"],
+      "sector_focus": ["generalist"],
+      "thesis": "Government of Maharashtra's nodal body for innovation and entrepreneurship. Runs Maharashtra Startup Week (winners get government work orders up to ₹15 lakh to pilot solutions with state departments), incubation support, grand challenges, IPR/quality-testing support and Startup Yatra."
+    },
+    "program": {
+      "investment": { "raw": "government work orders up to ₹15 lakh per winning startup (Maharashtra Startup Week)", "usd": null, "currency": "INR" },
+      "format": "challenges, incubation support, work orders",
+      "eligibility": "Maharashtra/India startups with governance-relevant solutions."
+    },
+    "track_record": {},
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via msins.in / Maharashtra Startup Week portal.",
+      "accepts_cold_inbound": true,
+      "contact": "Maharashtra State Innovation Society"
+    },
+    "tags": ["Maharashtra", "state-government", "startup-week", "work-orders", "incubation"],
+    "summary": {
+      "en": "Government of Maharashtra's nodal innovation body. Its flagship Maharashtra Startup Week awards winning startups government work orders of up to ₹15 lakh each to pilot solutions with state departments, alongside incubation support, grand challenges and IPR/quality-testing assistance.",
+      "local": "महाराष्ट्र सरकार की नवप्रवर्तन संस्था, जिसकी महाराष्ट्र स्टार्टअप वीक विजेताओं को ₹15 लाख तक के सरकारी कार्य आदेश देती है।"
+    },
+    "sources": [
+      {
+        "url": "https://msins.in/",
+        "title": "Maharashtra State Innovation Society — Home",
+        "publisher": "Government of Maharashtra",
+        "accessed": "2026-06-02",
+        "supports": "Government of Maharashtra initiative",
+        "quote": "Maharashtra State Innovation Society (MSInS) is a key initiative by the Government of Maharashtra"
+      },
+      {
+        "url": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies/Maharashtra-state-policy.html",
+        "title": "Maharashtra State Startup Policy",
+        "publisher": "Startup India, Government of India",
+        "accessed": "2026-06-02",
+        "supports": "Maharashtra Startup Week work orders up to ₹15 lakh",
+        "quote": "Winning startups get direct government work orders up to INR 15 lakhs each to pilot their solutions with various government departments in Maharashtra"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Government-of-Maharashtra status is primary (msins.in). Work-order figure (₹15 lakh) from Maharashtra Startup Week description; founding year (~2018) is approximate (MSInS established under the state IT/innovation department).",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  }
+]

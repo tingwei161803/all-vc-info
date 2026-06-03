@@ -1,0 +1,591 @@
+[
+  {
+    "id": "eu-air-street-capital",
+    "name": { "en": "Air Street Capital" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.airstreet.com",
+    "links": {
+      "twitter": "https://twitter.com/airstreet",
+      "crunchbase": "https://www.crunchbase.com/organization/air-street-capital",
+      "other": ["https://press.airstreet.com/p/fund-iii", "https://www.airstreet.com/ai-venture-capital"]
+    },
+    "capital": {
+      "aum": { "raw": "$400M", "usd": 400000000, "currency": "USD" },
+      "current_fund": { "raw": "$232,323,232 (Fund III)", "usd": 232323232, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2020, "size": { "raw": "$17M", "usd": 17000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "$121M", "usd": 121000000, "currency": "USD" } },
+        { "name": "Fund III", "vintage_year": 2026, "size": { "raw": "$232,323,232", "usd": 232323232, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "growth"],
+      "check_size": { "raw": "$500k–$15M early-stage; up to $25M growth", "usd_min": 500000, "usd_max": 25000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe", "North America"],
+      "sector_focus": ["ai-ml", "deeptech", "robotics", "biotech", "saas-enterprise"],
+      "thesis": "AI-first investing: backs companies where advances in artificial intelligence are the primary driver of product capability, competitive advantage and long-term value, across frontier models, AI infrastructure/tooling, autonomous systems/robotics/defense, AI agents and AI-native life sciences."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Synthesia", "sector": "AI video", "outcome": "active" },
+        { "company": "poolside", "sector": "AI code/foundation models", "outcome": "active" },
+        { "company": "Black Forest Labs", "sector": "AI image models", "outcome": "active" },
+        { "company": "Wayve", "sector": "autonomous driving", "outcome": "active" },
+        { "company": "ElevenLabs", "sector": "AI voice", "outcome": "active" },
+        { "company": "Profluent", "sector": "AI-native life sciences", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Graphcore", "type": "M&A", "year": null, "value": { "raw": "acquired by SoftBank", "usd": null, "currency": null } },
+        { "company": "Adept", "type": "M&A", "year": null, "value": { "raw": "acquired by Amazon", "usd": null, "currency": null } },
+        { "company": "Valence Discovery", "type": "M&A", "year": null, "value": { "raw": "acquired by Recursion Pharmaceuticals", "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Nathan Benaich", "role": "Founder & General Partner (solo GP)", "linkedin": "https://www.linkedin.com/in/nathanbenaich/" }
+    ],
+    "application": { "accepts_cold_inbound": true, "contact": "https://www.airstreet.com" },
+    "tags": ["ai-first", "solo-gp", "frontier-ai", "state-of-ai-report"],
+    "summary": {
+      "en": "London-based AI-first venture firm founded in 2019 by Nathan Benaich. With its $232M Fund III (2026) it became the largest solo-GP venture firm in Europe, backing AI-first companies from pre-seed to growth across Europe and North America. Author of the annual State of AI Report."
+    },
+    "sources": [
+      { "url": "https://press.airstreet.com/p/fund-iii", "title": "Air Street Capital Fund III: $232M for AI-first startups", "publisher": "Air Street Capital", "accessed": "2026-06-02", "supports": "Fund III size, fund history, check sizes, thesis, sectors, exits", "quote": "$232,323,232 to back AI-first companies ... Early-stage checks: $500k to $15M ... Growth-stage investments: up to $25M ... Graphcore to SoftBank ... Adept to Amazon" },
+      { "url": "https://www.airstreet.com/ai-venture-capital", "title": "Air Street Capital | AI venture capital investing in AI-first companies", "publisher": "Air Street Capital", "accessed": "2026-06-02", "supports": "AI-first thesis, stages, sectors, geo focus", "quote": "AI-first companies are ones where advances in artificial intelligence are the primary driver of product capability, competitive advantage, and long-term value creation. ... Air Street Capital invests globally, with a focus on Europe and the United States." },
+      { "url": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/", "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "AUM, founded year, fund history", "quote": "Air Street Capital launched in 2019 with a modest $17 million debut fund, followed by a $121 million Fund II ... The firm now has $400 million in assets under management." }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund III closed March 2026. Founded year and AUM corroborated by TechCrunch and the firm's own press. Portfolio count not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "eu-ai-seed",
+    "name": { "en": "AI Seed" },
+    "aka": ["AI Seed Fund"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://aiseedfund.com",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/michaelaxelgaard/",
+      "crunchbase": "https://www.crunchbase.com/organization/ai-seed",
+      "other": ["https://tracxn.com/d/venture-capital/ai-seed/__dUdlqNShYHfI-YpGWKEesn2x6Vnbi7Msh3TM3GD9Z_Y"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "up to £100,000", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "5-10",
+      "geo_focus": ["United Kingdom", "Europe"],
+      "sector_focus": ["ai-ml"],
+      "thesis": "Pure-play AI investing: backs the earliest-stage AI startups (automation, predictive analytics, deep learning), positioning itself as one of Europe's largest and best-performing portfolios of pure-play AI companies."
+    },
+    "track_record": {
+      "portfolio_count": "30+",
+      "notable_investments": [
+        { "company": "9fin", "sector": "AI fintech data", "outcome": "active" },
+        { "company": "causaLens", "sector": "causal AI", "outcome": "active" },
+        { "company": "Evolution AI", "sector": "document AI", "outcome": "active" },
+        { "company": "Hopsworks", "sector": "ML infrastructure", "outcome": "active" },
+        { "company": "limbic", "sector": "AI mental health", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Odin Vision", "type": "M&A", "year": null, "value": { "raw": "acquired", "usd": null, "currency": null } },
+        { "company": "Rahko", "type": "M&A", "year": null, "value": { "raw": "acquired", "usd": null, "currency": null } },
+        { "company": "Facesoft", "type": "M&A", "year": null, "value": { "raw": "acquired", "usd": null, "currency": null } },
+        { "company": "Observe", "type": "M&A", "year": null, "value": { "raw": "acquired", "usd": null, "currency": null } },
+        { "company": "EYN", "type": "M&A", "year": null, "value": { "raw": "acquired", "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Michael Axelgaard", "role": "Founder & Managing Partner", "linkedin": "https://www.linkedin.com/in/michaelaxelgaard/" },
+      { "name": "Jacques de Cock", "role": "Operations & Managing Partner" },
+      { "name": "Steve Weis", "role": "Technical Analysis & Managing Partner" }
+    ],
+    "application": { "how_to_apply": "Apply via the Founders section of the website", "accepts_cold_inbound": true, "contact": "https://aiseedfund.com" },
+    "tags": ["pure-play-ai", "pre-seed", "seis-eis"],
+    "summary": {
+      "en": "London-based specialist AI VC founded in 2017, investing exclusively at pre-seed/seed in AI startups. Describes itself as having one of Europe's largest and best-performing portfolios of pure-play AI companies, with 30+ holdings and several acquisitions (Odin Vision, Rahko, Facesoft, EYN, Observe)."
+    },
+    "sources": [
+      { "url": "https://aiseedfund.com/", "title": "AI Seed | Europe's #1 AI venture capital fund", "publisher": "AI Seed", "accessed": "2026-06-02", "supports": "AI-only focus, founded 2017, 30+ portfolio, exits, key people", "quote": "An award-winning AI venture capital fund with Europe's largest and best-performing portfolio of early-stage AI investments." },
+      { "url": "https://tracxn.com/d/venture-capital/ai-seed/__dUdlqNShYHfI-YpGWKEesn2x6Vnbi7Msh3TM3GD9Z_Y", "title": "AI Seed - Investor Profile", "publisher": "Tracxn", "accessed": "2026-06-02", "supports": "Founded year, HQ, London base", "quote": "Founded Year: 2017 ... Headquarters: London, United Kingdom" },
+      { "url": "https://unicorn-nest.com/funds/ai-seed/", "title": "AI Seed Fund – Investors Database", "publisher": "Unicorn Nest / secondary aggregators", "accessed": "2026-06-02", "supports": "Investment amount, equity, deals per year", "quote": "The company invests up to £100,000 in 20 early-stage startups each year, in exchange for 5-10% equity." }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded year and London HQ confirmed by official site and Tracxn. The £100k / 5-10% equity / 20-per-year terms come from secondary aggregators (consistent across multiple), not the firm's own current site, so treated as medium confidence. Total fund size not disclosed. AI Seed is an alternative investment fund managed by iFund (FCA-authorised).",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "eu-look-ai-ventures",
+    "name": { "en": "Look AI Ventures", "local": "Look AI Ventures" },
+    "aka": ["LAIV", "Look AI Ventures SICAV"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "Czech Republic",
+    "hq_city": "Prague",
+    "website": "https://lookai.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/look-ai-ventures",
+      "other": ["https://www.vestbee.com/vc-list/look-ai-ventures", "https://www.eu-startups.com/investor/look-ai-ventures/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "€20M (target)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Look AI Ventures fund (LAIV) SICAV", "vintage_year": 2022, "size": { "raw": "€20M (target)", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "up to €250K, with follow-on up to €1M", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Czech Republic", "Central and Eastern Europe", "Europe"],
+      "sector_focus": ["ai-ml"],
+      "thesis": "First Czech VC fund focused exclusively on AI startups worldwide; backs early-stage (pre-seed/seed/late-seed) AI companies, primarily in the CEE region, building on the AI Startup Incubator (AISI) network."
+    },
+    "track_record": {
+      "portfolio_count": "25+",
+      "notable_investments": [
+        { "company": "Checkstep", "sector": "AI content moderation", "outcome": "active" },
+        { "company": "Surveily", "sector": "computer vision safety", "outcome": "active" },
+        { "company": "Digicust", "sector": "AI customs automation", "outcome": "active" },
+        { "company": "MotionsCloud", "sector": "AI insurance claims", "outcome": "active" },
+        { "company": "Lucida AI", "sector": "AI language learning", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Martin Havlík", "role": "Managing Partner" },
+      { "name": "Angelo Burgarello", "role": "Partner & Chief Investment Officer" },
+      { "name": "Martin Dostál, Ph.D.", "role": "Partner & Chief Science Officer" },
+      { "name": "Alexander Brányik", "role": "Partner" },
+      { "name": "Daniel Kunz", "role": "Partner" }
+    ],
+    "application": { "how_to_apply": "Chatbot-based application → document submission → business/technical evaluation → investment board pitch → term sheet", "accepts_cold_inbound": true, "contact": "https://lookai.vc" },
+    "tags": ["pure-play-ai", "cee", "sicav", "aisi"],
+    "summary": {
+      "en": "Prague-based VC launched in Q4 2022 (out of the AI Startup Incubator, founded 2017), the first Czech fund dedicated exclusively to AI startups. Targets a €20M fund, writes tickets up to €250K with follow-on up to €1M, primarily across Central and Eastern Europe.",
+      "local": "Pražský fond rizikového kapitálu zaměřený výhradně na AI startupy, spuštěný koncem roku 2022. Investuje do rané fáze (pre-seed/seed) AI firem, primárně ve střední a východní Evropě."
+    },
+    "sources": [
+      { "url": "https://lookai.vc/", "title": "Look AI Ventures | Investing in early-stage AI startups", "publisher": "Look AI Ventures", "accessed": "2026-06-02", "supports": "AI-only focus, stage, partners, portfolio names, founded year", "quote": "Pre-Series A early-stage AI startups ... 25+ companies listed ... Martin Havlík (Managing Partner)" },
+      { "url": "https://www.vestbee.com/vc-list/look-ai-ventures", "title": "Look AI Ventures", "publisher": "Vestbee", "accessed": "2026-06-02", "supports": "Check size, stage, geo focus, AI-only mandate", "quote": "We invest tickets of up to €250K with a possibility of follow-up investment of up to €1M." },
+      { "url": "https://therecursive.com/ai-startup-incubator-launches-a-20m-fund-to-elevate-ai-startup-ecosystem-look-ai-ventures/", "title": "Look AI Ventures: A €20M Fund Elevating the AI Startup Ecosystem", "publisher": "The Recursive", "accessed": "2026-06-02", "supports": "Fund target size €20M, launch Q4 2022", "quote": "Look AI Ventures: A €20M Fund Elevating the AI Startup Ecosystem" }
+    ],
+    "confidence": "high",
+    "verification_notes": "€20M figure is a target/aim (per The Recursive headline; full article paywalled). Ticket sizes confirmed via Vestbee. Partner roster and portfolio names confirmed on the official site.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "eu-ai-fund",
+    "name": { "en": "AI.FUND", "local": "AI.FUND" },
+    "aka": ["AI Fund (Hamburg)", "AI.GROUP fund"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Hamburg",
+    "website": "https://ai-fund.vc",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/ai-fund/",
+      "crunchbase": "https://www.crunchbase.com/organization/ai-fund"
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "€35–50M (target volume)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "AI.FUND", "vintage_year": 2021, "size": { "raw": "€35–50M (target)", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Germany", "Europe", "Israel"],
+      "sector_focus": ["ai-ml"],
+      "thesis": "AI-specialist, entrepreneurial VC investing in seed/Series A AI-first startups in Europe and Israel that put applied AI at the heart of their solution; thesis centred on 'sovereign AI made in Europe' and EU AI Act compliance. Part of the broader AI.GROUP ecosystem (AI.ACADEMY, AI.HUB, Rise-of-AI / AI.SUMMIT)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "MindPeak", "sector": "AI pathology", "outcome": "active" },
+        { "company": "Qdrat", "sector": "AI", "outcome": "active" },
+        { "company": "Hirundo", "sector": "AI", "outcome": "active" },
+        { "company": "DealCode", "sector": "AI sales", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Ragnar Kruse", "role": "Co-founder / Managing Partner (AI entrepreneur & investor)", "linkedin": "https://www.linkedin.com/in/ragnarkruse/" },
+      { "name": "Petra Vorsteher", "role": "Co-founder / Chief Alliances Officer" },
+      { "name": "Dr. Hauke Hansen", "role": "Partner (tech executive & investor)", "linkedin": "https://www.linkedin.com/in/hauke-ku-hansen/" },
+      { "name": "Dr. John Lange", "role": "Partner (corporate VC expert)" },
+      { "name": "Fabian Westerheide", "role": "Partner (AI VC)" }
+    ],
+    "application": { "accepts_cold_inbound": true, "contact": "https://ai-fund.vc" },
+    "tags": ["pure-play-ai", "sovereign-ai", "eu-ai-act"],
+    "summary": {
+      "en": "Hamburg-based AI-specialist VC, formally established in 2021 with first close at the end of 2023, targeting €35–50M. Invests at seed/Series A in applied-AI startups from Germany, Europe and Israel, with a 'sovereign European AI' thesis. Sits inside the AI.GROUP ecosystem.",
+      "local": "Auf KI spezialisierter, unternehmerisch ausgerichteter Venture-Capital-Fonds aus Hamburg, formal 2021 gegründet, mit erstem Closing Ende 2023; Zielvolumen 35–50 Mio. EUR. Investiert in der Seed-/Series-A-Phase in Startups aus Deutschland, Europa und Israel mit Geschäftsmodellen auf Basis angewandter KI."
+    },
+    "sources": [
+      { "url": "https://ai-fund.vc/", "title": "AI.FUND | Creating European AI Leaders", "publisher": "AI.FUND", "accessed": "2026-06-02", "supports": "AI-first focus, Hamburg HQ, stages, geo, partners, portfolio", "quote": "AI.FUND is a highly-focused entrepreneurial venture capital fund investing in European AI companies in Seed and Series A stage." },
+      { "url": "https://startupcity.hamburg/news-events/news/ai-fund-for-ai-startups-commences-operations", "title": "AI.FUND for AI startups commences operations", "publisher": "Startup City Hamburg", "accessed": "2026-06-02", "supports": "Target fund size €35–50M, established 2021, first close end 2023, geo focus", "quote": "The target volume of the fund, which was formally established in 2021 and has a term of ten years, is 35 to 50 million euros. ... the new AI.FUND successfully completed its first closing at the end of 2023" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund target €35–50M (not €100M, which appears erroneously in some aggregator queries). Established 2021, first close end of 2023. Check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "eu-merantix-capital",
+    "name": { "en": "Merantix Capital" },
+    "aka": ["Merantix"],
+    "type": "venture-studio",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://www.merantix-capital.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/merantix",
+      "other": ["https://www.merantix.com/", "https://www.merantix-capital.com/invest"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "€100M (second fund)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2020, "size": { "raw": "$27M", "usd": 27000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "€100M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€500k–€4M", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Germany", "Europe"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "deeptech"],
+      "thesis": "AI venture studio + fund hybrid building and backing AI-native B2B companies since 2016. Internally incubates companies through a Founder-in-Residence program (can write ~€1M checks on day one) and externally invests in pre-seed/seed AI-native startups with a strong Europe angle."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Vara (formerly MX Healthcare)", "sector": "AI breast cancer screening", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Dr. Rasmus Rothe", "role": "Co-founder (computer vision / deep learning PhD)" }
+    ],
+    "application": { "accepts_cold_inbound": true, "contact": "https://www.merantix-capital.com/invest" },
+    "tags": ["ai-native", "venture-studio", "founder-in-residence"],
+    "summary": {
+      "en": "Berlin-based AI venture studio and VC, building and investing in AI since 2016. Invests at pre-seed/seed in AI-native B2B companies with €500k–€4M tickets out of a €100M second fund, operating from the Merantix AI Campus and splitting capital between internally incubated and externally sourced startups."
+    },
+    "sources": [
+      { "url": "https://www.merantix-capital.com/invest", "title": "Merantix Capital | Investing in pre-seed to seed stage AI companies", "publisher": "Merantix Capital", "accessed": "2026-06-02", "supports": "Stage, check size, AI-native focus, geo", "quote": "We make pre-seed and seed investments in visionary AI-native companies ... Our ticket sizes range from €500k to €4m, with flexible target ownership" },
+      { "url": "https://sifted.eu/articles/berlin-ai-merantix-raising-fund", "title": "Berlin-based AI venture studio Merantix is raising a new €100m fund", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "Second fund €100M, fund split", "quote": "Merantix Capital is currently investing out of their second, €100M fund. The new fund is split as €25m for co-investing in external startups; €25m for investing in incubated startups; and €50m for supporting existing investments" },
+      { "url": "https://techcrunch.com/2020/01/27/berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups/", "title": "Berlin venture studio Merantix raises $27M fund to concentrate on AI startups", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "First fund $27M, founded 2016, AI focus", "quote": "Berlin venture studio Merantix raises $27M fund to concentrate on AI startups" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2016 (operating as AI group/studio). Classified as venture-studio (hybrid studio + fund). €100M second-fund figure from Sifted; check size from official site.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "eu-c4-ventures",
+    "name": { "en": "C4 Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2014,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://c4v.com",
+    "links": {
+      "other": ["https://c4v.com/news/c4-ventures-launches-e100m-fund-iii-to-back-europes-next-generation-of-ai-and-deep-tech-leaders/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "€100M (Fund III target)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "C4 Ventures II", "vintage_year": 2020, "size": { "raw": null, "usd": null, "currency": "EUR" } },
+        { "name": "C4 Ventures III", "vintage_year": 2025, "size": { "raw": "€100M (target)", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Europe"],
+      "sector_focus": ["ai-ml", "deeptech", "robotics"],
+      "thesis": "Fund III (launched Sept 2025, €100M target) centres on AI as the defining technological shift, backing early-stage AI and deep-tech startups across Europe — including software applications and 'Physical AI' (robotics, hardware) — with a European tech-sovereignty angle."
+    },
+    "track_record": {
+      "portfolio_count": "54 (since inception)",
+      "notable_investments": [
+        { "company": "NEURA Robotics", "sector": "cognitive robotics", "outcome": "active" },
+        { "company": "Graphcore", "sector": "AI processors", "outcome": "active" },
+        { "company": "Alice & Bob", "sector": "quantum computing", "outcome": "active" },
+        { "company": "PsiQuantum", "sector": "quantum computing", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Riskified", "type": "IPO", "year": null, "value": { "raw": "NYSE IPO", "usd": null, "currency": null } },
+        { "company": "Via", "type": "IPO", "year": null, "value": { "raw": "NYSE IPO", "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Pascal Cagni", "role": "Founder & General Partner (former Apple EMEIA VP)" },
+      { "name": "Eric Boustouller", "role": "Partner (former Microsoft executive)" }
+    ],
+    "application": { "accepts_cold_inbound": true, "contact": "https://c4v.com" },
+    "tags": ["ai", "deeptech", "physical-ai", "european-sovereignty"],
+    "summary": {
+      "en": "Paris-based VC founded in 2014 by ex-Apple EMEIA chief Pascal Cagni. Its €100M Fund III (Sept 2025) is AI-and-deep-tech centric, backing early-stage European startups in AI software and 'Physical AI'. Since inception C4 has backed 54 startups, 12 of which became unicorns, with 20+ exits including NYSE IPOs Riskified and Via."
+    },
+    "sources": [
+      { "url": "https://c4v.com/news/c4-ventures-launches-e100m-fund-iii-to-back-europes-next-generation-of-ai-and-deep-tech-leaders/", "title": "C4 Ventures launches €100M Fund III to back Europe's next generation of AI and Deep Tech leaders", "publisher": "C4 Ventures", "accessed": "2026-06-02", "supports": "Fund III €100M, AI/deep-tech focus, founded 2014, portfolio/unicorn counts, exits", "quote": "C4 Ventures III will focus on early-stage investments in AI and deep tech startups across Europe ... target fund size of €100 million ... Since its inception in 2014, C4 Ventures has invested in 54 tech startups, 12 of which have become unicorns ... over 20 exits, 2 IPOs on NYSE (Riskified and Via)" },
+      { "url": "https://www.eu-startups.com/2025/09/this-vc-firm-out-of-paris-just-launched-a-e100-million-fund-to-back-european-ai-sovereignty/", "title": "This VC firm out of Paris just launched a €100 million fund to back European AI sovereignty", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "Fund III €100M, AI sovereignty thesis, Paris HQ", "quote": "a €100 million fund to back European AI sovereignty" }
+    ],
+    "confidence": "high",
+    "verification_notes": "C4 has historically been a deep-tech generalist; Fund III (2025) is explicitly AI-and-deep-tech centric, hence inclusion. €100M is a target. Check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "eu-samaipata",
+    "name": { "en": "Samaipata" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "Spain",
+    "hq_city": "Madrid",
+    "website": "https://www.samaipata.vc",
+    "links": {
+      "other": ["https://www.samaipata.vc/post/samaipata-iii-launching-a-eu110m-fund-to-back-europes-builders-in-the-age-of-ai", "https://www.eu-startups.com/2026/03/samaipata-launches-e110m-fund-iii-to-back-early-stage-ai-native-startups-across-europe/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "€110M (Fund III, target)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Samaipata III", "vintage_year": 2026, "size": { "raw": "€110M (target); €70M first close", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "up to €10M per startup over time", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Europe", "Spain"],
+      "sector_focus": ["ai-ml", "saas-enterprise"],
+      "thesis": "Fund III (2026, €110M) backs early-stage AI-native European startups, primarily B2B, focused on abstracting the complexity of AI deployment into real-world use cases. Plans to invest in 25–30 companies, up to €10M each over time."
+    },
+    "track_record": {
+      "portfolio_count": "44 (funds I–II)",
+      "notable_investments": [
+        { "company": "Embat", "sector": "fintech / AI", "outcome": "active" },
+        { "company": "Nory", "sector": "AI hospitality ops", "outcome": "active" },
+        { "company": "Bigblue", "sector": "logistics", "outcome": "active" },
+        { "company": "Legl", "sector": "legaltech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "José del Barrio", "role": "Founding Partner (co-founder of La Nevera Roja)" },
+      { "name": "Eduardo Díez-Hochleitner", "role": "Founding Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true, "contact": "https://www.samaipata.vc" },
+    "tags": ["ai-native", "b2b", "early-stage"],
+    "summary": {
+      "en": "Madrid-based VC founded in 2016 by José del Barrio and Eduardo Díez-Hochleitner. Its €110M Fund III (2026, €70M first close backed by Germany's KfW and Spain's SETT) is explicitly AI-native, targeting 25–30 early-stage European B2B startups with up to €10M each over time.",
+      "local": "Firma de capital riesgo con sede en Madrid, fundada en 2016. Su tercer fondo de 110 millones de euros (2026) respalda startups europeas AI-native en fase inicial, principalmente B2B, con hasta 10 millones de euros por empresa."
+    },
+    "sources": [
+      { "url": "https://www.eu-startups.com/2026/03/samaipata-launches-e110m-fund-iii-to-back-early-stage-ai-native-startups-across-europe/", "title": "Samaipata launches €110 million Fund III to back early-stage AI-native startups across Europe", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "Fund III €110M, AI-native mandate, founders, founded year, first close, portfolio", "quote": "Samaipata III, a €110 million fund aimed at backing European startups building AI-driven technology ... Founded in 2016 by José del Barrio and Eduardo Diez-Hochleitner" },
+      { "url": "https://tech.eu/2026/03/11/samaipata-launches-eur110m-fund-iii-to-back-europes-next-generation-of-ai-native-startups/", "title": "Samaipata launches €110M Fund III to back Europe's next generation of AI-native startups", "publisher": "Tech.eu", "accessed": "2026-06-02", "supports": "First close €70M, 25-30 companies, up to €10M each, 44 prior investments", "quote": "first close of €70M backed by KfW and Spain's SETT ... plans to invest in around 25 to 30 AI-native startups ... up to €10 million per startup over time ... invested in 44 startups across Europe" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Samaipata I-II were generalist consumer/B2B; Fund III (2026) is explicitly AI-native, hence inclusion. €110M is a target with €70M first close.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "eu-may-ventures",
+    "name": { "en": "May Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Münster",
+    "website": "https://www.mayventures.vc",
+    "links": {
+      "other": ["https://www.eu-startups.com/2025/09/new-vc-fund-may-ventures-launches-with-over-e30-million-in-capital-and-an-ai-focused-mission/", "https://vcwire.tech/2025/10/09/may-ventures-raised-over-e30m-for-first-fund/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "€30M+ first close (€50M target)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "May Ventures Fund I", "vintage_year": 2025, "size": { "raw": "€30M+ first close; €50M target", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€250k–€1M initial, with follow-on", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Germany", "Austria", "Switzerland", "DACH"],
+      "sector_focus": ["ai-ml"],
+      "thesis": "New AI-focused early-stage fund supporting pre-seed/seed founders in the DACH region; writes €250k–€1M initial checks with follow-on support."
+    },
+    "track_record": { "portfolio_count": null },
+    "people": [
+      { "name": "Maximilian Derpa", "role": "Managing Partner" },
+      { "name": "Dominik Lohle", "role": "Managing Partner" },
+      { "name": "Nils Engelking", "role": "Venture Partner (exited founder)" }
+    ],
+    "application": { "accepts_cold_inbound": true, "contact": "https://www.mayventures.vc" },
+    "tags": ["ai", "dach", "early-stage", "first-time-fund"],
+    "summary": {
+      "en": "Münster-based first-time fund launched in 2025 with an AI-focused mission, holding a >€30M first close toward a €50M target. Invests €250k–€1M at pre-seed/seed in DACH-region founders, backed by NRW.BANK, Helaba and Sparkassen/Volksbanken-group banks.",
+      "local": "In Münster ansässiger Erstfonds mit KI-Fokus, 2025 gestartet mit einem ersten Closing von über 30 Mio. EUR (Zielgröße 50 Mio. EUR). Investiert 250.000–1 Mio. EUR in der Pre-Seed-/Seed-Phase bei Gründern in der DACH-Region."
+    },
+    "sources": [
+      { "url": "https://www.eu-startups.com/2025/09/new-vc-fund-may-ventures-launches-with-over-e30-million-in-capital-and-an-ai-focused-mission/", "title": "New VC fund May Ventures launches with over €30 million in capital and an AI-focused mission", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "Fund size €30M+, AI focus, DACH, check size, partners", "quote": "May Ventures launches with over €30 million in capital and an AI-focused mission" },
+      { "url": "https://vcwire.tech/2025/10/09/may-ventures-raised-over-e30m-for-first-fund/", "title": "May Ventures Raised Over €30M for First Fund", "publisher": "VCWire", "accessed": "2026-06-02", "supports": "€30M first close, €50M target, Münster HQ, partners, check size, DACH focus", "quote": "May Ventures' first closing of more than €30 million is towards a €50 million target ... led by Managing Partners Maximilian Derpa and Dominik Lohle ... initially invest between €250k and €1m" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "First-time fund (2025). €30M first close / €50M target. HQ reported as Münster (one aggregator query said Munich; Münster confirmed by VCWire/EU-Startups). Website inferred; primary facts from EU-Startups and VCWire.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "eu-mmc-ventures",
+    "name": { "en": "MMC Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2000,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://mmc.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/mmc-ventures",
+      "other": ["https://mmc.vc/about-us/"]
+    },
+    "capital": {
+      "aum": { "raw": "£500M+", "usd": null, "currency": "GBP" },
+      "current_fund": { "raw": "£100M (Fund VI, 2023)", "usd": null, "currency": "GBP" },
+      "funds": [
+        { "name": "Fund VI", "vintage_year": 2023, "size": { "raw": "£100M", "usd": null, "currency": "GBP" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "up to £10M first cheque", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United Kingdom", "Europe"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "fintech", "healthtech"],
+      "thesis": "Thesis-driven early-stage investor and one of Europe's most active backers of AI and data-science companies, using a 17-factor AI Investment Framework; leads Series A in enterprise AI, data infrastructure, fintech and data-driven health."
+    },
+    "track_record": {
+      "portfolio_count": "200+",
+      "notable_investments": [
+        { "company": "Synthesia", "sector": "AI video", "outcome": "unicorn" },
+        { "company": "Signal AI", "sector": "AI media intelligence", "outcome": "active" },
+        { "company": "MindsDB", "sector": "ML / databases", "outcome": "active" },
+        { "company": "Red Sift", "sector": "AI cybersecurity", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Mina Samaan", "role": "General Partner" },
+      { "name": "Oliver Richards", "role": "General Partner" },
+      { "name": "Simon Menashy", "role": "General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true, "contact": "https://mmc.vc" },
+    "tags": ["ai", "data-science", "series-a-specialist", "ai-investment-framework"],
+    "summary": {
+      "en": "London-based VC founded in 2000, one of Europe's most active investors in AI and data-science companies. A Series A specialist that can write up to £10M first cheques, with £500M+ AUM (Fund VI closed at £100M in 2023), 200+ portfolio companies and a proprietary 17-factor AI Investment Framework. Backer of AI unicorn Synthesia."
+    },
+    "sources": [
+      { "url": "https://mmc.vc/about-us/", "title": "About Us | MMC", "publisher": "MMC Ventures", "accessed": "2026-06-02", "supports": "AI focus, Series A specialist, £10M cheque, notable AI investments", "quote": "We are one of Europe's most active investors in companies at the cutting-edge of AI and data science. ... Series A specialist ... invest up to £10m in our first cheque." },
+      { "url": "https://privateequitylist.com/investors/mmc-ventures", "title": "MMC Ventures", "publisher": "Private Equity List", "accessed": "2026-06-02", "supports": "Founded 2000, Fund VI £100M, AUM £500M+, 200+ portfolio, exits, AI framework", "quote": "In 2023, MMC Ventures announced the close of its latest fund, Fund VI, at £100 million. This brings their total assets under management to over £500 million ... a portfolio of over 200 companies ... 17-factor AI Investment Framework" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "MMC is AI/data-science focused but multi-vertical (also fintech, health). Included as a primarily AI-and-data investor. Founded year, fund size and AUM corroborated by secondary source (Private Equity List); AI-focus and £10M cheque on official site.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "eu-bpifrance-digital-venture",
+    "name": { "en": "Bpifrance Digital Venture", "local": "Bpifrance Digital Venture" },
+    "aka": ["Bpifrance Large Venture / Digital Venture", "Bpifrance"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://www.bpifrance.fr/nos-solutions/investissement/investissement-expertise/digital-venture",
+    "links": {
+      "linkedin": "https://fr.linkedin.com/company/bpifrance-digital-venture"
+    },
+    "capital": {
+      "aum": { "raw": "€700M+ under management (Digital Venture team)", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": "Digital Venture (2019): €350M", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Ambition Numérique I", "vintage_year": 2008, "size": { "raw": "€300M", "usd": null, "currency": "EUR" } },
+        { "name": "Digital Venture", "vintage_year": 2019, "size": { "raw": "€350M", "usd": null, "currency": "EUR" } },
+        { "name": "F3A (seed)", "vintage_year": null, "size": { "raw": "€50M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "up to €100,000 (seed F3A); larger via other vehicles", "usd_min": null, "usd_max": null },
+      "geo_focus": ["France", "Europe"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "healthtech"],
+      "thesis": "Early-stage digital arm of France's sovereign investment bank Bpifrance. Since 2015 it has deployed over €1bn into 150+ AI startups, focused on B2B software, AI infrastructure/components, data/analytics and healthcare — anchoring France's AI ecosystem."
+    },
+    "track_record": {
+      "portfolio_count": "150+ AI startups",
+      "notable_investments": [
+        { "company": "Mistral AI", "sector": "foundation models", "outcome": "unicorn" },
+        { "company": "Poolside", "sector": "AI code/foundation models", "outcome": "active" },
+        { "company": "H (H Company)", "sector": "AI agents", "outcome": "active" },
+        { "company": "Dust", "sector": "AI agents/enterprise", "outcome": "active" },
+        { "company": "Bioptimus", "sector": "AI life sciences", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true, "contact": "https://www.bpifrance.fr" },
+    "tags": ["ai", "sovereign", "government-backed", "b2b-software"],
+    "summary": {
+      "en": "The early-stage digital investment arm of France's sovereign investment bank Bpifrance, based in Paris. Manages €700M+ across funds and has deployed over €1bn into 150+ AI startups since 2015 — including Mistral AI, Poolside, H, Dust and Bioptimus — making it a cornerstone backer of France's AI ecosystem.",
+      "local": "Branche d'investissement numérique en phase d'amorçage de Bpifrance, à Paris. Gère plus de 700 M€ et a déployé plus d'un milliard d'euros dans plus de 150 startups d'IA depuis 2015, dont Mistral AI, Poolside, H, Dust et Bioptimus."
+    },
+    "sources": [
+      { "url": "https://www.bpifrance.com/2025/03/27/bpifrance-deploys-e10-billion-to-develop-the-ai-ecosystem-and-facilitate-the-adoption-of-artificial-intelligence-by-french-companies/", "title": "Bpifrance deploys €10 billion to develop the AI ecosystem", "publisher": "Bpifrance", "accessed": "2026-06-02", "supports": "AI commitment, 150+ AI startups, €1bn deployed since 2015", "quote": "the funds subscribed by Bpifrance had deployed over €1bn in AI startups since 2015, with investments in over 150 startups" },
+      { "url": "https://www.vestbee.com/insights/articles/vc-funds-investing-in-ai-startups", "title": "List of European VC funds investing in AI startups", "publisher": "Vestbee", "accessed": "2026-06-02", "supports": "Digital Venture HQ, seed check up to €100k, €700M+ AUM, portfolio (Mistral, Poolside, H, Dust, Bioptimus)", "quote": "Bpifrance Digital Venture ... Fund Size: Over €700 million (across all funds) ... Notable Portfolio: Mistral AI, Poolside, H, Dust, Bioptimus ... Check Size: Up to €100,000" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Bpifrance is a broad sovereign investor; the Digital Venture / early-stage AI activity is the AI-focused slice captured here. Fund vintages/sizes (Ambition Numérique €300M, Digital Venture €350M, F3A €50M) from Vestbee; €1bn/150+ AI startups from Bpifrance's own release. Classified as government-program with vc subtype.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  }
+]

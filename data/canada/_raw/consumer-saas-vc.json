@@ -1,0 +1,950 @@
+[
+  {
+    "id": "ca-inovia-capital",
+    "name": { "en": "Inovia Capital" },
+    "aka": ["iNovia Capital", "Inovia"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2007,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://www.inovia.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/inovia-capital",
+      "crunchbase": "https://www.crunchbase.com/organization/inovia-capital"
+    },
+    "offices": [
+      { "country": "Canada", "city": "Montreal" },
+      { "country": "Canada", "city": "Toronto" },
+      { "country": "Canada", "city": "Calgary" },
+      { "country": "United States", "city": "San Francisco" },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "capital": {
+      "aum": { "raw": "US$2.5 billion", "usd": 2500000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": "$5M–$50M (per secondary sources)", "usd_min": 5000000, "usd_max": 50000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States", "Europe"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "fintech", "consumer", "ecommerce"],
+      "thesis": "Full-stack venture capital firm anchored in Canada with a presence in the EU; backs founders building enduring global technology companies across pre-seed to pre-IPO via Discovery, Venture, and Growth strategies."
+    },
+    "track_record": {
+      "portfolio_count": "73 active portfolio companies",
+      "notable_investments": [
+        { "company": "Cohere", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Wealthsimple", "sector": "fintech", "outcome": "active" },
+        { "company": "Hopper", "sector": "consumer", "outcome": "active" },
+        { "company": "AppDirect", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "Montreal-headquartered, full-stack Canadian venture capital firm with US$2.5B in AUM. Invests from pre-seed to pre-IPO across enterprise software, AI, fintech and consumer tech, with offices across North America and Europe."
+    },
+    "sources": [
+      {
+        "url": "https://www.inovia.vc/",
+        "title": "Inovia Capital — Home",
+        "publisher": "Inovia Capital",
+        "accessed": "2026-06-02",
+        "supports": "AUM, stages, strategy, portfolio count, notable investments",
+        "quote": "US$ 2.5 billion in AUM ... 73 active portfolio companies ... 66 exits to date"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/inovia-capital",
+        "title": "Inovia Capital - Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "founding year, HQ, sector focus, check size",
+        "quote": "founded in 2007 in Montreal, Canada ... typically invests between $5 million and $50 million"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM stated US$2.5B on official site; some secondary sources cite US$2.2B. Check-size range is from secondary sources, not the official site.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "ca-georgian",
+    "name": { "en": "Georgian" },
+    "aka": ["Georgian Partners"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2008,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://georgian.io/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/georgian",
+      "crunchbase": "https://www.crunchbase.com/organization/georgian-partners"
+    },
+    "capital": {
+      "aum": { "raw": "US$6.3B (as of Dec 31, 2022)", "usd": 6300000000, "currency": "USD" },
+      "funds": [
+        { "name": "Georgian Partners Growth Fund I", "vintage_year": 2010, "size": { "raw": "$70M", "usd": 70000000, "currency": "USD" } },
+        { "name": "Georgian Partners Growth Fund II", "vintage_year": null, "size": { "raw": "$200M", "usd": 200000000, "currency": "USD" } },
+        { "name": "Georgian Partners Growth Fund III", "vintage_year": null, "size": { "raw": "$485M", "usd": 485000000, "currency": "USD" } },
+        { "name": "Georgian Partners Growth Fund IV", "vintage_year": null, "size": { "raw": "$730M", "usd": 730000000, "currency": "USD" } },
+        { "name": "Georgian Partners Growth Fund V", "vintage_year": null, "size": { "raw": "$1.1 billion CAD ($850 million USD)", "usd": 850000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "$20M–$50M", "usd_min": 20000000, "usd_max": 50000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States", "Canada"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "Growth equity for market-leading B2B software companies, pairing capital with applied AI research and embedded engineers; targets companies with $500K+ monthly recurring revenue."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Shopify", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "FreshBooks", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Top Hat", "sector": "edtech", "outcome": "active" },
+        { "company": "Ritual", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Justin LaFayette", "role": "Co-founder" },
+      { "name": "Simon Chong", "role": "Co-founder" },
+      { "name": "John Berton", "role": "Co-founder" }
+    ],
+    "summary": {
+      "en": "Toronto-based growth-equity firm (founded 2008) providing capital and applied-AI support to market-leading B2B software companies in the US and Canada. Reported US$6.3B AUM; check sizes of $20M–$50M."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/georgian-partners-raises-first-canadian-venture-fund-valued-at-over-1-billion-cad/",
+        "title": "Georgian Partners raises first Canadian venture fund valued at over $1 billion CAD",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "founding year, HQ, fund sizes, check size, founders, portfolio",
+        "quote": "$1.1 billion CAD ($850 million USD) ... Between $20 and $50 million for companies with $500,000+ monthly recurring revenue ... Fund I, 2010 ($70 million)"
+      },
+      {
+        "url": "https://georgian.io/",
+        "title": "Georgian | Growth Equity for AI",
+        "publisher": "Georgian",
+        "accessed": "2026-06-02",
+        "supports": "current positioning as growth equity for B2B software / AI"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM figure (US$6.3B) is as of Dec 31, 2022 per secondary sources; may be higher now. Fund V size from BetaKit.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "ca-mistral-venture-partners",
+    "name": { "en": "Mistral Venture Partners" },
+    "aka": ["Mistral", "Mistral VC"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Ottawa",
+    "website": "https://www.mistral.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/mistral-venture-partners"
+    },
+    "offices": [
+      { "country": "Canada", "city": "Ottawa" },
+      { "country": "Canada", "city": "Toronto" },
+      { "country": "Canada", "city": "Vancouver" },
+      { "country": "Canada", "city": "Calgary" },
+      { "country": "United States", "city": "California" }
+    ],
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2014, "size": { "raw": "$20 million", "usd": 20000000, "currency": "CAD" } },
+        { "name": "Fund II", "vintage_year": 2017, "size": { "raw": "$33 million", "usd": 33000000, "currency": "CAD" } },
+        { "name": "Fund III", "vintage_year": null, "size": { "raw": "$41 million", "usd": null, "currency": "CAD" } },
+        { "name": "Fund IV", "vintage_year": 2024, "size": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "Seed-stage firm run entirely by former founders; typically the first institutional cheque into enterprise software, B2B SaaS, AI, and marketplace startups across Canada and the US."
+    },
+    "people": [
+      { "name": "Code Cubitt", "role": "Managing Director / Founder" },
+      { "name": "Bernie Zeisig", "role": "Managing Partner" },
+      { "name": "Pablo Srugo", "role": "Partner" },
+      { "name": "Raif Barbaros", "role": "Partner" }
+    ],
+    "summary": {
+      "en": "Ottawa-founded seed-stage VC (2013) backing enterprise software, B2B SaaS, AI and marketplaces across Canada and the US. Raised $20M (2014), $33M (2017) and $41M (Fund III) funds; launched Fund IV in 2024."
+    },
+    "sources": [
+      {
+        "url": "https://www.theglobeandmail.com/business/article-ottawas-mistral-raising-nearly-50-million-fund-to-capitalize-on-post/",
+        "title": "Ottawa's Mistral raising nearly $50-million fund",
+        "publisher": "The Globe and Mail",
+        "accessed": "2026-06-02",
+        "supports": "fund sizes (Fund I/II/III), HQ Ottawa, founding year",
+        "quote": "Mistral had raised $41 million for its third fund ... surpassed the $20 million and $33 million Mistral raised for its 2014 and 2017 funds"
+      },
+      {
+        "url": "https://www.mistral.vc/",
+        "title": "Mistral Venture Partners",
+        "publisher": "Mistral Venture Partners",
+        "accessed": "2026-06-02",
+        "supports": "stages (pre-seed/seed), sector (enterprise AI), offices, team",
+        "quote": "Pre-Seed, Seed ... Enterprise AI ... Bernie Zeisig (Managing Partner) ... Code Cubitt (Managing Director)"
+      },
+      {
+        "url": "https://www.fondsftq.com/en/press-center/press-releases/2024/20241125-mistral-venture-fund",
+        "title": "Fonds de solidarité FTQ invests $7.5M in Mistral Venture Partners Fund IV",
+        "publisher": "Fonds de solidarité FTQ",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV exists (2024), first-cheque strategy",
+        "quote": "We invest in early-stage start-ups across Canada and are typically the first institutional cheque."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund IV total size not disclosed in available sources. Fund currencies appear to be CAD per Canadian reporting; Fund III USD not confirmed. HQ Ottawa per Globe & Mail; official site lists Ottawa among multiple offices.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "ca-brightspark-ventures",
+    "name": { "en": "Brightspark Ventures" },
+    "aka": ["Brightspark", "Brightspark Labs"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1999,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://brightspark.com/en",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/brightspark",
+      "crunchbase": "https://www.crunchbase.com/organization/brightspark-ventures"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Brightspark Canadian Opportunities Fund I", "vintage_year": null, "size": { "raw": "$67.5M total fund size", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$1M–$3M (per secondary sources)", "usd_min": 1000000, "usd_max": 3000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["saas-enterprise", "fintech", "ai-ml", "climate-energy"],
+      "thesis": "One of Canada's longest-running early-stage VCs (since 1999), backing Canadian early-stage tech and software companies from pre-seed to Series A, often leading or co-leading rounds."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Hopper", "sector": "consumer", "outcome": "active" },
+        { "company": "Radian6", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Protecode", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Deep Sky", "sector": "climate-energy", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Radian6", "type": "M&A", "year": 2011, "value": { "raw": "acquired by Salesforce", "usd": null, "currency": null } },
+        { "company": "Protecode", "type": "M&A", "year": 2015, "value": { "raw": "acquired by Synopsys", "usd": null, "currency": null } }
+      ]
+    },
+    "summary": {
+      "en": "Toronto-based, one of Canada's oldest early-stage VC firms (founded 1999). Backs Canadian early-stage software companies; Canadian Opportunities Fund I is $67.5M. Early backer of Hopper and Radian6 (acquired by Salesforce)."
+    },
+    "sources": [
+      {
+        "url": "https://brightspark.com/en",
+        "title": "Brightspark Ventures / A leading Canadian VC firm",
+        "publisher": "Brightspark Ventures",
+        "accessed": "2026-06-02",
+        "supports": "founding year 1999, fund size $67.5M, portfolio, exits",
+        "quote": "Brightspark Canadian Opportunities Fund I is $67.5M total fund size ... Radian6 (acquired by Salesforce 2011) ... Protecode (acquired by Synopsys 2015)"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/brightspark-ventures",
+        "title": "Brightspark Ventures - Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "check size, stage, sector focus",
+        "quote": "deploying checks ranging from $1 million to $3 million"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM figures vary by source ($75M to $500M). Check size from secondary source. HQ Toronto inferred (firm is Canadian; offices not explicitly listed on homepage).",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "ca-information-venture-partners",
+    "name": { "en": "Information Venture Partners" },
+    "aka": ["Information VP", "IVP", "RBC Venture Partners (predecessor)"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2014,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://informationvp.com/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/information-venture-partners"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2014, "size": { "raw": "more than $100-million CAD", "usd": null, "currency": "CAD" } },
+        { "name": "Fund III", "vintage_year": null, "size": { "raw": "$124 million CAD ($101 million USD)", "usd": 101000000, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$500K–$5M (per secondary sources)", "usd_min": 500000, "usd_max": 5000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["saas-enterprise", "fintech", "cybersecurity", "ai-ml"],
+      "thesis": "Spun out of RBC, IVP backs early-stage North American B2B FinTech and enterprise SaaS companies, including data-driven and cybersecurity software for financial services and large enterprises."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Verafin", "sector": "fintech", "outcome": "acquired" },
+        { "company": "Coconut Software", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Procurify", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Q4", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Arteria AI", "sector": "saas-enterprise", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Verafin", "type": "M&A", "year": 2020, "value": { "raw": "$2.75 billion USD (acquired by Nasdaq)", "usd": 2750000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Robert Antoniades", "role": "Co-founder / General Partner" },
+      { "name": "Dave Unsworth", "role": "Co-founder / General Partner" },
+      { "name": "Kerri Golden", "role": "Partner / CFO" }
+    ],
+    "summary": {
+      "en": "Toronto-based VC (founded 2014 as an RBC spin-out) focused on early-stage North American B2B FinTech and enterprise SaaS. Closed Fund III at $124M CAD ($101M USD). Early backer of Verafin (sold to Nasdaq for US$2.75B)."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/information-venture-partners-closes-third-fund-raising-124-million-cad/",
+        "title": "Information Venture Partners closes third fund, raising $124 million CAD",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Fund III size, founding year, HQ, sector focus, partners, Verafin exit",
+        "quote": "$124 million CAD ($101 million USD) ... 2014 ... Verafin (St. John's-based financial crime management company acquired by Nasdaq for $2.75 billion USD)"
+      },
+      {
+        "url": "https://informationvp.com/",
+        "title": "Information Venture Partners",
+        "publisher": "Information Venture Partners",
+        "accessed": "2026-06-02",
+        "supports": "B2B SaaS / FinTech / enterprise software / cybersecurity focus, North American reach"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "As of 2023 IVP announced a shift to single-asset SPV-style investing rather than raising a fourth blind-pool fund; firm remains active. Check size from secondary source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "ca-round13-capital",
+    "name": { "en": "Round13 Capital" },
+    "aka": ["Round 13 Capital", "Round13"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://round13.com/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/round13capital",
+      "crunchbase": "https://www.crunchbase.com/organization/round13-capital"
+    },
+    "capital": {
+      "aum": { "raw": "over $325 million capital under management", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Founders Fund", "vintage_year": 2017, "size": { "raw": "$95 million", "usd": null, "currency": "CAD" } },
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "$128 million closed (targeting $150-175M)", "usd": null, "currency": "CAD" } },
+        { "name": "Growth Fund", "vintage_year": null, "size": { "raw": "$100 million first close (targeting $150-200M)", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": "$5-10M (Fund II) / ~$20M (Growth Fund)", "usd_min": 5000000, "usd_max": 20000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["saas-enterprise", "ecommerce", "ai-ml", "consumer"],
+      "thesis": "Venture and growth equity platform investing in Canadian technology companies across vertical software/SaaS, e-commerce, tech-enabled services, disruptive retail, and AI."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "TouchBistro", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Bold Commerce", "sector": "ecommerce", "outcome": "active" },
+        { "company": "Hubdoc", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Article", "sector": "ecommerce", "outcome": "active" },
+        { "company": "Lillio (HiMama)", "sector": "saas-enterprise", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Hubdoc", "type": "M&A", "year": 2018, "value": { "raw": "$70 million USD (acquired by Xero)", "usd": 70000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Bruce Croxon", "role": "Co-founder / Managing Partner" },
+      { "name": "John Eckert", "role": "Co-founder" },
+      { "name": "Sanjiv Samant", "role": "Growth Fund lead" }
+    ],
+    "summary": {
+      "en": "Toronto-based venture and growth-equity platform (founded 2013) with $325M+ under management. Invests in Canadian vertical SaaS, e-commerce, tech-enabled services and AI. Backed TouchBistro, Bold Commerce and Hubdoc (sold to Xero)."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/round13-surpasses-325-million-in-capital-under-management-with-launch-of-two-new-funds/",
+        "title": "Round13 surpasses $325 million in capital under management with launch of two new funds",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "AUM, fund sizes, check sizes, partners, Hubdoc exit",
+        "quote": "Over $325 million ... Founders Fund: $95 million (closed 2017) ... Hubdoc (exited to Xero for $70 million USD in 2018)"
+      },
+      {
+        "url": "https://round13.com/",
+        "title": "Round13 Capital — Home",
+        "publisher": "Round13 Capital",
+        "accessed": "2026-06-02",
+        "supports": "sector focus, HQ Toronto, portfolio",
+        "quote": "Vertical Software/SaaS ... Ecommerce ... Tech-enabled Services ... Disruptive Retail ... Artificial Intelligence"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Firm founded 2013 per official/secondary sources; the BetaKit fund article references the Founders Fund's 2017 close. Currencies are CAD per Canadian reporting.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "ca-vertu-capital",
+    "name": { "en": "Vertu Capital" },
+    "aka": ["Vertu Partners"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://vertupartners.com/",
+    "links": {
+      "other": ["https://vertucapital.ca/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Vertu Partners Fund I", "vintage_year": 2023, "size": { "raw": "more than $300 million", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth"],
+      "check_size": { "raw": "$25 million to $75 million per deal", "usd_min": 25000000, "usd_max": 75000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada", "United States", "Global"],
+      "sector_focus": ["saas-enterprise"],
+      "thesis": "Private equity / growth firm focused on global enterprise software and software-enabled companies; buys mid-sized enterprise-software businesses (around $20M annual revenue, profitable) and scales them."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Dejero Labs", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "PathFactory", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Lisa Melchior", "role": "Founder / Managing Partner" }
+    ],
+    "summary": {
+      "en": "Toronto-based growth/PE firm (founded 2017 by Lisa Melchior) focused on global enterprise software. Closed inaugural fund at more than $300M in 2023; invests $25M–$75M per deal in mid-sized, profitable enterprise-software companies."
+    },
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/vertu-capital-raises-more-than-300-million-for-its-inaugural-fund-301778256.html",
+        "title": "Vertu Capital Raises more than $300 Million for its Inaugural Fund",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-02",
+        "supports": "fund size, founding year, HQ, sector focus, founder, portfolio",
+        "quote": "more than $300 million in capital commitments ... Founded in 2017 by Lisa Melchior ... global enterprise software companies"
+      },
+      {
+        "url": "https://www.theglobeandmail.com/business/article-vertu-capital-private-equity-fund/",
+        "title": "Vertu Capital, Canada's first private equity firm founded by a woman, closes $300-million inaugural round",
+        "publisher": "The Globe and Mail",
+        "accessed": "2026-06-02",
+        "supports": "per-deal check size, target company profile",
+        "quote": "put in $25 million to $75 million per deal in companies worth up to $500 million ... around $20 million of annual revenue"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Classified as growth-equity/PE rather than early-stage VC; included because it is enterprise-software-focused. Website redirects vertucapital.ca -> vertupartners.com. Currency likely CAD per Canadian reporting.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "ca-klass-capital",
+    "name": { "en": "Klass Capital" },
+    "aka": ["Klass Capital Corporation"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.klass.com/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/klass-capital-corporation",
+      "crunchbase": "https://www.cbinsights.com/investor/klass-capital"
+    },
+    "strategy": {
+      "stages": ["series-b", "growth"],
+      "check_size": { "raw": "$5–$30M+ initial investment per transaction", "usd_min": 5000000, "usd_max": 30000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada", "United States", "Europe"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "Growth-stage investment firm focused on founder-run B2B technology and SaaS businesses (typically up to ~$15M revenue), taking a patient, long-term (10+ year) minority-growth and secondary ownership approach."
+    },
+    "track_record": {
+      "portfolio_count": "25+ high-growth SaaS businesses",
+      "notable_investments": [
+        { "company": "Docebo", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Coconut Software", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "360insights", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Resolver", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "AlayaCare", "sector": "healthtech", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "Toronto-based growth-equity firm investing in founder-run B2B technology and SaaS businesses across North America and Europe. Initial cheques of $5–$30M+; portfolio of 25+ SaaS companies including Docebo and Coconut Software."
+    },
+    "sources": [
+      {
+        "url": "https://www.klass.com/",
+        "title": "Klass Capital",
+        "publisher": "Klass Capital",
+        "accessed": "2026-06-02",
+        "supports": "HQ, check size, sector focus, geographic focus, portfolio, target revenue",
+        "quote": "$5–$30M+ ... B2B Tech ... AI ... SaaS ... up to $15M of revenue ... Docebo, Coconut Software, 360insights, Resolver, AlayaCare"
+      },
+      {
+        "url": "https://www.openvc.app/fund/Klass%20Capital",
+        "title": "Klass Capital | Investor Profile",
+        "publisher": "OpenVC",
+        "accessed": "2026-06-02",
+        "supports": "portfolio count (25+), growth-stage positioning",
+        "quote": "portfolio of over 25 high-growth SaaS businesses across North America and Europe"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year not found on official site or in reviewed sources, set to null. Check-size upper bound stated as '$30M+' on site; encoded usd_max at 30M.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "ca-golden-ventures",
+    "name": { "en": "Golden Ventures" },
+    "aka": ["Golden Venture Partners"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2011,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.golden.ventures/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/goldenventures",
+      "crunchbase": "https://www.crunchbase.com/organization/golden-venture-partners"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund IV", "vintage_year": null, "size": { "raw": "$72 million", "usd": null, "currency": "CAD" } },
+        { "name": "Fund V", "vintage_year": 2024, "size": { "raw": "nearly $140 million CAD ($103 million USD)", "usd": 103000000, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "Initial cheques between $500K-$3M", "usd_min": 500000, "usd_max": 3000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["saas-enterprise", "fintech", "consumer", "ecommerce"],
+      "thesis": "Seed-stage, founder-focused firm investing across North America; sector-agnostic but with strong activity in B2B/vertical SaaS, marketplaces, fintech, future of work and consumer tech."
+    },
+    "track_record": {
+      "portfolio_count": "over 100 investments",
+      "notable_investments": [
+        { "company": "Wattpad", "sector": "consumer", "outcome": "acquired" },
+        { "company": "Float", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Neo Financial", "sector": "fintech", "outcome": "active" },
+        { "company": "BenchSci", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Rebelstork", "sector": "ecommerce", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Matt Golden", "role": "Founder / Managing Partner" }
+    ],
+    "summary": {
+      "en": "Toronto-based seed-stage VC (founded 2011 by Matt Golden) investing across North America with 100+ investments. Initial cheques of $500K–$3M; Fund V closed at nearly $140M CAD. Strong in SaaS, marketplaces, fintech and consumer."
+    },
+    "sources": [
+      {
+        "url": "https://www.golden.ventures/",
+        "title": "Golden Ventures",
+        "publisher": "Golden Ventures",
+        "accessed": "2026-06-02",
+        "supports": "founding year, HQ, check size, stages, portfolio count, portfolio",
+        "quote": "2011 (June) ... Initial cheques between $500K-$3M ... Over 100 investments to date ... Float ... Neo Financial ... Wattpad"
+      },
+      {
+        "url": "https://betakit.com/golden-ventures-closes-nearly-140-million-cad-for-fifth-seed-stage-vc-fund/",
+        "title": "Golden Ventures closes nearly $140 million CAD for fifth seed-stage VC fund",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Fund V size",
+        "quote": "$103 million USD ($139 million CAD) for its fifth fund focused on seed-stage tech startups"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Officially described as 'sector agnostic'; included for its strong, repeated activity in SaaS, marketplaces, fintech and consumer. Light overlap with generalist segment expected.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "ca-framework-venture-partners",
+    "name": { "en": "Framework Venture Partners" },
+    "aka": ["Framework", "FRAMEWORK"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.framework.vc/en",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/framework-venture-partners"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund II", "vintage_year": 2022, "size": { "raw": "$100 million USD first close (target $250 million USD)", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "fintech"],
+      "thesis": "Backs early-stage technology founders in vertical SaaS and AI-powered platforms, primarily Canadian B2B SaaS companies in the late-A / early-Series-B range, with a focus on machine learning and fintech."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Botpress", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Quandri", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Koverly", "sector": "fintech", "outcome": "active" },
+        { "company": "Maxa", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Peter Misek", "role": "Managing Partner / Co-Founder" },
+      { "name": "Ajay Gopal", "role": "Partner" },
+      { "name": "Jim Texier", "role": "Partner / CTO" }
+    ],
+    "summary": {
+      "en": "Canadian VC backing early-stage vertical SaaS and AI-powered platform founders in Canada and the US (late seed to Series A/B). Fund II hit a $100M USD first close in 2022 with a $250M USD target."
+    },
+    "sources": [
+      {
+        "url": "https://www.framework.vc/en",
+        "title": "Home — FRAMEWORK",
+        "publisher": "Framework Venture Partners",
+        "accessed": "2026-06-02",
+        "supports": "stages, sector focus, geo focus, portfolio, partners",
+        "quote": "Late Seed · Series A/B ... Vertical SaaS · AI-Powered Platforms ... Canada · USA ... Peter Misek (Managing Partner & Co-Founder)"
+      },
+      {
+        "url": "https://betakit.com/with-a-new-team-framework-venture-partners-secures-100-million-usd-first-close-for-second-fund/",
+        "title": "Framework Venture Partners secures $100 million USD first close for second fund",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Fund II first close size and target, B2B SaaS focus",
+        "quote": "secured an initial $100 million USD for its second fund, with a target of $250 million USD final close"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year not confirmed in reviewed sources, set to null. HQ Toronto per secondary sources (site references a Boston event location).",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "ca-version-one-ventures",
+    "name": { "en": "Version One Ventures" },
+    "aka": ["Version One"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Vancouver",
+    "website": "https://versionone.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/version-one-ventures",
+      "other": ["https://en.wikipedia.org/wiki/Version_One_Ventures"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2012, "size": { "raw": "$18.7 million", "usd": 18700000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2014, "size": { "raw": "$35 Million", "usd": 35000000, "currency": "USD" } },
+        { "name": "Fund III", "vintage_year": 2018, "size": { "raw": "$57 million", "usd": 57000000, "currency": "USD" } },
+        { "name": "Opportunity Fund", "vintage_year": null, "size": { "raw": "$25 million", "usd": 25000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$250K to $500K (per secondary sources)", "usd_min": 250000, "usd_max": 500000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States", "Global"],
+      "sector_focus": ["saas-enterprise", "ecommerce", "consumer", "fintech", "web3-crypto"],
+      "thesis": "Early-stage firm backing mission-driven founders from Day 1 in consumer internet, e-commerce, SaaS, marketplaces, crypto and fintech, often before the category is clear."
+    },
+    "track_record": {
+      "portfolio_count": "116 companies",
+      "notable_investments": [
+        { "company": "Coinbase", "sector": "web3-crypto", "outcome": "IPO" },
+        { "company": "Wattpad", "sector": "consumer", "outcome": "acquired" },
+        { "company": "Jobber", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Ada", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Uniswap", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Boris Wertz", "role": "Founder / General Partner" },
+      { "name": "Angela Tran Kingyens", "role": "General Partner" }
+    ],
+    "summary": {
+      "en": "Vancouver-based early-stage VC (founded 2012 by Boris Wertz) investing in consumer internet, e-commerce, SaaS, marketplaces and crypto. Funds of $18.7M, $35M and $57M plus a $25M opportunity fund. Early backer of Coinbase, Wattpad and Jobber."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Version_One_Ventures",
+        "title": "Version One Ventures - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "founding year, HQ, founder, Fund I & II sizes, sector focus, partners",
+        "quote": "2012 (July) ... Vancouver, British Columbia ... Boris Wertz ... $18.7-million fund ... $35 Million ... SaaS, marketplace, cryptocurrency, financial tech, and healthcare"
+      },
+      {
+        "url": "https://www.theglobeandmail.com/business/article-bcs-version-one-ventures-launches-25-million-opportunity-fund/",
+        "title": "B.C.'s Version One Ventures launches $25-million 'opportunity fund'",
+        "publisher": "The Globe and Mail",
+        "accessed": "2026-06-02",
+        "supports": "$25M opportunity fund",
+        "quote": "first $25 million 'opportunity fund' backed by funds-of-funds investors Northleaf Capital Partners and HarbourVest Partners"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund III ($57M, 2018) and check-size range ($250K–$500K) come from secondary sources (Crunchbase/Tracxn). Crypto exposure overlaps with a web3 segment; included here for strong consumer/SaaS/marketplace history.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "ca-standup-ventures",
+    "name": { "en": "StandUp Ventures" },
+    "aka": ["Stand Up Ventures"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.standupvc.com/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/standup-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/standup-ventures-i"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": null, "size": { "raw": "$35-million", "usd": null, "currency": "CAD" } },
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "$30 million initial close", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500K–$1.5M CAD (per secondary sources)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["saas-enterprise", "healthtech", "impact"],
+      "thesis": "Seed-stage fund investing in high-growth ventures with at least one woman in a key leadership role, largely in B2B enterprise software and digital health."
+    },
+    "track_record": {
+      "portfolio_count": "38 companies funded",
+      "notable_investments": [
+        { "company": "Arteria AI", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "AmacaThera", "sector": "biotech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Michelle McBane", "role": "Managing Partner" }
+    ],
+    "application": {
+      "accepts_cold_inbound": true,
+      "contact": "info@standupvc.com"
+    },
+    "summary": {
+      "en": "Toronto-based seed-stage fund led by Michelle McBane backing women-led startups, largely in B2B enterprise software and digital health, across Canada and the US. Fund I was $35M; Fund II had a $30M initial close."
+    },
+    "sources": [
+      {
+        "url": "https://www.theglobeandmail.com/business/article-standup-ventures-raises-30-million-plus-for-second-fund-to-back/",
+        "title": "StandUp Ventures raises $30-million plus for second fund",
+        "publisher": "The Globe and Mail",
+        "accessed": "2026-06-02",
+        "supports": "Fund I size $35M, B2B enterprise software focus, managing partner",
+        "quote": "stretching the goal to $35-million ... a $35-million seed-focused fund that largely invests in B2B enterprise software ... led by venture-capital veteran Michelle McBane"
+      },
+      {
+        "url": "https://betakit.com/standup-ventures-reveals-second-fund-dedicated-to-women-led-startups-with-30-million-initial-close/",
+        "title": "StandUp Ventures reveals second fund with $30 million initial close",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Fund II $30M initial close, women-led mandate",
+        "quote": "second fund dedicated to women-led startups with $30 million initial close"
+      },
+      {
+        "url": "https://www.standupvc.com/",
+        "title": "Stand Up Ventures",
+        "publisher": "StandUp Ventures",
+        "accessed": "2026-06-02",
+        "supports": "portfolio metrics, stages, geo focus, contact",
+        "quote": "38 companies funded ... 90% conversion from seed to Series A ... Preseed to Series A ... Canada and the US"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Women-led mandate (impact angle) but core thesis is B2B enterprise software, so included. Founding year not confirmed. Check-size range from secondary sources, currency CAD.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "ca-n49p",
+    "name": { "en": "N49P" },
+    "aka": ["N49P Ventures", "North 49 Partners"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://n49p.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/n49p"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2018, "size": { "raw": "$1.4 million USD", "usd": 1400000, "currency": "USD" } },
+        { "name": "Fund III", "vintage_year": 2022, "size": { "raw": "$27.7 million USD", "usd": 27700000, "currency": "USD" } },
+        { "name": "Fund IV", "vintage_year": 2026, "size": { "raw": "$25 million USD first close ($34M CAD); target $70 million", "usd": 25000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500,000 to $1.5 million", "usd_min": 500000, "usd_max": 1500000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "Pre-seed venture firm backing Canadian (or Canadian-led) tech founders, predominantly in B2B enterprise software and SaaS, typically writing first institutional cheques."
+    },
+    "track_record": {
+      "portfolio_count": "more than 90 companies",
+      "notable_investments": [
+        { "company": "EvenUp", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Spellbook", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Quandri", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Maneva", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Alex Norman", "role": "Partner (TechTO co-founder)" },
+      { "name": "Doug Penick", "role": "Partner" },
+      { "name": "Omar Dhalla", "role": "Partner" }
+    ],
+    "summary": {
+      "en": "Toronto-based pre-seed VC (founded 2018) backing Canadian tech founders, heavily B2B SaaS/enterprise software. 90+ portfolio companies; cheques of $500K–$1.5M. Fund IV held a $25M USD first close (target $70M)."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/n49ps-25-million-usd-first-close-for-fund-iv-will-help-it-hunt-more-diamonds-in-the-rough/",
+        "title": "N49P's $25-million USD first close for Fund IV",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "founding year, HQ, fund sizes, check size, stage, portfolio",
+        "quote": "Fund IV First Close: $25 million USD ($34 million CAD) ... Target: $70 million ... Founded: 2018 ... Check size: $500,000 to $1.5 million ... Fund III (mid-2022): $27.7 million USD"
+      },
+      {
+        "url": "https://n49p.com/",
+        "title": "Powering Canada's Top Founders | N49P Venture Capital",
+        "publisher": "N49P",
+        "accessed": "2026-06-02",
+        "supports": "Canada focus, partners, portfolio companies",
+        "quote": "Alex Norman (Partner ... co-founded TechTO) ... EvenUp ... Safekeep ... Maneva"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "BetaKit lists N49P as 'sector-agnostic' but its portfolio (per Tracxn: ~54 B2B / ~50 software / 31 SaaS) is heavily enterprise SaaS, justifying inclusion. Fund II size 'less than $25M USD' not precisely disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  },
+  {
+    "id": "ca-relay-ventures",
+    "name": { "en": "Relay Ventures" },
+    "aka": ["Relay"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://relay.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/relay-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "$670 million capital under management", "usd": null, "currency": "USD" },
+      "funds": [
+        { "name": "Relay Ventures Fund III", "vintage_year": 2016, "size": { "raw": "$200-million", "usd": 200000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["consumer", "ecommerce", "saas-enterprise", "healthtech"],
+      "thesis": "Early-stage firm focused on verticals being disrupted by mobile technology, including IoT, consumer healthcare and commerce; invests in mobile-related software and services."
+    },
+    "track_record": {},
+    "summary": {
+      "en": "Toronto-based early-stage VC focused on mobile-disrupted verticals (IoT, consumer healthcare, commerce). Closed its third fund at $200M in 2016 with roughly $670M in capital under management."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/relay-ventures-raises-200-million-third-fund-to-continue-focus-on-mobile-tech-companies/",
+        "title": "Relay Ventures raises $200 million third fund to continue focus on mobile tech companies",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "fund III size, AUM, sector focus",
+        "quote": "third fund, topping out at $200-million ... $670 million in capital under management ... verticals being disrupted by mobile technology, such as IoT, consumer healthcare, and commerce"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year not confirmed in reviewed sources, set to null. Fund III data is from 2016; current fund/AUM may have changed. Relay also has a US presence. Currency assumed USD per BetaKit reporting.",
+    "last_updated": "2026-06-02",
+    "researched_by": "consumer-saas-vc"
+  }
+]

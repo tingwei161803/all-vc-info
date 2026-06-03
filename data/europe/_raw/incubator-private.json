@@ -1,0 +1,969 @@
+[
+  {
+    "id": "eu-station-f",
+    "name": { "en": "STATION F", "local": "STATION F" },
+    "aka": ["Station F"],
+    "type": "incubator",
+    "subtypes": ["accelerator", "venture-studio"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://stationf.co/",
+    "links": {
+      "other": ["https://stationf.co/programs"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$50,000–$100,000", "usd_min": 50000, "usd_max": 100000 },
+      "ownership_target_pct": "1%",
+      "lead_or_follow": "follow",
+      "geo_focus": ["France", "Europe"],
+      "sector_focus": ["generalist", "ai-ml"],
+      "thesis": "World's largest startup campus, privately funded by telecom billionaire Xavier Niel; hosts 1,000+ startups and runs 30+ acceleration/incubation programs, of which the flagship Founders Program takes a 1% equity stake."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": 25,
+      "batches_per_year": 2,
+      "equity_taken_pct": "1%",
+      "investment": { "raw": "$50,000–$100,000 (selected startups)", "usd": null, "currency": "USD" },
+      "format": "in-person",
+      "location": "Paris (13th arrondissement)",
+      "demo_day": true,
+      "application_url": "https://stationf.co/programs",
+      "application_cycles": ["Two batches per year (Founders Program)"],
+      "acceptance_rate": null,
+      "eligibility": "Early-stage startups; flagship Founders Program accepts ~25 startups per batch."
+    },
+    "track_record": {
+      "portfolio_count": "1,000+ resident startups",
+      "notable_investments": [
+        { "company": "Hugging Face", "sector": "ai-ml", "outcome": "unicorn (incubated early at Station F)" }
+      ]
+    },
+    "people": [
+      { "name": "Xavier Niel", "role": "Founder / Backer" },
+      { "name": "Roxanne Varza", "role": "Director" }
+    ],
+    "application": {
+      "how_to_apply": "Apply online to one of 30+ programs via stationf.co/programs",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["startup-campus", "incubator", "paris"],
+    "summary": {
+      "en": "STATION F is the world's largest startup campus, a 34,000 m² converted railway depot in Paris opened in 2017 with ~€250M of personal investment from billionaire Xavier Niel. It hosts over 1,000 startups and runs 30+ programs; its flagship Founders Program takes a 1% equity stake and writes checks to a small number of startups each year.",
+      "local": "STATION F est le plus grand campus de startups au monde, ouvert en 2017 à Paris grâce à un investissement personnel d'environ 250 M€ de Xavier Niel."
+    },
+    "sources": [
+      {
+        "url": "https://stationf.co/",
+        "title": "STATION F",
+        "publisher": "Station F",
+        "accessed": "2026-06-02",
+        "supports": "1,000+ startups, 30+ programs, €1B+ raised per year by campus startups, Paris location",
+        "quote": "1,000+ startups ... 30+ programs ... €1B+ raised / year"
+      },
+      {
+        "url": "https://techcrunch.com/2022/10/25/station-f-turns-its-main-startup-program-into-an-acceleration-program/",
+        "title": "Station F turns its main startup program into an acceleration program",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "1% equity stake; flagship Founders Program now accepts 25 startups, two batches per year",
+        "quote": "They'll also have to hand out a 1% equity stake to Station F. ... It now aims to accept 25 startups in the Founders Program, with two batches per year."
+      },
+      {
+        "url": "https://hotpaths.com/inside-station-f-the-startup-incubator-catalyzing-the-french-ai-scene/",
+        "title": "Inside Station F, the Startup Incubator Catalyzing the French AI Scene",
+        "publisher": "Hot Paths",
+        "accessed": "2026-06-02",
+        "supports": "1% equity, $50,000–$100,000 checks to ~20 startups/year, Hugging Face incubated",
+        "quote": "the incubator takes 1% equity in return for support, with the incubator also aiming to write checks of $50,000 to $100,000 to around 20 startups each year"
+      },
+      {
+        "url": "https://relance2030.com/encyclopedia/station-f-startup-campus/",
+        "title": "Station F — The World's Largest Startup Campus",
+        "publisher": "Relance2030",
+        "accessed": "2026-06-02",
+        "supports": "Founded by Xavier Niel, opened 29 June 2017, 34,000 m², ~€250M investment",
+        "quote": "Niel's approximately €250 million personal investment in Station F ... occupying a 34,000-square-meter converted railway depot in the 13th arrondissement of Paris"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding/opening year given as 2017 (officially opened 29 June 2017); some sources cite 2013 as the project's start. Equity (1%) and check size ($50k–$100k) apply to specific programs, not all residents.",
+    "last_updated": "2026-06-02",
+    "researched_by": "incubator-private"
+  },
+  {
+    "id": "eu-50-partners",
+    "name": { "en": "50 Partners", "local": "50 Partners" },
+    "aka": ["50partners"],
+    "type": "incubator",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://www.50partners.fr/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/50-partners"
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "7%",
+      "lead_or_follow": "both",
+      "geo_focus": ["France"],
+      "sector_focus": ["generalist", "saas-enterprise", "impact", "healthtech", "web3-crypto"],
+      "thesis": "Private incubator co-founded by ~50 successful tech entrepreneurs (BlaBlaCar, Showroomprivé, Leboncoin) who mentor and co-invest in 4–7 selected seed-stage startups per year in exchange for a 7% equity stake."
+    },
+    "program": {
+      "length_weeks": 78,
+      "cohort_size": "4–7 per year",
+      "batches_per_year": null,
+      "equity_taken_pct": "7%",
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Paris (700 m² loft)",
+      "demo_day": null,
+      "application_url": "https://www.50partners.fr/",
+      "acceptance_rate": null,
+      "eligibility": "Early-stage (seed) tech startups; ~4–6 selected per year to concentrate resources."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via 50partners.fr",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["incubator", "entrepreneur-led", "paris"],
+    "summary": {
+      "en": "50 Partners is a Paris private incubator co-founded by around 50 successful French tech entrepreneurs. It selects only 4–7 seed-stage startups per year, offering a minimum 18 months of hands-on mentoring and capital association in return for a 7% equity stake.",
+      "local": "50 Partners est un incubateur privé parisien cofondé par une cinquantaine d'entrepreneurs tech (BlaBlaCar, Showroomprivé, Leboncoin), qui sélectionne 4 à 7 startups par an en échange de 7% du capital."
+    },
+    "sources": [
+      {
+        "url": "https://www.annuaire-startups.pro/accelerateur-50-partners-presentation-liste-startups-interview/",
+        "title": "Accélérateur 50 Partners : présentation, liste startups & interview",
+        "publisher": "Annuaire Start-Up France",
+        "accessed": "2026-06-02",
+        "supports": "Co-founded by 50 entrepreneurs, 7% equity, 4–6 projects/year, 18 months mentoring, 700 m² Paris loft, seed stage",
+        "quote": "Cofounded by 50 successful Tech entrepreneurs ... in return for an association with capital at the rate of 7%. ... a minimum of 18 months of mentoring. Only 4 to 6 projects are selected each year ... a 700m² loft in central Paris"
+      },
+      {
+        "url": "https://www.50partners.fr/",
+        "title": "50partners",
+        "publisher": "50 Partners",
+        "accessed": "2026-06-02",
+        "supports": "50 entrepreneurs network, multiple sector-focused accelerators (Tech, Impact, Health, Web3)",
+        "quote": "4 accelerators covering Tech, Impact, Health, and Web3"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year reported as 2011 by secondary sources; check size / per-startup investment amount not publicly disclosed (left null). Program length stated as 'minimum 18 months' (≈78 weeks).",
+    "last_updated": "2026-06-02",
+    "researched_by": "incubator-private"
+  },
+  {
+    "id": "eu-the-family",
+    "name": { "en": "The Family", "local": "The Family" },
+    "aka": ["TheFamily"],
+    "type": "incubator",
+    "status": "dormant",
+    "founded_year": 2013,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://www.thefamily.co/about",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/thefamily",
+      "other": ["https://fr.wikipedia.org/wiki/The_Family"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "ownership_target_pct": "1%–7%",
+      "geo_focus": ["France", "United Kingdom", "Germany", "Europe"],
+      "sector_focus": ["generalist"],
+      "thesis": "Iconic private French incubator (2013–early 2020s) that backed digital startups across Paris, London and Berlin, providing support and services in exchange for equity stakes of roughly 1% to 7%."
+    },
+    "program": {
+      "length_weeks": null,
+      "equity_taken_pct": "1%–7%",
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "remote",
+      "eligibility": "Digital-economy startups (program operations largely wound down)."
+    },
+    "track_record": {
+      "portfolio_count": "hundreds of startups"
+    },
+    "people": [
+      { "name": "Alice Zagury", "role": "Co-founder & CEO" },
+      { "name": "Nicolas Colin", "role": "Co-founder" },
+      { "name": "Oussama Ammar", "role": "Co-founder (departed amid dispute)" }
+    ],
+    "tags": ["incubator", "paris", "historical"],
+    "summary": {
+      "en": "The Family was an influential private startup incubator founded in Paris in 2013 by Alice Zagury, Nicolas Colin and Oussama Ammar, taking 1–7% equity in portfolio companies. It worked with hundreds of startups across Paris, London and Berlin, but closed its offices in 2020 and was hit by a 2022 dispute and partial liquidation, making it effectively dormant.",
+      "local": "The Family était un incubateur privé emblématique fondé à Paris en 2013, prenant entre 1% et 7% du capital des startups; il a fermé ses bureaux en 2020 et a connu un litige en 2022."
+    },
+    "sources": [
+      {
+        "url": "https://fr.wikipedia.org/wiki/The_Family",
+        "title": "The Family — Wikipédia",
+        "publisher": "Wikipédia",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2013 in Paris; founders; 1–7% equity; €350M raised by portfolio; offices closed 2020; 2022 dispute",
+        "quote": "The enterprise provides startups in its portfolio with support and services in exchange for equity stakes ranging from 1% to 7%. ... helping them raise some €350 million. ... operating fully remotely since 2020 following the closure of its offices in Paris, London ... and Berlin."
+      },
+      {
+        "url": "https://sifted.eu/articles/the-family-feud",
+        "title": "Cofounder of iconic French incubator The Family accused of embezzlement",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "Describes The Family as an iconic French incubator and the 2022 founder dispute",
+        "quote": "Cofounder of iconic French incubator The Family accused of embezzlement"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Status set to 'dormant': offices closed 2020, Paris subsidiary faced liquidation request in 2022. Portfolio count not precisely disclosed; €350M is cumulative raised by portfolio, not fund size.",
+    "last_updated": "2026-06-02",
+    "researched_by": "incubator-private"
+  },
+  {
+    "id": "eu-h-farm",
+    "name": { "en": "H-FARM", "local": "H-FARM" },
+    "aka": ["H-Farm", "H-Farm SpA"],
+    "type": "incubator",
+    "subtypes": ["venture-studio", "vc"],
+    "status": "active",
+    "founded_year": 2005,
+    "region": "europe",
+    "country": "Italy",
+    "hq_city": "Roncade (Treviso)",
+    "website": "https://www.h-farm.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/h-farm",
+      "other": ["https://tracxn.com/d/accelerator-incubator/h-farm/__Q8Ivu1NYvoDd1hySGZ5TZNKctx2a_nt2xaMpx5oSGLk"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Italy", "Europe"],
+      "sector_focus": ["generalist", "consumer", "ecommerce", "agritech", "edtech", "web3-crypto"],
+      "thesis": "Italy's first private venture incubator (founded 2005 by Riccardo Donadon), combining seed investment with incubation services for digital startups; operates as a hybrid VC-and-incubator and now a broader innovation/education ecosystem."
+    },
+    "program": {
+      "length_weeks": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Roncade campus (Treviso, Italy)",
+      "eligibility": "Early-stage digital startups."
+    },
+    "track_record": {
+      "portfolio_count": "~128 startups supported (varies by source)",
+      "notable_investments": [
+        { "company": "Depop", "sector": "ecommerce", "outcome": "acquired/unicorn" },
+        { "company": "The Data Appeal Company", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Riccardo Donadon", "role": "Founder & Chairman/CEO" }
+    ],
+    "tags": ["incubator", "venture-builder", "italy"],
+    "summary": {
+      "en": "H-FARM, founded in 2005 by Riccardo Donadon in Roncade near Treviso, is described as the first private venture incubator in Italy. It combines seed investment with incubation services for digital startups (hybrid VC + incubator), and has grown into a broad innovation and education campus. Its portfolio includes the unicorn Depop.",
+      "local": "H-FARM, fondata nel 2005 da Riccardo Donadon a Roncade (Treviso), è considerata il primo venture incubator privato in Italia, combinando investimenti seed e servizi di incubazione per startup digitali."
+    },
+    "sources": [
+      {
+        "url": "https://www.firstonline.info/en/h-farm-il-venture-incubator-per-giovani-start-up-italiane/",
+        "title": "H-Farm, the venture incubator for young Italian start-ups",
+        "publisher": "FIRSTonline",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2005, first private venture incubator in Italy, hybrid VC + incubator model, Roncade",
+        "quote": "the creator and president of the first private venture incubator in Italy. ... a hybrid model that combines the dual roles of Venture Capitalist and Incubator."
+      },
+      {
+        "url": "https://startupitalia.eu/startup/h-farm-quel-vivaio-di-startup-che-fa-scuola-donadon-al-via-un-piano-da-5-milioni-di-euro-di-investimenti/",
+        "title": "H-Farm, quel vivaio di startup che fa scuola",
+        "publisher": "StartupItalia",
+        "accessed": "2026-06-02",
+        "supports": "~€28M invested, ~128 startups created, €43M economic return, Depop unicorn",
+        "quote": "With investments of 28 million euros, H-Farm has contributed to the birth of 128 startups with an economic return of 43 million euros. ... H-Farm has generated a unicorn, Depop."
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/h-farm",
+        "title": "H-FARM - Crunchbase Company Profile",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "Founded January 2005, Roncade Italy, additional offices Milan/Rome/Turin",
+        "quote": "founded in January 2005 ... based in Roncade, Italy"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Portfolio/investment figures vary across sources (107–154 investments; €28M invested per StartupItalia). Now listed on Milan exchange (FARM-IT) and increasingly an education/innovation campus rather than a pure incubator.",
+    "last_updated": "2026-06-02",
+    "researched_by": "incubator-private"
+  },
+  {
+    "id": "eu-lanzadera",
+    "name": { "en": "Lanzadera", "local": "Lanzadera" },
+    "aka": [],
+    "type": "incubator",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "europe",
+    "country": "Spain",
+    "hq_city": "Valencia",
+    "website": "https://lanzadera.es/",
+    "links": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Spain"],
+      "sector_focus": ["generalist"],
+      "thesis": "Privately funded incubator/accelerator created by Mercadona founder Juan Roig within the Marina de Empresas ecosystem in Valencia; provides training, mentoring and access to financing/investment, having accelerated over 1,700 companies across all sectors."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": "120–150 per intake",
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Marina de Empresas, Valencia",
+      "application_url": "https://lanzadera.es/",
+      "eligibility": "Startups across all sectors; recent cohorts skew to companies with real market traction (80% already invoicing)."
+    },
+    "track_record": {
+      "portfolio_count": "1,700+ companies accelerated"
+    },
+    "people": [
+      { "name": "Juan Roig", "role": "Founder / Backer (Mercadona founder)" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via lanzadera.es",
+      "accepts_cold_inbound": true,
+      "contact": "info@lanzadera.es"
+    },
+    "tags": ["incubator", "accelerator", "valencia", "privately-funded"],
+    "summary": {
+      "en": "Lanzadera is a privately funded incubator and accelerator created in 2013 by Mercadona founder Juan Roig, based at the Marina de Empresas campus in Valencia. It has accelerated more than 1,700 companies and is ranked by the Financial Times among the top accelerators in Spain and Portugal.",
+      "local": "Lanzadera es la aceleradora e incubadora impulsada por Juan Roig (fundador de Mercadona), creada en 2013 en la Marina de Empresas de Valencia; ha acelerado más de 1.700 empresas."
+    },
+    "sources": [
+      {
+        "url": "https://lanzadera.es/",
+        "title": "Lanzadera: Aceleradora e incubadora de empresas",
+        "publisher": "Lanzadera",
+        "accessed": "2026-06-02",
+        "supports": "1,700+ companies accelerated; FT top-3 accelerator Spain/Portugal; founded by Juan Roig",
+        "quote": "más de 1700 empresas de todos los sectores ... TOP3 Aceleradora de España y Portugal por 3er año consecutivo por Financial Times"
+      },
+      {
+        "url": "https://ecosistemastartup.com/lanzadera-suma-120-startups-el-ecosistema-de-juan-roig/",
+        "title": "Lanzadera suma 120 startups: el ecosistema de Juan Roig",
+        "publisher": "El Ecosistema Startup",
+        "accessed": "2026-06-02",
+        "supports": "Juan Roig ecosystem (Marina de Empresas: Lanzadera + Angels + EDEM); 120-startup intake; 80% already invoicing",
+        "quote": "la aceleradora impulsada por Juan Roig dentro del ecosistema Marina de Empresas en Valencia ... El 80% de las startups incorporadas ya factura"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year 2013 per primary site. Lanzadera itself does not take equity; investment is channelled via the separate Angels Capital vehicle (also Juan Roig). Per-startup investment amounts not disclosed (null).",
+    "last_updated": "2026-06-02",
+    "researched_by": "incubator-private"
+  },
+  {
+    "id": "eu-demium",
+    "name": { "en": "Demium", "local": "Demium" },
+    "aka": ["Demium Startups", "Demium Capital", "Think Bigger Capital"],
+    "type": "incubator",
+    "subtypes": ["accelerator", "venture-studio"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "europe",
+    "country": "Spain",
+    "hq_city": "Valencia",
+    "website": "https://www.demium.com/",
+    "links": {
+      "linkedin": "https://es.linkedin.com/company/demium",
+      "crunchbase": "https://www.crunchbase.com/organization/think-bigger-capital"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Think Bigger Fund I (Demium Capital)", "vintage_year": 2020, "size": { "raw": "€50M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "up to €100,000 (pre-seed); up to €500,000 follow-on", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Spain", "Portugal", "Poland", "Ukraine", "Greece"],
+      "sector_focus": ["generalist", "saas-enterprise", "ai-ml"],
+      "thesis": "Talent-investment incubator that runs an equity-free 4–6 month program to help vetted founders build companies, then invests up to €100K pre-seed (and up to €500K via partner fund) through its €50M Demium Capital / Think Bigger fund."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": "equity-free program (investment is separate)",
+      "investment": { "raw": "up to €100,000 pre-seed", "usd": null, "currency": "EUR" },
+      "format": "in-person",
+      "location": "Valencia, Madrid, Barcelona, Málaga, Lisbon, Warsaw, Kyiv, Athens",
+      "application_url": "https://www.demium.com/",
+      "eligibility": "Talented founders/teams with innovative, unique, digital/tech ideas; idea or talent-first (no prior team required).",
+      "perks": ["equity-free incubation program"]
+    },
+    "track_record": {
+      "portfolio_count": "invests in ~75 startups per year",
+      "notable_investments": [
+        { "company": "Landbot", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Voicemod", "sector": "consumer", "outcome": "active" },
+        { "company": "Citibox", "sector": "logistics", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via demium.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["incubator", "talent-investor", "equity-free-program", "spain"],
+    "summary": {
+      "en": "Demium is a Spanish talent-investment incubator founded in Valencia in 2013. It runs an equity-free 4–6 month program to help founders build companies from idea/talent stage, then invests up to €100K pre-seed (and up to €500K via its partner fund) through the €50M Demium Capital / Think Bigger Fund I. It operates hubs in eight cities across Europe.",
+      "local": "Demium es una empresa de inversión de talento fundada en Valencia en 2013; su programa equity-free de 4-6 meses prepara a fundadores para una inversión pre-seed de hasta 100.000€ a través de su fondo de 50M€."
+    },
+    "sources": [
+      {
+        "url": "https://robertotouza.com/demium-startups-incubadora-talento-emprendedores/",
+        "title": "Demium Startups: La incubadora del talento y los emprendedores",
+        "publisher": "Roberto Touza",
+        "accessed": "2026-06-02",
+        "supports": "Founded Valencia 2013; equity-free 4–6 month program; €50M fund; up to €100K pre-seed and €500K follow-on; ~75 startups/year; expansion cities",
+        "quote": "Demium es una empresa de inversión de talento fundada en Valencia en 2013 ... entran en su programa equity-free durante un período de entre cuatro a seis meses ... un primer fondo de 50M€ para invertir en más de 75 startups al año ... financiación que puede llegar hasta los 500.000 euros"
+      },
+      {
+        "url": "https://www.demium.com/",
+        "title": "Demium — mission",
+        "publisher": "Demium",
+        "accessed": "2026-06-02",
+        "supports": "€100,000 investment; notable portfolio (Landbot, Voicemod, Citibox)",
+        "quote": "100.000€ ... Landbot, Voicemod, Citibox, Swipcar, and Theker"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "The incubation program itself is equity-free; equity is taken when the partner fund (Think Bigger / Demium Capital, €50M) invests. Cohort size and program batches not precisely disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "incubator-private"
+  },
+  {
+    "id": "eu-founders-foundation",
+    "name": { "en": "Founders Foundation", "local": "Founders Foundation" },
+    "aka": ["Founders Foundation gGmbH"],
+    "type": "incubator",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Bielefeld",
+    "website": "https://foundersfoundation.de/",
+    "links": {
+      "other": ["https://foundersfoundation.de/the-company/historie/"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Germany"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "Nonprofit private incubator (subsidiary of the Bertelsmann Stiftung) building a B2B-tech founder ecosystem in East Westphalia-Lippe; provides modular training, mentoring and coaching to founders without taking equity."
+    },
+    "program": {
+      "length_weeks": null,
+      "equity_taken_pct": "0% (no equity)",
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Bielefeld, East Westphalia-Lippe",
+      "eligibility": "B2B-tech founders; modular training programs.",
+      "perks": ["mentoring", "coaching", "workshops", "no equity taken"]
+    },
+    "track_record": {
+      "portfolio_count": "63 startups created; 450+ entrepreneurs trained",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Sebastian Borek", "role": "Co-founder" },
+      { "name": "Dominik Gross", "role": "Co-founder" }
+    ],
+    "tags": ["incubator", "nonprofit", "b2b", "germany", "bertelsmann"],
+    "summary": {
+      "en": "Founders Foundation is a nonprofit private incubator in Bielefeld, a subsidiary of the Bertelsmann Stiftung, founded by Sebastian Borek, Dominik Gross and the Bertelsmann Stiftung. It promotes B2B-tech entrepreneurship in the East Westphalia-Lippe region through equity-free training and mentoring; 450+ entrepreneurs have taken part and 63 resulting startups have raised over €30M.",
+      "local": "Die Founders Foundation ist ein gemeinnütziger privater Inkubator in Bielefeld, eine Tochter der Bertelsmann Stiftung, der B2B-Tech-Gründer in Ostwestfalen-Lippe ohne Beteiligung fördert."
+    },
+    "sources": [
+      {
+        "url": "https://foundersfoundation.de/the-company/historie/",
+        "title": "Historie - Founders Foundation",
+        "publisher": "Founders Foundation",
+        "accessed": "2026-06-02",
+        "supports": "Nonprofit subsidiary of Bertelsmann Stiftung; B2B focus; East Westphalia-Lippe",
+        "quote": "nonprofit subsidiary of the Bertelsmann Foundation ... focuses on the B2B tech sector"
+      },
+      {
+        "url": "https://www.businessinsider.de/gruenderszene/allgemein/bertelsmann-founders-foundation/",
+        "title": "Bertelsmann holt Startups nach Ostwestfalen-Lippe",
+        "publisher": "Business Insider / Gründerszene",
+        "accessed": "2026-06-02",
+        "supports": "Founders: Sebastian Borek, Dominik Gross + Bertelsmann Stiftung; €17.5M over first five years; 450+ entrepreneurs; 63 startups; €30M raised; 480 jobs",
+        "quote": "17.5 million euros have been invested in the project for the first five years. Over 450 talented entrepreneurs ... the 63 resulting startups have attracted over €30 million in investments and created more than 480 jobs"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Does not take equity; supports rather than invests directly. Founding ~2016 per secondary sources. Treated as private (Bertelsmann Stiftung-funded nonprofit), not a public/university body.",
+    "last_updated": "2026-06-02",
+    "researched_by": "incubator-private"
+  },
+  {
+    "id": "eu-startup-wise-guys",
+    "name": { "en": "Startup Wise Guys", "local": "Startup Wise Guys" },
+    "aka": ["SWG"],
+    "type": "accelerator",
+    "subtypes": ["incubator", "micro-vc"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "europe",
+    "country": "Estonia",
+    "hq_city": "Tallinn",
+    "website": "https://startupwiseguys.com/",
+    "links": {
+      "linkedin": "https://ee.linkedin.com/company/startup-wise-guys",
+      "crunchbase": "https://www.crunchbase.com/organization/startup-wise-guys"
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "up to €100,000 convertible (+ up to €250,000 follow-on)", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "up to ~9% (case-by-case)",
+      "geo_focus": ["Baltics", "CEE", "Italy", "Portugal", "Spain", "Türkiye", "Ukraine", "Denmark", "Africa"],
+      "sector_focus": ["saas-enterprise", "fintech", "cybersecurity", "proptech", "web3-crypto", "impact"],
+      "thesis": "One of Europe's earliest and most active early-stage accelerator funds (Tallinn, 2012), running B2B SaaS, fintech, cybersecurity and other vertical programs across CEE and 'overlooked' markets, with 400+ investments and 20+ exits."
+    },
+    "program": {
+      "length_weeks": 20,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": "up to ~9% (negotiated case-by-case)",
+      "investment": { "raw": "up to €100,000 (program cost €35,000)", "usd": null, "currency": "EUR" },
+      "format": "hybrid",
+      "application_url": "https://startupwiseguys.com/all-programs/",
+      "acceptance_rate": null,
+      "eligibility": "Working MVP, at least 2 co-founders, initial traction (equity-based program)."
+    },
+    "track_record": {
+      "portfolio_count": "400+ investments",
+      "exits": [],
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via startupwiseguys.com/all-programs",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["accelerator", "early-stage", "cee", "baltics", "estonia"],
+    "summary": {
+      "en": "Startup Wise Guys is an Estonian early-stage accelerator fund founded in Tallinn in 2012, one of the first in the European accelerator scene. Its ~5-month, mostly B2B programs invest up to €100,000 (with follow-on up to €250,000) per startup; the firm has made 400+ investments and 20+ exits across CEE, the Baltics and other 'overlooked' markets.",
+      "local": null
+    },
+    "sources": [
+      {
+        "url": "https://startupwiseguys.com/about/",
+        "title": "About - Startup Wise Guys",
+        "publisher": "Startup Wise Guys",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2012 Tallinn; 800+ founders; 20+ exits; sectors; program locations",
+        "quote": "Since 2012 ... 800+ ... 20+ ... Cybersecurity, Defence and Security, Fintech, SaaS, Proptech, Sustainability, Web3"
+      },
+      {
+        "url": "https://startupwiseguys.com/growing/flagship-accelerator/",
+        "title": "Flagship Accelerator - Startup Wise Guys",
+        "publisher": "Startup Wise Guys",
+        "accessed": "2026-06-02",
+        "supports": "5-month program; up to €100,000 convertible (program cost €35,000); €250,000 follow-on; eligibility",
+        "quote": "a 5-month program ... a convertible investment up to €100,000 (with a program cost of €35,000) and an additional €250,000 as a follow-on opportunity ... a working MVP, at least 2 co-founders, and initial traction"
+      },
+      {
+        "url": "https://sifted.eu/articles/startup-wise-guys-raises-25m-overlooked-markets-news",
+        "title": "Estonia's Startup Wise Guys raises €25m to invest in 'overlooked markets'",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "€25M raise; focus on overlooked/underserved markets; 400+ investments context",
+        "quote": "Estonia's Startup Wise Guys raises €25m to invest in 'overlooked markets'"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Classified primarily as accelerator (with incubator subtype) — straddles the segment. Equity stated 'up to 9%' in older sources; now negotiated case-by-case. 400+ investments figure from the firm and Accelerate Romania listing.",
+    "last_updated": "2026-06-02",
+    "researched_by": "incubator-private"
+  },
+  {
+    "id": "eu-rockstart",
+    "name": { "en": "Rockstart", "local": "Rockstart" },
+    "aka": ["Rockstart Accelerator"],
+    "type": "accelerator",
+    "subtypes": ["incubator", "micro-vc"],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "europe",
+    "country": "Netherlands",
+    "hq_city": "Amsterdam",
+    "website": "https://rockstart.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/rockstart",
+      "crunchbase": "https://www.crunchbase.com/organization/rockstart-accelerator"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Rockstart AgriFood Fund II", "vintage_year": 2023, "size": { "raw": "€50M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Netherlands", "Denmark", "Europe", "Colombia"],
+      "sector_focus": ["climate-energy", "agritech", "deeptech"],
+      "thesis": "Early-stage, hands-on impact investor and accelerator (Amsterdam, 2011) backing purpose-driven founders across three domains — Energy, AgriFood and Emerging Technologies — via domain-focused, mentor-driven programs and follow-on investment from its funds."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": 2,
+      "equity_taken_pct": null,
+      "investment": { "raw": "initial investment via SAFE / convertible note", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Amsterdam (also Copenhagen, Bogotá)",
+      "application_url": "https://rockstart.com/",
+      "eligibility": "Purpose-driven early-stage startups in Energy, AgriFood or Emerging Tech."
+    },
+    "track_record": {
+      "portfolio_count": "350+ startups",
+      "exits": [
+        { "company": "3D Hubs", "type": "M&A", "year": 2021, "value": { "raw": null, "usd": null, "currency": null } }
+      ],
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via rockstart.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["accelerator", "impact", "agrifood", "energy", "netherlands"],
+    "summary": {
+      "en": "Rockstart is an Amsterdam-based early-stage impact investor and accelerator founded in 2011, focused on Energy, AgriFood and Emerging Technologies. It has invested in more than 350 startups (alumni value >$1.7bn) and runs domain-focused, mentor-driven programs with offices in Amsterdam, Copenhagen and Bogotá.",
+      "local": null
+    },
+    "sources": [
+      {
+        "url": "https://rockstart.com/about/",
+        "title": "About - Rockstart",
+        "publisher": "Rockstart",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2011; 350+ startups; alumni value >$1.7bn; Energy/AgriFood/Emerging Tech; offices Amsterdam/Copenhagen/Bogotá",
+        "quote": "established in 2011 and has invested in more than 350 startups ... offices in Amsterdam, The Netherlands, Copenhagen, Denmark and Bogota, Colombia ... alumni value to date is more than $1.7bn"
+      },
+      {
+        "url": "https://www.eu-startups.com/2023/12/amsterdam-based-rockstart-launches-e50-million-second-agrifood-fund-to-double-down-on-early-stage-startups/",
+        "title": "Amsterdam-based Rockstart launches €50 million second AgriFood fund",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-02",
+        "supports": "€50M second AgriFood fund (2023)",
+        "quote": "Amsterdam-based Rockstart launches €50 million second AgriFood fund to double down on early-stage startups"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Primarily an accelerator/impact investor (incubator subtype). Equity % and check size per startup not publicly fixed. Exit list non-exhaustive.",
+    "last_updated": "2026-06-02",
+    "researched_by": "incubator-private"
+  },
+  {
+    "id": "eu-founders-factory",
+    "name": { "en": "Founders Factory", "local": "Founders Factory" },
+    "aka": [],
+    "type": "venture-studio",
+    "subtypes": ["incubator", "accelerator"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://foundersfactory.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/foundersfactory",
+      "crunchbase": "https://www.crunchbase.com/organization/founders-factory",
+      "other": ["https://foundersfactory.com/about-us/"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "~£250,000 (via convertible loan)", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "modest equity stake",
+      "geo_focus": ["United Kingdom", "Europe", "Global"],
+      "sector_focus": ["fintech", "healthtech", "deeptech", "climate-energy", "saas-enterprise"],
+      "thesis": "London venture studio and accelerator (2015) co-founded by Brent Hoberman, Henry Lane Fox and George Northcott that builds and funds startups in partnership with corporate backers (Aviva, L'Oréal, HSBC, etc.), providing ~£250K plus operator support for a modest equity stake."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "equity_taken_pct": "modest equity stake",
+      "investment": { "raw": "~£250,000 (convertible loan)", "usd": null, "currency": "GBP" },
+      "format": "in-person",
+      "location": "London (and global hubs)",
+      "application_url": "https://foundersfactory.com/",
+      "eligibility": "Idea, pre-seed and seed-stage founders; venture studio and accelerator tracks."
+    },
+    "track_record": {
+      "portfolio_count": "450+ startups built/backed",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Brent Hoberman", "role": "Co-founder & Executive Chairman" },
+      { "name": "Henry Lane Fox", "role": "Co-founder" },
+      { "name": "George Northcott", "role": "Co-founder" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via foundersfactory.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["venture-studio", "accelerator", "corporate-backed", "london"],
+    "summary": {
+      "en": "Founders Factory is a London venture studio and accelerator founded in 2015 by Brent Hoberman, Henry Lane Fox and George Northcott. It builds and funds startups in partnership with corporate investors (Aviva, L'Oréal, HSBC, easyJet and others), typically providing around £250K via convertible loan plus operator support for a modest equity stake. It has built/backed 450+ startups across five continents.",
+      "local": null
+    },
+    "sources": [
+      {
+        "url": "https://foundersfactory.com/",
+        "title": "Founders Factory: Venture Studio and Startup Accelerator",
+        "publisher": "Founders Factory",
+        "accessed": "2026-06-02",
+        "supports": "450+ startups, dual venture-studio/accelerator model, 60+ operators, 5 continents, corporate partners, sectors",
+        "quote": "450+ startups ... 60+ operators ... 5 continents ... named 'the top Venture Studio and Accelerator in the UK' by Financial Times 2025 ranking"
+      },
+      {
+        "url": "https://www.adeline.co.uk/investors-and-accelerators/founders-factory-venture-studio",
+        "title": "Founders Factory Venture Studio",
+        "publisher": "Adeline",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2015 London; founders Brent Hoberman, Henry Lane Fox, George Northcott; ~£250K convertible; corporate investors",
+        "quote": "founded by serial entrepreneurs Brent Hoberman, Henry Lane Fox and George Northcott ... Established in 2015 and headquartered in London ... receive funding (typically around £250,000 via convertible loans in exchange for a modest equity stake)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Best described as venture studio + accelerator (incubator subtype). Exact equity % and per-deal investment vary by program; £250K convertible figure from secondary source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "incubator-private"
+  },
+  {
+    "id": "eu-deep-science-ventures",
+    "name": { "en": "Deep Science Ventures", "local": "Deep Science Ventures" },
+    "aka": ["DSV"],
+    "type": "venture-studio",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.deepscienceventures.com/",
+    "links": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "pre-seed funding (stipend + founding equity)", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "co-founder equity",
+      "geo_focus": ["United Kingdom", "Europe"],
+      "sector_focus": ["deeptech", "climate-energy", "healthtech", "biotech", "agritech"],
+      "thesis": "London science-focused venture builder/incubator that starts from hard problems in climate, health, agriculture and energy, recruits technical founders, provides a stipend and pre-seed funding, and forms founding teams around the technology, taking co-founder equity."
+    },
+    "program": {
+      "length_weeks": 52,
+      "equity_taken_pct": "co-founder equity",
+      "investment": { "raw": "stipend + pre-seed funding", "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "London",
+      "application_url": "https://www.deepscienceventures.com/",
+      "eligibility": "Scientists and technical founders working from the idea/science stage in target sectors."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via deepscienceventures.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["venture-builder", "deeptech", "science", "london"],
+    "summary": {
+      "en": "Deep Science Ventures is a London-based science venture builder/incubator that tackles hard problems in climate, health, agriculture and energy by combining science and AI. It works with scientists and technical founders from the idea stage, providing a stipend and pre-seed funding over roughly 12 months and forming founding teams around the technology in return for co-founder equity.",
+      "local": null
+    },
+    "sources": [
+      {
+        "url": "https://www.deepscienceventures.com/",
+        "title": "Deep Science Ventures",
+        "publisher": "Deep Science Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Science venture builder; climate/health/agriculture/energy focus; combines science and AI; London",
+        "quote": "Deep Science Ventures is a venture-builder and accelerator based in London that tackles global challenges by combining science and AI ... in sectors like climate, health, agriculture, and energy"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year (~2016) and program length (~12 months) from secondary sources; exact investment amounts and portfolio count not publicly disclosed (null). Classified as venture-studio with incubator subtype.",
+    "last_updated": "2026-06-02",
+    "researched_by": "incubator-private"
+  },
+  {
+    "id": "eu-wexelerate",
+    "name": { "en": "weXelerate", "local": "weXelerate" },
+    "aka": ["Venturecake (sister program)"],
+    "type": "accelerator",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "Austria",
+    "hq_city": "Vienna",
+    "website": "https://wexelerate.com/",
+    "links": {
+      "other": ["https://www.eu-startups.com/investor/wexelerate/"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "ownership_target_pct": "0% (no equity)",
+      "geo_focus": ["Austria", "CEE", "Europe"],
+      "sector_focus": ["fintech", "saas-enterprise", "ai-ml", "cybersecurity", "mobility", "web3-crypto", "climate-energy"],
+      "thesis": "Vienna-based multi-corporate accelerator and innovation hub (9,000 m²) that connects startups with corporate partners across banking, insurance, industry, energy and media, offering programs and co-working without taking equity."
+    },
+    "program": {
+      "length_weeks": 16,
+      "cohort_size": null,
+      "equity_taken_pct": "0% (no equity)",
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Vienna (9,000 m² Innovation Hub)",
+      "application_url": "https://wexelerate.com/",
+      "eligibility": "Austrian and international startups; programs weXplore, weXecute, weXperts.",
+      "perks": ["co-working", "legal/finance support", "mentorship", "corporate access", "no equity required"]
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via wexelerate.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["accelerator", "innovation-hub", "multi-corporate", "vienna", "austria"],
+    "summary": {
+      "en": "weXelerate is a Vienna-based multi-corporate accelerator and innovation hub founded in 2016, spanning a ~9,000 m² space in the heart of Vienna. It runs a ~4-month program connecting Austrian and international startups with corporate partners (banking, insurance, industry, energy, media) and takes no equity; its sister program Venturecake is described as Austria's first co-owned accelerator.",
+      "local": "weXelerate ist ein 2016 gegründeter Multi-Corporate-Accelerator und Innovation Hub in Wien (rund 9.000 m²), der Startups ohne Beteiligung mit Konzernpartnern verbindet."
+    },
+    "sources": [
+      {
+        "url": "https://wexelerate.com/",
+        "title": "Home - weXelerate",
+        "publisher": "weXelerate",
+        "accessed": "2026-06-02",
+        "supports": "Vienna multi-corporate accelerator/innovation hub; programs; no equity",
+        "quote": "weXelerate is Europe's largest multi-corporate accelerator located in Vienna, Austria"
+      },
+      {
+        "url": "https://www.acceleratorapp.co/en/blogs/category/all/blog/top-startup-accelerators-incubators-vienna-austria/",
+        "title": "Top Startup Accelerators in Vienna, Austria 2026",
+        "publisher": "AcceleratorApp",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2016; 9,000 m²; 4-month program; no equity required; sectors",
+        "quote": "Founded in 2016 ... spanning over 9,000 square meters ... a 4 months long accelerator program ... for no equity ... no equity is required to be shared"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "No equity taken; functions as innovation hub/accelerator rather than an investing incubator. Cohort sizes and portfolio counts not disclosed (null).",
+    "last_updated": "2026-06-02",
+    "researched_by": "incubator-private"
+  },
+  {
+    "id": "eu-factory-berlin",
+    "name": { "en": "Factory Berlin", "local": "Factory Berlin" },
+    "aka": ["Factory"],
+    "type": "incubator",
+    "subtypes": [],
+    "status": "dormant",
+    "founded_year": 2012,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://www.factory.com/places/factory-berlin",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/factory-berlin"
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "ownership_target_pct": "0% (membership model, no equity)",
+      "geo_focus": ["Germany", "Europe"],
+      "sector_focus": ["ai-ml", "web3-crypto", "generalist"],
+      "thesis": "Membership-based private startup campus and community in Berlin ('organic acceleration') offering workspace, mentorship and corporate/investor access for a membership fee rather than equity; does not invest directly."
+    },
+    "program": {
+      "length_weeks": null,
+      "equity_taken_pct": "0% (membership fee, no equity)",
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Berlin (two campuses; main location closed)",
+      "eligibility": "Startups, founders and members; access via membership.",
+      "perks": ["co-working", "community", "mentorship", "corporate access", "no equity taken"]
+    },
+    "track_record": {
+      "portfolio_count": "150 startups / 3,000+ members (community)",
+      "notable_investments": [
+        { "company": "SoundCloud", "sector": "consumer", "outcome": "tenant/community member" }
+      ]
+    },
+    "people": [],
+    "tags": ["startup-campus", "community", "membership", "berlin", "germany"],
+    "summary": {
+      "en": "Factory Berlin is a membership-based private startup campus and community founded in 2012, housing startups and corporates across two Berlin campuses. Unlike equity-taking incubators, it charges a membership fee ('organic acceleration') and provides workspace, mentorship and corporate/investor access; it has scaled back, closing its main location, so it is treated as dormant.",
+      "local": "Factory Berlin ist ein mitgliedschaftsbasierter privater Startup-Campus, der 2012 gegründet wurde und statt Beteiligungen eine Mitgliedsgebühr erhebt."
+    },
+    "sources": [
+      {
+        "url": "https://en.everybodywiki.com/Factory_Berlin",
+        "title": "Factory Berlin",
+        "publisher": "EverybodyWiki",
+        "accessed": "2026-06-02",
+        "supports": "Initiated 2012; membership-fee model (no equity); 'organic acceleration'; tenants (SoundCloud, Twitter, Uber)",
+        "quote": "Factory Berlin was initiated in 2012 ... Factory Berlin only asks for a membership fee rather than demanding shares of businesses. Factory calls this model 'organic acceleration'"
+      },
+      {
+        "url": "https://sifted.eu/articles/berlin-factory-closing-news",
+        "title": "Berlin startup campus Factory to close main location",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "Factory Berlin closing its main location (basis for dormant status)",
+        "quote": "Berlin startup campus Factory to close main location"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Support hub, not an investor — included as a 'startup hub that supports startups' per scope. Status 'dormant' because the main location closed; membership figures (3,000–4,500 members, 150 startups) vary by source and date.",
+    "last_updated": "2026-06-02",
+    "researched_by": "incubator-private"
+  }
+]

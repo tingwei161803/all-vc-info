@@ -1,0 +1,645 @@
+[
+  {
+    "id": "jp-j-startup",
+    "name": { "en": "J-Startup", "local": "J-Startup（ジェイスタートアップ）" },
+    "aka": ["J-Startup Program"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.j-startup.go.jp/en/",
+    "links": {
+      "other": ["https://www.j-startup.go.jp/en/about/", "https://www.meti.go.jp/english/policy/economy/startup_nbp/"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["deeptech", "ai-ml", "impact", "generalist"],
+      "thesis": "Public-private flagship initiative run by METI to identify and intensively support Japan's most promising startups (deep tech, platform and SDG-oriented) and help them succeed in global markets."
+    },
+    "program": {
+      "cohort_size": "approx. 200 selected companies at a time",
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Japan (nationwide)",
+      "application_url": "https://www.j-startup.go.jp/en/",
+      "eligibility": "Japanese startups nominated by dedicated recommenders (top VCs, accelerators, large-company innovation leads); reviewed by an external judging committee. Focus on deep tech, platform and SDG-oriented startups."
+    },
+    "people": [],
+    "summary": {
+      "en": "J-Startup is the Japanese government's public-private startup program, launched by METI in June 2018 and operated by a secretariat of METI, JETRO and NEDO. Recommenders select roughly 100-200 of Japan's most promising startups from over 10,000 candidates; selected firms receive government support (logo use, overseas missions, subsidies with simplified procedures, regulatory sandbox access, business matching) plus private-sector perks (office space, acceleration, mentoring).",
+      "local": "J-Startupは、2018年6月に経済産業省（METI）が創設し、METI・JETRO・NEDOが事務局を務める官民連携のスタートアップ支援プログラム。約1万社の中から推薦・選定された有望スタートアップ（約200社規模）に対し、補助金・海外展開支援・規制のサンドボックス・ビジネスマッチング等を集中的に提供する。"
+    },
+    "sources": [
+      {
+        "url": "https://www.meti.go.jp/english/press/2025/0313_001.html",
+        "title": "Newly Selected Startups Announced under the J-Startup Program",
+        "publisher": "METI",
+        "accessed": "2026-06-02",
+        "supports": "Launch year 2018, operated by METI/JETRO/NEDO secretariat, selection from 10,000 startups",
+        "quote": "In June 2018, METI inaugurated the J-Startup program ... METI, the Japan External Trade Organization (JETRO), and the New Energy and Industrial Technology Development Organization (NEDO) together organized a secretariat, and the secretariat has been operating the program."
+      },
+      {
+        "url": "https://www.j-startup.go.jp/en/about/",
+        "title": "About | J-Startup",
+        "publisher": "J-Startup / METI",
+        "accessed": "2026-06-02",
+        "supports": "Approximately 200 selected companies; selection by recommenders and external committee; support details",
+        "quote": "J-Startup企業約200社、大企業/VC/アクセラレーター/政府機関"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "First batch (2018) selected ~92 teams from ~10,000 startups; community currently cited as ~200 J-Startup companies. Not an equity investor itself.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "jp-japan-investment-corporation",
+    "name": { "en": "Japan Investment Corporation (JIC)", "local": "株式会社産業革新投資機構" },
+    "aka": ["JIC", "産業革新投資機構"],
+    "type": "government-program",
+    "subtypes": ["growth-equity", "vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.j-ic.co.jp/en",
+    "links": {
+      "other": ["https://www.j-ic.co.jp/en/investment/fund_list/", "https://en.wikipedia.org/wiki/Japan_Investment_Corporation"]
+    },
+    "capital": {
+      "aum": { "raw": "¥1.85 trillion (March 2024, total assets)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "Initial four-fund allocation at establishment", "vintage_year": 2018, "size": { "raw": "approx. ¥2 trillion (~$18 billion)", "usd": 18000000000, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["deeptech", "generalist", "biotech"],
+      "thesis": "Sovereign wealth/public investment institution under METI that strengthens Japan's industrial competitiveness via open innovation, deploying risk capital through a fund-of-funds and direct fund subsidiaries (venture growth, buyout, multi-strategy)."
+    },
+    "people": [
+      { "name": "Keisuke Yokoo", "role": "Chairman & CEO" }
+    ],
+    "summary": {
+      "en": "Japan Investment Corporation (JIC) is a Japanese sovereign-wealth-style investment institution established on 25 September 2018 under METI's Industrial Competitiveness Enhancement Act, succeeding the original Innovation Network Corporation of Japan. It was set up with ~¥2 trillion (~$18B) across four funds and had ~¥1.85 trillion total assets as of March 2024. JIC operates as a holding company over fund subsidiaries including JIC Venture Growth Investments and JIC Capital, and retains INCJ as a legacy-portfolio subsidiary.",
+      "local": "株式会社産業革新投資機構（JIC）は、2018年9月25日に産業競争力強化法に基づき経済産業省所管で設立された政府系投資機関。旧産業革新機構を改組し、設立時に約2兆円規模の4ファンドを擁した。子会社にJICベンチャー・グロース・インベストメンツ、JICキャピタル、旧INCJ等を持つ。"
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Japan_Investment_Corporation",
+        "title": "Japan Investment Corporation - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founded Sept 2018, total assets ¥1.85 trillion (March 2024), government-owned, METI authorized, subsidiaries, CEO",
+        "quote": "Founding: September 25, 2018 ... Total Assets: ¥1.85 trillion (March 2024) ... owned by the Government of Japan ... Subsidiaries: Innovation Network Corporation of Japan (INCJ), JIC Capital, JIC Venture Growth Investments ... Keisuke Yokoo serves as Chairman & CEO"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Japan_Investment_Corporation",
+        "title": "Japan Investment Corporation - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Initial ~2 trillion yen / $18B across four funds",
+        "quote": "initial plans to invest $18 billion in four funds that made domestic and overseas investments"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Initial capitalization reported as ~¥2 trillion (~$18B) headline figure across four funds; government provided ¥367bn plus private ¥13.5bn at establishment per secondary sources. Total assets ¥1.85 trillion as of March 2024.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "jp-jic-venture-growth-investments",
+    "name": { "en": "JIC Venture Growth Investments", "local": "JICベンチャー・グロース・インベストメンツ株式会社" },
+    "aka": ["JIC VGI", "VGI"],
+    "type": "government-program",
+    "subtypes": ["vc", "growth-equity"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.j-vgi.co.jp/en",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/jic-venture-growth-investments",
+      "other": ["https://www.j-vgi.co.jp/en/our-investment", "https://www.cbinsights.com/investor/jic-venture-growth-investments"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "JIC Venture Growth Fund No.1", "vintage_year": 2020, "size": { "raw": "approx. ¥120 billion", "usd": null, "currency": "JPY" } },
+        { "name": "JIC Venture Growth Fund No.2 (VGF2)", "vintage_year": 2022, "size": { "raw": "JPY 200 billion", "usd": 1450000000, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["deeptech", "biotech", "ai-ml", "spacetech"],
+      "thesis": "Government-backed venture growth fund (a JIC subsidiary) providing later/early-stage growth capital to Japanese startups, with a focus on deep tech and life sciences, to strengthen international competitiveness."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "FLUX", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "MJOLNIR SPACEWORKS", "sector": "spacetech", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "summary": {
+      "en": "JIC Venture Growth Investments (JIC VGI), established July 2020 as a subsidiary of Japan Investment Corporation, manages government-backed venture/growth funds for Japanese startups. Its Fund No.1 is ~¥120bn and Fund No.2 (decided December 2022) is ¥200bn (~$1.45B), targeting middle/later and early growth-stage deep tech and life-sciences companies over a 10-year fund life.",
+      "local": "JICベンチャー・グロース・インベストメンツ（JIC VGI）は、2020年7月に産業革新投資機構（JIC）の子会社として設立されたVC。1号ファンド約1,200億円、2号ファンド2,000億円（2022年12月組成決定）を運用し、ディープテック・ライフサイエンス等のミドル～グロース期企業に投資する。"
+    },
+    "sources": [
+      {
+        "url": "https://www.j-vgi.co.jp/en/news/jicvgf2221216",
+        "title": "JIC decides to set up JIC Venture Growth Fund No.2",
+        "publisher": "JIC VGI",
+        "accessed": "2026-06-02",
+        "supports": "Fund No.2 size ¥200 billion, decided December 2022, 10-year life, deep tech / life sciences focus",
+        "quote": "JIC ... announced its decision to set up JIC Venture Growth Fund No.2 Investment Limited Partnership (VGF2) ... for JPY200 billion yen with JIC Venture Growth Investments Co., Ltd. (VGI) as its fund management company"
+      },
+      {
+        "url": "https://www.cbinsights.com/investor/jic-venture-growth-investments",
+        "title": "JIC Venture Growth Investments Profile",
+        "publisher": "CB Insights",
+        "accessed": "2026-06-02",
+        "supports": "Fund No.1 ~120 billion yen, Fund No.2 ~200 billion yen / $1.45B",
+        "quote": "JIC Venture Growth Fund No. 1 has a fund size of approximately 120 billion yen, while JIC Venture Growth Fund No. 2 has a fund size of approximately 200 billion yen ... JIC Venture Growth Fund No. 2 has a size of $1.45B"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded July 2020 per Japanese JIC group descriptions. Portfolio examples from official site; full portfolio not enumerated here.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "jp-incj",
+    "name": { "en": "INCJ (Innovation Network Corporation of Japan)", "local": "株式会社INCJ" },
+    "aka": ["Innovation Network Corporation of Japan", "産業革新機構（旧）"],
+    "type": "government-program",
+    "subtypes": ["growth-equity", "vc"],
+    "status": "dormant",
+    "founded_year": 2009,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.incj.co.jp/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/innovation-network-corp-of-japan",
+      "other": ["https://www.incj.co.jp/about/about/", "https://en.wikipedia.org/wiki/INCJ"]
+    },
+    "capital": {
+      "aum": { "raw": "112 billion yen capital; investment capability ~1,900 billion yen incl. government guarantees (~US$24 billion)", "usd": 24000000000, "currency": "JPY" }
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "biotech", "robotics"],
+      "thesis": "Public-private fund created in 2009 to boost Japanese competitiveness via 'open innovation' and next-generation businesses; now a JIC subsidiary winding down/managing its legacy portfolio."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Japan Display (JDI)", "sector": "hardware-semiconductor", "outcome": "IPO" },
+        { "company": "Renesas Electronics", "sector": "hardware-semiconductor", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "summary": {
+      "en": "INCJ (originally the Innovation Network Corporation of Japan) was a public-private fund established 27 July 2009 as a 15-year time-limited entity, capitalized at ¥112bn (¥102bn from the government) with state guarantees giving ~¥1,900bn (~$24B) investment capability. It made large industrial-policy investments such as Japan Display (¥200bn) and Renesas (¥138bn). In September 2018 it became a subsidiary of JIC, focused on managing its existing/legacy portfolio.",
+      "local": "株式会社INCJ（旧・産業革新機構）は、2009年7月27日に15年の時限組織として設立された官民ファンド。資本金112億円（うち政府102億円）、政府保証を含め約1.9兆円（約240億ドル）の投資能力を有した。ジャパンディスプレイ（2,000億円）やルネサス（1,380億円）等に投資。2018年9月にJICの子会社となり、既存投資案件の処理に特化している。"
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/INCJ",
+        "title": "Innovation Network Corporation of Japan - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founded July 2009, ¥112bn capital (¥102bn government), ~¥1,900bn capability, JIC subsidiary 2018, JDI/Renesas investments",
+        "quote": "INCJ was established ... on July 27, 2009 ... 112 billion yen in total capital, with 102 billion yen provided by the Japanese government ... guarantees up to a total of 1,800 billion yen for INCJ investments, yielding an investment capability of approximately 1,900 billion yen (US$24 billion) ... became a subsidiary of JIC in September 2018 ... Japan Display (200 billion yen ...) and Renesas Electronics (138 billion yen ...)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Established as a 15-year time-limited fund (2009); now winding down as JIC legacy-portfolio subsidiary, hence status 'dormant' for new investing.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "jp-nedo-deep-tech-startup-fund",
+    "name": { "en": "NEDO Deep-Tech Startups Support Program (DTSU)", "local": "ディープテック・スタートアップ支援基金（NEDO）" },
+    "aka": ["DTSU", "NEDO Deep Tech Startup Support Fund", "ディープテック・スタートアップ支援事業"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2023,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Kawasaki",
+    "website": "https://www.nedo.go.jp/english/activities/activities_ZZJP_100250.html",
+    "links": {
+      "other": ["https://www.nedo.go.jp/activities/ZZJP_100250.html", "https://sbir.nedo.go.jp/"]
+    },
+    "capital": {
+      "aum": { "raw": "approx. ¥93 billion fund (FY2023-FY2034)", "usd": null, "currency": "JPY" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["deeptech", "robotics", "ai-ml", "biotech", "climate-energy", "hardware-semiconductor", "spacetech"],
+      "thesis": "Grant/subsidy fund operated by NEDO supporting deep tech startups that need long-term R&D and large capital, across STS (early R&D), PCA (late R&D) and DMP (mass-production demonstration) phases."
+    },
+    "program": {
+      "investment": { "raw": "STS phase up to ¥500 million; PCA phase up to ¥1 billion+ per project (grant)", "usd": null, "currency": "JPY" },
+      "format": "remote",
+      "location": "Japan",
+      "application_url": "https://www.nedo.go.jp/activities/ZZJP_100250.html",
+      "eligibility": "Deep tech startups requiring long-term R&D and large-scale funding to commercialize high-risk innovative technology contributing to carbon neutrality, resource circulation, economic security, etc."
+    },
+    "people": [],
+    "summary": {
+      "en": "The NEDO Deep-Tech Startups Support Program (DTSU) is a Japanese government grant fund, established FY2023 with a planned ~¥93 billion budget running to FY2034, operated by NEDO (a national R&D agency). It provides non-dilutive, phased grant support to deep tech startups across STS (early R&D, up to ~¥500M), PCA (late R&D), and DMP (mass-production demonstration) phases. It is implemented alongside the Japanese SBIR push.",
+      "local": "NEDOのディープテック・スタートアップ支援事業（DTSU）は、2023年度に造成された政府の補助金基金（FY2023～FY2034、予算約930億円）。STS（実用化研究開発前期、上限約5億円）、PCA（後期）、DMP（量産化実証）の各フェーズで、長期かつ大規模な研究開発を要するディープテック・スタートアップに非希薄化型の助成を行う。日本版SBIRと連携して実施される。"
+    },
+    "sources": [
+      {
+        "url": "https://www.nedo.go.jp/english/activities/activities_ZZJP_100250.html",
+        "title": "Deep-Tech Startups Support Program (DTSU) | NEDO",
+        "publisher": "NEDO",
+        "accessed": "2026-06-02",
+        "supports": "FY2023-FY2034, ~93 billion yen budget, phases STS/PCA/DMP, eligibility",
+        "quote": "The Deep Tech Startup Support Program (DTSU) is scheduled to run from FY2023 to FY2034, with a planned budget of 93 billion yen ... STS Phase (Early Stage Practical Research and Development), PCA Phase (Late Stage Practical Research and Development), and DMP Phase (Mass Production Demonstration)"
+      },
+      {
+        "url": "https://www.blackboxjp.com/stories/powering-japans-next-generation-of-global-startups-inside-nedos-deep-tech-strategy",
+        "title": "Inside NEDO's Deep Tech Strategy",
+        "publisher": "Blackbox JP",
+        "accessed": "2026-06-02",
+        "supports": "STS phase grant up to ¥500 million",
+        "quote": "the STS (Early R&D Phase) provides funding up to ¥500 million and focuses on core technology development"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Headline fund figure sometimes cited as ¥100bn in policy materials; NEDO's English page states ¥93 billion. PCA/DMP per-project caps vary by call (e.g., Letara cited up to ¥1bn for PCA).",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "jp-nedo-nep",
+    "name": { "en": "NEDO Entrepreneurs Program (NEP) / Technology-Based Startup Support", "local": "NEDO Entrepreneurs Program（NEP）" },
+    "aka": ["NEP", "Program for Supporting Technology-Based Startups"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Kawasaki",
+    "website": "https://www.nedo.go.jp/english/activities/activities_ZZJP_100248.html",
+    "links": {
+      "other": ["https://www.nedo.go.jp/english/activities/activities_ZZJP_100091.html"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["deeptech", "ai-ml", "robotics", "biotech"],
+      "thesis": "NEDO program nurturing entrepreneurs and very early-stage technology-based startups via feasibility studies, mentoring and commercialization support for outstanding deep-tech seeds."
+    },
+    "program": {
+      "investment": { "raw": null, "usd": null, "currency": "JPY" },
+      "format": "hybrid",
+      "location": "Japan",
+      "application_url": "https://www.nedo.go.jp/english/activities/activities_ZZJP_100248.html",
+      "eligibility": "Individuals/teams with deep-tech technology seeds (Pioneering Course) and individuals/teams or companies commercializing seeds with plans to start a business (Breakthrough Course)."
+    },
+    "people": [],
+    "summary": {
+      "en": "NEDO's Entrepreneurs Program (NEP) and related Technology-Based Startup Support programs help discover and develop deep-tech entrepreneurs at the earliest stages. Courses include a Pioneering/Exploratory track (validate ideas, feasibility studies) and a Breakthrough track (commercialize seeds toward founding a startup). It feeds Japan's pipeline of R&D startups that may later access the larger DTSU fund.",
+      "local": "NEDOのNEP（NEDO Entrepreneurs Program）および技術開発型スタートアップ支援事業は、ディープテックの起業家・超早期スタートアップを発掘・育成するプログラム。技術シーズの検証を行う探索コースと、事業化を目指すブレークスルーコース等を擁し、研究開発型スタートアップのパイプラインを形成する。"
+    },
+    "sources": [
+      {
+        "url": "https://www.nedo.go.jp/english/activities/activities_ZZJP_100248.html",
+        "title": "Program for Supporting Technology-Based Startups with Establishment of Management and Human Resources | NEDO",
+        "publisher": "NEDO",
+        "accessed": "2026-06-02",
+        "supports": "Two courses (Pioneering / Breakthrough), early-stage deep-tech entrepreneur support",
+        "quote": "the Pioneering Course targets individuals and teams with specific technology seeds before starting a business, while the Breakthrough Course targets individuals and teams or companies engaged in activities to commercialize specific technology seeds with plans to start their own businesses"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year of NEP not confirmed from primary source. Grant amounts vary by course/call and were not consistently disclosed; left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "jp-jetro-startup",
+    "name": { "en": "JETRO Startup (Japan External Trade Organization)", "local": "日本貿易振興機構（ジェトロ）スタートアップ支援" },
+    "aka": ["JETRO", "Global Acceleration Hub", "J-Bridge"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 1958,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.jetro.go.jp/en/startup/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/jetro-japanexternaltradeorganization",
+      "other": ["https://www.jetro.go.jp/en/startup/acceleration/", "https://www.jetro.go.jp/usa/jetro-japan-innovation-accelerator/global-acceleration-hub/"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["generalist", "deeptech"],
+      "thesis": "Government trade-promotion agency that helps Japanese startups expand globally and connects overseas startups with Japan, via acceleration programs, the Global Acceleration Hub network and the J-Bridge business-matching platform."
+    },
+    "program": {
+      "cohort_size": "700+ Japanese startups supported per year",
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Global (Global Acceleration Hub in ~30 cities)",
+      "application_url": "https://www.jetro.go.jp/en/startup/acceleration/",
+      "eligibility": "Japanese startups seeking overseas expansion; overseas startups/companies seeking collaboration with Japan."
+    },
+    "people": [],
+    "summary": {
+      "en": "JETRO (Japan External Trade Organization) is a government-related independent administrative institution under METI, reorganized in its modern form in 1958. Since 2013 it has run startup-acceleration and global-expansion support: it backs 700+ Japanese startups per year via 15 acceleration programs and 3,000+ through mentoring, operates the Global Acceleration Hub in ~30 cities, and runs the J-Bridge platform connecting Japanese and overseas companies. It is a non-equity support provider, not an investor.",
+      "local": "ジェトロ（日本貿易振興機構）は経済産業省所管の独立行政法人で、1958年に現在の形に再編。2013年以降、スタートアップの海外展開支援・アクセラレーションを実施し、15のアクセラレーションプログラムで年700社以上、メンタリングで3,000社以上を支援。世界約30都市にGlobal Acceleration Hubを展開し、J-Bridgeで国内外企業のマッチングを行う。出資は行わない非希薄化型支援機関。"
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Japan_External_Trade_Organization",
+        "title": "Japan External Trade Organization - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Government-related org, established 1958, independent administrative institution 2003",
+        "quote": "Originally established in 1958 to promote Japanese exports abroad ... became an Independent Administrative Institution in 2003"
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/startup/",
+        "title": "JETRO Startup",
+        "publisher": "JETRO",
+        "accessed": "2026-06-02",
+        "supports": "700+ Japanese startups/year via 15 acceleration programs, 3,000+ via mentoring, since 2013",
+        "quote": "Since 2013, JETRO has helped thousands of Japanese startups scale globally, supporting 700+ Japanese startups per year through 15 different acceleration programs, and 3,000+ through mentoring"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "JETRO is a support/acceleration body, not an equity investor. Founding lineage: research-org form 1952, reorganized under MITI 1958, IAI in 2003.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "jp-japan-finance-corporation-startup",
+    "name": { "en": "Japan Finance Corporation (JFC) — New Business / Startup Support Loan", "local": "日本政策金融公庫 新規開業・スタートアップ支援資金" },
+    "aka": ["JFC", "日本政策金融公庫", "新規開業・スタートアップ支援資金"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2008,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.jfc.go.jp/n/finance/search/01_sinkikaigyou_m.html",
+    "links": {
+      "other": ["https://www.jfc.go.jp/"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Wholly government-owned policy-finance institution providing low-interest startup/new-business loans (debt, non-dilutive) to founders, with no minimum self-funding requirement after 2024 reforms."
+    },
+    "program": {
+      "investment": { "raw": "Loan limit ¥72 million (incl. ¥48 million working capital)", "usd": null, "currency": "JPY" },
+      "format": "remote",
+      "location": "Japan",
+      "application_url": "https://www.jfc.go.jp/n/finance/search/01_sinkikaigyou_m.html",
+      "eligibility": "Those newly starting a business or within approximately 7 years of business commencement; individuals and corporations; no self-funding requirement."
+    },
+    "people": [],
+    "summary": {
+      "en": "Japan Finance Corporation (JFC), a government-owned policy-finance institution (formed 2008), offers the 'New Business / Startup Support Loan' (新規開業・スタートアップ支援資金) to founders. The loan ceiling is ¥72 million (including ¥48 million working capital), available to those within ~7 years of starting a business. A March 2024 reform abolished the old new-business loan scheme and removed the self-funding requirement, making it easier to access. This is debt financing, not equity.",
+      "local": "日本政策金融公庫（JFC、2008年設立の政府全額出資の政策金融機関）は、創業者向けの「新規開業・スタートアップ支援資金」を提供。融資限度額は7,200万円（うち運転資金4,800万円）で、事業開始後おおむね7年以内が対象。2024年3月に旧「新創業融資制度」を統合し自己資金要件を撤廃した。出資ではなく融資（デット）。"
+    },
+    "sources": [
+      {
+        "url": "https://www.jfc.go.jp/n/finance/search/01_sinkikaigyou_m.html",
+        "title": "新規開業・スタートアップ支援資金｜日本政策金融公庫",
+        "publisher": "Japan Finance Corporation",
+        "accessed": "2026-06-02",
+        "supports": "Loan limit ¥72 million incl. ¥48M working capital; target within ~7 years of starting business",
+        "quote": "融資限度額は7,200万円（うち運転資金4,800万円）です ... 事業開始後おおむね7年以内の方を対象"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Loan figures from JFC scheme summary via reputable secondary sources; JFC itself formed in 2008 by merging predecessor policy-finance bodies. Non-dilutive debt program.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "jp-smrj-startup-support",
+    "name": { "en": "SMRJ — Startup Challenge Support (FASE)", "local": "中小企業基盤整備機構 スタートアップ挑戦支援事業" },
+    "aka": ["SMRJ", "中小機構", "Organization for Small & Medium Enterprises and Regional Innovation"],
+    "type": "government-program",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2004,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.smrj.go.jp/venture/bace/reboot/",
+    "links": {
+      "other": ["https://www.smrj.go.jp/", "https://j-net21.smrj.go.jp/"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "impact"],
+      "thesis": "National SME-support agency offering free expert advisory to startups and prospective founders targeting IPO/M&A, covering business planning, fundraising/capital policy, legal, stock options and impact business."
+    },
+    "program": {
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "remote",
+      "location": "Japan (online, nationwide)",
+      "application_url": "https://www.smrj.go.jp/venture/bace/reboot/",
+      "eligibility": "Startups and prospective entrepreneurs targeting IPO or M&A; free online consultations (~1 hour) nationwide.",
+      "perks": ["Free expert advisory", "Capital policy / fundraising support", "Legal and stock-option guidance", "Incubation facilities"]
+    },
+    "people": [],
+    "summary": {
+      "en": "The Organization for Small & Medium Enterprises and Regional Innovation (SMRJ / 中小機構) is a national independent administrative institution (established 2004) supporting Japanese SMEs and startups. Its Startup Challenge Support service provides free expert consultations (Zoom/Teams, ~1 hour, nationwide) to startups and prospective founders aiming for IPO or M&A, covering business planning, capital policy, legal matters, stock options and impact business. SMRJ also operates incubation facilities. Non-dilutive support, not an investor.",
+      "local": "独立行政法人中小企業基盤整備機構（中小機構／SMRJ、2004年設立）は、中小企業・スタートアップを支援する国の機関。スタートアップ挑戦支援事業では、IPOやM&Aを目指すスタートアップ・起業予定者向けに、事業計画・資本政策・法務・ストックオプション・インパクト事業等についてオンライン（Zoom/Teams、約1時間、全国対応）で無料の専門相談を提供。インキュベーション施設も運営する。出資は行わない。"
+    },
+    "sources": [
+      {
+        "url": "https://www.smrj.go.jp/venture/bace/reboot/",
+        "title": "スタートアップ挑戦支援事業 | 中小企業基盤整備機構",
+        "publisher": "SMRJ",
+        "accessed": "2026-06-02",
+        "supports": "Free advisory targeting IPO/M&A startups; online nationwide; topics covered",
+        "quote": "IPOやM＆A等を目指すスタートアップや起業予定者 ... オンライン会議システム（ZoomもしくはMicrosoft Teams）により、全国どこからでも相談可能です"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "SMRJ established 2004 (well documented as an IAI). The specific Startup Challenge Support service is a free advisory program, not an investment vehicle.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "jp-startup-visa",
+    "name": { "en": "Startup Visa (Program to Promote Startup Businesses by Foreign Nationals)", "local": "スタートアップビザ（外国人起業活動促進事業）" },
+    "aka": ["Startup Visa", "外国人起業活動促進事業"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.meti.go.jp/english/policy/economy/startup_nbp/startup_visa.html",
+    "links": {
+      "other": ["https://www.investtokyo.metro.tokyo.lg.jp/en/oursupports/bdc-tokyo/startupvisa.html", "https://www.meti.go.jp/english/policy/economy/startup_nbp/StartupVisa.pdf"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "METI-approved residency program letting foreign entrepreneurs obtain a 'Designated Activities' status to prepare to start a business in Japan, administered via local governments, as a stepping stone to the Business Manager visa."
+    },
+    "program": {
+      "length_weeks": 104,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Japan (nationwide as of January 2025)",
+      "application_url": "https://www.meti.go.jp/english/policy/economy/startup_nbp/startup_visa.html",
+      "eligibility": "Foreign nationals intending to start a business in Japan, applying via a participating local government / METI-approved program."
+    },
+    "people": [],
+    "summary": {
+      "en": "The Startup Visa (Program to Promote Startup Businesses by Foreign Nationals) is a METI-backed scheme letting foreign entrepreneurs receive a special 'Designated Activities' residence status to do preparatory activities for founding a business in Japan, issued via participating local governments. As of January 2025 it became available nationwide with the maximum preparation period extended to 2 years. It is a regulatory/immigration support program (no funding), serving as a stepping stone to the Business Manager visa.",
+      "local": "スタートアップビザ（外国人起業活動促進事業）は、経済産業省所管の制度で、外国人起業家が日本での起業準備のために「特定活動」の在留資格を取得できる仕組み。自治体経由で運用され、2025年1月から全国で利用可能となり、準備期間が最長2年に延長された。資金提供は行わない、入管・制度面の支援であり、経営・管理ビザへの足掛かりとなる。"
+    },
+    "sources": [
+      {
+        "url": "https://www.meti.go.jp/english/policy/economy/startup_nbp/startup_visa.html",
+        "title": "Startup Visa / METI",
+        "publisher": "METI",
+        "accessed": "2026-06-02",
+        "supports": "METI-administered, Designated Activities status, preparatory activities, via local governments, stepping stone to Business Manager visa",
+        "quote": "The Startup Visa program allows foreign entrepreneurs to obtain a special status of residence (Designated Activities) to conduct preparatory activities for starting a business in Japan ... issued via local governments and programs approved by the Ministry of Economy, Trade and Industry (METI)"
+      },
+      {
+        "url": "https://www.blackboxjp.com/stories/startup-visas-in-japan-whats-new-in-2025",
+        "title": "Startup Visas in Japan: what's new in 2025",
+        "publisher": "Blackbox JP",
+        "accessed": "2026-06-02",
+        "supports": "January 2025 nationwide expansion, stay extended to 2 years",
+        "quote": "In January 2025, the Japanese government introduced a major update: the Startup Visa is now available nationwide, and the permitted stay has been extended to 2 years."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Immigration/regulatory program, not a funding vehicle. Original launch year of the scheme (mid-2010s) not pinned to a primary source; nationwide expansion is January 2025.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "jp-tokyo-innovation-base",
+    "name": { "en": "Tokyo Innovation Base (TIB) / SusHi Tech Tokyo", "local": "Tokyo Innovation Base（東京イノベーションベース）" },
+    "aka": ["TIB", "SusHi Tech Tokyo", "Tokyo Metropolitan Government startup support"],
+    "type": "government-program",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://tib.metro.tokyo.lg.jp/en/",
+    "links": {
+      "other": ["https://www.english.metro.tokyo.lg.jp/w/000-101-004031", "https://sushitech-startup.metro.tokyo.lg.jp/en/"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["generalist", "climate-energy", "impact", "deeptech"],
+      "thesis": "Tokyo Metropolitan Government's startup campus and ecosystem hub, pursuing a '10x10x10' vision to multiply Tokyo's unicorns, startups and public-private collaborations tenfold; anchored by the SusHi Tech Tokyo conference."
+    },
+    "program": {
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Tokyo",
+      "application_url": "https://tib.metro.tokyo.lg.jp/en/",
+      "eligibility": "Startup ecosystem participants (founders, investors, supporters) — open workspaces, exhibitions, programs, and the SusHi Tech Tokyo Global Startup Program.",
+      "perks": ["Open workspace / startup campus", "Networking and exhibition space", "Global Startup Program at SusHi Tech Tokyo"]
+    },
+    "people": [],
+    "summary": {
+      "en": "Tokyo Innovation Base (TIB), backed by the Tokyo Metropolitan Government, is a startup campus and ecosystem hub in central Tokyo opened in 2024, built around the '10×10×10 Innovation Vision' to increase Tokyo's unicorns, startups and public/private startups tenfold over five years. The TMG also runs SusHi Tech Tokyo (Sustainable High City Tokyo), Asia's largest innovation conference, whose 2024 Global Startup Program drew 40,206 participants. Non-equity ecosystem support, not an investor.",
+      "local": "Tokyo Innovation Base（TIB、東京イノベーションベース）は、東京都が運営する都心のスタートアップ拠点で、2024年に始動。「10×10×10イノベーションビジョン」のもと、5年でユニコーン・スタートアップ・官民連携を10倍に増やすことを目指す。都はアジア最大級のイノベーションイベントSusHi Tech Tokyo（Sustainable High City Tokyo）も主催し、2024年のGlobal Startup Programには40,206人が参加した。出資を伴わないエコシステム支援。"
+    },
+    "sources": [
+      {
+        "url": "https://www.eu-startups.com/2024/03/tokyo-innovation-base-a-gateway-to-innovation-and-business-expansion-in-japan-sponsored/",
+        "title": "Tokyo Innovation Base: A gateway to innovation",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-02",
+        "supports": "TMG-backed startup campus / hub in central Tokyo",
+        "quote": "Tokyo Innovation Base (TIB), backed by the Tokyo Metropolitan Government, is a cutting-edge startup campus and business networking hub strategically located in the heart of Tokyo"
+      },
+      {
+        "url": "https://www.prnewswire.com/news-releases/sushi-tech-tokyo-2024-global-startup-program-spotlights-a-positive-future-for-the-startup-ecosystem-in-tokyo-with-a-record-breaking-40-000-attendees-over-two-days-302193841.html",
+        "title": "SusHi Tech Tokyo 2024 Global Startup Program — 40,000+ attendees",
+        "publisher": "PR Newswire / TMG",
+        "accessed": "2026-06-02",
+        "supports": "SusHi Tech Tokyo 2024 attendance 40,206; '10x10x10' strategy",
+        "quote": "a record-breaking 40,000+ attendees over two days ... 40,206 participants"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "TIB physical base opened 2024; SusHi Tech Tokyo brand predates it. TMG provides ecosystem/incubation support, not direct equity to startups in this program.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "jp-cool-japan-fund",
+    "name": { "en": "Cool Japan Fund (Overseas Demand Development Support Organization)", "local": "株式会社海外需要開拓支援機構（クールジャパン機構）" },
+    "aka": ["Cool Japan Fund", "クールジャパン機構", "海外需要開拓支援機構"],
+    "type": "government-program",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.cj-fund.co.jp/",
+    "links": {
+      "other": ["https://www.cj-fund.co.jp/about/cjfund.html", "https://www.cj-fund.co.jp/investment/deal_list/", "https://ja.wikipedia.org/wiki/海外需要開拓支援機構"]
+    },
+    "capital": {
+      "aum": { "raw": "approx. ¥105.3 billion public+private at establishment", "usd": null, "currency": "JPY" }
+    },
+    "strategy": {
+      "stages": ["growth", "series-b", "series-c-plus"],
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["consumer", "ecommerce", "gaming", "impact"],
+      "thesis": "METI-affiliated public-private fund investing in businesses that expand overseas demand for Japanese 'Cool Japan' content, lifestyle, food, fashion and media — including some venture/growth-stage companies."
+    },
+    "track_record": {},
+    "people": [],
+    "summary": {
+      "en": "The Cool Japan Fund (Overseas Demand Development Support Organization), established November 2013 under a dedicated METI-affiliated law, is a public-private fund capitalized at roughly ¥105.3 billion (public + private, e.g. Dentsu and others). It invests in businesses that expand overseas demand for Japanese content, food, fashion, media and lifestyle, including growth-stage companies. It has faced significant accumulated losses (reported ~¥30.9 billion deficit as of 2022). More content/expansion-focused than a pure startup investor.",
+      "local": "株式会社海外需要開拓支援機構（クールジャパン機構）は、2013年11月に専用法に基づき設立された経産省所管の官民ファンド。官民あわせて約1,053億円を集めて発足し、日本のコンテンツ・食・ファッション・メディア等の海外需要拡大に資する事業（成長期企業を含む）に投資する。2022年時点で約309億円の累積赤字を抱えると報じられている。純粋なスタートアップ投資家というより海外展開・コンテンツ志向。"
+    },
+    "sources": [
+      {
+        "url": "https://ja.wikipedia.org/wiki/海外需要開拓支援機構",
+        "title": "海外需要開拓支援機構 - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Established Nov 2013, ~¥105.3bn public+private, METI-affiliated, ~¥30.9bn deficit by 2022",
+        "quote": "2013年11月、経済産業省所管の官民ファンドである海外需要開拓支援機構が、官民あわせて1053億円の資金を集めて設立された ... 2022年時点で、クールジャパン機構は309億円の赤字を抱えており"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Included for completeness as a state-backed fund touching startup/growth companies, but its mandate is overseas-demand/content expansion rather than core startup investment. Wikipedia (ja) secondary source for figures.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  }
+]

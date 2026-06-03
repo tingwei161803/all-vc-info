@@ -1,0 +1,869 @@
+[
+  {
+    "id": "ca-tandemlaunch",
+    "name": { "en": "TandemLaunch" },
+    "type": "venture-studio",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montréal",
+    "website": "https://www.tandemlaunch.com/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/tandemlaunch",
+      "crunchbase": "https://www.crunchbase.com/organization/tandemlaunch-technologies"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund IV", "vintage_year": 2023, "size": { "raw": "$37 million CAD", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Canada", "Quebec"],
+      "sector_focus": ["deeptech", "ai-ml", "robotics", "hardware-semiconductor", "climate-energy"],
+      "thesis": "University-tech-transfer venture studio: scouts and acquires academic IP, recruits co-founders, and builds deep-tech startups in AI, computer vision, IoT, sustainability, and advanced sensors, taking an equity stake as a co-founder."
+    },
+    "track_record": {
+      "portfolio_count": "30+",
+      "notable_investments": [
+        { "company": "SportLogiq", "sector": "ai-ml", "outcome": "active" },
+        { "company": "wrnch", "sector": "ai-ml", "outcome": "acquired" },
+        { "company": "Mirametrix", "sector": "ai-ml", "outcome": "acquired" },
+        { "company": "Agapyo", "sector": "climate-energy", "outcome": "active" },
+        { "company": "Waveshaper", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Helge Seetzen", "role": "CEO" },
+      { "name": "Émilie Boutros", "role": "Managing Partner" }
+    ],
+    "application": { "how_to_apply": "Recruits Entrepreneurs-in-Residence / co-founders to commercialize acquired IP", "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Montréal deep-tech venture studio and fund (founded 2010) that acquires university IP, recruits co-founders, and builds startups in AI, computer vision, IoT, sustainability, and advanced sensors. Has created 30+ ventures valued at over $700M employing close to 700 tech workers in Québec; closed a $37M CAD Fund IV.",
+      "local": "Studio de création d'entreprises deep tech à Montréal (fondé en 2010) qui acquiert de la PI universitaire, recrute des cofondateurs et bâtit des startups."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/tandemlaunch-closes-37-million-fund-iv-to-create-and-back-deep-tech-startups/",
+        "title": "TandemLaunch closes $37-million Fund IV to create and back deep tech startups",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV size, founded year, companies created, valuation, jobs, leadership, sectors",
+        "quote": "Founded in 2010 ... builds and backs startups in artificial intelligence (AI), computer vision, internet of things, sustainability, and advanced sensors ... more than 30 ventures ... over $700 million ... close to 700 tech workers in Québec ... CEO Helge Seetzen and managing partner Émilie Boutros ... $37 million CAD"
+      },
+      {
+        "url": "https://www.tandemlaunch.com/",
+        "title": "TandemLaunch",
+        "publisher": "TandemLaunch",
+        "accessed": "2026-06-02",
+        "supports": "Startup foundry model, co-founder positioning, portfolio companies",
+        "quote": "venture capital fund with a unique startup foundry model"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "ca-diagram-ventures",
+    "name": { "en": "Diagram Ventures" },
+    "aka": ["Diagram"],
+    "type": "venture-studio",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montréal",
+    "website": "https://www.sagard.com/diagram/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/diagram-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "more than CA$250M raised", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Diagram Ventures I", "vintage_year": 2016, "size": { "raw": "CA$30M", "usd": null, "currency": "CAD" } },
+        { "name": "Diagram Ventures II", "vintage_year": 2019, "size": { "raw": "CA$55M", "usd": null, "currency": "CAD" } },
+        { "name": "Opportunity Fund", "vintage_year": 2021, "size": { "raw": "$60 million", "usd": null, "currency": "CAD" } },
+        { "name": "Diagram Climate Tech Fund", "vintage_year": 2024, "size": { "raw": "$80 million CAD ($58 million USD)", "usd": 58000000, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "between $3 to $5 million CAD per company", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "20-30%",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["fintech", "web3-crypto", "ai-ml", "climate-energy"],
+      "thesis": "Co-creates companies in-house (de-risks an idea, recruits a founder, scales) in FinTech, web3, AI, and climate tech; anchored by Sagard / Power Corporation. Also invests in external startups."
+    },
+    "track_record": {
+      "portfolio_count": "24",
+      "notable_investments": [
+        { "company": "Dialogue Health Technologies", "sector": "healthtech", "outcome": "IPO" },
+        { "company": "Collage", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Nesto", "sector": "fintech", "outcome": "active" },
+        { "company": "Synctera", "sector": "fintech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Dialogue Health Technologies", "type": "IPO", "year": null, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Collage", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "François Lafortune", "role": "Co-founder & CEO" },
+      { "name": "Paul Desmarais III", "role": "Co-founder" }
+    ],
+    "summary": {
+      "en": "Montréal venture studio (founded 2016) that co-creates FinTech, web3, AI, and climate-tech companies in-house and backs external startups, anchored by Sagard/Power Corporation. Raised more than CA$250M across funds including a 2024 $80M CAD Climate Tech Fund; targets 20-30% equity and invests $3-5M CAD per company.",
+      "local": "Studio de création d'entreprises montréalais (fondé en 2016) qui cocrée des sociétés en FinTech, web3, IA et technologies climatiques."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/diagram-ventures-closes-100-million-for-latest-fund-as-it-continues-to-bet-on-fintech/",
+        "title": "Diagram Ventures closes $100-million for latest fund",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Founded year, founders, HQ, sectors, check size, fund sizes, Sagard anchor",
+        "quote": "Founded ... 2016 ... Francois Lafortune (co-founder and CEO); Paul Desmarais III (co-founder) ... between $3 to $5 million CAD per company ... $55 million CAD ... Sagard Holdings"
+      },
+      {
+        "url": "https://techcrunch.com/2024/10/10/venture-studio-diagram-expands-into-climate-tech-with-oversubscribed-fund/",
+        "title": "Venture studio Diagram expands into climate tech with oversubscribed fund",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Climate Tech Fund size, total raised, prior fund sizes, exits",
+        "quote": "raised more than CA$250M and launched Diagram Ventures I & II in 2016 and 2019, respectively, at CA$30M and CA$55M ... raised $80 million CAD ($58 million) for its fourth studio fund, Diagram Climate Tech Fund ... Dialogue and Collage"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "ca-innovobot",
+    "name": { "en": "Innovobot Labs" },
+    "aka": ["Innovobot", "Innovobot Studio"],
+    "type": "venture-studio",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montréal",
+    "website": "https://www.innovobot.com/labs/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/innovobotlabs",
+      "crunchbase": "https://www.crunchbase.com/organization/innovobot"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Innovobot Resonance Ventures (IRV) Fund", "vintage_year": null, "size": { "raw": "CAD $11 million (first close)", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "pre-seed"],
+      "geo_focus": ["Canada"],
+      "sector_focus": ["deeptech", "robotics", "ai-ml", "hardware-semiconductor"],
+      "thesis": "Innovation studio (Innovobot Labs) plus a 'Deep Tech for Good' seed fund (IRV); builds and commercializes advanced technologies (haptics, human-machine interfaces, robotics, AI, IoT, photonics, advanced materials), often with OEM partners, and spins out commercial entities."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "The Haptics Company", "sector": "hardware-semiconductor", "outcome": "active" },
+        { "company": "Voler Systems", "sector": "hardware-semiconductor", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Neha Khera", "role": "Partner (Innovobot Resonance Ventures)" }
+    ],
+    "summary": {
+      "en": "Montréal deep-tech innovation studio (founded 2018) that develops and commercializes advanced technologies — haptics, human-machine interfaces, robotics, AI, IoT, photonics, advanced materials — and spins out companies such as The Haptics Company. Runs a seed-stage 'Deep Tech for Good' fund (IRV) with an ~CAD $11M first close.",
+      "local": "Studio d'innovation deep tech à Montréal (fondé en 2018) qui développe et commercialise des technologies de pointe."
+    },
+    "sources": [
+      {
+        "url": "https://www.innovobot.com/labs/",
+        "title": "Labs - Innovobot",
+        "publisher": "Innovobot",
+        "accessed": "2026-06-02",
+        "supports": "Founded year, Montréal HQ, sectors, studio model, spinouts",
+        "quote": "The founders chose to come together in 2018 ... expertise spanning human-machine interfaces, robotics, AI, IoT, and advanced materials"
+      },
+      {
+        "url": "https://betakit.com/innovobot-unveils-refreshed-deep-tech-vc-fund-under-neha-kheras-leadership/",
+        "title": "Innovobot unveils \"refreshed\" deep tech VC fund led by Neha Khera",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "IRV fund, deep-tech focus, leadership",
+        "quote": "Innovobot Resonance Ventures (IRV) fund ... current fund size of CAD $11 million"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "IRV fund size (CAD $11M first close) and 2018 founding from secondary/official pages; exact fund close figure may have grown since.",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "ca-momentum-ventures",
+    "name": { "en": "Momentum Ventures" },
+    "type": "venture-studio",
+    "status": "active",
+    "founded_year": 2014,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montréal",
+    "website": "https://www.mventures.ca/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/momentumventuresglobal"
+    },
+    "strategy": {
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["consumer", "ecommerce", "saas-enterprise"],
+      "thesis": "Self-funded company builder / holding company that ideates, builds, and operates consumer tech businesses in-house — primarily online travel (FlightHub, JustFly, CruiseHub) and adjacent verticals."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "FlightHub", "sector": "consumer", "outcome": "active" },
+        { "company": "JustFly", "sector": "consumer", "outcome": "active" },
+        { "company": "CruiseHub", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Matt Keezer", "role": "CEO / Founder" }
+    ],
+    "summary": {
+      "en": "Montréal company builder / holding company (established 2014) that builds and operates consumer-tech ventures in-house, best known for online travel brands FlightHub and JustFly. FlightHub employs over 400 people and generates over $1.5 billion in sales annually.",
+      "local": "Constructeur d'entreprises basé à Montréal (créé en 2014) qui bâtit et exploite des entreprises technologiques grand public à l'interne."
+    },
+    "sources": [
+      {
+        "url": "https://www.mventures.ca/about-us",
+        "title": "About Momentum Ventures",
+        "publisher": "Momentum Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Founded year, Montréal HQ, company-builder model, brands",
+        "quote": "Transforming the Travel Industry Since 2014"
+      },
+      {
+        "url": "https://reseaucapital.com/en/news/momentum-ventures-the-studio-that-takes-you-on-a-journey/",
+        "title": "Momentum Ventures: The studio that takes you on a journey",
+        "publisher": "Réseau Capital",
+        "accessed": "2026-06-02",
+        "supports": "Studio classification, FlightHub/JustFly metrics",
+        "quote": "FlightHub ... employs over 400 people globally and generates over $1.5 billion in sales annually ... JustFly ... Partnering with over 400 airlines"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Self-funded holding company; no disclosed external fund. Classified as a venture studio by Réseau Capital. FlightHub revenue/headcount figures are company-stated.",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "ca-qv-studio",
+    "name": { "en": "QV Studio" },
+    "type": "venture-studio",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Sherbrooke",
+    "website": "https://www.qvstudio.com/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/qv-studio"
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Canada", "Quebec"],
+      "sector_focus": ["deeptech", "hardware-semiconductor"],
+      "thesis": "Non-profit venture studio that transforms cutting-edge quantum technologies into startups; co-invests with Quantonation and Quantacet, runs a three-year program, and gives ventures access to the 50,000-sq-ft Espace Quantique 1 facility."
+    },
+    "program": {
+      "length_weeks": 156,
+      "format": "in-person",
+      "location": "Sherbrooke (Distriq Quantum Innovation Zone), Quebec",
+      "eligibility": "Quantum-technology startups / university spinouts"
+    },
+    "track_record": {
+      "co_investors": ["Quantonation", "Quantacet"]
+    },
+    "summary": {
+      "en": "Quebec non-profit venture studio (Sherbrooke) that turns quantum-technology research into startups, co-investing with Quantonation and Quantacet over a three-year program with access to the Espace Quantique 1 lab facility and ties to IBM, Pasqal, Nord Quantique. Quantum Lead for the Lab2Market national network.",
+      "local": "Studio de création d'entreprises à but non lucratif au Québec (Sherbrooke) qui transforme la recherche en technologies quantiques en startups."
+    },
+    "sources": [
+      {
+        "url": "https://www.qvstudio.com/",
+        "title": "QV Studio: VC, R&D, and Accelerator for Quantum Technologies",
+        "publisher": "QV Studio",
+        "accessed": "2026-06-02",
+        "supports": "Quantum focus, non-profit studio model, partners, facility, three-year program",
+        "quote": "transforms quantum innovation into world-class tech startups with venture capital funding and research & development infrastructure"
+      },
+      {
+        "url": "https://reseaucapital.com/en/news/canadian-venture-studio-landscape/",
+        "title": "Canadian Venture Studio landscape",
+        "publisher": "Réseau Capital",
+        "accessed": "2026-06-02",
+        "supports": "Recognized as a Quebec venture studio newcomer",
+        "quote": "Innovobot Studio, Momentum Ventures, QV Studio, and recently Pre-Amp"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year not confirmed; three-year program expressed as 156 weeks (3 x 52). Quantum partners (IBM, Pasqal, Nord Quantique) from secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "ca-pre-amp",
+    "name": { "en": "Pre-Amp" },
+    "aka": ["Pre-Amp (Amplitude Ventures)"],
+    "type": "venture-studio",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montréal",
+    "website": "https://amplitudevc.com/en/fellowship",
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Canada"],
+      "sector_focus": ["biotech", "healthtech"],
+      "thesis": "Amplitude Ventures' in-house biotech venture-creation studio: identifies areas of high unmet patient need and builds companies from scratch through a three-phase company-creation model, running an Amplitude Fellowship for scientist-founders."
+    },
+    "program": {
+      "format": "in-person",
+      "location": "Montréal",
+      "application_url": "https://amplitudevc.com/en/fellowship",
+      "eligibility": "Scientist-entrepreneurs / academics (Amplitude Fellowship)"
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "RIME", "sector": "biotech", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "Montréal biotech venture-creation studio operated by Amplitude Ventures that builds drug-discovery and therapeutics companies from scratch through a three-phase model and an Amplitude Fellowship for scientist-founders. Founded drug-discovery company RIME in 2025.",
+      "local": "Studio de création d'entreprises en biotechnologie à Montréal, exploité par Amplitude Ventures, qui bâtit des sociétés à partir de zéro."
+    },
+    "sources": [
+      {
+        "url": "https://amplitudevc.com/en/fellowship",
+        "title": "Fellowship | Amplitude",
+        "publisher": "Amplitude Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Biotech venture-creation studio, three-phase model, fellowship, Montréal, RIME",
+        "quote": "Pre-Amp is Amplitude Ventures' biotech venture creation studio ... building companies from scratch ... RIME, a drug discovery company, was founded in 2025 by Pre-Amp"
+      },
+      {
+        "url": "https://reseaucapital.com/en/news/canadian-venture-studio-landscape/",
+        "title": "Canadian Venture Studio landscape",
+        "publisher": "Réseau Capital",
+        "accessed": "2026-06-02",
+        "supports": "Recognized as a recent Quebec venture studio",
+        "quote": "QV Studio, and recently Pre-Amp"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year of Pre-Amp not separately confirmed; it is the venture-creation arm of Amplitude Ventures. RIME (2025) is a named spinout.",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "ca-bxventures",
+    "name": { "en": "BXVentures" },
+    "aka": ["BXVentures Canada"],
+    "type": "venture-studio",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montréal",
+    "website": "https://reseaucapital.com/en/news/bxventures-the-studio-who-wants-to-back-climate-tech-trapped-in-universities/",
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Canada", "Quebec"],
+      "sector_focus": ["climate-energy", "deeptech"],
+      "thesis": "Tech-led cleantech venture studio that sources net-zero technologies directly from university and public research labs, validates the IP, and builds scalable companies; partnered with McGill (2023) and Centech (2022)."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "FeX Energy", "sector": "climate-energy", "outcome": "active" }
+      ],
+      "co_investors": ["McGill University", "Centech"]
+    },
+    "summary": {
+      "en": "Montréal-based cleantech venture studio (established 2022) that commercializes net-zero technologies out of university research labs. Partnered with Centech (2022) and McGill University (2023); spun out cleantech venture FeX Energy with McGill.",
+      "local": "Studio de création d'entreprises en technologies propres à Montréal (créé en 2022) qui commercialise des technologies carboneutres issues des laboratoires universitaires."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/mcgill-venture-studio-bxventures-spin-out-cleantech-venture-fex-energy/",
+        "title": "McGill, venture studio BXVentures spin out cleantech venture FeX Energy",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Cleantech studio, McGill partnership, FeX Energy spinout",
+        "quote": "McGill University and venture studio BXVentures have officially spun out their first joint cleantech venture: Montréal-based FeX Energy"
+      },
+      {
+        "url": "https://reseaucapital.com/en/news/canadian-venture-studio-landscape/",
+        "title": "Canadian Venture Studio landscape",
+        "publisher": "Réseau Capital",
+        "accessed": "2026-06-02",
+        "supports": "CleanTech studio, Centech (2022) and McGill (2023) partnerships",
+        "quote": "Centech (in 2022) and McGill (in 2023), entered into a partnership agreement with BXVentures Canada, a venture studio dedicated to the creation and expansion of CleanTech solutions"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "2022 founding from secondary sources (Réseau Capital / startupstudios.com). Described as 'Canada's first' net-zero-focused venture studio.",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "ca-highline-beta",
+    "name": { "en": "Highline Beta" },
+    "type": "venture-studio",
+    "subtypes": ["vc", "cvc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "offices": [
+      { "country": "Canada", "city": "Toronto" }
+    ],
+    "website": "https://www.highlinebeta.com/",
+    "links": {
+      "other": ["https://www.highlinebeta.com/about-us"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "up to $1 million in each startup", "usd_min": null, "usd_max": 1000000 },
+      "ownership_target_pct": "~25%",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "fintech"],
+      "thesis": "Hybrid corporate venture studio and VC fund: co-creates startups with corporate partners and family offices, and designs/runs internal or external venture studios for enterprises. Invests up to $1M per startup through Series A."
+    },
+    "track_record": {
+      "co_investors": ["RBC", "Intuit", "Colgate-Palmolive", "Green Shield Canada", "AB InBev"]
+    },
+    "people": [
+      { "name": "Marcus Daniels", "role": "Founding Partner & CEO", "linkedin": "https://ca.linkedin.com/in/marcusdaniels" },
+      { "name": "Ben Yoskovitz", "role": "Founding Partner" },
+      { "name": "Lauren Robinson", "role": "Co-founder / General Partner" }
+    ],
+    "summary": {
+      "en": "Toronto-based corporate venture studio and VC fund (founded 2016) that co-creates startups with corporate partners (RBC, Intuit, Colgate-Palmolive and 40+ institutions) and helps enterprises build their own venture studios. Invests up to $1M per startup through Series A, typically taking ~25% equity.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.highlinebeta.com/about-us",
+        "title": "About Highline Beta",
+        "publisher": "Highline Beta",
+        "accessed": "2026-06-02",
+        "supports": "Founded year, venture studio model, corporate clients",
+        "quote": "Since 2016, Highline Beta has pioneered a venture studio model ... Trusted by 40+ global institutions"
+      },
+      {
+        "url": "https://reseaucapital.com/en/news/highline-beta-the-perfect-blend-of-business-and-venture-studio/",
+        "title": "Highline Beta: The Perfect Blend of Business and Venture Studio",
+        "publisher": "Réseau Capital",
+        "accessed": "2026-06-02",
+        "supports": "Toronto HQ, founders, $1M per startup, ~25% equity, corporate clients",
+        "quote": "founded in June 2016 ... Toronto, Ontario ... invests up to $1 million in each startup, up to the Series A stage ... Takes approximately 25% equity per company"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "ca-harvest-venture-builders",
+    "name": { "en": "Harvest Venture Builders" },
+    "aka": ["Harvest Builders", "Harvest"],
+    "type": "venture-studio",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Calgary",
+    "website": "https://www.harvest-vb.com/",
+    "capital": {
+      "funds": [
+        { "name": "Harvest Venture Partners", "vintage_year": 2021, "size": { "raw": "$14 million CAD", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Canada", "Prairies"],
+      "sector_focus": ["fintech", "ai-ml", "climate-energy"],
+      "thesis": "Prairies-based venture studio (founded by SkipTheDishes co-founder Chris Simair) that ideates and co-creates startups in fintech, AI, and an energy/AI vertical; associated Harvest Venture Partners fund targets six to eight companies over two years."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Neo Financial", "sector": "fintech", "outcome": "active" },
+        { "company": "OneVest", "sector": "fintech", "outcome": "active" },
+        { "company": "Walnut", "sector": "fintech", "outcome": "active" },
+        { "company": "Propra", "sector": "proptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Chris Simair", "role": "Founder", "linkedin": "https://ca.linkedin.com/in/chris-simair-43a7756b" }
+    ],
+    "summary": {
+      "en": "Calgary / Prairies venture studio (launched 2019 by SkipTheDishes co-founder Chris Simair) that co-creates fintech and AI startups; its first studio venture was Neo Financial. The associated Harvest Venture Partners fund ($14M CAD) targets six to eight companies over two years. Has since added an AI-for-energy vertical.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/harvest-builders-launches-venture-fund-to-build-on-neo-financial-skipthedishes-success/",
+        "title": "Harvest Builders launches venture fund to build on Neo Financial, SkipTheDishes success",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Fund size, founded year, founder, portfolio, target companies, Calgary",
+        "quote": "$14 million CAD in capital to deploy ... Chris Simair, SkipTheDishes co-founder ... Neo Financial ... six to eight companies over a two-year span"
+      },
+      {
+        "url": "https://www.harvest-vb.com/",
+        "title": "Venture Studio | Harvest Venture Builders",
+        "publisher": "Harvest Venture Builders",
+        "accessed": "2026-06-02",
+        "supports": "Venture studio model, AI-for-energy vertical, founder",
+        "quote": "cultivating a next-generation energy venture ecosystem led by traction, execution and real world outcomes"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "ca-combine-ventures",
+    "name": { "en": "Combine Ventures" },
+    "aka": ["Combine Venture Builders", "Combine VB", "Combine Labs"],
+    "type": "venture-studio",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Calgary",
+    "website": "https://www.combinevb.com/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/combinevb"
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Canada", "Calgary"],
+      "sector_focus": ["ai-ml", "climate-energy", "impact"],
+      "thesis": "Calgary venture studio that works with corporate partners and Founders-in-Residence through Combine Labs to turn high-impact ideas (originally ESG-led, now generative-AI-led) into venture-funded companies; provides product, design, ops, and fundraising as a co-builder."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Agora Labs", "sector": "impact", "outcome": "active" },
+        { "company": "Sabi Mind", "sector": "healthtech", "outcome": "active" },
+        { "company": "Amplifier Health", "sector": "healthtech", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "Calgary venture studio and fund (founded 2020) that co-builds technology companies through Combine Labs, originally focused on ESG/cleantech white space and now on generative AI for legacy industries. Awarded up to $1.9M from the Opportunity Calgary Investment Fund to scale early-stage companies; targets six or more high-potential companies.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.combinevb.com/",
+        "title": "Combine Ventures | Calgary-based venture studio and fund",
+        "publisher": "Combine Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Calgary HQ, studio model, Combine Labs, portfolio, generative AI focus",
+        "quote": "We work with technology entrepreneurs to turn the most impactful ideas into market-defining companies with compounding moats."
+      },
+      {
+        "url": "https://www.calgaryeconomicdevelopment.com/newsroom/ocif-selects-combine-venture-builders-to-accelerate-growth-of-early-stage-calgary-companies/",
+        "title": "OCIF selects Combine Venture Builders",
+        "publisher": "Calgary Economic Development",
+        "accessed": "2026-06-02",
+        "supports": "Founded year, OCIF $1.9M, target companies, ESG origin",
+        "quote": "up to $1.9 million to Combine Venture Builders Inc. over two years ... will lead to the creation of a portfolio of six or more high-potential scaling companies"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "2020 founding from secondary sources; sector focus has shifted from ESG/cleantech to generative AI per current website.",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "ca-futuresight",
+    "name": { "en": "FutureSight" },
+    "aka": ["FutureSight Ventures"],
+    "type": "venture-studio",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "offices": [
+      { "country": "Canada", "city": "Toronto" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "website": "https://futuresight.ventures/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/futuresightventures",
+      "crunchbase": "https://www.crunchbase.com/organization/futuresight-ventures"
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "geo_focus": ["Canada", "United States", "North America"],
+      "sector_focus": ["ai-ml", "saas-enterprise"],
+      "thesis": "AI venture studio that builds vertical B2B AI-native SaaS companies from 'day zero' with values-driven founders, providing a full-stack cofounding team, a repeatable company-building system, and pre-seed capital."
+    },
+    "program": {
+      "format": "hybrid",
+      "location": "Toronto / San Francisco (hybrid-remote)",
+      "eligibility": "Founding CEOs / Entrepreneurs-in-Residence; ventures built with a founding CEO plus a technical co-founder",
+      "application_url": "https://futuresight.ventures/"
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "CrewScope", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Medivox Health", "sector": "healthtech", "outcome": "active" },
+        { "company": "CaringAI", "sector": "healthtech", "outcome": "active" },
+        { "company": "Mercata Intel", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "John Carbrey", "role": "Founder & CEO" }
+    ],
+    "summary": {
+      "en": "Toronto- and San Francisco-based AI venture studio (founded 2021 by John Carbrey) that co-founds vertical B2B AI-native SaaS companies from day zero, providing a full-stack cofounding team and pre-seed capital. Ventures launch with a founding CEO plus a technical co-founder over roughly a 9-month build.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://futuresight.ventures/frequently-asked-questions/",
+        "title": "Frequently Asked Questions - FutureSight",
+        "publisher": "FutureSight",
+        "accessed": "2026-06-02",
+        "supports": "Founded year, founder, day-zero/pre-seed model, co-founder structure, timeline, portfolio",
+        "quote": "FutureSight invests at day zero, the pre-seed stage, before a company is formed ... FutureSight ventures are built with one founding CEO, complemented by an additional Technical co-founder (CTO)"
+      },
+      {
+        "url": "https://futuresight.ventures/",
+        "title": "Home - FutureSight Venture Studio for Vertical B2B AI Founders",
+        "publisher": "FutureSight",
+        "accessed": "2026-06-02",
+        "supports": "Vertical B2B AI focus, Toronto HQ, full-stack cofounding",
+        "quote": "build world-class software companies with values driven founders"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Equity percentage and exact pre-seed check size not publicly disclosed (left null).",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "ca-launchit-ventures",
+    "name": { "en": "Launchit Ventures" },
+    "type": "venture-studio",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Hamilton",
+    "website": "https://launchitventures.com/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/launchitventures",
+      "crunchbase": "https://www.crunchbase.com/organization/launchit-ventures"
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Canada"],
+      "sector_focus": ["healthtech", "biotech"],
+      "thesis": "HealthTech venture studio that builds and commercializes novel health innovations end-to-end — refining the idea, building the product, forming the legal entity and IP, and going to market — with a shared back-office services team."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Regulora", "sector": "healthtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Jamie Harsevoort", "role": "Co-founder / President (Lumedi)" },
+      { "name": "Frank Naus", "role": "Venture Partner / CEO (Lumedi)" }
+    ],
+    "summary": {
+      "en": "Hamilton, Ontario HealthTech venture studio (founded 2021, backed by the Lumedi team) that builds and commercializes novel health innovations end-to-end and provides shared back-office services. Brought the FDA-cleared IBS app Regulora to Canada under Health Canada authorization.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/new-venture-studio-launchit-ventures-wants-to-help-entrepreneurs-commercialize-canadas-next-fantastic-healthtech-idea/",
+        "title": "New venture studio Launchit Ventures wants to help entrepreneurs commercialize Canada's next \"fantastic\" healthtech idea",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Founded year, Hamilton HQ, healthtech studio model, leadership",
+        "quote": "Launchit Ventures ... builds and commercializes novel HealthTech innovations ... founded in 2021 and is based in Hamilton"
+      },
+      {
+        "url": "https://launchitventures.com/",
+        "title": "Launchit Ventures - a Canadian healthtech Venture Studio",
+        "publisher": "Launchit Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Healthtech venture studio positioning, Regulora",
+        "quote": "a Canadian healthtech Venture Studio"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "ca-koru",
+    "name": { "en": "Koru" },
+    "aka": ["Koru (Ontario Teachers')"],
+    "type": "venture-studio",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.hellokoru.com/",
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Canada", "International"],
+      "sector_focus": ["fintech", "healthtech", "saas-enterprise", "climate-energy"],
+      "thesis": "Venture studio funded by Ontario Teachers' Pension Plan (OTPP) that identifies, validates, builds, and oversees new disruptive ventures for OTPP portfolio companies, and also invests in external founders building solutions that create value for OTPP companies."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "FYLD", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Fig Financial", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "Toronto venture studio funded by the Ontario Teachers' Pension Plan (OTPP) that builds new ventures for OTPP portfolio companies across healthcare, B2B services, financial services, and climate tech, and invests in external founders. Built companies include FYLD and Fig Financial.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.hellokoru.com/",
+        "title": "Koru — Venture studio funded by OTPP",
+        "publisher": "Koru",
+        "accessed": "2026-06-02",
+        "supports": "OTPP-funded venture studio, Toronto, builder/investor model, FYLD and Fig Financial",
+        "quote": "works with Ontario Teachers' Pension Plan portfolio companies to create ventures that shape tomorrow ... identify, validate, build and oversee new disruptive business opportunities"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year not stated on site; backed by Ontario Teachers' Pension Plan. Builds in-house ventures plus external investments.",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "ca-globalive",
+    "name": { "en": "Globalive" },
+    "type": "venture-studio",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.globalive.com/",
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Canada"],
+      "sector_focus": ["generalist", "saas-enterprise"],
+      "thesis": "Founder-focused startup studio and investment platform led by Anthony Lacavera (founder of WIND Mobile) that co-creates companies and backs founders with capital, product, and operational expertise across 25+ years of company-building."
+    },
+    "track_record": {
+      "portfolio_count": "150+",
+      "exits": [
+        { "company": "WIND Mobile", "type": "M&A", "year": null, "value": { "raw": "$1.6B exit", "usd": 1600000000, "currency": "CAD" } }
+      ]
+    },
+    "people": [
+      { "name": "Anthony Lacavera", "role": "Founder & Chairman" }
+    ],
+    "summary": {
+      "en": "Toronto-based founder-focused startup studio and investment platform led by Anthony Lacavera (founder of WIND Mobile, sold for $1.6B). Combines company creation, strategic investment, and operational execution; states 150+ companies backed, 25+ realized exits, and 50+ venture funds partnered with.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.globalive.com/",
+        "title": "Globalive | Founder-focused Company Building & Investing",
+        "publisher": "Globalive",
+        "accessed": "2026-06-02",
+        "supports": "Startup studio / company-building model, Lacavera, track record figures, WIND exit",
+        "quote": "150+ Companies Backed ... 25+ Realized Exits ... 50+ Venture Funds Partnered With ... building WIND Mobile into a $1.6B exit"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Globalive blends startup studio (company creation) with broad investing; the 150+/25+/50+ figures are self-reported and cover backing as well as in-house builds. Founding year not stated.",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  },
+  {
+    "id": "ca-simple-ventures",
+    "name": { "en": "Simple Ventures" },
+    "type": "venture-studio",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://canadianbusiness.com/people/how-i-made-it/rachel-zimmer-simple-ventures/",
+    "links": {
+      "crunchbase": "https://pitchbook.com/profiles/investor/624245-14"
+    },
+    "capital": {
+      "current_fund": { "raw": "$15M (reported by The Logic; size undisclosed by founder)", "usd": null, "currency": "CAD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Canada"],
+      "sector_focus": ["healthtech", "saas-enterprise", "consumer", "agritech"],
+      "thesis": "Toronto venture studio that identifies products and services not yet available in Canada, tests market viability, then partners with founders to build and launch them in-house. Targets ~10 companies through its first fund; first venture Alma Care (postnatal care)."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Alma Care", "sector": "healthtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Rachel Zimmer", "role": "Founder & CEO" },
+      { "name": "Michael Katchen", "role": "Board Chair (Wealthsimple CEO)" }
+    ],
+    "summary": {
+      "en": "Toronto venture studio (launched March 2024 by Rachel Zimmer, with Wealthsimple's Michael Katchen as board chair) that builds startups in-house — wellness, digital health, vertical SaaS, and fresh local food — aiming to launch ~10 companies via its first fund. Backed by 30+ Canadian entrepreneurs (Harley Finkelstein, Joanna Griffiths, Mike Murchison) plus Sobeys and Good Future; first venture is Alma Care.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/canadian-tech-leaders-venture-studio-simple-ventures/",
+        "title": "Canadian tech leaders back new venture studio Simple Ventures",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "Founder, launch date, Toronto HQ, backers, 10-company target, sectors, Alma Care",
+        "quote": "Rachel Zimmer serves as CEO. Michael Katchen ... acts as board chair ... Launched March 6, 2024 ... build and launch 10 companies through its first fund ... Sobeys Inc. and Good Future ... First announced company: Alma Care"
+      },
+      {
+        "url": "https://thelogic.co/news/simple-ventures-raises-15m-to-build-startups/",
+        "title": "Simple Ventures raises $15M from big-name investors to build startups in-house",
+        "publisher": "The Logic",
+        "accessed": "2026-06-02",
+        "supports": "Reported $15M raise (headline)",
+        "quote": "Simple Ventures raises $15M from big-name investors to build startups in-house"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "The Logic's headline reports a $15M raise; BetaKit notes founder Rachel Zimmer declined to disclose the fund's current or target size. Treated as reported-but-unconfirmed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "venture-studio"
+  }
+]

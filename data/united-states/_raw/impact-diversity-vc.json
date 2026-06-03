@@ -1,0 +1,1630 @@
+[
+  {
+    "id": "us-harlem-capital",
+    "name": { "en": "Harlem Capital" },
+    "aka": ["Harlem Capital Partners", "HCP"],
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York",
+    "website": "https://harlem.capital/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/harlem-capital-partners",
+      "other": [
+        "https://techcrunch.com/2019/12/02/diversity-focused-vc-fund-harlem-capital-debuts-with-40m/",
+        "https://news.crunchbase.com/business/diverse-founders-report-harlem-capital-black-latino-founders/"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Venture Fund I", "vintage_year": 2019, "size": { "raw": "$40M", "usd": 40000000, "currency": "USD" } },
+        { "name": "Venture Fund II", "vintage_year": 2021, "size": { "raw": "$134M", "usd": 134000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$1M–$2M", "usd_min": 1000000, "usd_max": 2000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Africa", "Latin America"],
+      "sector_focus": ["impact", "generalist", "saas-enterprise", "fintech", "consumer"],
+      "thesis": "Diversity investing as an asset class: backs the next generation of diverse founders (women and minority entrepreneurs), with a mission to invest in 1,000 diverse founders over 20–30 years."
+    },
+    "track_record": {
+      "portfolio_count": "70+",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Henri Pierre-Jacques", "role": "Co-Founder & Managing Partner" },
+      { "name": "Jarrid Tingle", "role": "Co-Founder & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["diversity", "minority-founders", "women-founders", "impact", "underrepresented"],
+    "summary": {
+      "en": "New York VC focused exclusively on women and minority entrepreneurs, founded 2015 by Henri Pierre-Jacques and Jarrid Tingle. Closed a $40M Fund I (2019) and $134M Fund II (2021), writing $1M–$2M checks at seed/Series A with a mission to back 1,000 diverse founders."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2019/12/02/diversity-focused-vc-fund-harlem-capital-debuts-with-40m/",
+        "title": "Diversity-focused VC fund Harlem Capital debuts with $40M",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund I size, diversity focus",
+        "quote": "they closed their $40 million Venture Fund I in December 2019"
+      },
+      {
+        "url": "https://news.crunchbase.com/business/diverse-founders-report-harlem-capital-black-latino-founders/",
+        "title": "Five Years Ago, I Set Out To Prove A VC Firm Could Invest With A Diversity Thesis",
+        "publisher": "Crunchbase News",
+        "accessed": "2026-06-02",
+        "supports": "founded 2015, founders, check size, Fund II, mission",
+        "quote": "Harlem Capital invests $1 million to $2 million into early-stage diverse-led startups based in the U.S., Africa and Latin America"
+      },
+      {
+        "url": "https://harlem.capital/",
+        "title": "Harlem Capital",
+        "publisher": "Harlem Capital",
+        "accessed": "2026-06-02",
+        "supports": "70+ investments, NY HQ, 6 investors",
+        "quote": "70+ investments span across 10+ cities"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I ($40M) and Fund II ($134M) sourced via TechCrunch and secondary press; founded_year 2015 per multiple secondary sources. Mission stated variously as 'over 20 years' and 'over 30 years' across sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-kapor-capital",
+    "name": { "en": "Kapor Capital" },
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Oakland",
+    "website": "https://www.kaporcapital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/kapor-capital",
+      "other": [
+        "https://www.kaporcapital.com/fund-iii/",
+        "https://www.prnewswire.com/news-releases/kapor-capital-managing-partners-raise-largest-fund-to-date-126-million-to-continue-investing-in-a-more-equitable-tech-sector-301619050.html"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund III", "vintage_year": 2022, "size": { "raw": "$126M", "usd": 126000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$100K–$1M", "usd_min": 100000, "usd_max": 1000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["impact", "edtech", "fintech", "healthtech", "saas-enterprise"],
+      "thesis": "Gap-closing impact thesis: invests in tech-driven early-stage companies committed to closing gaps of access, opportunity or outcome for low-income communities and/or communities of color."
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Ulili Onovakpuri", "role": "Managing Partner" },
+      { "name": "Brian Dixon", "role": "Managing Partner" },
+      { "name": "Mitch Kapor", "role": "Co-Founder" },
+      { "name": "Freada Kapor Klein", "role": "Co-Founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["impact", "gap-closing", "diversity", "communities-of-color", "low-income"],
+    "summary": {
+      "en": "Oakland impact VC investing since 2011 in early-stage tech startups closing gaps of access and opportunity for low-income communities and communities of color. Closed its largest fund, the $126M Fund III, in 2022 led by Ulili Onovakpuri and Brian Dixon."
+    },
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/kapor-capital-managing-partners-raise-largest-fund-to-date-126-million-to-continue-investing-in-a-more-equitable-tech-sector-301619050.html",
+        "title": "Kapor Capital Managing Partners Raise Largest Fund to Date: $126 Million",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-02",
+        "supports": "Fund III size $126M, 2022, managing partners",
+        "quote": "Kapor Capital Managing Partners Raise Largest Fund to Date: $126 Million to Continue Investing in a More Equitable Tech Sector"
+      },
+      {
+        "url": "https://www.kaporcapital.com/how-we-invest/",
+        "title": "How We Invest",
+        "publisher": "Kapor Capital",
+        "accessed": "2026-06-02",
+        "supports": "thesis, gap-closing, stages, sectors, since 2011",
+        "quote": "Since 2011, Kapor Capital has invested exclusively in early stage, tech-driven startups committed to closing gaps of access, opportunity or outcome for low-income communities and/or communities of color"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund III $126M well documented (PR Newswire/firm). Earlier fund sizes not separately captured. Check size range from secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-dbl-partners",
+    "name": { "en": "DBL Partners" },
+    "aka": ["Double Bottom Line Partners"],
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2008,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.dbl.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/dbl-investors",
+      "other": [
+        "https://impactalpha.com/dbl-partners-investor-in-tesla-and-solar-city-closes-3rd-fund-at-400-million/",
+        "https://www.mcknight.org/impact-investment/double-bottom-line-dbl-partners-iv/"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "$750M+ across four funds", "usd": 750000000, "currency": "USD" },
+      "funds": [
+        { "name": "DBL Fund III", "vintage_year": 2015, "size": { "raw": "$400M", "usd": 400000000, "currency": "USD" } },
+        { "name": "DBL Fund IV", "vintage_year": 2021, "size": { "raw": "$600M", "usd": 600000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["impact", "climate-energy", "consumer", "healthtech", "deeptech"],
+      "thesis": "Pioneer of 'double bottom line' impact investing: seeks top-tier financial returns alongside meaningful social and environmental impact (job creation, sustainability)."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Tesla", "sector": "mobility", "outcome": "IPO" },
+        { "company": "SolarCity", "sector": "climate-energy", "outcome": "acquired" },
+        { "company": "The RealReal", "sector": "ecommerce", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Nancy Pfund", "role": "Founder & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["impact", "double-bottom-line", "ESG", "climate", "social-impact"],
+    "summary": {
+      "en": "San Francisco impact VC founded 2008 by Nancy Pfund (spun out of JPMorgan), a pioneer of 'double bottom line' investing. An early backer of Tesla and SolarCity, it has raised $750M+ across four funds, including a $400M Fund III (2015) and $600M Fund IV (2021)."
+    },
+    "sources": [
+      {
+        "url": "https://impactalpha.com/dbl-partners-investor-in-tesla-and-solar-city-closes-3rd-fund-at-400-million/",
+        "title": "DBL Partners, Investor in Tesla and Solar City, Closes 3rd Fund at $400 Million",
+        "publisher": "ImpactAlpha",
+        "accessed": "2026-06-02",
+        "supports": "Fund III $400M, Tesla/SolarCity, double bottom line",
+        "quote": "DBL Partners, Investor in Tesla and Solar City, Closes 3rd Fund at $400 Million"
+      },
+      {
+        "url": "https://www.mcknight.org/impact-investment/double-bottom-line-dbl-partners-iv/",
+        "title": "Double Bottom Line (DBL) Partners IV",
+        "publisher": "McKnight Foundation",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV $600M",
+        "quote": "Double Bottom Line (DBL) Partners IV"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund III $400M and Fund IV $600M and $750M total across four funds per ImpactAlpha; founded 2008 (spun off from JPMorgan). Check size undisclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-rethink-impact",
+    "name": { "en": "Rethink Impact" },
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://rethinkimpact.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/rethink-impact",
+      "other": [
+        "https://www.businesswire.com/news/home/20240912886567/en/Rethink-Impact-the-Largest-US-Venture-Fund-Backing-Women-Reaches-$500M-in-Assets-Raised-With-Its-New-Quarter-Billion-Dollar-Fund"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "$500M+ total assets", "usd": 500000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund III", "vintage_year": 2024, "size": { "raw": "$250M+", "usd": 250000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["impact", "healthtech", "edtech", "climate-energy", "fintech"],
+      "thesis": "Invests in technology companies led by female and non-binary CEOs solving the world's biggest problems, combining financial returns with measurable social and environmental impact."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Jenny Abramson", "role": "Founder & Managing Partner" },
+      { "name": "Heidi Patel", "role": "Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["women-founders", "impact", "ESG", "female-led", "non-binary"],
+    "summary": {
+      "en": "The largest US venture fund backing female-led companies, founded 2015 by Jenny Abramson. Its third fund of $250M+ (2024) brought total assets above $500M, investing in tech companies led by women and non-binary CEOs at Series A/B."
+    },
+    "sources": [
+      {
+        "url": "https://www.businesswire.com/news/home/20240912886567/en/Rethink-Impact-the-Largest-US-Venture-Fund-Backing-Women-Reaches-$500M-in-Assets-Raised-With-Its-New-Quarter-Billion-Dollar-Fund",
+        "title": "Rethink Impact, the Largest US Venture Fund Backing Women, Reaches $500M+ in Assets Raised",
+        "publisher": "Business Wire",
+        "accessed": "2026-06-02",
+        "supports": "Fund III $250M+, $500M+ total assets, largest US fund backing women",
+        "quote": "Rethink Impact, the Largest US Venture Fund Backing Women, Reaches $500M+ in Assets Raised With Its New Quarter Billion-Dollar Fund"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund III $250M+ and $500M+ total assets per Business Wire press release; founded 2015. Check size not separately verified.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-female-founders-fund",
+    "name": { "en": "Female Founders Fund" },
+    "aka": ["F3"],
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York",
+    "website": "https://femalefoundersfund.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/female-founders-fund",
+      "other": [
+        "https://fortune.com/2025/12/01/female-founders-fund-fourth-fund-emerging-managers-milestone/",
+        "https://femalefoundersfund.com/about/"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "$140M under management across five funds", "usd": 140000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2014, "size": { "raw": "$5.85M", "usd": 5850000, "currency": "USD" } },
+        { "name": "Fund IV", "vintage_year": 2025, "size": { "raw": "$29M", "usd": 29000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500K–$1M", "usd_min": 500000, "usd_max": 1000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["consumer", "healthtech", "fintech", "saas-enterprise"],
+      "thesis": "Early-stage fund investing exclusively in female-founded companies across consumer, health, fintech and enterprise."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Maven Clinic", "sector": "healthtech", "outcome": "active" },
+        { "company": "Eloquii", "sector": "ecommerce", "outcome": "acquired" }
+      ]
+    },
+    "people": [
+      { "name": "Anu Duggal", "role": "Founding Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["women-founders", "female-led", "early-stage"],
+    "summary": {
+      "en": "New York seed fund founded 2014 by Anu Duggal that invests exclusively in female-founded companies. It manages ~$140M across five funds, with a fully-returned $5.85M Fund I (Maven Clinic, Eloquii) and a $29M Fund IV closed in 2025."
+    },
+    "sources": [
+      {
+        "url": "https://fortune.com/2025/12/01/female-founders-fund-fourth-fund-emerging-managers-milestone/",
+        "title": "Female Founders Fund raises $29 million fourth fund",
+        "publisher": "Fortune",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV $29M, total $140M AUM, five funds",
+        "quote": "Female Founders Fund raises $29 million fourth fund"
+      },
+      {
+        "url": "https://femalefoundersfund.com/about/",
+        "title": "About - Female Founders Fund",
+        "publisher": "Female Founders Fund",
+        "accessed": "2026-06-02",
+        "supports": "founded 2014, Anu Duggal, female focus, portfolio"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund IV $29M and $140M total AUM per Fortune. Fund I $5.85M and notable exits (Maven, Eloquii) per Fortune coverage. Check size from secondary source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-bbg-ventures",
+    "name": { "en": "BBG Ventures" },
+    "aka": ["Built By Girls Ventures"],
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York",
+    "website": "https://www.bbgventures.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/bbg-ventures",
+      "other": [
+        "https://fortune.com/2024/10/30/exclusive-bbg-ventures-raises-60-million-fund-and-expands-from-backing-female-founders-to-diverse-founders/",
+        "https://techcrunch.com/2021/03/25/bbg-ventures-just-closed-on-50-million-to-fund-more-women-led-startups/"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "$130M AUM", "usd": 130000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2014, "size": { "raw": "$10M", "usd": 10000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2021, "size": { "raw": "$50M", "usd": 50000000, "currency": "USD" } },
+        { "name": "Fund III", "vintage_year": 2024, "size": { "raw": "$60M", "usd": 60000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500K–$1M", "usd_min": 500000, "usd_max": 1000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["consumer", "healthtech", "climate-energy", "fintech"],
+      "thesis": "Backs female and diverse founders building products for the future of how we live, originally women-only and now broadened across race, age and income."
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Susan Lyne", "role": "Co-Founder & Managing Partner" },
+      { "name": "Nisha Dua", "role": "Co-Founder & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["women-founders", "diversity", "female-led", "early-stage"],
+    "summary": {
+      "en": "New York early-stage fund founded 2014 by Susan Lyne and Nisha Dua, originally women-only and now backing female and otherwise-diverse founders. With ~$130M AUM and 100+ investments, it closed a $60M Fund III in 2024."
+    },
+    "sources": [
+      {
+        "url": "https://fortune.com/2024/10/30/exclusive-bbg-ventures-raises-60-million-fund-and-expands-from-backing-female-founders-to-diverse-founders/",
+        "title": "BBG Ventures raises $60 million fund, expands beyond female founders",
+        "publisher": "Fortune",
+        "accessed": "2026-06-02",
+        "supports": "Fund III $60M, founded 2014, $130M AUM, 100+ investments",
+        "quote": "BBG Ventures raises $60 million fund, expands beyond female founders"
+      },
+      {
+        "url": "https://techcrunch.com/2021/03/25/bbg-ventures-just-closed-on-50-million-to-fund-more-women-led-startups/",
+        "title": "BBG Ventures just closed on $50 million to fund more women-led startups",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund II $50M",
+        "quote": "BBG Ventures just closed on $50 million to fund more women-led startups"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund II $50M (TechCrunch) and Fund III $60M, $130M AUM, founded 2014, $10M Fund I per Fortune. Check size from secondary source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-backstage-capital",
+    "name": { "en": "Backstage Capital" },
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Los Angeles",
+    "website": "https://backstagecapital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/backstage-capital",
+      "other": [
+        "https://www.vcsheet.com/fund/backstage-capital",
+        "https://time.com/6155039/arlan-hamilton-crowdfunded-vc-firm/"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "~$20M invested in nearly 200 companies", "usd": 20000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "~$25K–$100K (typically $50K)", "usd_min": 25000, "usd_max": 100000 },
+      "lead_or_follow": "follow",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "consumer", "saas-enterprise"],
+      "thesis": "Minimizes funding disparities in tech by investing in high-potential founders who are people of color, women, and/or LGBT."
+    },
+    "track_record": {
+      "portfolio_count": "~200"
+    },
+    "people": [
+      { "name": "Arlan Hamilton", "role": "Founder & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["underrepresented", "women-founders", "people-of-color", "LGBTQ", "diversity"],
+    "summary": {
+      "en": "Los Angeles fund founded 2015 by Arlan Hamilton (famously while homeless) to back founders who are people of color, women, and/or LGBTQ. It has invested roughly $20M into nearly 200 companies, with checks typically around $50K."
+    },
+    "sources": [
+      {
+        "url": "https://time.com/6155039/arlan-hamilton-crowdfunded-vc-firm/",
+        "title": "Arlan Hamilton Went From Homeless to Running $20 Million in VC Funds",
+        "publisher": "TIME",
+        "accessed": "2026-06-02",
+        "supports": "founder Arlan Hamilton, ~$20M, underrepresented focus",
+        "quote": "Arlan Hamilton Went From Homeless to Running $20 Million in VC Funds"
+      },
+      {
+        "url": "https://www.vcsheet.com/fund/backstage-capital",
+        "title": "Backstage Capital - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "check size, founded 2015, ~200 companies, focus",
+        "quote": "Backstage Capital is a fund that is dedicated to minimizing funding disparities in tech by investing in high-potential founders who are people of color, women, and/or LGBT"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund sizes reported variously ($20M invested across ~200 companies; a ~$30–36M raise has been referenced). Check size ~$25K–$100K. Founded 2015. Firm has scaled back active investing in recent years.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-serena-ventures",
+    "name": { "en": "Serena Ventures" },
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.serenaventures.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/serena-ventures",
+      "other": [
+        "https://impactalpha.com/serena-ventures-raises-111-million-to-back-diverse-founders-building-inclusive-solutions/",
+        "https://www.vcsheet.com/fund/serena-ventures"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I (inaugural institutional)", "vintage_year": 2022, "size": { "raw": "$111M", "usd": 111000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$100K–$500K", "usd_min": 100000, "usd_max": 500000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["consumer", "fintech", "healthtech", "saas-enterprise"],
+      "thesis": "Views the underfunding of women and founders of color as a market inefficiency; backs founders with diverse points of view building inclusive solutions."
+    },
+    "track_record": {
+      "portfolio_count": "85+",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Serena Williams", "role": "Founder & Managing Partner" },
+      { "name": "Alison Rapaport Stillman", "role": "Founding General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["women-founders", "founders-of-color", "diversity", "underrepresented"],
+    "summary": {
+      "en": "Founded in 2017 by Serena Williams and Alison Rapaport Stillman, Serena Ventures raised a $111M inaugural institutional fund in 2022 to back diverse founders. About three-quarters of its founders are women and people of color, across 85+ portfolio companies."
+    },
+    "sources": [
+      {
+        "url": "https://impactalpha.com/serena-ventures-raises-111-million-to-back-diverse-founders-building-inclusive-solutions/",
+        "title": "Serena Ventures raises $111 million to back diverse founders",
+        "publisher": "ImpactAlpha",
+        "accessed": "2026-06-02",
+        "supports": "$111M fund, diverse-founder focus",
+        "quote": "Serena Ventures raises $111 million to back diverse founders building inclusive solutions"
+      },
+      {
+        "url": "https://www.vcsheet.com/fund/serena-ventures",
+        "title": "Serena Ventures - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "founded 2017, founders, stages, portfolio count, three-quarters diverse"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "$111M inaugural institutional fund (2022) per ImpactAlpha. Founded 2017 (operated as personal angel vehicle from 2014). Check size and portfolio count from secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-fearless-fund",
+    "name": { "en": "Fearless Fund" },
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Atlanta",
+    "website": "https://www.fearless.fund/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/fearless-fund",
+      "other": [
+        "https://time.com/6554929/fearless-fund-lawsuit-arian-simone-ayana-parsons-interview/",
+        "https://www.npr.org/2024/09/11/nx-s1-5108729/fearless-fund-atlanta-grant-program-shut-down-lawsuit"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "$27M+ deployed", "usd": 27000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$250K–$500K", "usd_min": 250000, "usd_max": 500000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["consumer", "ecommerce", "healthtech"],
+      "thesis": "Built by women of color, for women of color: invests in women-of-color-led businesses; historically ran the Strivers Grant Contest (ended after a 2024 legal settlement)."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Slutty Vegan", "sector": "consumer", "outcome": "active" },
+        { "company": "The Lip Bar", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Arian Simone", "role": "Co-Founder & CEO" },
+      { "name": "Ayana Parsons", "role": "Co-Founder" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["women-of-color", "Black-women-founders", "diversity", "underrepresented"],
+    "summary": {
+      "en": "Atlanta fund launched in 2019 as the first VC firm built by women of color, for women of color. It has deployed $27M+ into companies like Slutty Vegan and The Lip Bar. Its $20K Strivers Grant Contest ended in 2024 after a discrimination lawsuit settlement; the firm has since announced a broader $200M fund/loan effort."
+    },
+    "sources": [
+      {
+        "url": "https://www.npr.org/2024/09/11/nx-s1-5108729/fearless-fund-atlanta-grant-program-shut-down-lawsuit",
+        "title": "A venture capital grant program for Black women officially ends after court ruling",
+        "publisher": "NPR",
+        "accessed": "2026-06-02",
+        "supports": "grant program ended, lawsuit, $20K grants",
+        "quote": "A venture capital grant program for Black women officially ends after court ruling"
+      },
+      {
+        "url": "https://time.com/6554929/fearless-fund-lawsuit-arian-simone-ayana-parsons-interview/",
+        "title": "The Fearless Fund Lawsuit Is About More Than Just This Case",
+        "publisher": "TIME",
+        "accessed": "2026-06-02",
+        "supports": "founded 2019, women of color, $27M+, portfolio, founders",
+        "quote": "deployed more than $27 million into companies like Slutty Vegan and The Lip Bar"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded 2019; $27M+ deployed per TIME. Notable 2023–24 discrimination lawsuit forced the end of its Black-women grant program (settled Sept 2024). New $200M fund/loan effort announced but figures not independently confirmed here.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-collab-capital",
+    "name": { "en": "Collab Capital" },
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Atlanta",
+    "website": "https://www.collab.capital/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/collab-capital",
+      "other": [
+        "https://techcrunch.com/2021/05/26/collab-capital-closes-50-million-debut-fund-for-black-founders/",
+        "https://www.collab.capital/about"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2021, "size": { "raw": "$50M", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500K–$750K", "usd_min": 500000, "usd_max": 750000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["impact", "saas-enterprise", "consumer", "healthtech"],
+      "thesis": "Backs Black founders building high-growth companies, using a proprietary 'SPACE' structure that blends equity with profit-sharing so founders can buy back equity over time."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Jewel Burks Solomon", "role": "Co-Founder & Managing Partner" },
+      { "name": "Justin Dawkins", "role": "Co-Founder & Managing Partner" },
+      { "name": "Barry Givens", "role": "Co-Founder & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["Black-founders", "diversity", "impact", "alternative-structure"],
+    "summary": {
+      "en": "Atlanta early-stage fund founded 2019 by Jewel Burks Solomon, Justin Dawkins and Barry Givens that backs Black founders. Its $50M debut fund (2021) uses a 'SPACE' structure blending equity with profit-share, writing $500K–$750K checks."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2021/05/26/collab-capital-closes-50-million-debut-fund-for-black-founders/",
+        "title": "Collab Capital closes $50 million debut fund to back Black founders",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund I $50M, Black founders, check size, SPACE structure",
+        "quote": "Collab Capital closes $50 million debut fund to back Black founders"
+      },
+      {
+        "url": "https://www.collab.capital/about",
+        "title": "About Collab Capital",
+        "publisher": "Collab Capital",
+        "accessed": "2026-06-02",
+        "supports": "founded 2019, founders, SPACE structure, Atlanta"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I $50M and Black-founder focus per TechCrunch; founded 2019. Check size $500K–$750K from coverage.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-chingona-ventures",
+    "name": { "en": "Chingona Ventures" },
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Chicago",
+    "website": "https://www.chingona.ventures/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/chingona-ventures",
+      "other": ["https://www.vcsheet.com/fund/chingona-ventures"]
+    },
+    "capital": {
+      "aum": { "raw": "$50M+", "usd": 50000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$250K–$1M", "usd_min": 250000, "usd_max": 1000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml", "fintech", "saas-enterprise", "healthtech"],
+      "thesis": "Latina-led pre-seed firm leading first institutional checks into tech-enabled companies, with emphasis on diverse founders (women and people of color) overlooked by Silicon Valley."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Samara Mejía Hernández", "role": "Founding Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["Latina-led", "women-founders", "diversity", "pre-seed"],
+    "summary": {
+      "en": "Chicago Latina-led pre-seed firm founded 2019 by Samara Mejía Hernández, with $50M+ under management. Leads first institutional checks ($250K–$1M) into tech-enabled companies, with emphasis on diverse and overlooked founders."
+    },
+    "sources": [
+      {
+        "url": "https://www.vcsheet.com/fund/chingona-ventures",
+        "title": "Chingona Ventures - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "$50M+ fund, founded 2019, check size, stages, Latina-led",
+        "quote": "Chingona Ventures is a Latina-led pre-seed firm with a $50M+ fund size, and it was founded by Samara Hernández in 2019"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "$50M+ fund size, founded 2019, check size $250K–$1M per VC Sheet (secondary). Latina-led, Chicago-based.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-vamos-ventures",
+    "name": { "en": "VamosVentures" },
+    "aka": ["Vamos Ventures"],
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Los Angeles",
+    "website": "https://vamosventures.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/vamosventures",
+      "other": ["https://www.vcsheet.com/fund/vamos-ventures"]
+    },
+    "capital": {
+      "aum": { "raw": "$50M", "usd": 50000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$250K–$1M (sweet spot ~$625K)", "usd_min": 250000, "usd_max": 1000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "fintech", "healthtech", "consumer"],
+      "thesis": "For-profit VC built 'by Latinos, for Latinos' targeting U.S.-based Hispanic and other underrepresented founders in tech-enabled sectors."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Marcos Gonzalez", "role": "Founder & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["Latinx", "Hispanic-founders", "diversity", "underrepresented"],
+    "summary": {
+      "en": "Los Angeles VC founded 2018 by Marcos Gonzalez, built 'by Latinos, for Latinos.' With a ~$50M fund it backs U.S. Hispanic and underrepresented founders at seed/Series A with checks of $250K–$1M."
+    },
+    "sources": [
+      {
+        "url": "https://www.vcsheet.com/fund/vamos-ventures",
+        "title": "Vamos Ventures - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "$50M fund, founded 2018, check size, Latino focus",
+        "quote": "Vamos Ventures has a current fund size of $50M ... founded by Marcos Gonzalez in 2018 ... typical check size is $750K"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "$50M fund, founded 2018, check sizes per VC Sheet (secondary). Latino-focused, LA-based.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-concrete-rose-capital",
+    "name": { "en": "Concrete Rose Capital" },
+    "aka": ["Westbound Equity Partners"],
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Palo Alto",
+    "website": "https://www.concreterose.co/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/concrete-rose-capital",
+      "other": [
+        "https://concreterose.medium.com/concrete-rose-capital-136625491cee",
+        "https://www.vcsheet.com/fund/concrete-rose-capital"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2020, "size": { "raw": "$25M", "usd": 25000000, "currency": "USD" } },
+        { "name": "Fund II (as Westbound)", "vintage_year": 2024, "size": { "raw": "$100M (target)", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$100K–$5M", "usd_min": 100000, "usd_max": 5000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["impact", "saas-enterprise", "fintech", "consumer"],
+      "thesis": "Invests in Black and Latino founders, companies serving underrepresented communities, and founders committed to building diverse teams; uses a 12-dimension rubric to counter pattern-matching bias and pledges a share of profits to community foundations."
+    },
+    "track_record": {
+      "portfolio_count": "40+",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Sean Mendy", "role": "Co-Founder & Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["Black-founders", "Latino-founders", "diversity", "impact", "underrepresented"],
+    "summary": {
+      "en": "Palo Alto fund founded 2019 (later rebranded Westbound Equity Partners) backing Black, Latino and diversity-focused founders. Its first $25M fund invested in 40+ startups; the firm has since raised toward a $100M Fund II and pledges a portion of profits to community foundations."
+    },
+    "sources": [
+      {
+        "url": "https://www.blackenterprise.com/westbound-equity-partners-fund/",
+        "title": "Westbound Equity Partners Creates $100M Fund For Black- and Diversity-Focused Founders",
+        "publisher": "Black Enterprise",
+        "accessed": "2026-06-02",
+        "supports": "$100M Fund II target, $25M Fund I, 40+ startups, Black/Latino focus",
+        "quote": "raising $100 million to focus on early-stage startup development for Black, Latino, and diversity-driven ... The firm previously invested in more than 40 startups with its first $25 million initiative fund"
+      },
+      {
+        "url": "https://www.vcsheet.com/fund/concrete-rose-capital",
+        "title": "Concrete Rose Capital - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "founded 2019, founders, check size, 12-dimension rubric"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund I $25M and Fund II $100M target per Black Enterprise. Founded 2019; rebranded to Westbound Equity Partners. Check size range from secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-mendoza-ventures",
+    "name": { "en": "Mendoza Ventures" },
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Boston",
+    "website": "https://mendoza-ventures.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/mendoza-ventures",
+      "other": [
+        "https://www.prnewswire.com/news-releases/mendoza-ventures-announces-a-first-close-on-its-100m-early-growth-fintech-fund-anchored-by-bank-of-america-301715133.html",
+        "https://www.vcsheet.com/fund/mendoza-ventures"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund III (early-growth fintech)", "vintage_year": 2023, "size": { "raw": "$100M (target)", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": "$500K–$5M", "usd_min": 500000, "usd_max": 5000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["fintech", "ai-ml", "cybersecurity"],
+      "thesis": "First Latinx-founded, women-owned VC on the U.S. East Coast; invests in fintech, AI and cybersecurity with a hands-on model, with ~70% of portfolio led by immigrants, people of color and women."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Senofer Mendoza", "role": "Co-Founder & General Partner" },
+      { "name": "Adrian Mendoza", "role": "Co-Founder & General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["Latinx", "women-owned", "diversity", "fintech", "underrepresented"],
+    "summary": {
+      "en": "Boston VC founded 2016 by Senofer and Adrian Mendoza, the first Latinx-founded, women-owned VC on the US East Coast. Its third fund targets $100M (anchored by Bank of America) for fintech, AI and cybersecurity; ~70% of its portfolio is led by immigrants, people of color and women."
+    },
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/mendoza-ventures-announces-a-first-close-on-its-100m-early-growth-fintech-fund-anchored-by-bank-of-america-301715133.html",
+        "title": "Mendoza Ventures announces a first close on its $100M early growth Fintech fund anchored by Bank of America",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-02",
+        "supports": "Fund III $100M target, BofA anchor, fintech focus",
+        "quote": "Mendoza Ventures announces a first close on its $100M early growth Fintech fund anchored by Bank of America"
+      },
+      {
+        "url": "https://www.vcsheet.com/fund/mendoza-ventures",
+        "title": "Mendoza Ventures - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "founded 2016, Latinx women-owned, 70% diverse portfolio, sectors"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund III $100M target (first close) per PR Newswire. Founded January 2016. Earlier fund sizes smaller and not separately captured. Check size from secondary source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-cleo-capital",
+    "name": { "en": "Cleo Capital" },
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.cleocap.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/cleo-capital",
+      "other": [
+        "https://techcrunch.com/2021/04/09/cleo-capital-is-targeting-20-million-for-fund-ii/",
+        "https://www.axios.com/sarah-kunst-cleo-capital-female-founders-dd51a365-59f5-4bfa-abbf-33ae3e169bb4.html"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund II (target)", "vintage_year": 2021, "size": { "raw": "up to $20M", "usd": 20000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$100K–$1M", "usd_min": 100000, "usd_max": 1000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "consumer", "climate-energy"],
+      "thesis": "Generalist pre-seed/seed fund backing diverse founders overlooked by traditional VC, with particular emphasis on female founders; runs a scout program to back female investors."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Sarah Kunst", "role": "Founder & Managing Director" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["women-founders", "diversity", "pre-seed", "scout-program"],
+    "summary": {
+      "en": "San Francisco pre-seed/seed fund founded 2018 by Sarah Kunst, often the first institutional check for diverse founders with an emphasis on women. Fund II targeted up to $20M; the firm also ran a scout program to back female investors."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2021/04/09/cleo-capital-is-targeting-20-million-for-fund-ii/",
+        "title": "Cleo Capital is targeting $20 million for Fund II",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund II target up to $20M",
+        "quote": "Cleo Capital is targeting $20 million for Fund II"
+      },
+      {
+        "url": "https://www.axios.com/sarah-kunst-cleo-capital-female-founders-dd51a365-59f5-4bfa-abbf-33ae3e169bb4.html",
+        "title": "Sarah Kunst forms Cleo Capital to seed female founders",
+        "publisher": "Axios",
+        "accessed": "2026-06-02",
+        "supports": "founded 2018, Sarah Kunst, female founders focus"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund II target up to $20M per TechCrunch; founded 2018 per Axios. Generalist with strong female-founder emphasis. Check size from secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-sogal-ventures",
+    "name": { "en": "SoGal Ventures" },
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York",
+    "website": "https://www.sogalventures.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/sogal-ventures",
+      "other": ["https://www.cnbc.com/2023/03/08/sogal-ventures-how-this-millennial-investor-is-breaking-vc-barriers.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2016, "size": { "raw": "$15M", "usd": 15000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$50K–$500K", "usd_min": 50000, "usd_max": 500000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Asia"],
+      "sector_focus": ["consumer", "healthtech", "saas-enterprise"],
+      "thesis": "Women-led millennial VC investing in diverse founding teams (women, founders of color, LGBTQ+), in undercapitalized geographies and underserved consumer/health/workplace problems."
+    },
+    "track_record": {
+      "portfolio_count": "150+",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Pocket Sun", "role": "Co-Founder & Managing Partner" },
+      { "name": "Elizabeth Galbut", "role": "Co-Founder & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["women-founders", "diversity", "LGBTQ", "millennial", "underrepresented"],
+    "summary": {
+      "en": "Women-led, US/Asia millennial VC founded 2016 by Pocket Sun and Elizabeth Galbut. Its first $15M fund invested in 42 companies; the firm has backed 150+ diverse-led early-stage startups across women, founders of color and LGBTQ+ founders."
+    },
+    "sources": [
+      {
+        "url": "https://www.cnbc.com/2023/03/08/sogal-ventures-how-this-millennial-investor-is-breaking-vc-barriers.html",
+        "title": "This millennial investor is breaking barriers in venture capital and betting on female founders",
+        "publisher": "CNBC",
+        "accessed": "2026-06-02",
+        "supports": "founders, female focus, diverse founders",
+        "quote": "betting on female founders"
+      },
+      {
+        "url": "https://f4.fund/firms/sogal-ventures",
+        "title": "SoGal Ventures — Investment Thesis & Preferences",
+        "publisher": "F4 Fund",
+        "accessed": "2026-06-02",
+        "supports": "founded 2016, $15M Fund I, 42 companies, stages, US/Asia",
+        "quote": "Its first $15 million fund was used to invest in 42 companies"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded 2016; $15M Fund I invested in 42 companies per secondary sources. 150+ portfolio per firm/press. Check size and stages from secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-lightship-capital",
+    "name": { "en": "Lightship Capital" },
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Cincinnati",
+    "website": "https://www.lightship.capital/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/lightship-capital",
+      "other": [
+        "https://techpoint.org/lightship-capital-expanding-in-indy/",
+        "https://afrotech.com/black-owned-vc-firm-closes-on-22m-fund-for-underrepresented-founders/"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2021, "size": { "raw": "$50M (target); ~$22M first close", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$100K–$10M", "usd_min": 100000, "usd_max": 10000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["consumer", "ecommerce", "ai-ml", "healthtech", "climate-energy"],
+      "thesis": "Backs underrepresented founders building in underserved ecosystems across the Midwest (the 'Mighty Middle'), in CPG, e-commerce, sustainability, AI and healthcare."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Candice Matthews Brackeen", "role": "General Partner" },
+      { "name": "Brian Brackeen", "role": "General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["underrepresented", "Black-led", "Midwest", "diversity", "women-founders"],
+    "summary": {
+      "en": "Cincinnati Black-owned VC founded 2020 by Candice Matthews Brackeen and Brian Brackeen, backing underrepresented founders in underserved Midwest ecosystems. Its fund targeted $50M (one of the largest raised by a Black woman in the US) across CPG, e-commerce, AI, sustainability and healthcare."
+    },
+    "sources": [
+      {
+        "url": "https://techpoint.org/lightship-capital-expanding-in-indy/",
+        "title": "Minority founded $50M VC fund focusing on underrepresented founders and regions",
+        "publisher": "TechPoint",
+        "accessed": "2026-06-02",
+        "supports": "$50M fund, launched 2020, sectors, underrepresented founders",
+        "quote": "Launched in 2020, Lightship Capital is raising a $50MM for investment into underrepresented founders operating in the CPG, E-Commerce, Sustainability, Artificial Intelligence, and Healthcare spaces"
+      },
+      {
+        "url": "https://afrotech.com/black-owned-vc-firm-closes-on-22m-fund-for-underrepresented-founders/",
+        "title": "Black-Owned VC Firm Closes On $22M Fund For Underrepresented Founders",
+        "publisher": "AfroTech",
+        "accessed": "2026-06-02",
+        "supports": "~$22M first close",
+        "quote": "Black-Owned VC Firm Closes On $22M Fund For Underrepresented Founders"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund targeted $50M; ~$22M first close per AfroTech. Founded 2020. Check size range and sectors per TechPoint. Largest-ever VC fund raised by a Black woman claim from press.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-better-ventures",
+    "name": { "en": "Better Ventures" },
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Oakland",
+    "website": "https://www.better.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/better-ventures",
+      "other": [
+        "https://impactalpha.com/better-ventures-closes-32-million-fund-to-spur-early-impact-tech/",
+        "https://www.betterventures.io/"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "$100M+ AUM", "usd": 100000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund IV", "vintage_year": 2021, "size": { "raw": "$113M", "usd": 113000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["impact", "climate-energy", "healthtech", "saas-enterprise"],
+      "thesis": "Backs mission-driven B2B technology startups building a better world, focused on data-driven climate and equitable healthcare solutions; one of the original impact-focused VC firms."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Rick Moss", "role": "Co-Founder & Managing Partner" },
+      { "name": "Wes Selke", "role": "Co-Founder & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["impact", "climate", "healthtech", "ESG", "mission-driven"],
+    "summary": {
+      "en": "Oakland impact VC founded 2011, one of the original firms backing technology companies building a better world. Manages $100M+ AUM and closed a $113M Fund IV in November 2021 focused on data-driven climate and equitable healthcare."
+    },
+    "sources": [
+      {
+        "url": "https://impactalpha.com/better-ventures-closes-32-million-fund-to-spur-early-impact-tech/",
+        "title": "Better Ventures closes $32 million fund to spur early impact tech",
+        "publisher": "ImpactAlpha",
+        "accessed": "2026-06-02",
+        "supports": "impact focus, early-stage",
+        "quote": "Better Ventures closes ... fund to spur early impact tech"
+      },
+      {
+        "url": "https://www.vcsheet.com/fund/better-ventures",
+        "title": "Better Ventures - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "founded 2011, $100M+ AUM, Fund IV $113M, climate/healthcare",
+        "quote": "Founded in 2011 ... closed its fourth flagship fund in November 2021 with $113 million in capital commitments"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded 2011; Fund IV $113M and $100M+ AUM per VC Sheet (secondary). Check size undisclosed. Earlier $32M fund referenced by ImpactAlpha.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-reach-capital",
+    "name": { "en": "Reach Capital" },
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.reachcapital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/reach-capital",
+      "other": [
+        "https://www.reachcapital.com/resources/news/announcing-reach-iv-our-new-215m-core-fund-and-our-first-founders-fund/",
+        "https://techcrunch.com/2023/04/10/in-edtech-history-matters-reach-capital-just-closed-its-largest-fund-to-date/"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "$570M total raised", "usd": 570000000, "currency": "USD" },
+      "funds": [
+        { "name": "Reach III", "vintage_year": 2020, "size": { "raw": "$165M", "usd": 165000000, "currency": "USD" } },
+        { "name": "Reach IV (core)", "vintage_year": 2023, "size": { "raw": "$215M", "usd": 215000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["edtech", "impact", "healthtech", "saas-enterprise"],
+      "thesis": "Invests in technologies that expand access to opportunity through education, economic mobility, health and work — an impact thesis centered on equitable access and outcomes."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Jennifer Carolan", "role": "Co-Founder & General Partner" },
+      { "name": "Shauntel Garvey", "role": "Co-Founder & General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["impact", "edtech", "economic-mobility", "access"],
+    "summary": {
+      "en": "San Francisco impact-oriented edtech VC founded 2015 by Jennifer Carolan and Shauntel Garvey. It invests in technologies expanding access through education, health and work, with $570M raised in total including a $215M Reach IV core fund (2023)."
+    },
+    "sources": [
+      {
+        "url": "https://www.reachcapital.com/resources/news/announcing-reach-iv-our-new-215m-core-fund-and-our-first-founders-fund/",
+        "title": "Announcing Reach IV, Our New $215M Core Fund",
+        "publisher": "Reach Capital",
+        "accessed": "2026-06-02",
+        "supports": "Reach IV $215M, $570M total, access/education thesis",
+        "quote": "Announcing Reach IV, Our New $215M Core Fund"
+      },
+      {
+        "url": "https://www.reachcapital.com/resources/news/launching-reach-capital-iii-165m-early-stage-education-technology-fund/",
+        "title": "Launching Reach Capital III, $165M Early Stage Education Technology Fund",
+        "publisher": "Reach Capital",
+        "accessed": "2026-06-02",
+        "supports": "Reach III $165M",
+        "quote": "Launching Reach Capital III, $165M Early Stage Education Technology Fund"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Reach III $165M and Reach IV $215M, $570M total per firm posts. Founded 2015 (spun out of NewSchools Venture Fund). Impact thesis on access/mobility. Check size undisclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-sb-opportunity-fund",
+    "name": { "en": "SB Opportunity Fund" },
+    "aka": ["SoftBank Opportunity Fund"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Miami",
+    "website": "https://www.opportunity.fund/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/sb-opportunity-fund",
+      "other": [
+        "https://www.businesswire.com/news/home/20220314005629/en/SoftBank-Groups-SB-Opportunity-Fund-to-Continue-Investing-in-Underrepresented-Founders-as-an-Evergreen-Fund-Following-First-$100M",
+        "https://techcrunch.com/2022/03/14/softbank-opportunity-evergreen-fund/"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "SB Opportunity Fund (initial)", "vintage_year": 2020, "size": { "raw": "$100M", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["fintech", "healthtech", "saas-enterprise", "web3-crypto"],
+      "thesis": "SoftBank Group's evergreen fund investing in technology companies founded by Black, Latinx and Native American entrepreneurs in the U.S."
+    },
+    "track_record": {
+      "portfolio_count": "70+",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["Black-founders", "Latinx", "Native-American", "diversity", "corporate-vc", "underrepresented"],
+    "summary": {
+      "en": "Launched by SoftBank Group in June 2020 with $100M to back Black, Latinx and Native American technology founders in the US. After fully deploying its first $100M across 70+ companies (including four unicorns), it became an evergreen fund in 2022."
+    },
+    "sources": [
+      {
+        "url": "https://www.businesswire.com/news/home/20220314005629/en/SoftBank-Groups-SB-Opportunity-Fund-to-Continue-Investing-in-Underrepresented-Founders-as-an-Evergreen-Fund-Following-First-$100M",
+        "title": "SoftBank Group's SB Opportunity Fund to Continue Investing in Underrepresented Founders as an Evergreen Fund Following First $100M",
+        "publisher": "Business Wire",
+        "accessed": "2026-06-02",
+        "supports": "$100M launch June 2020, 70+ companies, evergreen, Black/Latinx/Native American",
+        "quote": "The Fund was launched with $100 million in June 2020 ... deployed in more than 70 companies founded by Black and Latinx founders in the U.S."
+      },
+      {
+        "url": "https://techcrunch.com/2022/03/14/softbank-opportunity-evergreen-fund/",
+        "title": "SoftBank's $100 million diversity fund goes 'evergreen'",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "evergreen status, $100M, diversity fund",
+        "quote": "SoftBank's $100 million diversity fund goes 'evergreen'"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "$100M launch (June 2020), 70+ companies, four unicorns, evergreen since 2022 per Business Wire. Classed as CVC (SoftBank Group corporate vehicle). Check size undisclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-l-attitude-ventures",
+    "name": { "en": "L'ATTITUDE Ventures" },
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Diego",
+    "website": "https://www.lattitude.net/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/l-attitude-ventures",
+      "other": ["https://www.vcsheet.com/fund/lattitude-ventures"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2022, "size": { "raw": "$100M (target)", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$200K–$2M", "usd_min": 200000, "usd_max": 2000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "fintech", "consumer", "healthtech"],
+      "thesis": "Early-stage fund investing exclusively in U.S. Latino/Latina-owned companies, addressing the funding gap for the US Latino cohort."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Sol Trujillo", "role": "Co-Founder & Chairman" },
+      { "name": "Laura Moreno Lucas", "role": "Co-Founder & Managing General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["Latino", "Latina", "Hispanic-founders", "diversity", "underrepresented"],
+    "summary": {
+      "en": "San Diego early-stage VC investing exclusively in US Latino/Latina-owned companies, founded ~2021 around the L'ATTITUDE platform. It writes $200K–$2M checks at pre-seed through Series A."
+    },
+    "sources": [
+      {
+        "url": "https://www.vcsheet.com/fund/lattitude-ventures",
+        "title": "L'ATTITUDE Ventures - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "Latino focus, check size, stages",
+        "quote": "L'ATTITUDE Ventures - Early-stage investor focusing exclusively on Latina(o)-owned companies ... $200K-$2M checks"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Latino-exclusive focus and $200K–$2M check size per VC Sheet (secondary). Fund I $100M target and founding year ~2021 not independently confirmed from a primary source here.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-gaingels",
+    "name": { "en": "Gaingels" },
+    "type": "angel-syndicate",
+    "subtypes": ["angel-network"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Burlington",
+    "website": "https://www.gaingels.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/gaingels",
+      "other": ["https://www.vcsheet.com/sheet/funds-focused-on-under-represented-founders"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b"],
+      "check_size": { "raw": "$200K–$500K", "usd_min": 200000, "usd_max": 500000 },
+      "lead_or_follow": "follow",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "fintech", "consumer"],
+      "thesis": "Community-first LGBTQIA+ and allies investment syndicate of thousands of members that co-invests alongside lead investors to add diverse capital and an inclusion mandate to cap tables."
+    },
+    "track_record": {
+      "portfolio_count": "many"
+    },
+    "people": [
+      { "name": "Lorenzo Thione", "role": "Managing Director" },
+      { "name": "David Beatty", "role": "Co-Founder" },
+      { "name": "Paul Grossinger", "role": "Co-Founder" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["LGBTQ", "syndicate", "diversity", "inclusion", "co-invest"],
+    "summary": {
+      "en": "Gaingels is a large LGBTQIA+/allies investment syndicate (4,000+ members) founded 2014 that co-invests alongside lead investors to bring diverse capital and an inclusion mandate to cap tables, with typical checks of $200K–$500K."
+    },
+    "sources": [
+      {
+        "url": "https://www.vcsheet.com/sheet/funds-focused-on-under-represented-founders",
+        "title": "Funds backing under-represented founders — Curated VC Funds",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "LGBTQ syndicate, 4,000+ members, check size",
+        "quote": "Gaingels - Community-first LGBTQIA+/Allies syndicate of 4,000+ members. Pre-Seed to Series A, $200K-$500K checks"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "LGBTQIA+ allies syndicate, 4,000+ members, $200K–$500K checks per VC Sheet (secondary). Founded ~2014. Aggregate capital deployed not captured.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-debut-capital",
+    "name": { "en": "Debut Capital" },
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York",
+    "website": "https://www.debut.capital/",
+    "links": {
+      "other": ["https://www.vcsheet.com/sheet/funds-focused-on-under-represented-founders"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$25K–$5M", "usd_min": 25000, "usd_max": 5000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["consumer", "saas-enterprise", "fintech"],
+      "thesis": "Pre-seed and seed fund backing underrepresented founders — Black, Latinx and Indigenous entrepreneurs — across consumer and B2B."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Rodney Sampson", "role": "General Partner" },
+      { "name": "Tehmina Haider", "role": "General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["Black-founders", "Latinx", "Indigenous", "diversity", "underrepresented"],
+    "summary": {
+      "en": "Pre-seed/seed fund backing Black, Latinx and Indigenous founders across consumer and B2B, with checks ranging from $25K to $5M."
+    },
+    "sources": [
+      {
+        "url": "https://www.vcsheet.com/sheet/funds-focused-on-under-represented-founders",
+        "title": "Funds backing under-represented founders — Curated VC Funds",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "Black/Latinx/Indigenous focus, check size, stages",
+        "quote": "Debut Capital - Focused on Black, Latinx, and Indigenous founders. Pre-Seed to Series A, $25K-$5M checks"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Focus (Black/Latinx/Indigenous) and check size $25K–$5M per VC Sheet (single secondary source). Fund size and founding year not independently confirmed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-overlooked-ventures",
+    "name": { "en": "Overlooked Ventures" },
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Columbus",
+    "website": "https://www.overlooked.vc/",
+    "links": {
+      "other": ["https://www.vcsheet.com/sheet/funds-focused-on-under-represented-founders"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$150K–$250K", "usd_min": 150000, "usd_max": 250000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "fintech"],
+      "thesis": "Invests in companies founded by historically overlooked founders, providing early capital to underrepresented entrepreneurs."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Janine Sickmeyer", "role": "Co-Founder & General Partner" },
+      { "name": "Brandon Brooks", "role": "Co-Founder & General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["underrepresented", "diversity", "overlooked-founders", "pre-seed"],
+    "summary": {
+      "en": "Columbus, Ohio pre-seed/seed fund backing historically overlooked founders, writing $150K–$250K checks."
+    },
+    "sources": [
+      {
+        "url": "https://www.vcsheet.com/sheet/funds-focused-on-under-represented-founders",
+        "title": "Funds backing under-represented founders — Curated VC Funds",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "overlooked-founder focus, check size",
+        "quote": "Overlooked Ventures - Specializes in companies founded by historically overlooked founders ... $150K-$250K checks"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Focus and check size $150K–$250K per VC Sheet (single secondary source). Fund size and founding year not independently confirmed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-wocstar-fund",
+    "name": { "en": "WOCstar Fund" },
+    "aka": ["Women of Color Star Fund"],
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York",
+    "website": "https://www.wocstar.com/",
+    "links": {
+      "other": ["https://www.vcsheet.com/sheet/funds-focused-on-under-represented-founders"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$50K–$1M", "usd_min": 50000, "usd_max": 1000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["consumer", "saas-enterprise", "fintech"],
+      "thesis": "Builder-focused investor backing women-of-color-led founding teams and diverse companies building the 'New Majority' economy."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Gayle Jennings-O'Byrne", "role": "Co-Founder & General Partner" },
+      { "name": "Pialy Aditya", "role": "Co-Founder & General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["women-of-color", "diversity", "underrepresented", "women-founders"],
+    "summary": {
+      "en": "New York fund backing women-of-color founders and diverse teams, founded 2018 by Gayle Jennings-O'Byrne and Pialy Aditya, writing $50K–$1M checks."
+    },
+    "sources": [
+      {
+        "url": "https://www.vcsheet.com/sheet/funds-focused-on-under-represented-founders",
+        "title": "Funds backing under-represented founders — Curated VC Funds",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "women of color focus, check size",
+        "quote": "WOCstar Fund - Builder-focused investor for women of color founders. Pre-Seed to Series A, $50K-$1M checks"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Women-of-color focus and check size $50K–$1M per VC Sheet (single secondary source). Fund size and founding year not independently confirmed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  },
+  {
+    "id": "us-new-age-capital",
+    "name": { "en": "New Age Capital" },
+    "type": "vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York",
+    "website": "https://www.newage.capital/",
+    "links": {
+      "other": ["https://www.businessofbusiness.com/amp/articles/vcs-women-black-latinx-and-lgbtq-founders/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "consumer", "fintech"],
+      "thesis": "Thesis-driven seed-stage firm investing in tech and tech-enabled startups founded and led by Black and Latino entrepreneurs."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Carlos Castellanos", "role": "Co-Founder & Partner" },
+      { "name": "Robert Davis", "role": "Co-Founder & Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["Black-founders", "Latino-founders", "diversity", "seed", "underrepresented"],
+    "summary": {
+      "en": "New York thesis-driven seed firm investing in tech and tech-enabled startups founded and led by Black and Latino entrepreneurs."
+    },
+    "sources": [
+      {
+        "url": "https://www.businessofbusiness.com/amp/articles/vcs-women-black-latinx-and-lgbtq-founders/",
+        "title": "23 VCs looking to fund women, Black, Latin and LGBTQ founders",
+        "publisher": "The Business of Business",
+        "accessed": "2026-06-02",
+        "supports": "Black and Latino founder focus, seed stage",
+        "quote": "New Age Capital is a thesis-driven seed stage venture capital firm that invests in tech and tech-enabled startups founded and led by the most promising Black and Latino entrepreneurs"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Black/Latino seed focus per The Business of Business (single secondary source). Fund size, check size and founding year not independently confirmed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "impact-diversity-vc"
+  }
+]

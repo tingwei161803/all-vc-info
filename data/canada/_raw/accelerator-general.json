@@ -1,0 +1,922 @@
+[
+  {
+    "id": "ca-founderfuel",
+    "name": { "en": "FounderFuel" },
+    "aka": ["FounderFuel Accelerator"],
+    "type": "accelerator",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://founderfuel.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/founderfuel",
+      "linkedin": "https://ca.linkedin.com/company/founderfuel",
+      "other": ["https://realventures.com/founderfuel-is-back/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "CA$120K per company", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Canada"],
+      "sector_focus": ["generalist"],
+      "thesis": "Canada's leading generalist venture accelerator, powered by Real Ventures in partnership with Panache Ventures and Inovia Capital; intensive four-month cohort program culminating in a large Montreal demo day."
+    },
+    "program": {
+      "length_weeks": 16,
+      "cohort_size": 8,
+      "batches_per_year": 1,
+      "equity_taken_pct": "5",
+      "investment": { "raw": "CA$120,000 (CA$100K SAFE with 20% discount and CA$4M post-money cap + CA$20K equity investment for 5%)", "usd": null, "currency": "CAD" },
+      "format": "in-person",
+      "location": "Notman House, Montreal",
+      "demo_day": true,
+      "application_url": "https://founderfuel.com/",
+      "application_cycles": ["annual cohort; 2023 applications closed March 12, 2023"],
+      "acceptance_rate": null,
+      "eligibility": "Early-stage (pre-seed/seed) technology startups"
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "notable_investments": [
+        { "company": "Mejuri", "sector": "ecommerce", "outcome": "active" },
+        { "company": "BenchSci", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Sonder", "sector": "proptech", "outcome": "IPO" },
+        { "company": "Transit", "sector": "mobility", "outcome": "active" },
+        { "company": "Unsplash", "sector": "consumer", "outcome": "acquired" },
+        { "company": "Paper", "sector": "edtech", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply online via founderfuel.com when the annual cohort cycle opens",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["accelerator", "general", "cash-for-equity", "demo-day"],
+    "summary": {
+      "en": "Montreal-based generalist accelerator (est. 2011, relaunched 2023) powered by Real Ventures with Panache Ventures and Inovia Capital. Invests CA$120K per company (CA$100K SAFE + CA$20K for 5% equity) over a four-month cohort program with a major demo day. Alumni include Mejuri, BenchSci, Sonder, Transit, Unsplash and Paper.",
+      "local": "Accélérateur généraliste basé à Montréal (fondé en 2011, relancé en 2023), propulsé par Real Ventures avec Panache Ventures et Inovia Capital. Investit 120 000 $ CA par entreprise (SAFE de 100 000 $ + 20 000 $ pour 5 % d'équité) lors d'un programme de cohorte de quatre mois avec un grand demo day."
+    },
+    "sources": [
+      {
+        "url": "https://founderfuel.com/about/",
+        "title": "About - FounderFuel",
+        "publisher": "FounderFuel",
+        "accessed": "2026-06-02",
+        "supports": "investment amount, equity %, program length, cohort size, founded year, HQ, partners, portfolio metrics",
+        "quote": "FounderFuel invests $120K CAD into each company ... $100K SAFE with a 20% discount and a post-money valuation cap of $4M, as well as a $20K equity investment for 5% ... Our target cohort size is 8 companies for our 2023 program"
+      },
+      {
+        "url": "https://betakit.com/real-ventures-partners-with-panache-inovia-to-relaunch-founderfuel-accelerator/",
+        "title": "Real Ventures partners with Panache, Inovia to relaunch FounderFuel accelerator",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "$120K investment, four-month program, eight startups, partners, demo day",
+        "quote": "Real Ventures, Panache Ventures, and Inovia Capital collectively making $120,000 CAD investments in each participating firm ... FounderFuel plans to admit eight startups to the four-month 2023 program ... Demo Day is slated for July 11 in Montréal"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded year (2011) and partners confirmed across BetaKit and Real Ventures. A secondary directory (Failory) incorrectly lists HQ as Ottawa; primary sources confirm Montreal (Notman House). Cohort cadence has been roughly annual since the 2023 relaunch.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "ca-techstars-toronto",
+    "name": { "en": "Techstars Toronto Accelerator" },
+    "aka": ["Techstars Toronto"],
+    "type": "accelerator",
+    "status": "dormant",
+    "founded_year": 2017,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.techstars.com/programs/toronto-program/",
+    "links": {
+      "other": ["https://www.techstars.com/portfolio?program_names=Techstars+Toronto+Accelerator"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "US$220,000 (~CA$305,000) for 6%", "usd_min": 220000, "usd_max": 220000 },
+      "geo_focus": ["Canada", "Global"],
+      "sector_focus": ["generalist"],
+      "thesis": "Local arm of the global Techstars network running a three-month, mentorship-driven, cash-for-equity accelerator with a demo day; relaunching after a hiatus."
+    },
+    "program": {
+      "length_weeks": 13,
+      "cohort_size": "up to ~24",
+      "batches_per_year": 1,
+      "equity_taken_pct": "6",
+      "investment": { "raw": "US$220,000 (increased from US$120,000); ~CA$305,000", "usd": 220000, "currency": "USD" },
+      "format": "in-person",
+      "location": "Toronto",
+      "demo_day": true,
+      "application_url": "https://www.techstars.com/programs/toronto-program/",
+      "application_cycles": ["paused; first new cohort expected mid-to-late 2026"],
+      "acceptance_rate": null,
+      "eligibility": "Early-stage technology startups (Canadian and international)"
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Applications via Techstars when the relaunched Toronto program reopens",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["accelerator", "general", "cash-for-equity", "demo-day", "techstars"],
+    "summary": {
+      "en": "Toronto arm of the global Techstars accelerator network (launched 2017). Runs a three-month mentorship-driven cohort program investing roughly US$220,000 (CA$305,000) for 6% equity. Celebrated its 100th direct investment in 2023; program paused and relaunching, with a first new cohort expected mid-to-late 2026."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/two-years-after-its-toronto-accelerator-went-dark-techstars-is-staffing-up-to-bring-it-back/",
+        "title": "Two years after going dark, Techstars is bringing back its Toronto accelerator",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "investment increase to US$220K, three-month program, 2017 launch, 100 investments, relaunch status",
+        "quote": "Techstars increased its typical investment amount from $120,000 USD to [$220,000 USD] ... Techstars offers three-month accelerator programming for startups ... Since its launch in 2017, Techstars Toronto has supported and backed ... In 2023, it celebrated 100 direct investments into Canadian and international companies"
+      },
+      {
+        "url": "https://www.techstars.com/programs/toronto-program/",
+        "title": "Techstars Toronto Program",
+        "publisher": "Techstars",
+        "accessed": "2026-06-02",
+        "supports": "program existence, location, 6% equity standard terms",
+        "quote": "Techstars Toronto Accelerator"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Investment amount and 6% equity are Techstars' global standard terms; the US$220K figure is the network-wide increase reported by BetaKit. Program is currently paused (status dormant) pending a managing director hire and fund formation; cohort size of ~24 reflects the 2023 record cohort.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "ca-next-canada",
+    "name": { "en": "NEXT Canada" },
+    "aka": ["The Next 36", "NextAI", "Next AI", "Next Founders", "Next 36"],
+    "type": "accelerator",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.nextcanada.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/the-next-36",
+      "linkedin": "https://ca.linkedin.com/company/nextcanada"
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "Next AI: up to CA$25K (CA$2M cap SAFE) + up to CA$100K follow-on (CA$4M cap SAFE); Next 36: up to CA$50K seed capital", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Canada"],
+      "sector_focus": ["generalist", "ai-ml"],
+      "thesis": "National non-profit charity running multiple cohort accelerators (Next 36 for student/young founders, Next Founders for scaling founders, Next AI for AI ventures) providing mentorship, capital and investor access."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": "Next 36: 36 entrepreneurs",
+      "batches_per_year": 1,
+      "equity_taken_pct": "0 (Next 36 equity requirement removed Sept 2025; Next Founders takes none)",
+      "investment": { "raw": "Next AI: up to CA$25,000 on CA$2M cap SAFE plus up to CA$100,000 follow-on on CA$4M cap SAFE; Next 36: up to CA$50,000 seed capital", "usd": null, "currency": "CAD" },
+      "format": "hybrid",
+      "location": "Toronto and Montreal",
+      "demo_day": true,
+      "application_url": "https://www.nextcanada.com/",
+      "application_cycles": ["Next 36: Jan–Aug; Next Founders: starts early May; Next AI: ~7 months, two concurrent cohorts"],
+      "acceptance_rate": null,
+      "eligibility": "Next 36: undergrads, masters students and recent grads from Canadian schools; Next Founders: scaling founders with traction/revenue; Next AI: AI ventures"
+    },
+    "track_record": {
+      "portfolio_count": "450+ ventures across all programs",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to the relevant program (Next 36, Next Founders, Next AI) at nextcanada.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["accelerator", "general", "non-profit", "demo-day", "ai"],
+    "summary": {
+      "en": "National non-profit charity (founded 2010 as The Next 36) running three cohort accelerators: Next 36 for student/recent-grad founders (up to CA$50K seed; equity requirement removed Sept 2025), Next Founders (no equity) for scaling founders, and Next AI (up to CA$25K + up to CA$100K follow-on via SAFEs) in Toronto and Montreal. Alumni have launched 450+ ventures raising over CA$2B."
+    },
+    "sources": [
+      {
+        "url": "https://www.nextcanada.com/next-36/",
+        "title": "Next 36 - A NEXT Canada Program",
+        "publisher": "NEXT Canada",
+        "accessed": "2026-06-02",
+        "supports": "Next 36 program structure (Jan-Aug), 36 entrepreneurs, no fee, equity requirement removed Sept 2025",
+        "quote": "As of September 2025, the 2.5% equity requirement to participate in the NEXT 36 program has been removed ... There is no fee to participate in Next 36 ... Next 36 accepts undergrads, masters students and recent grads from schools across Canada"
+      },
+      {
+        "url": "https://www.nextcanada.com/next-ai/",
+        "title": "NEXT AI - A NEXT Canada Program",
+        "publisher": "NEXT Canada",
+        "accessed": "2026-06-02",
+        "supports": "Next AI investment terms, 7-month length, Toronto/Montreal locations, two cohorts",
+        "quote": "Companies that are selected for Next AI's Toronto location can get up to $25,000 in venture funding on a $2 million cap post-money SAFE and are eligible for up to an additional $100,000 in follow-on investment on a $4 million cap post-money SAFE. The program runs two concurrent cohorts per year over the course of seven months"
+      },
+      {
+        "url": "https://www.nextcanada.com/next-founders/",
+        "title": "NEXT Founders - A NEXT Canada Program",
+        "publisher": "NEXT Canada",
+        "accessed": "2026-06-02",
+        "supports": "Next Founders takes no equity, starts early May, scaling founders",
+        "quote": "Next Founders takes no equity in your venture ... Next Founders program starts the week of May 5th"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Equity figures from search reflected pre-Sept 2025 terms; the primary Next 36 page confirms the 2.5% equity requirement was removed September 2025. The 450+ ventures / CA$2B raised figures are NEXT Canada's self-reported aggregate across all programs. Next AI is AI-specific; Next 36/Next Founders are generalist.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "ca-creative-destruction-lab",
+    "name": { "en": "Creative Destruction Lab" },
+    "aka": ["CDL"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://creativedestructionlab.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/creative-destruction-lab",
+      "linkedin": "https://ca.linkedin.com/school/creative-destruction-lab/"
+    },
+    "offices": [
+      { "country": "Canada", "city": "Toronto" },
+      { "country": "Canada", "city": "Vancouver" },
+      { "country": "Canada", "city": "Montreal" },
+      { "country": "Canada", "city": "Calgary" },
+      { "country": "Canada", "city": "Halifax" }
+    ],
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "No direct investment (no equity, no fee)", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Canada", "Global"],
+      "sector_focus": ["generalist", "deeptech", "ai-ml"],
+      "thesis": "Non-profit, objectives-based mentoring program for massively scalable, seed-stage, science- and technology-based companies; takes no equity and charges no fee, organized into specialized streams."
+    },
+    "program": {
+      "length_weeks": 36,
+      "cohort_size": null,
+      "batches_per_year": 1,
+      "equity_taken_pct": "0",
+      "investment": { "raw": "none (no equity, no fee)", "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Five Canadian sites: Toronto, Vancouver, Montreal, Calgary, Halifax",
+      "demo_day": true,
+      "application_url": "https://creativedestructionlab.com/",
+      "application_cycles": ["annual; 9-month program"],
+      "acceptance_rate": null,
+      "eligibility": "Massively scalable, seed-stage, science- and technology-based companies"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Ajay Agrawal", "role": "Founder" }
+    ],
+    "application": {
+      "how_to_apply": "Apply to a specific CDL stream/site at creativedestructionlab.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["accelerator", "general", "no-equity", "deeptech", "science"],
+    "summary": {
+      "en": "Non-profit, objectives-based accelerator founded in 2012 at the University of Toronto's Rotman School of Management by Ajay Agrawal. Runs a nine-month program across five Canadian sites (Toronto, Vancouver, Montreal, Calgary, Halifax) and 16 locations globally, organized into 20+ science/tech streams. Takes no equity and charges no fee."
+    },
+    "sources": [
+      {
+        "url": "https://creativedestructionlab.com/",
+        "title": "Home - Creative Destruction Lab",
+        "publisher": "Creative Destruction Lab",
+        "accessed": "2026-06-02",
+        "supports": "founded 2012, Rotman/UofT, 9-month program, streams, Canadian locations, global reach",
+        "quote": "a nonprofit organization that delivers an objectives-based program for massively scalable, seed-stage, science- and technology-based companies ... 16 locations globally ... Founded: 2012 at the Rotman School of Management, University of Toronto"
+      },
+      {
+        "url": "https://hellodarwin.com/business-aid/organizations/creative-destruction-lab",
+        "title": "Creative Destruction Lab (CDL) Funding Programs",
+        "publisher": "helloDarwin",
+        "accessed": "2026-06-02",
+        "supports": "no-fee/no-equity model, nine-month program, founder Ajay Agrawal, five Canadian sites",
+        "quote": "no-fee/no-equity organization that delivers an objectives-based mentoring program ... Its nine-month program ... Founded in 2012 by Professor Ajay Agrawal at the University of Toronto's Rotman School of Management ... CDL now operates five sites in Canada"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "CDL is generalist in that it spans 20+ science/tech streams but is explicitly science/technology and deep-tech oriented, not consumer-broad. Takes no equity, so it is cohort-based but not cash-for-equity. Founder Ajay Agrawal confirmed via helloDarwin secondary source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "ca-dmz",
+    "name": { "en": "DMZ" },
+    "aka": ["Digital Media Zone", "DMZ Toronto Metropolitan University"],
+    "type": "incubator",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://dmz.torontomu.ca/",
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/The_DMZ_(Toronto_Metropolitan_University)"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "No direct fund investment in core programs (DMZ Ventures is a separate fund)", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Canada"],
+      "sector_focus": ["generalist"],
+      "thesis": "University-based tech incubator/accelerator at Toronto Metropolitan University offering staged programs (pre-incubator, incubator); pre-incubator takes a small 2% equity stake in lieu of fees."
+    },
+    "program": {
+      "length_weeks": 36,
+      "cohort_size": null,
+      "batches_per_year": 2,
+      "equity_taken_pct": "2 (Pre-Incubator)",
+      "investment": { "raw": "no cash; Pre-Incubator takes 2.0% equity for program access, $500K+ in tech credits/resources", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "DMZ HQ, Toronto",
+      "demo_day": true,
+      "perks": ["$500K+ in tech credits, discounts and resources", "workspace", "1:1 coaching", "pitch opportunities"],
+      "application_url": "https://dmz.torontomu.ca/",
+      "application_cycles": ["two intakes annually"],
+      "acceptance_rate": null,
+      "eligibility": "Tech-driven, scalable startups at MVP stage with at least one full-time founder and in-house technical lead"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to a DMZ program (Pre-Incubator / Incubator) at dmz.torontomu.ca",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["accelerator", "incubator", "general", "university", "demo-day"],
+    "summary": {
+      "en": "Toronto Metropolitan University's tech incubator/accelerator, launched in 2010 as the Digital Media Zone and rebranded DMZ in 2015. Ranked the #1 university-based business incubator globally by UBI Global (2018). Offers staged generalist programs; the 9-month Pre-Incubator takes a 2.0% common-share equity stake (no fees, no board seats) with two intakes annually and $500K+ in tech credits."
+    },
+    "sources": [
+      {
+        "url": "https://dmz.torontomu.ca/pre-incubator",
+        "title": "DMZ Startup Pre-Incubator",
+        "publisher": "DMZ / Toronto Metropolitan University",
+        "accessed": "2026-06-02",
+        "supports": "2% equity, 9-month program, two intakes/year, perks, eligibility",
+        "quote": "we don't charge fees, we don't take board seats ... a 2.0% equity stake in common shares ... A 9-month program to close sales and build real traction ... Two intakes annually ... $500K+ in tech credits, discounts and resources"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/The_DMZ_(Toronto_Metropolitan_University)",
+        "title": "DMZ (Toronto Metropolitan University)",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "launched 2010 as Digital Media Zone, rebranded 2015, UBI rankings",
+        "quote": "launched under the name Digital Media Zone in April 2010 ... In April 2015, the incubator was rebranded as 'DMZ' ... in 2018 UBI Global gave it the number one ranking in the world"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Sources show conflicting equity language (some directories say 'zero equity, zero fees' for all programs); the primary DMZ Pre-Incubator page clearly states a 2.0% common-share equity stake, so DMZ is included as a cohort program with a light equity component. DMZ Ventures is a separate associated fund. Classified primarily as incubator with accelerator subtype.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "ca-volta-cohort",
+    "name": { "en": "Volta Cohort" },
+    "aka": ["Volta", "The Volta"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Halifax",
+    "website": "https://www.voltaeffect.com/",
+    "links": {
+      "other": ["https://betakit.com/five-startups-in-voltas-new-cohort-each-receive-25000-investment/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "CA$25,000 per startup", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Atlantic Canada"],
+      "sector_focus": ["generalist"],
+      "thesis": "Halifax innovation hub running a biannual cohort competition for early-stage Atlantic Canadian tech startups, providing CA$25,000 plus mentorship via a micro-fund co-funded with BDC Capital, Innovacorp and ACOA."
+    },
+    "program": {
+      "length_weeks": 52,
+      "cohort_size": 5,
+      "batches_per_year": 2,
+      "equity_taken_pct": null,
+      "investment": { "raw": "CA$25,000 per startup via a micro-fund", "usd": null, "currency": "CAD" },
+      "format": "in-person",
+      "location": "The Volta, Halifax",
+      "demo_day": true,
+      "application_url": "https://www.voltaeffect.com/",
+      "application_cycles": ["biannual cohort competitions"],
+      "acceptance_rate": null,
+      "eligibility": "Early-stage tech startups in Atlantic Canada"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to the Volta Cohort competition when it opens",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["accelerator", "general", "atlantic-canada", "cohort", "cash"],
+    "summary": {
+      "en": "Halifax-based innovation hub whose Volta Cohort program (since 2017) runs biannual competitions awarding five early-stage Atlantic Canadian tech startups CA$25,000 each plus a 12-month accountability program with milestone reviews. The micro-fund is co-funded with BDC Capital, Innovacorp and the Atlantic Canada Opportunities Agency."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/five-startups-in-voltas-new-cohort-each-receive-25000-investment/",
+        "title": "Five startups in Volta's new cohort each receive $25,000 investment",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "$25,000 investment, micro-fund partners (BDC, Innovacorp, ACOA), founded 2017, Halifax, biannual",
+        "quote": "Each startup receives $25,000 ... BDC Capital, Innovacorp, and the Atlantic Canada Opportunities Agency (ACOA) ... Founded: 2017 ... Location: Halifax, Nova Scotia ... Semi-annual (biannual) pitch competitions"
+      },
+      {
+        "url": "https://betakit.com/volta-cohort-program-gives-five-early-stage-atlantic-canadian-startups-25000-each/",
+        "title": "Volta Cohort program gives five early-stage Atlantic-Canadian startups $25,000 each",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-02",
+        "supports": "12-month program, biennial reviews, eligibility Atlantic Canada",
+        "quote": "Volta Cohort program ... open to early-stage tech startups in Atlantic Canada ... During the 12-month program ... They present their progress to a board of mentors every two months"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Equity/convertible terms of the $25,000 micro-fund investment are not disclosed (set null). Volta has more recently positioned itself around AI software (voltaeffect.com), but the Cohort program is historically generalist for Atlantic Canada. Cohort size of 5 per competition reflects multiple BetaKit reports.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "ca-launch-academy",
+    "name": { "en": "Launch Academy" },
+    "aka": ["Launch Academy Vancouver", "Launch"],
+    "type": "accelerator",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Vancouver",
+    "website": "https://www.launchacademy.ca/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/launch-academy-2",
+      "other": ["https://www.launch.vc/launch-academy"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "Non-dilutive; facilitated (not direct) investment, 0% equity", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Canada", "British Columbia"],
+      "sector_focus": ["generalist"],
+      "thesis": "Vancouver-based generalist tech incubator/accelerator offering an equity-free pre-accelerator and accelerator with mentorship, resources and facilitated investor introductions."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": "0",
+      "investment": { "raw": "no direct investment; facilitated, 0% equity (non-dilutive)", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Vancouver (plus virtual)",
+      "demo_day": true,
+      "application_url": "https://www.launchacademy.ca/",
+      "application_cycles": ["6-month pre-accelerator and 3-month accelerator tracks"],
+      "acceptance_rate": null,
+      "eligibility": "Early-stage tech founders"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Thinkific", "sector": "edtech", "outcome": "IPO" },
+        { "company": "KOHO", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Ray Walia", "role": "Co-founder / CEO" }
+    ],
+    "application": {
+      "how_to_apply": "Apply at launchacademy.ca",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["accelerator", "incubator", "general", "vancouver", "no-equity"],
+    "summary": {
+      "en": "Vancouver-based generalist tech incubator/accelerator founded in 2012 (by Alex Chuang, Mike Edwards, Ray Walia and Roger Patterson). Offers an equity-free, non-dilutive 6-month pre-accelerator and 3-month accelerator with mentorship and facilitated investor introductions. Notable alumni connections include Thinkific and KOHO."
+    },
+    "sources": [
+      {
+        "url": "https://www.launchacademy.ca/",
+        "title": "Launch Academy - Vancouver",
+        "publisher": "Launch Academy",
+        "accessed": "2026-06-02",
+        "supports": "Vancouver location, equity-free model, accelerator/pre-accelerator structure",
+        "quote": "Launch Academy"
+      },
+      {
+        "url": "https://angelmatch.io/accelerators/Launch_Academy",
+        "title": "Launch Academy Accelerator",
+        "publisher": "AngelMatch / Accelerator Hunt",
+        "accessed": "2026-06-02",
+        "supports": "founded 2012, founders, 0% equity, 6-month pre-accelerator + 3-month accelerator, non-dilutive",
+        "quote": "Launch Academy is located in Vancouver ... was founded in 2012, and offers zero equity, non-dilutive deal terms ... a 6-month pre-accelerator and 3-month accelerator tracks ... founded in 2012 by Alex Chuang, Mike Edwards, Ray Walia, and Roger Patterson"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founders and founding year confirmed via a secondary aggregator (AngelMatch); official site is light on program metrics. Equity-free, so cohort-based but not cash-for-equity. Cohort size and program cadence not verified (set null). Portfolio attributions (Thinkific, KOHO) come from aggregator data and may reflect community ties rather than equity stakes.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "ca-district-3",
+    "name": { "en": "District 3 Innovation Hub", "local": "District 3 / Centre d'innovation District 3" },
+    "aka": ["District 3", "D3", "District 3 Innovation Centre"],
+    "type": "incubator",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://www.district3.co/",
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/District_3_Innovation_Centre", "https://www.concordia.ca/research/d3.html"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "Free, equity-free support (no direct investment)", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Canada", "Quebec"],
+      "sector_focus": ["generalist", "biotech", "healthtech", "impact"],
+      "thesis": "Concordia University's startup incubator/accelerator in downtown Montreal providing free, equity-free coaching, prototyping and funding access across bio, health, high-tech and social sectors."
+    },
+    "program": {
+      "length_weeks": 12,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": "0",
+      "investment": { "raw": "none; free and equity-free", "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Concordia University, downtown Montreal",
+      "demo_day": true,
+      "application_url": "https://www.district3.co/programs",
+      "application_cycles": ["6-week social/environmental program; 12-week early-stage validation program"],
+      "acceptance_rate": null,
+      "eligibility": "Students, alumni and external entrepreneurs across bio, health, high-tech and social sectors"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to a District 3 program at district3.co/programs",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["accelerator", "incubator", "general", "university", "montreal", "no-equity"],
+    "summary": {
+      "en": "Concordia University's downtown Montreal startup incubator/accelerator (established 2014), offering free, equity-free support across bio, health, high-tech and social sectors, including a 6-week social/environmental program and a 12-week early-stage validation intensive. Takes no equity and no IP.",
+      "local": "Incubateur/accélérateur de startups de l'Université Concordia au centre-ville de Montréal (créé en 2014), offrant un soutien gratuit et sans prise d'équité dans les secteurs bio, santé, haute technologie et social, dont un programme de 6 semaines et un intensif de validation de 12 semaines."
+    },
+    "sources": [
+      {
+        "url": "https://www.district3.co/",
+        "title": "District 3 | Montreal Startup Incubator",
+        "publisher": "District 3 / Concordia University",
+        "accessed": "2026-06-02",
+        "supports": "Montreal/Concordia location, free equity-free model, sectors",
+        "quote": "District 3 | Montreal Startup Incubator for Bio, Health, Tech & Social"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/District_3_Innovation_Centre",
+        "title": "District 3 Innovation Centre",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "established 2014, Concordia, free/equity-free, sectors, 6-week and 12-week programs",
+        "quote": "Established in 2014, it focuses on accelerating innovation in bio, health, high-tech, and social sectors by providing free, equity-free support ... no equity is taken"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year (2014) and equity-free model confirmed via Wikipedia; official site confirms location, sectors and free model. Program lengths (6-week, 12-week) come from search aggregation of district3.co/programs. Cohort sizes and cadence not verified. Sector-spanning but anchored in bio/health/tech/social.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "ca-foundersboost-toronto",
+    "name": { "en": "FoundersBoost Toronto" },
+    "aka": ["FoundersBoost"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.foundersboost.com/programs/toronto",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/showcase/foundersboost-toronto/"
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "Program: no fee, no equity; optional FoundersBoost Fund invests US$25K–$75K post-program", "usd_min": 25000, "usd_max": 75000 },
+      "geo_focus": ["Canada", "Global"],
+      "sector_focus": ["generalist"],
+      "thesis": "Mentor-driven, part-time pre-accelerator that prepares pre-seed founders for accelerators, investment and revenue (AIR) with no fees or equity; an affiliated opt-in fund makes follow-on checks."
+    },
+    "program": {
+      "length_weeks": 6,
+      "cohort_size": 10,
+      "batches_per_year": null,
+      "equity_taken_pct": "0 (program); FoundersBoost Fund invests separately by opt-in",
+      "investment": { "raw": "program: none; FoundersBoost Fund: US$25,000–$75,000 (opt-in, post-program)", "usd": null, "currency": "USD" },
+      "format": "hybrid",
+      "location": "Toronto",
+      "demo_day": true,
+      "application_url": "https://www.foundersboost.com/programs/toronto",
+      "application_cycles": ["rolling cohorts; meets one evening per week"],
+      "acceptance_rate": null,
+      "eligibility": "Pre-seed founders validating their idea, busy with limited budgets"
+    },
+    "track_record": {
+      "portfolio_count": "600+ startups (global, all locations)",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to a FoundersBoost cohort at foundersboost.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["accelerator", "pre-accelerator", "general", "toronto", "no-equity"],
+    "summary": {
+      "en": "Toronto chapter of FoundersBoost, a mentor-driven, part-time 6-week pre-accelerator (about 10 startups per location, meeting one evening weekly) that charges no fees and takes no equity, guiding pre-seed founders toward accelerators, investment and revenue. The affiliated FoundersBoost Fund makes opt-in follow-on investments of US$25,000–$75,000. Globally, 600+ startups have gone through the program raising over $400M."
+    },
+    "sources": [
+      {
+        "url": "https://www.foundersboost.com/programs/toronto",
+        "title": "FoundersBoost Toronto",
+        "publisher": "FoundersBoost",
+        "accessed": "2026-06-02",
+        "supports": "6-week program, ~10 startups, no fee/no equity, part-time evening format, AIR goal",
+        "quote": "The 6-week program is designed for busy founders with limited budgets, requiring no equity and no fees ... about 10 startup companies selected per location ... meets one evening weekly"
+      },
+      {
+        "url": "https://www.foundersboost.com/pre-accelerator",
+        "title": "Learn about FoundersBoost's Accelerators",
+        "publisher": "FoundersBoost",
+        "accessed": "2026-06-02",
+        "supports": "600+ startups, $400M raised, FoundersBoost Fund $25K-$75K opt-in",
+        "quote": "the mentor-driven, structured program has helped over 600 startups ... raised over $400M in funding ... FoundersBoost Fund typically makes investments from twenty-five to seventy-five thousand dollars"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "FoundersBoost is a global network; figures (600+ startups, $400M raised) are network-wide, not Toronto-specific. Founding year of the Toronto chapter not verified (set null; the network references '8 years' of operation). Program itself is no-equity; the optional FoundersBoost Fund is a separate entity.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "ca-founder-institute-canada",
+    "name": { "en": "Founder Institute (Canada chapters)" },
+    "aka": ["Founder Institute Toronto", "Founder Institute Vancouver", "FI"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://fi.co/",
+    "links": {
+      "other": ["https://fi.co/program/vancouver", "https://fi.co/faq", "https://fi.co/equity"]
+    },
+    "offices": [
+      { "country": "Canada", "city": "Toronto" },
+      { "country": "Canada", "city": "Vancouver" }
+    ],
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "No direct investment; pay-to-participate with a 2.5% equity warrant (Equity Collective)", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Canada", "Global"],
+      "sector_focus": ["generalist"],
+      "thesis": "World's largest pre-seed accelerator; Toronto and Vancouver chapters run a structured part-time program where founders pay a course fee and join a 2.5% equity warrant pool (Equity Collective) shared with mentors and local leaders."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": "2.5 (warrant via Equity Collective)",
+      "investment": { "raw": "none (founders pay a course fee); 2.5% warrant exercised on first qualified financing", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Toronto and Vancouver",
+      "demo_day": true,
+      "application_url": "https://fi.co/",
+      "application_cycles": ["rolling chapter cohorts"],
+      "acceptance_rate": null,
+      "eligibility": "Aspiring and early pre-seed founders"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to the Toronto or Vancouver chapter at fi.co",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["accelerator", "pre-seed", "general", "equity-warrant", "global-network"],
+    "summary": {
+      "en": "The Founder Institute is the world's largest pre-seed accelerator, with active generalist chapters in Toronto and Vancouver. Rather than investing cash, founders pay a course fee and join the 'Equity Collective,' a 2.5% equity warrant (reduced from 4% in 2022) exercised at the first qualified financing and shared between local leaders, mentors and FI HQ."
+    },
+    "sources": [
+      {
+        "url": "https://fi.co/equity",
+        "title": "Founder Institute Equity Collective",
+        "publisher": "Founder Institute",
+        "accessed": "2026-06-02",
+        "supports": "2.5% equity warrant, reduced from 4% in 2022, distribution, qualified financing threshold",
+        "quote": "As of 2022, the Equity Collective for all FI programs is 2.5% ... The Warrant grants the Founder Institute 2.5% at the time of the first Qualified Equity Financing"
+      },
+      {
+        "url": "https://fi.co/program/vancouver",
+        "title": "Founder Institute Core Program - Vancouver",
+        "publisher": "Founder Institute",
+        "accessed": "2026-06-02",
+        "supports": "Vancouver chapter existence, pre-seed program",
+        "quote": "Founder Institute Core Program Schedule"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Equity Collective terms (2.5% warrant) are FI-global policy and apply to the Canadian chapters. The Toronto and Vancouver chapters' specific founding years, cohort sizes and cadence are not verified (set null). FI is a fee-based, equity-warrant model rather than cash-for-equity.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "ca-velocity",
+    "name": { "en": "Velocity" },
+    "aka": ["Velocity Incubator", "Velocity Garage", "University of Waterloo Velocity"],
+    "type": "incubator",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2008,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Waterloo",
+    "website": "https://www.velocityincubator.com/",
+    "links": {
+      "other": ["https://uwaterloo.ca/entrepreneurship/profiles/velocity-incubator"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "Equity-free grants (Velocity Fund $25K and $5K)", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Canada", "Ontario"],
+      "sector_focus": ["generalist", "hardware-semiconductor", "deeptech"],
+      "thesis": "University of Waterloo's free, equity-free startup incubator — described as the largest free incubator in North America — offering workspace, labs, mentorship and equity-free Velocity Fund grants."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": "up to 120 startups in the Garage",
+      "batches_per_year": null,
+      "equity_taken_pct": "0",
+      "investment": { "raw": "equity-free grants: Velocity Fund $25K and $5K (~$390,000/year total)", "usd": null, "currency": "CAD" },
+      "format": "in-person",
+      "location": "Velocity Garage, Waterloo",
+      "demo_day": true,
+      "application_url": "https://www.velocityincubator.com/how-we-help",
+      "application_cycles": ["Velocity Fund competitions"],
+      "acceptance_rate": null,
+      "eligibility": "Early-stage startups (software, hardware, science); University of Waterloo affiliation common but not always required"
+    },
+    "track_record": {
+      "portfolio_count": "175+ companies",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to Velocity programs / Velocity Fund at velocityincubator.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["incubator", "accelerator", "general", "university", "no-equity", "hardware"],
+    "summary": {
+      "en": "University of Waterloo's flagship startup incubator (since 2008), described as the largest free incubator in North America with a 45,000 sq ft Garage hosting up to 120 startups. Takes no fees or equity; the Velocity Fund awards roughly CA$390,000/year in equity-free grants ($25K and $5K tracks). Has supported 175+ companies that raised over $425M and created 1,200+ jobs."
+    },
+    "sources": [
+      {
+        "url": "https://uwaterloo.ca/news/news/uwaterloos-velocity-garage-now-largest-free-startup",
+        "title": "UWaterloo's Velocity Garage now largest free startup incubator in the world",
+        "publisher": "University of Waterloo",
+        "accessed": "2026-06-02",
+        "supports": "largest free incubator, no fees/no equity, 120 startups, 45,000 sq ft, $390K/yr grants, 175 companies, $425M raised",
+        "quote": "Velocity does not charge companies fees or take any equity from startups ... workspace for up to 120 startups ... The Velocity Fund is a grant program ... $390,000 in equity-free funding each year ... 175 companies, creating more than 1,200 jobs since the program started in 2008, and raising $425 million in funding"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Equity-free incubator (not cash-for-equity); included as a major generalist cohort-style program. Figures are from University of Waterloo communications and may reflect a snapshot year. Skews toward hardware/deep-tech given Waterloo's engineering base but accepts generalist startups.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  },
+  {
+    "id": "ca-l-spark",
+    "name": { "en": "L-SPARK" },
+    "aka": ["L-Spark", "L-SPARK Accelerator"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2014,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Ottawa",
+    "website": "https://www.l-spark.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/l-spark",
+      "linkedin": "https://ca.linkedin.com/company/l-spark"
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "No direct fund investment; 3% performance-based equity if funding raised within 18 months", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Canada"],
+      "sector_focus": ["saas-enterprise"],
+      "thesis": "Ottawa-based B2B SaaS accelerator running intensive cohort programs focused on revenue growth; takes a 3% performance-based equity stake contingent on the company raising capital within an 18-month window."
+    },
+    "program": {
+      "length_weeks": 24,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": "3 (performance-based, only if funding raised within 18 months)",
+      "investment": { "raw": "no direct investment; 3% equity contingent on raising funds within the 6-month program + 12 months after", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Ottawa (Kanata)",
+      "demo_day": true,
+      "application_url": "https://www.l-spark.com/our-accelerator/how-it-works/",
+      "application_cycles": ["cohort-based"],
+      "acceptance_rate": null,
+      "eligibility": "Market-ready B2B SaaS / cloud companies"
+    },
+    "track_record": {
+      "portfolio_count": "51 companies",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to the L-SPARK SaaS Accelerator at l-spark.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["accelerator", "saas", "ottawa", "performance-equity"],
+    "summary": {
+      "en": "Ottawa (Kanata) B2B SaaS accelerator (since ~2014). In exchange for roughly six months of intensive services it takes a 3% performance-based equity stake, charged only if the company raises capital during the 6-month program or the following 12 months (an 18-month window). Has accelerated 51 companies, over 50% of which raised follow-on funding totalling over $45M."
+    },
+    "sources": [
+      {
+        "url": "https://www.l-spark.com/our-accelerator/how-it-works/",
+        "title": "How the SaaS Accelerator works",
+        "publisher": "L-SPARK",
+        "accessed": "2026-06-02",
+        "supports": "3% performance-based equity, 18-month window, 51 companies, $45M raised, B2B SaaS focus",
+        "quote": "L-SPARK takes a 3% equity in your company upon selection ... If the company does not raise funding in that 18-month window (6-month program + 12 months afterwards), there is no fee ... L-SPARK has accelerated 51 companies with over 50% of those companies raising follow-on funding, which now totals over $45M"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "L-SPARK is SaaS/B2B-focused rather than fully generalist, so it is a borderline member of the 'general accelerator' segment; included for completeness with a sector note. Founding year (~2014) is from secondary sources and approximate. Quote is from a directory paraphrase of the official 'how it works' page.",
+    "last_updated": "2026-06-02",
+    "researched_by": "accelerator-general"
+  }
+]

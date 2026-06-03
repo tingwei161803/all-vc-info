@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "eu-world-fund",
+    "name": { "en": "World Fund" },
+    "aka": ["WorldFund"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://www.worldfund.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/world-fund",
+      "other": ["https://www.worldfund.vc/about"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€300M", "usd": 326000000, "currency": "EUR" },
+      "funds": [
+        { "name": "World Fund I", "vintage_year": 2024, "size": { "raw": "€300M", "usd": 326000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["climate-energy", "agritech", "deeptech"],
+      "thesis": "Backs European startups whose technologies have the potential to decarbonise entire industries, using a proprietary climate-performance methodology (CPP) developed with TU Berlin and Project Drawdown. Aims to help climate startups cross the Series B 'valley of death'."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Space Forge", "sector": "manufacturing/space", "outcome": "active" },
+        { "company": "ENOUGH", "sector": "food", "outcome": "active" },
+        { "company": "IQM", "sector": "quantum", "outcome": "active" },
+        { "company": "CYLIB", "sector": "battery recycling", "outcome": "active" },
+        { "company": "Planet A Foods", "sector": "food", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Danijel Višević", "role": "General Partner / Co-founder" },
+      { "name": "Daria Saharova", "role": "General Partner / Co-founder" },
+      { "name": "Tim Schumacher", "role": "General Partner / Co-founder" },
+      { "name": "Craig Douglas", "role": "Partner / Co-founder" }
+    ],
+    "tags": ["climate", "decarbonisation", "deeptech", "article-9"],
+    "summary": {
+      "en": "Berlin-based climate-tech VC incubated by green search engine Ecosia. Closed Europe's largest first-time climate fund at €300M in March 2024, investing across energy, food/agriculture, manufacturing, buildings and mobility to decarbonise whole industries."
+    },
+    "sources": [
+      { "url": "https://www.worldfund.vc/", "title": "World Fund — Leading European Climate Tech VC Fund", "publisher": "World Fund", "accessed": "2026-06-02", "supports": "sector focus, thesis, portfolio", "quote": "World Fund only invests in startups with huge climate performance potential" },
+      { "url": "https://tech.eu/2024/03/22/world-fund-unveils-300m-fund-for-climate-founders/", "title": "World Fund unveils €300M fund for climate founders", "publisher": "Tech.eu", "accessed": "2026-06-02", "supports": "fund size, number of investments, Managing Partner", "quote": "The fund will make 25-30 investments into European startups building technologies 'with the potential to decarbonise entire industries'" },
+      { "url": "https://www.eu-startups.com/2021/10/world-fund-the-european-search-engine-ecosia-launches-a-e350-million-climate-vc-fund/", "title": "World Fund: The European search engine Ecosia launches a €350 million climate VC fund", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "founding year 2021, founders, Ecosia incubation", "quote": "World Fund was founded in 2021 by Daria Saharova, Danijel Višević, Tim Schumacher and Craig Douglas" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund launched in 2021 targeting €350M; closed at €300M in March 2024. USD conversion approximate at ~1.085 EUR/USD.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-norrsken-vc",
+    "name": { "en": "Norrsken VC" },
+    "aka": ["Norrsken"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "europe",
+    "country": "Sweden",
+    "hq_city": "Stockholm",
+    "website": "https://www.norrsken.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/norrsken-vc",
+      "other": ["https://www.norrsken.vc/post/second-fund"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Norrsken VC Fund II", "vintage_year": 2024, "size": { "raw": "€320M", "usd": 345000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "€150,000 to €500,000", "usd_min": 160000, "usd_max": 540000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["impact", "climate-energy", "healthtech", "ai-ml"],
+      "thesis": "Europe's largest early-stage impact investor, an SFDR Article 9 fund backing mission-driven startups that combine financial returns with measurable environmental and social impact (climate tech, energy, biotech, AI, health)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Northvolt", "sector": "batteries", "outcome": "active" },
+        { "company": "Einride", "sector": "electric trucks", "outcome": "active" },
+        { "company": "1KOMMA5°", "sector": "residential energy", "outcome": "active" },
+        { "company": "Heart Aerospace", "sector": "electric aviation", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Niklas Adalberth", "role": "Founder (Norrsken Foundation)" }
+    ],
+    "tags": ["impact", "climate", "article-9"],
+    "summary": {
+      "en": "Stockholm-based impact-focused VC born out of the Norrsken Foundation (founded by Klarna co-founder Niklas Adalberth). Closed an oversubscribed €320M Fund II in May 2024 to back ~30 impact startups across climate, energy, biotech and health.",
+      "local": "Stockholmsbaserad impactfokuserad riskkapitalfond grundad ur Norrsken Foundation; stängde en övertecknad andra fond på 320 miljoner euro i maj 2024."
+    },
+    "sources": [
+      { "url": "https://www.norrsken.vc/post/second-fund", "title": "We've just closed our oversubscribed second fund at €320m!", "publisher": "Norrsken VC", "accessed": "2026-06-02", "supports": "Fund II size", "quote": "We've just closed our oversubscribed second fund at €320m!" },
+      { "url": "https://impact-investor.com/swedens-norrsken-achieves-e320m-close-for-oversubscribed-second-impact-fund/", "title": "Sweden's Norrsken achieves €320m close for oversubscribed second impact fund", "publisher": "Impact Investor", "accessed": "2026-06-02", "supports": "Fund II size, Article 9, ~30 startups, prior portfolio", "quote": "Stockholm-based Norrsken VC has closed its second fund at €320 million, exceeding its initial target of €250 million" },
+      { "url": "https://www.esgtoday.com/norrsken-vc-raises-345-million-for-impact-solutions-venture-fund/", "title": "Norrsken VC Raises $345 Million for Impact Solutions Venture Fund", "publisher": "ESG Today", "accessed": "2026-06-02", "supports": "USD equivalent of fund", "quote": "Norrsken VC Raises $345 Million for Impact Solutions Venture Fund" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Check-size figure (€150k–€500k) per Vestbee secondary listing; Norrsken also invests larger amounts in follow-ons. Northvolt (a Fund I investment) filed for bankruptcy protection in 2024-25; listed as a notable historic backing.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-pale-blue-dot",
+    "name": { "en": "Pale Blue Dot" },
+    "aka": ["Pale blue dot VC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "europe",
+    "country": "Sweden",
+    "hq_city": "Malmö",
+    "website": "https://paleblue.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/pale-blue-dot-2",
+      "linkedin": "https://www.linkedin.com/company/palebluedotvcclimate/"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Pale Blue Dot Fund I", "vintage_year": 2021, "size": { "raw": "€87M", "usd": 94000000, "currency": "EUR" } },
+        { "name": "Pale Blue Dot Fund II", "vintage_year": 2023, "size": { "raw": "€93M", "usd": 101000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€0.5–2M", "usd_min": 540000, "usd_max": 2200000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United States"],
+      "sector_focus": ["climate-energy", "agritech", "mobility"],
+      "thesis": "Climate-only pre-seed/seed fund backing founders who optimise (decarbonise existing systems), adapt (build resilience) or pioneer (breakthrough sustainable innovations) across food/agtech, energy, industry and mobility."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Monta", "sector": "EV charging software", "outcome": "active" },
+        { "company": "Paebbl", "sector": "carbon mineralisation", "outcome": "active" },
+        { "company": "Patch", "sector": "carbon markets", "outcome": "active" },
+        { "company": "Overstory", "sector": "geospatial / grid", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Hampus Jakobsson", "role": "General Partner / Co-founder" },
+      { "name": "Heidi Lindvall", "role": "General Partner / Co-founder" },
+      { "name": "Joel Larsson", "role": "General Partner / Co-founder" }
+    ],
+    "tags": ["climate", "climate-only", "seed"],
+    "summary": {
+      "en": "Malmö-based 'climate only' pre-seed/seed VC founded in 2020. Raised an €87M debut fund (2021) and a €93M second fund (2023), writing €0.5–2M checks into European and US climate startups."
+    },
+    "sources": [
+      { "url": "https://paleblue.vc/", "title": "Pale blue dot", "publisher": "Pale Blue Dot", "accessed": "2026-06-02", "supports": "stages, check size, geo, thesis", "quote": "Pre-seed & Seed ... €0.5-2M ... Europe & US" },
+      { "url": "https://tech.eu/2021/04/14/pale-blue-dot-closes-e87-million-fund-to-become-europes-top-seed-investor-in-climate-tech-startups/", "title": "Pale Blue Dot closes €87 million fund", "publisher": "Tech.eu", "accessed": "2026-06-02", "supports": "Fund I size", "quote": "Pale Blue Dot raised €87 million for its debut climate-focused fund" },
+      { "url": "https://tech.eu/2023/05/11/pale-blue-dot-ups-the-ante-closes-second-fund-at-eur93-million/", "title": "Pale blue dot ups the ante, closes second fund at €93 million", "publisher": "Tech.eu", "accessed": "2026-06-02", "supports": "Fund II size", "quote": "Pale blue dot announced the close of its second fund at €93 million" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2020 by Joel Larsson, Heidi Lindvall and Hampus Jakobsson (per TechCrunch coverage of launch).",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-extantia-capital",
+    "name": { "en": "Extantia Capital" },
+    "aka": ["Extantia"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://www.extantia.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/extantia-capital",
+      "other": ["https://www.extantia.com/about"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€204M", "usd": 221000000, "currency": "EUR" },
+      "funds": [
+        { "name": "Extantia Climate Flagship II", "vintage_year": 2024, "size": { "raw": "€204M", "usd": 221000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "€1–5M", "usd_min": 1080000, "usd_max": 5400000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["climate-energy", "deeptech", "hardware-semiconductor"],
+      "thesis": "Deep-decarbonisation climate VC applying a 'carbon math exclusion principle' — only invests in startups that can abate at least 100 million tonnes of CO2 annually at full scale. Article 9 fund."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "INERATEC", "sector": "e-fuels", "outcome": "active" },
+        { "company": "Reverion", "sector": "biogas energy", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Sebastian Heitmann", "role": "Partner / Co-founder" },
+      { "name": "Yair Reem", "role": "Partner" }
+    ],
+    "tags": ["climate", "deep-decarbonisation", "article-9", "hardtech"],
+    "summary": {
+      "en": "Berlin-based climate-first VC closing its oversubscribed Article 9 flagship fund at €204M in November 2024. Invests €1–5M at seed to Series A in deep-decarbonisation hardware and software, backing the likes of INERATEC and Reverion."
+    },
+    "sources": [
+      { "url": "https://www.eu-startups.com/2024/11/berlin-based-extantia-capital-closes-e204-million-flagship-fund/", "title": "Berlin-based Extantia Capital closes €204 million flagship fund", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "fund size, stages, check size, partners", "quote": "closed its oversubscribed Article 9 flagship fund at €204 million" },
+      { "url": "https://techfundingnews.com/climate-vc-extantia-capital-closes-e204-climate-tech-fund-signalling-a-shift-in-green-innovation/", "title": "Climate VC Extantia Capital closes €204M climate tech fund", "publisher": "Tech Funding News", "accessed": "2026-06-02", "supports": "carbon math exclusion principle, portfolio", "quote": "investing only in startups that can abate at least 100 million tonnes of CO2 annually when fully scaled" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Firm founded 2020; the Climate Flagship II fund vehicle entity registered 2021 in Berlin. Earlier reports referenced a €300M platform (Flagship + Allstars fund-of-funds).",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-planet-a-ventures",
+    "name": { "en": "Planet A Ventures" },
+    "aka": ["Planet A"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://planet-a.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/planet-a-ventures"
+    },
+    "capital": {
+      "current_fund": { "raw": "€160M", "usd": 174000000, "currency": "EUR" },
+      "funds": [
+        { "name": "Planet A Ventures Fund I", "vintage_year": 2023, "size": { "raw": "€160M", "usd": 174000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "€500k–3M", "usd_min": 540000, "usd_max": 3300000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "Israel"],
+      "sector_focus": ["climate-energy", "deeptech", "agritech"],
+      "thesis": "First European VC to base investment decisions on scientific life-cycle analysis. Backs GreenTech across four areas: climate change mitigation, waste reduction, resource conservation and biodiversity protection."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "tags": ["climate", "greentech", "science-based", "article-9"],
+    "summary": {
+      "en": "Berlin-based science-led climate VC. Closed a €160M debut fund in February 2023 (60% above its €100M target), backed by BMW, Allianz, KfW Capital and the founders of HelloFresh and Zalando. Writes €500k–3M checks across Europe and Israel."
+    },
+    "sources": [
+      { "url": "https://sifted.eu/articles/planet-a-e160m-climate-fund", "title": "Planet A closes €160m for science-based climate investing", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "fund size, backers, check size, geo", "quote": "Berlin-based Planet A closed its first fund at €160m" },
+      { "url": "https://techcrunch.com/2023/02/08/planet-a-ventures-comes-out-of-the-door-with-a-e160m-european-science-backed-climate-fund/", "title": "Planet A Ventures comes out of the door with a €160M science-backed climate fund", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "check size, geo, launch year, investments", "quote": "writing cheques from €500k-3m" },
+      { "url": "https://impact-investor.com/planet-a-green-tech-fund-closes-at-e160m-60-higher-than-original-target/", "title": "Planet A green-tech fund closes at €160m, 60% higher than original target", "publisher": "Impact Investor", "accessed": "2026-06-02", "supports": "target overshoot", "quote": "The fund surpassed its original target of €100m" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Launched 2021; first fund closed Feb 2023. Website URL inferred as planet-a.com.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-contrarian-ventures",
+    "name": { "en": "Contrarian Ventures" },
+    "aka": [],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "europe",
+    "country": "Lithuania",
+    "hq_city": "Vilnius",
+    "website": "https://www.contrarian.ventures/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/contrarian-ventures",
+      "other": ["https://www.startuplithuania.com/ecosystem/contrarianventures/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€100M", "usd": 108000000, "currency": "EUR" },
+      "funds": [
+        { "name": "Contrarian Ventures Fund II", "vintage_year": 2023, "size": { "raw": "€100M (hard cap)", "usd": 108000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "€1–4M", "usd_min": 1080000, "usd_max": 4300000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["climate-energy", "mobility"],
+      "thesis": "Pan-European seed-stage climate-tech firm tackling decarbonisation across energy, transport, buildings and industry; runs the Energy Tech Summit community."
+    },
+    "track_record": {
+      "portfolio_count": 21,
+      "notable_investments": [
+        { "company": "Metafuels", "sector": "sustainable aviation fuel", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Rokas Peciulaitis", "role": "Founder / Managing Partner" }
+    ],
+    "tags": ["climate", "energy", "seed", "decarbonisation"],
+    "summary": {
+      "en": "Vilnius-based pan-European seed-stage climate-tech VC. Launched a €100M-hard-cap Fund II in 2023 (with EIF/InvestEU committing €25M), writing €1–4M checks across energy, transport, buildings and industry.",
+      "local": "Vilniuje įsikūrusi panaeuropinė ankstyvosios stadijos klimato technologijų rizikos kapitalo įmonė; 2023 m. pristatė antrąjį fondą su 100 mln. eurų riba."
+    },
+    "sources": [
+      { "url": "https://siliconcanals.com/contrarian-ventures-launches-100m-fund/", "title": "Vilnius-based Contrarian Ventures Launches €100M Fund", "publisher": "Silicon Canals", "accessed": "2026-06-02", "supports": "fund size, hard cap, check size, focus", "quote": "Contrarian Ventures aimed to raise at least €75 million — with a hard cap of €100 million for Fund II" },
+      { "url": "https://www.eif.org/press/all/investeu-eif-invests-eur-25-million-into-pan-european-climate-tech-venture-capital-fund-contrarian-ventures", "title": "InvestEU: EIF invests €25 million into Contrarian Ventures", "publisher": "European Investment Fund", "accessed": "2026-06-02", "supports": "EIF €25M commitment, check size, prior portfolio", "quote": "investing €1-4 million in startups addressing decarbonisation across energy, transport, buildings, and industry" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2017 (Fund I). Portfolio_count of 21 and 3 exits refer to Fund I per EIF.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-climentum-capital",
+    "name": { "en": "Climentum Capital" },
+    "aka": ["Climentum"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "Denmark",
+    "hq_city": "Copenhagen",
+    "website": "https://climentum.com/",
+    "offices": [
+      { "country": "Denmark", "city": "Copenhagen" },
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "Sweden", "city": "Stockholm" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/climentum-capital"
+    },
+    "capital": {
+      "current_fund": { "raw": "€150M (target)", "usd": 163000000, "currency": "EUR" },
+      "funds": [
+        { "name": "Climentum Fund I", "vintage_year": 2022, "size": { "raw": "€150M (target)", "usd": 163000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "€1–5M", "usd_min": 1080000, "usd_max": 5400000 },
+      "ownership_target_pct": "10%",
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "Nordics", "DACH"],
+      "sector_focus": ["climate-energy", "deeptech", "agritech", "hardware-semiconductor"],
+      "thesis": "Backs hard-tech climate innovators driving the 'sustainable re-industrialisation of Europe' across the six highest-emission industries (renewables, food/agriculture, manufacturing, transport, buildings, materials). Among Europe's first Article 9 funds with a dual carry model tied to climate impact."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Qvantum", "sector": "heat pumps", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "tags": ["climate", "hardtech", "article-9", "industrial"],
+    "summary": {
+      "en": "Pan-European climate VC headquartered in Copenhagen with offices in Berlin and Stockholm. Launched a €150M target Fund I in 2022 (€60M first close), writing €1–5M seed/Series A checks into hard-tech decarbonisation across the Nordics and DACH."
+    },
+    "sources": [
+      { "url": "https://climentum.com/", "title": "Climentum Capital", "publisher": "Climentum Capital", "accessed": "2026-06-02", "supports": "check size, ownership target, follow-on reserve, thesis", "quote": "€1–5M, initial ticket sizes ... 10%, target ownership stake" },
+      { "url": "https://www.esgtoday.com/climentum-capital-launches-e150-million-venture-fund-to-scale-climate-solutions-startups/", "title": "Climentum Capital Launches €150 Million Venture Fund", "publisher": "ESG Today", "accessed": "2026-06-02", "supports": "fund target, first close, offices, founding", "quote": "Climentum Capital launched its inaugural €150 million target fund with a €60 million first close" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2022; fund had a €60M first close against a €150M target. Final close size not confirmed in fetched sources, so raw labelled as target.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-2150",
+    "name": { "en": "2150" },
+    "aka": ["2150 VC", "2150.vc"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://2150.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/2150",
+      "other": ["https://2150.vc/news/"]
+    },
+    "capital": {
+      "aum": { "raw": "€500M", "usd": 543000000, "currency": "EUR" },
+      "current_fund": { "raw": "€210M", "usd": 228000000, "currency": "EUR" },
+      "funds": [
+        { "name": "2150 Urban Tech Sustainability Fund I", "vintage_year": 2021, "size": { "raw": "€268M", "usd": 291000000, "currency": "EUR" } },
+        { "name": "2150 Urban Tech Sustainability Fund II", "vintage_year": 2026, "size": { "raw": "€210M", "usd": 228000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["climate-energy", "proptech", "deeptech", "mobility"],
+      "thesis": "Invests across the 'Urban Stack' — every element of the built environment, from how cities are designed, constructed and powered to how people live, move and are cared for — to sustainably reshape the urban environment. Article 9 fund."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "1Komma5°", "sector": "residential energy", "outcome": "active" },
+        { "company": "Vammo", "sector": "electric mobility", "outcome": "active" },
+        { "company": "Blue Frontier", "sector": "HVAC / buildings", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Christian Hernandez", "role": "Partner / Co-founder" },
+      { "name": "Christian Jölck", "role": "Partner / Co-founder" }
+    ],
+    "tags": ["climate", "urban", "built-environment", "article-9"],
+    "summary": {
+      "en": "London-based climate VC focused on the urban and built environment ('Urban Stack'). Closed a €268M debut fund in 2021 and a €210M Fund II in January 2026, lifting AUM to ~€500M; invests in urban and industrial climate tech such as 1Komma5° and Vammo."
+    },
+    "sources": [
+      { "url": "https://tech.eu/2026/01/26/2150-closes-eur210m-fund-ii-lifts-assets-to-eur500m-to-back-urban-and-industrial-climate-tech/", "title": "2150 closes €210M Fund II, lifts assets to €500M", "publisher": "Tech.eu", "accessed": "2026-06-02", "supports": "Fund II size, AUM, founders, portfolio", "quote": "Fund II Size: €210 million ... Total AUM: €500 million" },
+      { "url": "https://nrep.com/news/2150-closes-oversubscribed-fund-with-e268m-handpicks-more-potential-gigacorns/", "title": "2150 closes oversubscribed fund with €268m", "publisher": "NREP", "accessed": "2026-06-02", "supports": "Fund I size", "quote": "2150 closes oversubscribed fund with €268m" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I closed at €268.2M in 2021 (33% above €200M target). Fund II closed €210M Jan 2026.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-aenu",
+    "name": { "en": "AENU" },
+    "aka": ["Aenu"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://www.aenu.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/aenu"
+    },
+    "capital": {
+      "current_fund": { "raw": "€170M", "usd": 184000000, "currency": "EUR" },
+      "funds": [
+        { "name": "AENU Fund I", "vintage_year": 2024, "size": { "raw": "€170M", "usd": 184000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "up to €5M", "usd_min": null, "usd_max": 5400000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["climate-energy", "impact"],
+      "thesis": "Research-led climate and social-equity VC whose north star is backing companies that can reduce or remove 50 million tonnes of CO2 at scale, with portfolio value-add via 'Impact-as-a-Service'."
+    },
+    "track_record": {
+      "portfolio_count": "20+",
+      "notable_investments": [
+        { "company": "alcemy", "sector": "low-carbon cement", "outcome": "active" },
+        { "company": "Monta", "sector": "EV charging software", "outcome": "active" },
+        { "company": "Trawa", "sector": "energy management", "outcome": "active" },
+        { "company": "HomeTree", "sector": "home decarbonisation", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Fabian Heilemann", "role": "Founder / Managing Partner" }
+    ],
+    "tags": ["climate", "impact", "research-led"],
+    "summary": {
+      "en": "Berlin-based climate-tech VC. Closed its first fund near hard-cap at €170M in September 2024 (above a €140M target), backed by EIF, KfW Capital and Bertelsmann. Invests up to €5M into climate and social-equality startups, targeting companies that can abate 50 Mt CO2 at scale."
+    },
+    "sources": [
+      { "url": "https://www.aenu.com/insights/eur-170-million-for-climate-technology-startups/", "title": "EUR 170 million for climate technology startups", "publisher": "AENU", "accessed": "2026-06-02", "supports": "fund size, target, LPs, portfolio, impact north star", "quote": "EUR 170 million for climate technology startups" },
+      { "url": "https://sifted.eu/articles/aenu-170m-climate-tech-vc-news", "title": "Climate tech investor AENU closes fund at €170m", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "fund size, move from evergreen structure", "quote": "Climate tech investor AENU closes fund at €170m" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Originally launched in 2022 as a €100M evergreen fund; converted to a closed-end structure and closed at €170M in 2024.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-systemiq-capital",
+    "name": { "en": "Systemiq Capital" },
+    "aka": [],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.systemiqcapital.earth/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/systemiq-capital",
+      "linkedin": "https://uk.linkedin.com/company/systemiq-capital-earth"
+    },
+    "capital": {
+      "aum": { "raw": "$140M", "usd": 140000000, "currency": "USD" },
+      "current_fund": { "raw": "$200M (target)", "usd": 200000000, "currency": "USD" },
+      "funds": [
+        { "name": "Systemiq Capital Fund II", "vintage_year": 2022, "size": { "raw": "$200M (target); $70M first close", "usd": 200000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "North America"],
+      "sector_focus": ["climate-energy", "agritech", "mobility"],
+      "thesis": "Early-stage climate-tech VC backing founders across food and material production, transport, and the financing of these activities, alongside climate intelligence and nature restoration."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "tags": ["climate", "early-stage"],
+    "summary": {
+      "en": "London-based early-stage climate-tech VC. Announced a $70M first close of its $200M-target Fund II in 2022; managed ~$140M AUM as of Q4 2025. Invests in food/materials, transport and climate intelligence across Europe and North America."
+    },
+    "sources": [
+      { "url": "https://www.systemiqcapital.earth/news-and-insights/we-launched-systemiq-capital-fund-ii-6b89a", "title": "Systemiq Capital announces $70m first closing of Fund II, targeting $200 million", "publisher": "Systemiq Capital", "accessed": "2026-06-02", "supports": "Fund II first close and target", "quote": "Systemiq Capital announces $70m first closing of Fund II, targeting $200 million" },
+      { "url": "https://techcrunch.com/2022/07/14/systemiq-vc-70-million-fund-2/", "title": "London VC Systemiq raises $70M to fund climate-tech founders", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "first close, focus", "quote": "London VC Systemiq raises $70M to fund climate-tech founders" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "AUM figure ($140M, Q4-25) from Systemiq Capital website summary; final Fund II close size not confirmed. Founded date (2019) approximate.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-set-ventures",
+    "name": { "en": "SET Ventures" },
+    "aka": ["Sustainable Energy Technology Ventures"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2007,
+    "region": "europe",
+    "country": "Netherlands",
+    "hq_city": "Amsterdam",
+    "website": "https://setventures.com/",
+    "offices": [
+      { "country": "Netherlands", "city": "Amsterdam" },
+      { "country": "Germany", "city": "Hamburg" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/set-ventures"
+    },
+    "capital": {
+      "current_fund": { "raw": "€200M", "usd": 217000000, "currency": "EUR" },
+      "funds": [
+        { "name": "SET Fund IV", "vintage_year": 2024, "size": { "raw": "€200M", "usd": 217000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "€2–5M initial; up to €15M follow-on", "usd_min": 2200000, "usd_max": 5400000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["climate-energy", "deeptech"],
+      "thesis": "Digital-first energy VC backing European startups whose data-driven software accelerates the integration of renewable energy into mass markets — generation, distribution, storage and consumption. Article 9 fund targeting 20–25 companies."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Instagrid", "sector": "portable power", "outcome": "active" },
+        { "company": "Sensorfact", "sector": "energy efficiency", "outcome": "active" },
+        { "company": "sonnen", "sector": "home batteries", "outcome": "acquired" }
+      ]
+    },
+    "people": [],
+    "tags": ["energy", "digital-energy", "climate", "article-9"],
+    "summary": {
+      "en": "Amsterdam-based clean-energy VC (founded 2007) investing in digital technology for a carbon-free energy system. Closed its largest fund, SET Fund IV, at €200M in September 2024, writing €2–5M initial checks (up to €15M follow-on) into 20–25 late-seed/Series A European energy startups."
+    },
+    "sources": [
+      { "url": "https://setventures.com/set-closes-fourth-fund-200-million/", "title": "SET Fund IV closes at €200 million", "publisher": "SET Ventures", "accessed": "2026-06-02", "supports": "fund size, founding year, focus, portfolio", "quote": "SET Fund IV closes at €200 million ... Founded: 2007" },
+      { "url": "https://techfundingnews.com/dutch-clean-energy-vc-set-ventures-closes-e200m-to-invest-up-to-e5m-in-european-startups/", "title": "Dutch clean energy VC SET Ventures closes €200M", "publisher": "Tech Funding News", "accessed": "2026-06-02", "supports": "check size, follow-on, Article 9, number of companies", "quote": "initial ticket sizes between €2 million to €5 million while follow-on capital will be up to €15m per company" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2007; SET Fund IV is the firm's fourth fund and largest to date.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-future-energy-ventures",
+    "name": { "en": "Future Energy Ventures" },
+    "aka": ["FEV"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://www.futureenergy.ventures/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/future-energy-ventures"
+    },
+    "capital": {
+      "current_fund": { "raw": "€205M (plus €30M Italy vehicle)", "usd": 222000000, "currency": "EUR" },
+      "funds": [
+        { "name": "Future Energy Ventures Fund II", "vintage_year": 2025, "size": { "raw": "€205M", "usd": 222000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United States"],
+      "sector_focus": ["climate-energy", "ai-ml", "deeptech"],
+      "thesis": "Energy-transition VC backing Series A/B companies in AI-driven grid optimisation, energy storage, e-mobility, smart buildings and frontier technologies. Initially anchored by E.ON; positions itself as the largest European energy-tech-focused VC advisor."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "tags": ["energy", "energytech", "decarbonisation"],
+    "summary": {
+      "en": "Berlin-based energy-transition VC originally established within E.ON. Closed Fund II at €205M (plus a €30M dedicated Italy vehicle) in November 2025, anchored by E.ON and the EIF, to back Series A/B energy-tech startups across Europe and the US."
+    },
+    "sources": [
+      { "url": "https://www.eu-startups.com/2025/11/future-energy-ventures-closes-e205-million-fund-ii-strengthening-its-role-in-european-energytech-vc/", "title": "Future Energy Ventures closes €205 million Fund II", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "Fund II size, Italy vehicle, anchors, focus", "quote": "the closing of Future Energy Ventures Fund II with a volume of €205 million, along with a dedicated capital fund for Italy of €30 million" },
+      { "url": "https://www.eu-startups.com/2024/01/future-energy-ventures-launches-e110-million-fund-to-bet-on-decarbonisation-of-the-energy-system/", "title": "Future Energy Ventures launches €110 million fund", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "earlier first-close volume, E.ON background", "quote": "Future Energy Ventures launches €110 million fund to bet on decarbonisation of the energy system" }
+    ],
+    "confidence": "high",
+    "verification_notes": "FEV originated within E.ON (~2016). Fund II first close was €110M (Jan 2024) and reached €205M final close Nov 2025. Founded_year approximate.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-ubermorgen-ventures",
+    "name": { "en": "Übermorgen Ventures", "local": "Übermorgen Ventures" },
+    "aka": ["Uebermorgen Ventures"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "europe",
+    "country": "Switzerland",
+    "hq_city": "Zurich",
+    "website": "https://www.uebermorgen.vc/",
+    "offices": [
+      { "country": "Switzerland", "city": "Zurich" },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/ubermorgen-ventures"
+    },
+    "capital": {
+      "current_fund": { "raw": "CHF 50M", "usd": 56000000, "currency": "CHF" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["climate-energy", "deeptech", "hardware-semiconductor"],
+      "thesis": "Early-stage climate-tech VC investing across three pillars — decarbonisation, carbon removal, and adaptation & resilience — in hardware and software with scalable greenhouse-gas-reduction potential."
+    },
+    "track_record": {
+      "portfolio_count": 43,
+      "notable_investments": [
+        { "company": "Carbonfuture", "sector": "carbon removal", "outcome": "active" },
+        { "company": "Marathon Fusion", "sector": "fusion", "outcome": "active" },
+        { "company": "Open Forest Protocol", "sector": "MRV / forestry", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Adrian Bührer", "role": "Partner" },
+      { "name": "Myke Näf", "role": "Partner" }
+    ],
+    "team_size": 14,
+    "tags": ["climate", "deeptech", "evergreen"],
+    "summary": {
+      "en": "Zurich-based early-stage climate-tech VC founded in 2019, ranked among Europe's most active climate investors by Sifted. A CHF 50M evergreen fund backing ~43 companies across decarbonisation, carbon removal and climate adaptation.",
+      "local": "Zürcher Frühphasen-Climate-Tech-Venture-Capital-Firma, gegründet 2019; ein Evergreen-Fonds von CHF 50 Mio. mit rund 43 Portfoliounternehmen."
+    },
+    "sources": [
+      { "url": "https://www.uebermorgen.vc/", "title": "Übermorgen Ventures — Building a resilient and zero-carbon economy", "publisher": "Übermorgen Ventures", "accessed": "2026-06-02", "supports": "thesis, three pillars, portfolio, partners", "quote": "We invest in early-stage startups that seize climate as an opportunity to disrupt entire industries" },
+      { "url": "https://www.startupticker.ch/en/investors/uebermorgen-ventures", "title": "Übermorgen Ventures", "publisher": "Startupticker.ch", "accessed": "2026-06-02", "supports": "fund size, founding, team, portfolio count", "quote": "Übermorgen Ventures is a 50 million Swiss francs early-stage venture capital firm for climate tech startups" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund size (CHF 50M), team size (14) and portfolio count (43) per secondary listings (Startupticker / Tracxn); not all confirmed on official site. USD conversion approximate.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-kompas-vc",
+    "name": { "en": "KOMPAS VC" },
+    "aka": ["Kompas"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "Denmark",
+    "hq_city": "Copenhagen",
+    "website": "https://www.kompas.vc/",
+    "offices": [
+      { "country": "Denmark", "city": "Copenhagen" },
+      { "country": "Netherlands", "city": "Amsterdam" },
+      { "country": "Spain", "city": "Barcelona" },
+      { "country": "Germany", "city": "Berlin" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/kompas-vc",
+      "other": ["https://www.kompas.vc/about-us"]
+    },
+    "capital": {
+      "aum": { "raw": "€300M", "usd": 326000000, "currency": "EUR" },
+      "current_fund": { "raw": "€160M", "usd": 174000000, "currency": "EUR" },
+      "funds": [
+        { "name": "KOMPAS VC Fund II", "vintage_year": 2025, "size": { "raw": "€160M", "usd": 174000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "North America", "Israel"],
+      "sector_focus": ["climate-energy", "robotics", "ai-ml", "cybersecurity"],
+      "thesis": "Backs industrial technologies for physical industries that accelerate productivity, resilience and decarbonisation — industrial AI, robotics and cybersecurity ('physical AI')."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Sebastian Peck", "role": "Managing Partner / Co-founder" },
+      { "name": "Talia Rafaeli", "role": "Partner / Co-founder" },
+      { "name": "Andreas Winter-Extra", "role": "Partner / Co-founder" }
+    ],
+    "tags": ["industrial", "decarbonisation", "climate", "physical-ai"],
+    "summary": {
+      "en": "Copenhagen-based VC (founded 2021) investing in industrial technologies for decarbonisation and physical industries. Closed a €160M Fund II in 2025, bringing AUM to ~€300M across two funds, with offices in Amsterdam, Barcelona, Berlin and Copenhagen."
+    },
+    "sources": [
+      { "url": "https://www.esgtoday.com/kompas-vc-raises-e160-million-to-back-industrial-productivity-and-decarbonization-startups/", "title": "Kompas VC Raises €160 Million to Back Industrial Productivity and Decarbonization Startups", "publisher": "ESG Today", "accessed": "2026-06-02", "supports": "Fund II size, AUM, founders, offices, focus", "quote": "the €160 million final close of its second fund ... The firm manages €300 million across two fund generations" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Climate/decarbonisation is a core but not exclusive thesis (also industrial AI, robotics, cybersecurity). Fund II first close €150M, final €160M.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-nysno-climate-investments",
+    "name": { "en": "Nysnø Climate Investments", "local": "Nysnø Klimainvesteringer" },
+    "aka": ["Nysno"],
+    "type": "government-program",
+    "subtypes": ["vc", "growth-equity"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "europe",
+    "country": "Norway",
+    "hq_city": "Stavanger",
+    "website": "https://nysnoinvest.no/en/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/nysnoinvest/"
+    },
+    "capital": {
+      "aum": { "raw": "NOK 5.4 billion", "usd": 500000000, "currency": "NOK" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Norway", "Europe"],
+      "sector_focus": ["climate-energy", "deeptech"],
+      "thesis": "State-owned climate investment company investing in companies and funds with profitable solutions to climate change, across clean energy, digital and enabling technologies, resource efficiency, sustainable demand and the circular economy."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "tags": ["climate", "state-owned", "energy", "circular-economy"],
+    "summary": {
+      "en": "Norwegian state-owned climate investment company (established 2017, owned by the Ministry of Trade, Industry & Fisheries) based in Stavanger. Manages ~NOK 5.4bn, investing directly in low-emission companies and as an LP in climate funds.",
+      "local": "Statlig norsk klimainvesteringsselskap (etablert 2017, eid av Nærings- og fiskeridepartementet) med hovedkontor i Stavanger; forvalter rundt 5,4 milliarder kroner."
+    },
+    "sources": [
+      { "url": "https://nysnoinvest.no/en/", "title": "Nysnø Climate Investments", "publisher": "Nysnø", "accessed": "2026-06-02", "supports": "mandate, ownership, focus", "quote": "Nysnø Climate Investments (Nysnø) is a state-owned company that invests in companies and funds with profitable and smart solutions to climate change" },
+      { "url": "https://www.iea.org/policies/27446-nysno-state-owned-climate-investment-company-investments", "title": "Nysnø, state-owned climate investment company investments", "publisher": "IEA", "accessed": "2026-06-02", "supports": "founding year, AUM, focus", "quote": "Established in 2017, Nysnø Climate Investments ... With 5,4 billion NOK in assets under management" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Government-owned investor that operates as a climate VC/growth investor and fund-of-funds. USD AUM approximate from NOK 5.4bn.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-blume-equity",
+    "name": { "en": "Blume Equity" },
+    "aka": [],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.blumeequity.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/blume-equity"
+    },
+    "capital": {
+      "current_fund": { "raw": "€200M (target)", "usd": 217000000, "currency": "EUR" },
+      "funds": [
+        { "name": "Blume Equity Fund I", "vintage_year": 2024, "size": { "raw": "€200M (target)", "usd": 217000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "€10–40M", "usd_min": 10800000, "usd_max": 43000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["climate-energy", "impact"],
+      "thesis": "Female-founded and led growth-stage climate investor making €10–40M investments from Series B onwards into European businesses addressing climate and environmental challenges; plans to back 12–15 companies."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Sensorfact", "sector": "energy efficiency", "outcome": "active" },
+        { "company": "Aerones", "sector": "wind-farm robotics", "outcome": "active" },
+        { "company": "Normative", "sector": "carbon accounting", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Clare Murray", "role": "Founding Partner" },
+      { "name": "Michelle Capiod", "role": "Founding Partner" },
+      { "name": "Eleanor Blagbrough", "role": "Founding Partner" }
+    ],
+    "tags": ["climate", "growth", "women-led", "article-9"],
+    "summary": {
+      "en": "London-based, 100% female-founded and led growth-stage climate VC. Raising a ~€200M Fund I (backed by the EIF, AP4, LGT Capital and the Visa Foundation), writing €10–40M checks from Series B into European climate-tech businesses such as Sensorfact, Aerones and Normative."
+    },
+    "sources": [
+      { "url": "https://www.eif.org/InvestEU/news/2023/investeu-eif-invests-eur-40-million-into-the-european-climate-tech-growth-fund-blume-equity.htm", "title": "InvestEU: EIF invests €40 million into Blume Equity", "publisher": "European Investment Fund", "accessed": "2026-06-02", "supports": "EIF commitment, check size, stage, founders", "quote": "Blume Equity makes €10 - 40m investments in climate tech businesses at the Series B stage and onwards" },
+      { "url": "https://www.british-business-bank.co.uk/news-and-events/news/british-patient-capital-makes-eu25m-commitment-to-blume-equity-fund-i-to-support-companies-tackling-climate-change", "title": "British Patient Capital makes €25m commitment to Blume Equity Fund I", "publisher": "British Business Bank", "accessed": "2026-06-02", "supports": "fund target, LPs, climate focus", "quote": "British Patient Capital makes €25m commitment to Blume Equity Fund I to support companies tackling climate change" }
+    ],
+    "confidence": "high",
+    "verification_notes": "€200M is the stated target; final close size not confirmed. Website URL inferred as blumeequity.com.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-kiko-ventures",
+    "name": { "en": "Kiko Ventures" },
+    "aka": [],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://kiko.vc/",
+    "links": {
+      "linkedin": "https://uk.linkedin.com/company/kiko-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "£375M / $450M (platform)", "usd": 450000000, "currency": "GBP" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United Kingdom", "Europe"],
+      "sector_focus": ["climate-energy", "deeptech", "hardware-semiconductor"],
+      "thesis": "Evergreen cleantech investor (the cleantech arm of IP Group plc) backing deep-tech climate companies from research breakthrough to scale, recycling exit returns into new opportunities for a long-horizon portfolio."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Robert Trezona", "role": "Partner" },
+      { "name": "Jamie Vollbracht", "role": "Partner" },
+      { "name": "Arne Morteani", "role": "Partner" }
+    ],
+    "tags": ["cleantech", "evergreen", "deeptech", "climate"],
+    "summary": {
+      "en": "London-based evergreen cleantech VC launched in 2022 as the climate-investment arm of IP Group plc, with a £375M ($450M) platform (over £175M in existing assets) and plans to deploy £200M over five years into deep-tech climate companies."
+    },
+    "sources": [
+      { "url": "https://www.eu-startups.com/2022/06/london-based-kiko-ventures-launches-as-a-e427-million-platform-to-support-transformative-climate-tech/", "title": "London-based Kiko Ventures launches as a €427 million platform", "publisher": "EU-Startups", "accessed": "2026-06-02", "supports": "platform size, IP Group parentage, evergreen", "quote": "London-based Kiko Ventures launches as a €427 million platform to support transformative climate tech" },
+      { "url": "https://www.ipgroupplc.com/news-and-events/ip-group-news/2022/22-06-2022", "title": "Launches 'Kiko Ventures' platform", "publisher": "IP Group plc", "accessed": "2026-06-02", "supports": "platform size, deployment plan, partners, existing assets", "quote": "launched as a $450m (£375m) platform ... The team plans to deploy £200 million over the next five years" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Evergreen platform rather than a traditional closed-end fund. €427M figure (EU-Startups) is the EUR-equivalent of the £375M/$450M platform.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-demeter-partners",
+    "name": { "en": "Demeter Partners", "local": "Demeter" },
+    "aka": ["Demea Sustainable Investment", "Demeter IM"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2005,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://demeter-im.com/",
+    "offices": [
+      { "country": "France", "city": "Paris" },
+      { "country": "Spain", "city": "Madrid" },
+      { "country": "Germany", "city": "Düsseldorf" },
+      { "country": "Canada", "city": "Montreal" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/demeter-1e8a"
+    },
+    "capital": {
+      "aum": { "raw": "€1.5bn", "usd": 1630000000, "currency": "EUR" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["France", "Europe"],
+      "sector_focus": ["climate-energy", "mobility", "deeptech"],
+      "thesis": "One of Europe's largest dedicated ecological-transition investors, spanning venture, growth and infrastructure funds in energy, ecological transition and infrastructure."
+    },
+    "track_record": {
+      "portfolio_count": 240,
+      "notable_investments": []
+    },
+    "people": [],
+    "tags": ["energy-transition", "ecological-transition", "cleantech", "infrastructure"],
+    "summary": {
+      "en": "Paris-headquartered investment firm (founded 2005, now also branded Demea Sustainable Investment) dedicated to the ecological and energy transition. Manages ~€1.5bn across venture, growth and infrastructure funds with ~240 investments since 2005.",
+      "local": "Société d'investissement basée à Paris (fondée en 2005), dédiée à la transition écologique et énergétique ; gère environ 1,5 milliard d'euros et a réalisé environ 240 investissements depuis 2005."
+    },
+    "sources": [
+      { "url": "https://demea-si.com/en/home/", "title": "Demea Sustainable Investment (formerly Demeter)", "publisher": "Demea Sustainable Investment", "accessed": "2026-06-02", "supports": "AUM, team, investments, offices", "quote": "manages €1.5bn and has completed 240 investments since 2005" },
+      { "url": "https://www.crunchbase.com/organization/demeter-1e8a", "title": "Demeter — Crunchbase Company Profile", "publisher": "Crunchbase", "accessed": "2026-06-02", "supports": "Paris HQ, energy/ecological transition focus" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Spans VC, growth equity and infrastructure (not a pure VC). Rebranded as 'Demea Sustainable Investment'. AUM figures range €800M–€1.5bn across sources/dates; €1.5bn is the most recent.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-eurazeo-smart-city",
+    "name": { "en": "Eurazeo (Smart City / Climate venture program)", "local": "Eurazeo" },
+    "aka": ["Eurazeo Smart City Fund II"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://www.eurazeo.com/en/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/eurazeo"
+    },
+    "capital": {
+      "current_fund": { "raw": "€400M", "usd": 434000000, "currency": "EUR" },
+      "funds": [
+        { "name": "Eurazeo Smart City Fund II", "vintage_year": 2023, "size": { "raw": "€400M", "usd": 434000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "Asia", "Israel", "North America"],
+      "sector_focus": ["climate-energy", "proptech", "mobility", "logistics"],
+      "thesis": "Eurazeo's venture program for sustainable cities, targeting the key sectors of the low-carbon economy: renewable energy, advanced mobility, logistics, manufacturing and the built environment."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "1Komma5°", "sector": "residential energy", "outcome": "active" },
+        { "company": "Electra", "sector": "EV charging", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "tags": ["smart-city", "low-carbon", "climate", "built-environment"],
+    "summary": {
+      "en": "Smart-city/climate venture program of Paris-based investment group Eurazeo. Its second smart-city fund closed at €400M in 2023, targeting low-carbon sectors — renewable energy, advanced mobility, logistics, manufacturing and the built environment — across Europe and beyond.",
+      "local": "Programme de capital-risque 'smart city' / climat du groupe d'investissement parisien Eurazeo ; son deuxième fonds smart city a été clôturé à 400 millions d'euros en 2023."
+    },
+    "sources": [
+      { "url": "https://sifted.eu/articles/eurazeo-smart-city-fund-ii-news", "title": "France's Eurazeo closes second smart city fund at €400m", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "fund size, sectors", "quote": "Eurazeo has announced the third and final closing of its second smart city fund at €400m" },
+      { "url": "https://funds-europe.com/eurazeo-smart-city-fund-ii-raises-400m-for-sustainable-tech/", "title": "Eurazeo Smart City fund II raises €400m for sustainable tech", "publisher": "Funds Europe", "accessed": "2026-06-02", "supports": "fund size, focus, portfolio", "quote": "Eurazeo Smart City fund II raises €400m for sustainable tech" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Eurazeo is a large diversified listed investment group; this entity captures its climate-focused Smart City venture program specifically. Founded_year reflects the Smart City program launch, not the parent group (1969).",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-nucleus-capital",
+    "name": { "en": "Nucleus Capital" },
+    "aka": [],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://www.nucleus-capital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/nucleus-capital"
+    },
+    "capital": {
+      "current_fund": { "raw": "€40M", "usd": 43000000, "currency": "EUR" },
+      "funds": [
+        { "name": "Nucleus Capital Fund II", "vintage_year": 2024, "size": { "raw": "€40M", "usd": 43000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€150k to €1M", "usd_min": 160000, "usd_max": 1080000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United States"],
+      "sector_focus": ["climate-energy", "biotech", "agritech", "deeptech"],
+      "thesis": "Deep-tech climate fund backing 'first believers in frontier founders' across programmable biology, food technology and green industrials at the pre-seed/seed stage."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Isabella Fandrych", "role": "Partner / Co-founder" },
+      { "name": "Maximilian Schwarz", "role": "Partner / Co-founder" }
+    ],
+    "tags": ["climate", "deeptech", "synthetic-biology", "pre-seed"],
+    "summary": {
+      "en": "Berlin-based pre-seed/seed deep-tech climate fund (founded 2020) focused on programmable biology, food technology and green industrials. Raised a ~€40M second fund (with KfW Capital backing), writing €150k–€1M checks across Europe and the US."
+    },
+    "sources": [
+      { "url": "https://sifted.eu/articles/nucleus-capital-fund-synthetic-biology-news", "title": "Nucleus Capital launches €40m fund focused on synthetic biology", "publisher": "Sifted", "accessed": "2026-06-02", "supports": "fund size, focus, stages", "quote": "as it launches €40m fund focused on synthetic biology" },
+      { "url": "https://www.kfw.de/About-KfW/Newsroom/Latest-News/Pressemitteilungen-Details_814784.html", "title": "KfW Capital makes first commitment under Emerging Manager Facility to Nucleus Capital DeepTech Clima", "publisher": "KfW", "accessed": "2026-06-02", "supports": "KfW commitment, deeptech climate focus", "quote": "KfW Capital makes first commitment under Emerging Manager Facility to Nucleus Capital DeepTech Clima" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Check-size €150k–€1M per secondary listing. Fund II ~90% subscribed as of Sifted reporting; final close size may differ slightly.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-carbon13",
+    "name": { "en": "Carbon13" },
+    "aka": ["Carbon Thirteen"],
+    "type": "venture-studio",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "Cambridge",
+    "website": "https://carbonthirteen.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/carbon13"
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "£120,000 (net £80,000 after costs)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United Kingdom", "Europe"],
+      "sector_focus": ["climate-energy", "deeptech"],
+      "thesis": "The venture builder for the climate emergency — brings together founders to form teams, build carbon-mitigating ventures and raise pre-seed funding."
+    },
+    "program": {
+      "length_weeks": 35,
+      "cohort_size": "70+ founders per cohort",
+      "equity_taken_pct": null,
+      "investment": { "raw": "£120,000 (net £80,000)", "usd": null, "currency": "GBP" },
+      "format": "hybrid",
+      "location": "Cambridge / Berlin",
+      "demo_day": true,
+      "application_url": "https://carbonthirteen.com/programmes/",
+      "eligibility": "Earliest-stage climate founders (pre-product-market-fit, pre-idea or pre-cofounder) building carbon-emissions-mitigating ventures"
+    },
+    "track_record": {
+      "portfolio_count": 64,
+      "notable_investments": []
+    },
+    "people": [],
+    "tags": ["climate", "venture-builder", "accelerator", "carbon"],
+    "summary": {
+      "en": "Cambridge-based (with a Berlin cohort) venture builder for the climate emergency, launched in 2021. Its ~8-month programme convenes 70+ founders per cohort to build carbon-mitigating ventures, investing £120,000 (net £80,000 to the venture) at pre-seed. Has built 64 startups."
+    },
+    "sources": [
+      { "url": "https://carbonthirteen.com/venture-builder-structure/", "title": "Carbon13 — Venture Builder Structure", "publisher": "Carbon13", "accessed": "2026-06-02", "supports": "investment amount, net equity-cost", "quote": "will receive £120,000, with a total of £40,000 of this investment returned to Carbon13 ... your new venture retains a net £80,000" },
+      { "url": "https://carbonthirteen.com/programmes/", "title": "Programmes — Carbon13", "publisher": "Carbon13", "accessed": "2026-06-02", "supports": "programme length, cohort size, portfolio count, eligibility", "quote": "The eight-month programme sees a cohort of 70+ founders come together ... Carbon13 has invested in 64 innovative carbon emissions-mitigating startups since 2021" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Equity % not publicly fixed (the £40k returned covers programme cost rather than a stated equity stake). Programme length ~8 months ≈ 35 weeks.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-sustainable-ventures",
+    "name": { "en": "Sustainable Ventures" },
+    "aka": ["Sustainable Venture Development Partners"],
+    "type": "accelerator",
+    "subtypes": ["incubator", "vc"],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.sustainableventures.co.uk/",
+    "offices": [
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "United Kingdom", "city": "Manchester" },
+      { "country": "United Kingdom", "city": "Glasgow" },
+      { "country": "United Kingdom", "city": "Cambridge" }
+    ],
+    "links": {
+      "linkedin": "https://uk.linkedin.com/company/sustainable-venture-development-partners"
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "£150k–£350k", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United Kingdom"],
+      "sector_focus": ["climate-energy", "impact"],
+      "thesis": "Climate-tech venture developer providing equity investment, workspace and support to UK net-zero and sustainability startups; runs the Sustainable Accelerator and (with Barclays Eagle Labs) the National Climate Tech Accelerator."
+    },
+    "program": {
+      "length_weeks": 52,
+      "cohort_size": "8–10 companies",
+      "equity_taken_pct": null,
+      "investment": { "raw": "£150k–£350k", "usd": null, "currency": "GBP" },
+      "format": "hybrid",
+      "location": "London (County Hall)",
+      "demo_day": null,
+      "eligibility": "Deep-technology, highly scalable, climate-tech-focused UK companies"
+    },
+    "track_record": {
+      "portfolio_count": "55+ (accelerator deals)",
+      "exits": [],
+      "notable_investments": []
+    },
+    "people": [],
+    "tags": ["climate", "accelerator", "net-zero", "uk"],
+    "summary": {
+      "en": "London-based climate-tech venture developer (since 2011) running Europe's largest cluster of net-zero startups. Its Sustainable Accelerator invests £150k–£350k into 8–10 climate companies per cohort over a 12-month programme; portfolio companies have raised £1.1bn to date."
+    },
+    "sources": [
+      { "url": "https://www.sustainableventures.co.uk/investment", "title": "Investment for Climate Tech — Sustainable Ventures", "publisher": "Sustainable Ventures", "accessed": "2026-06-02", "supports": "check size, cohort size, programme length", "quote": "Sustainable Ventures offers equity of £150k–£350k per startup via Sustainable Accelerator 7 (SA7), targeting 8–10 companies" },
+      { "url": "https://www.sustainableventures.co.uk/", "title": "Sustainable Ventures — The Home of Climate Tech", "publisher": "Sustainable Ventures", "accessed": "2026-06-02", "supports": "founding year, scale, portfolio funding, exits", "quote": "Since 2011, Sustainable Ventures has created Europe's largest cluster of net zero and sustainability startups" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Hybrid model (accelerator + workspace + investment). Equity % per deal not publicly fixed. 55+ deals and £1.1bn portfolio funding per website summary.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-eqt-future",
+    "name": { "en": "EQT Future" },
+    "aka": [],
+    "type": "growth-equity",
+    "subtypes": ["impact"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "Sweden",
+    "hq_city": "Stockholm",
+    "website": "https://eqtgroup.com/private-capital/eqt-future",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/eqt-partners"
+    },
+    "capital": {
+      "current_fund": { "raw": "€3 billion (€3.6bn incl. co-invest)", "usd": 3300000000, "currency": "EUR" },
+      "funds": [
+        { "name": "EQT Future", "vintage_year": 2024, "size": { "raw": "€3 billion", "usd": 3300000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe", "North America"],
+      "sector_focus": ["climate-energy", "impact", "healthtech", "agritech"],
+      "thesis": "Impact-driven, longer-hold private-equity strategy investing in two themes — Climate & Nature and Health & Wellbeing — with carried interest linked to sustainability targets. Article 9 fund."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Anticimex", "sector": "biocide-free pest control", "outcome": "active" },
+        { "company": "Bloom Fresh International", "sector": "agriculture", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "tags": ["impact", "climate", "growth", "article-9"],
+    "summary": {
+      "en": "Stockholm-headquartered impact-driven, longer-hold strategy from EQT, closed at €3bn in March 2024. Invests in Climate & Nature and Health & Wellbeing themes with carry tied to sustainability targets; one of Europe's largest dedicated climate-and-impact pools."
+    },
+    "sources": [
+      { "url": "https://www.loyensloeff.com/insights/news--events/news/eqt-future-closes-at-eur-3-billion-investing-in-sustainability-and-health/", "title": "EQT Future closes at EUR 3 billion, investing in sustainability and health", "publisher": "Loyens & Loeff", "accessed": "2026-06-02", "supports": "fund size, themes", "quote": "EQT Future closes at EUR 3 billion, investing in sustainability and health" },
+      { "url": "https://eqtgroup.com/news/eqt-future-holds-final-close-over-eur-25-billion-usd-27-billion-raised-across-eqt-private-equity-in-fundraisings-concluded-during-2024-to-date-2024-03-05", "title": "EQT Future holds final close", "publisher": "EQT Group", "accessed": "2026-06-02", "supports": "final close, total commitments, Article 9, portfolio", "quote": "EQT Future holds final close ... total fee-generating commitments to the strategy, including co-investments, totaling EUR 3.6 billion" }
+    ],
+    "confidence": "high",
+    "verification_notes": "EQT Future is a large impact-oriented PE/growth strategy (not a classic VC); included because Climate & Nature is a core theme. USD ~$3.3bn for the €3bn fund.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "eu-energy-impact-partners-europe",
+    "name": { "en": "Energy Impact Partners (Europe)" },
+    "aka": ["EIP", "EIP Europe"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.energyimpactpartners.com/",
+    "offices": [
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "Germany", "city": "Cologne" },
+      { "country": "Norway", "city": "Oslo" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/energy-impact-partners"
+    },
+    "capital": {
+      "current_fund": { "raw": "€390M", "usd": 423000000, "currency": "EUR" },
+      "funds": [
+        { "name": "EIP European Fund", "vintage_year": 2022, "size": { "raw": "€390M", "usd": 423000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "€10–35M (up to €75M+ with co-invest)", "usd_min": 10800000, "usd_max": 38000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["climate-energy", "mobility", "deeptech"],
+      "thesis": "European arm of US-founded Energy Impact Partners, backing later-stage companies across the full spectrum of the energy transition / net-zero economy, taking minority and majority positions in scalable venture and growth-stage companies."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "tags": ["energy", "net-zero", "growth", "energy-transition"],
+    "summary": {
+      "en": "London-based European fund of Energy Impact Partners, launched 2022 with €390M (€140M over target), backed by Microsoft's Climate Innovation Fund, APG/ABP and Nysnø. Invests €10–35M (up to €75M+ with co-investment) into later-stage energy-transition companies across Europe."
+    },
+    "sources": [
+      { "url": "https://tech.eu/2022/09/13/energy-impact-partners-rolls-out-eur390-million-fund-to-accelerate-net-zero-carbon-economy-in-europe/", "title": "Energy Impact Partners rolls out €390 million fund", "publisher": "Tech.eu", "accessed": "2026-06-02", "supports": "fund size, focus, check size, LPs", "quote": "Energy Impact Partners rolls out €390 million fund to accelerate net zero carbon economy in Europe" },
+      { "url": "https://www.businesswire.com/news/home/20220913005392/en/Energy-Impact-Partners-launches-in-Europe-with-EUR-390-million-to-accelerate-the-push-towards-net-zero", "title": "Energy Impact Partners launches in Europe with EUR 390 million", "publisher": "BusinessWire", "accessed": "2026-06-02", "supports": "fund size over target, LPs", "quote": "the fund closed with €390 million, €140 million over its initial target" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Parent firm (EIP) is US-headquartered; this entry covers its dedicated European fund (London/Cologne/Oslo offices). Founded_year reflects the European fund launch, not the US parent (2015).",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  }
+]

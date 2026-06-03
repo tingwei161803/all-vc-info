@@ -1,0 +1,634 @@
+[
+  {
+    "id": "us-aix-ventures",
+    "name": { "en": "AIX Ventures" },
+    "aka": ["AIX"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.aixventures.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/aixventures",
+      "crunchbase": "https://www.crunchbase.com/organization/aix-ventures",
+      "other": ["https://www.aixventures.com/fund-news"]
+    },
+    "capital": {
+      "aum": { "raw": "~$252M across two funds", "usd": 252000000, "currency": "USD" },
+      "current_fund": { "raw": "$202M (Fund II)", "usd": 202000000, "currency": "USD" },
+      "funds": [
+        { "name": "AIX Ventures Fund I", "vintage_year": 2021, "size": { "raw": "$50M", "usd": 50000000, "currency": "USD" } },
+        { "name": "AIX Ventures Fund II", "vintage_year": null, "size": { "raw": "$202M", "usd": 202000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml"],
+      "thesis": "AI-focused fund built by AI researchers and practitioners; invests in AI-native companies where artificial intelligence is the core product, with hands-on technical diligence generalist funds cannot provide."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Hugging Face", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Perplexity", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Weights & Biases", "sector": "ai-ml", "outcome": "active" },
+        { "company": "You.com", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Chroma", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Richard Socher", "role": "Co-Founder & Managing Partner" },
+      { "name": "Shaun Johnson", "role": "Co-Founder & Managing Partner" },
+      { "name": "Pieter Abbeel", "role": "Investment Partner" },
+      { "name": "Anthony Goldbloom", "role": "Investment Partner" },
+      { "name": "Christopher Manning", "role": "Investment Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["ai-native", "early-stage", "specialist"],
+    "summary": {
+      "en": "San Francisco-based AI-specialist venture firm founded in 2021 by leading AI researchers (Richard Socher, Pieter Abbeel, Anthony Goldbloom, Chris Manning). Manages ~$252M across two funds and backs AI-native early-stage companies such as Hugging Face and Perplexity."
+    },
+    "sources": [
+      { "url": "https://www.aixventures.com/", "title": "AIX Ventures — The AI-focused fund built for and by the industry's best", "publisher": "AIX Ventures", "accessed": "2026-06-02", "supports": "AI-focused fund, portfolio companies", "quote": "The AI-focused fund built for and by the industry's best." },
+      { "url": "https://www.aixventures.com/fund-news", "title": "AIX Ventures Fund News", "publisher": "AIX Ventures", "accessed": "2026-06-02", "supports": "Fund I and Fund II sizes, founders, portfolio", "quote": "$202M to invest in early-stage AI companies ... $50M Fund I is focused on PreSeed and Seed startups" },
+      { "url": "https://www.crunchbase.com/organization/aix-ventures", "title": "AIX Ventures — Crunchbase", "publisher": "Crunchbase", "accessed": "2026-06-02", "supports": "Founded 2021, San Francisco, ~$252M AUM", "quote": "AIX Ventures is a venture capital firm founded in 2021 and based in San Francisco ... approximately $252 million across two funds" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I ($50M) and Fund II ($202M) confirmed via firm's own fund-news page; ~$252M total AUM corroborated by Crunchbase summary. Check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "us-conviction",
+    "name": { "en": "Conviction" },
+    "aka": ["Conviction Partners"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.conviction.com/",
+    "links": {
+      "other": ["https://techcrunch.com/2025/01/31/guos-conviction-partners-adds-mike-vernal-as-gp-raises-230m-fund/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": "$230M (Fund II)", "usd": 230000000, "currency": "USD" },
+      "funds": [
+        { "name": "Conviction Fund I", "vintage_year": 2022, "size": { "raw": "$101M", "usd": 101000000, "currency": "USD" } },
+        { "name": "Conviction Fund II", "vintage_year": 2025, "size": { "raw": "$230M", "usd": 230000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$1M to $25M", "usd_min": 1000000, "usd_max": 25000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml"],
+      "thesis": "Venture firm purpose-built to serve AI-native, 'Software 3.0' companies; often the first investor in technical teams translating powerful AI models into products that transform industries."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Mistral AI", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Harvey", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Sierra", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Cognition", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Baseten", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Sarah Guo", "role": "Founder & General Partner" },
+      { "name": "Mike Vernal", "role": "General Partner" },
+      { "name": "Pranav Reddy", "role": "Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["ai-native", "software-3.0", "early-stage"],
+    "summary": {
+      "en": "San Francisco AI-native venture firm founded in 2022 by Sarah Guo (ex-Greylock). Raised a $230M second fund in 2025 and writes $1M–$25M checks into AI-native 'Software 3.0' companies including Mistral, Harvey and Sierra."
+    },
+    "sources": [
+      { "url": "https://www.conviction.com/", "title": "Conviction", "publisher": "Conviction", "accessed": "2026-06-02", "supports": "AI-native thesis, check size, portfolio, partners", "quote": "A new venture firm purpose-built to serve AI-Native, 'Software 3.0' companies ... $1 to $25M checks" },
+      { "url": "https://techcrunch.com/2025/01/31/guos-conviction-partners-adds-mike-vernal-as-gp-raises-230m-fund/", "title": "Guo's Conviction Partners adds Mike Vernal as GP, raises $230M fund", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "Fund I $101M, Fund II $230M, founding, portfolio", "quote": "Conviction secured a second fund with $230 million in capital commitments, more than doubling its initial $101 million fund." }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I ($101M, 2022) and Fund II ($230M, 2025) confirmed by TechCrunch; check size $1M–$25M from firm site. Total AUM not separately disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "us-zetta-venture-partners",
+    "name": { "en": "Zetta Venture Partners" },
+    "aka": ["Zetta"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.zettavp.com/",
+    "offices": [
+      { "country": "United States", "city": "San Francisco" },
+      { "country": "United States", "city": "New York" }
+    ],
+    "links": {
+      "other": ["https://www.prnewswire.com/news-releases/zetta-venture-partners-fuels-the-future-of-ai-with-180-million-fund-301040135.html"]
+    },
+    "capital": {
+      "aum": { "raw": "$365M", "usd": 365000000, "currency": "USD" },
+      "current_fund": { "raw": "$180M (Fund III)", "usd": 180000000, "currency": "USD" },
+      "funds": [
+        { "name": "Zetta Venture Partners III", "vintage_year": 2020, "size": { "raw": "$180M", "usd": 180000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml", "saas-enterprise"],
+      "thesis": "First venture firm exclusively focused on AI-first B2B businesses; provides zero-to-one capital and hands-on support for builders of AI-native applications, infrastructure and developer tools."
+    },
+    "track_record": {
+      "portfolio_count": 36,
+      "notable_investments": [
+        { "company": "Kaggle", "sector": "ai-ml", "outcome": "acquired" },
+        { "company": "Domino Data Lab", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Tractable", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Clearbit", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "MotherDuck", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Mark Gorenberg", "role": "Founder & Managing Director" },
+      { "name": "Ash Fontana", "role": "Managing Director" },
+      { "name": "Jocelyn Goldfein", "role": "Managing Director" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["ai-first", "b2b", "lead-investor"],
+    "summary": {
+      "en": "San Francisco firm founded in 2013, described as the first VC exclusively focused on AI-first B2B companies. Closed a $180M third fund in 2020 (bringing AUM to $365M) and leads pre-traction rounds; portfolio includes Kaggle, Domino Data Lab and Tractable."
+    },
+    "sources": [
+      { "url": "https://www.zettavp.com/", "title": "Zetta Venture Partners — First Believers in AI Startups", "publisher": "Zetta Venture Partners", "accessed": "2026-06-02", "supports": "AI-native focus, offices, portfolio", "quote": "Zero to one capital and hands-on support for builders of AI Native applications, infrastructure, and developer tools." },
+      { "url": "https://www.prnewswire.com/news-releases/zetta-venture-partners-fuels-the-future-of-ai-with-180-million-fund-301040135.html", "title": "Zetta Venture Partners Fuels the Future of AI with $180 Million Fund", "publisher": "PR Newswire", "accessed": "2026-06-02", "supports": "Fund III $180M, AUM $365M, founded 2013, partners, 36 companies", "quote": "Zetta Venture Partners ... closed its third fund at $180 million ... bringing the firm's total assets under management to $365 million." }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund III $180M and $365M total AUM confirmed via PR Newswire (2020). Portfolio count (36) from same era; may be higher now. Check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "us-signalfire",
+    "name": { "en": "SignalFire" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.signalfire.com/",
+    "links": {
+      "other": ["https://www.businesswire.com/news/home/20250407594969/en/AI-Native-VC-SignalFire-Raises-Over-$1B-to-Fuel-the-Next-Wave-of-Applied-AI-Startups-Pushing-AUM-to-$3B"]
+    },
+    "capital": {
+      "aum": { "raw": "~$3B", "usd": 3000000000, "currency": "USD" },
+      "current_fund": { "raw": "over $1B in new capital (2025)", "usd": 1000000000, "currency": "USD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml", "healthtech", "cybersecurity", "saas-enterprise", "consumer"],
+      "thesis": "AI-native VC focused on applied AI as the defining opportunity of its time; aims to be the 'first check' for applied AI founders from pre-seed through Series B, powered by its proprietary Beacon AI data platform."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Grammarly", "sector": "ai-ml", "outcome": "active" },
+        { "company": "EvenUp", "sector": "ai-ml", "outcome": "active" },
+        { "company": "CodaMetrix", "sector": "healthtech", "outcome": "active" },
+        { "company": "Clutch Security", "sector": "cybersecurity", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Chris Farmer", "role": "Founder & CEO" },
+      { "name": "Ilya Kirnos", "role": "Founding Partner & CTO" },
+      { "name": "Wayne Hu", "role": "Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["ai-native", "applied-ai", "data-driven", "beacon-ai"],
+    "summary": {
+      "en": "San Francisco AI-native VC founded in 2013 by Chris Farmer. Raised over $1B in new capital in 2025, pushing AUM to ~$3B, and invests pre-seed through Series B in applied-AI startups, aided by its proprietary Beacon AI platform built on data from 650M+ individuals."
+    },
+    "sources": [
+      { "url": "https://www.signalfire.com/blog/signalfire-raises-one-billion-in-new-capital", "title": "We've raised another $1 billion to back the next generation of applied AI startups", "publisher": "SignalFire", "accessed": "2026-06-02", "supports": "Founded 2013, >$1B raised, ~$3B AUM, stages, Beacon AI, partners, portfolio", "quote": "over $1 billion in fresh capital ... Beacon AI ... built on data from 650+ million individuals and 80+ million organizations" },
+      { "url": "https://www.businesswire.com/news/home/20250407594969/en/AI-Native-VC-SignalFire-Raises-Over-$1B-to-Fuel-the-Next-Wave-of-Applied-AI-Startups-Pushing-AUM-to-$3B", "title": "AI-Native VC SignalFire Raises Over $1B ... Pushing AUM to $3B", "publisher": "Business Wire", "accessed": "2026-06-02", "supports": "AUM ~$3B, AI-native positioning", "quote": "AI-Native VC SignalFire Raises Over $1B to Fuel the Next Wave of Applied AI Startups, Pushing AUM to ~$3B" }
+    ],
+    "confidence": "high",
+    "verification_notes": "2025 raise of >$1B and ~$3B AUM confirmed by firm blog and Business Wire headline. Individual fund sizes/vintages and check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "us-basis-set-ventures",
+    "name": { "en": "Basis Set Ventures" },
+    "aka": ["Basis Set"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.basisset.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/basis-set-ventures",
+      "other": ["https://en.wikipedia.org/wiki/Basis_Set_Ventures"]
+    },
+    "capital": {
+      "aum": { "raw": "$850M (as of 2026)", "usd": 850000000, "currency": "USD" },
+      "current_fund": { "raw": "$250M (Fund IV)", "usd": 250000000, "currency": "USD" },
+      "funds": [
+        { "name": "Basis Set Ventures II", "vintage_year": 2021, "size": { "raw": "$165M", "usd": 165000000, "currency": "USD" } },
+        { "name": "Basis Set Ventures III", "vintage_year": 2024, "size": { "raw": "$185M", "usd": 185000000, "currency": "USD" } },
+        { "name": "Basis Set Ventures IV", "vintage_year": 2026, "size": { "raw": "$250M", "usd": 250000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml"],
+      "thesis": "One of the earliest firms to specialize in early-stage startups building with artificial intelligence; uses machine learning and proprietary software to support investment sourcing and analysis."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Sakana AI", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Drata", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "DataGrail", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Quince", "sector": "ecommerce", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Lan Xuezhao", "role": "Founder & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["ai-specialist", "early-stage", "data-driven"],
+    "summary": {
+      "en": "San Francisco AI-specialist firm founded in 2017 by Lan Xuezhao (ex-Dropbox). One of the earliest dedicated AI VCs; raised a $250M Fund IV in 2026 to bring AUM to ~$850M, and backs early-stage AI companies such as Sakana AI."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Basis_Set_Ventures", "title": "Basis Set Ventures — Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "Founded 2017, founder, HQ, fund sizes II/III/IV, $850M AUM, AI specialization", "quote": "Fund II: $165 million (April 2021) ... Fund III: $185 million (February 2024) ... Fund IV: $250 million (January 2026) ... $850 million (as of 2026)" },
+      { "url": "https://www.basisset.com/", "title": "Basis Set", "publisher": "Basis Set Ventures", "accessed": "2026-06-02", "supports": "AI-focused positioning, San Francisco", "quote": "Basis Set Ventures is an American venture capital firm that was one of the earliest to specialize in investing in early-stage startups building with artificial intelligence." }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund sizes (II $165M, III $185M, IV $250M) and $850M AUM per Wikipedia entry citing primary announcements; Fund I size undisclosed. Check size not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "us-gradient-ventures",
+    "name": { "en": "Gradient Ventures" },
+    "aka": ["Gradient"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Mountain View",
+    "website": "https://www.gradient.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/gradient-ventures",
+      "other": ["https://fortune.com/2026/03/17/google-backed-ai-investors-nobody-took-seriously-2017-raised-220-million-gradient/"]
+    },
+    "capital": {
+      "aum": { "raw": "nearly $1.2B across five funds", "usd": 1200000000, "currency": "USD" },
+      "current_fund": { "raw": "$220M (Fund V)", "usd": 220000000, "currency": "USD" },
+      "funds": [
+        { "name": "Gradient Ventures Fund V", "vintage_year": 2026, "size": { "raw": "$220M", "usd": 220000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml"],
+      "thesis": "Google-founded AI-focused venture fund investing at the forefront of artificial intelligence since 2017; backs early-stage AI companies at pre-seed and seed."
+    },
+    "track_record": {
+      "portfolio_count": "500+",
+      "notable_investments": [
+        { "company": "Lambda", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Writer", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Krea", "sector": "ai-ml", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Streamlit", "type": "M&A", "year": null, "value": { "raw": "$700–$800M (acquired by Snowflake)", "usd": 750000000, "currency": "USD" } },
+        { "company": "CentML", "type": "M&A", "year": null, "value": { "raw": "$400M+ (acquired by Nvidia)", "usd": 400000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Darian Shirazi", "role": "General Partner" },
+      { "name": "Zach Bratun-Glennon", "role": "General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["ai-specialist", "google-backed", "seed"],
+    "summary": {
+      "en": "AI-focused venture fund stood up by Google in 2017 (Mountain View). Closed a $220M Fund V in 2026 — its first with outside LPs — bringing AUM to nearly $1.2B across five funds and 500+ AI companies, including exits like Streamlit (to Snowflake) and CentML (to Nvidia)."
+    },
+    "sources": [
+      { "url": "https://fortune.com/2026/03/17/google-backed-ai-investors-nobody-took-seriously-2017-raised-220-million-gradient/", "title": "The Google-backed AI investors nobody took seriously in 2017 just raised $220 million", "publisher": "Fortune", "accessed": "2026-06-02", "supports": "Fund V $220M, ~$1.2B AUM, 500+ companies, founded 2017, partners, exits", "quote": "Gradient closed its $220 million fifth fund ... The firm now manages nearly $1.2 billion across five funds and has backed more than 500 AI companies." },
+      { "url": "https://www.gradient.com/team/", "title": "Team — Gradient Ventures", "publisher": "Gradient Ventures", "accessed": "2026-06-02", "supports": "General partners Darian Shirazi and Zach Bratun-Glennon", "quote": "General Partners: Darian Shirazi, Zach Bratun-Glennon" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund V $220M, ~$1.2B AUM and 500+ companies per Fortune (2026). Originally Google's CVC; took outside LPs with Fund V. Check size not disclosed; HQ Mountain View per Google origin.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "us-tola-capital",
+    "name": { "en": "Tola Capital" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2010,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Seattle",
+    "website": "https://tolacapital.com/",
+    "links": {
+      "other": ["https://techcrunch.com/2023/11/29/tola-capital-ai-enterprise-software-fund-230m/"]
+    },
+    "capital": {
+      "aum": { "raw": "$688M total funds to date", "usd": 688000000, "currency": "USD" },
+      "current_fund": { "raw": "$230M (Fund III)", "usd": 230000000, "currency": "USD" },
+      "funds": [
+        { "name": "Tola Capital Fund III", "vintage_year": 2023, "size": { "raw": "$230M", "usd": 230000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "$1M–$4M (seed); $5M–$15M (Series A/B)", "usd_min": 1000000, "usd_max": 15000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "cybersecurity"],
+      "thesis": "Invests in AI-enabled enterprise software, focusing on domain-specific foundation models, AI/ML tooling, AI SaaS applications, AI compliance/governance and AI security tools."
+    },
+    "track_record": {
+      "portfolio_count": 57,
+      "notable_investments": [
+        { "company": "Holistic AI", "sector": "ai-ml", "outcome": "active" },
+        { "company": "FeatureByte", "sector": "ai-ml", "outcome": "active" },
+        { "company": "OneTrust", "sector": "saas-enterprise", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Clipchamp", "type": "M&A", "year": null, "value": { "raw": "acquired by Microsoft", "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Sheila Gulati", "role": "Founder & Managing Director" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["ai-enterprise", "enterprise-software"],
+    "summary": {
+      "en": "Seattle firm founded in 2010 by ex-Microsoft executive Sheila Gulati, investing globally in AI-enabled enterprise software. Raised a $230M Fund III in 2023 (total $688M raised) and writes $1M–$15M checks from seed to Series B."
+    },
+    "sources": [
+      { "url": "https://techcrunch.com/2023/11/29/tola-capital-ai-enterprise-software-fund-230m/", "title": "Tola Capital, investing in AI-enabled enterprise software, closes largest fund at $230M", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "Fund III $230M, $688M total, check sizes, sector focus", "quote": "Tola Capital ... secured $230 million in capital commitments for its third fund ... $688 million in total funds to date ... Seed: $1 million to $4 million ... Series A/B: $5 million to $15 million" },
+      { "url": "https://www.geekwire.com/2023/tola-capital-raises-230m-for-third-fund-to-help-seattle-area-firm-back-enterprise-software-startups/", "title": "Tola Capital raises $230M for third fund", "publisher": "GeekWire", "accessed": "2026-06-02", "supports": "Seattle HQ, founded 2010, AI/enterprise focus, 57 companies", "quote": "Tola Capital is a venture capital firm founded in 2010 and based in Seattle, Washington." }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund III $230M, $688M total raised, and check-size bands confirmed by TechCrunch; founded 2010, Seattle, 57-company portfolio per GeekWire/PitchBook.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "us-flying-fish-partners",
+    "name": { "en": "Flying Fish Partners" },
+    "aka": ["Flying Fish Ventures", "Flying Fish"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Seattle",
+    "website": "https://www.flyingfish.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/flying-fish-venture-partners",
+      "other": ["https://www.businesswire.com/news/home/20220517005440/en/Flying-Fish-Partners-Closes-Fund-II-a-$70M-Fund-to-Back-Early-Stage-Startups"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": "$70M (Fund II)", "usd": 70000000, "currency": "USD" },
+      "funds": [
+        { "name": "Flying Fish Partners II, L.P.", "vintage_year": 2022, "size": { "raw": "$70M", "usd": 70000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml"],
+      "thesis": "Seed-stage firm investing in the artificial intelligence and machine learning sector — software and mixed hardware/software companies that use AI/ML as foundations, provide AI/ML products and services, or build tools for AI/ML practitioners."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Frank Chang", "role": "Co-Founder & Managing Director" },
+      { "name": "Heather Redman", "role": "Co-Founder & Managing Director" },
+      { "name": "Adriane Brown", "role": "Managing Director" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["applied-ai", "seed", "pacific-northwest"],
+    "summary": {
+      "en": "Seattle-based seed-stage VC founded in 2016 by former Microsoft AI operators, investing exclusively in applied AI and machine learning startups. Closed a $70M Fund II in 2022."
+    },
+    "sources": [
+      { "url": "https://www.businesswire.com/news/home/20220517005440/en/Flying-Fish-Partners-Closes-Fund-II-a-$70M-Fund-to-Back-Early-Stage-Startups", "title": "Flying Fish Partners Closes Fund II, a $70M Fund to Back Early-Stage Startups", "publisher": "Business Wire", "accessed": "2026-06-02", "supports": "Fund II $70M, AI/ML seed focus, partners", "quote": "Flying Fish Partners Closes Fund II, a $70M Fund to Back Early-Stage Startups" },
+      { "url": "https://www.geekwire.com/2022/flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-ai-ml-startups/", "title": "Flying Fish raises $70M fund and will cast net beyond Seattle to back more AI/ML startups", "publisher": "GeekWire", "accessed": "2026-06-02", "supports": "Founded 2016, Seattle, AI/ML seed focus, founders", "quote": "Flying Fish ... making seed-stage investments in software and mixed hardware and software companies that use AI or ML as foundations" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund II $70M confirmed via Business Wire; founded 2016, Seattle, AI/ML-exclusive per GeekWire. Total AUM and check size not disclosed; Fund I size not published.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "us-differential-ventures",
+    "name": { "en": "Differential Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York",
+    "website": "https://www.differential.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/differential-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "~$60M", "usd": 60000000, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": "USD" },
+      "funds": [
+        { "name": "Differential Ventures Fund I", "vintage_year": 2017, "size": { "raw": "$20M", "usd": 20000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$250K–$3M", "usd_min": 250000, "usd_max": 3000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "cybersecurity"],
+      "thesis": "AI-native venture fund led by data scientists and entrepreneurs, investing in data-centric B2B tech companies across AI-powered business, the ML technology stack, the future of engineering/infrastructure, and responsible data management."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Databand", "sector": "ai-ml", "outcome": "acquired" },
+        { "company": "Cyolo", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Deeplite", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Nick Adams", "role": "Co-Founder & General Partner" },
+      { "name": "David Magerman", "role": "Co-Founder & General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["ai-native", "data-centric", "b2b"],
+    "summary": {
+      "en": "New York AI-native seed fund founded in 2017 by Nick Adams and David Magerman (ex-Renaissance Technologies). Invests $250K–$3M in data-centric B2B/AI companies; manages roughly $60M AUM with Fund I at $20M."
+    },
+    "sources": [
+      { "url": "https://www.differential.vc/", "title": "Differential Ventures", "publisher": "Differential Ventures", "accessed": "2026-06-02", "supports": "Stages, check size, sector focus, AI-native thesis, NY HQ", "quote": "We are pre-seed and seed investors ... Our initial check size ranges between $250,000-$3,000,000 ... We invest in data-centric B2B tech companies" },
+      { "url": "https://f4.fund/firms/differential-ventures", "title": "Differential Ventures — Investment Thesis & Preferences", "publisher": "f4.fund", "accessed": "2026-06-02", "supports": "Founded 2017, founders, ~$60M AUM, Fund I $20M", "quote": "Differential currently manages approximately $60M in AUM ... Fund I was $20M (fully deployed)" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Stages, check size and AI-native/data-centric thesis confirmed by firm site (primary). Fund I $20M and ~$60M AUM from secondary aggregator (f4.fund); not independently confirmed via primary filing.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "us-theory-ventures",
+    "name": { "en": "Theory Ventures" },
+    "aka": ["Theory"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2023,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://theoryvc.com/",
+    "links": {
+      "other": ["https://www.businesswire.com/news/home/20241122545291/en/Theory-Ventures-Launches-$450-Million-Second-Fund-for-the-Next-Generation-of-Enterprise-Software"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": "$450M (Fund II)", "usd": 450000000, "currency": "USD" },
+      "funds": [
+        { "name": "Theory Ventures Fund I", "vintage_year": 2023, "size": { "raw": "$238M", "usd": 238000000, "currency": "USD" } },
+        { "name": "Theory Ventures Fund II", "vintage_year": 2024, "size": { "raw": "$450M", "usd": 450000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "$1M–$25M", "usd_min": 1000000, "usd_max": 25000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "web3-crypto"],
+      "thesis": "Invests $1M–$25M in early-stage software startups across data, AI and web3 theses, backing companies that leverage technology discontinuities into go-to-market advantages."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Superlinked", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Context.ai", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Tobiko Data", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Tomasz Tunguz", "role": "Founder & General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["data-ai", "enterprise-software", "lead-investor"],
+    "summary": {
+      "en": "San Francisco firm founded in 2023 by Tomasz Tunguz (ex-Redpoint), investing $1M–$25M across data, AI and web3 theses in early-stage software. Launched a $450M Fund II in 2024 after a $238M debut fund."
+    },
+    "sources": [
+      { "url": "https://www.businesswire.com/news/home/20241122545291/en/Theory-Ventures-Launches-$450-Million-Second-Fund-for-the-Next-Generation-of-Enterprise-Software", "title": "Theory Ventures Launches $450 Million Second Fund", "publisher": "Business Wire", "accessed": "2026-06-02", "supports": "Fund II $450M", "quote": "Theory Ventures Launches $450 Million Second Fund for the Next Generation of Enterprise Software" },
+      { "url": "https://fortune.com/2024/11/01/tomasz-tunguz-theory-ventures-second-fund/", "title": "Tomasz Tunguz's Theory Ventures has raised a $450 million second fund, filings say", "publisher": "Fortune", "accessed": "2026-06-02", "supports": "Founded 2023, Fund I $238M, Fund II $450M, check size, data/AI/web3 focus, SF", "quote": "Theory Ventures was started in 2023 by Tomasz Tunguz ... invests $1-25 million in early-stage software startups across theses in data, AI, and web3 ... inaugural $238 million fund in April 2023" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund I ($238M) and Fund II ($450M) and check size confirmed by Fortune/Business Wire. Multi-thesis (data + AI + web3) rather than pure AI — included as AI-heavy; AI is a primary but not exclusive focus.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "us-amplify-partners",
+    "name": { "en": "Amplify Partners" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Menlo Park",
+    "website": "https://www.amplifypartners.com/",
+    "offices": [
+      { "country": "United States", "city": "Menlo Park" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/amplify-partners"
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": "Fund VI (size undisclosed)", "usd": null, "currency": "USD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "cybersecurity"],
+      "thesis": "Backs technical founders building applications, models, tools and infrastructure across AI/ML, developer tools, data infrastructure and cybersecurity — believing the era of the technical founder is reshaping software as AI permeates every industry."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Runway", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Modal", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Luma AI", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Datadog", "sector": "saas-enterprise", "outcome": "IPO" }
+      ]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["technical-founders", "ai-infra", "dev-tools"],
+    "summary": {
+      "en": "Menlo Park / San Francisco firm founded in 2012, investing seed through Series A in technical founders building AI/ML, developer tools, data infrastructure and security. Early backer of Datadog, Runway, Modal and Luma; currently investing out of its sixth fund."
+    },
+    "sources": [
+      { "url": "https://www.amplifypartners.com/about-amplify", "title": "About Amplify", "publisher": "Amplify Partners", "accessed": "2026-06-02", "supports": "Founded 2012, HQ, sixth fund, stages, AI/ML + dev-tools focus, portfolio", "quote": "investing in and supporting [technical founders] since 2012 ... currently investing out of their sixth fund ... Datadog, Fastly, dbt, Temporal, Chainguard, Runway" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded 2012, Menlo Park/SF, sixth fund and portfolio confirmed by firm site. AI/ML is a core theme but firm also spans dev tools / infra / security, so AI-primacy is partial. Fund sizes and AUM not disclosed publicly.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  }
+]

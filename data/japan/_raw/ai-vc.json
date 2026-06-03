@@ -1,0 +1,273 @@
+[
+  {
+    "id": "jp-deepcore",
+    "name": { "en": "DEEPCORE", "local": "株式会社ディープコア" },
+    "aka": ["ディープコア", "DEEPCORE TOKYO"],
+    "type": "vc",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://deepcore.jp/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/deepcore",
+      "other": ["https://prtimes.jp/main/html/searchrlp/company_id/31481"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "¥11.7B (DEEPCORE TOKYO2号)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "DEEPCORE TOKYO1号", "vintage_year": 2018, "size": { "raw": "約60億円", "usd": null, "currency": "JPY" } },
+        { "name": "DEEPCORE TOKYO2号", "vintage_year": 2021, "size": { "raw": "総額117億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "1社あたり8000万円から5億円程度 (Fund II); 初回1000万円〜2億円 (Fund I seed)", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["ai-ml", "robotics", "deeptech"],
+      "thesis": "AI-specialized venture capital investing in seed and early-stage AI startups, with emphasis on generative AI and robotics; runs the KERNEL incubation community for AI researchers and engineers."
+    },
+    "track_record": {
+      "portfolio_count": "101 (62 in Fund I + 39 in Fund II as of 2023)",
+      "notable_investments": [
+        { "company": "Jitera", "sector": "ai-ml / dev tools", "outcome": "active" },
+        { "company": "DataLabs", "sector": "construction AI", "outcome": "active" },
+        { "company": "Closer", "sector": "robotics", "outcome": "active" },
+        { "company": "Ambi Robotics", "sector": "robotics", "outcome": "active" },
+        { "company": "iSurgery", "sector": "medical imaging AI", "outcome": "active" }
+      ],
+      "exits": []
+    },
+    "people": [
+      { "name": "Katsumasa Niki (仁木勝雅)", "role": "Representative Director / CEO" }
+    ],
+    "application": {
+      "how_to_apply": "Via DEEPCORE website / KERNEL community; engages with AI researchers and engineers building startups.",
+      "accepts_cold_inbound": true,
+      "contact": "https://deepcore.jp/"
+    },
+    "tags": ["ai-specialized", "softbank-backed", "incubation", "generative-ai", "robotics"],
+    "summary": {
+      "en": "DEEPCORE is one of Japan's flagship AI-specialized VCs. Founded in 2018 (with SoftBank Group as a key backer), it invests in seed and early-stage AI startups, focusing on generative AI and robotics. Its first fund (DEEPCORE TOKYO1) raised about ¥6B and backed 62 companies; its second fund (DEEPCORE TOKYO2) final-closed at ¥11.7B in May 2023. It also runs the KERNEL incubation community.",
+      "local": "ディープコアはAI領域に特化した日本を代表するVCの一つ。2018年設立(ソフトバンクグループが主要出資)で、シード・アーリーステージのAIスタートアップに投資し、生成AIやロボティクスに注力。1号ファンドは約60億円で62社に投資、2号ファンドは2023年5月に総額117億円でファイナルクローズ。インキュベーション施設「KERNEL」も運営する。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000024.000031481.html",
+        "title": "AI特化型VCのDEEPCORE、2号ファンドを総額117億円でクローズ",
+        "publisher": "PR TIMES / 株式会社ディープコア",
+        "accessed": "2026-06-02",
+        "supports": "Fund II size, founding (2014/07 company), CEO, sector focus, portfolio companies",
+        "quote": "2号ファンド「DEEPCORE TOKYO2号」を総額117億円でファイナルクローズ ... 生成系AIやロボティクスなど先進的技術分野に投資"
+      },
+      {
+        "url": "https://diamond.jp/articles/-/334091",
+        "title": "AI特化VCのディープコアが117億円の2号ファンド",
+        "publisher": "Diamond Online",
+        "accessed": "2026-06-02",
+        "supports": "Check size, portfolio counts (62 / 39), backers, CEO",
+        "quote": "1社あたり8000万円から5億円程度を投資する ... 1号ファンドは62社 ... SoftBank Group, SMBC Nikko, Mizuho Bank"
+      },
+      {
+        "url": "https://www.nikkei.com/article/DGXZQOUC01C3L0R01C21A1000000/",
+        "title": "ディープコア、AI特化の100億円ファンド",
+        "publisher": "Nikkei",
+        "accessed": "2026-06-02",
+        "supports": "Fund I size (~60億円, 2018), seed check 1000万〜2億円, portfolio 61 companies (2021)",
+        "quote": "1号ファンド: 2018年に運用総額約60億円で組成 ... 創業初期の「シード」段階：初回投資1000万円～2億円"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Company entity (株式会社ディープコア) was incorporated July 2014 per PR TIMES; first fund organized 2018 — founded_year set to 2018 (first fund / VC activity start). Fund I size reported as 'about ¥6B' (約60億円) by Nikkei; an earlier plan mentioned ¥10B but the organized amount was ~¥6B. AUM not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "jp-deep30",
+    "name": { "en": "Deep30", "local": "Deep30投資事業有限責任組合" },
+    "aka": ["Deep30 LP", "ディープサーティ"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://deep30.vc/",
+    "links": {
+      "other": [
+        "https://www.ut-ec.co.jp/portfolio/deep30",
+        "https://initial.inc/investors/V11718",
+        "https://startup-db.com/investment-companies/M6r0Ge9UdbKGn3v5"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "10億円", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "Deep30投資事業有限責任組合", "vintage_year": 2018, "size": { "raw": "10億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "pre-seed"],
+      "check_size": { "raw": "1社あたりの最大投資額は5000万円", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["ai-ml", "deeptech"],
+      "thesis": "Deep-learning-specialized seed VC run by people connected to the University of Tokyo's Matsuo Lab; invests in seed-stage startups with strong deep learning capability and provides AI technical advisory and networking."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "ACES", "sector": "computer vision AI", "outcome": "active" },
+        { "company": "JDSC", "sector": "AI / data science", "outcome": "IPO" },
+        { "company": "Polaris.AI", "sector": "ai-ml", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "JDSC", "type": "IPO", "year": null, "value": { "raw": null, "usd": null, "currency": "JPY" } }
+      ],
+      "co_investors": ["UTEC", "IGPI"]
+    },
+    "people": [
+      { "name": "Satoshi Tazoe (田添聡士)", "role": "Representative / General Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Via Deep30 website; targets seed-stage deep learning founders, often from the Matsuo Lab network.",
+      "accepts_cold_inbound": true,
+      "contact": "https://deep30.vc/"
+    },
+    "tags": ["ai-specialized", "deep-learning", "matsuo-lab", "utec-backed", "seed"],
+    "summary": {
+      "en": "Deep30 is a deep-learning-specialized seed VC fund (¥1B) founded in August 2018 by people connected to the University of Tokyo's Matsuo Yutaka Lab. It backs seed-stage AI startups with up to ¥50M per company, with UTEC and individuals as LPs. Notable bets include ACES and JDSC (which later IPO'd).",
+      "local": "Deep30は、東京大学・松尾豊研究室の関係者が運営する深層学習特化のシードVCファンド(10億円、2018年8月設立)。シード期のAIスタートアップに1社最大5000万円を投資し、LPはUTECや個人投資家。ACESやJDSC(後に上場)などに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://newspicks.com/news/3244657/body/",
+        "title": "松尾豊研究室のキーマンが描く「AI×VC」の青写真",
+        "publisher": "NewsPicks",
+        "accessed": "2026-06-02",
+        "supports": "Fund size 10億円, max check 5000万円, founded Aug 2018, representative 田添聡士, LP UTEC, deep learning focus",
+        "quote": "スタートの資金額は10億円 ... 1社あたりの最大投資額は5000万円 ... ディープラーニングを使ったビジネスに特化して投資を行うファンド"
+      },
+      {
+        "url": "https://www.ut-ec.co.jp/portfolio/deep30",
+        "title": "Deep30投資事業有限責任組合｜投資先企業｜UTEC",
+        "publisher": "UTEC (University of Tokyo Edge Capital Partners)",
+        "accessed": "2026-06-02",
+        "supports": "Deep learning specialization, Matsuo Lab affiliation, UTEC backing/support",
+        "quote": "深層学習の無限の可能性で、共に未来をアップデートする ... 東京大学 松尾豊研究室の関係者により構成"
+      },
+      {
+        "url": "https://www.itmedia.co.jp/news/articles/1911/14/news030.html",
+        "title": "東大・松尾研発のVC代表が語る\"AIの狙い目\"",
+        "publisher": "ITmedia",
+        "accessed": "2026-06-02",
+        "supports": "Matsuo Lab origin, representative 田添, deep learning investment focus",
+        "quote": "東大・松尾研発のVC ... ディープラーニングに向くのは「100点を取らなくていい現場」"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size (¥1B) and max check (¥50M) sourced from NewsPicks interview with representative 田添聡士; total current portfolio_count not reliably disclosed so left null. JDSC IPO confirmed via PR TIMES funding release; exact IPO year not captured.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  },
+  {
+    "id": "jp-anobaka-gai",
+    "name": { "en": "ANOBAKA (Generative AI fund)", "local": "株式会社ANOBAKA" },
+    "aka": ["アノバカ", "ANOBAKA GAI 1号投資事業有限責任組合", "former: KVP / KLab Venture Partners"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://anobaka.jp/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/searchrlp/company_id/56016", "https://anobaka.jp/news/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": null, "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "ANOBAKA GAI 1号投資事業有限責任組合", "vintage_year": 2023, "size": { "raw": null, "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["ai-ml", "generalist"],
+      "thesis": "Seed-stage VC ('Empowering Mad Dreams') that launched what it describes as Japan's first fund specialized in generative-AI-native startups (ANOBAKA GAI 1号), investing at the pre-seed/seed phase, sometimes before a product exists."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": "JPY" },
+      "demo_day": null,
+      "perks": ["Microsoft for Startups partnership", "CARTA Generative AI Lab collaboration", "AI Buildathon (with Mercari)"],
+      "application_url": "https://anobaka.jp/",
+      "application_cycles": ["rolling"],
+      "acceptance_rate": null,
+      "eligibility": "Generative-AI-native startups at the seed / pre-product stage"
+    },
+    "track_record": {
+      "portfolio_count": "200+ cumulative companies (firm-wide, as of 2025)",
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [
+      { "name": "Yasukazu Nagano (長野泰和)", "role": "Representative Director / CEO" },
+      { "name": "Naoki Shibata (シバタナオキ)", "role": "Fund Advisor (Generative AI fund)" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via the ANOBAKA website; accepts very early (pre-product) generative AI founders.",
+      "accepts_cold_inbound": true,
+      "contact": "https://anobaka.jp/"
+    },
+    "tags": ["ai-specialized", "generative-ai", "seed", "founder-support"],
+    "summary": {
+      "en": "ANOBAKA (formerly KLab Venture Partners; established Oct 2015) is a Tokyo seed VC that in April 2023 launched 'ANOBAKA GAI 1号', described as Japan's first fund specialized in generative-AI-native startups. It invests at the seed / pre-product stage, with CARTA HOLDINGS as anchor LP and a Microsoft for Startups partnership. Firm-wide it has backed 200+ companies. Specific GAI fund size and check size are undisclosed.",
+      "local": "ANOBAKA(旧KLab Venture Partners、2015年10月設立)は東京のシードVCで、2023年4月に国内初を謳う生成AIネイティブ特化ファンド「ANOBAKA GAI 1号」を設立。プロダクト前のシード段階から投資し、アンカーLPはCARTA HOLDINGS、Microsoft for Startupsと連携。累計200社超に投資。GAIファンドの規模・投資額は非公開。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000021.000056016.html",
+        "title": "ベンチャーキャピタルANOBAKA、国内初のGenerative AIネイティブなスタートアップに特化した創業支援ファンドを設立",
+        "publisher": "PR TIMES / 株式会社ANOBAKA",
+        "accessed": "2026-06-02",
+        "supports": "GAI fund launch (Apr 2023), generative-AI-native focus, seed/pre-product stage, CEO 長野泰和, founding Oct 2015, anchor LP CARTA HOLDINGS",
+        "quote": "国内初のGenerative AIネイティブなスタートアップに特化した創業支援ファンドを設立 ... ANOBAKA GAI 1号投資事業有限責任組合 ... 代表取締役 長野泰和"
+      },
+      {
+        "url": "https://www.nikkei.com/article/DGXZQOUC201670Q3A420C2000000/",
+        "title": "生成AI新興特化の新ファンド ANOBAKAが運用",
+        "publisher": "Nikkei",
+        "accessed": "2026-06-02",
+        "supports": "Generative AI specialized fund run by ANOBAKA",
+        "quote": "生成AI新興特化の新ファンド ANOBAKAが運用"
+      },
+      {
+        "url": "https://anobaka.jp/news/10560/",
+        "title": "ANOBAKA、設立10周年を記念し特設サイトをオープン",
+        "publisher": "ANOBAKA",
+        "accessed": "2026-06-02",
+        "supports": "10th anniversary (2025), 200+ cumulative invested companies",
+        "quote": "設立10周年 ... 累計投資先200社"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "ANOBAKA is primarily a seed generalist VC, but it operates a dedicated generative-AI-specialized fund (ANOBAKA GAI 1号), which is why it qualifies for this segment. GAI fund size and per-company check size were not disclosed (set null). 200+ portfolio count is firm-wide cumulative, not GAI-fund-specific. 'Japan's first' claim is the firm's own characterization.",
+    "last_updated": "2026-06-02",
+    "researched_by": "ai-vc"
+  }
+]

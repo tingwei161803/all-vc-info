@@ -1,0 +1,699 @@
+[
+  {
+    "id": "sea-1982-ventures",
+    "name": { "en": "1982 Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.1982.vc/",
+    "links": {
+      "linkedin": "https://sg.linkedin.com/company/1982-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/1982-ventures"
+    },
+    "capital": {
+      "funds": [
+        {
+          "name": "Fund I (debut seed fund)",
+          "vintage_year": 2022,
+          "size": { "raw": "over $20 million", "usd": 20000000, "currency": "USD" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$250,000 to $500,000 initial", "usd_min": 250000, "usd_max": 500000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Southeast Asia", "Indonesia", "Vietnam", "Philippines", "Singapore"],
+      "sector_focus": ["fintech", "ai-ml"],
+      "thesis": "Self-described as the most active fintech investor in Southeast Asia; leads pre-seed and seed rounds for fintech founders building financial rails, plus enterprise AI and automated workflows."
+    },
+    "track_record": {
+      "portfolio_count": "25+",
+      "notable_investments": [
+        { "company": "Brick", "sector": "fintech", "outcome": "active" },
+        { "company": "Infina", "sector": "fintech", "outcome": "active" },
+        { "company": "Homebase", "sector": "fintech", "outcome": "active" },
+        { "company": "Wagely", "sector": "fintech", "outcome": "active" },
+        { "company": "Fundiin", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Herston Elton Powers", "role": "Co-Founder and Managing Partner" },
+      { "name": "Scott Krivokopich", "role": "Co-Founder and Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Singapore-based early-stage VC, established in early 2020, focused on seed-stage fintech across Southeast Asia (with selective bets in Pakistan and Bangladesh); self-described as the most active fintech investor in the region."
+    },
+    "sources": [
+      {
+        "url": "https://technode.global/2022/05/26/singapores-1982-ventures-closes-oversubscribed-debut-20m-southeast-asia-fintech-fund/",
+        "title": "Singapore's 1982 Ventures closes oversubscribed debut $20M Southeast Asia FinTech fund",
+        "publisher": "TNGlobal",
+        "accessed": "2026-06-02",
+        "supports": "fund size, founding year, founders, stage, check size, sector focus, portfolio count, notable investments",
+        "quote": "Established in early 2020 ... Singapore-based early-stage venture capital firm ... debut seed fund with over $20 million in committed capital ... leads pre-seed and seed rounds with an initial investment of $250,000 and $500,000 ... core focus on seed stage fintech startups in Southeast Asia ... invested in 25 startups across Southeast Asia, Pakistan and Bangladesh"
+      },
+      {
+        "url": "https://www.1982.vc/",
+        "title": "1982 Ventures",
+        "publisher": "1982 Ventures",
+        "accessed": "2026-06-02",
+        "supports": "HQ, positioning, portfolio examples",
+        "quote": "1982 Ventures is the most active fintech investor in Southeast Asia"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I final close reported as 'over $20 million' (originally targeting $15M); exact final figure not published. Firm has since broadened to include enterprise AI alongside fintech. Fund II referenced but size undisclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "sea-integra-partners",
+    "name": { "en": "Integra Partners" },
+    "aka": ["Dymon Asia Ventures"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://integrapartners.co/",
+    "links": {
+      "linkedin": "https://sg.linkedin.com/company/integraventurepartners",
+      "crunchbase": "https://www.cbinsights.com/investor/dymon-asia-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "over US$140 million", "usd": 140000000, "currency": "USD" },
+      "funds": [
+        {
+          "name": "Dymon Asia Ventures Fund I",
+          "vintage_year": 2017,
+          "size": { "raw": "US$50 million", "usd": 50000000, "currency": "USD" }
+        },
+        {
+          "name": "Integra Partners Fund II",
+          "vintage_year": 2023,
+          "size": { "raw": "US$90 million", "usd": 90000000, "currency": "USD" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b"],
+      "check_size": { "raw": "USD 1 million to USD 5 million (Fund I era)", "usd_min": 1000000, "usd_max": 5000000 },
+      "geo_focus": ["Southeast Asia", "South Asia"],
+      "sector_focus": ["fintech", "healthtech", "climate-energy"],
+      "thesis": "Backs early-stage companies that embrace financial services as part of their value proposition, driving access to and affordability of responsible financial services and healthcare across Southeast and South Asia; mostly B2B and B2B2C."
+    },
+    "track_record": {
+      "portfolio_count": 27,
+      "notable_investments": [
+        { "company": "wagely", "sector": "fintech", "outcome": "active" },
+        { "company": "GIMO", "sector": "fintech", "outcome": "active" },
+        { "company": "Brankas", "sector": "fintech", "outcome": "active" },
+        { "company": "Spark Systems", "sector": "fintech", "outcome": "active" },
+        { "company": "graas", "sector": "ecommerce", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Chris Kaptein", "role": "Managing Partner" },
+      { "name": "Jinesh Patel", "role": "Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Singapore-based early-stage VC founded in 2017 (formerly Dymon Asia Ventures), investing from pre-Series A to Series B in fintech, healthtech and climate companies that embed financial services, across Southeast and South Asia. Manages over US$140M across two funds."
+    },
+    "sources": [
+      {
+        "url": "https://integrapartners.co/integra-news/integra-partners-announces-us90m-fund-ii-close-and-regional-expansion/",
+        "title": "Integra Partners announces US$90M Fund II close and regional expansion",
+        "publisher": "Integra Partners",
+        "accessed": "2026-06-02",
+        "supports": "Fund II size, AUM, stage, sector focus, geo focus, portfolio count, partners, notable investments",
+        "quote": "Integra Partners Fund II LP ... closed late last month at US$90 million ... This brings the total committed capital managed by the firm to over US$140 million ... focusing on early-stage investments from pre Series A to Series B ... Across Integra's two funds, the firm has invested in 27 companies"
+      },
+      {
+        "url": "https://technode.global/2023/05/04/singapores-integra-partners-closes-second-fund-at-90m/",
+        "title": "Singapore's Integra Partners closes second fund at $90M",
+        "publisher": "TNGlobal",
+        "accessed": "2026-06-02",
+        "supports": "founding year 2017, HQ, fintech/healthtech/climate focus",
+        "quote": "Integra Partners was founded in 2017 and is headquartered in Singapore."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dymon_Asia",
+        "title": "Dymon Asia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "former name Dymon Asia Ventures, Fund I US$50M, fintech check size",
+        "quote": "Dymon Asia Ventures was launched in 2015 ... raised US$50 million in 2017 to invest in fintech companies ... prefers investments ranging from USD 1 million to USD 5 million"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Integra Partners is the rebrand of Dymon Asia Ventures (spun off from Dymon Asia in 2020). Fund I (US$50M, 2017) was an explicit fintech fund; Fund II broadened to fintech + healthtech + climate but retains the financial-services thesis. The '2017' founding year reflects Integra's stated founding; the Dymon Asia Ventures vehicle dates to 2015.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "sea-saison-capital",
+    "name": { "en": "Saison Capital" },
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.saisoncapital.com/",
+    "links": {
+      "linkedin": "https://sg.linkedin.com/company/saisoncapital",
+      "crunchbase": "https://www.crunchbase.com/organization/saison-capital"
+    },
+    "capital": {
+      "current_fund": { "raw": "US$150m evergreen fund", "usd": 150000000, "currency": "USD" },
+      "funds": [
+        {
+          "name": "Saison Capital (evergreen)",
+          "vintage_year": 2019,
+          "size": { "raw": "$150m evergreen fund", "usd": 150000000, "currency": "USD" }
+        },
+        {
+          "name": "Onigiri Capital (blockchain/fintech fund)",
+          "vintage_year": 2025,
+          "size": { "raw": "$50 million target ($35m secured)", "usd": 50000000, "currency": "USD" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Southeast Asia", "India", "Latin America"],
+      "sector_focus": ["fintech", "web3-crypto", "ecommerce"],
+      "thesis": "Venture arm of Credit Saison (a US$30B AUM financial-services conglomerate); though mandate is sector-agnostic, prefers founders building platforms or ecosystems that distribute financial services to the underbanked. Onigiri Capital targets stablecoins, payments, asset tokenization, DeFi and financial infrastructure."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Tazapay", "sector": "fintech", "outcome": "active" },
+        { "company": "Helicap", "sector": "fintech", "outcome": "active" },
+        { "company": "Infina", "sector": "fintech", "outcome": "active" },
+        { "company": "OY Indonesia", "sector": "fintech", "outcome": "active" },
+        { "company": "BVNK", "sector": "web3-crypto", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Qin En Looi", "role": "Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Singapore-based corporate venture arm of Japan's Credit Saison, formed in 2019 as a ~US$150M evergreen fund investing seed-to-Series A across Southeast Asia and India, with a thesis centred on distributing financial services to the underbanked. In 2025 launched Onigiri Capital, a US$50M blockchain/fintech fund."
+    },
+    "sources": [
+      {
+        "url": "https://www.finews.asia/finance/30008-credit-saison-launches-southeast-asia-india-vc-fund-saison-capital",
+        "title": "Credit Saison Launches Southeast Asia, India VC Fund Saison Capital",
+        "publisher": "finews.asia",
+        "accessed": "2026-06-02",
+        "supports": "founding year 2019, evergreen fund size $150m, stages, geo, financial-services thesis",
+        "quote": "Formed in 2019, Saison Capital is a $150m evergreen fund, with an agile investment team of five ... invests in Seed to Series A companies across South East Asia and India ... they like to work with founders that are building platforms or ecosystems that have the potential to distribute financial services to the underbanked."
+      },
+      {
+        "url": "https://www.saisoncapital.com/",
+        "title": "Saison Capital",
+        "publisher": "Saison Capital",
+        "accessed": "2026-06-02",
+        "supports": "parent Credit Saison US$30B AUM, sector focus, portfolio",
+        "quote": "Credit Saison ... a US$30B AUM financial services conglomerate with active presence across Japan, India, Southeast Asia and Latin America."
+      },
+      {
+        "url": "https://technode.global/2025/09/19/credit-saison-launches-50m-blockchain-focused-venture-capital-fund/",
+        "title": "Credit Saison launches $50M blockchain-focused venture capital fund",
+        "publisher": "TNGlobal",
+        "accessed": "2026-06-02",
+        "supports": "Onigiri Capital $50M fund, focus areas, geography",
+        "quote": "The fund is targeting an investment scale of $50 million, with $35 million already secured at this stage ... five key areas: stablecoins, payments, asset tokenization, decentralized finance (DeFi), and financial infrastructure ... primarily in India, Southeast Asia, and Latin America"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Mandate is officially sector-agnostic but the firm's thesis, parent (a financial-services company) and bulk of activity are fintech/financial-services; included on that basis. Evergreen $150M figure and the separate $50M Onigiri Capital fund are distinct vehicles.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "sea-quona-capital",
+    "name": { "en": "Quona Capital" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Washington, D.C.",
+    "offices": [
+      { "country": "United States", "city": "Washington, D.C." },
+      { "country": "Singapore", "city": "Singapore" },
+      { "country": "India", "city": "Bangalore" },
+      { "country": "Brazil", "city": "São Paulo" },
+      { "country": "Mexico", "city": "Mexico City" },
+      { "country": "South Africa", "city": "Cape Town" },
+      { "country": "United Arab Emirates", "city": "Dubai" }
+    ],
+    "website": "https://quona.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/quona-capital",
+      "crunchbase": "https://www.crunchbase.com/organization/quona-capital"
+    },
+    "capital": {
+      "aum": { "raw": "over US$745 million aggregate committed capital", "usd": 745000000, "currency": "USD" },
+      "funds": [
+        {
+          "name": "Accion Quona Inclusion Fund (Fund II)",
+          "vintage_year": 2020,
+          "size": { "raw": "$203 million", "usd": 203000000, "currency": "USD" }
+        },
+        {
+          "name": "Quona Fund III",
+          "vintage_year": 2022,
+          "size": { "raw": "$332 million", "usd": 332000000, "currency": "USD" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": "$1 million to $5 million initial", "usd_min": 1000000, "usd_max": 5000000 },
+      "ownership_target_pct": "15-20%",
+      "geo_focus": ["Southeast Asia", "India", "Latin America", "Africa", "Middle East"],
+      "sector_focus": ["fintech", "impact"],
+      "thesis": "Backs scale-up-stage fintech companies expanding access to financial services for underserved consumers and small businesses in emerging markets, including Southeast Asia."
+    },
+    "track_record": {
+      "portfolio_count": "70+",
+      "notable_investments": [
+        { "company": "Hijra", "sector": "fintech", "outcome": "active" },
+        { "company": "Sunday", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Monica Brand Engel", "role": "Co-Founder & Managing Partner" },
+      { "name": "Jonathan Whittle", "role": "Co-Founder & Managing Partner" },
+      { "name": "Ganesh Rengaswamy", "role": "Co-Founder & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Global fintech VC spun out of Accion in 2015, backing financial-inclusion fintechs across Latin America, India, Southeast Asia and EMEA. Has a Singapore office and on-the-ground teams in Indonesia; over US$745M aggregate committed capital across funds, including a $332M Fund III."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2022/11/08/quona-capital-332m-financial-inclusion/",
+        "title": "Quona Capital sinking $332M into startups focused on financial inclusion",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund III $332M, aggregate $745M, SEA among geos, financial inclusion fintech focus",
+        "quote": "final close on $332 million in capital commitments for its Fund III, which invests in companies in Latin America, India, Southeast Asia, Africa and the Middle East ... brings the firm's aggregate committed capital to over $745 million"
+      },
+      {
+        "url": "https://www.accion.org/news/quona-capital-closes-second-fund-with-203-million-aimed-at-financial-inclusion-in-emerging-markets/",
+        "title": "Quona Capital Closes Second Fund with $203 Million",
+        "publisher": "Accion",
+        "accessed": "2026-06-02",
+        "supports": "founding year 2015, founders, Fund II $203M, scale-up stage fintech focus, offices",
+        "quote": "Quona Capital became an independent venture firm in 2015, having started at Accion ... Monica Brand Engel, Jonathan Whittle, and Ganesh Rengaswamy ... The Accion Quona Inclusion Fund (their second fund) closed with $203 million in commitments ... invests in scale-up stage financial technology companies that are expanding access to financial services for underserved consumers and small businesses in Latin America, Africa, India and Southeast Asia."
+      },
+      {
+        "url": "https://quona.com/",
+        "title": "Quona Capital",
+        "publisher": "Quona Capital",
+        "accessed": "2026-06-02",
+        "supports": "Singapore office, SEA portfolio (Sunday), fintech positioning",
+        "quote": "We back bold fintech innovators expanding financial access globally, from Latin America to India and Southeast Asia to the EMEA region."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "HQ is Washington, D.C.; included as a SEA fintech investor because it has a Singapore office, on-the-ground Indonesia team, and an active SEA fintech mandate. AUM figures are aggregate committed capital across funds (firm cites $750M+ in some materials).",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "sea-beacon-venture-capital",
+    "name": { "en": "Beacon Venture Capital" },
+    "aka": ["Beacon VC"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "southeast-asia",
+    "country": "Thailand",
+    "hq_city": "Bangkok",
+    "website": "https://www.beaconvc.fund/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/beaconvc",
+      "crunchbase": "https://www.crunchbase.com/organization/beacon-venture-capital-2"
+    },
+    "capital": {
+      "current_fund": { "raw": "$255 million (expanded 2022)", "usd": 255000000, "currency": "USD" },
+      "funds": [
+        {
+          "name": "Beacon VC initial fund",
+          "vintage_year": 2017,
+          "size": { "raw": "$30 million", "usd": 30000000, "currency": "USD" }
+        },
+        {
+          "name": "Beacon VC (expanded)",
+          "vintage_year": 2022,
+          "size": { "raw": "$255 million", "usd": 255000000, "currency": "USD" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "geo_focus": ["Thailand", "Southeast Asia"],
+      "sector_focus": ["fintech", "consumer", "saas-enterprise"],
+      "thesis": "Corporate VC of Kasikornbank (KBANK); invests in early-to-growth-stage tech startups in financial technology, consumer internet and enterprise technology, themed around the Future of Finance, Commerce, Living and Impact."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "FlowAccount", "sector": "fintech", "outcome": "active" },
+        { "company": "Grab", "sector": "fintech", "outcome": "active" },
+        { "company": "Eventpop", "sector": "consumer", "outcome": "acquired" }
+      ]
+    },
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Bangkok-based corporate VC wholly owned by Kasikornbank (KBANK), founded in 2017. Started with a $30M fund and expanded to $255M in 2022, investing across fintech, consumer internet and enterprise tech in Thailand and Southeast Asia."
+    },
+    "sources": [
+      {
+        "url": "https://www.beaconvc.fund/about-us",
+        "title": "About us - Beacon Venture Capital",
+        "publisher": "Beacon Venture Capital",
+        "accessed": "2026-06-02",
+        "supports": "ownership KBANK, founding year, fund sizes, sector focus, geo, portfolio",
+        "quote": "Beacon VC is a wholly-owned corporate venture capital fund of Kasikornbank PLC (SET: KBANK) ... Initial fund: $30 million ... Expanded in 2022 to $255 million ... fintech, consumer internet, and enterprise technology"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/beacon-venture-capital-2",
+        "title": "Beacon Venture Capital - Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "founding year, Thailand/SEA focus",
+        "quote": "Founded in 2017, the fund started with an initial fund of $30 million. In 2022, Beacon VC expanded its fund size to $255 million."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year reported as 2016 on one source and 2017 on the official site/Crunchbase; used 2017. Mandate spans fintech plus consumer internet and enterprise tech, but fintech ('Future of Finance') is a primary, bank-driven focus.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "sea-helicap",
+    "name": { "en": "Helicap" },
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "offices": [
+      { "country": "Singapore", "city": "Singapore" },
+      { "country": "Malaysia", "city": "Kuala Lumpur" },
+      { "country": "France", "city": "Paris" },
+      { "country": "United Arab Emirates", "city": "Dubai" }
+    ],
+    "website": "https://www.helicap.com/",
+    "links": {
+      "linkedin": "https://sg.linkedin.com/company/helicap-group",
+      "other": ["https://en.wikipedia.org/wiki/Helicap"]
+    },
+    "capital": {
+      "aum": { "raw": "over US$500 million cumulative transaction volume (as of June 2025)", "usd": 500000000, "currency": "USD" },
+      "funds": [
+        {
+          "name": "Helicap Investment Fund (formerly Helicap Income Opportunities Fund)",
+          "vintage_year": null,
+          "size": { "raw": null, "usd": null, "currency": null }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth"],
+      "geo_focus": ["Southeast Asia", "Asia-Pacific"],
+      "sector_focus": ["fintech"],
+      "thesis": "Private-credit investment platform: provides senior secured private-credit loans (and select equity) to Asia-based fintech firms and non-bank financial institutions, using proprietary credit analytics to fund underbanked SMEs and individuals."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Xendit (XenCapital credit facility)", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "David Z Wang", "role": "Co-founder and CEO" },
+      { "name": "Quentin Vanoekel", "role": "Co-founder and CIO" },
+      { "name": "Jeremy Tan", "role": "Co-founder and COO" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Singapore-based fintech private-credit investment platform incorporated in 2018, deploying senior secured loans and equity into Asia-based fintech lenders and non-bank financial institutions. Has deployed over US$500M cumulatively as of mid-2025."
+    },
+    "sources": [
+      {
+        "url": "https://www.helicap.com/about",
+        "title": "Helicap: Pioneering Tomorrow's Financial Future",
+        "publisher": "Helicap",
+        "accessed": "2026-06-02",
+        "supports": "founding year, founders, HQ, deployed capital, private-credit focus, geography",
+        "quote": "Incorporated January 18, 2018 ... David Z Wang (Co-founder and CEO) ... Quentin Vanoekel (Co-founder, CIO) ... Jeremy Tan (Co-founder and COO) ... Helicap Surpasses US$500 Million in Historical Cumulative Transaction Volume"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Helicap",
+        "title": "Helicap - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "fintech/private credit positioning, founders, SEA focus",
+        "quote": "Helicap is a Singapore-based financial technology and investment firm founded in 2018 that specializes in the private credit market across Southeast Asia and the broader Asia-Pacific region ... senior secured private credit loans to Asia-based FinTech firms and non-bank financial institutions"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Helicap is a fintech-focused private-credit investment platform / fund manager rather than a classic equity VC; classified as 'vc' with growth-equity subtype to fit taxonomy. Figure cited is cumulative deployed transaction volume, not a single fund size; per-fund size and equity-fund AUM are undisclosed. One source cites US$700M cumulative deployed by end-2025.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "sea-mandiri-capital-indonesia",
+    "name": { "en": "Mandiri Capital Indonesia", "local": "PT Mandiri Capital Indonesia" },
+    "aka": ["MCI"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "hq_city": "Jakarta",
+    "website": "https://www.mandiri-capital.co.id/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/mandiri-capital-indonesia-mci",
+      "crunchbase": "https://www.crunchbase.com/organization/mandiri-capital"
+    },
+    "capital": {
+      "funds": [
+        {
+          "name": "Mandiri Capital initial fund",
+          "vintage_year": 2016,
+          "size": { "raw": "US$37 million budget", "usd": 37000000, "currency": "USD" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["Indonesia", "Southeast Asia"],
+      "sector_focus": ["fintech"],
+      "thesis": "Corporate VC of Bank Mandiri, Indonesia's largest financial group; the first local bank to launch a dedicated fintech venture fund, investing primarily in fintech startups and acting as a bridge between the Mandiri Group and startups."
+    },
+    "track_record": {
+      "portfolio_count": "48 (as of April 2024)",
+      "notable_investments": [
+        { "company": "Amartha", "sector": "fintech", "outcome": "active" },
+        { "company": "Ayoconnect", "sector": "fintech", "outcome": "active" },
+        { "company": "Qoala", "sector": "fintech", "outcome": "active" },
+        { "company": "Privy", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Jakarta-based corporate VC of Bank Mandiri, founded in 2015 as the first Indonesian bank-backed fintech venture fund (initial US$37M budget). Focuses on financing fintech startups across Indonesia and Southeast Asia; ~48 portfolio companies as of April 2024.",
+      "local": "Lengan modal ventura korporat (CVC) milik Bank Mandiri, didirikan tahun 2015, berfokus pada pendanaan startup fintech di Indonesia dan Asia Tenggara."
+    },
+    "sources": [
+      {
+        "url": "https://www.crunchbase.com/organization/mandiri-capital",
+        "title": "Mandiri Capital Indonesia (MCI) - Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "founding year, parent, fintech focus, geography, portfolio count",
+        "quote": "Founded in 2015, Mandiri Capital Indonesia is the corporate venture capital arm of Bank Mandiri based in Jakarta, Indonesia ... prefers to invest in start-ups operating in the fintech sector across Southeast Asia ... as of April 2024, Mandiri Capital Indonesia has invested in 48 companies."
+      },
+      {
+        "url": "https://fintechnews.sg/17582/indonesia/banks-fintech-indonesia/",
+        "title": "How 4 Indonesian Banks are Collaborating with Fintech Startups",
+        "publisher": "Fintech News Singapore",
+        "accessed": "2026-06-02",
+        "supports": "first local bank fintech fund, US$37M budget",
+        "quote": "In early 2016, Mandiri became the first local bank to launch a dedicated fintech venture fund, Mandiri Capital (MCI), with a US$37 million budget."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year cited as 2015 by some sources and 2016 by others (fund launched early 2016 with US$37M budget). Has since added broader vehicles (Balance Sheet Fund, Merah Putih Fund, Indonesia Impact Fund), but the core mandate and identity remain fintech-focused.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "sea-bri-ventures",
+    "name": { "en": "BRI Ventures", "local": "PT BRI Ventura Investama" },
+    "aka": ["BVI"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "hq_city": "Jakarta",
+    "website": "https://www.briventures.id/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/briventures",
+      "crunchbase": "https://www.cbinsights.com/investor/bri-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "IDR 3.5 trillion (USD 250 million)", "usd": 250000000, "currency": "IDR" },
+      "funds": [
+        {
+          "name": "Sembrani Nusantara Fund",
+          "vintage_year": 2020,
+          "size": { "raw": "target Rp 300 billion (~US$21.2 million)", "usd": 21200000, "currency": "IDR" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "geo_focus": ["Indonesia", "Southeast Asia"],
+      "sector_focus": ["fintech"],
+      "thesis": "Corporate VC of Bank Rakyat Indonesia (BRI); leverages BRI's financial-sector network, focusing on fintech and its ecosystem (with the Sembrani Nusantara fund targeting early-stage fintech for MSMEs), later broadening into agriculture, health, retail and logistics."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "LinkAja", "sector": "fintech", "outcome": "active" },
+        { "company": "PayFazz", "sector": "fintech", "outcome": "active" },
+        { "company": "Investree", "sector": "fintech", "outcome": "active" },
+        { "company": "Modalku", "sector": "fintech", "outcome": "active" },
+        { "company": "Nium", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Nicko Widjaja", "role": "Founding CEO" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Jakarta-based corporate VC of state-owned Bank Rakyat Indonesia, launched in 2019 with an IDR 3.5 trillion (US$250M) allocation, focusing on fintech and its ecosystem. Runs the OJK-regulated Sembrani Nusantara fund (targeting early-stage fintech for MSMEs).",
+      "local": "Lengan modal ventura korporat milik Bank Rakyat Indonesia (BRI), diluncurkan tahun 2019 dengan alokasi Rp 3,5 triliun, berfokus pada fintech dan ekosistemnya."
+    },
+    "sources": [
+      {
+        "url": "https://kr-asia.com/indonesias-state-owned-lender-bri-appoints-nicko-widjaja-to-lead-its-usd-250m-venture-firm",
+        "title": "Indonesia's state-owned lender BRI appoints Nicko Widjaja to lead its USD 250 million venture firm",
+        "publisher": "KrASIA",
+        "accessed": "2026-06-02",
+        "supports": "founding 2019, IDR 3.5tn / USD 250M allocation, fintech focus, CEO",
+        "quote": "The new venture will allocate IDR 3.5 trillion (USD 250 million) to back growth and late-stage startups ... Widjaja aims to develop BRI Ventures to become the leading venture capital in the region, focusing on fintech and its ecosystem."
+      },
+      {
+        "url": "https://e27.co/bri-venturess-sembrani-nusantara-fund-hits-first-close-at-us10m-grab-and-celebes-capital-among-investors-20201125/",
+        "title": "BRI Ventures's Sembrani Nusantara fund hits first close at US$10M",
+        "publisher": "e27 / DealStreetAsia",
+        "accessed": "2026-06-02",
+        "supports": "Sembrani Nusantara target Rp 300bn (~US$21.2M), fintech/MSME focus, first close US$10.6M",
+        "quote": "Launched in June 2020 with a target corpus of Rp 300 billion (approximately US$21.2 million) ... focusing on fintech, and particularly for micro, small, and medium enterprises (MSMEs) ... first close ... at more than 150 billion rupiah ($10.6 million)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Originally launched with an explicit fintech focus; Sembrani Nusantara later broadened its thematic scope ('EARTH' themes). The US$250M figure is the total BRI allocation/mandate, not a single closed fund. Founding year 2019.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "sea-talino-venture-studios",
+    "name": { "en": "Talino Venture Studios" },
+    "aka": ["Talino Venture Labs", "Talino Fintech Foundry", "Talino Ventures PBC"],
+    "type": "venture-studio",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "southeast-asia",
+    "country": "Philippines",
+    "hq_city": "Manila",
+    "offices": [
+      { "country": "Philippines", "city": "Manila" },
+      { "country": "United States", "city": "Los Angeles" }
+    ],
+    "website": "https://talinofoundry.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/talinoventures",
+      "crunchbase": "https://www.crunchbase.com/organization/talino-labs-venture"
+    },
+    "capital": {
+      "funds": [
+        {
+          "name": "Chemonics International investment (2023)",
+          "vintage_year": 2023,
+          "size": { "raw": "US$5 million", "usd": 5000000, "currency": "USD" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Philippines", "Southeast Asia", "Emerging markets"],
+      "sector_focus": ["fintech", "impact"],
+      "thesis": "Global venture studio for inclusive fintech: uses the venture-studio model to build repeatable, scalable, profitable fintechs that bridge financial inclusion for underserved, underrepresented groups."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "BayaniPay", "sector": "fintech", "outcome": "active" },
+        { "company": "Higala", "sector": "fintech", "outcome": "active" },
+        { "company": "Asenso Finance", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Winston Damarillo", "role": "Founder and CEO" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Philippines/US venture studio for inclusive fintech founded by Winston Damarillo, building scalable fintechs that bridge financial inclusion for underserved groups. Raised US$5M from Chemonics International in 2023 and a $7.5M Series A in 2026; portfolio includes BayaniPay, Higala and Asenso Finance."
+    },
+    "sources": [
+      {
+        "url": "https://talinofoundry.com/",
+        "title": "Talino Fintech Foundry",
+        "publisher": "Talino Venture Studios",
+        "accessed": "2026-06-02",
+        "supports": "venture studio for inclusive fintech, financial inclusion focus, portfolio (Higala, BayaniPay), Delaware PBC structure",
+        "quote": "fintech infrastructure platform focused on financial inclusion for emerging markets and diaspora communities ... 'Talino Fintech Foundry' is a trading name of 'Talino Ventures PBC,' a Delaware Public Benefit Corporation"
+      },
+      {
+        "url": "https://www.philstar.com/business/2023/11/03/2308463/pinoy-led-firm-secures-5-million-funding-fintech-solutions",
+        "title": "Pinoy-led firm secures $5 million funding for fintech solutions",
+        "publisher": "Philstar",
+        "accessed": "2026-06-02",
+        "supports": "US$5M from Chemonics, inclusive fintech focus",
+        "quote": "Talino Venture received $5 million from Chemonics International, which it will use to fund startups that want to scale their fintech products to promote financial inclusion."
+      },
+      {
+        "url": "https://www.businesswire.com/news/home/20260324620959/en/Talino-Closes-$7.5M-Series-A-to-Launch-a-Global-Fintech-Foundry-and-Modernize-Cross-border-Infrastructure",
+        "title": "Talino Closes $7.5M Series A to Launch a Global Fintech Foundry",
+        "publisher": "Business Wire",
+        "accessed": "2026-06-02",
+        "supports": "$7.5M Series A, global fintech foundry / cross-border infrastructure",
+        "quote": "Talino Closes $7.5M Series A to Launch a Global Fintech Foundry and Modernize Cross-border Infrastructure"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Talino is a venture studio (company builder) for inclusive fintech rather than a traditional fund; founder Winston Damarillo confirmed. Entity is legally a US (Delaware) PBC but its origin, leadership and operations are Philippines-centred. Founding year 2018 inferred from secondary sources; not explicitly confirmed on the current site. Equity-taken / cohort details not disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "_comment": "Region metadata to orient researchers: local languages to search in, key ecosystem hubs, and authoritative source hubs worth consulting per region.",
+  "regions": {
+    "taiwan": {
+      "label_en": "Taiwan", "label_zh": "台灣",
+      "languages": ["Traditional Chinese", "English"],
+      "hubs": ["Taipei", "Hsinchu", "Taichung"],
+      "source_hubs": ["startup.sme.gov.tw", "TTA (Taiwan Tech Arena)", "國發基金 NDF", "FINDIT (經濟部)", "Crunchbase", "Dealroom", "Meet 創業小聚"]
+    },
+    "united-states": {
+      "label_en": "United States", "label_zh": "美國",
+      "languages": ["English"],
+      "hubs": ["San Francisco / Bay Area", "New York", "Boston", "Los Angeles", "Austin", "Seattle"],
+      "source_hubs": ["Crunchbase", "PitchBook", "NVCA", "SEC Form ADV", "TechCrunch", "Y Combinator directory"]
+    },
+    "japan": {
+      "label_en": "Japan", "label_zh": "日本",
+      "languages": ["Japanese", "English"],
+      "hubs": ["Tokyo", "Osaka", "Fukuoka"],
+      "source_hubs": ["INITIAL (initial.inc)", "STARTUP DB", "JVCA (日本ベンチャーキャピタル協会)", "Crunchbase", "Dealroom", "JETRO"]
+    },
+    "europe": {
+      "label_en": "Europe", "label_zh": "歐洲",
+      "languages": ["English", "German", "French", "Spanish", "Swedish", "Dutch"],
+      "hubs": ["London", "Berlin", "Paris", "Stockholm", "Amsterdam", "Munich", "Barcelona", "Helsinki"],
+      "source_hubs": ["Dealroom", "Crunchbase", "Sifted", "Invest Europe", "national VC associations (BVCA, BVK, France Digitale)", "EU-Startups"]
+    },
+    "south-korea": {
+      "label_en": "South Korea", "label_zh": "南韓",
+      "languages": ["Korean", "English"],
+      "hubs": ["Seoul", "Pangyo"],
+      "source_hubs": ["THE VC (thevc.kr)", "KVCA (한국벤처캐피탈협회)", "K-Startup (창업진흥원)", "Crunchbase", "Dealroom"]
+    },
+    "southeast-asia": {
+      "label_en": "Southeast Asia", "label_zh": "東南亞",
+      "languages": ["English", "Bahasa Indonesia", "Vietnamese", "Thai"],
+      "hubs": ["Singapore", "Jakarta", "Ho Chi Minh City", "Bangkok", "Kuala Lumpur", "Manila"],
+      "source_hubs": ["Dealroom", "Crunchbase", "Tech in Asia", "e27", "DealStreetAsia", "Enterprise Singapore"]
+    },
+    "israel": {
+      "label_en": "Israel", "label_zh": "以色列",
+      "languages": ["Hebrew", "English"],
+      "hubs": ["Tel Aviv", "Herzliya", "Jerusalem"],
+      "source_hubs": ["Start-Up Nation Central / Finder", "IVC Research Center", "Crunchbase", "Calcalist", "Globes"]
+    },
+    "india": {
+      "label_en": "India", "label_zh": "印度",
+      "languages": ["English", "Hindi"],
+      "hubs": ["Bangalore", "Mumbai", "Delhi NCR", "Gurugram", "Hyderabad"],
+      "source_hubs": ["Tracxn", "Crunchbase", "Inc42", "YourStory", "IVCA (Indian VC Association)", "VCCircle"]
+    },
+    "canada": {
+      "label_en": "Canada", "label_zh": "加拿大",
+      "languages": ["English", "French"],
+      "hubs": ["Toronto", "Montreal", "Vancouver", "Waterloo", "Calgary"],
+      "source_hubs": ["CVCA (Canadian VC Association)", "Crunchbase", "BetaKit", "Dealroom", "BDC"]
+    }
+  }
+}

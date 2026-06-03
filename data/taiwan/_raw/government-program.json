@@ -1,0 +1,607 @@
+[
+  {
+    "id": "tw-national-development-fund",
+    "name": { "en": "National Development Fund, Executive Yuan", "local": "行政院國家發展基金" },
+    "aka": ["NDF", "國發基金", "National Development Fund Management Committee", "行政院國家發展基金管理會"],
+    "type": "government-program",
+    "subtypes": ["growth-equity", "vc"],
+    "status": "active",
+    "founded_year": 2006,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.df.gov.tw/eng/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/national-development-fund-of-taiwan-government",
+      "other": [
+        "https://www.df.gov.tw/",
+        "https://www.ndc.gov.tw/Content_List.aspx?n=D7BCA0AAEF37A525",
+        "https://zh.wikipedia.org/zh-tw/%E8%A1%8C%E6%94%BF%E9%99%A2%E5%9C%8B%E5%AE%B6%E7%99%BC%E5%B1%95%E5%9F%BA%E9%87%91"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "NT$77.232 billion total cost across 70 direct-investment companies (as of Dec 2024)", "usd": null, "currency": "TWD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["generalist", "deeptech", "hardware-semiconductor", "biotech", "climate-energy", "ai-ml"],
+      "thesis": "Taiwan's flagship government investment fund. Accelerates industrial innovation and economic transformation via direct industrial investment, indirect investment as an LP in venture-capital funds, business-angel co-investment and loan financing; acts as a co-investor (not lead, capped at 20% of equity) alongside private capital."
+    },
+    "track_record": {
+      "portfolio_count": "70 direct-investment companies (Dec 2024); 35 active investments per CB Insights",
+      "notable_investments": [
+        { "company": "TMYTEK", "sector": "hardware-semiconductor", "outcome": "IPO" },
+        { "company": "Taiwania Capital", "sector": "generalist", "outcome": "active" },
+        { "company": "TURING Drive", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Taiwan Carbon Solution Exchange", "sector": "climate-energy", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to a specific NDF program (direct investment, Industry Innovation & Transformation Fund, Business Angel Investment Program, VC fund investment) via the NDF Management Committee or its project offices",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "sovereign-fund", "fund-of-funds", "co-investor", "national"],
+    "summary": {
+      "en": "The National Development Fund (國發基金) is Taiwan's flagship government investment fund, operating under the Executive Yuan's NDF Management Committee. Established in its current form on 1 Oct 2006 (by merging the Executive Yuan Development Fund, founded 1973, with the Sino-American Fund), it accelerates industrial innovation through direct industrial investment, acting as an LP in venture-capital funds, business-angel co-investment and loan financing. As of Dec 2024 it had invested in 70 direct-investment companies at a total cost of NT$77.232 billion, always as a co-investor (capped at 20% of equity, never the lead).",
+      "local": "行政院國家發展基金(國發基金)為臺灣最重要的政府投資基金,由行政院國家發展基金管理會管理。現制於 2006 年 10 月 1 日由行政院開發基金(1973 年成立)與中美經濟社會發展基金合併設立。透過直接產業投資、作為創投基金的有限合夥人(LP)、創業天使共同投資及貸款融資加速產業創新。截至 2024 年 12 月,已直接投資 70 家事業,投資總成本達新臺幣 772.32 億元,且一律為共同投資人(持股上限 20%,不擔任主投資人)。"
+    },
+    "sources": [
+      {
+        "url": "https://www.ndf-sispo.org.tw/",
+        "title": "國發基金加強投資專案辦公室",
+        "publisher": "NDF Strengthening Investment Project Office (TIER)",
+        "accessed": "2026-06-02",
+        "supports": "70 direct-investment companies, NT$77.232 billion total cost (Dec 2024); 20% equity cap; co-investor model",
+        "quote": "國發基金共計70家直接投資事業，投資總成本為772.32億元 ... 投資金額以不超過被投資事業募資後實收資本額之20%為原則"
+      },
+      {
+        "url": "https://zh.wikipedia.org/zh-tw/%E8%A1%8C%E6%94%BF%E9%99%A2%E5%9C%8B%E5%AE%B6%E7%99%BC%E5%B1%95%E5%9F%BA%E9%87%91",
+        "title": "行政院國家發展基金 - 維基百科",
+        "publisher": "Wikipedia (zh)",
+        "accessed": "2026-06-02",
+        "supports": "Current entity formed 1 Oct 2006 by merging Executive Yuan Development Fund with Sino-American Fund; governing body",
+        "quote": "2006年10月1日由行政院開發基金與中美經濟社會發展基金合併成立"
+      },
+      {
+        "url": "https://www.cbinsights.com/investor/national-development-fund-taiwan",
+        "title": "National Development Fund (Taiwan) - Investor Profile",
+        "publisher": "CB Insights",
+        "accessed": "2026-06-02",
+        "supports": "HQ address Taipei; 35 investments; TMYTEK IPO exit; recent deals (TURING Drive)",
+        "quote": "No. 49, Guancian Rd., Jhongjheng District 7F, Taipei ... 35 investments ... TMYTEK ... IPO on January 15, 2025"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "The 1973 founding refers to the predecessor Executive Yuan Development Fund; the current National Development Fund was formed 1 Oct 2006, so founded_year is set to 2006. Total fund scale in 兆元/億元 not published on a single accessible page; the NT$77.232bn figure is direct-investment cumulative cost (Dec 2024), not total AUM. Official df.gov.tw / ndc.gov.tw pages return HTTP 403 to automated fetch; figures corroborated via the NDF SISPO project-office site and Wikipedia.",
+    "last_updated": "2026-06-02",
+    "researched_by": "taiwan/government-program"
+  },
+  {
+    "id": "tw-ndf-business-angel-investment-program",
+    "name": { "en": "NDF Business Angel Investment Program", "local": "行政院國家發展基金創業天使投資方案" },
+    "aka": ["Startup Business Angel Investment Program", "創業天使投資方案", "國發基金天使投資方案", "Angel Investment Program"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.angelinvestment.org.tw/",
+    "links": {
+      "other": [
+        "https://www.ndc.gov.tw/en/Content_List.aspx?n=2D6DB92237E5779B",
+        "https://www.tvca.org.tw/gov-01.html",
+        "https://startup.sme.gov.tw/home/modules/funding/detail/?sId=59"
+      ]
+    },
+    "capital": {
+      "current_fund": { "raw": "NT$10 billion (國發基金匡列新臺幣100億元)", "usd": null, "currency": "TWD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "Up to NT$20M per case (first investment up to NT$30M; cumulative up to NT$100M)", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Government co-investment scheme run by the National Development Fund alongside qualified angel investors, accelerators and VC firms, providing early-stage capital plus mentoring and networking to innovative Taiwanese startups; the NDF matches private angel capital rather than leading rounds."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "Up to NT$20 million per case (基金對同一事業以不超過新臺幣2,000萬元為原則)", "usd": null, "currency": "TWD" },
+      "format": "n/a (co-investment program)",
+      "location": "Taiwan",
+      "demo_day": null,
+      "perks": ["Co-investment with NDF", "Mentoring / business mentor required from angel partner", "Networking and follow-up guidance"],
+      "application_url": "https://www.angelinvestment.org.tw/",
+      "application_cycles": ["Rolling, accepted until 31 Dec 2030 (民國119年)"],
+      "acceptance_rate": null,
+      "eligibility": "Startups established within 8 years with paid-in capital or cumulative fundraising not exceeding NT$100 million; must be co-invested by a qualified angel partner"
+    },
+    "track_record": {
+      "portfolio_count": "202 startups (as of 31 Aug 2022)",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Free application via angelinvestment.org.tw, administered by the Taiwan Venture Capital Association; a qualified angel/VC/accelerator partner co-invests and provides a business mentor",
+      "accepts_cold_inbound": true,
+      "contact": "angelinvestment@tvca.org.tw / 02-2546-5336"
+    },
+    "tags": ["government", "angel", "co-investment", "matching-fund", "free"],
+    "summary": {
+      "en": "The NDF Business Angel Investment Program (創業天使投資方案) is a National Development Fund co-investment scheme launched in late 2018. The NDF invests alongside qualified angels, accelerators and VC firms in early Taiwanese startups (established <8 years, paid-in capital ≤NT$100M), investing up to NT$20M per case (first investment up to NT$30M, cumulative up to NT$100M). Originally budgeted at NT$1bn, it was scaled up to NT$10bn and runs until end-2030. As of 31 Aug 2022 it had backed 202 startups with NT$3.162bn of approved angel investment, crowding in NT$8.818bn of private capital.",
+      "local": "行政院國家發展基金創業天使投資方案於 2018 年底推出,由國發基金與合格天使投資人、加速器及創投共同投資台灣早期新創(設立未逾 8 年、實收資本額或累計募資不超過新臺幣 1 億元),對同一事業投資以不超過 2,000 萬元為原則(初次最高 3,000 萬元、累計最高 1 億元)。初始預算 10 億元,後擴大為 100 億元,受理至民國 119 年(2030 年)底。截至 2022 年 8 月 31 日已投資 202 家新創,核定天使投資 31.62 億元,帶動民間投資 88.18 億元。"
+    },
+    "sources": [
+      {
+        "url": "https://startup.sme.gov.tw/home/modules/funding/detail/?sId=59",
+        "title": "行政院國家發展基金創業天使投資方案 - 新創圓夢網",
+        "publisher": "Startup Portal Taiwan (SMEA)",
+        "accessed": "2026-06-02",
+        "supports": "NT$10bn fund; <8 years; capital ≤NT$100M; NT$20M per case (first up to NT$30M, cumulative up to NT$100M); deadline 2030; admin TVCA",
+        "quote": "國發基金匡列新臺幣100億元辦理 ... 設立時間未逾8年 ... 實收資本額或過往累計實際募資金額不超過新臺幣1億元 ... 基金對同一事業投資金額以不超過新臺幣2,000萬元為原則 ... 初次投資金額得提高至新臺幣3,000萬元 ... 最高可達新臺幣1億元 ... 至119年12月31日止均得受理申請 ... 中華民國創業投資商業同業公會"
+      },
+      {
+        "url": "https://www.digitimes.com/news/a20220915PD202/national-development-fund.html",
+        "title": "National Development Fund sees fruition of angel investment",
+        "publisher": "DIGITIMES",
+        "accessed": "2026-06-02",
+        "supports": "Launched late 2018; budget NT$1.0bn raised to NT$5.0bn (could expand to NT$10bn); 202 startups, NT$3.162bn approved, NT$8.818bn private (as of 31 Aug 2022)",
+        "quote": "began to implement 5-year Startup Business Angel Investment Program ... in late 2018 ... NT$1.0 billion ... NT$5.0 billion ... could be further expanded to NT$10.0 billion ... 202 qualified startup businesses ... NT$3.162 billion (US$102 million) ... NT$8.818 billion"
+      },
+      {
+        "url": "https://www.angelinvestment.org.tw/",
+        "title": "行政院國家發展基金創業天使投資方案",
+        "publisher": "TVCA / NDF",
+        "accessed": "2026-06-02",
+        "supports": "Official program site; NT$10bn; free application; deadline 民國119年; administered by TVCA under NDF Management Committee",
+        "quote": "新臺幣100億元 ... 至119年12月31日前均得受理申請 ... 中華民國創業投資商業同業公會 ... 免費申請"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Program scaled over time: launched 2018 with NT$1bn, expanded to NT$5bn (Digitimes 2022), now NT$10bn per the official site and startup portal. Eligibility company age updated from <3 years (early NDC English page) to <8 years on current official pages; capital limit raised from NT$80M to NT$100M. Per-case cap is NT$20M as a principle, raised to NT$30M for first investment and up to NT$100M cumulative. Track-record figures (202 startups) are as of Aug 2022.",
+    "last_updated": "2026-06-02",
+    "researched_by": "taiwan/government-program"
+  },
+  {
+    "id": "tw-ndf-industry-innovation-transformation-fund",
+    "name": { "en": "NDF Industry Innovation & Transformation Fund / Strengthening Investment in Startups", "local": "國發基金產業創新轉型基金 / 加強投資新創事業實施方案" },
+    "aka": ["產業創新轉型基金", "加強投資新創事業實施方案", "Industry Innovation and Transformation Fund", "Strengthening Investment in Startups Program"],
+    "type": "government-program",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": null,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.ndf-sispo.org.tw/En",
+    "links": {
+      "other": [
+        "https://www.ndf-sispo.org.tw/",
+        "https://www.df.gov.tw/eng/News11.aspx?n=6CDB5F0B996FAE2F&sms=BBB2C05EFACD9D88"
+      ]
+    },
+    "capital": {
+      "current_fund": { "raw": "NT$100 billion earmarked (匡列1,000億元額度)", "usd": null, "currency": "TWD" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth", "series-c-plus"],
+      "check_size": { "raw": "Up to NT$10 billion cumulative per single case/group; capped at 20% of post-money paid-in capital", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["generalist", "deeptech", "hardware-semiconductor", "climate-energy", "biotech"],
+      "thesis": "National Development Fund matching-investment program co-investing NT$100bn alongside private capital into industrial innovation, high-tech, green energy and startups. The NDF never acts as lead investor or largest investor in the round and takes up to 20% of equity, with execution support from the Taiwan Institute of Economic Research."
+    },
+    "program": {
+      "length_weeks": null,
+      "investment": { "raw": "Up to NT$10 billion cumulative per single case/group (對單一個案累計投資以不超過100億元)", "usd": null, "currency": "TWD" },
+      "format": "co-investment / matching fund",
+      "location": "Taiwan",
+      "perks": ["Government co-investment", "Up to 20% equity, never the lead investor", "Application handled by TIER on behalf of NDF"],
+      "application_url": "https://www.ndf-sispo.org.tw/En",
+      "application_cycles": ["Rolling"],
+      "eligibility": "Companies pursuing industrial innovation, high-tech development, green energy and renewable resources aligned with national industrial development strategy"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via the NDF Strengthening Investment Services Project Office (operated by the Taiwan Institute of Economic Research) at ndf-sispo.org.tw",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "matching-fund", "co-investment", "growth", "industrial"],
+    "summary": {
+      "en": "The Industry Innovation & Transformation Fund / Strengthening Investment in Startups program is a National Development Fund matching-investment scheme with NT$100 billion earmarked to co-invest with private capital into industrial innovation, high-tech, green energy and startups. The NDF acts strictly as a co-investor — never the lead or largest investor — taking up to 20% of post-money equity, with cumulative investment per single case/group capped at NT$10 billion. Applications are handled by the NDF Strengthening Investment Services Project Office, operated by the Taiwan Institute of Economic Research (TIER).",
+      "local": "國發基金產業創新轉型基金/加強投資新創事業實施方案為國發基金的搭配投資機制,匡列新臺幣 1,000 億元額度,與民間資本共同投資產業創新、高科技、綠能與新創事業。國發基金僅擔任共同投資人(不擔任主投資人、亦非單輪最大投資人),持股以不超過募資後實收資本額 20% 為原則,對單一個案(集團)累計投資以不超過 100 億元。受理申請由國發基金加強投資專案辦公室(臺灣經濟研究院營運)承辦。"
+    },
+    "sources": [
+      {
+        "url": "https://www.ndf-sispo.org.tw/En",
+        "title": "Strengthening Investment Services Project Office, NDF",
+        "publisher": "NDF SISPO (TIER)",
+        "accessed": "2026-06-02",
+        "supports": "NT$100bn for Industrial Innovation & Transformation Fund; co-investor (not lead/largest); up to 20% equity; max NT$10bn per enterprise; TIER handles applications; sectors",
+        "quote": "NT$100 billion ... does not act as a lead investor ... cannot be the largest investor in the investment round ... up to 20% of total equity at the completion ... NT$ 10 billion ... industrial innovation, high-tech development and green energy"
+      },
+      {
+        "url": "https://www.ndf-sispo.org.tw/",
+        "title": "國發基金加強投資專案辦公室",
+        "publisher": "NDF SISPO (TIER)",
+        "accessed": "2026-06-02",
+        "supports": "NT$100bn earmark; 20% post-money equity cap; NT$10bn per single case cap",
+        "quote": "匡列1,000億元額度 ... 投資金額以不超過被投資事業募資後實收資本額之20%為原則 ... 對單一個案(集團)累計投資總金額以不超過100億元"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Program founding year not clearly dated on accessible pages (the Industry Innovation & Transformation Fund and the 加強投資新創事業實施方案 are related NDF matching schemes coordinated through the same SISPO office); founded_year left null. The NT$100bn earmark, 20% equity cap and NT$10bn per-case cap are confirmed on both the English and Chinese SISPO sites. Distinct from the smaller Business Angel Program (separate entity).",
+    "last_updated": "2026-06-02",
+    "researched_by": "taiwan/government-program"
+  },
+  {
+    "id": "tw-taiwania-capital",
+    "name": { "en": "Taiwania Capital", "local": "台杉投資" },
+    "aka": ["Taiwania Capital Management Corporation", "台杉投資管理顧問", "台杉"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.taiwaniacapital.com/en/funds",
+    "links": {
+      "other": [
+        "https://en.wikipedia.org/wiki/Taiwania_Capital",
+        "https://www.taiwaniacapital.com/en/portfolios/category"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "US$1 billion (as of 2024)", "usd": 1000000000, "currency": "USD" },
+      "funds": [
+        { "name": "Five funds (by Aug 2021)", "vintage_year": null, "size": { "raw": "US$490 million (NT$13.75 billion)", "usd": 490000000, "currency": "USD" } },
+        { "name": "Taiwania-CEE Fund (Central & Eastern Europe)", "vintage_year": 2022, "size": { "raw": "US$200 million", "usd": 200000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "geo_focus": ["Taiwan", "United States", "Central and Eastern Europe", "Asia"],
+      "sector_focus": ["hardware-semiconductor", "biotech", "deeptech", "ai-ml", "healthtech"],
+      "thesis": "Government-initiated venture-capital firm sponsored by the National Development Fund (40% owner) to channel private capital into Taiwan's strategic sectors — IoT/semiconductors, biotech and deep tech — and connect Taiwanese technology with international markets including the US and Central & Eastern Europe."
+    },
+    "track_record": {
+      "portfolio_count": "75+ companies invested",
+      "notable_investments": [
+        { "company": "Ambiq Micro", "sector": "hardware-semiconductor", "outcome": "IPO" },
+        { "company": "C4 Therapeutics", "sector": "biotech", "outcome": "IPO" },
+        { "company": "Fractyl Health", "sector": "healthtech", "outcome": "IPO" }
+      ],
+      "exits": [
+        { "company": "Ambiq Micro", "type": "IPO", "year": null },
+        { "company": "C4 Therapeutics", "type": "IPO", "year": null },
+        { "company": "Fractyl Health", "type": "IPO", "year": null }
+      ]
+    },
+    "people": [
+      { "name": "Lin Hsin-yi", "role": "Chairman (from 2024)" },
+      { "name": "Wu Rong-i", "role": "Chairman (2017–2024)" }
+    ],
+    "application": {
+      "how_to_apply": "Pitch via taiwaniacapital.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "government-backed-vc", "deeptech", "semiconductor", "biotech", "national"],
+    "summary": {
+      "en": "Taiwania Capital (台杉投資) is a government-initiated venture-capital firm founded in August 2017, sponsored by the National Development Fund (40% ownership) to mobilise private capital into Taiwan's strategic sectors. It focuses on IoT/semiconductors, biotech and deep tech and connects Taiwanese tech to the US and, since 2022, Central & Eastern Europe (a US$200M fund). By Aug 2021 it had raised about US$490M (NT$13.75bn) across five funds; AUM reached about US$1bn by 2024, with 75+ companies invested and IPO exits including Ambiq Micro, C4 Therapeutics and Fractyl Health.",
+      "local": "台杉投資(Taiwania Capital)為政府推動成立的創投,2017 年 8 月設立,由國發基金出資(持股 40%),旨在引導民間資本投入台灣策略性產業。聚焦物聯網/半導體、生技與深科技,並連結美國市場,2022 年起設立 2 億美元的中東歐基金。截至 2021 年 8 月,已募集約 4.9 億美元(新臺幣 137.5 億元),分五檔基金;2024 年資產管理規模達約 10 億美元,投資逾 75 家公司,IPO 出場案例包括 Ambiq Micro、C4 Therapeutics 與 Fractyl Health。"
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Taiwania_Capital",
+        "title": "Taiwania Capital - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Founded Aug 2017; NDF 40% ownership; AUM US$1bn (2024); US$490M / NT$13.75bn across five funds (Aug 2021); 75+ companies; US$200M CEE fund (2022); chairs; IPO exits",
+        "quote": "Founded in August 2017 ... 40% ownership ... US$1 billion ... raised about US$490 million (NT$13.75 billion) for five funds ... invested in over 75 companies ... $200 million ... Central and Eastern European ... Ambiq Micro, C4 Therapeutics, and Fractyl Health"
+      },
+      {
+        "url": "https://www.taiwaniacapital.com/en/funds",
+        "title": "Funds - Taiwania Capital",
+        "publisher": "Taiwania Capital",
+        "accessed": "2026-06-02",
+        "supports": "Fund line-up and focus areas (semiconductor, 5G, EV supply chain, ML/data security)",
+        "quote": "new edge and 5G infrastructure, EV supply chain, Hybrid next generation Semi and data/ML security"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Taiwania is a privately managed VC firm, but it was created by government policy and the National Development Fund is its largest sponsor (40%), so it is included in the government-program segment with a 'vc' subtype. AUM grew from ~US$490M (2021) to ~US$1bn (2024); these are different snapshots, not conflicting. Portfolio count '75+' and exits are from Wikipedia (citing reporting); fund-by-fund sizes vary by source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "taiwan/government-program"
+  },
+  {
+    "id": "tw-sbir",
+    "name": { "en": "Small Business Innovation Research (SBIR)", "local": "小型企業創新研發計畫" },
+    "aka": ["SBIR Taiwan", "經濟部 SBIR", "小型企業創新研發補助"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 1999,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://sbir.org.tw/",
+    "links": {
+      "other": [
+        "https://startup.sme.gov.tw/home/modules/funding/detail/?sId=2",
+        "https://sbir.org.tw/sbir/info",
+        "https://startup.sme.gov.tw/en/incentive"
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["generalist", "deeptech", "hardware-semiconductor", "biotech", "ai-ml"],
+      "thesis": "Non-dilutive R&D grant program by the SME and Startup Administration (MOEA) subsidising innovative research and development by domestic small and medium enterprises across phased stages (Phase 1 prior research, Phase 2 R&D, Phase 2+ value-added application)."
+    },
+    "program": {
+      "length_weeks": null,
+      "investment": { "raw": "Phase 1: up to NT$1.5M (6 mo); Phase 2: up to NT$6M/yr, NT$12M total (2 yr); Phase 2+: up to NT$6M (≤1 yr) — all non-dilutive grants", "usd": null, "currency": "TWD" },
+      "equity_taken_pct": "0",
+      "format": "grant (non-equity)",
+      "location": "Taiwan",
+      "application_url": "https://sbir.org.tw/",
+      "application_cycles": ["Rolling (隨到隨受理)"],
+      "eligibility": "Domestic SMEs with paid-in capital under NT$100 million or fewer than 200 employees"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Online application on a rolling basis via sbir.org.tw; hotline 0800-888-968",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "grant", "non-dilutive", "r-and-d", "sme"],
+    "summary": {
+      "en": "SBIR (小型企業創新研發計畫) is a non-dilutive R&D grant program run by Taiwan's SME and Startup Administration (MOEA). It subsidises innovation by domestic SMEs across three phases: Phase 1 (prior research) up to NT$1.5M over 6 months; Phase 2 (R&D) up to NT$6M per year and NT$12M total over 2 years; and Phase 2+ (value-added application) up to NT$6M over up to 1 year. Eligible applicants are domestic SMEs with paid-in capital under NT$100M or fewer than 200 employees; applications are accepted on a rolling basis.",
+      "local": "SBIR(小型企業創新研發計畫)為經濟部中小及新創企業署辦理的研發補助計畫(不取股權)。分三階段補助國內中小企業創新研發:第一階段(先期研究)每案最高新臺幣 150 萬元、期程 6 個月;第二階段(研究開發)每案每年補助不超過 600 萬元、2 年全程不超過 1,200 萬元;第二階段加值(Phase 2+)每案最高 600 萬元、期程 1 年內。申請資格為實收資本額 1 億元以下或員工未滿 200 人的國內中小企業,採隨到隨受理。"
+    },
+    "sources": [
+      {
+        "url": "https://startup.sme.gov.tw/home/modules/funding/detail/?sId=2",
+        "title": "經濟部小型企業創新研發計畫(SBIR) - 新創圓夢網",
+        "publisher": "Startup Portal Taiwan (SMEA)",
+        "accessed": "2026-06-02",
+        "supports": "MOEA SMEA; Phase 1 NT$1.5M/6mo; Phase 2 NT$6M/yr, NT$12M/2yr; Phase 2+ NT$6M; eligibility capital ≤NT$100M or <200 employees; rolling",
+        "quote": "經濟部中小及新創企業署 ... 補助上限每案新臺幣150萬元（計畫期程6個月）... 每年補助金額不超過600萬元；以2年為全程，補助金額不超過1,200萬元 ... 補助上限每案新臺幣600萬元 ... 實收資本額或出資額在新臺幣一億元以下 ... 經常僱用員工數未滿二百人者"
+      },
+      {
+        "url": "https://startup.sme.gov.tw/en/incentive",
+        "title": "Government Incentive | Startup Portal Taiwan",
+        "publisher": "Startup Portal Taiwan (SMEA)",
+        "accessed": "2026-06-02",
+        "supports": "Cross-check of SBIR phase amounts and durations in English",
+        "quote": "Phase 1 ... NT $1,000,000 ... 6 months ... Phase 2 ... NT $10,000,000 ... 2 years ... Phase 2+ ... NT $5,000,000 ... 1 year"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "The Chinese startup-portal page lists the current (higher) per-case caps — Phase 1 NT$1.5M, Phase 2 NT$6M/yr (NT$12M/2yr), Phase 2+ NT$6M; the English incentive page shows older/rounded figures (NT$1M, NT$10M, NT$5M). Current Chinese figures used as primary. SBIR Taiwan has run since 1999 (modelled on the US SBIR); founded_year=1999 is from general program history and is approximate.",
+    "last_updated": "2026-06-02",
+    "researched_by": "taiwan/government-program"
+  },
+  {
+    "id": "tw-siir",
+    "name": { "en": "Service Industry Innovation Research (SIIR)", "local": "服務業創新研發計畫" },
+    "aka": ["SIIR Taiwan", "服務業創新研發補助"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": null,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://gcis.nat.gov.tw/neo-s/Web/Default.aspx",
+    "links": {
+      "other": [
+        "https://startup.sme.gov.tw/home/modules/funding/detail/?sId=13",
+        "https://startup.sme.gov.tw/en/incentive"
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["consumer", "ecommerce", "logistics", "saas-enterprise", "generalist"],
+      "thesis": "Non-dilutive innovation grant by the Commerce Development Administration (MOEA) supporting commercial service businesses with 'smart' and 'low-carbon' service R&D, viable business models and international expansion potential, in retail, logistics, restaurants, advertising and e-commerce."
+    },
+    "program": {
+      "length_weeks": null,
+      "investment": { "raw": "Individual innovation up to NT$1.5M; cooperative up to NT$5M; internationalization advanced individual up to NT$5M / cooperative up to NT$10M (grants)", "usd": null, "currency": "TWD" },
+      "equity_taken_pct": "0",
+      "format": "grant (non-equity)",
+      "location": "Taiwan",
+      "application_url": "https://gcis.nat.gov.tw/neo-s/Web/Default.aspx",
+      "application_cycles": ["Annual call (e.g. FY2026 deadline 30 Jan 2026)"],
+      "eligibility": "Domestic commercial / service-sector businesses (retail, logistics, restaurants, advertising, e-commerce)"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply during the annual call via the SIIR portal (gcis.nat.gov.tw); executed by the Chinese Productivity Center",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "grant", "non-dilutive", "service-industry", "r-and-d"],
+    "summary": {
+      "en": "SIIR (服務業創新研發計畫) is a non-dilutive innovation grant run by the Commerce Development Administration (MOEA) and executed by the Chinese Productivity Center. It funds service-sector R&D with 'smart' and 'low-carbon' themes — in retail, logistics, restaurants, advertising and e-commerce. Subsidy tiers: individual innovation up to NT$1.5M; cooperative innovation up to NT$5M; and internationalization advanced innovation up to NT$5M (individual) or NT$10M (cooperative), with higher caps for sports-services projects.",
+      "local": "SIIR(服務業創新研發計畫)為經濟部商業發展署辦理、財團法人中國生產力中心執行的服務業創新補助(不取股權)。鼓勵零售、物流、餐飲、廣告、電商等商業服務業以「智慧」與「低碳」為主題投入創新研發。補助級距:個別創新最高新臺幣 150 萬元;協同創新最高 500 萬元;國際化精進創新個別最高 500 萬元、協同最高 1,000 萬元(運動服務業另有較高額度)。"
+    },
+    "sources": [
+      {
+        "url": "https://startup.sme.gov.tw/home/modules/funding/detail/?sId=13",
+        "title": "SIIR-服務業創新研發補助｜經濟部商業發展署 - 新創圓夢網",
+        "publisher": "Startup Portal Taiwan (SMEA)",
+        "accessed": "2026-06-02",
+        "supports": "MOEA Commerce Development Administration; executed by Chinese Productivity Center; tiers NT$1.5M / NT$5M / NT$5M-10M; sectors",
+        "quote": "經濟部商業發展署 ... 中國生產力中心 ... 個別創新 ... 150萬元 ... 協同創新 ... 500萬元 ... 國際化精進創新 ... 個別 ... 500萬元 ... 協同 ... 1,000萬元"
+      },
+      {
+        "url": "https://startup.sme.gov.tw/en/incentive",
+        "title": "Government Incentive | Startup Portal Taiwan",
+        "publisher": "Startup Portal Taiwan (SMEA)",
+        "accessed": "2026-06-02",
+        "supports": "SIIR subsidy caps in English (individual up to NT$3M, alliances up to NT$10M); sectors",
+        "quote": "Service Industry Innovation Research (SIIR) ... Individual businesses: Up to NT$3 million ... Alliances: Up to NT$10 million ... Retail, logistics, restaurants, advertising, e-commerce"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Subsidy tiers differ between sources/years: the Chinese startup-portal page lists individual NT$1.5M / cooperative NT$5M / internationalization NT$5M-10M, while the English incentive page summarises 'individual up to NT$3M, alliances up to NT$10M'. The lower current Chinese figures are used as primary; the English caps are noted as an alternative reading. Founding year not confirmed (program has run for many years under the Commerce/CDA); left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "taiwan/government-program"
+  },
+  {
+    "id": "tw-a-plus-industrial-innovative-rd",
+    "name": { "en": "A+ Industrial Innovative R&D Program", "local": "A+企業創新研發淬鍊計畫" },
+    "aka": ["A+ Program", "A+企業創新研發", "A+ Enterprise Innovation R&D Program"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2014,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://service.moea.gov.tw/EE514/tw/aiip/53.html",
+    "links": {
+      "other": [
+        "https://tiip.itnet.org.tw/linkPage.php?pk=36",
+        "https://startup.sme.gov.tw/home/modules/funding/detail/?sId=180"
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "ai-ml", "generalist"],
+      "thesis": "MOEA (Industrial Development Administration / former Department of Industrial Technology) matching R&D grant guiding enterprises to invest in forward-looking, cross-domain industrial technology development; subsidises forefront technology R&D, integrated R&D and the establishment of in-Taiwan R&D centres."
+    },
+    "program": {
+      "length_weeks": null,
+      "investment": { "raw": "Subsidy ≥40% and up to 50% of total project cost (補助比例原則為計畫總經費40%以上，最高不超過50%)", "usd": null, "currency": "TWD" },
+      "equity_taken_pct": "0",
+      "format": "matching grant (non-equity)",
+      "location": "Taiwan",
+      "application_url": "https://service.moea.gov.tw/EE514/tw/aiip/53.html",
+      "application_cycles": ["Annual / batch calls"],
+      "eligibility": "Domestic legally-registered sole proprietorships, partnerships, limited partnerships or companies with positive net worth, not on a bank's rejected list, and not Chinese-invested entities"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to the relevant A+ sub-program via MOEA's A+ project office; tel (02)2341-2314",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["government", "grant", "matching", "r-and-d", "deeptech"],
+    "summary": {
+      "en": "The A+ Industrial Innovative R&D Program (A+企業創新研發淬鍊計畫) is a MOEA matching R&D grant launched in 2014 (then under the Department of Industrial Technology, now the Industrial Development Administration). It guides enterprises to invest in forward-looking, cross-domain industrial technology through three tracks — forefront technology R&D, integrated R&D, and establishing R&D centres in Taiwan. The subsidy covers in principle 40% and up to a maximum 50% of total project cost, with the remainder self-funded. Eligible applicants are domestic, legally-registered, financially-sound, non-Chinese-invested businesses.",
+      "local": "A+企業創新研發淬鍊計畫為經濟部自 2014 年度起執行的搭配型研發補助(原技術處,現產業發展署)。引導企業投入更具潛力的前瞻、跨領域產業技術開發,分前瞻技術研發計畫、整合型研發計畫及鼓勵在台設立研發中心三類。補助比例原則為計畫總經費 40% 以上、最高不超過 50%,其餘由申請單位自籌。申請企業須為國內依法登記、淨值為正、非銀行拒絕往來戶且非陸資來臺投資事業。"
+    },
+    "sources": [
+      {
+        "url": "https://service.moea.gov.tw/EE514/tw/aiip/53.html",
+        "title": "A+企業創新研發淬鍊計畫－計畫簡介",
+        "publisher": "Ministry of Economic Affairs (MOEA)",
+        "accessed": "2026-06-02",
+        "supports": "Launched FY2014; MOEA (Dept of Industrial Technology); three tracks; 40%–max 50% subsidy; eligibility (non-Chinese-invested, positive net worth)",
+        "quote": "經濟部技術處自2014年度執行 ... 前瞻技術研發計畫、整合型研發計畫及鼓勵國內企業在台設立研發中心計畫 ... 補助比例原則為計畫總經費40%以上，惟最高不超過50% ... 不得為陸資來臺投資事業"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Numbers (since 2014; 40%–50% subsidy; three tracks; eligibility) are from MOEA's A+ program intro page, surfaced via search snippet. Exact per-case grant amounts vary by sub-program (萌芽案 / 研發精進 etc.) and were not all individually confirmed, so only the subsidy ratio is quantified. The administering body has moved from the Department of Industrial Technology to the Industrial Development Administration under MOEA reorganisation.",
+    "last_updated": "2026-06-02",
+    "researched_by": "taiwan/government-program"
+  },
+  {
+    "id": "tw-startup-island-taiwan",
+    "name": { "en": "Startup Island TAIWAN", "local": "創業之島 / Startup Island TAIWAN" },
+    "aka": ["NEXT BIG", "Startup Island Taiwan national startup brand", "NEXT BIG program"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.ndc.gov.tw/en/Content_List.aspx?n=7D09AF77A1259036",
+    "links": {
+      "other": [
+        "https://startup.sme.gov.tw/en/NewsContent/581",
+        "https://www.prnewswire.com/apac/news-releases/taiwans-next-big-startup-initiative-strengthened-by-national-development-council-ndc-increased-support-301883659.html",
+        "https://www.ndc.gov.tw/en/Content_List.aspx?n=DD6EB3B5F084F394"
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "geo_focus": ["Taiwan", "Global"],
+      "sector_focus": ["generalist", "edtech", "healthtech", "spacetech", "climate-energy", "ai-ml"],
+      "thesis": "National startup brand and promotion program led by the National Development Council to raise the global visibility of Taiwanese startups. Its 'NEXT BIG' initiative selects benchmark startups (recommended by the community and industry leaders) and supports them with branding, overseas business-development and international investment connections."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "investment": { "raw": "no direct equity/grant (branding & promotion program)", "usd": null, "currency": "" },
+      "equity_taken_pct": "0",
+      "format": "branding / promotion / overseas BD",
+      "location": "Taiwan / global",
+      "demo_day": null,
+      "perks": ["Free national startup brand badge/logo", "NEXT BIG benchmark-startup recognition", "Overseas business-opportunity and international-investment connections", "Global storytelling and visibility"],
+      "application_url": "https://www.ndc.gov.tw/en/Content_List.aspx?n=7D09AF77A1259036",
+      "application_cycles": ["NEXT BIG annual selection / community recommendation"],
+      "acceptance_rate": null,
+      "eligibility": "Taiwanese startups (the brand badge is free to use by all the country's startups; NEXT BIG is curated/recommended)"
+    },
+    "track_record": {
+      "portfolio_count": "22 NEXT BIG startups (9 selected 2021 + 13 in 2023)",
+      "notable_investments": [
+        { "company": "AmazingTalker", "sector": "edtech", "outcome": "active" },
+        { "company": "Hahow", "sector": "edtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Kung Ming-Hsin", "role": "Minister, National Development Council (overseeing)" }
+    ],
+    "application": {
+      "how_to_apply": "Adopt the free Startup Island TAIWAN brand badge; NEXT BIG startups are recommended by the startup community and industry leaders via the NDC",
+      "accepts_cold_inbound": false
+    },
+    "tags": ["government", "national-brand", "promotion", "ecosystem", "non-dilutive"],
+    "summary": {
+      "en": "Startup Island TAIWAN is the national startup brand jointly created by the National Development Council (NDC) and Taiwan's startup communities, launched and branded around 2020–2021 to raise the global visibility of Taiwanese startups (the badge/logo is free for any local startup to use). Its flagship 'NEXT BIG' program, launched in 2021 with nine startups (a further 13 added in 2023, 22 total), identifies benchmark startups — such as AmazingTalker and Hahow — and supports them with branding, overseas business development and international investment connections rather than direct funding.",
+      "local": "Startup Island TAIWAN 為國家發展委員會(NDC)與台灣新創社群共同打造的國家新創品牌,約於 2020–2021 年推出並建立品牌識別,提升台灣新創的國際能見度(品牌標誌開放全國新創免費使用)。旗艦的「NEXT BIG」計畫於 2021 年推出、首選 9 家新創(2023 年再增 13 家,共 22 家),選拔指標性新創(如 AmazingTalker、Hahow),以品牌、海外商機與國際投資連結等方式支持,而非直接出資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/apac/news-releases/taiwans-next-big-startup-initiative-strengthened-by-national-development-council-ndc-increased-support-301883659.html",
+        "title": "Taiwan's NEXT BIG startup Initiative strengthened by NDC increased support",
+        "publisher": "PR Newswire / NDC",
+        "accessed": "2026-06-02",
+        "supports": "NDC-led national startup brand; NEXT BIG launched 2021 with 9 startups, +13 in 2023; Minister Kung Ming-Hsin; support model",
+        "quote": "national startup brand jointly created by the NDC and the startup communities ... NEXT BIG was launched in 2021 ... nine NEXT BIG startups ... 13 additional startups for this year ... Minister Kung Ming-Hsin"
+      },
+      {
+        "url": "https://startup.sme.gov.tw/en/NewsContent/581",
+        "title": "NEXT BIG program from Startup Island TAIWAN unveils 13 innovative startups including AmazingTalker and Hahow",
+        "publisher": "Startup Portal Taiwan (SMEA)",
+        "accessed": "2026-06-02",
+        "supports": "NEXT BIG 13 startups including AmazingTalker and Hahow",
+        "quote": "NEXT BIG program from Startup Island TAIWAN unveils 13 innovative startups including AmazingTalker and Hahow"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Startup Island TAIWAN is primarily a national branding/promotion program (no direct cash or equity), included here as a government public program. The brand was launched around 2020–2021 (NDC branding event reported Dec; founded_year set to 2020 as approximate); NEXT BIG cohorts are 2021 (9) and 2023 (13). NDC official pages (ndc.gov.tw) return HTTP 403 to automated fetch; details corroborated via PR Newswire and the SMEA startup portal.",
+    "last_updated": "2026-06-02",
+    "researched_by": "taiwan/government-program"
+  }
+]

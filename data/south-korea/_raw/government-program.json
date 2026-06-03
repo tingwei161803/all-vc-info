@@ -1,0 +1,630 @@
+[
+  {
+    "id": "kr-korea-venture-investment-corp",
+    "name": { "en": "Korea Venture Investment Corp (KVIC)", "local": "한국벤처투자" },
+    "aka": ["KVIC", "Korea Fund of Funds operator", "한국모태펀드 운용사"],
+    "type": "government-program",
+    "subtypes": ["fund-of-funds"],
+    "status": "active",
+    "founded_year": 2005,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.kvic.or.kr",
+    "links": {
+      "other": ["https://www.kvic.or.kr/en", "https://ventures.adb.org/kvic/"]
+    },
+    "capital": {
+      "aum": { "raw": "8조 8,968억 원 (Korea Fund of Funds, as of Dec 31 2023)", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Korea Fund of Funds (한국모태펀드 / Mother Fund)", "vintage_year": 2005, "size": { "raw": "8조 8,968억 원 (2023.12.31 기준)", "usd": null, "currency": "KRW" } },
+        { "name": "Smart Korea Fund (스마트대한민국펀드)", "vintage_year": 2020, "size": { "raw": "1.2 trillion KRW or more", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist", "ai-ml", "biotech", "climate-energy", "deeptech", "gaming"],
+      "thesis": "Government-backed fund-of-funds operator. KVIC manages the Korea Fund of Funds (Mother Fund), seeding private venture capital partnerships rather than investing directly in startups, to provide a stable, market-driven supply of venture capital to Korean SMEs and ventures."
+    },
+    "people": [],
+    "summary": {
+      "en": "Korea Venture Investment Corp (KVIC) is the government-owned professional operator of the Korea Fund of Funds (Mother Fund), established in 2005 under the Special Measures Act for Venture Business Development. It is a fund-of-funds: 13 government ministries/agencies contribute capital, KVIC invests into private venture capital partnerships, which in turn invest in startups and SMEs. The Mother Fund stood at about KRW 8.9 trillion at end-2023, and KVIC also runs the Smart Korea Fund and overseas global funds.",
+      "local": "한국벤처투자(KVIC)는 2005년 설립된 정부 출자 모태펀드(한국모태펀드) 전담 운용기관으로, 13개 정부 부처·기관의 출자를 받아 민간 벤처투자조합에 출자하는 재간접(fund-of-funds) 구조로 운영된다. 2023년 말 기준 모태펀드 규모는 약 8조 8,968억 원이며, 스마트대한민국펀드와 해외진출 글로벌펀드도 운용한다."
+    },
+    "sources": [
+      {
+        "url": "https://www.kvic.or.kr/about-business",
+        "title": "사업소개 > 출자사업 > 한국모태펀드 > 사업개요",
+        "publisher": "Korea Venture Investment Corp",
+        "accessed": "2026-06-02",
+        "supports": "Founding year, fund-of-funds structure, fund size, contributing ministries, 30-year operation period",
+        "quote": "Established July 15, 2005, under the Special Measures Act for Venture Business Development, the Mother Fund operates as a Fund of Funds structure ... \"8조 8,968억 (2023년 12월 31일 기준)\""
+      },
+      {
+        "url": "https://www.kvic.or.kr/about-business/capital-business/smart-korea-fund",
+        "title": "사업소개 > 출자사업 > 스마트대한민국펀드 > 사업개요",
+        "publisher": "Korea Venture Investment Corp",
+        "accessed": "2026-06-02",
+        "supports": "Smart Korea Fund size and composition",
+        "quote": "Total Fund Size: Over 1.2 trillion KRW ... Government: 438 billion KRW ... Private sector: 800 billion KRW"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Mother Fund total fluctuates with annual government allocation; KRW 8.9T figure is end-2023 from KVIC's own site. USD conversions left null to avoid fabricated rates.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "kr-korea-institute-startup-entrepreneurship-development",
+    "name": { "en": "Korea Institute of Startup & Entrepreneurship Development (KISED)", "local": "창업진흥원" },
+    "aka": ["KISED", "창업진흥원"],
+    "type": "government-program",
+    "subtypes": ["incubator", "accelerator"],
+    "status": "active",
+    "founded_year": 2008,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Sejong",
+    "website": "https://www.kised.or.kr",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/kised/",
+      "crunchbase": "https://www.crunchbase.com/organization/korea-institute-of-startup-entrepreneurship-development",
+      "other": ["https://www.kised.or.kr/_eng/", "https://www.k-startup.go.kr/"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist", "deeptech", "ai-ml"],
+      "thesis": "Central public agency under the Ministry of SMEs and Startups that designs and operates Korea's national startup-support programs (Pre-Startup Package, Startup Package, TIPS administration, K-Startup Grand Challenge, K-Startup portal, CCEI network), spanning education, commercialization grants and globalization."
+    },
+    "program": {
+      "format": "hybrid",
+      "application_url": "https://www.k-startup.go.kr/",
+      "eligibility": "Korean and (for global programs) foreign founders / prospective founders depending on the specific program."
+    },
+    "people": [],
+    "summary": {
+      "en": "KISED (Korea Institute of Startup & Entrepreneurship Development), established in 2008 and headquartered in Sejong, is the public institute under the Ministry of SMEs and Startups that runs Korea's flagship national startup programs. It administers the Pre-Startup Package, Startup Commercialization packages, the TIPS program (with KISED/MSS), the K-Startup Grand Challenge for foreign founders, the K-Startup portal, and the 17 Centers for Creative Economy & Innovation.",
+      "local": "창업진흥원(KISED)은 2008년 설립되어 세종에 본부를 둔 중소벤처기업부 산하 공공기관으로, 예비창업패키지·창업성장 사업·TIPS·K-Startup Grand Challenge·K-Startup 포털·전국 17개 창조경제혁신센터 등 국가 창업지원 사업을 운영한다."
+    },
+    "sources": [
+      {
+        "url": "https://www.kised.or.kr/_eng/",
+        "title": "Korea Institute of Startup & Entrepreneurship Development",
+        "publisher": "KISED",
+        "accessed": "2026-06-02",
+        "supports": "Role, programs, parent ministry",
+        "quote": "KISED ... supporting entrepreneurship and startups in South Korea ... operates under the Ministry of SMEs and Startups."
+      },
+      {
+        "url": "https://koreatechdesk.com/supporting-korean-startups-korea-institute-of-startup-entrepreneurship-development-kised-encouraging-and-nurturing-entrepreneurship-in-s-korea",
+        "title": "Supporting Korean Startups: KISED encouraging and nurturing entrepreneurship",
+        "publisher": "KoreaTechDesk",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2008, headquartered Sejong, operates 17 CCEI",
+        "quote": "KISED was launched in 2008 as a business incubator foundation ... KISED is based in Sejong, South Korea, and operates under the Ministry of SMEs and Startups ... 17 Centers of Creative Economy (CCE) across the country."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Some secondary sources give 2008 vs 2009 for founding; KISED's own profile and multiple sources state 2008.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "kr-korea-smes-and-startups-agency",
+    "name": { "en": "Korea SMEs and Startups Agency (KOSME)", "local": "중소벤처기업진흥공단" },
+    "aka": ["KOSME", "중진공", "중소벤처기업진흥공단"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 1979,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Jinju",
+    "website": "https://www.kosmes.or.kr",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/%EC%A4%91%EC%86%8C%EB%B2%A4%EC%B2%98%EA%B8%B0%EC%97%85%EC%A7%84%ED%9D%A5%EA%B3%B5%EB%8B%A8-korea-smes-startups-agency",
+      "other": ["https://en.wikipedia.org/wiki/Korean_SMEs_and_Startups_Agency", "https://www.kosmes.or.kr/sbc/SH/EHP/SHEHP006M0.do"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "SME & Startup Promotion Fund 2026 (중소벤처기업창업및진흥기금)", "vintage_year": 2026, "size": { "raw": "11조 5,129억 원 (2026)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist", "ai-ml"],
+      "thesis": "Government-funded agency under the Ministry of SMEs and Startups providing policy loans, direct lending, consulting, training, marketing and global-expansion support to Korean SMEs and startups; a primary channel for state policy finance rather than equity investment."
+    },
+    "people": [
+      { "name": "Kang Seok-jin", "role": "President (as of 2024)" }
+    ],
+    "summary": {
+      "en": "KOSME (Korea SMEs and Startups Agency) is a non-profit, government-funded organization founded in 1979 under the Ministry of SMEs and Startups. It implements state SME/startup policy primarily through policy finance — direct loans, interest subsidies and consulting — rather than equity. For 2026 it finalized its SME & Startup Promotion Fund at KRW 11.5129 trillion, including KRW 4.0643 trillion in direct loans and KRW 367 billion in interest subsidies.",
+      "local": "중소벤처기업진흥공단(KOSME)은 1979년 설립된 중소벤처기업부 산하 정부출연기관으로, 정책자금(직접대출·이차보전)과 컨설팅·교육·글로벌 진출 지원을 통해 중소·벤처기업을 지원한다. 2026년 중소벤처기업창업및진흥기금 규모를 11조 5,129억 원으로 확정했으며, 직접대출 4조 643억 원과 이차보전 367억 원을 포함한다."
+    },
+    "sources": [
+      {
+        "url": "https://cm.asiae.co.kr/en/article/2026010322012600686",
+        "title": "KOSME Finalizes SME Promotion Fund at 11.5129 Trillion Won for This Year",
+        "publisher": "Asia Business Daily (아시아경제)",
+        "accessed": "2026-06-02",
+        "supports": "2026 fund size, direct loans, interest subsidies",
+        "quote": "finalized the scale of the SME and Startup Promotion Fund for this year at 11.5129 trillion won ... 4.0643 trillion won in direct loans and 367 billion won in interest subsidies."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Korean_SMEs_and_Startups_Agency",
+        "title": "Korean SMEs and Startups Agency",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Parent ministry, role, direct loan support",
+        "quote": "It provides direct loan support to Korean SMEs, totalling 4.7 trillion won ... Korean Ministry of SMEs and Startups"
+      },
+      {
+        "url": "https://www.kosmes.or.kr/sbc/SH/EHP/SHEHP006M0.do",
+        "title": "Korea SMEs & Startups Agency (KOSME)",
+        "publisher": "KOSME",
+        "accessed": "2026-06-02",
+        "supports": "Founded 1979, government-funded non-profit, role",
+        "quote": "KOSME was founded in 1979 ... a non-profit, government-funded organization established to implement government policies and programs"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "HQ in Jinju (Gyeongsangnam-do); some profiles list 'Gyeongsangnam-do' generally. KOSME is primarily a lender/policy-finance body, included as a core government program in this segment.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "kr-tips-program",
+    "name": { "en": "TIPS — Tech Incubator Program for Startup", "local": "팁스" },
+    "aka": ["TIPS", "Tech Incubator Program for Startup", "민간투자주도형 기술창업지원"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Sejong",
+    "website": "https://www.jointips.or.kr",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/korea-tech-incubator-program-for-startup",
+      "other": ["https://www.jointips.or.kr/about_en.php", "https://www.kised.or.kr/menu.es?mid=a20204040000"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["deeptech", "ai-ml", "biotech", "hardware-semiconductor"],
+      "thesis": "Public-private partnership between the Ministry of SMEs and Startups and certified private operators (VCs/accelerators/successful founders). Selected operators make a private angel investment, which unlocks matching government R&D grants and commercialization support for technology startups."
+    },
+    "program": {
+      "format": "hybrid",
+      "investment": { "raw": "Up to ~700M KRW per startup (100M angel investment + up to 500M R&D, expanding to 800M for deep tech); plus up to 400M additional investment and marketing support", "usd": null, "currency": "KRW" },
+      "equity_taken_pct": null,
+      "application_url": "https://www.jointips.or.kr",
+      "eligibility": "Early-stage technology startups selected via a certified TIPS operator (private investor) who first invests; standard, scale-up and global TIPS tracks.",
+      "perks": ["Matching R&D grants", "Angel/operator investment", "Mentoring and incubation", "Overseas marketing support"]
+    },
+    "people": [],
+    "summary": {
+      "en": "TIPS (Tech Incubator Program for Startup), launched in 2013, is Korea's flagship public-private deep-tech program run by the Ministry of SMEs and Startups and administered with KISED. A certified private operator (VC, accelerator or successful founder) first invests ~KRW 100M of angel capital into a startup, which then unlocks government matching R&D grants of up to KRW 500M (rising to KRW 800M for selected deep-tech), plus additional investment and marketing support. The grant is non-dilutive; startups repay only 10% as a 'loyalty' contribution on commercial success.",
+      "local": "TIPS(민간투자주도형 기술창업지원)는 2013년 시작된 중소벤처기업부의 대표 기술창업 지원 사업으로, KISED와 함께 운영된다. 민간 운영사(VC·액셀러레이터·성공창업가)가 약 1억 원의 엔젤투자를 선행하면 정부 R&D 자금(최대 5억 원, 딥테크는 8억 원까지 확대)과 추가 투자·마케팅 지원이 매칭된다. 지분을 받지 않으며 사업화 성공 시 R&D 자금의 10%만 환수한다."
+    },
+    "sources": [
+      {
+        "url": "https://www.jointips.or.kr/about_en.php",
+        "title": "TIPS Korea | Tech Incubator Program for startup Korea",
+        "publisher": "TIPS / KISED / Korea Business Angels Association",
+        "accessed": "2026-06-02",
+        "supports": "Funding amounts: initial investment, R&D, angel matching, marketing",
+        "quote": "100M KRW(approx. 100,000 USD) in an initial investment, 500M KRW(approx. 500,000 USD) in R&D ... up to 400M KRW ... in additional investments per startup for up to three years ... 200 Million KRW(approx. 200,000 USD) in angel matching funds, 100 Million KRW ... in overseas marketing assistance."
+      },
+      {
+        "url": "https://koreatechdesk.com/korea-new-tips-program-deep-tech-startup-global-2026",
+        "title": "Korea Revamps TIPS Program to Boost Deep-Tech Startups",
+        "publisher": "KoreaTechDesk",
+        "accessed": "2026-06-02",
+        "supports": "R&D grant rising 500M to 800M; non-dilutive 10% loyalty repayment; public-private structure",
+        "quote": "The maximum R&D grant for selected startups will rise from KRW 500 million to KRW 800 million (≈ USD 580,000) ... Startups repay 10% of R&D grants as a loyalty contribution upon commercial success. No repayment is required if the business fails."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "TIPS launched in 2013 (widely reported); the official English page does not state the year explicitly. Funding figures vary slightly across tracks (standard / scale-up / global).",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "kr-k-startup-grand-challenge",
+    "name": { "en": "K-Startup Grand Challenge (KSGC)", "local": "케이-스타트업 그랜드 챌린지" },
+    "aka": ["KSGC", "K-Startup Grand Challenge"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.k-startupgc.org",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/kstartupgc/",
+      "other": ["https://www.kised.or.kr/menu.es?mid=a20207060000", "https://en.wikipedia.org/wiki/K-Startup_Grand_Challenge"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["South Korea", "Global"],
+      "sector_focus": ["generalist", "ai-ml", "deeptech"],
+      "thesis": "Korea's flagship government accelerator for foreign startups, run by the Ministry of SMEs and Startups and KISED, to attract international founders to establish and scale operations in Korea via a hybrid acceleration program in English."
+    },
+    "program": {
+      "length_weeks": 14,
+      "cohort_size": "~40 (historically; ~80 selected in some recent years)",
+      "format": "hybrid",
+      "investment": { "raw": "Settlement/commercialization funds plus prize money for top teams; up to ~USD 50,000 commercialization support cited; ~USD 55,000 non-dilutive funding cited for 2026", "usd": null, "currency": "USD" },
+      "equity_taken_pct": null,
+      "application_url": "https://www.k-startupgc.org",
+      "application_cycles": ["Annual; applications typically open April–May"],
+      "eligibility": "Foreign nationals with prospective or existing startups established within seven years.",
+      "perks": ["Office space", "PoC with Korean corporates", "Investor connections", "Startup visa support (D-10-2, D-8-4)", "Settlement funds", "Corporate establishment guidance"]
+    },
+    "people": [],
+    "summary": {
+      "en": "The K-Startup Grand Challenge (KSGC), launched in 2016, is Korea's flagship government accelerator for foreign startups, run by the Ministry of SMEs and Startups and KISED. It attracts thousands of applications from 100+ countries; roughly 40 teams are selected per cycle (around 80 in some recent years) for a hybrid English-language incubation of about 3.5 months, with settlement funds, prize money for top teams, visa support and help establishing in Korea.",
+      "local": "K-Startup Grand Challenge(KSGC)는 2016년 시작된 외국인 창업가 대상 한국 대표 정부 액셀러레이터로, 중소벤처기업부와 창업진흥원(KISED)이 운영한다. 100여 개국에서 수천 건의 지원이 몰리며 매 회 약 40개 팀(최근 일부 회차는 약 80개)을 선발해 약 3.5개월의 영어 인큐베이션을 제공하고 정착자금·상금·창업비자·법인설립을 지원한다."
+    },
+    "sources": [
+      {
+        "url": "https://www.kised.or.kr/menu.es?mid=a20207060000",
+        "title": "K-Startup Grand Challenge | Programs : KISED",
+        "publisher": "KISED",
+        "accessed": "2026-06-02",
+        "supports": "Eligibility, cohort size ~40, 3.5-month incubation, settlement fund, visa support",
+        "quote": "Foreign nationals with (prospective) startup companies established within seven years ... Approximately 40 companies ... 3.5-month incubation period ... Additional 3-month settlement fund support for outstanding teams"
+      },
+      {
+        "url": "https://entrepreneurloop.com/korea-startup-funding-for-foreigners-2026-program/",
+        "title": "Korea to Recruit 15 Foreign Startup Teams with Up to $55,000 in Funding",
+        "publisher": "EntrepreneurLoop",
+        "accessed": "2026-06-02",
+        "supports": "Launched 2016 by NIPA; thousands of applications; non-dilutive funding figure",
+        "quote": "Launched in 2016 by the National IT Industry Promotion Agency (NIPA) and funded by the Ministry of SMEs and Startups, the K-Startup Grand Challenge has evolved into one of Asia's most competitive government-backed accelerator programs"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Cohort size and funding amounts have changed year to year (40 vs ~80; $50K vs $55K). Originally launched by NIPA (2016) and now run via KISED/MSS. Figures given as ranges where they vary.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "kr-centers-for-creative-economy-innovation",
+    "name": { "en": "Centers for Creative Economy & Innovation (CCEI)", "local": "창조경제혁신센터" },
+    "aka": ["CCEI", "C-CCEI network", "창조경제혁신센터"],
+    "type": "government-program",
+    "subtypes": ["incubator", "accelerator"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Nationwide (17 regional centers)",
+    "website": "https://ccei.creativekorea.or.kr",
+    "links": {
+      "other": ["https://ccei.creativekorea.or.kr/eng/", "https://www.kised.or.kr/menu.es?mid=a20202010000"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist", "fintech", "gaming", "healthtech", "ai-ml"],
+      "thesis": "A nationwide network of 17 regional public innovation centers, each paired with a large partner enterprise and a specialized sector focus, providing incubation space, mentoring, entrepreneurship education, IR, and go-to-market support for local startups."
+    },
+    "program": {
+      "cohort_size": "17 centers nationwide",
+      "format": "in-person",
+      "location": "Seoul, Busan, Daegu, Gwangju, Daejeon, Incheon, Ulsan, Sejong, Gyeonggi, Gangwon, Chungnam, Chungbuk, Gyeongnam, Gyeongbuk, Jeonnam, Jeonbuk, Jeju",
+      "eligibility": "Local founders and early-stage startups in each region."
+    },
+    "people": [],
+    "summary": {
+      "en": "The Centers for Creative Economy & Innovation (CCEI) are a nationwide network of 17 regional public innovation/incubation centers, established from 2014, each matched with a partner conglomerate and a specialized sector focus. Supported through KISED, they provide incubation space, mentoring, entrepreneurship education, startup contests, IR and globalization support to local founders, accelerating go-to-market in sectors such as fintech, gaming, healthcare/safety, IoT and 5G.",
+      "local": "창조경제혁신센터(CCEI)는 2014년부터 전국에 구축된 17개 지역 공공 혁신·창업 지원 거점으로, 각 센터가 대기업 파트너 및 특화 산업과 연계된다. 창업진흥원(KISED)을 통해 지원되며 입주공간·멘토링·창업교육·창업경진대회·IR·글로벌 진출을 지원한다."
+    },
+    "sources": [
+      {
+        "url": "https://www.kised.or.kr/menu.es?mid=a20202010000",
+        "title": "CCEI (Center for Creative Economy and Innovation) | KISED",
+        "publisher": "KISED",
+        "accessed": "2026-06-02",
+        "supports": "17 centers nationwide, role, sector specialization",
+        "quote": "KISED supports the commercialization of creative ideas and startups by local talents through establishing and operating 17 Centers for Creative Economy and Innovation (CCEI) around the country."
+      },
+      {
+        "url": "https://ccei.creativekorea.or.kr/eng/",
+        "title": "Creative Economy Innovation Center",
+        "publisher": "CCEI",
+        "accessed": "2026-06-02",
+        "supports": "Network structure, regional centers, partner enterprises",
+        "quote": "Each of the 17 centers across South Korea is matched with a partner enterprise and focused on a specialized sector of support."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "CCEI network rolled out 2014–2015 under the 'creative economy' policy. Counted as one entity (the network); individual regional centers exist as separate legal foundations.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "kr-global-digital-innovation-network",
+    "name": { "en": "Global Digital Innovation Network (GDIN) — formerly Born2Global Centre", "local": "글로벌디지털혁신네트워크" },
+    "aka": ["GDIN", "Born2Global Centre", "K-ICT Born2Global", "글로벌디지털혁신네트워크재단"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seongnam (Pangyo)",
+    "website": "https://www.born2global.com",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/born2global/",
+      "other": ["https://www.linkedin.com/company/gdinfoundation"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["South Korea", "Global"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "mobility", "healthtech"],
+      "thesis": "Government-funded global-expansion accelerator under the Ministry of Science and ICT, helping Korean tech startups scale internationally through consulting (legal, IP, visa, marketing), networking and investor connections; rebranded from Born2Global Centre to GDIN in 2024."
+    },
+    "program": {
+      "format": "hybrid",
+      "location": "Pangyo Startup Campus, Seongnam",
+      "perks": ["Global expansion consulting", "IP/legal/visa support", "Investor connections", "Networking"]
+    },
+    "track_record": {
+      "portfolio_count": "3,000+ companies supported since 2013",
+      "notable_investments": [
+        { "company": "Sendbird", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Riiid", "sector": "edtech/ai-ml", "outcome": "unicorn" },
+        { "company": "Lunit", "sector": "healthtech/ai-ml", "outcome": "IPO" },
+        { "company": "Smart Radar System", "sector": "hardware", "outcome": "IPO" }
+      ]
+    },
+    "people": [],
+    "summary": {
+      "en": "Born2Global Centre — rebranded Global Digital Innovation Network (GDIN) in 2024 — is a government-funded accelerator under the Ministry of Science and ICT, established in 2013 and based at Pangyo. It supports Korean tech startups' global expansion through consulting (legal, IP, visa, marketing), networking and investor matching. It reports supporting 3,000+ companies, 20,000+ consulting cases, and attracting over USD 4 billion in investment, with member companies including unicorns Sendbird and Riiid and IPOs such as Lunit.",
+      "local": "본투글로벌센터(Born2Global)는 2024년 글로벌디지털혁신네트워크(GDIN)로 명칭이 변경된 과학기술정보통신부 산하 정부 지원 액셀러레이터로, 2013년 설립되어 판교에 위치한다. 한국 테크 스타트업의 해외 진출을 위한 법률·IP·비자·마케팅 컨설팅, 네트워킹, 투자 연계를 지원하며, 3,000개 이상 기업 지원과 40억 달러 이상 투자 유치를 보고했다."
+    },
+    "sources": [
+      {
+        "url": "https://asiatechdaily.com/born2global-center-a-business-support-organization-for-global-expansion-of-startups-is-transformed-into-the-global-digital-innovation-network-foundation/",
+        "title": "Born2Global Center transformed into Global Digital Innovation Network Foundation",
+        "publisher": "AsiaTechDaily",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2013, under Ministry of Science and ICT, 3,000+ companies, $4B investment, unicorns, rename to GDIN",
+        "quote": "Since 2013, as an agency under the South Korea's Ministry of Science and ICT, Born2Global Centre has supported over 3,000 companies and accumulated over 20,000 cases of consulting services including several unicorns; and has attracted over $4 billion USD in investments."
+      },
+      {
+        "url": "https://venturebeat.com/business/korean-born2global-is-leading-a-new-era-of-global-joint-venture-partnerships",
+        "title": "Korean Born2Global is leading a new era of global joint venture partnerships",
+        "publisher": "VentureBeat",
+        "accessed": "2026-06-02",
+        "supports": "Government-funded accelerator, global expansion role",
+        "quote": "Born2Global Centre is a government funded startup accelerator based in South Korea."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Cumulative metrics (3,000+ companies, $4B, unicorns) are self-reported via press releases. Official born2global.com returned 403 on fetch; facts corroborated via AsiaTechDaily and VentureBeat. Rebranded to GDIN in 2024.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "kr-national-it-industry-promotion-agency",
+    "name": { "en": "National IT Industry Promotion Agency (NIPA)", "local": "정보통신산업진흥원" },
+    "aka": ["NIPA", "정보통신산업진흥원"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2009,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Jincheon / Seoul",
+    "website": "https://www.nipa.kr",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/national-it-industry-promotion-agency",
+      "crunchbase": "https://www.crunchbase.com/organization/national-it-industry-promotion-agency",
+      "other": ["https://en.wikipedia.org/wiki/National_IT_Industry_Promotion_Agency"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "deeptech"],
+      "thesis": "Government ICT-industry promotion agency under the Ministry of Science and ICT, supporting ICT startups and scale-ups through infrastructure, acceleration, mentoring and global-expansion programs; original organizer of the K-Startup Grand Challenge (2016)."
+    },
+    "program": {
+      "format": "hybrid",
+      "perks": ["ICT infrastructure support", "Acceleration & mentoring", "Global expansion support"]
+    },
+    "people": [],
+    "summary": {
+      "en": "NIPA (National IT Industry Promotion Agency), established in 2009 under the Ministry of Science and ICT, is Korea's ICT-industry promotion agency. It supports ICT startups and scale-ups via infrastructure, acceleration, mentoring and global expansion, focusing on emerging technologies (AI, cloud, big data, IoT). NIPA originally launched and organized the K-Startup Grand Challenge in 2016.",
+      "local": "정보통신산업진흥원(NIPA)은 2009년 설립된 과학기술정보통신부 산하 ICT 산업 진흥기관으로, 인프라·액셀러레이션·멘토링·글로벌 진출을 통해 ICT 스타트업과 스케일업을 지원한다. AI·클라우드·빅데이터·IoT 등 신기술에 중점을 두며, 2016년 K-Startup Grand Challenge를 처음 출범·운영했다."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/National_IT_Industry_Promotion_Agency",
+        "title": "National IT Industry Promotion Agency",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Established 2009, under Ministry of Science and ICT, ICT promotion role",
+        "quote": "The National IT Industry Promotion Agency (Korean: 정보통신산업진흥원) or NIPA is an IT industry promotion organization operated by the Government of South Korea ... NIPA works under the aegis of the Ministry of Science and ICT."
+      },
+      {
+        "url": "https://koreatechdesk.com/supporting-korean-startups-national-it-industry-promotion-agency-nipa-helping-to-usher-in-the-it-innovation",
+        "title": "Supporting Korean Startups: National IT Industry Promotion Agency (NIPA)",
+        "publisher": "KoreaTechDesk",
+        "accessed": "2026-06-02",
+        "supports": "Startup support, acceleration/mentoring, global player fostering",
+        "quote": "NIPA supports ICT startup companies by fostering Korean startups to become global players by providing advanced infrastructure support, nurturing growth, and provide acceleration and mentoring advice."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "NIPA founded 2009 (formed from KIPA, 1998). HQ relocated to Jincheon/Chungbuk; some references still cite Seoul. Role in startup funding is via programs/grants, not equity.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "kr-kdb-nextround",
+    "name": { "en": "KDB NextRound / NextONE (Korea Development Bank)", "local": "산업은행 넥스트라운드" },
+    "aka": ["KDB NextRound", "KDB NextONE", "NextRise", "Korea Development Bank startup programs", "산업은행"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.kdb.co.kr",
+    "links": {
+      "other": ["https://en.sedaily.com/finance/2026/04/15/kdb-nextround-surpasses-1000-funded-startups-in-10-years", "https://www.koreaherald.com/article/1367845"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist", "ai-ml", "deeptech"],
+      "thesis": "State-owned Korea Development Bank's startup-ecosystem platform connecting startups with investors. NextRound runs IR/investor-matching events, NextONE provides early-stage acceleration with potential direct KDB investment, and NextRise is a large startup fair."
+    },
+    "program": {
+      "format": "hybrid",
+      "investment": { "raw": "Direct KDB investment for selected NextONE companies (e.g. KRW 23.4 billion into 11 startups cited)", "usd": null, "currency": "KRW" },
+      "perks": ["Investor-matching (NextRound)", "Acceleration (NextONE)", "Startup fair (NextRise)", "Direct KDB investment for select companies"]
+    },
+    "track_record": {
+      "portfolio_count": "1,026 of 3,339 NextRound participants secured investment (over 10 years)",
+      "co_investors": []
+    },
+    "people": [],
+    "summary": {
+      "en": "Korea Development Bank (KDB), a state-owned policy bank, runs a startup-ecosystem platform via its NextRound Department: KDB NextRound (investor-matching IR events, launched 2016), KDB NextONE (early-stage acceleration with potential direct KDB investment) and NextRise (a large startup fair). Over its first 10 years, NextRound saw 1,026 of 3,339 participating companies secure investment — a 30.7% funding success rate — with cumulative investment reaching KRW 9.2 trillion.",
+      "local": "한국산업은행(KDB)은 국책은행으로서 넥스트라운드 부서를 통해 창업 생태계 플랫폼을 운영한다. 투자자 매칭 IR인 KDB 넥스트라운드(2016년 시작), 초기 액셀러레이션과 직접투자가 가능한 KDB 넥스트원, 대형 창업박람회 넥스트라이즈로 구성된다. 출범 10년간 넥스트라운드 참여기업 3,339개 중 1,026개가 투자 유치(성공률 30.7%)했고 누적 투자액은 9조 2천억 원에 달한다."
+    },
+    "sources": [
+      {
+        "url": "https://en.sedaily.com/finance/2026/04/15/kdb-nextround-surpasses-1000-funded-startups-in-10-years",
+        "title": "KDB NextRound Surpasses 1,000 Funded Startups in 10 Years with 30.7% Investment Success Rate",
+        "publisher": "Seoul Economic Daily",
+        "accessed": "2026-06-02",
+        "supports": "10 years (since 2016), 1,026/3,339 funded, KRW 9.2 trillion cumulative investment, 30.7% success rate",
+        "quote": "1,026 out of 3,339 companies that participated in NextRound have successfully secured investment ... Cumulative investment reached 9.2 trillion won ($6.8 billion) ... representing a 30.7% funding success rate"
+      },
+      {
+        "url": "https://koreatechdesk.com/kdb-nextone-backed-korean-startups-set-to-forge-strategic-partnerships-at-japan-it-week",
+        "title": "KDB NextONE-Backed Korean Startups",
+        "publisher": "KoreaTechDesk",
+        "accessed": "2026-06-02",
+        "supports": "NextONE acceleration, direct KDB investment figures",
+        "quote": "53 startups raised a total of KRW 62.8 billion (USD 46 million) during their incubation, with KDB ... directly investing KRW 23.4 billion (USD 17 million) in 11 KDB NextONE startups."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "NextRound launched 2016 (10th year in 2026). Multiple sub-programs (NextRound/NextONE/NextRise) grouped as one KDB entity. KDB is a policy bank, not an equity-only investor.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "kr-seoul-business-agency",
+    "name": { "en": "Seoul Business Agency (SBA)", "local": "서울경제진흥원" },
+    "aka": ["SBA", "Seoul Startup Hub operator", "서울경제진흥원", "서울산업진흥원"],
+    "type": "government-program",
+    "subtypes": ["incubator", "accelerator"],
+    "status": "active",
+    "founded_year": 1998,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.sba.seoul.kr",
+    "links": {
+      "other": ["https://www.sba.seoul.kr/En/index.aspx", "https://www.sba.seoul.kr/En/sub/programs/startup.aspx"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist", "consumer", "ai-ml"],
+      "thesis": "Seoul Metropolitan Government's SME and startup support agency, operating the Seoul Startup Hub, accelerating centers and global business centers to provide workspace, mentoring, funding connections and international-expansion support to Seoul-based startups."
+    },
+    "program": {
+      "format": "in-person",
+      "location": "Seoul Startup Hub (Gongdeok, Seongsu, etc.)",
+      "perks": ["Workspace", "Mentoring", "Funding/investor connections", "Global business centers"]
+    },
+    "people": [],
+    "summary": {
+      "en": "Seoul Business Agency (SBA) is the Seoul Metropolitan Government's SME and startup support institution, traced to a 1998 foundation and officially named SBA in 2005. It operates the Seoul Startup Hub, accelerating centers, and global/foreign business centers, providing workspace, incubation, mentoring, funding connections and international-expansion support. Seoul's wider plan targets fostering 50 unicorns by 2030.",
+      "local": "서울경제진흥원(SBA)은 서울특별시 산하 중소기업·창업 지원기관으로, 1998년 재단으로 출범해 2005년 SBA 명칭을 확정했다. 서울창업허브, 액셀러레이팅 센터, 글로벌 비즈니스 센터를 운영하며 입주공간·인큐베이션·멘토링·투자 연계·해외 진출을 지원한다."
+    },
+    "sources": [
+      {
+        "url": "https://koreatechdesk.com/supporting-korean-startups-seoul-business-agency-sba-providing-space-and-care-in-the-korean-capital",
+        "title": "Supporting Korean startups: Seoul Business Agency (SBA)",
+        "publisher": "KoreaTechDesk",
+        "accessed": "2026-06-02",
+        "supports": "Founded 1998 (named SBA 2005), Seoul Metropolitan Government, Seoul Startup Hub, programs",
+        "quote": "SBA is a business support institution for SMEs ... run by the Seoul metropolitan government. The agency has its history traced to 1998 when it was launched as a foundation and then named Seoul Business Agency officially in 2005."
+      },
+      {
+        "url": "https://www.sba.seoul.kr/En/index.aspx",
+        "title": "SBA - Seoul Business Agency",
+        "publisher": "Seoul Business Agency",
+        "accessed": "2026-06-02",
+        "supports": "Mission, funded by Seoul Metropolitan Government, startup programs",
+        "quote": "SBA is funded and invested in by the Seoul Metropolitan Government and is dedicated to vitalizing Seoul's economy"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Korean name 서울경제진흥원 (renamed from 서울산업진흥원). Provides space/incubation and funding connections rather than direct equity investment in most programs.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "kr-korea-it-fund",
+    "name": { "en": "Korea IT Fund (KIF)", "local": "한국IT펀드" },
+    "aka": ["KIF", "한국IT펀드"],
+    "type": "government-program",
+    "subtypes": ["fund-of-funds", "cvc"],
+    "status": "active",
+    "founded_year": 2002,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.ktoa.or.kr",
+    "links": {
+      "other": ["https://www.ktoa.or.kr/en/business/koreaitfund/contents"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "KIF Phase 1 (2015)", "vintage_year": 2015, "size": { "raw": "US$100M", "usd": 100000000, "currency": "USD" } },
+        { "name": "KIF renewal (2017)", "vintage_year": 2017, "size": { "raw": "US$300M", "usd": 300000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "deeptech", "hardware-semiconductor"],
+      "thesis": "Industry-backed fund-of-funds for the ICT sector. Funded by Korea's three telecom operators (SKT, KT, LG U+) and operated by the Korea Telecommunications Operators Association (KTOA), it invests into specialized venture funds backing promising IT/ICT ventures and SMEs."
+    },
+    "people": [],
+    "summary": {
+      "en": "The Korea IT Fund (KIF), established in 2002, is an ICT-sector fund-of-funds created by Korea's three telecom operators (SKT, KT, LG U+) to support the IT industry. Operated by the Korea Telecommunications Operators Association (KTOA), it channels capital into specialized venture funds that invest in promising IT/ICT ventures and SMEs. The Ministry of Economy and Finance structured a first phase of US$100M in 2015 and renewed it for US$300M in 2017.",
+      "local": "한국IT펀드(KIF)는 2002년 국내 3대 통신사(SKT·KT·LG U+)가 IT 산업 발전을 위해 조성한 ICT 분야 모태펀드로, 한국통신사업자연합회(KTOA)가 운용한다. 유망 IT/ICT 벤처·중소기업에 투자하는 전문 투자조합에 출자하며, 2015년 1억 달러 규모로 1단계가 구성된 뒤 2017년 3억 달러로 갱신되었다."
+    },
+    "sources": [
+      {
+        "url": "https://www.ktoa.or.kr/en/business/koreaitfund/contents",
+        "title": "KIF Investment Fund (Korea IT Fund) Operation",
+        "publisher": "Korea Telecommunications Operators Association (KTOA)",
+        "accessed": "2026-06-02",
+        "supports": "Established 2002 by three telecoms, fund-of-funds for IT, operated by KTOA",
+        "quote": "The KIF Investment Fund was established in 2002 by the three telecommunications companies (SKT, KT, LG U+) ... a fund of funds that invests in specialized investment funds ... focus on promising ventures and small and medium-sized enterprises in the IT field. KTOA ... is the executor of the KIF Investment Fund"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "KIF is industry-funded (telecom operators) with government structuring/oversight; borderline government program vs. CVC fund-of-funds. US$100M (2015) / US$300M (2017) figures from secondary reporting; current total size not separately confirmed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  }
+]

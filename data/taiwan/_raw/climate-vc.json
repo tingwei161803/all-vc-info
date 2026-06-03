@@ -1,0 +1,519 @@
+[
+  {
+    "id": "tw-green-growth-fund",
+    "name": {
+      "en": "Green Growth Fund",
+      "local": "綠色成長基金"
+    },
+    "aka": ["台灣綠色成長基金", "Taiwan Green Growth Fund"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.df.gov.tw/",
+    "links": {
+      "other": ["https://enews.moenv.gov.tw/Page/3B3C62C78849F32F/e3ca297a-4a25-4730-adfb-a59e93dfde69"]
+    },
+    "capital": {
+      "current_fund": { "raw": "NT$10 billion (US$318 million)", "usd": 318000000, "currency": "TWD" },
+      "funds": [
+        { "name": "綠色成長基金 Green Growth Fund", "vintage_year": 2024, "size": { "raw": "NT$10 billion", "usd": 318000000, "currency": "TWD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "check_size": { "raw": "NT$20 million – NT$100 million per company", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "up to 49% of registered capital",
+      "lead_or_follow": "follow",
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["climate-energy", "impact"],
+      "thesis": "Taiwan's first government venture-capital mechanism embedded in environmental policy. The National Development Fund and Ministry of Environment co-invest with private capital across six net-zero domains — resource circulation, deep energy efficiency, forward-looking energy & energy storage, digital/low-carbon technology, carbon capture & negative-carbon technology, and climate-adaptation/disaster-prevention technology — to seed a domestic green-startup ecosystem over a 10-year horizon."
+    },
+    "track_record": {
+      "co_investors": ["Taiwan Mobile", "SparkLabs", "China Development Capital", "Mega Management Consulting", "Enerate Asia Capital", "Hongfu Capital", "Yiding Ventures"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Investments are made through matched private co-investors (創投/管理顧問) approved as Green Growth Fund partners, who source and propose targets; startups engage via these partner funds.",
+      "accepts_cold_inbound": false
+    },
+    "tags": ["net-zero", "circular-economy", "energy-storage", "carbon-capture", "government", "co-investment"],
+    "summary": {
+      "en": "A NT$10 billion (US$318M) government co-investment fund launched in 2024 by Taiwan's Ministry of Environment and National Development Fund — the country's first venture-capital mechanism built into environmental policy — channeling capital with private partners into six net-zero technology domains over 10 years.",
+      "local": "由環境部與國家發展基金於 2024 年共同推動的百億元（新台幣 100 億元）綠色成長基金，是台灣首度將創投機制導入環保政策。透過搭配民間創投共同投資，10 年內鎖定資源循環、深度節能、前瞻能源與儲能、數位低碳、碳捕捉與負碳技術、氣候調適等六大淨零領域。"
+    },
+    "sources": [
+      {
+        "url": "https://enews.moenv.gov.tw/Page/3B3C62C78849F32F/e3ca297a-4a25-4730-adfb-a59e93dfde69",
+        "title": "環境部爭取100億綠色成長基金 今日獲國發基金管理會審議通過",
+        "publisher": "環境部 (Ministry of Environment)",
+        "accessed": "2026-06-02",
+        "supports": "Fund size, managing bodies, six focus areas, ownership cap",
+        "quote": "國發基金提供100億元成立「綠色成長基金」... 資源循環、永續及前瞻能源技術發展、科技儲能、深度節能、提升能源效率、碳捕捉再利用、負碳技術發展、數位、低（減）碳技術發展及氣候變遷調適技術發展"
+      },
+      {
+        "url": "https://money.udn.com/money/story/7307/8881827",
+        "title": "綠色成長基金首批搭配投資人 台灣大哥大等12家",
+        "publisher": "經濟日報 (Economic Daily News)",
+        "accessed": "2026-06-02",
+        "supports": "First 12 co-investors, per-deal range NT$20M–100M, 3x government co-investment ratio for the six sectors",
+        "quote": "個別投資金額介於新台幣2,000萬元至1億元 ... 政府投資可達民間投資的3倍 ... 台灣大哥大（唯一企業創投）、SparkLabs（海外加速器）、中華開發資本、兆豐管理顧問、能率亞洲資本、宏福資本、益鼎創投"
+      },
+      {
+        "url": "https://www.eco-business.com/news/taiwan-ramps-up-circular-economy-push-with-new-laws-ai-and-green-funding/",
+        "title": "Taiwan ramps up circular economy push with new laws, AI and green funding",
+        "publisher": "Eco-Business",
+        "accessed": "2026-06-02",
+        "supports": "USD-equivalent fund size",
+        "quote": "a NT$10 billion (US$318 million) green growth fund to support corporate transition"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size confirmed as NT$10 billion (百億元 = 10 billion NT$) by both the official MOENV release and Eco-Business (US$318M). One WebFetch pass mistranslated 100億 as 'NT$1 billion'; the correct reading is NT$10 billion. Only 7 of the first 12 co-investors are individually named in available sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "tw-cathay-private-equity-sustainability",
+    "name": {
+      "en": "Cathay Private Equity (Sustainability Fund)",
+      "local": "國泰永續私募股權基金"
+    },
+    "aka": ["國泰私募股權", "Cathay PE", "Cathay Sustainability Private Equity Fund"],
+    "type": "growth-equity",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.cathaysite.com.tw/PE/cpe.html",
+    "links": {
+      "other": ["https://www.cathayholdings.com/holdings/information-centre/intro/latest-news/detail?news=LsYCvAm3uEqvg7151buMBA"]
+    },
+    "capital": {
+      "current_fund": { "raw": "approx. NT$10 billion target (新台幣100億元)", "usd": null, "currency": "TWD" },
+      "funds": [
+        { "name": "國泰永續私募股權基金 (Cathay Sustainability PE Fund)", "vintage_year": null, "size": { "raw": "NT$10 billion target / ~NT$8 billion reported", "usd": null, "currency": "TWD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth"],
+      "check_size": { "raw": "undisclosed", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["climate-energy", "impact"],
+      "thesis": "Taiwan's first domestic private-equity fund dedicated to sustainability, established by Cathay SITE (a Cathay Financial Holdings subsidiary) and the first PE fund approved by the FSC for a Taiwanese SITE. Invests 100% in Taiwan's sustainable industries — circular economy, green energy technology (notably solar and water resource treatment/recycling) and other priority sectors — using a limited-partnership structure for long-term, steady-return projects with high industry barriers."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Green Rock Energy (綠岩能源) energy-storage platform", "sector": "climate-energy", "outcome": "active" }
+      ],
+      "co_investors": ["Green Rock Energy"]
+    },
+    "people": [
+      { "name": "Zhang Xi (張錫)", "role": "Chairman, Cathay PE Fund subsidiary" }
+    ],
+    "tags": ["sustainability", "circular-economy", "green-energy", "solar", "energy-storage", "private-equity"],
+    "summary": {
+      "en": "Taiwan's first sustainability-dedicated private-equity fund, set up by Cathay SITE (Cathay Financial Holdings) and approved by the FSC. Targeting roughly NT$10 billion, it invests entirely in Taiwan's circular economy, green-energy and water-resource sectors, and in 2023 co-built an energy-storage investment platform with Green Rock Energy.",
+      "local": "國內首檔鎖定永續產業的私募股權基金，由國泰投信（國泰金控子公司）籌設，為金管會核准之首檔由投信設立的 PE Fund。目標規模約新台幣 100 億元，100% 投資台灣循環經濟、綠能科技（太陽能、水資源處理回收）等產業，2023 年並與綠岩能源合組儲能投資平台。"
+    },
+    "sources": [
+      {
+        "url": "https://www.cathayholdings.com/holdings/information-centre/intro/latest-news/detail?news=LsYCvAm3uEqvg7151buMBA",
+        "title": "國內首檔PE Fund鎖定永續產業由國泰投信子公司籌設",
+        "publisher": "國泰金控 (Cathay Financial Holdings)",
+        "accessed": "2026-06-02",
+        "supports": "Founder (Cathay SITE), FSC-first PE fund, NT$10B target, focus on circular economy / green energy / solar / water, chairman name",
+        "quote": "新台幣100億元 ... 循環經濟、綠能科技 ... 水資源處理回收 ... 太陽能 ... 張錫"
+      },
+      {
+        "url": "https://www.cathaysite.com.tw/PE/cpe.html",
+        "title": "國泰私募股權",
+        "publisher": "國泰投信 (Cathay SITE)",
+        "accessed": "2026-06-02",
+        "supports": "Official PE fund page / sustainability focus"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Cathay PE entity established Nov 2017 as Taiwan's first SITE-run PE fund; the sustainability fund targets ~NT$10 billion per Cathay Holdings news, though one secondary search reported '~NT$8 billion' raised — figures vary, so fund size is given as a target with a note. Strictly a PE/growth vehicle (not early-stage VC) but squarely climate/sustainability-focused, hence included.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "tw-delta-electronics-capital",
+    "name": {
+      "en": "Delta Electronics Capital",
+      "local": "台達電子資本"
+    },
+    "aka": ["DCC", "Delta Capital"],
+    "type": "cvc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": null,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.deltaww.com/en-US/index",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/delta-electronics-capital",
+      "other": ["https://hzo.com/blog/hzo-investor-profile-delta-electronics-capital"]
+    },
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" },
+      { "country": "United States", "city": "Denver" }
+    ],
+    "capital": {},
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "$10M–$50M per deal (typical)", "usd_min": 10000000, "usd_max": 50000000 },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Taiwan", "North America", "Global"],
+      "sector_focus": ["climate-energy", "deeptech", "healthtech"],
+      "thesis": "Corporate venture arm of Delta Electronics, a global power and thermal-management leader whose mission is 'to provide innovative, clean and energy-efficient solutions for a better tomorrow.' Focuses on growth-equity and minority investments in late-stage and middle-market energy, technology and healthcare companies aligned with Delta's core strengths in power electronics and energy efficiency."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "HZO", "sector": "materials / cleantech", "outcome": "active" },
+        { "company": "SynCardia Systems", "sector": "healthtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "AJ Dye", "role": "Board Advisor / investments (Denver office)" }
+    ],
+    "tags": ["corporate-vc", "power-electronics", "energy-efficiency", "cleantech", "thermal-management"],
+    "summary": {
+      "en": "The corporate venture / investment arm of Taiwan-based Delta Electronics, a global leader in power and thermal management. It makes growth-equity and minority investments — typically $10M–$50M deals — in late-stage energy, technology and healthcare companies aligned with Delta's clean and energy-efficient mission.",
+      "local": "台達電子（全球電源與散熱管理大廠）的企業創投／投資部門。以成長期股權及少數股權方式投資能源、科技與醫療領域的後期企業，單筆交易多落在 1,000 萬至 5,000 萬美元，投資方向呼應台達『提供創新、潔淨、節能解決方案』的使命。"
+    },
+    "sources": [
+      {
+        "url": "https://hzo.com/blog/hzo-investor-profile-delta-electronics-capital",
+        "title": "HZO Investor Profile: Delta Electronics Capital",
+        "publisher": "HZO",
+        "accessed": "2026-06-02",
+        "supports": "Investment arm of Delta, growth-equity focus, energy/tech/healthcare, portfolio (HZO, SynCardia), Denver office / AJ Dye",
+        "quote": "the investment arm of Delta Electronics, a Taiwan-based global leader in power and thermal management solutions ... focuses on growth equity investments ... late-stage and middle-market energy, technology, and healthcare companies"
+      },
+      {
+        "url": "https://unicorn-nest.com/funds/delta-electronics-capital/",
+        "title": "Delta Electronics Capital – Investors Database",
+        "publisher": "Unicorn Nest",
+        "accessed": "2026-06-02",
+        "supports": "Typical deal size range",
+        "quote": "Deals in the range of 10-50 million dollars are typical for the fund"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Delta Electronics (parent) founded 1971; the Capital arm's own founding year is not reliably stated (some aggregators list 1971, which is the parent's date — left null). Check-size range from a secondary aggregator (Unicorn Nest). HQ in Taipei (Neihu) with a Denver, CO investment office.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "tw-green-tech-accelerator-itri",
+    "name": {
+      "en": "Green Tech Accelerator",
+      "local": "綠色科技加速器"
+    },
+    "aka": ["Green Accelerator", "ITRI Green Tech Accelerator"],
+    "type": "accelerator",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": null,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Hsinchu",
+    "website": "https://www.itri.org.tw/",
+    "links": {
+      "other": ["https://www.prnewswire.com/news-releases/green-tech-accelerator-empowering-taiwanese-smes-toward-net-zero-emissions-and-building-a-global-green-tech-ecosystem-302340580.html"]
+    },
+    "program": {
+      "length_weeks": 26,
+      "cohort_size": 10,
+      "equity_taken_pct": null,
+      "format": "hybrid",
+      "location": "Taiwan",
+      "demo_day": null,
+      "perks": ["coaching and training workshops", "cross-industry expert mentorship", "technology support toward Proof-of-Business/Proof-of-Service", "international market connections (MENA, SE Asia, Europe)", "access to green financing and impact investing"],
+      "eligibility": "Taiwanese startups and SMEs developing carbon-reduction solutions, especially for high-emission sectors (electronics, energy, steel)"
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["climate-energy", "impact", "agritech"],
+      "thesis": "National green-tech accelerator run by ITRI's Commercialization and Industry Service Center. Bridges the carbon-reduction knowledge gap for Taiwanese startups and SMEs and connects them with listed enterprises and overseas markets to co-create sustainable green business models, targeting high-emission sectors such as electronics, energy and steel."
+    },
+    "track_record": {
+      "portfolio_count": "10 (2024 cohort)"
+    },
+    "people": [],
+    "tags": ["net-zero", "carbon-reduction", "government", "ITRI", "circular-economy", "renewable-energy"],
+    "summary": {
+      "en": "A national green-tech accelerator spearheaded by ITRI's Commercialization and Industry Service Center (formerly 'Green Accelerator,' rebranded 2025). It runs a roughly six-month incubation, in 2024 propelling 10 Taiwanese startups in areas like water management, renewable energy, circular economy and eco-materials into ties with listed companies and MENA/SE-Asia markets.",
+      "local": "由工研院產業服務中心主導的國家級綠色科技加速器（原名 Green Accelerator，2025 年更名 Green Tech Accelerator）。約六個月的育成期，2024 年帶領 10 家台灣新創（涵蓋水資源管理、再生能源、循環經濟、環保材料等）對接上市櫃企業與中東、東南亞市場，鎖定電子、能源、鋼鐵等高碳排產業。"
+    },
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/green-tech-accelerator-empowering-taiwanese-smes-toward-net-zero-emissions-and-building-a-global-green-tech-ecosystem-302340580.html",
+        "title": "Green Tech Accelerator: Empowering Taiwanese SMEs Toward Net-Zero Emissions",
+        "publisher": "PR Newswire / ITRI",
+        "accessed": "2026-06-02",
+        "supports": "Operator (ITRI), 2025 rebrand, ~6-month incubation, 2024 cohort of 10 startups, target sectors",
+        "quote": "spearheaded by Commercialization and Industry Service Center of Industrial Technology Research Institute ... rebranded in 2025 as Green Tech Accelerator ... a six-month incubation period ... In 2024, Green Tech Accelerator propelled 10 Taiwanese startups ... high-emission sectors such as electronics, energy, and steel"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Government/ITRI accelerator focused on carbon reduction. Founding year and equity terms not stated (these national programs typically take no equity; left null). 'length_weeks: 26' encodes the stated ~6-month incubation. Cohort size reflects the 2024 batch (10).",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "tw-mih-climate-impact-capital",
+    "name": {
+      "en": "MIH Climate Impact Capital",
+      "local": "MIH 氣候影響力資本"
+    },
+    "aka": ["MIH Capital", "Mylennium Innovation Hub"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": null,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://mih.capital/",
+    "links": {
+      "other": ["https://superscout.co/investor/mih-climate-impact-capital", "https://www.linkedin.com/in/lawrence-mihc/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "undisclosed", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Global", "Asia-Pacific", "Taiwan"],
+      "sector_focus": ["climate-energy", "agritech", "impact"],
+      "thesis": "A venture fund investing in global early-stage climate-technology companies, combining institutional discipline with deep operator networks and Asia-Pacific supply-chain access. Investments span clean energy, green chemistry, circular economy, sustainable food & agriculture, and climate adaptation, leveraging Taiwan's manufacturing and distribution infrastructure to scale climate-tech."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Lawrence Yen", "role": "Founder / Founding Partner", "linkedin": "https://www.linkedin.com/in/lawrence-mihc/" }
+    ],
+    "tags": ["climate-tech", "clean-energy", "green-chemistry", "circular-economy", "agritech", "asia-pacific-supply-chain"],
+    "summary": {
+      "en": "A Taiwan-established early-stage climate-tech venture fund founded by serial entrepreneur Lawrence Yen, investing globally in clean energy, green chemistry, circular economy, sustainable food/agriculture and climate adaptation. It positions Taiwan's manufacturing and Asia-Pacific supply-chain access as its differentiator for scaling climate technologies.",
+      "local": "由連續創業家 Lawrence Yen 創立、設於台灣的早期氣候科技創投基金，投資範圍涵蓋潔淨能源、綠色化學、循環經濟、永續食農與氣候調適。以台灣製造實力與亞太供應鏈網絡作為協助氣候科技公司放大規模的差異化優勢。"
+    },
+    "sources": [
+      {
+        "url": "https://mih.capital/",
+        "title": "Home - MIH Climate Impact Capital",
+        "publisher": "MIH Climate Impact Capital",
+        "accessed": "2026-06-02",
+        "supports": "Early-stage climate-tech VC, Asia-Pacific supply chain access, sector focus",
+        "quote": "a venture fund investing in global early-stage climate technology companies ... institutional discipline, deep operator networks, and unparalleled Asia-Pacific supply chain network and access"
+      },
+      {
+        "url": "https://superscout.co/investor/mih-climate-impact-capital",
+        "title": "MIH Climate Impact Capital: The Early Stage Founder's Guide",
+        "publisher": "SuperScout",
+        "accessed": "2026-06-02",
+        "supports": "Taiwan establishment, founder, focus areas",
+        "quote": "MIH Climate Impact Capital, also known as Mylennium Innovation Hub, is a venture capital firm established in Taiwan ... clean energy, green chemistry, circular economy, sustainable food and agriculture, and climate adaptation"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Confirmed as a Taiwan-established dedicated early-stage climate-tech VC founded by Lawrence Yen. Distinct from the Foxconn MIH EV Consortium (Mobility in Harmony) despite the shared 'MIH' name; the firm's full name is 'Mylennium Innovation Hub.' Fund size, check size and portfolio companies not publicly disclosed (left null).",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "tw-riyue-energy-technology",
+    "name": {
+      "en": "Riyue Energy Technology",
+      "local": "日月能源科技"
+    },
+    "aka": [],
+    "type": "micro-vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": null,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Tainan",
+    "website": "",
+    "links": {
+      "other": ["https://shizune.co/investors/sustainability-vc-funds-taiwan"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed"],
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["climate-energy", "impact"],
+      "thesis": "A Tainan-based seed-stage investor committed to promoting renewable energy, with focus areas spanning green technology and recycling/circular economy."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "ECOCO (循環經濟 smart recycling)", "sector": "climate-energy", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "tags": ["renewable-energy", "greentech", "recycling", "seed", "tainan"],
+    "summary": {
+      "en": "A small Tainan-based seed-stage investor focused on renewable energy, green technology and recycling. Its profiled portfolio includes ECOCO, a Taiwanese circular-economy smart-recycling venture.",
+      "local": "位於台南、專注推動再生能源的種子期投資者，投資領域涵蓋綠色科技與資源回收。已知投資組合包括循環經濟智慧回收新創 ECOCO。"
+    },
+    "sources": [
+      {
+        "url": "https://shizune.co/investors/sustainability-vc-funds-taiwan",
+        "title": "Top Sustainability VC Funds in Taiwan",
+        "publisher": "Shizune",
+        "accessed": "2026-06-02",
+        "supports": "Tainan HQ, renewable-energy focus, seed stage, ECOCO in portfolio",
+        "quote": "Riyue Energy Technology ... Tainan, Taiwan ... committed to promoting renewable energy ... Seed ... GreenTech, Recycling"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Documented only via the Shizune aggregator; no official website, founding year, or fund-size data could be verified. Small/emerging investor — included for comprehensiveness with low confidence. ECOCO's main Pre-A round was led by other investors (Topkey, Formosa Biomedical), so Riyue's stake/role is unconfirmed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "tw-wi-harper-group",
+    "name": {
+      "en": "WI Harper Group",
+      "local": "中經合集團"
+    },
+    "aka": ["WI Harper", "WIH"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 1993,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://wiharper.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/wi-harper-group",
+      "linkedin": "https://www.linkedin.com/company/wi-harper-group"
+    },
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" },
+      { "country": "United States", "city": "San Francisco" },
+      { "country": "China", "city": "Beijing" }
+    ],
+    "capital": {
+      "aum": { "raw": "over $1B in capital", "usd": 1000000000, "currency": "USD" },
+      "funds": [
+        { "name": "WI Harper Fund 7 / WIH Fund 7", "vintage_year": null, "size": { "raw": "$110M", "usd": 110000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["Taiwan", "United States", "China"],
+      "sector_focus": ["climate-energy", "deeptech", "healthtech"],
+      "thesis": "Cross-Pacific venture firm investing at early and early-expansion stage across Taiwan, Silicon Valley and Greater China. Its three core focus areas are technology (TMT), clean technology and healthcare; cleantech has long been one of its named investment pillars."
+    },
+    "track_record": {
+      "portfolio_count": "300+",
+      "exits": [
+        { "company": "Vizio", "type": "IPO", "year": null, "value": { "raw": "undisclosed" } },
+        { "company": "DivX", "type": "IPO", "year": null, "value": { "raw": "undisclosed" } }
+      ]
+    },
+    "people": [],
+    "team_size": "19 investment professionals",
+    "tags": ["cleantech", "cross-border", "tmt", "healthcare", "established"],
+    "summary": {
+      "en": "A cross-Pacific venture firm founded in 1993 with offices in Taipei, San Francisco and Beijing, managing 9 funds and over $1B. It backs early and expansion-stage companies in technology, clean technology and healthcare — cleantech being one of its three named pillars — with 300+ investments and 80+ exits.",
+      "local": "1993 年成立的跨太平洋創投，於台北、舊金山、北京設有辦公室，管理 9 檔基金、逾 10 億美元資金。投資早期至擴張期企業，鎖定科技（TMT）、潔淨科技與醫療三大領域，潔淨科技為其長期投資主軸之一；累計逾 300 件投資、80 餘件出場。"
+    },
+    "sources": [
+      {
+        "url": "https://wiharper.com/",
+        "title": "WI Harper Group – We back the bold",
+        "publisher": "WI Harper Group",
+        "accessed": "2026-06-02",
+        "supports": "Founded 1993, offices, 9 funds, $1B+ capital, 19 professionals, cleantech focus, 300+ investments / 80+ exits",
+        "quote": "founded in 1993 ... manages 9 funds and over $1B in capital through 19 dedicated investment professionals located in Beijing, Taipei and San Francisco ... technology, clean technology and healthcare ... 300+ investments with 80+ exits"
+      },
+      {
+        "url": "https://vcnewsdaily.com/wi-harper-group/venture-capital-funding/tjqysmbkjg",
+        "title": "WI Harper Group Closes $110M Fund",
+        "publisher": "VC News Daily",
+        "accessed": "2026-06-02",
+        "supports": "Fund VII size of $110M",
+        "quote": "WI Harper Group Closes $110M Fund"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Generalist cross-border VC (TMT/cleantech/healthcare) rather than a climate-dedicated fund; included for the segment only because clean technology is one of its three explicitly named investment pillars (light overlap). Dedicated climate fund size and climate-specific portfolio not separable from the overall fund.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  },
+  {
+    "id": "tw-enerate-asia-capital",
+    "name": {
+      "en": "Enerate Asia Capital",
+      "local": "能率亞洲資本"
+    },
+    "aka": ["Abico Asia", "能率亞洲資本股份有限公司"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.abicoasia.com.tw/",
+    "links": {
+      "other": ["https://www.moneydj.com/kmdj/wiki/wikiviewer.aspx?keyid=02f8f332-6eed-4f54-a019-d46d50ad5455", "https://udn.com/news/story/7254/9167711"]
+    },
+    "capital": {
+      "current_fund": { "raw": "NT$1.675 billion (current capital / 實收資本)", "usd": null, "currency": "TWD" }
+    },
+    "strategy": {
+      "stages": ["growth", "series-b", "series-c-plus"],
+      "geo_focus": ["Taiwan", "Japan"],
+      "sector_focus": ["climate-energy", "deeptech", "mobility", "biotech"],
+      "thesis": "A Taiwan-Japan venture capital firm backing growth-stage and transformation-themed Taiwanese enterprises across high-tech, aerospace, new-energy vehicles, biotech/medical devices, consumer and traditional industries. Selected by the Ministry of Environment as a matched co-investment partner for strengthening Taiwan's green/environmental industries under the Green Growth Fund."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "China Airlines (中華航空)", "sector": "aerospace", "outcome": "active" },
+        { "company": "Agility Robotics", "sector": "robotics", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "tags": ["new-energy-vehicle", "transformation", "taiwan-japan", "green-growth-fund-partner", "digital-transformation"],
+    "summary": {
+      "en": "A Taipei-based Taiwan-Japan VC founded in 2015 with NT$1.675 billion in capital, investing in growth-stage and transformation-themed enterprises (high-tech, aerospace, new-energy vehicles, biotech). It was selected by Taiwan's Ministry of Environment as a Green Growth Fund matched co-investment partner, giving it a green/sustainability mandate alongside its broader portfolio.",
+      "local": "2015 年成立、總部位於台北的台日創投，實收資本約新台幣 16.75 億元，投資成長期與轉型題材企業（高科技、航太、新能源車、生技醫材等）。獲環境部評選為綠色成長基金搭配投資單位，因而具備綠色／永續產業投資任務。"
+    },
+    "sources": [
+      {
+        "url": "https://www.abicoasia.com.tw/",
+        "title": "能率亞洲資本股份有限公司 官方網站",
+        "publisher": "能率亞洲資本 (Enerate Asia Capital)",
+        "accessed": "2026-06-02",
+        "supports": "Taipei HQ, investment sectors, selection as Ministry of Environment green-industry co-investment partner",
+        "quote": "高科技、航太、新能源車、生技醫材、民生消費及傳統產業 ... 獲環境部評選 成為加強臺灣綠色環保產業搭配投資單位"
+      },
+      {
+        "url": "https://udn.com/news/story/7254/9167711",
+        "title": "能率亞洲資本 將轉上櫃",
+        "publisher": "聯合新聞網 (UDN)",
+        "accessed": "2026-06-02",
+        "supports": "Founded 2015, current capital NT$1.675 billion, planned listing",
+        "quote": "成立於2015年 ... 實收資本額新台幣16.75億元"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Primarily a generalist growth/transformation VC, not climate-dedicated; included for this segment because it is an official Green Growth Fund matched co-investment partner with a stated green-industry mandate (new-energy vehicles etc.). Founding year (2015) and capital (NT$1.675B) per UDN/MoneyDJ; treat as borderline overlap.",
+    "last_updated": "2026-06-02",
+    "researched_by": "climate-vc"
+  }
+]

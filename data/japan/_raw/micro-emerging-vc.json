@@ -1,0 +1,798 @@
+[
+  {
+    "id": "jp-angelround",
+    "name": { "en": "AngelRound", "local": "エンジェルラウンド株式会社" },
+    "aka": ["Angel Round", "AR_Corp"],
+    "type": "micro-vc",
+    "subtypes": ["angel-syndicate"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://angel-round.com/",
+    "links": {
+      "twitter": "https://x.com/TakumiOokoshi",
+      "other": ["https://note.com/takumiookoshi/n/n3ee304e51295"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": null, "usd": null, "currency": "JPY" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "¥5M–¥30M (500万〜3,000万円)", "usd_min": 33000, "usd_max": 200000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "saas-enterprise"],
+      "thesis": "Solo-GP micro-fund built on 'early-stage investing × minimal fund size'. Invests in 'solid ventures' (ソリッドベンチャー) — profitable-from-inception, mostly B2B, asset-light businesses run by founders under 30 — and is designed so that even small M&A / secondary exits below ¥1B recover cost."
+    },
+    "track_record": {
+      "portfolio_count": 12,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Takumi Okoshi (大越匠)", "role": "Founder / Solo GP", "linkedin": "" }
+    ],
+    "team_size": 1,
+    "application": {
+      "how_to_apply": "Contact via website / founder's X account",
+      "accepts_cold_inbound": true,
+      "contact": "https://angel-round.com/"
+    },
+    "tags": ["solo-gp", "micro-vc", "seed", "small-exit", "under-30-founders"],
+    "summary": {
+      "en": "Solo-GP micro-VC founded in 2023 by Takumi Okoshi (ex-Skyland Ventures). Runs a deliberately tiny fund focused on profitable 'solid ventures', writing ¥5M–¥30M checks into mostly-B2B seed companies led by founders under 30, with a thesis that embraces small M&A / secondary exits rather than unicorn outcomes.",
+      "local": "2022年7月にSkyland Venturesに参画後、2023年に大越匠が設立したソロGPのマイクロVC。「アーリー投資 × 最小限のファンドサイズ」をコンセプトに、創業初期から黒字の『ソリッドベンチャー』へ500万〜3,000万円を投資し、10億円未満のM&Aやセカンダリーなど小規模Exitでもコスト回収できる設計を採る。"
+    },
+    "sources": [
+      {
+        "url": "https://angel-round.com/",
+        "title": "エンジェルラウンド株式会社",
+        "publisher": "AngelRound",
+        "accessed": "2026-06-02",
+        "supports": "Check size, founder-age policy, exit strategy, HQ, solo-GP model",
+        "quote": "チケットサイズは500万〜3,000万円 … 30代未満を主対象 … 10億円未満のM&Aやセカンダリーなど"
+      },
+      {
+        "url": "https://venture.jp/news/2024/10/03/11632/",
+        "title": "【#264】従来のVC常識を覆す。起業家と投資家の利益を両立する新時代ファンド",
+        "publisher": "venture.jp",
+        "accessed": "2026-06-02",
+        "supports": "Solo-GP structure, B2B mix, portfolio average age, 12 investments",
+        "quote": "30代以下の起業家に投資するというポリシーを持っています。現在の投資先の起業家の平均年齢は32歳 … BtoBが8割、BtoCが2割の割合です"
+      },
+      {
+        "url": "https://note.com/takumiookoshi/n/n3ee304e51295",
+        "title": "マイクロVCファンドを運営するソロGPは一体何を考え、何をしているのか？",
+        "publisher": "note (大越匠)",
+        "accessed": "2026-06-02",
+        "supports": "Author runs Angel Round as a solo-GP micro-VC"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size not publicly disclosed (kept null). 12-company portfolio count from a Sept/Oct 2024 source; may have grown since.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "jp-f-ventures",
+    "name": { "en": "F Ventures", "local": "F Ventures LLP" },
+    "aka": ["エフベンチャーズ"],
+    "type": "micro-vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Fukuoka",
+    "website": "https://f-ventures.vc/",
+    "links": {
+      "other": ["https://initial.inc/investors/V09219", "https://prtimes.jp/main/html/rd/p/000000080.000018441.html"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "approx ¥1.5B target (15億円規模、予定)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "F Ventures Fund 1号", "vintage_year": 2016, "size": { "raw": "approx ¥500M (5億円規模)", "usd": null, "currency": "JPY" } },
+        { "name": "F Ventures Fund 2号", "vintage_year": 2019, "size": { "raw": "approx ¥1B (10億円規模)", "usd": null, "currency": "JPY" } },
+        { "name": "F Ventures Fund 3号", "vintage_year": 2023, "size": { "raw": "approx ¥1.5B (15億円規模、目標)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "¥10M–¥20M (1,000万円〜2,000万円)", "usd_min": 66000, "usd_max": 130000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan", "Fukuoka", "Asia"],
+      "sector_focus": ["generalist", "saas-enterprise", "consumer"],
+      "thesis": "Fukuoka-born seed micro-VC backing pre-seed/seed founders and discovering young entrepreneurs early via the student pitch event TORYUMON."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "investment": { "raw": null, "usd": null, "currency": "JPY" },
+      "format": "in-person",
+      "location": "Fukuoka / Tokyo",
+      "demo_day": true,
+      "application_url": "https://f-ventures.vc/",
+      "eligibility": "Pre-seed/seed founders, including students via TORYUMON"
+    },
+    "track_record": {
+      "portfolio_count": "~55 (Funds 1+2); 30–40 target for Fund 3",
+      "notable_investments": [
+        { "company": "Timee (タイミー)", "sector": "labor/HR", "outcome": "active" },
+        { "company": "Pan for You (パンフォーユー)", "sector": "foodtech", "outcome": "active" },
+        { "company": "PoliPoli", "sector": "civic/gov-tech", "outcome": "active" },
+        { "company": "QUANDO (クアンド)", "sector": "saas-enterprise", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Shota Morozumi (両角将太)", "role": "Founder / General Partner", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Via website or TORYUMON pitch event",
+      "accepts_cold_inbound": true,
+      "contact": "https://f-ventures.vc/"
+    },
+    "tags": ["micro-vc", "seed", "fukuoka", "regional", "student-founders", "toryumon"],
+    "summary": {
+      "en": "Fukuoka-based seed-focused micro-VC founded in 2016 by Shota Morozumi (ex-Samurai Incubate). Has grown across three small funds (~¥500M → ~¥1B → ~¥1.5B target), writing ¥10M–¥20M checks at pre-seed/seed and sourcing young founders through its TORYUMON student pitch events. Early backer of Timee.",
+      "local": "2016年に両角将太（元サムライインキュベート）が福岡で設立した、シード特化の独立系マイクロVC。1号約5億円、2号約10億円を経て、2023年に約15億円規模の3号ファンドを組成。プレシード〜シードに1,000万〜2,000万円を投資し、学生起業イベントTORYUMONで若手起業家を早期発掘。タイミーなどに出資。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000080.000018441.html",
+        "title": "F Ventures、15億円規模の3号ファンド設立",
+        "publisher": "PR TIMES / F Ventures LLP",
+        "accessed": "2026-06-02",
+        "supports": "Founding date, fund 3 size, check size, portfolio count, notable investments, HQ, TORYUMON",
+        "quote": "15億円規模（予定）を目標 … 1,000万円〜2,000万円ほどを予定 … およそ55社 … 計30～40社への投資を見込んでおり"
+      },
+      {
+        "url": "https://thebridge.jp/2019/04/f-ventures-2nd-fund-1st-funding-close",
+        "title": "F Ventures、10億円規模となる2号ファンドを組成",
+        "publisher": "BRIDGE",
+        "accessed": "2026-06-02",
+        "supports": "Fund 2 size (~¥1B)"
+      },
+      {
+        "url": "https://thebridge.jp/2016/04/f-ventures-launch",
+        "title": "元サライインキュベートの両角将太氏、福岡にフォーカスしたシード向けファンド「F Ventures」を設立",
+        "publisher": "BRIDGE",
+        "accessed": "2026-06-02",
+        "supports": "Founder, 2016 launch, Fukuoka focus, ~¥500M Fund 1"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund-1/2 sizes (~¥500M / ~¥1B) come from BRIDGE coverage of the launches; Fund-3 target (¥1.5B) from the firm's own PR TIMES release. usd conversions approximate (~¥152/USD).",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "jp-miraise",
+    "name": { "en": "MIRAISE", "local": "合同会社Miraise" },
+    "aka": ["ミレイズ"],
+    "type": "micro-vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.miraise.vc/",
+    "links": {
+      "other": ["https://initial.inc/investors/V12433", "https://prtimes.jp/main/html/rd/p/000000015.000041145.html"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "approx ¥1.8B (約18億円)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "MIRAISE 1号ファンド", "vintage_year": 2019, "size": { "raw": "approx ¥500M (Fund 2 is 3x+ larger)", "usd": null, "currency": "JPY" } },
+        { "name": "MIRAISE 2号ファンド", "vintage_year": 2022, "size": { "raw": "approx ¥1.8B (約18億円)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "avg ¥30M (1件あたり平均3000万円程度)", "usd": null, "currency": "JPY" },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["saas-enterprise", "web3-crypto", "deeptech", "ai-ml"],
+      "thesis": "Seed VC specialized in engineer/programmer founders, helping them reach product-market fit; themes include web3, metaverse, DevOps and OSS but not limited to them."
+    },
+    "track_record": {
+      "portfolio_count": "~50 (as of Dec 2022)",
+      "notable_investments": [
+        { "company": "oVice", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Frame00 (Fracton/DEV Protocol)", "sector": "web3-crypto", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Shinichi Iwata (岩田真一)", "role": "Founder / Managing Partner", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Via website",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.miraise.vc/"
+    },
+    "tags": ["micro-vc", "seed", "engineer-founders", "developer-tools", "web3"],
+    "summary": {
+      "en": "Seed-stage micro-VC founded in December 2018 by Shinichi Iwata (ex-CEO of Skype Japan, ex-Atomico partner), focused exclusively on engineer/programmer founders. Closed an ~¥1.8B second fund in 2022 (3x+ its first), writing ~¥30M average checks; ~50 portfolio companies as of late 2022.",
+      "local": "元スカイプジャパン代表・元Atomicoパートナーの岩田真一が2018年12月に設立した、エンジニア起業家特化のシードマイクロVC。2022年に約18億円（1号の3倍以上）の2号ファンドを最終クローズし、1件平均約3000万円を投資。2022年12月時点で約50社に投資。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000015.000041145.html",
+        "title": "エンジニア起業家特化VCのミレイズ、2号ファンドを18億円で最終クローズ",
+        "publisher": "PR TIMES / 合同会社Miraise",
+        "accessed": "2026-06-02",
+        "supports": "Fund 2 size, founding date, average check size, portfolio count, focus, HQ",
+        "quote": "約18億円の2号ファンドの組成を完了 … 1件あたりの平均投資額を3000万円程度 … 2号ファンドは1号ファンドの3倍以上のファンド規模 … 2022年12月時点の投資社数は50社"
+      },
+      {
+        "url": "https://jp.techcrunch.com/2019/02/13/miraise/",
+        "title": "プログラマー起業家支援に特化したMIRAISEファンド、元スカイプジャパン代表の岩田氏が立ち上げ",
+        "publisher": "TechCrunch Japan",
+        "accessed": "2026-06-02",
+        "supports": "Founder background, engineer-founder thesis, launch"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund 1 size not disclosed as an exact figure (release states Fund 2 is '3x+' Fund 1, implying ~¥500M). Portfolio count is as of Dec 2022 and likely higher now.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "jp-the-seed",
+    "name": { "en": "THE SEED", "local": "ザシードキャピタル株式会社" },
+    "aka": ["THESEED", "ザシード"],
+    "type": "micro-vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://theseed.vc/",
+    "links": {
+      "other": ["https://initial.inc/investors/V11819", "https://prtimes.jp/main/html/rd/p/000000039.000035974.html"]
+    },
+    "capital": {
+      "aum": { "raw": "approx ¥3.4B (約34億円)", "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "¥3B target / ¥1.2B first close (30億円規模、12億円でファーストクローズ)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "THE SEED 1号ファンド", "vintage_year": 2018, "size": { "raw": null, "usd": null, "currency": "JPY" } },
+        { "name": "THE SEED 2号ファンド", "vintage_year": 2021, "size": { "raw": "approx ¥1.5B (15億円規模)", "usd": null, "currency": "JPY" } },
+        { "name": "THESEED3号投資事業有限責任組合", "vintage_year": 2023, "size": { "raw": "¥3B target, ¥1.2B first close (30億円規模、12億円でファーストクローズ)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "¥10M–¥25M initial (1,000万円から2,500万円)", "usd_min": 66000, "usd_max": 165000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "saas-enterprise", "logistics", "gaming"],
+      "thesis": "Seed/pre-seed VC aiming to be the 'first supporter' of founders, often around product launch, with regional reach beyond Tokyo."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "format": "in-person",
+      "location": "Tokyo",
+      "application_url": "https://theseed.vc/",
+      "eligibility": "Pre-seed / seed founders, around product release"
+    },
+    "track_record": {
+      "portfolio_count": "~50",
+      "notable_investments": [
+        { "company": "New Innovations (root C)", "sector": "robotics", "outcome": "active" },
+        { "company": "AGRI SMILE", "sector": "agritech", "outcome": "active" },
+        { "company": "Arent", "sector": "saas-enterprise", "outcome": "IPO" }
+      ],
+      "exits": [
+        { "company": "Arent (アレント)", "type": "IPO", "year": 2023, "value": { "raw": null, "usd": null, "currency": "JPY" } }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Daiki Hirozawa (廣澤太紀)", "role": "Founder / Representative Director", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Via website",
+      "accepts_cold_inbound": true,
+      "contact": "https://theseed.vc/"
+    },
+    "tags": ["micro-vc", "seed", "pre-seed", "regional", "first-supporter"],
+    "summary": {
+      "en": "Seed/pre-seed VC founded in 2018 by Daiki Hirozawa at age 26 (ex-East Ventures / Skyland Ventures). Manages ~¥3.4B across three small funds; its ¥3B-target Fund 3 (¥1.2B first close) writes ¥10M–¥25M initial checks into ~50 founders around product launch. First IPO was portfolio company Arent (2023).",
+      "local": "East Ventures・Skyland Ventures出身の廣澤太紀が26歳だった2018年に設立したシード／プレシードVC。3本の小型ファンドで約34億円を運用し、30億円規模を目指す3号ファンド（12億円でファーストクローズ）はプレシード期に1,000万〜2,500万円を投資。約50社に創業投資し、Arentが2023年に初IPO。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000039.000035974.html",
+        "title": "THE SEED、プレシードを対象とした30億円規模の3号ファンドを設立、12億円でファーストクローズを完了",
+        "publisher": "PR TIMES / ザシードキャピタル株式会社",
+        "accessed": "2026-06-02",
+        "supports": "Fund 3 size and first close, AUM, check size, portfolio count, stage, HQ",
+        "quote": "30億円規模 … 12億円でファーストクローズを完了 … 現在、約34億円を運用 … 初回チケットサイズの目安は1,000万円から2,500万円 … 約50社に対して創業投資"
+      },
+      {
+        "url": "https://thebridge.jp/2018/09/the-seed-is-start",
+        "title": "East Ventures・Skyland Ventures出身の26歳投資家、廣澤太紀氏が新ファンドを設立",
+        "publisher": "BRIDGE",
+        "accessed": "2026-06-02",
+        "supports": "Founder, age 26, 2018 launch"
+      },
+      {
+        "url": "https://thebridge.jp/2021/03/the-seed-announces-2nd-fund",
+        "title": "THE SEED、15億円規模の2号ファンドを組成",
+        "publisher": "BRIDGE",
+        "accessed": "2026-06-02",
+        "supports": "Fund 2 size (~¥1.5B)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund 1 exact size not disclosed (null). Fund 2 ~¥1.5B from BRIDGE. usd conversions approximate.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "jp-partners-fund",
+    "name": { "en": "PARTNERS FUND", "local": "PARTNERS FUND株式会社" },
+    "aka": ["Full Commit Partners", "フルコミットパートナーズ"],
+    "type": "micro-vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://partnersfund.vc",
+    "links": {
+      "other": ["https://www.fullcommit-partners.com/", "https://prtimes.jp/main/html/rd/p/000000001.000159710.html", "https://initial.inc/investors/V11548"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "¥6.5B target (総額65億円規模を目指す, first close Apr 2025)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "Full Commit Partners 1号 (旧)", "vintage_year": 2018, "size": { "raw": "approx ¥580M (5.8億円)", "usd": null, "currency": "JPY" } },
+        { "name": "Partners Fund 1号", "vintage_year": 2022, "size": { "raw": "approx ¥1.02B (10.2億円)", "usd": null, "currency": "JPY" } },
+        { "name": "Partners Fund 2号投資事業有限責任組合", "vintage_year": 2025, "size": { "raw": "¥6.5B target (総額65億円規模を目指す)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "¥30M–¥200M initial (3000万円〜2億円); up to ¥1B follow-on per company (最大10億円)", "usd": null, "currency": "JPY" },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "consumer", "saas-enterprise"],
+      "thesis": "Hands-on 'full commit' VC that co-founds and intensively supports zero-to-one founders it 'falls in love with', with consumer and legacy-industry DX focus and an M&A-aware strategy."
+    },
+    "track_record": {
+      "portfolio_count": "~33 (13 in Full Commit fund, 20 in Partners Fund 1)",
+      "notable_investments": [
+        { "company": "GREEN SPOON (Greenspoon)", "sector": "consumer", "outcome": "active" },
+        { "company": "SOEJU (Moderat)", "sector": "ecommerce", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Yudai Yamada (山田優大)", "role": "Founder / Representative Partner", "linkedin": "" },
+      { "name": "Masato Nakamura (中村将人)", "role": "Partner", "linkedin": "" },
+      { "name": "Ryo Taneichi (種市亮)", "role": "Partner", "linkedin": "" },
+      { "name": "Satoshi Fujii (藤井聡)", "role": "Partner", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Via website",
+      "accepts_cold_inbound": true,
+      "contact": "https://partnersfund.vc"
+    },
+    "tags": ["micro-vc", "emerging-manager", "seed", "hands-on", "co-founding"],
+    "summary": {
+      "en": "Independent VC originally founded in 2018 by Yudai Yamada (ex-Incubate Fund, ex-GREE) as Full Commit Partners (¥580M debut fund, 13 investments), then a ¥1.02B Partners Fund 1 in 2022 (20 investments). In April 2025 it rebranded to PARTNERS FUND and first-closed a Fund 2 targeting ¥6.5B with a four-equal-partner structure, writing ¥30M–¥200M initial checks (up to ¥1B follow-on).",
+      "local": "2018年に山田優大（元インキュベイトファンド／元グリー）がFull Commit Partnersとして設立（1号5.8億円・13社）。2022年にPartners Fund 1号(10.2億円・20社)、2025年4月にPARTNERS FUNDへ社名変更し、4名のパートナー均等体制で総額65億円規模の2号ファンドをファーストクローズ。初回3000万円〜2億円、1社最大10億円まで投資。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000001.000159710.html",
+        "title": "シードVCのパートナーズファンド、新ファンドを設立。総額65億円規模のファンド設立を目指しファーストクローズを実施",
+        "publisher": "PR TIMES / PARTNERS FUND株式会社",
+        "accessed": "2026-06-02",
+        "supports": "Fund 2 target size, first close, prior fund sizes, check size, partners, stages",
+        "quote": "総額65億円規模のファンド設立を目指し … 3000万円〜2億円 … 1社あたり最大で10億円 … 10.2億円の2号ファンド"
+      },
+      {
+        "url": "https://thebridge.jp/2023/01/full-commit-partners-launches-1st-partners-fund",
+        "title": "Full Commit Partners、10億円規模の新ファンドを組成——前ファンドからは13社への出資が明らかに",
+        "publisher": "BRIDGE",
+        "accessed": "2026-06-02",
+        "supports": "¥580M debut fund, 13 investments, Partners Fund 1 ~¥1B"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Now a four-partner firm (no longer strictly solo-GP) but qualifies as a small, recently-rebranded emerging manager whose roots are a ¥580M first-time micro-fund. Figures (5.8億/10.2億/65億) from PR TIMES and BRIDGE.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "jp-mint",
+    "name": { "en": "mint", "local": "株式会社mint" },
+    "aka": ["mint VC", "Apricot Ventures", "TLM"],
+    "type": "micro-vc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://mint-vc.com/",
+    "links": {
+      "other": ["https://initial.inc/investors/V11453", "https://prtimes.jp/main/html/rd/p/000000027.000079477.html"]
+    },
+    "capital": {
+      "aum": { "raw": "approx ¥6.9B incl. past funds (過去ファンドを含め約69億円を運用)", "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "¥10B target (100億円規模, mint startup fund 2号)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "Apricot Venture Fund 1号 (predecessor, Apricot Ventures)", "vintage_year": 2018, "size": { "raw": "approx ¥700M (約7億円)", "usd": null, "currency": "JPY" } },
+        { "name": "TLM 1号 (predecessor, TLM)", "vintage_year": 2015, "size": { "raw": "approx ¥850M (8.5億円)", "usd": null, "currency": "JPY" } },
+        { "name": "mint 1号 (Apricot Venture Fund 2号)", "vintage_year": 2021, "size": { "raw": "approx ¥3B–¥5.2B (30億円規模 launch, grown)", "usd": null, "currency": "JPY" } },
+        { "name": "mint startup fund 2号投資事業有限責任組合", "vintage_year": 2025, "size": { "raw": "¥10B target (100億円規模)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": "¥10M–¥750M (1,000万円〜7.5億円 incl. follow-on)", "usd": null, "currency": "JPY" },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "ai-ml", "deeptech", "web3-crypto", "gaming"],
+      "thesis": "All-genre pre-seed/seed 'ecosystem builder' that backs founders from inception and supports them through to early-growth stages with up to ¥750M of capital and M&A/IPO support."
+    },
+    "track_record": {
+      "portfolio_count": "~150 (incl. predecessors)",
+      "notable_investments": [
+        { "company": "Cover (カバー)", "sector": "gaming", "outcome": "IPO" }
+      ],
+      "exits": [
+        { "company": "Cover (カバー) — backed by predecessor TLM", "type": "IPO", "year": 2023, "value": { "raw": null, "usd": null, "currency": "JPY" } }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Tomoki Shirakawa (白川智樹)", "role": "Co-founder / General Partner (ex-Apricot Ventures)", "linkedin": "" },
+      { "name": "Keisuke Kogure (木暮圭佑)", "role": "Co-founder / General Partner (ex-TLM)", "linkedin": "" },
+      { "name": "Hironori Takeda (武田紘典)", "role": "General Partner", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Via website",
+      "accepts_cold_inbound": true,
+      "contact": "https://mint-vc.com/"
+    },
+    "tags": ["micro-vc", "emerging-manager", "seed", "pre-seed", "all-genre", "merged-micro-funds"],
+    "summary": {
+      "en": "Independent seed VC born in 2021 from the merger of two solo-GP micro-funds — Apricot Ventures (Tomoki Shirakawa, ~¥700M first fund) and TLM (Keisuke Kogure, ¥8.5B... ¥850M first fund). mint manages ~¥6.9B incl. past funds and is raising a ¥10B-target Fund 2, doing all-genre pre-seed/seed deals with ¥10M–¥750M checks. Predecessor TLM backed Cover (Hololive), which IPO'd in 2023.",
+      "local": "2018年設立のApricot Ventures（白川智樹、1号約7億円）と2015年設立のTLM（木暮圭佑、1号8.5億円）という2つのソロGP系マイクロVCが2021年に合流して誕生した独立系シードVC。過去ファンド含め約69億円を運用し、100億円規模の2号ファンドを組成中。オールジャンルのプレシード〜シードに1,000万〜7.5億円を投資。前身TLMが出資したカバーは2023年に上場。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000027.000079477.html",
+        "title": "独立系VCのmint、100億円規模の2号ファンドを設立",
+        "publisher": "PR TIMES / 株式会社mint",
+        "accessed": "2026-06-02",
+        "supports": "Fund 2 target, AUM, GPs, check size, predecessors, portfolio count, stage, HQ",
+        "quote": "100億円規模 … 1,000万円〜7.5億円 … 過去ファンドを含め約69億円を運用 … 約150社への投資を進めてまいりました … 前身はApricot VenturesとTLM"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000001.000034726.html",
+        "title": "アプリコット・ベンチャーズ、約7億円の1号ファンドを組成",
+        "publisher": "PR TIMES / Apricot Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Apricot Ventures predecessor: ~¥700M first fund, founder, 2018",
+        "quote": "約7億円"
+      },
+      {
+        "url": "https://thebridge.jp/2021/05/apricot-ventures-plus-tlm-mint",
+        "title": "アプリコットとTLMが合体、新ファンド「mint」爆誕",
+        "publisher": "BRIDGE",
+        "accessed": "2026-06-02",
+        "supports": "Merger of Apricot Ventures + TLM into mint, TLM founder Kogure, Cover/Hololive backing"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Predecessor TLM 1号 size (8.5億円) from secondary (FastGrow/AMP); other figures from PR TIMES primary. mint 1号 grew from ¥3B launch; exact final size not pinned (left as range).",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "jp-party-startup-studio-fund",
+    "name": { "en": "PARTY STARTUP STUDIO FUND", "local": "PARTY1号投資事業有限責任組合" },
+    "aka": ["PARTY Inc.", "株式会社パーティー"],
+    "type": "venture-studio",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2026,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://prty.jp",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000040.000016039.html"]
+    },
+    "capital": {
+      "current_fund": { "raw": "approx ¥1B (約10億円)", "usd": null, "currency": "JPY" }
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": "¥20M–¥50M (2,000万〜5,000万円)", "usd_min": 130000, "usd_max": 330000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["consumer", "saas-enterprise"],
+      "thesis": "Seed venture-studio fund from creative collective PARTY that pairs capital with marketing, UI/UX, PR and creative co-creation, backing community-driven and experience-innovation businesses."
+    },
+    "track_record": {
+      "portfolio_count": "30+ (PARTY's prior venture investments)",
+      "notable_investments": [
+        { "company": "The Chain Museum", "sector": "consumer", "outcome": "active" },
+        { "company": "VALU", "sector": "fintech", "outcome": "shutdown" }
+      ],
+      "co_investors": ["Incubate Fund (IFLP3)", "MIXI"]
+    },
+    "people": [
+      { "name": "Hiroki Nakamura (中村洋基)", "role": "GP / PARTY Founder", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Via PARTY website",
+      "accepts_cold_inbound": true,
+      "contact": "https://prty.jp"
+    },
+    "tags": ["venture-studio", "micro-vc", "seed", "creative", "marketing-support"],
+    "summary": {
+      "en": "A ~¥1B seed-focused venture-studio fund (PARTY1号投資事業有限責任組合) launched in March 2026 by Tokyo creative collective PARTY, GP Hiroki Nakamura. Writes ¥20M–¥50M checks and bundles capital with marketing, UI/UX, PR and creative support. LPs include Incubate Fund and MIXI.",
+      "local": "クリエイティブ集団PARTYが2026年3月に立ち上げた約10億円規模のシード特化ベンチャースタジオ型ファンド（GP：中村洋基）。2,000万〜5,000万円を投資し、マーケティング・UI/UX・PRなどクリエイティブ支援を一体で提供。LPにインキュベイトファンドやMIXIなど。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000040.000016039.html",
+        "title": "クリエイティブ集団PARTY、10億円規模のシード特化VCを設立「PARTY STARTUP STUDIO FUND」始動",
+        "publisher": "PR TIMES / 株式会社パーティー",
+        "accessed": "2026-06-02",
+        "supports": "Fund size, check size, GP, stage, venture-studio model, LPs, HQ",
+        "quote": "約10億円 … 2,000万〜5,000万円 … PARTY1号投資事業有限責任組合"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Newly launched (2026). usd conversions approximate.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "jp-x-and-ksk",
+    "name": { "en": "X&KSK", "local": "X& Management Japan合同会社" },
+    "aka": ["X&KSK", "エックスアンドケーエスケー", "Keisuke Honda fund"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://xandksk.com",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000002.000151597.html", "https://startup-db.com/funds/g064lXYsA42OmpY2", "https://thebridge.jp/2025/01/xksk-led-by-keisuke-honda-establishes-a-15-3-billion-yen-fund"]
+    },
+    "capital": {
+      "aum": { "raw": "approx ¥15.3B (約153億円)", "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "approx ¥15.3B (約153億円)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "X&KSK I 投資事業有限責任組合", "vintage_year": 2024, "size": { "raw": "approx ¥15.3B (約153億円)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "¥100M–¥300M per company (1億〜3億円)", "usd": null, "currency": "JPY" },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["ai-ml", "deeptech", "spacetech"],
+      "thesis": "First-time emerging-VC fund led by ex-footballer Keisuke Honda aiming to create Japan's first 'decacorn', backing seed–Series A startups in AI/deeptech that target global expansion."
+    },
+    "track_record": {
+      "portfolio_count": "~30 target",
+      "notable_investments": [],
+      "co_investors": ["SBI Group", "Sumitomo Mitsui Banking", "GMO Internet Group", "Tokyu Land"]
+    },
+    "people": [
+      { "name": "Keisuke Honda (本田圭佑)", "role": "Co-Founder / General Partner", "linkedin": "" },
+      { "name": "Takeshi Nakanishi (中西武士)", "role": "Co-Founder / CEO, X& Group", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Via website / inquiry",
+      "accepts_cold_inbound": true,
+      "contact": "ir@xandksk.com"
+    },
+    "tags": ["emerging-manager", "first-time-fund", "seed", "deeptech", "celebrity-gp", "decacorn"],
+    "summary": {
+      "en": "First-time emerging-VC fund (X&KSK I, started 2024) co-led by former footballer Keisuke Honda and Takeshi Nakanishi, completed at ~¥15.3B. Targets ~30 seed–Series A startups in AI/deeptech/space with ¥100M–¥300M checks, aiming to build Japan's first decacorn. Backed by SBI, SMBC, GMO and Tokyu Land.",
+      "local": "元サッカー選手・本田圭佑と中西武士が率いる、2024年運用開始の新興VCの1号ファンド「X&KSK I」（総額約153億円）。AI・ディープテック・宇宙など先端領域のシード〜シリーズA約30社に1億〜3億円を投資し、日本初のデカコーン創出を目指す。SBI・三井住友銀行・GMO・東急不動産などが出資。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000002.000151597.html",
+        "title": "本田圭佑が率いるベンチャーキャピタルX&KSK、総額約153億円の資金調達を完了",
+        "publisher": "PR TIMES / X& Management Japan合同会社",
+        "accessed": "2026-06-02",
+        "supports": "Fund size, GPs, company, founding, sector focus, LPs, HQ",
+        "quote": "総額約153億円の資金調達を完了 … 2023年11月 … デカコーンになり得る最先端の技術やイノベーティブなビジネス"
+      },
+      {
+        "url": "https://thebridge.jp/2025/01/xksk-led-by-keisuke-honda-establishes-a-15-3-billion-yen-fund",
+        "title": "本田圭佑率いるX&KSK、153億円のファンドを組成 SBIと資本提携しグローバル展開を加速",
+        "publisher": "BRIDGE",
+        "accessed": "2026-06-02",
+        "supports": "Per-company check size, ~30 companies, seed–Series A, decacorn thesis"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "153億円 = ¥15.3 billion (some English coverage mistranslated this as '153 billion yen'). At ~¥15.3B this is a large first-time fund — an emerging manager rather than a true 'micro' fund; included for the newly-raised-emerging-manager scope.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "jp-alpha-vc",
+    "name": { "en": "ALPHA", "local": "株式会社alpha" },
+    "aka": ["ALPHA VC", "アルファ"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://alphavc.jp/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000003.000164255.html", "https://thebridge.jp/2025/07/new-emerging-vc-alpha-launches-with-15-billion-yen-fund"]
+    },
+    "capital": {
+      "aum": { "raw": "approx ¥20B (200億円, final close)", "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "¥20B hard-cap final close (¥15B target); ¥10B+ first close (150億円予定、最大200億円)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "ALPHA-1投資事業有限責任組合", "vintage_year": 2024, "size": { "raw": "approx ¥20B (200億円, final close Dec 2025)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": "¥10M–¥2B per investment (数千万円〜最大20億円)", "usd": null, "currency": "JPY" },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["ai-ml", "robotics", "healthtech", "cybersecurity", "deeptech"],
+      "thesis": "Early-stage-centered emerging VC (1号ファンド) co-founded by veteran capitalists, investing in Japanese-origin technology with global ambition and in structural domestic challenges (aging, labor shortage, energy)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Keisuke Tatsuoka", "role": "Co-Founder / GP (ex-Global Brain)", "linkedin": "" },
+      { "name": "Masato Tanaka", "role": "Co-Founder / GP (ex-SBI Investment / Orix Capital)", "linkedin": "" },
+      { "name": "Takahiro Kawanishi (川西)", "role": "Co-Founder / GP (ex-AI Capital / Sumitomo Mitsui Trust)", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Via website",
+      "accepts_cold_inbound": true,
+      "contact": "https://alphavc.jp/"
+    },
+    "tags": ["emerging-manager", "first-time-fund", "early-stage", "deeptech", "institutional-lp"],
+    "summary": {
+      "en": "Emerging VC (株式会社alpha) founded in 2024; its debut fund ALPHA-1 first-closed above ¥10B in May 2025 and reached a ¥20B hard-cap final close in December 2025. GPs (ex-Global Brain, SBI, AI Capital) collectively backed 90+ companies with 40+ exits and 25 IPOs. Early-stage-centered, ¥10M–¥2B checks.",
+      "local": "2024年設立の新興VC（株式会社alpha）。デビューファンド「ALPHA-1」は2025年5月に100億円超でファーストクローズ、同年12月に200億円のハードキャップでファイナルクローズ。GP陣（元グローバル・ブレイン／SBI／AI Capital等）は合計90社超に投資し、25社のIPOを含む40社超をEXIT。アーリー中心に数千万〜最大20億円を投資。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000003.000164255.html",
+        "title": "新ベンチャーキャピタル「ALPHA」始動、150億円規模の1号ファンドで投資活動開始",
+        "publisher": "PR TIMES / 株式会社alpha",
+        "accessed": "2026-06-02",
+        "supports": "Fund target/first close, GP backgrounds, exit track record, check size, sectors, HQ"
+      },
+      {
+        "url": "https://alphavc.jp/posts/ALPHA1_finalclose",
+        "title": "総額200億円でデビューファンドの組成を完了",
+        "publisher": "ALPHA (alphavc.jp)",
+        "accessed": "2026-06-02",
+        "supports": "¥20B hard-cap final close (Dec 2025), debut fund"
+      },
+      {
+        "url": "https://www.media-incubate.com/capital/vc-alpha/",
+        "title": "新ベンチャーキャピタル「ALPHA」始動、150億円規模の1号ファンド",
+        "publisher": "Media Incubate",
+        "accessed": "2026-06-02",
+        "supports": "GP names/backgrounds, fund size (150億予定/最大200億), check size, exits, HQ Shibuya",
+        "quote": "150億円（予定、最大200億円） … 40社超のイグジット … 25社のIPO"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Firm's own first/final-close pages returned only headlines on fetch; figures corroborated by PR TIMES and Media Incubate secondary coverage. At a ¥20B debut fund this is a large emerging manager, not a micro-fund, but it is a genuine newly-raised first-time fund (2024–2025).",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "jp-hike-ventures",
+    "name": { "en": "Hike Ventures", "local": "Hike Ventures, LLC" },
+    "aka": ["HIKE VENTURES"],
+    "type": "micro-vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://hikevc.com/",
+    "offices": [
+      { "country": "United States", "city": "San Francisco" },
+      { "country": "Japan", "city": "Tokyo" }
+    ],
+    "links": {
+      "other": ["https://hikevc.com/english"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Japan", "Canada"],
+      "sector_focus": ["ai-ml", "saas-enterprise"],
+      "thesis": "Early-stage VC investing in startups leveraging applied AI to solve well-defined challenges that traditional software could not."
+    },
+    "track_record": {
+      "portfolio_count": "60+",
+      "notable_investments": [
+        { "company": "Botpress", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Percept AI", "sector": "ai-ml", "outcome": "acquired" },
+        { "company": "Konnecto", "sector": "ai-ml", "outcome": "acquired" }
+      ],
+      "exits": [
+        { "company": "Percept AI", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Konnecto", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Mikihiro Yasuda", "role": "General Partner (San Francisco)", "linkedin": "" },
+      { "name": "Taka Shoji", "role": "General Partner (Tokyo)", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Via website",
+      "accepts_cold_inbound": true,
+      "contact": "https://hikevc.com/"
+    },
+    "tags": ["micro-vc", "cross-border", "applied-ai", "us-japan"],
+    "summary": {
+      "en": "Small cross-border early-stage VC with dual offices in San Francisco and Tokyo, focused on startups applying AI to well-defined problems. Two GPs (Mikihiro Yasuda in SF, Taka Shoji in Tokyo) and 60+ portfolio companies with several acquisitions (Percept AI, Konnecto).",
+      "local": "サンフランシスコと東京に拠点を置く小規模なクロスボーダー・アーリーステージVC。応用AIで明確な課題を解くスタートアップに投資。GPは安田幹宏（SF）と東京拠点のTaka Shojiの2名で、60社超に投資し、Percept AI・KonnectoなどがM&AでEXIT。"
+    },
+    "sources": [
+      {
+        "url": "https://hikevc.com/english",
+        "title": "HIKE VENTURES, LLC",
+        "publisher": "Hike Ventures",
+        "accessed": "2026-06-02",
+        "supports": "GPs, dual SF/Tokyo offices, applied-AI thesis, 60+ portfolio, acquisitions",
+        "quote": "leveraging applied AI to solve well-defined challenges in ways that traditional software has not been able to accomplish"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Dual US/Japan firm (not Japan-only); fund size, check size and founding year not disclosed on the site (left null). Included for its Tokyo GP and Japan presence but it is partly a US/SF-based fund.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  }
+]

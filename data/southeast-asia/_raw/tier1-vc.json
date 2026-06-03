@@ -1,0 +1,922 @@
+[
+  {
+    "id": "sea-east-ventures",
+    "name": { "en": "East Ventures" },
+    "aka": ["EV"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2009,
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "hq_city": "Jakarta",
+    "offices": [
+      { "country": "Indonesia", "city": "Jakarta" },
+      { "country": "Singapore", "city": "Singapore" }
+    ],
+    "website": "https://east.vc",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/east-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/east-ventures",
+      "other": ["https://www.globalprivatecapital.org/newsroom/east-ventures/"]
+    },
+    "capital": {
+      "aum": { "raw": "US$1.7 billion", "usd": 1700000000, "currency": "USD" },
+      "current_fund": { "raw": "US$550 million (2022 multi-stage fund)", "usd": 550000000, "currency": "USD" },
+      "funds": [
+        { "name": "East Ventures multi-stage fund (2022)", "vintage_year": 2022, "size": { "raw": "US$550 million", "usd": 550000000, "currency": "USD" } },
+        { "name": "East Ventures South Korea fund", "vintage_year": null, "size": { "raw": "US$100 million", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Indonesia", "Southeast Asia", "South Korea"],
+      "sector_focus": ["generalist", "ai-ml", "fintech", "healthtech", "climate-energy"],
+      "thesis": "Pioneer sector-agnostic multi-stage VC backing founders in Southeast Asia from seed to growth, with an ESG/sustainability tilt."
+    },
+    "track_record": {
+      "portfolio_count": "300+",
+      "notable_investments": [
+        { "company": "Tokopedia", "sector": "ecommerce", "outcome": "unicorn" },
+        { "company": "Traveloka", "sector": "consumer", "outcome": "unicorn" },
+        { "company": "Xendit", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Carro", "sector": "mobility", "outcome": "unicorn" },
+        { "company": "Ruangguru", "sector": "edtech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Kudo", "type": "M&A", "year": 2017, "value": { "raw": "acquired by Grab", "usd": null, "currency": null } },
+        { "company": "Moka", "type": "M&A", "year": 2020, "value": { "raw": "acquired by Gojek", "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Willson Cuaca", "role": "Co-founder & Managing Partner" },
+      { "name": "Taiga Matsuyama", "role": "Co-founder" },
+      { "name": "Batara Eto", "role": "Co-founder" },
+      { "name": "Melisa Irene", "role": "Partner" },
+      { "name": "Avina Sugiarto", "role": "Partner" }
+    ],
+    "team_size": 63,
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["brand-name", "multi-stage", "generalist", "indonesia"],
+    "summary": {
+      "en": "East Ventures (founded 2009) is one of Southeast Asia's most active and best-known multi-stage generalist VCs, with US$1.7B AUM across nine SEA funds and 300+ portfolio companies including Tokopedia, Traveloka and Xendit.",
+      "local": "East Ventures (didirikan 2009) adalah salah satu modal ventura generalis multi-tahap paling aktif di Asia Tenggara, dengan AUM US$1,7 miliar dan lebih dari 300 perusahaan portofolio termasuk Tokopedia, Traveloka, dan Xendit."
+    },
+    "sources": [
+      {
+        "url": "https://east.vc/news/insights/key-facts-east-ventures",
+        "title": "16 key facts about East Ventures",
+        "publisher": "East Ventures",
+        "accessed": "2026-06-02",
+        "supports": "founding year, founders, portfolio count, exits, unicorns, funds, team size",
+        "quote": "founded in 2009 ... invested in over 300 companies ... more than 45 successful exits ... 11 funds focusing on Southeast Asia specifically: 6 Seed funds, 2 Growth funds, 1 Growth Plus fund ... Three co-founders, one vision: Willson Cuaca, Taiga Matsuyama, and Batara Eto"
+      },
+      {
+        "url": "https://www.globalprivatecapital.org/newsroom/east-ventures/",
+        "title": "East Ventures - GPCA",
+        "publisher": "Global Private Capital Association",
+        "accessed": "2026-06-02",
+        "supports": "AUM, number of funds, HQ offices",
+        "quote": "East Ventures has USD 1.7 billion in AUM, with offices in Jakarta and Singapore. The firm has so far raised nine funds focusing on Southeast Asia."
+      },
+      {
+        "url": "https://technode.global/2022/05/13/east-ventures-raises-550m-multi-stage-fund-to-focus-on-indonesia-and-southeast-asia-startups/",
+        "title": "East Ventures raises $550M multi-stage fund",
+        "publisher": "TNGlobal",
+        "accessed": "2026-06-02",
+        "supports": "2022 fund size",
+        "quote": "East Ventures raises $550M multi-stage fund to focus on Indonesia and Southeast Asia startups"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM US$1.7B confirmed by GPCA member page; East Ventures' own page cites '11 funds' total while GPCA cites 'nine funds focusing on Southeast Asia' — discrepancy reflects total funds vs SEA-only funds. HQ split between Jakarta and Singapore.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "sea-jungle-ventures",
+    "name": { "en": "Jungle Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "offices": [
+      { "country": "Singapore", "city": "Singapore" },
+      { "country": "India", "city": "Bengaluru" }
+    ],
+    "website": "https://www.jungle.vc",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/jungle-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/jungle-ventures",
+      "other": ["https://www.jungle.vc/team"]
+    },
+    "capital": {
+      "aum": { "raw": "over US$1 billion", "usd": 1000000000, "currency": "USD" },
+      "current_fund": { "raw": "US$600 million (Fund IV, 2022)", "usd": 600000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund IV", "vintage_year": 2022, "size": { "raw": "US$600 million ($450M main fund + $150M managed commitments)", "usd": 600000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Southeast Asia", "India"],
+      "sector_focus": ["generalist", "fintech", "consumer", "saas-enterprise"],
+      "thesis": "Concentrated-portfolio VC partnering with founders building 'borderless' businesses across Southeast Asia and India; makes 15-18 key investments per fund."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Kredivo", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Livspace", "sector": "consumer", "outcome": "unicorn" },
+        { "company": "Moglix", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Sociolla", "sector": "ecommerce", "outcome": "active" },
+        { "company": "RedDoorz", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Amit Anand", "role": "Founding Partner & Managing Director" },
+      { "name": "Anurag Srivastava", "role": "Founding Partner" },
+      { "name": "David Gowdey", "role": "Managing Partner" },
+      { "name": "Yash Sankrityayan", "role": "Managing Partner, Southeast Asia" }
+    ],
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["brand-name", "multi-stage", "generalist", "singapore"],
+    "summary": {
+      "en": "Jungle Ventures (founded 2012, Singapore) was the first independent Singapore-HQ VC across SEA and India to cross US$1B AUM. Its 2022 Fund IV raised US$600M and runs a concentrated 15-18 deal strategy backing unicorns like Kredivo, Livspace and Moglix."
+    },
+    "sources": [
+      {
+        "url": "https://www.jungle.vc/resources/we-have-a-billion-reasons-to-celebrate",
+        "title": "We have a Billion reasons to celebrate",
+        "publisher": "Jungle Ventures",
+        "accessed": "2026-06-02",
+        "supports": "founding year, HQ, AUM, Fund IV size, portfolio",
+        "quote": "$1Bn of Assets Under Management ... $450Mn in main fund plus $150Mn in managed commitments ... One George Street #07-02, Singapore 049145"
+      },
+      {
+        "url": "https://techcrunch.com/2022/05/17/jungle-ventures-closes-a-600m-fund-bringing-its-total-assets-under-management-to-over-1b/",
+        "title": "Jungle Ventures closes a $600M fund, bringing its total AUM to over $1B",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund IV size, AUM crossing $1B",
+        "quote": "Jungle Ventures closes a $600M fund, bringing its total assets under management to over $1B"
+      },
+      {
+        "url": "https://www.jungle.vc/team",
+        "title": "Team | Jungle Ventures",
+        "publisher": "Jungle Ventures",
+        "accessed": "2026-06-02",
+        "supports": "founders and partners",
+        "quote": "Amit Anand - Founding Partner & Managing Director ... Anurag Srivastava - Founding Partner"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2012 by Amit Anand and Anurag Srivastava. AUM 'over US$1B' confirmed by both TechCrunch and firm's own page. Invests across SEA and India.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "sea-vertex-ventures-sea-india",
+    "name": { "en": "Vertex Ventures Southeast Asia & India" },
+    "aka": ["Vertex Ventures SEA & India", "VVSEAI"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1988,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "offices": [
+      { "country": "Singapore", "city": "Singapore" },
+      { "country": "India", "city": "Bengaluru" },
+      { "country": "Indonesia", "city": "Jakarta" }
+    ],
+    "website": "https://www.vertexventures.sg",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/vertex-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/vertex-ventures",
+      "other": ["https://vertexholdings.com/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "US$541 million (Fund V, 2023)", "usd": 541000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund V (Southeast Asia & India)", "vintage_year": 2023, "size": { "raw": "US$541 million", "usd": 541000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Southeast Asia", "India"],
+      "sector_focus": ["generalist", "saas-enterprise", "fintech", "consumer", "healthtech", "mobility"],
+      "thesis": "Early-stage VC, part of the Temasek-owned Vertex global network, building category-leading champions like Grab and Nium across SEA and India."
+    },
+    "track_record": {
+      "portfolio_count": "80+",
+      "notable_investments": [
+        { "company": "Grab", "sector": "mobility", "outcome": "IPO" },
+        { "company": "PatSnap", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Nium", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "17LIVE", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Chua Joo Hock", "role": "Managing Partner" },
+      { "name": "Ben Mathias", "role": "Managing Partner (India)" },
+      { "name": "Kanika Mayar", "role": "Partner" }
+    ],
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["brand-name", "temasek", "early-stage", "generalist", "singapore"],
+    "summary": {
+      "en": "Vertex Ventures SEA & India, part of Temasek-owned Vertex Holdings, is a leading early-stage VC that closed Fund V at US$541M in 2023 (vs US$450M target). It built champions including Grab, PatSnap and Nium across Southeast Asia and India."
+    },
+    "sources": [
+      {
+        "url": "https://www.vertexventures.sg/news/vvseai-investment-vertex-ventures-sea-and-india-raises-541m-fifth-fund/",
+        "title": "Vertex Ventures SEA & India completes Final Close of Fund V at USD 541M",
+        "publisher": "Vertex Ventures SEA",
+        "accessed": "2026-06-02",
+        "supports": "Fund V size, target, portfolio count, sectors, HQ, partners",
+        "quote": "Fund V Size: USD 541 million ... Target Size: USD 450 million ... more than 80 investments ... 250 North Bridge Road, #11-01, Raffles City Tower, Singapore"
+      },
+      {
+        "url": "https://www.dealstreetasia.com/stories/vertex-ventures-se-asia-india-fund-v-361797",
+        "title": "Vertex Ventures closes SE Asia & India Fund V at $541m, exceeds target",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-02",
+        "supports": "Fund V size, Temasek ownership",
+        "quote": "Temasek-backed Vertex Ventures announced the final close of its fifth Southeast Asia & India fund at $541 million"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "founded_year 1988 reflects the broader Vertex platform lineage (originally established by Singapore Technologies / Temasek); the SEA & India arm operates as a distinct partnership. Fund V US$541M is well-sourced. Vertex Holdings is a wholly-owned Temasek subsidiary. Total AUM for the SEA & India arm not disclosed as a single figure.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "sea-monks-hill-ventures",
+    "name": { "en": "Monk's Hill Ventures" },
+    "aka": ["MHV"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2014,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "offices": [
+      { "country": "Singapore", "city": "Singapore" },
+      { "country": "Indonesia", "city": "Jakarta" },
+      { "country": "Vietnam", "city": "Ho Chi Minh City" }
+    ],
+    "website": "https://www.monkshill.com",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/monk's-hill-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/monk-s-hill-ventures"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund II", "vintage_year": 2020, "size": { "raw": "US$100 million", "usd": 100000000, "currency": "USD" } },
+        { "name": "Fund III", "vintage_year": 2023, "size": { "raw": "US$200 million", "usd": 200000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Southeast Asia", "Singapore", "Indonesia", "Vietnam", "Thailand", "Malaysia"],
+      "sector_focus": ["generalist", "fintech", "healthtech", "edtech", "saas-enterprise", "ecommerce", "logistics"],
+      "thesis": "Founder-led early-stage VC (Pre-Series A and Series A) backing tech companies across Southeast Asia, run by two-time founders Peng T. Ong and Kuo-Yi Lim."
+    },
+    "track_record": {
+      "portfolio_count": "50+",
+      "notable_investments": [
+        { "company": "Ninja Van", "sector": "logistics", "outcome": "unicorn" },
+        { "company": "Horangi", "sector": "cybersecurity", "outcome": "acquired" }
+      ]
+    },
+    "people": [
+      { "name": "Peng T. Ong", "role": "Co-founder & Managing Partner" },
+      { "name": "Kuo-Yi Lim", "role": "Co-founder & Managing Partner" }
+    ],
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["brand-name", "early-stage", "generalist", "singapore"],
+    "summary": {
+      "en": "Monk's Hill Ventures (founded 2014, Singapore) is a brand-name early-stage VC focused on Pre-Series A/Series A across Southeast Asia, founded by serial entrepreneurs Peng T. Ong and Kuo-Yi Lim. Fund III closed at US$200M in 2023; 50+ portfolio companies."
+    },
+    "sources": [
+      {
+        "url": "https://www.monkshill.com/about-us",
+        "title": "About Us | Monk's Hill Ventures",
+        "publisher": "Monk's Hill Ventures",
+        "accessed": "2026-06-02",
+        "supports": "founding year, founders, HQ, stages, portfolio count",
+        "quote": "Founded in 2014 ... Peng T. Ong and Kuo-Yi Lim ... more than 50 fast-growing startups ... Pre-Series A and Series A ... 1 George Street #21-01, Singapore"
+      },
+      {
+        "url": "https://ionanalytics.com/insights/mergermarket/gp-profile-southeast-asias-monks-hill-ventures-calls-for-patience-on-exits/",
+        "title": "GP profile: Southeast Asia's Monk's Hill Ventures",
+        "publisher": "ION Analytics / Mergermarket",
+        "accessed": "2026-06-02",
+        "supports": "Fund II and Fund III sizes",
+        "quote": "Funds II and III closed in 2020 and 2023, with the firm securing USD 100m and then doubling up to USD 200m"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund II (US$100M, 2020) and Fund III (US$200M, 2023) sourced from ION Analytics; firm does not publish a single AUM figure. Notable investments (Ninja Van, Horangi) from general knowledge of MHV portfolio and not individually quoted — outcome labels should be re-verified.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "sea-golden-gate-ventures",
+    "name": { "en": "Golden Gate Ventures" },
+    "aka": ["GGV (SEA)"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2011,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "offices": [
+      { "country": "Singapore", "city": "Singapore" },
+      { "country": "Indonesia", "city": "Jakarta" },
+      { "country": "Vietnam", "city": "Ho Chi Minh City" }
+    ],
+    "website": "https://www.goldengate.vc",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/goldengateventures",
+      "crunchbase": "https://www.crunchbase.com/organization/golden-gate-ventures",
+      "other": ["https://en.wikipedia.org/wiki/Golden_Gate_Ventures"]
+    },
+    "capital": {
+      "aum": { "raw": "over US$250 million (also cited ~US$300M)", "usd": 250000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Southeast Asia"],
+      "sector_focus": ["generalist", "fintech", "consumer", "ecommerce", "mobility"],
+      "thesis": "Early-stage VC backing Southeast Asia's startup ecosystem since 2011; among the region's earliest dedicated funds, with 90+ investments and multiple unicorns."
+    },
+    "track_record": {
+      "portfolio_count": "90+",
+      "notable_investments": [
+        { "company": "Carousell", "sector": "ecommerce", "outcome": "unicorn" },
+        { "company": "Carro", "sector": "mobility", "outcome": "unicorn" },
+        { "company": "Alodokter", "sector": "healthtech", "outcome": "active" },
+        { "company": "Gojek", "sector": "mobility", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Vinnie Lauria", "role": "Founding Partner" },
+      { "name": "Jeffrey Paine", "role": "Founding Partner" },
+      { "name": "Paul Bragiel", "role": "Founding Partner" }
+    ],
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["brand-name", "early-stage", "generalist", "singapore"],
+    "summary": {
+      "en": "Golden Gate Ventures (founded 2011, Singapore) is one of Southeast Asia's pioneering early-stage VCs with ~US$250M+ AUM and 90+ investments including unicorns Carousell, Carro and early Gojek."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Golden_Gate_Ventures",
+        "title": "Golden Gate Ventures - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "founding year, founders, portfolio, HQ",
+        "quote": "Golden Gate Ventures was founded in 2011 by Jeffrey Paine, Paul Bragiel, and Vinnie Lauria"
+      },
+      {
+        "url": "https://asiatechdaily.com/vinnie-lauria-founding-partner-of-golden-gate-ventures/",
+        "title": "Vinnie Lauria, Founding Partner of Golden Gate Ventures",
+        "publisher": "Asia Tech Daily",
+        "accessed": "2026-06-02",
+        "supports": "AUM and portfolio count",
+        "quote": "over $250 million in assets under management (AUM) and has invested in more than 90 companies, including 9 unicorns"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "AUM cited as both 'over US$250M' and '~US$300M' across secondary sources; no single primary disclosure. Founded 2011 confirmed by Wikipedia. Carousell/Carro unicorn outcomes from general ecosystem knowledge.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "sea-openspace-ventures",
+    "name": { "en": "Openspace Ventures" },
+    "aka": ["Openspace", "Openspace Capital"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2014,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "offices": [
+      { "country": "Singapore", "city": "Singapore" },
+      { "country": "Indonesia", "city": "Jakarta" }
+    ],
+    "website": "https://www.openspacecapital.com",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/openspacevc",
+      "crunchbase": "https://www.crunchbase.com/organization/openspace-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "US$800M in committed capital across 6 funds", "usd": 800000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Southeast Asia"],
+      "sector_focus": ["generalist", "fintech", "healthtech", "consumer", "climate-energy"],
+      "thesis": "Early- and growth-stage VC backing tech-native and tech-enabled companies in Southeast Asia; early Series A backer of Gojek, with a growing climate-tech focus."
+    },
+    "track_record": {
+      "portfolio_count": "58",
+      "notable_investments": [
+        { "company": "Gojek", "sector": "mobility", "outcome": "IPO" },
+        { "company": "Halodoc", "sector": "healthtech", "outcome": "active" },
+        { "company": "Kredivo", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Pluang", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Shane Chesson", "role": "Founding Partner" },
+      { "name": "Hian Goh", "role": "Founding Partner" }
+    ],
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["brand-name", "multi-stage", "generalist", "singapore"],
+    "summary": {
+      "en": "Openspace Ventures (founded 2014, Singapore) manages ~US$800M across 6 funds and is best known as an early Series A backer of Gojek. It invests early- and growth-stage in tech-native SEA companies including Halodoc, Kredivo and Pluang."
+    },
+    "sources": [
+      {
+        "url": "https://www.openspacecapital.com/",
+        "title": "Openspace Capital",
+        "publisher": "Openspace Ventures",
+        "accessed": "2026-06-02",
+        "supports": "AUM, number of funds, HQ, founders, stages",
+        "quote": "US$800M in committed capital across 6 funds ... Shane Chesson ... 35 North Canal Road, 04-01 Singapore 059291 ... early and growth stage"
+      },
+      {
+        "url": "https://techcrunch.com/2018/08/14/openspace-ventures-closes-135m-fund/",
+        "title": "Openspace Ventures closes new $135M fund for Southeast Asia",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "founding year, founders, Gojek backing",
+        "quote": "Founded in 2014 by entrepreneur Hian Goh and finance exec Shane Chesson ... early backer of Indonesian ride-hailing unicorn Go-Jek"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM US$800M across 6 funds from firm site; portfolio count '58' from Tracxn/secondary and not on the primary page. Founded 2014 by Hian Goh and Shane Chesson confirmed by TechCrunch.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "sea-wavemaker-partners",
+    "name": { "en": "Wavemaker Partners (Southeast Asia)" },
+    "aka": ["Wavemaker Partners", "Wavemaker Ventures"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2003,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "offices": [
+      { "country": "Singapore", "city": "Singapore" },
+      { "country": "United States", "city": "Los Angeles" }
+    ],
+    "website": "https://wavemaker.vc",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/wavemakerpartners",
+      "other": ["https://wavemakerpartners.com/", "https://wavemaker.vc/our-story/"]
+    },
+    "capital": {
+      "aum": { "raw": "over US$600 million across multiple funds", "usd": 600000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Southeast Asia"],
+      "sector_focus": ["saas-enterprise", "deeptech", "climate-energy", "impact"],
+      "thesis": "Southeast Asia's leading early-stage VC for Enterprise, Deep Tech and Sustainability/Climate-tech B2B startups; has backed 200+ companies since 2012 with US$2B+ in exit enterprise value."
+    },
+    "track_record": {
+      "portfolio_count": "200+",
+      "notable_investments": [
+        { "company": "Moka", "sector": "fintech", "outcome": "acquired" },
+        { "company": "TradeGecko", "sector": "saas-enterprise", "outcome": "acquired" }
+      ],
+      "exits": [
+        { "company": "Wavecell", "type": "M&A", "year": null, "value": { "raw": "acquired by 8x8", "usd": null, "currency": null } },
+        { "company": "TradeGecko", "type": "M&A", "year": null, "value": { "raw": "acquired by Intuit", "usd": null, "currency": null } },
+        { "company": "Red Dot Payment", "type": "M&A", "year": null, "value": { "raw": "acquired by PayU/Naspers", "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Paul Santos", "role": "Co-founder & Managing Partner (SE Asia)" },
+      { "name": "Eric Manlunas", "role": "Co-founder & Managing Partner" }
+    ],
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["brand-name", "early-stage", "enterprise", "deeptech", "singapore"],
+    "summary": {
+      "en": "Wavemaker Partners is Southeast Asia's leading early-stage B2B VC (Enterprise, Deep Tech, Sustainability), with over US$600M AUM and 200+ companies backed since 2012, generating US$2B+ in exit enterprise value (Wavecell, TradeGecko, Red Dot Payment)."
+    },
+    "sources": [
+      {
+        "url": "https://wavemaker.vc/our-story/",
+        "title": "Our Story - Wavemaker",
+        "publisher": "Wavemaker Partners",
+        "accessed": "2026-06-02",
+        "supports": "SEA office founding (2012), companies backed, committed capital, exit value",
+        "quote": "Since 2012, Wavemaker has backed 200+ companies across the region, with over US$500 million in total committed capital and exits generating over US$2 billion in enterprise value"
+      },
+      {
+        "url": "https://wowsglobal.com/resources/blogs-insights/wavemaker-partners-backing-southeast-asia-s-boldest-builders/",
+        "title": "Wavemaker Partners: Backing Southeast Asia's Boldest Builders",
+        "publisher": "WOWS Global",
+        "accessed": "2026-06-02",
+        "supports": "AUM over US$600M, founders, focus sectors",
+        "quote": "over US$600 million in assets under management (AUM) across multiple funds ... founded in 2003 by Eric Manlunas and B. Paul Santos"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Firm was founded 2003 (US/LA) but its dedicated SEA practice launched in Singapore in 2012; AUM 'over US$600M' from a secondary source while firm's own page cites 'over US$500 million in total committed capital'. Wavemaker now spans Ventures, Impact and Growth strategies. Some figures are firm-wide vs SEA-specific.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "sea-alpha-jwc-ventures",
+    "name": { "en": "Alpha JWC Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "hq_city": "Jakarta",
+    "offices": [
+      { "country": "Indonesia", "city": "Jakarta" },
+      { "country": "Singapore", "city": "Singapore" }
+    ],
+    "website": "https://www.alphajwc.com",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/alpha-jwc-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/alpha-jwc-ventures",
+      "other": ["https://e27.co/investor/alpha-jwc-ventures/"]
+    },
+    "capital": {
+      "aum": { "raw": "~US$700 million (also cited ~US$645M earlier)", "usd": 700000000, "currency": "USD" },
+      "current_fund": { "raw": "US$433 million (Fund III)", "usd": 433000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund III", "vintage_year": 2021, "size": { "raw": "US$433 million", "usd": 433000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Indonesia", "Southeast Asia"],
+      "sector_focus": ["generalist", "fintech", "consumer", "saas-enterprise", "logistics"],
+      "thesis": "Early-to-growth-stage VC, one of Southeast Asia's largest early-stage funds, backing fintech, consumer, SaaS and logistics startups primarily in Indonesia."
+    },
+    "track_record": {
+      "portfolio_count": "90+",
+      "notable_investments": [
+        { "company": "Kopi Kenangan", "sector": "consumer", "outcome": "unicorn" },
+        { "company": "Ajaib", "sector": "fintech", "outcome": "unicorn" }
+      ]
+    },
+    "people": [
+      { "name": "Jefrey Joe", "role": "Co-founder & General Partner" },
+      { "name": "Chandra Tjan", "role": "Co-founder & General Partner" },
+      { "name": "Will Ongkowidjaja", "role": "Co-founder & General Partner" }
+    ],
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["brand-name", "multi-stage", "generalist", "indonesia"],
+    "summary": {
+      "en": "Alpha JWC Ventures (founded 2015, Jakarta) is one of Southeast Asia's largest early-stage VCs. Its Fund III closed at US$433M (SEA's largest early-stage fund at the time); ~US$700M AUM and 90+ portfolio companies including unicorns Kopi Kenangan and Ajaib.",
+      "local": "Alpha JWC Ventures (didirikan 2015, Jakarta) adalah salah satu modal ventura tahap awal terbesar di Asia Tenggara. Dana ketiganya ditutup pada US$433 juta, dengan AUM sekitar US$700 juta dan lebih dari 90 perusahaan portofolio termasuk Kopi Kenangan dan Ajaib."
+    },
+    "sources": [
+      {
+        "url": "https://www.alphajwc.com/en/alpha-jwc-ventures-closes-seas-largest-early-stage-fund-at-usd-433-million-2/",
+        "title": "Alpha JWC Ventures closes SEA's largest early-stage fund at USD 433 million",
+        "publisher": "Alpha JWC Ventures",
+        "accessed": "2026-06-02",
+        "supports": "Fund III size, founding year, portfolio examples",
+        "quote": "USD 433 million ... 2015 ... Kopi Kenangan ... Ajaib"
+      },
+      {
+        "url": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/indonesia-vc-major-alpha-jwc-more-than-doubles-aum-with-433m-fund-iii-close.html",
+        "title": "Indonesia VC major Alpha JWC more than triples AUM with $433m Fund III close",
+        "publisher": "AltAssets",
+        "accessed": "2026-06-02",
+        "supports": "Fund III size, AUM growth",
+        "quote": "Indonesia VC major Alpha JWC more than triples AUM with $433m Fund III close"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund III US$433M is well documented as 'SEA's largest early-stage fund' at close (2021). AUM ~US$700M figure from secondary sources (firm's anniversary materials cite '90+ active portfolio companies and US$700m of AUM'); earlier 2025 references cite ~US$645M. Founded 2015.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "sea-gobi-partners",
+    "name": { "en": "Gobi Partners" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2002,
+    "region": "southeast-asia",
+    "country": "Malaysia",
+    "hq_city": "Kuala Lumpur",
+    "offices": [
+      { "country": "Malaysia", "city": "Kuala Lumpur" },
+      { "country": "Hong Kong", "city": "Hong Kong" },
+      { "country": "Singapore", "city": "Singapore" },
+      { "country": "Indonesia", "city": "Jakarta" }
+    ],
+    "website": "https://www.gobi.vc",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/gobipartners",
+      "other": ["https://en.wikipedia.org/wiki/Gobi_Partners"]
+    },
+    "capital": {
+      "aum": { "raw": "nearly US$2 billion (commonly cited ~US$1.6 billion)", "usd": 1600000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Southeast Asia", "North Asia", "South Asia"],
+      "sector_focus": ["generalist", "fintech", "ai-ml", "robotics", "biotech", "deeptech"],
+      "thesis": "Pan-Asian VC founded in Shanghai, now HQ in Kuala Lumpur & Hong Kong, with deep Southeast Asia roots; champions emerging markets and underserved founders across 16+ locations."
+    },
+    "track_record": {
+      "portfolio_count": "400+ (100+ in SEA)",
+      "notable_investments": [
+        { "company": "Carsome", "sector": "mobility", "outcome": "unicorn" },
+        { "company": "Funding Societies", "sector": "fintech", "outcome": "active" },
+        { "company": "PolicyStreet", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Thomas G. Tsao", "role": "Co-founder & Chairman (Malaysia)" }
+    ],
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["brand-name", "multi-stage", "pan-asia", "malaysia"],
+    "summary": {
+      "en": "Gobi Partners (founded 2002, HQ Kuala Lumpur & Hong Kong) is a leading Asia-focused VC with ~US$1.6-2B AUM, 20+ funds and 400+ startups, including 100+ in Southeast Asia such as Carsome and Funding Societies."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gobi_Partners",
+        "title": "Gobi Partners - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "founding year, AUM, HQ, funds, portfolio count",
+        "quote": "Gobi Partners is a leading Asia-focused venture capital firm with nearly US$2 billion in assets under management (AUM), headquartered in Kuala Lumpur and Hong Kong. Founded in 2002 ... raised 20+ funds, and has invested in over 400 startups"
+      },
+      {
+        "url": "https://www.dealstreetasia.com/stories/thomas-g-tsao-gobi-partners-interview-439873",
+        "title": "Despite tariff threats and funding crunch, Gobi Partners stays the course in SE Asia",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-02",
+        "supports": "SEA portfolio, founder, focus",
+        "quote": "Gobi has invested in over 100 companies in Southeast Asia, including Carsome, Funding Societies, HealthMetrics, Kumu, PolicyStreet"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM cited as 'nearly US$2 billion' (Wikipedia) and ~US$1.6B (other secondary sources). Founded 2002 in Shanghai; now dual HQ Kuala Lumpur & Hong Kong — included here for its dominant SEA presence (KL HQ). Borderline 'pan-Asia' vs SEA-only.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "sea-ac-ventures",
+    "name": { "en": "AC Ventures" },
+    "aka": ["ACV", "ACV Capital"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "hq_city": "Jakarta",
+    "offices": [
+      { "country": "Indonesia", "city": "Jakarta" },
+      { "country": "Singapore", "city": "Singapore" }
+    ],
+    "website": "https://acv.vc",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/ac-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/acventures"
+    },
+    "capital": {
+      "aum": { "raw": "US$550M+", "usd": 550000000, "currency": "USD" },
+      "current_fund": { "raw": "US$210 million (Fund V, 2024, incl. co-investment)", "usd": 210000000, "currency": "USD" },
+      "funds": [
+        { "name": "ACV Fund V", "vintage_year": 2024, "size": { "raw": "US$210 million", "usd": 210000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Indonesia", "Southeast Asia"],
+      "sector_focus": ["generalist", "fintech", "ecommerce", "healthtech", "climate-energy", "logistics"],
+      "thesis": "Hands-on, value-creation-focused VC backing tech-enabled businesses in Indonesia and Southeast Asia across fintech, e-commerce, healthtech, climate, mobility and MSME enablement."
+    },
+    "track_record": {
+      "portfolio_count": "120+",
+      "notable_investments": [
+        { "company": "Stockbit", "sector": "fintech", "outcome": "active" },
+        { "company": "Shipper", "sector": "logistics", "outcome": "active" },
+        { "company": "Aruna", "sector": "agritech", "outcome": "active" },
+        { "company": "BukuWarung", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Adrian Li", "role": "Founder & Managing Partner" },
+      { "name": "Michael Soerijadji", "role": "Founder & Managing Partner" },
+      { "name": "Pandu Sjahrir", "role": "Founding Partner" }
+    ],
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["brand-name", "multi-stage", "generalist", "indonesia"],
+    "summary": {
+      "en": "AC Ventures (founded 2017, Jakarta) is a leading Indonesia/SEA VC with US$550M+ AUM across five funds and 120+ portfolio companies. Its 2024 Fund V closed at US$210M; known for hands-on value creation in fintech, e-commerce, healthtech and climate.",
+      "local": "AC Ventures (didirikan 2017, Jakarta) adalah modal ventura terkemuka untuk Indonesia/Asia Tenggara dengan AUM lebih dari US$550 juta di lima dana dan 120+ perusahaan portofolio. Dana kelimanya (2024) ditutup pada US$210 juta."
+    },
+    "sources": [
+      {
+        "url": "https://acv.vc/about/who-we-are/",
+        "title": "Who We Are - ACV Capital",
+        "publisher": "AC Ventures",
+        "accessed": "2026-06-02",
+        "supports": "AUM, number of funds, portfolio count, HQ, founders, sectors",
+        "quote": "$550M+ ... Five funds ... 120+ ... Michael Soerijadji ... Adrian Li ... Jakarta"
+      },
+      {
+        "url": "https://techcrunch.com/2024/01/22/ac-ventures-fund-v/",
+        "title": "AC Ventures closes its new $210M Indonesia-focused fund",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund V size",
+        "quote": "AC Ventures closes its new $210M Indonesia-focused fund"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM US$550M+ and 120+ portfolio confirmed on firm's own 'Who We Are' page; Fund V US$210M (incl. co-investment) confirmed by TechCrunch and firm. AC Ventures formed via 2019 merger of Agaeti and Convergence; firm cites ~8-year history, hence founded_year 2017.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "sea-insignia-ventures-partners",
+    "name": { "en": "Insignia Ventures Partners" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "offices": [
+      { "country": "Singapore", "city": "Singapore" }
+    ],
+    "website": "https://www.insignia.vc",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/insignia-ventures",
+      "other": ["https://www.insignia.vc/team"]
+    },
+    "capital": {
+      "aum": { "raw": "over US$1 billion (current investment valuation; >US$516M raised across funds)", "usd": 1000000000, "currency": "USD" },
+      "funds": [
+        { "name": "IVPF III", "vintage_year": null, "size": { "raw": "US$388 million", "usd": 388000000, "currency": "USD" } },
+        { "name": "Second fund (2019)", "vintage_year": 2019, "size": { "raw": "US$200 million", "usd": 200000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Southeast Asia"],
+      "sector_focus": ["generalist", "fintech", "consumer", "mobility", "ai-ml"],
+      "thesis": "Early-to-growth-stage VC managing capital from sovereign wealth funds and endowments, backing Southeast Asia's technology market leaders from seed to growth."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "GoTo", "sector": "mobility", "outcome": "IPO" },
+        { "company": "Carro", "sector": "mobility", "outcome": "unicorn" },
+        { "company": "Ajaib", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "Appier", "sector": "ai-ml", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Yinglan Tan", "role": "Founding Managing Partner & CEO" }
+    ],
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["brand-name", "multi-stage", "generalist", "singapore"],
+    "summary": {
+      "en": "Insignia Ventures Partners (founded 2017, Singapore) is an early-to-growth-stage VC founded by Yinglan Tan. It raised US$516M for its third fund vintage and backs SEA tech leaders including GoTo, Carro, Ajaib and Appier; current investment valuation exceeds US$1B."
+    },
+    "sources": [
+      {
+        "url": "https://hivelife.com/insignia-ventures-partners/",
+        "title": "Insignia Ventures Partners Raises US$516M for Startups in ASEAN",
+        "publisher": "Hive Life",
+        "accessed": "2026-06-02",
+        "supports": "fund sizes, founder, valuation, portfolio",
+        "quote": "US$516 million ... US$388 million for IVPF III ... US$100 million for Annex Fund I ... Yinglan Tan ... Its current investment valuation stands over US$1 billion"
+      },
+      {
+        "url": "https://asiatechdaily.com/yinglan-tan-insignia-ventures-partners/",
+        "title": "Yinglan Tan, Insignia Ventures Partners",
+        "publisher": "Asia Tech Daily",
+        "accessed": "2026-06-02",
+        "supports": "founding year, founder, focus, portfolio",
+        "quote": "Yinglan founded Insignia Ventures Partners in 2017 ... It manages more than US$350 million in assets ... GoTo ... Appier ... Carro ... Ajaib"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2017 by Yinglan Tan. AUM figures vary by source/date: earlier 'US$350M', third-fund vintage raised US$516M (IVPF III US$388M + Annex Fund I US$100M + US$28M pool), 'current investment valuation over US$1B'. Insignia's site is JS-rendered; numbers from reputable secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  },
+  {
+    "id": "sea-intudo-ventures",
+    "name": { "en": "Intudo Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "hq_city": "Jakarta",
+    "offices": [
+      { "country": "Indonesia", "city": "Jakarta" }
+    ],
+    "website": "https://intudovc.com",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/intudo-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/intudo-ventures",
+      "other": ["https://intudovc.com/team/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "US$75 million (Intudo Ventures IV, 2024)", "usd": 75000000, "currency": "USD" },
+      "funds": [
+        { "name": "Intudo Ventures IV", "vintage_year": 2024, "size": { "raw": "US$75 million", "usd": 75000000, "currency": "USD" } },
+        { "name": "Intudo Ventures III", "vintage_year": 2021, "size": { "raw": "US$115 million", "usd": 115000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "US$1M – US$10M", "usd_min": 1000000, "usd_max": 10000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Indonesia"],
+      "sector_focus": ["generalist", "fintech", "consumer", "healthtech", "agritech"],
+      "thesis": "'Indonesia-only' VC with a concentrated portfolio (14-18 companies per fund), investing 100% in Indonesia to capitalize on rising private consumption and the middle class."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Pintu", "sector": "fintech", "outcome": "unicorn" },
+        { "company": "TaniHub", "sector": "agritech", "outcome": "active" },
+        { "company": "Xendit", "sector": "fintech", "outcome": "unicorn" }
+      ]
+    },
+    "people": [
+      { "name": "Patrick Yip", "role": "Founding Partner" },
+      { "name": "Eddy Chan", "role": "Founding Partner" }
+    ],
+    "application": { "how_to_apply": "Via website / warm intro", "accepts_cold_inbound": null },
+    "tags": ["brand-name", "indonesia-only", "early-stage", "indonesia"],
+    "summary": {
+      "en": "Intudo Ventures (founded 2017, Jakarta) is the first 'Indonesia-only' VC, investing 100% in Indonesia with a concentrated 14-18 company portfolio per fund and US$1M-US$10M checks. Fund IV closed at US$75M in 2024.",
+      "local": "Intudo Ventures (didirikan 2017, Jakarta) adalah modal ventura 'khusus Indonesia' pertama, berinvestasi 100% di Indonesia dengan portofolio terkonsentrasi 14-18 perusahaan per dana dan cek US$1 juta hingga US$10 juta. Dana keempat ditutup pada US$75 juta pada 2024."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2024/11/11/indonesian-vc-firm-intudo-closes-125m-across-two-investment-funds/",
+        "title": "Indonesian VC firm Intudo raises $125M across two funds",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "founding date, Fund IV size, check size, concentration, Indonesia-only thesis",
+        "quote": "Intudo was launched by founding partners Patrick Yip and Eddy Chan in June 2017 ... $75 million for Intudo Ventures IV ... checks between $1 million and $10 million ... targeting a portfolio of 14-18 Indonesian companies"
+      },
+      {
+        "url": "https://techcrunch.com/2021/09/07/indonesia-focused-intudo-ventures-closes-oversubscribed-115m-third-fund/",
+        "title": "Indonesia-focused Intudo Ventures closes $115M third fund",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund III size",
+        "quote": "Indonesia-focused Intudo Ventures closes $115M third fund"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded June 2017 by Patrick Yip and Eddy Chan. Fund IV US$75M (2024) and Fund III US$115M (2021) both from TechCrunch. Total AUM not published as a single figure. Xendit/Pintu portfolio outcomes from ecosystem knowledge; check the firm's portfolio page for current list.",
+    "last_updated": "2026-06-02",
+    "researched_by": "tier1-vc"
+  }
+]

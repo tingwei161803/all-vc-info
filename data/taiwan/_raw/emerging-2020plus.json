@@ -1,0 +1,475 @@
+[
+  {
+    "id": "tw-taiwan-global-angels",
+    "name": { "en": "Taiwan Global Angels", "local": "" },
+    "aka": ["TGA"],
+    "type": "angel-network",
+    "subtypes": ["angel-syndicate", "accelerator"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Berkeley / Taipei",
+    "offices": [
+      { "country": "United States", "city": "Berkeley" },
+      { "country": "Taiwan", "city": "Taipei" }
+    ],
+    "website": "https://www.taiwanglobalangels.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/taiwan-global-angels",
+      "crunchbase": "https://www.crunchbase.com/organization/taiwan-global-angels",
+      "other": ["https://pitchbook.com/profiles/investor/519843-61"]
+    },
+    "capital": {
+      "aum": { "raw": "investment amounts have exceeded NT$600 million (cumulative since 2022)", "usd": null, "currency": "TWD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "USD$300K-500K for Pre-A and Series A deals; USD$1M-3M for later-stage", "usd_min": 300000, "usd_max": 3000000 },
+      "geo_focus": ["United States", "Taiwan"],
+      "sector_focus": ["deeptech", "ai-ml", "healthtech", "robotics", "hardware-semiconductor"],
+      "thesis": "A cross-Pacific angel network ('angel accelerator') founded by IC Chan and Bryan Huang that connects Taiwan's angel investors and industry resources with Silicon Valley / Bay Area startups, focusing on early-stage deep tech, industrial automation, medtech and AI that can leverage Taiwan's manufacturing, healthcare and channel strengths."
+    },
+    "track_record": {
+      "portfolio_count": "16+",
+      "notable_investments": [
+        { "company": "Botrista", "sector": "robotics", "outcome": "active" },
+        { "company": "Butlr", "sector": "ai-ml", "outcome": "active" },
+        { "company": "CapsoVision", "sector": "healthtech", "outcome": "active" },
+        { "company": "Figur8", "sector": "healthtech", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "IC Chan (詹益鑑)", "role": "Co-founder", "linkedin": "https://www.linkedin.com/in/icjan/" },
+      { "name": "Bryan Huang (黃沛聲)", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Taiwan Global Angels (TGA) is a Berkeley- and Taipei-based cross-Pacific angel network founded in early 2022 by IC Chan (詹益鑑) and lawyer Bryan Huang (黃沛聲). Positioned as an 'angel accelerator', it channels Taiwanese angel capital and industry know-how into early-stage Silicon Valley startups in deep tech, medtech, robotics and AI. Typical checks are US$300K-500K (Pre-A/Series A) and cumulative investment has exceeded NT$600M.",
+      "local": "Taiwan Global Angels（TGA）是 2022 年初由詹益鑑（IC）與律師黃沛聲共同創立、橫跨台灣與矽谷的天使投資網絡，總部設於美國柏克萊與台北。定位為「天使加速器」，將台灣天使資金與產業資源導入矽谷早期深科技、醫療科技、機器人與 AI 新創。Pre-A／A 輪單筆約 30–50 萬美元，累計投資金額已逾新台幣 6 億元。"
+    },
+    "sources": [
+      {
+        "url": "https://www.taiwanglobalangels.com/",
+        "title": "Home | Taiwan Global Angels",
+        "publisher": "Taiwan Global Angels",
+        "accessed": "2026-06-02",
+        "supports": "check size, sector/stage focus, 16 portfolio companies, US/Taiwan HQ",
+        "quote": "USD$300K-500K for Pre-A and Series A deals. We also have invested lager checks for later stage startups with USD$1M-3M"
+      },
+      {
+        "url": "https://sunrisemedium.com/p/218/taiwan-global-angels",
+        "title": "台灣天使俱樂部凝聚矽谷資源，群聚效益迎戰全球市場",
+        "publisher": "Sunrise 旭時報",
+        "accessed": "2026-06-02",
+        "supports": "founded 2022, founders IC Chan & Bryan Huang, NT$600M+ invested, connects Taiwan & Silicon Valley",
+        "quote": "From its founding in 2022, investment amounts have exceeded NT$600 million"
+      },
+      {
+        "url": "https://www.inside.com.tw/feature/side-chat/36655-side-chat-e288",
+        "title": "詹益鑑：TGA 創辦人｜台灣天使投資矽谷新創，看到哪些機會？",
+        "publisher": "INSIDE",
+        "accessed": "2026-06-02",
+        "supports": "founder IC Chan, TGA founded early 2022, Bay Area focus, founder background as startup advisor at Berkeley SkyDeck",
+        "quote": "TGA 創辦人 ... 台灣天使投資矽谷新創"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded early 2022 (Feb) per multiple secondary sources; founders IC Chan (詹益鑑) and Bryan Huang (黃沛聲). Cumulative investment 'exceeded NT$600M' from Sunrise 旭時報 (secondary). Portfolio count ~16 from the firm's own portfolio page (Botrista, Butlr, CapsoVision, Figur8, Aulea Medical, Fiber Global, etc.). It is a member-based angel network rather than a pooled VC fund, so no single fund size exists. HQ listed as Berkeley, CA with Taiwan operations.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "tw-tta-south",
+    "name": { "en": "Taiwan Tech Arena South (TTA South)", "local": "國科會南台灣科技新創基地" },
+    "aka": ["TTA SOUTH", "TTA 南部據點", "南台灣科技新創基地"],
+    "type": "government-program",
+    "subtypes": ["accelerator", "incubator"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Tainan",
+    "offices": [
+      { "country": "Taiwan", "city": "Tainan (Shalun Smart Green Energy Science City, Guiren District)" }
+    ],
+    "website": "https://www.taiwanarena.tech/",
+    "links": {
+      "linkedin": "https://tw.linkedin.com/company/taiwantecharena",
+      "other": ["https://www.tainan.gov.tw/news_content.aspx?n=5035&s=7939072", "https://startup.sme.gov.tw/home/modules/rmap/space_detail.php?sId=629"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Taiwan", "Global"],
+      "sector_focus": ["deeptech", "healthtech", "climate-energy", "cybersecurity", "ai-ml"],
+      "thesis": "The southern hub of the National Science and Technology Council's flagship Taiwan Tech Arena program, located in Tainan's Shalun Smart Green Energy Science City, focused on three verticals — Smart Tech, Precision Medicine, and Clean & Circular Tech — and offering Taiwan's most comprehensive tech verification/demonstration sites for deep-tech startups outside the Taipei hub."
+    },
+    "program": {
+      "cohort_size": 28,
+      "format": "in-person",
+      "location": "Tainan (Shalun Smart Green Energy Science City, C Zone, Cybersecurity & Smart Technology R&D Building)",
+      "demo_day": true,
+      "perks": ["co-creation space (4,290 sqm)", "tech verification & demonstration sites", "international investor network", "mentoring"],
+      "eligibility": "Tech startups in smart tech, precision medicine, clean & circular tech"
+    },
+    "track_record": {
+      "portfolio_count": "28 (first cohort)",
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "TTA South (國科會南台灣科技新創基地) is the Tainan-based southern hub of the National Science and Technology Council's flagship Taiwan Tech Arena (TTA, est. 2018) program. Opened in late 2021 in the Shalun Smart Green Energy Science City with a 4,290 sqm co-creation space, it admitted a first cohort of 28 startups and focuses on Smart Tech, Precision Medicine and Clean & Circular Tech — bringing TTA's international-grade acceleration outside the Taipei hub.",
+      "local": "TTA South（國科會南台灣科技新創基地）是國家科學及技術委員會旗艦計畫 Taiwan Tech Arena（TTA，2018 年成立）設於台南的南部據點。2021 年底於沙崙智慧綠能科學園區啟用，擁有約 4,290 平方公尺共創空間，首波進駐 28 家新創，聚焦智慧科技、精準醫療與淨零循環科技，將 TTA 的國際級加速能量延伸至台北以外的南台灣。"
+    },
+    "sources": [
+      {
+        "url": "https://www.taiwanarena.tech/about/",
+        "title": "About TTA — Taiwan Tech Arena",
+        "publisher": "Taiwan Tech Arena (NSTC)",
+        "accessed": "2026-06-02",
+        "supports": "TTA founded 2018 by NSTC; TTA South in Tainan Shalun, 4,290 sqm, 3 verticals, 100+ investors, 200+ alumni funded",
+        "quote": "Strategically located in Tainan, TTA South boasts a beautiful, multi-functional co-creation space of 4,290 sqm. Situated in the Shalun Smart Green Energy Science City, TTA South focuses on three industry verticals: Smart Tech, Precision Medicine as well as Clean & Circular Tech"
+      },
+      {
+        "url": "https://www.tainan.gov.tw/news_content.aspx?n=5035&s=7939072",
+        "title": "【新創升空 一鳴驚人】 國科會南台灣科技新創基地（TTA SOUTH）一週年焦點儀式",
+        "publisher": "Tainan City Government (臺南市政府)",
+        "accessed": "2026-06-02",
+        "supports": "TTA South one-year anniversary ceremony on 2022-12-16, implying late-2021 launch; located in Shalun, Guiren District, Tainan",
+        "quote": "111-12-16 ... TTA台灣科技新創基地南部據點 (沙崙智慧綠能科學園區-C區-資安暨智慧科技研發大樓) (歸仁區歸仁十三路一段6號)"
+      },
+      {
+        "url": "https://startup.sme.gov.tw/home/modules/rmap/space_detail.php?sId=629",
+        "title": "臺南市 TTA南部據點 - 創育機構",
+        "publisher": "新創圓夢網 (SME Administration, MOEA)",
+        "accessed": "2026-06-02",
+        "supports": "TTA South is the NSTC southern hub located at Shalun Smart Green Energy Science City C Zone, Tainan",
+        "quote": "TTA（Taiwan Tech Arena）南部據點 ... 沙崙智慧綠能科學園區"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "TTA itself was launched by the National Science and Technology Council (NSTC, formerly MOST) in 2018; TTA South is its Tainan southern hub. The hosting Cybersecurity & Smart Technology R&D Building was launched 24 Apr 2021, and the TTA South one-year anniversary ceremony was held 16 Dec 2022 — so TTA South effectively opened in late 2021. First cohort of 28 startups reported by 工商時報 (could not re-fetch live; flagged). 4,290 sqm and 3 verticals from official TTA site. This is a government program, not a fund — no capital/check-size figures.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "tw-startup-terrace-kaohsiung",
+    "name": { "en": "Taiwan Startup Terrace Kaohsiung Hub", "local": "亞灣新創園 / 創業台灣高雄基地" },
+    "aka": ["Startup Terrace Kaohsiung", "亞灣新創園", "Yawan Startup"],
+    "type": "government-program",
+    "subtypes": ["incubator", "accelerator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Kaohsiung",
+    "offices": [
+      { "country": "Taiwan", "city": "Kaohsiung (Qianzhen District, Asia New Bay Area)" }
+    ],
+    "website": "https://www.startupterrace.tw/en/",
+    "links": {
+      "other": ["https://www.startupterrace.tw/en/cp.aspx?n=1677"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Taiwan", "Southeast Asia"],
+      "sector_focus": ["ai-ml", "hardware-semiconductor", "logistics", "deeptech"],
+      "thesis": "The Kaohsiung (Asia New Bay Area) hub of the MOEA's Taiwan Startup Terrace, providing subsidised offices, proof-of-concept space, accelerator consulting and international matchmaking for AIoT, 5G, motion-sensing, maritime-tech and smart-manufacturing startups in southern Taiwan — a non-Taipei base for emerging founders and foreign accelerators."
+    },
+    "program": {
+      "format": "in-person",
+      "location": "Kaohsiung (Qianzhen District)",
+      "perks": [
+        "independent offices NT$24,200-NT$66,000/month",
+        "co-working seats NT$3,600/month",
+        "proof-of-concept space, demo showcase",
+        "international resource connection, accelerator consulting, business matchmaking"
+      ],
+      "eligibility": "Startups in AIoT, 5G, motion sensing, maritime tech, smart manufacturing; also local/foreign accelerators"
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true, "contact": "hello@yawan-startup.tw" },
+    "summary": {
+      "en": "The Taiwan Startup Terrace Kaohsiung Hub is the southern (Asia New Bay Area) base of the Ministry of Economic Affairs' Taiwan Startup Terrace program, run by the SME & Startup Administration with the Taipei Computer Association. Located in Qianzhen District, Kaohsiung, it offers subsidised offices (NT$24,200-66,000/month), co-working seats (NT$3,600/month), PoC space and accelerator/matchmaking services for AIoT, 5G, maritime-tech and smart-manufacturing startups — a non-Taipei landing pad for emerging founders.",
+      "local": "創業台灣高雄基地（亞灣新創園）是經濟部「Taiwan Startup Terrace 林口新創園」計畫的南部據點，由中小及新創企業署委由台北市電腦公會營運，位於高雄市前鎮區亞洲新灣區。提供補貼辦公室（每月 24,200–66,000 元）、共享座位（每月 3,600 元）、概念驗證空間與加速器顧問、商業媒合等服務，鎖定 AIoT、5G、體感、海洋科技與智慧製造新創，是台北以外的早期創業據點。"
+    },
+    "sources": [
+      {
+        "url": "https://www.startupterrace.tw/en/cp.aspx?n=1677",
+        "title": "Taiwan Startup Terrace - Kaohsiung Hub",
+        "publisher": "Taiwan Startup Terrace (SME & Startup Administration, MOEA)",
+        "accessed": "2026-06-02",
+        "supports": "Kaohsiung Qianzhen location, operator MOEA SME Administration + Taipei Computer Association, office pricing, focus sectors",
+        "quote": "3F., No. 25, Chenggong 2nd Rd., Qianzhen Dist., Kaohsiung City ... Independent offices ... NT$24,200-NT$66,000/month ... Co-working seats: NT$3,600/month per seat ... AIoT, 5G, motion sensing, maritime technology, and smart manufacturing"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Government program (not a fund). Operated by the MOEA Small and Medium Enterprise & Startup Administration with the Taipei Computer Association. Exact opening year of the Kaohsiung hub not pinned to a single source (the broader Startup Terrace Linkou base opened 2019; the Kaohsiung/Asia New Bay Area hub is a later southern expansion) — founded_year left null. Office pricing and focus sectors from the official site. Included as a non-Taipei (Kaohsiung) emerging-founder base for this segment.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "tw-starfab-hsinchu-aiot-accelerator",
+    "name": { "en": "StarFab Hsinchu AIoT Accelerator", "local": "新竹AIoT加速器" },
+    "aka": ["Hsinchu AIoT Accelerator", "StarFab Accelerator (Hsinchu)", "新竹AIoT定向加速器"],
+    "type": "accelerator",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Zhubei (Hsinchu County)",
+    "offices": [
+      { "country": "Taiwan", "city": "Zhubei City, Hsinchu County" }
+    ],
+    "website": "https://www.starfabx.com/the-hsinchu-aiot-accelerator-ignites-technological-aspirations-propelling-startups-to-new-heights/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/starfab-accelerator",
+      "other": ["https://zh.starfabx.com/hsinchu_aiot_accelerator/", "https://www.starfabx.com/hsinchu_aiot_accelerator_20240703/"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["ai-ml", "hardware-semiconductor", "deeptech", "robotics"],
+      "thesis": "A themed AIoT acceleration program co-created since 2022 by StarFab Accelerator and the Hsinchu County Government for the greater Hsinchu area, matching AIoT / generative-AI / cloud startups with regional corporate partners (Accton, King Ray Optronics, Systex, Wiadvance, etc.) through field validation and a year-end Demo Day."
+    },
+    "program": {
+      "length_weeks": 16,
+      "cohort_size": "~5 selected potential teams (field-validation subsidy)",
+      "batches_per_year": 1,
+      "format": "hybrid",
+      "location": "Zhubei City, Hsinchu County",
+      "demo_day": true,
+      "perks": ["4 months of co-creation mentoring", "field validation subsidy", "corporate matchmaking", "year-end Demo Day"],
+      "eligibility": "AIoT / AI / generative AI / cloud startups, greater Hsinchu focus"
+    },
+    "track_record": {
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "The Hsinchu AIoT Accelerator (新竹AIoT加速器) is a themed acceleration program co-created since 2022 by StarFab Accelerator (Taiwan's largest corporate-startup accelerator, est. 2016) and the Hsinchu County Government for the greater Hsinchu area. Run under the 'Youth Entrepreneurship — Turning Dreams into Reality' program, it offers ~4 months of co-creation mentoring, field-validation subsidies for ~5 potential teams, corporate matchmaking and a year-end Demo Day, focusing on AIoT, generative AI and cloud — a non-Taipei accelerator in Taiwan's semiconductor heartland.",
+      "local": "新竹AIoT加速器是 StarFab 加速器（全台最大產業加速器，2016 年成立）自 2022 年起與新竹縣政府共同為大新竹地區打造的 AIoT 主題定向加速器。隸屬「青年創業—築夢踏實」計畫，提供約 4 個月共創輔導、為約 5 組潛力團隊提供場域驗證補助、企業媒合及年末成果博覽會（Demo Day），聚焦 AIoT、生成式 AI 與雲端，是位於台灣半導體核心區、台北以外的加速器。"
+    },
+    "sources": [
+      {
+        "url": "https://zh.starfabx.com/hsinchu_aiot_accelerator/",
+        "title": "新竹AIoT加速器 | StarFab Accelerator",
+        "publisher": "StarFab Accelerator",
+        "accessed": "2026-06-02",
+        "supports": "launched 2022 with Hsinchu County Government, 4-month mentoring, ~5 teams, year-end Demo Day, corporate partners",
+        "quote": "從2022年起共同為大新竹地區量身打造的AIoT為主題之定向育成加速器 ... 5組潛力團隊 ... 年末舉辦成果博覽會(Demo Day)"
+      },
+      {
+        "url": "https://www.starfabx.com/the-hsinchu-aiot-accelerator-ignites-technological-aspirations-propelling-startups-to-new-heights/",
+        "title": "AIoT Accelerator: Startup Tech Leap | StarFab Accelerator",
+        "publisher": "StarFab Accelerator",
+        "accessed": "2026-06-02",
+        "supports": "Hsinchu AIoT Accelerator established 2022 as StarFab + Hsinchu County Government collaboration, AIoT theme",
+        "quote": "the Hsinchu AIoT Accelerator ... collaboration between StarFab and the Hsinchu County Government"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Parent StarFab Accelerator is HQ'd in Taipei (founded 2016, per Crunchbase/secondary; some sources say 2012). This Hsinchu AIoT Accelerator program is the non-Taipei (Zhubei/Hsinchu County) vehicle launched in 2022 with the Hsinchu County Government — the part that fits the 2020+/non-hub segment. Program is grant/mentorship-based (no equity/cash investment figure published); cohort '~5 potential teams' refers to field-validation subsidy recipients, not total applicants.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "tw-mosaic-venture-lab",
+    "name": { "en": "Mosaic Venture Lab", "local": "" },
+    "aka": ["MVL", "Movtec Mobility Fund I"],
+    "type": "venture-studio",
+    "subtypes": ["vc", "accelerator"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei (Taiwan Tech Arena)" }
+    ],
+    "website": "https://www.mvl.biz/",
+    "links": {
+      "linkedin": "https://ga.linkedin.com/company/mosaic-venture-lab",
+      "crunchbase": "https://www.crunchbase.com/organization/mosaic-venture-lab",
+      "other": ["https://www.prnewswire.com/apac/news-releases/fsp-group-and-mosaic-venture-lab-launch-incubation-fund-to-propel-taiwanese-startups-onto-the-global-stage-302472682.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Movtec Mobility Fund I", "vintage_year": null, "size": { "raw": "US$100 million (announced target)", "usd": 100000000, "currency": "USD" } },
+        { "name": "FSP-MVL Innovation & Sustainability Fund (FSP Mosaic Innovation Sustainability L.P.)", "vintage_year": 2025, "size": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Taiwan", "Japan", "South Korea"],
+      "sector_focus": ["mobility", "hardware-semiconductor", "ai-ml", "climate-energy"],
+      "thesis": "A mobility-focused venture lab / company builder bridging global automotive leaders (VW Group, Audi, Continental) with East Asia's advanced-manufacturing ecosystems, investing in EVs, smart connectivity and autonomous driving; raising the US$100M Movtec Mobility Fund I and a 2025 FSP-MVL Innovation & Sustainability seed fund with power-supply maker FSP Group."
+    },
+    "track_record": {
+      "notable_investments": [],
+      "co_investors": ["FSP Group"]
+    },
+    "people": [
+      { "name": "Volker Heistermann", "role": "Co-founder & Managing Director" },
+      { "name": "Ken Huang", "role": "Co-founder" },
+      { "name": "Johnny Yu", "role": "Operating Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Mosaic Venture Lab (MVL) is a Taipei-based, mobility-focused venture lab / company builder operating from Taiwan Tech Arena, co-founded around 2018 by Volker Heistermann, Ken Huang and Johnny Yu. It bridges global automakers (VW Group, Audi, Continental) with East-Asian manufacturing and is raising new vehicles — the announced US$100M Movtec Mobility Fund I and, in 2025, a seed-stage FSP-MVL Innovation & Sustainability Fund jointly with TWSE-listed power maker FSP Group (3015) targeting semiconductors, mobility and AI.",
+      "local": "Mosaic Venture Lab（MVL）是位於台北、進駐 Taiwan Tech Arena 的智慧移動創業工作室，約 2018 年由 Volker Heistermann、Ken Huang 與 Johnny Yu 共同創立，串接全球車廠（福斯集團、奧迪、Continental）與東亞先進製造。近年募集新基金——對外宣布的 1 億美元 Movtec Mobility Fund I，以及 2025 年與上市電源廠全漢（FSP，3015）合資、聚焦半導體／移動／AI 的種子期 FSP-MVL 創新永續基金。"
+    },
+    "sources": [
+      {
+        "url": "https://meet-global.bnext.com.tw/articles/view/47360",
+        "title": "Mosaic Venture Lab spot the potential of developing Electric Vehicle in Taiwan, and raise a US$100 million new fund",
+        "publisher": "Meet Global (Business Next)",
+        "accessed": "2026-06-02",
+        "supports": "Movtec Mobility Fund I target US$100M, EV/mobility focus, Taiwan global startups",
+        "quote": "a new EV venture capital fund called Movtec Mobility Fund I that will invest US$100 million in Taiwanese and global startup companies"
+      },
+      {
+        "url": "https://www.prnewswire.com/apac/news-releases/fsp-group-and-mosaic-venture-lab-launch-incubation-fund-to-propel-taiwanese-startups-onto-the-global-stage-302472682.html",
+        "title": "FSP Group and Mosaic Venture Lab Launch Incubation Fund to Propel Taiwanese Startups onto the Global Stage",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-02",
+        "supports": "2025 FSP-MVL Innovation & Sustainability Fund, seed stage, semiconductors/mobility/AI focus, expected Q3 2025",
+        "quote": "Expected Q3 2025 ... Semiconductors (advanced packaging, sensors, AI chips), Mobility ... Artificial Intelligence ... Seed stage startups"
+      },
+      {
+        "url": "https://www.mvl.biz/about",
+        "title": "About — Mosaic Venture Lab",
+        "publisher": "Mosaic Venture Lab",
+        "accessed": "2026-06-02",
+        "supports": "founders Volker Heistermann/Ken Huang/Johnny Yu, EV/AV/connected focus, geo Taiwan/Japan/Korea, founded ~2018",
+        "quote": "Mosaic Venture Lab accelerates the future of mobility by bridging global automotive leaders with East Asia's advanced manufacturing ecosystems"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "BORDERLINE for this segment: Mosaic Venture Lab itself was co-founded ~2018 in Taipei (not 2020+ and in the hub city). It is included because its actual investment vehicles are emerging/new — the announced US$100M Movtec Mobility Fund I and the 2025 FSP-MVL Innovation & Sustainability seed fund — and because it is a thin, non-traditional manager easily missed by other segments. Movtec Mobility Fund I is an 'announced target' (US$100M) not a confirmed close; FSP-MVL fund size undisclosed. Dedup expected if a mobility/CVC segment also captured it.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "tw-sheng-peng-fund-dcb",
+    "name": { "en": "Sheng Peng Fund No.1 (DCB)", "local": "生鵬一號基金" },
+    "aka": ["生鵬一號創業投資", "DCB venture fund", "Sheng Peng No.1"],
+    "type": "vc",
+    "subtypes": ["venture-studio", "government-program"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei (Nangang, National Biotechnology Research Park)" }
+    ],
+    "website": "https://www.dcb.org.tw/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/development-center-for-biotechnology",
+      "other": ["https://money.udn.com/money/story/10161/5284525", "https://findit.org.tw/researchPageV2.aspx?pageId=1989"]
+    },
+    "capital": {
+      "current_fund": { "raw": "NT$2 billion (生鵬一號基金)", "usd": null, "currency": "TWD" },
+      "funds": [
+        { "name": "生鵬一號基金 (Sheng Peng Fund No.1)", "vintage_year": 2022, "size": { "raw": "NT$2 billion", "usd": null, "currency": "TWD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["Taiwan", "Asia"],
+      "sector_focus": ["biotech", "healthtech"],
+      "thesis": "A NT$2 billion biotech venture fund established by Taiwan's government-affiliated Development Center for Biotechnology (DCB), backed by domestic private capital, the National Development Fund and Japanese/Singaporean investors, to invest in medical devices and new-drug startups and pull DCB-incubated 'Venture Studio' teams into international markets."
+    },
+    "track_record": {
+      "notable_investments": [],
+      "co_investors": ["National Development Fund"]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": false },
+    "summary": {
+      "en": "Sheng Peng Fund No.1 (生鵬一號基金) is a NT$2 billion biotech venture fund set up by Taiwan's government-affiliated Development Center for Biotechnology (DCB). Announced in 2021 and targeted to launch in 2022, it was a landmark vehicle that broke a 20-year rule limiting government-founded foundations from investing, drawing on domestic private capital, the National Development Fund and Japanese/Singaporean LPs to fund medical-device and new-drug startups alongside DCB's incubation 'Venture Studio'.",
+      "local": "生鵬一號基金是由我國財團法人生物技術開發中心（DCB）設立、規模約新台幣 20 億元的生技創投基金。2021 年宣布、規劃 2022 年成立，是突破財團法人逾 20 年投資限制的指標性基金，資金來自國內民間、國發基金及日本、新加坡投資人，投資醫材與新藥新創，並與 DCB 的育成「Venture Studio」平台串接，協助團隊進軍國際市場。"
+    },
+    "sources": [
+      {
+        "url": "https://money.udn.com/money/story/10161/5284525",
+        "title": "打破限制 生技中心將設創投基金",
+        "publisher": "經濟日報 (Economic Daily News)",
+        "accessed": "2026-06-02",
+        "supports": "DCB NT$2B fund 生鵬一號, breaks 20-year foundation investment limit, LPs (NDF, Japan, Singapore), medical device/new drug focus",
+        "quote": "生鵬一號基金 ... 規模新台幣20億元 ... 資金來源包括國內民間、國發基金，以及來自日本與新加坡的投資"
+      },
+      {
+        "url": "https://findit.org.tw/researchPageV2.aspx?pageId=1989",
+        "title": "【臺灣新創圈熱點-2022 No.5】支持臺灣新創，天使基金、文創基金與生技基金齊報到!",
+        "publisher": "FINDIT (台灣經濟研究院)",
+        "accessed": "2026-06-02",
+        "supports": "生鵬一號 NT$2B biotech fund announced 25 Mar 2022, target establishment Q3 2022, run by DCB",
+        "quote": "生鵬一號基金 ... 規模新台幣20億元 ... 生物技術開發中心 ... 醫材、新藥"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Fund size NT$2B and biotech (medical-device/new-drug) focus are well-sourced (Economic Daily + FINDIT). Timeline: first reported 2021 (DCB planned management company approval Apr 2021), formal announcement 25 Mar 2022 with target establishment Q3 2022 — founded_year set to 2022. DCB itself (est. 1984) is HQ'd in Nangang, Taipei (National Biotechnology Research Park). Could not confirm a fund close / current AUM, hence low confidence; usd left null (no confident NT$->USD rate at vintage).",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  },
+  {
+    "id": "tw-manny-fund-no1",
+    "name": { "en": "Manny Fund No.1", "local": "曼尼一號" },
+    "aka": ["曼尼一號基金", "Mannitok Fund No.1", "曼尼托克"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "",
+    "links": {
+      "other": ["https://findit.org.tw/researchPageV2.aspx?pageId=1989"]
+    },
+    "capital": {
+      "current_fund": { "raw": "NT$1 billion (曼尼一號)", "usd": null, "currency": "TWD" },
+      "funds": [
+        { "name": "曼尼一號 (Manny Fund No.1)", "vintage_year": 2022, "size": { "raw": "NT$1 billion", "usd": null, "currency": "TWD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["gaming", "consumer"],
+      "thesis": "A NT$1 billion cultural-technology venture fund managed by Mannitok Management Consulting (曼尼托克管顧), established with Taiwan Business Bank, to back the digital film & TV IP industry, cultural-artistic technology and digital cultural-media platforms."
+    },
+    "track_record": {
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "summary": {
+      "en": "Manny Fund No.1 (曼尼一號) is a NT$1 billion cultural-technology venture fund announced in March 2022, managed by Mannitok Management Consulting (曼尼托克管顧) and established together with Taiwan Business Bank (台企銀). It targets the digital film & TV IP industry, cultural-artistic technology and digital cultural-media platforms — one of the emerging Taiwan creative-economy funds launched in the 2022 wave.",
+      "local": "曼尼一號是 2022 年 3 月宣布、規模約新台幣 10 億元的文化科技創投基金，由曼尼托克管理顧問公司管理、並與台灣企銀（台企銀）共同設立，鎖定數位影視 IP 產業、文化藝術科技與數位文化媒體平台，是 2022 年一波台灣文創／新興基金之一。"
+    },
+    "sources": [
+      {
+        "url": "https://findit.org.tw/researchPageV2.aspx?pageId=1989",
+        "title": "【臺灣新創圈熱點-2022 No.5】支持臺灣新創，天使基金、文創基金與生技基金齊報到!",
+        "publisher": "FINDIT (台灣經濟研究院)",
+        "accessed": "2026-06-02",
+        "supports": "曼尼一號 NT$1B fund announced 25 Mar 2022, managed by Mannitok Management Consulting, with Taiwan Business Bank, digital film/TV IP & cultural-tech focus",
+        "quote": "曼尼一號 ... 規模新台幣10億元 ... 曼尼托克管顧公司 ... 台企銀 ... 數位影視IP產業、文化藝術科技及數位文化媒體平台"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Single-source (FINDIT, reputable but secondary). Fund size NT$1B, manager 曼尼托克管顧 (Mannitok), co-established with 台企銀 (Taiwan Business Bank), announced 25 Mar 2022, focus digital film/TV IP & cultural tech — all from FINDIT. No official fund website or close confirmation located; usd left null. Sector mapped to gaming/consumer (closest taxonomy slugs for 'cultural/media/IP'). Included as a genuinely emerging 2022 Taiwan fund easily missed by sector-specific segments.",
+    "last_updated": "2026-06-02",
+    "researched_by": "emerging-2020plus"
+  }
+]

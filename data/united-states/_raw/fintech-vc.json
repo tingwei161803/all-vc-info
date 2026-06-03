@@ -1,0 +1,822 @@
+[
+  {
+    "id": "us-qed-investors",
+    "name": { "en": "QED Investors" },
+    "aka": ["QED"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2007,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Alexandria, Virginia",
+    "website": "https://www.qedinvestors.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/qed-investors",
+      "crunchbase": "https://www.crunchbase.com/organization/qed-investors"
+    },
+    "capital": {
+      "aum": { "raw": "$4.0 billion", "usd": 4000000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund VIII (early-stage)", "vintage_year": 2023, "size": { "raw": "$650 million", "usd": 650000000, "currency": "USD" } },
+        { "name": "Growth II (early growth)", "vintage_year": 2023, "size": { "raw": "$275 million", "usd": 275000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": "$3-10 million initial; Growth Fund averages $15-20M", "usd_min": 3000000, "usd_max": 20000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "United Kingdom", "Latin America", "India", "Africa", "Southeast Asia"],
+      "sector_focus": ["fintech"],
+      "thesis": "Invests exclusively in fintech — from credit and lending to banking, insurance, wealth management, proptech and banking-as-a-service — across the full company lifecycle from pre-seed to IPO."
+    },
+    "track_record": {
+      "portfolio_count": "250+",
+      "notable_investments": [
+        { "company": "Nubank", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Credit Karma", "sector": "fintech", "outcome": "acquired" },
+        { "company": "SoFi", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Klarna", "sector": "fintech", "outcome": "active" },
+        { "company": "Remitly", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Flywire", "sector": "fintech", "outcome": "IPO" }
+      ],
+      "exits": [
+        { "company": "Credit Karma", "type": "M&A", "year": 2020, "value": { "raw": "$7.1 billion", "usd": 7100000000, "currency": "USD" } },
+        { "company": "Nubank", "type": "IPO", "year": 2021, "value": { "raw": "$41 billion market cap at IPO", "usd": 41000000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Nigel Morris", "role": "Co-Founder & Managing Partner" },
+      { "name": "Frank Rotman", "role": "Co-Founder & Partner" }
+    ],
+    "team_size": "20 investment professionals",
+    "summary": {
+      "en": "Alexandria, Virginia-based VC founded by former Capital One executives that invests exclusively in fintech across the company lifecycle. ~$4.0B AUM, 250+ portfolio companies and 31 unicorns including Nubank, Credit Karma, SoFi, Klarna and Remitly."
+    },
+    "sources": [
+      { "url": "https://www.qedinvestors.com/", "title": "QED Investors — Home", "publisher": "QED Investors", "accessed": "2026-06-02", "supports": "Fintech-only focus, founding, HQ, AUM, portfolio, stages, check size, team", "quote": "QED invests exclusively in fintech companies, from traditional banking products like credit and lending to insurance, wealth management, proptech and banking-as-a-service. ... $4.0 Billion Under Management ... 250+ Portfolio Companies ... 31 Unicorns ... QED invests in companies across their entire lifecycle from pre-seed to IPO." },
+      { "url": "https://thefinancialtechnologyreport.com/qed-investors-secure-1-billion-for-global-fintech-investments/", "title": "QED Investors Secure $1 Billion for Global Fintech Investments", "publisher": "The Financial Technology Report", "accessed": "2026-06-02", "supports": "Fund VIII and Growth II sizes, 2007 founding", "quote": "Fund VIII and Growth II, have raised a combined total of $925 million, with Fund VIII, an early-stage fund, raising $650 million, and Growth II, an early growth stage fund with a size of $275 million ... since its 2007 founding by Morris and Frank Rotman" },
+      { "url": "https://www.businesswire.com/news/home/20240606701949/en/QED-co-founders-climb-ranking-of-worlds-best-investors", "title": "QED co-founders climb ranking of world's best investors", "publisher": "Business Wire", "accessed": "2026-06-02", "supports": "Notable exits Credit Karma and Nubank", "quote": "Credit Karma was acquired by Intuit for $7.1 billion in December 2020 ... Nubank went public in December 2021 at a $41 billion market cap" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "us-ribbit-capital",
+    "name": { "en": "Ribbit Capital" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Palo Alto, California",
+    "website": "https://ribbitcap.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/ribbit-capital",
+      "other": ["https://en.wikipedia.org/wiki/Ribbit_Capital"]
+    },
+    "capital": {
+      "aum": { "raw": "US$12 billion (2024)", "usd": 12000000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2013, "size": { "raw": "US$100 million", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": "$10 million to over $100 million", "usd_min": 10000000, "usd_max": 100000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["fintech", "web3-crypto"],
+      "thesis": "Exclusively focused on financial services technology, backing 'rebel' founders reshaping money movement, wealth management, payments infrastructure and embedded finance worldwide."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Robinhood", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Coinbase", "sector": "web3-crypto", "outcome": "IPO" },
+        { "company": "Nubank", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Credit Karma", "sector": "fintech", "outcome": "acquired" },
+        { "company": "Affirm", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Revolut", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Meyer \"Micky\" Malka", "role": "Founder & Managing Partner" }
+    ],
+    "team_size": 31,
+    "summary": {
+      "en": "Palo Alto-based VC founded in 2012 by Micky Malka, exclusively focused on financial services technology. ~US$12B AUM (2024); early backer of Robinhood, Coinbase, Nubank, Affirm, Credit Karma and Revolut."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/Ribbit_Capital", "title": "Ribbit Capital — Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-02", "supports": "Founding year, HQ, founder, AUM, first fund size, portfolio, employee count", "quote": "Founded in 2012 ... Palo Alto, California ... Venezuelan entrepreneur Micky Malka ... US$12 billion (2024) ... raised US$100 million for its first fund, completed in January 2013 ... the company employed 31 employees" },
+      { "url": "https://qubit.capital/blog/top-fintech-vc-firms", "title": "Top VC Firms Backing Fintech Startups", "publisher": "Qubit Capital", "accessed": "2026-06-02", "supports": "Fintech-only focus, ~$12B AUM, check size, portfolio", "quote": "Ribbit Capital, founded in 2012, is the premier fintech-focused venture capital firm with approximately $12 billion in assets under management and an exclusive focus on financial services technology ... focuses on payments infrastructure, embedded finance, and B2B fintech across investment ranges from $10 million to over $100 million" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "us-nyca-partners",
+    "name": { "en": "Nyca Partners" },
+    "aka": ["Nyca"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2014,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York, New York",
+    "website": "https://www.nyca.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/nyca-partners"
+    },
+    "offices": [
+      { "country": "United States", "city": "New York" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "capital": {
+      "aum": { "raw": "~$975M", "usd": 975000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["fintech"],
+      "thesis": "Builds 'tomorrow's financial infrastructure' through thematic investing in payments, capital formation and risk, digital advice and financial infrastructure, supported by a 100+ Limited Partner Advisor community of finance and tech experts."
+    },
+    "track_record": {
+      "portfolio_count": 87,
+      "notable_investments": [
+        { "company": "Affirm", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Revolut", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Hans Morris", "role": "Managing Partner" }
+    ],
+    "summary": {
+      "en": "New York and San Francisco-based fintech specialist founded in 2014, investing from seed to scale across payments, capital markets, digital advice and financial infrastructure. ~$975M AUM, 87 active portfolio companies, 13 unicorns; backed Affirm and Revolut."
+    },
+    "sources": [
+      { "url": "https://www.nyca.com/", "title": "Nyca Partners — Home", "publisher": "Nyca Partners", "accessed": "2026-06-02", "supports": "Founding year, HQ/offices, AUM, portfolio count, unicorns, stage focus, advisor community", "quote": "Founded ... 2014 ... ~$975M ... 87 Active portfolio companies ... 13 Unicorns ... 100+ Advisor community ... Focused primarily on early-stage investing ... Fintech investing from seed to scale." }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "us-fintech-collective",
+    "name": { "en": "FinTech Collective" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York, New York",
+    "website": "https://fintech.io/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/fintech-collective"
+    },
+    "offices": [
+      { "country": "United States", "city": "New York" },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "capital": {
+      "aum": { "raw": "over $800 million regulatory assets", "usd": 800000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States", "Europe", "Latin America", "Africa"],
+      "sector_focus": ["fintech", "web3-crypto"],
+      "thesis": "New York-based fund focused exclusively on financial services technology, investing at seed and Series A across capital markets, wealth and asset management, banking, lending, payments, insurance and DeFi."
+    },
+    "track_record": {
+      "portfolio_count": 96,
+      "notable_investments": [
+        { "company": "MoneyLion", "sector": "fintech", "outcome": "acquired" },
+        { "company": "Vestwell", "sector": "fintech", "outcome": "active" },
+        { "company": "Flutterwave", "sector": "fintech", "outcome": "active" },
+        { "company": "Quovo", "sector": "fintech", "outcome": "acquired" },
+        { "company": "Ocrolus", "sector": "fintech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Quovo", "type": "M&A", "year": 2019, "value": { "raw": "acquired by Plaid", "usd": null, "currency": null } },
+        { "company": "MoneyLion", "type": "M&A", "year": 2025, "value": { "raw": "acquired by Gen Digital in billion-dollar deal", "usd": null, "currency": "USD" } }
+      ]
+    },
+    "summary": {
+      "en": "New York-based (with a London office) fintech-only VC founded in 2012, leading seed and Series A rounds across payments, lending, wealth, banking, insurance and DeFi. ~96 portfolio companies; backed MoneyLion, Vestwell, Flutterwave and Quovo (acquired by Plaid)."
+    },
+    "sources": [
+      { "url": "https://www.vcsheet.com/fund/fintech-collective", "title": "FinTech Collective — VC Fund Breakdown", "publisher": "VC Sheet", "accessed": "2026-06-02", "supports": "Founding year, NYC base, fintech-only focus, seed/Series A, AUM, portfolio count, notable companies, exits", "quote": "FinTech Collective is a New York-based venture capital fund founded in 2012 ... focused exclusively on financial services technology companies ... over $800 million in regulatory assets ... 96 portfolio companies including ... MoneyLion, NYDIG, Ocrolus, Quovo (acquired by Plaid) and Vestwell." },
+      { "url": "https://fintech.io/", "title": "FinTech Collective — Home", "publisher": "FinTech Collective", "accessed": "2026-06-02", "supports": "HQ NYC, London office, MoneyLion exit, sectors", "quote": "MoneyLion ... acquired by Gen Digital in Billion-Dollar Deal ... opening a London office" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "us-fin-capital",
+    "name": { "en": "Fin Capital" },
+    "aka": ["Fin VC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://www.fin.capital/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/fin-venture-capital"
+    },
+    "capital": {
+      "aum": { "raw": "Over $1 billion", "usd": 1000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b", "growth"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["fintech", "saas-enterprise"],
+      "thesis": "B2B fintech specialist supporting companies from pre-seed to IPO across embedded finance, asset management/capital markets, CFO tech stack, insurtech, enterprise blockchain and infrastructure, with deep ties to incumbent financial institutions for distribution."
+    },
+    "track_record": {
+      "portfolio_count": "50+",
+      "notable_investments": [
+        { "company": "Pipe", "sector": "fintech", "outcome": "active" },
+        { "company": "Greenlight", "sector": "fintech", "outcome": "active" },
+        { "company": "DailyPay", "sector": "fintech", "outcome": "active" },
+        { "company": "Figure", "sector": "fintech", "outcome": "active" },
+        { "company": "SoFi", "sector": "fintech", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Logan Allin", "role": "Founder & Managing Partner" }
+    ],
+    "summary": {
+      "en": "San Francisco-based B2B fintech specialist founded in 2018 by Logan Allin, investing pre-seed to pre-IPO across embedded finance, capital markets, CFO tech, insurtech and infrastructure. Over $1B AUM and 50+ portfolio companies including Pipe, Greenlight, DailyPay and Figure."
+    },
+    "sources": [
+      { "url": "https://www.businesswire.com/news/home/20211108005576/en/Fin-VC-Closes-Three-New-Funds-and-Lists-SPAC-Reaches-Over-$1BN-AUM-to-Support-B2B-FinTech-From-Pre-Seed-to-IPO", "title": "Fin VC Closes Three New Funds; Reaches Over $1BN AUM to Support B2B FinTech From Pre-Seed to IPO", "publisher": "Business Wire", "accessed": "2026-06-02", "supports": "Over $1BN AUM, B2B fintech focus, pre-seed to IPO stage range", "quote": "Reaches Over $1BN AUM To Support B2B FinTech From Pre-Seed to IPO" },
+      { "url": "https://www.vcsheet.com/fund/fin-capital", "title": "Fin Capital — VC Fund Breakdown", "publisher": "VC Sheet", "accessed": "2026-06-02", "supports": "Founded 2018, B2B fintech sub-sectors, 50+ portfolio companies, unicorns", "quote": "Founded in 2018, Fin has invested in more than 50 leading startups ... Embedded Finance, Asset Management/Capital Markets, CFO Tech Stack, InsurTech, Enterprise Blockchain ... Pipe, Tradeshift, Greenlight, Unqork, DailyPay, Figure" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "us-better-tomorrow-ventures",
+    "name": { "en": "Better Tomorrow Ventures" },
+    "aka": ["BTV"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://www.btv.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/better-tomorrow-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/better-tomorrow-ventures-bebf"
+    },
+    "capital": {
+      "aum": { "raw": "$450 million", "usd": 450000000, "currency": "USD" },
+      "funds": [
+        { "name": "Debut fund", "vintage_year": 2019, "size": { "raw": "$75 million", "usd": 75000000, "currency": "USD" } },
+        { "name": "BTV II", "vintage_year": 2021, "size": { "raw": "$150 million", "usd": 150000000, "currency": "USD" } },
+        { "name": "BTV III", "vintage_year": null, "size": { "raw": "$140 million", "usd": 140000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500k to $3 million", "usd_min": 500000, "usd_max": 3000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["fintech"],
+      "thesis": "Early-stage fintech-focused fund that leads pre-seed and seed rounds, run by seasoned fintech founders who support startups with hiring, customer introductions and fundraising."
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "notable_investments": [
+        { "company": "Mercury", "sector": "fintech", "outcome": "active" },
+        { "company": "Ramp", "sector": "fintech", "outcome": "active" },
+        { "company": "Albert", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Sheel Mohnot", "role": "Co-Founder & General Partner" },
+      { "name": "Jake Gibson", "role": "Co-Founder & General Partner" }
+    ],
+    "summary": {
+      "en": "San Francisco-based fintech-focused fund founded in 2020 by Sheel Mohnot and Jake Gibson (NerdWallet co-founder), leading pre-seed and seed rounds. ~$450M AUM across three funds, 100+ portfolio companies including Mercury, Ramp and Albert."
+    },
+    "sources": [
+      { "url": "https://techcrunch.com/2022/02/15/better-tomorrow-ventures-closes-on-225m-fintech-focused-fund-which-is-triple-the-size-of-its-last-fund/", "title": "Better Tomorrow Ventures closes on $225M fintech-focused fund", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "Fintech focus, pre-seed/seed leads, fund sizes", "quote": "Better Tomorrow Ventures (BTV) is an early stage fintech focused fund that leads rounds in pre-seed and seed-stage companies ... $150 million BTV II from 2021 and their $75 million debut fund in 2019" },
+      { "url": "https://www.menlotimes.com/post/better-tomorrow-ventures-closes-btv-iii-at-140-million-to-fuel-the-next-generation-fintech-companie", "title": "Better Tomorrow Ventures Closes BTV III at $140 Million", "publisher": "Menlo Times", "accessed": "2026-06-02", "supports": "BTV III size, total AUM, check size, portfolio count, founders", "quote": "closed $140 million fund 3, bringing the total AUM to $450 million ... check sizes ranging from $500k to $3 million ... over 100 fintech companies ... Sheel Mohnot ... Jake Gibson co-founded NerdWallet" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "us-ttv-capital",
+    "name": { "en": "TTV Capital" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2000,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Atlanta, Georgia",
+    "website": "https://ttvcapital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/ttv-capital"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund VI", "vintage_year": 2023, "size": { "raw": "$250 million", "usd": 250000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$2 million to $7 million initial; exploratory fund from $250,000", "usd_min": 250000, "usd_max": 7000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["fintech"],
+      "thesis": "One of the longest-running fintech-focused VCs, making B2B and B2C early-stage investments across payments, banking, investing, cybersecurity, Web3 and embedded finance."
+    },
+    "track_record": {
+      "portfolio_count": "100+"
+    },
+    "summary": {
+      "en": "Atlanta-based fintech-focused VC founded in 2000, one of the longest-running fintech specialists. Closed its largest-ever Fund VI at $250M (2023); 100+ portfolio companies, seven of which became unicorns. Initial checks $2M-$7M."
+    },
+    "sources": [
+      { "url": "https://www.prnewswire.com/news-releases/ttv-capital-closes-fund-vi-at-250-million-to-invest-in-early-stage-fintech-companies-301775318.html", "title": "TTV Capital Closes Fund VI at $250 Million to Invest in Early-Stage Fintech Companies", "publisher": "PR Newswire", "accessed": "2026-06-02", "supports": "Founding year, HQ, Fund VI size, check size, portfolio count, unicorns", "quote": "Founded in 2000 and headquartered in Atlanta ... closed its sixth fund at $250 million ... average initial cheque size of $2 million to $7 million ... exploratory fund for investments starting at $250,000 ... more than 100 financial technology companies in its portfolio, seven of which have reached unicorn status" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "us-ftv-capital",
+    "name": { "en": "FTV Capital" },
+    "type": "growth-equity",
+    "status": "active",
+    "founded_year": 1998,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://ftvcapital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/ftv-capital"
+    },
+    "capital": {
+      "aum": { "raw": "over $10.2 billion total capital raised", "usd": 10200000000, "currency": "USD" },
+      "funds": [
+        { "name": "FTV VIII", "vintage_year": 2025, "size": { "raw": "$3.4 billion", "usd": 3400000000, "currency": "USD" } },
+        { "name": "Ascend I", "vintage_year": 2025, "size": { "raw": "$651 million", "usd": 651000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "check_size": { "raw": "$20 million to $300 million", "usd_min": 20000000, "usd_max": 300000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["fintech", "saas-enterprise"],
+      "thesis": "Sector-focused growth equity firm investing in high-growth companies across two sectors: enterprise technology and services, and financial technology and services."
+    },
+    "summary": {
+      "en": "San Francisco-based sector-focused growth equity firm (founded 1998) investing in financial technology and enterprise technology. Closed a record $4.05B fundraise in 2025 (FTV VIII at $3.4B plus Ascend I at $651M); over $10.2B raised to date, equity checks of $20M-$300M."
+    },
+    "sources": [
+      { "url": "https://ftvcapital.com/2025/ftv-capital-completes-record-4-05-billion-growth-equity-fundraise/", "title": "FTV Capital Completes Record $4.05 Billion Growth Equity Fundraise", "publisher": "FTV Capital", "accessed": "2026-06-02", "supports": "Fund sizes, total raised, sectors, check size, HQ", "quote": "$4.05 billion in capital commitments, with its eighth flagship fund (FTV VIII) at $3.4 billion and inaugural Ascend fund at $651 million, bringing FTV's total capital raised to over $10.2 billion ... two sectors: enterprise technology and services and financial technology and services ... equity checks ranging from $20 million to $300 million" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 1998 per firm history; growth-equity classification (late-stage) rather than early-stage VC. Sector focus is split between fintech and enterprise tech, not fintech-exclusive.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "us-canapi-ventures",
+    "name": { "en": "Canapi Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Washington, D.C.",
+    "website": "https://www.canapi.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/canapi-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "over $1.4 billion", "usd": 1400000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2020, "size": { "raw": "$545 million", "usd": 545000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2023, "size": { "raw": "$750 million", "usd": 750000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["fintech"],
+      "thesis": "Bank-backed fintech VC, supported by the Canapi Alliance network of ~70 financial institutions, investing in fraud and identity, financial infrastructure, lending and credit, payments and proptech."
+    },
+    "track_record": {
+      "portfolio_count": "20+ (Fund I)"
+    },
+    "people": [
+      { "name": "Gene Ludwig", "role": "Co-Founder & Managing Partner" },
+      { "name": "Chip Mahan", "role": "Co-Founder" }
+    ],
+    "summary": {
+      "en": "Bank-backed fintech VC founded by former U.S. Comptroller of the Currency Gene Ludwig and Live Oak Bancshares CEO Chip Mahan, supported by a ~70-bank Canapi Alliance. Over $1.4B AUM across a $545M Fund I and $750M Fund II."
+    },
+    "sources": [
+      { "url": "https://www.prnewswire.com/news-releases/canapi-ventures-announces-750m-fund-ii-to-power-the-new-financial-services-economy-302006790.html", "title": "Canapi Ventures Announces $750M Fund II", "publisher": "PR Newswire", "accessed": "2026-06-02", "supports": "Fund I and II sizes, total AUM, bank alliance, founders", "quote": "total assets under management of over $1.4 billion, comprised of a $545 million Fund I and a $750 million Fund II ... backed by the Canapi Alliance – a network of nearly 70 leading financial institutions ... founded by former Comptroller of the Currency Gene Ludwig and Live Oak Bancshares CEO Chip Mahan" }
+    ],
+    "confidence": "high",
+    "verification_notes": "HQ commonly listed as Washington, D.C. with an office in Wilmington, NC. Fund II vintage ~2023-2024.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "us-flourish-ventures",
+    "name": { "en": "Flourish Ventures" },
+    "type": "vc",
+    "subtypes": ["impact"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://flourishventures.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/flourishventures",
+      "crunchbase": "https://www.crunchbase.com/organization/flourish-venture"
+    },
+    "offices": [
+      { "country": "United States", "city": "San Francisco" },
+      { "country": "United States", "city": "Washington, D.C." },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "capital": {
+      "aum": { "raw": "$850M under management", "usd": 850000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "India", "Africa", "Latin America", "Southeast Asia"],
+      "sector_focus": ["fintech", "impact"],
+      "thesis": "An evergreen fintech venture fund 'with a purpose' backing entrepreneurs whose innovations advance financial health and prosperity for individuals and small businesses; spun out of Omidyar Network in 2019."
+    },
+    "summary": {
+      "en": "San Francisco-based evergreen fintech fund spun out of Pierre Omidyar's Omidyar Network in 2019, focused on financial health and inclusion. ~$850M under management; offices in Silicon Valley, Washington DC and London."
+    },
+    "sources": [
+      { "url": "https://techcrunch.com/2023/10/25/flourish-ventures-a-fintech-venture-fund-with-a-purpose-secures-350m-in-new-capital/", "title": "Flourish Ventures, a 'fintech venture fund with a purpose,' secures $350M in new capital", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "Fintech focus, Omidyar spin-off 2019, AUM", "quote": "Flourish has $850M under management ... Flourish Ventures is an evergreen fintech fund backed by eBay founder Pierre Omidyar. The firm spun out from his investment firm, Omidyar Network, in 2019." }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "us-commerce-ventures",
+    "name": { "en": "Commerce Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://commerce.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/commerce-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "more than $500 million of capital", "usd": 500000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund III", "vintage_year": null, "size": { "raw": "$60 million", "usd": 60000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["fintech", "ecommerce"],
+      "thesis": "Invests across the future of retail and financial services, organized around four themes: Shop (retail tech), Spend (payment tech), Secure (insurance tech) and Save (banking tech)."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Bill.com", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Marqeta", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Socure", "sector": "fintech", "outcome": "active" },
+        { "company": "Vestwell", "sector": "fintech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Bill.com", "type": "IPO", "year": 2019, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Marqeta", "type": "IPO", "year": 2021, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Dan Rosen", "role": "Founder & General Partner" }
+    ],
+    "summary": {
+      "en": "San Francisco-based VC founded in 2012 by Dan Rosen, investing in fintech, payments, insurtech and retail tech at seed and Series A. More than $500M of capital managed; backed Bill.com, Marqeta (both IPO'd), Socure and Vestwell."
+    },
+    "sources": [
+      { "url": "https://commerce.vc/", "title": "Commerce Ventures — Home", "publisher": "Commerce Ventures", "accessed": "2026-06-02", "supports": "HQ, four investment themes, notable portfolio and IPO exits", "quote": "Shop ... Spend ... Secure ... Save ... Bill.com (IPO) ... Marqeta (IPO) ... 555 Mission Street, Suite 3250, San Francisco, CA 94105" },
+      { "url": "https://www.webwire.com/ViewPressRel.asp?aId=250932", "title": "Commerce Ventures Raises $60 Million Fund III", "publisher": "WebWire", "accessed": "2026-06-02", "supports": "Fund III size, $500M+ capital, founder, sectors", "quote": "Commerce Ventures manages more than $500 million of capital ... Commerce Ventures Raises $60 Million Fund III to Continue Investing in Retail and Financial Services Sectors ... Dan Rosen is the founder and general partner" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year (2012) and Fund III size from secondary sources; the firm's own homepage does not disclose fund sizes. Fund V reportedly targeting ~$150M per secondary reports.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "us-point72-ventures",
+    "name": { "en": "Point72 Ventures" },
+    "aka": ["P72 Ventures"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York, New York",
+    "website": "https://p72.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/point72-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/point72-ventures"
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": "$5 million to $50 million", "usd_min": 5000000, "usd_max": 50000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["fintech", "ai-ml", "saas-enterprise"],
+      "thesis": "Backed by Steven A. Cohen's Point72, invests from seed to growth in fintech (across three themes — Disrupt, Enable, Embed), AI/deeptech and enterprise."
+    },
+    "track_record": {
+      "portfolio_count": "160+",
+      "notable_investments": [
+        { "company": "Acorns", "sector": "fintech", "outcome": "active" },
+        { "company": "Vestwell", "sector": "fintech", "outcome": "active" },
+        { "company": "MX", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Pete Casella", "role": "Partner & Head of Fintech & Financial Services" }
+    ],
+    "summary": {
+      "en": "New York-based venture arm backed by Steven A. Cohen's Point72, founded in 2016, investing seed to growth in fintech, AI/deeptech and enterprise. 160+ portfolio companies; fintech bets include Acorns, Vestwell and MX. Typical checks $5M-$50M."
+    },
+    "sources": [
+      { "url": "https://p72.vc/", "title": "Point72 Ventures — Venture Capital Firm", "publisher": "Point72 Ventures", "accessed": "2026-06-02", "supports": "Backed by Steven Cohen, seed-to-IPO, fintech/AI/enterprise focus", "quote": "Point72 Ventures is backed by Steven A. Cohen and invests in fintech, artificial intelligence and enterprise startups from seed stage to IPO." },
+      { "url": "https://tracxn.com/d/venture-capital/point72ventures/__MeXNcRCD965mcyQa12nyreKNxgj48A9T0tk8WW59XqY", "title": "Point72 Ventures — Investor Profile", "publisher": "Tracxn", "accessed": "2026-06-02", "supports": "Founding year, portfolio count, unicorns, check size, fintech portfolio", "quote": "Point72 Ventures has invested in 164 companies ... 12 unicorns ... including key companies like Acorns, Uala and Vestwell ... typically invests between $5 million and $50 million" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Not a fintech-exclusive fund — invests across fintech, AI/deeptech and enterprise — but operates a dedicated fintech practice and is consistently among the most active fintech investors. AUM not separately disclosed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "us-vesey-ventures",
+    "name": { "en": "Vesey Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York, New York",
+    "website": "https://www.vesey.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/vesey-ventures"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Debut fund", "vintage_year": 2023, "size": { "raw": "$78 million", "usd": 78000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["fintech"],
+      "thesis": "Early-stage fund focused on fintech, commerce and enabling infrastructure, leveraging the founders' American Express Ventures network to act as a portfolio company's first business development team."
+    },
+    "people": [
+      { "name": "Dana Eli-Lorch", "role": "Founding Partner" },
+      { "name": "Lindsay Fitzgerald", "role": "Founding Partner" },
+      { "name": "Julia Huang", "role": "Founding Partner" }
+    ],
+    "summary": {
+      "en": "New York-based early-stage fintech fund founded by three former American Express Ventures executives (Dana Eli-Lorch, Lindsay Fitzgerald, Julia Huang). Closed a $78M debut fund in 2023, investing in fintech, commerce and enabling infrastructure."
+    },
+    "sources": [
+      { "url": "https://techcrunch.com/2023/04/20/vesey-ventures-closes-on-78m-debut-fund-to-back-early-stage-fintech-startups/", "title": "Vesey Ventures closes on $78M debut fund to back early-stage fintech startups", "publisher": "TechCrunch", "accessed": "2026-06-02", "supports": "Debut fund size, fintech focus, founders and AmEx Ventures origin", "quote": "Vesey Ventures closed its $78 million debut fund ... founding partners Dana Eli-Lorch, Lindsay Fitzgerald and Julia Huang, who all left American Express Ventures in late 2021 ... early-stage venture capital fund focused on fintech, commerce and enabling infrastructure" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2022 (partners left Amex Ventures late 2021); debut fund announced April 2023.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "us-restive-ventures",
+    "name": { "en": "Restive Ventures" },
+    "aka": ["Financial Venture Studio", "FVS"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://www.restive.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/financial-venture-studio"
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$50,000 to $1 million", "usd_min": 50000, "usd_max": 1000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["fintech"],
+      "thesis": "Provides early-stage capital plus a deep operational engagement model to fintech founders, helping them navigate relationships, regulation and complex technologies in financial services."
+    },
+    "program": {
+      "length_weeks": 26,
+      "cohort_size": 6,
+      "batches_per_year": 2,
+      "equity_taken_pct": null,
+      "investment": { "raw": "$50,000 to $1 million (initial check $50k-$200k)", "usd": null, "currency": "USD" },
+      "format": "remote / non-residential",
+      "application_url": "https://www.restive.com/"
+    },
+    "track_record": {
+      "portfolio_count": 95,
+      "notable_investments": [
+        { "company": "Propel", "sector": "fintech", "outcome": "active" },
+        { "company": "Flex", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Ryan Falvey", "role": "Founder & Managing Partner" }
+    ],
+    "summary": {
+      "en": "San Francisco-based fintech-focused fund (formerly Financial Venture Studio), founded 2018 by Ryan Falvey. Runs a non-residential ~6-month program for small cohorts of seed-stage fintech founders with $50k-$1M investments; 95 investments to date."
+    },
+    "sources": [
+      { "url": "https://www.globenewswire.com/news-release/2022/10/20/2538428/0/en/Financial-Venture-Studio-Renamed-Restive-Ventures-Announces-Fall-VI-Cohort-2022.html", "title": "Financial Venture Studio Renamed Restive Ventures; Announces Fall VI Cohort 2022", "publisher": "GlobeNewswire", "accessed": "2026-06-02", "supports": "Rename, founding, founder, cohort engagement model", "quote": "Financial Venture Studio Renamed Restive Ventures ... deep operational engagement from the fund's partners and a bespoke networking program designed to help early-stage fintech companies navigate critical elements of the financial services industry" },
+      { "url": "https://contxto.com/en/chile/financial-venture-studio-accepts-fintech-copilot-accelerator-program/", "title": "Financial Venture Studio accepts fintech Copilot into accelerator program", "publisher": "Contxto", "accessed": "2026-06-02", "supports": "Check sizes, six-month non-residential program", "quote": "its initial check size is normally small, ranging from US$50,000 to US$200,000 ... invests somewhere between US$50,000 and US$1 million ... non-residential, six month program" },
+      { "url": "https://www.cbinsights.com/investor/financial-venture-studio", "title": "Restive Ventures — Portfolio & Funds", "publisher": "CB Insights", "accessed": "2026-06-02", "supports": "95 investments", "quote": "Restive Ventures has made 95 investments." }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Program length (~26 weeks / 6 months) and cohort size (~6 per cohort, two cohorts/year) from cohort announcements; equity_taken_pct not disclosed. Classified as VC with an accelerator-style program rather than a pure accelerator.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "us-anthemis-group",
+    "name": { "en": "Anthemis Group" },
+    "aka": ["Anthemis"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2008,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York, New York",
+    "website": "https://www.anthemis.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/anthemis-group"
+    },
+    "offices": [
+      { "country": "United States", "city": "New York" },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Europe"],
+      "sector_focus": ["fintech"],
+      "thesis": "Specialist financial services VC backing early-stage (pre-seed to Series A) startups across payments, insurtech, wealth management and capital markets, concentrated in North America and Europe."
+    },
+    "track_record": {
+      "portfolio_count": "100+"
+    },
+    "people": [
+      { "name": "Sean Park", "role": "Co-Founder, Group CIO & General Partner" },
+      { "name": "Amy Nauiokas", "role": "Co-Founder" }
+    ],
+    "summary": {
+      "en": "Specialist financial-services VC founded in 2008 by Sean Park and Amy Nauiokas, with offices in New York and London. Backs early-stage fintech across payments, insurtech, wealth and capital markets; 100+ investments with reported 5.0x gross MoIC."
+    },
+    "sources": [
+      { "url": "https://noacapp.com/portfolio/anthemis/", "title": "Anthemis — Noa Capital Partners", "publisher": "Noa Capital Partners", "accessed": "2026-06-02", "supports": "Founding year, founders, stage, sectors, portfolio count, returns", "quote": "Anthemis Group was founded by Sean Park and Amy Nauiokas during the great recession in 2008 ... focuses on early stage (pre-Seed and Series A) start-ups ... 100+ investments since inception, generating a return of 5.0x gross MoIC ... payments, insure-tech, wealth management and capital markets" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Anthemis has a transatlantic structure (US and UK); placed under united-states per its New York operations, but it is equally a Europe-bucket candidate. Portfolio metrics from a secondary LP/partner source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "us-propel-venture-partners",
+    "name": { "en": "Propel Venture Partners" },
+    "aka": ["Propel VC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco, California",
+    "website": "https://propel.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/propel-venture-partners"
+    },
+    "capital": {
+      "aum": { "raw": "more than $436 million total commitments", "usd": 436000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund V", "vintage_year": 2025, "size": { "raw": "$100 million", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Latin America"],
+      "sector_focus": ["fintech"],
+      "thesis": "Seed-stage fintech firm (spun out of BBVA in 2016) backing startups redefining how financial value is created, moved and secured — infrastructure, enablers and adjacencies — with a strong presence in Latin America."
+    },
+    "track_record": {
+      "portfolio_count": 62,
+      "notable_investments": [
+        { "company": "Coinbase", "sector": "web3-crypto", "outcome": "IPO" },
+        { "company": "Hippo", "sector": "fintech", "outcome": "active" },
+        { "company": "DocuSign", "sector": "saas-enterprise", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Jay Reinemann", "role": "General Partner" },
+      { "name": "David Mort", "role": "General Partner" }
+    ],
+    "summary": {
+      "en": "San Francisco-based seed-stage fintech VC spun out of BBVA in 2016, with a strong Latin America presence. Closed $100M Fund V in 2025 (>$436M total commitments); 62 companies including early Coinbase and Hippo."
+    },
+    "sources": [
+      { "url": "https://vcwire.tech/2025/07/11/propel-venture-partners-closes-fund-v-at-100m/", "title": "Propel Venture Partners Closes Fund V, at $100M", "publisher": "VCWire", "accessed": "2026-06-02", "supports": "Founding year, BBVA spin-out, Fund V size, total commitments, portfolio count, companies", "quote": "Founded in 2016 and backed by long-term LP BBVA ... close of its $100 million Fund V, bringing its total capital commitments to more than $436 million ... invested in 62 companies, including Coinbase, Docusign and Hippo" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  },
+  {
+    "id": "us-mendoza-ventures",
+    "name": { "en": "Mendoza Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Boston, Massachusetts",
+    "website": "https://mendoza-ventures.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/mendoza-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/mendoza-ventures"
+    },
+    "offices": [
+      { "country": "United States", "city": "Boston" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "capital": {
+      "funds": [
+        { "name": "Fund III (early growth)", "vintage_year": 2022, "size": { "raw": "$100 million (target; anchored by Bank of America)", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus"],
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["fintech", "ai-ml", "cybersecurity"],
+      "thesis": "Early-stage and growth fund investing in fintech, AI and cybersecurity, with a strong diversity focus — around 70% of its portfolio is led by immigrants, people of color and women."
+    },
+    "people": [
+      { "name": "Adrian Mendoza", "role": "Founder & General Partner" },
+      { "name": "Senofer Mendoza", "role": "Founder & General Partner" }
+    ],
+    "summary": {
+      "en": "Boston-based early-stage and growth fund founded by Adrian and Senofer Mendoza, investing in fintech, AI and cybersecurity with a strong diversity mandate. Raising a $100M Fund III anchored by Bank of America."
+    },
+    "sources": [
+      { "url": "https://www.prnewswire.com/news-releases/mendoza-ventures-announces-a-first-close-on-its-100m-early-growth-fintech-fund-anchored-by-bank-of-america-301715133.html", "title": "Mendoza Ventures announces a first close on its $100M early growth Fintech fund anchored by Bank of America", "publisher": "PR Newswire", "accessed": "2026-06-02", "supports": "$100M fund anchored by Bank of America, fintech/AI/cybersecurity focus, Boston HQ, founders, diversity", "quote": "$100M early growth Fintech fund anchored by Bank of America ... invests in AI, Cybersecurity, and Fintech ... run by husband and wife Adrian and Senofer Mendoza ... about 70% of their portfolio consists of startups led by immigrants, people of color, and women" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Pilot fund 2016; Fund II launched 2019; Fund III ($100M target) anchored by Bank of America, first close 2022. Not fintech-exclusive (also AI and cybersecurity).",
+    "last_updated": "2026-06-02",
+    "researched_by": "fintech-vc"
+  }
+]

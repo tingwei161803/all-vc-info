@@ -1,0 +1,1331 @@
+[
+  {
+    "id": "eu-baobab-ventures",
+    "name": { "en": "Baobab Ventures" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://baobab.vc",
+    "links": {
+      "other": ["https://sifted.eu/articles/elevenlabs-carles-reina-15m-solo-gp"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$15m", "usd": 15000000, "currency": "USD" },
+      "funds": [
+        { "name": "Baobab Fund I", "vintage_year": 2025, "size": { "raw": "$15m", "usd": 15000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$300k-350k", "usd_min": 300000, "usd_max": 350000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United States"],
+      "sector_focus": ["ai-ml", "robotics", "deeptech"],
+      "thesis": "Solo-GP fund led by ElevenLabs / Revolut angel Carles Reina, backing pre-seed and seed founders building in AI, robotics and defence, half in Europe and the rest in the US and other markets."
+    },
+    "track_record": {
+      "portfolio_count": "8 deals from new fund",
+      "notable_investments": [
+        { "company": "THEKER Robotics", "sector": "robotics", "outcome": "active" },
+        { "company": "Omnia", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Murphy AI", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Altan", "sector": "ai-ml", "outcome": "active" }
+      ],
+      "co_investors": ["Cendana Capital", "Isomer Capital", "RSJ Investments", "Emergence Ventures", "Cyber Fund"]
+    },
+    "people": [
+      { "name": "Carles Reina", "role": "Solo GP / Founder" }
+    ],
+    "team_size": 1,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["solo-gp", "emerging-manager", "operator-led", "first-time-fund"],
+    "summary": {
+      "en": "London/Barcelona-based $15m solo-GP fund founded in 2025 by Carles Reina (ElevenLabs go-to-market lead and early Revolut angel), writing $300-350k cheques into 30-35 pre-seed/seed AI, robotics and defence startups."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/elevenlabs-carles-reina-15m-solo-gp",
+        "title": "ElevenLabs investor Carles Reina raises $15m solo GP fund to back defence and AI startups",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "fund size, check size, stage, sectors, HQ, LPs, deal count",
+        "quote": "raised $15m for a solo GP fund ... invest cheques between $300-350k into 30-35 startups ... London and Barcelona-based fund ... he's already done eight deals from the new fund"
+      },
+      {
+        "url": "https://www.eu-startups.com/2025/11/carles-reina-launches-e12-9-million-solo-gp-fund-baobab-ventures-to-back-early-stage-ai-and-robotics-startups/",
+        "title": "Carles Reina launches €12.9 million solo GP fund Baobab Ventures",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-02",
+        "supports": "EUR equivalent, backers, disclosed investments, geographic split",
+        "quote": "€12.9 million ($15 million) solo GP fund based in London ... average investments of €259-302k ($300-350k) in pre-Seed and Seed stage startups. Half of the fund's investments will be focused on Europe ... Four of those investments have been disclosed: THEKER Robotics, Omnia, Murphy AI, and Altan"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Two sources differ on HQ phrasing (London vs London/Barcelona); fund size consistent at ~$15m / €12.9m.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-robin-capital",
+    "name": { "en": "Robin Capital" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://robincap.com",
+    "links": {
+      "other": ["https://techcrunch.com/2024/12/19/european-solo-gp-robin-capital-closes-first-fund-with-e15m-to-play-with/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€15M", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Robin Fund One", "vintage_year": 2024, "size": { "raw": "€13M (final close) + €2M growth vehicle = €15M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€100k-€600k", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "DACH", "Israel", "United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "Solo-GP fund by serial founder Robin Haak backing European B2B midmarket enterprise SaaS startups at pre-seed and seed, with a DACH focus; LP base of ~70 professionals and no institutions."
+    },
+    "track_record": {
+      "portfolio_count": 28,
+      "notable_investments": [
+        { "company": "Kombo Dev", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Phacet Labs", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Robin Haak", "role": "Solo GP / Founder" }
+    ],
+    "team_size": 1,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["solo-gp", "emerging-manager", "first-time-fund", "operator-led"],
+    "summary": {
+      "en": "Berlin-based €15m solo-GP fund (Robin Fund One) launched by former Jobspotting co-founder Robin Haak, backing 28 European B2B SaaS startups at pre-seed/seed with €100k-€600k cheques and a DACH focus.",
+      "local": "In Berlin ansässiger €15-Mio.-Solo-GP-Fonds von Robin Haak, der europäische B2B-SaaS-Startups in der Pre-Seed- und Seed-Phase finanziert."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2024/12/19/european-solo-gp-robin-capital-closes-first-fund-with-e15m-to-play-with/",
+        "title": "European solo GP Robin Capital closes first fund with €15M to play with",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "fund size, portfolio count, founding year, LP base, stage, sectors",
+        "quote": "€13 million final close ... €2 million growth vehicle ... €15 million to play with ... 28 companies are now in the portfolio, and half of the fund has already been deployed ... 70 limited partners ... Launched in 2023"
+      },
+      {
+        "url": "https://www.eu-startups.com/2024/12/robin-capital-closes-e15-million-robin-fund-one-empowering-b2b-saas-startups-across-europe/",
+        "title": "Robin Capital closes €15 million Robin Fund One",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-02",
+        "supports": "fund name, B2B SaaS focus, check size",
+        "quote": "Robin Capital closes €15 million Robin Fund One, empowering B2B SaaS startups across Europe"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "TechCrunch says 'Launched in 2023'; Tech.eu launch announcement is Dec 2022, so founded_year set to 2022 (firm launch).",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-puzzle-ventures",
+    "name": { "en": "Puzzle Ventures" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://www.puzzle.vc",
+    "links": {
+      "other": ["https://sifted.eu/articles/europe-first-female-solo-gp-fund-news"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€21.5m", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Puzzle Ventures Fund I", "vintage_year": 2023, "size": { "raw": "€21.5m", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€200k-€700k initial", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Europe", "United States"],
+      "sector_focus": ["saas-enterprise", "fintech"],
+      "thesis": "One of Europe's first female solo-GP funds, run by ex-Index principal and operator Gloria Bäuerlein, backing European pre-seed and seed founders building transformational B2B / B2B SaaS companies."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Gloria Bäuerlein", "role": "Solo GP / Founder" }
+    ],
+    "team_size": 1,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["solo-gp", "emerging-manager", "first-time-fund", "female-gp", "operator-led"],
+    "summary": {
+      "en": "Berlin-based €21.5m fund — one of Europe's first female solo-GP funds — led by Gloria Bäuerlein (ex-Index Ventures, Kry, Back), investing €200k-€700k into European pre-seed/seed B2B and B2B SaaS founders.",
+      "local": "Berliner €21,5-Mio.-Fonds von Gloria Bäuerlein – einer der ersten von einer Frau geführten Solo-GP-Fonds Europas."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/europe-first-female-solo-gp-fund-news",
+        "title": "Gloria Bäuerlein closes one of Europe's first female solo GP funds",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "fund size, check size, LP count, stage, sectors, GP background",
+        "quote": "fund of €21.5m; one of the first female solo GP funds in Europe ... Out of the 100 LPs Bäuerlein approached, 95 of them agreed to put money into the pot ... investing anywhere from 200,000 to €700,000 initially ... worked as a principal at VC firm Index"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund formerly named 'Beyond Capital' before renaming to Puzzle Ventures.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-cocoa-ventures",
+    "name": { "en": "Cocoa Ventures" },
+    "aka": ["Cocoa", "Cocoa VC"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.cocoa.vc",
+    "links": {
+      "linkedin": "https://uk.linkedin.com/in/calfonsorico",
+      "other": ["https://sifted.eu/articles/cocoa-ventures-vc-fund-angel"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$17m", "usd": 17000000, "currency": "USD" },
+      "funds": [
+        { "name": "Cocoa Fund I", "vintage_year": 2022, "size": { "raw": "$17m", "usd": 17000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$150k-500k", "usd_min": 150000, "usd_max": 500000 },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["generalist", "climate-energy", "fintech", "web3-crypto"],
+      "thesis": "Pre-seed/seed fund run like an angel — never leads rounds, takes no board seats, deliberately sector-agnostic — co-founded by Carmen Alfonso Rico and Anthony Danon to support founders through fundraising."
+    },
+    "track_record": {
+      "portfolio_count": "11 (6 closed + 5 committed at launch)",
+      "notable_investments": [
+        { "company": "Speckle", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Choice", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Carmen Alfonso Rico", "role": "Co-founder / General Partner", "linkedin": "https://uk.linkedin.com/in/calfonsorico" },
+      { "name": "Anthony Danon", "role": "Co-founder / General Partner" }
+    ],
+    "team_size": 2,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "first-time-fund", "angel-style", "operator-led"],
+    "summary": {
+      "en": "London-based $17m pre-seed/seed fund launched in 2022 by Carmen Alfonso Rico and Anthony Danon, designed to act like an angel: $150k-500k cheques, no board seats, never leads, sector-agnostic."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/cocoa-ventures-vc-fund-angel",
+        "title": "Carmen Rico launches Cocoa Ventures, a VC fund designed to act like an angel",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "fund size, check size, founders, stage, founding year, portfolio",
+        "quote": "$17m VC fund ... Carmen Rico and Anthony Danon ... pre-seed and seed ... $150k-500k ... announced May 18, 2022 ... Six closed deals and five committed investments"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Carmen Alfonso Rico is described variously as co-founder/Managing Director and 'solo'-style GP; fund co-founded with Anthony Danon. Fund size reported as $17m (Sifted) and sometimes summarized as €15m.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-anamcara-capital",
+    "name": { "en": "Anamcara Capital" },
+    "aka": ["Anamcara"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.anamcaracapital.com",
+    "links": {
+      "other": ["https://sifted.eu/articles/solo-gp-fund-woman-anamcara-capital-news"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$10.6m", "usd": 10600000, "currency": "USD" },
+      "funds": [
+        { "name": "Anamcara Fund I", "vintage_year": 2023, "size": { "raw": "$10.6m", "usd": 10600000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "~$200k angel cheques (range $100k-$5m)", "usd_min": 200000, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "One of Europe's first female solo-GP funds, run by Annelie Ajami, writing ~$200k angel-sized cheques into 25-30 pre-seed/seed B2B, AI and agentic software companies; never leads, no board seats."
+    },
+    "track_record": {
+      "portfolio_count": "25-30 target",
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Annelie Ajami", "role": "Solo GP / Founder & General Partner" }
+    ],
+    "team_size": 1,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["solo-gp", "emerging-manager", "first-time-fund", "female-gp"],
+    "summary": {
+      "en": "London-based $10.6m solo-GP fund led by Annelie Ajami (one of Europe's first female solo GPs), investing ~$200k cheques into pre-seed/seed B2B software, AI and agentic companies across core European markets."
+    },
+    "sources": [
+      {
+        "url": "https://www.uktechnews.info/2023/03/30/anamcara-closes-10-6m-seed-fund-to-invest-in-founders-building-defining-b2b-software-companies/",
+        "title": "Anamcara Closes $10.6M Seed Fund to Invest in Founders Building Defining B2B Software Companies",
+        "publisher": "UK Tech News",
+        "accessed": "2026-06-02",
+        "supports": "fund size, B2B software focus",
+        "quote": "Anamcara Closes $10.6M Seed Fund to Invest in Founders Building Defining B2B Software Companies"
+      },
+      {
+        "url": "https://sifted.eu/articles/solo-gp-fund-woman-anamcara-capital-news",
+        "title": "Anamcara closes first fund, joining a wave of solo female GP funds",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "solo GP status, check size, never leads",
+        "quote": "Annelie Ajami is one of the first female solo GPs in Europe ... Ajami writing $200k angel-sized cheques, collaborating with other investors, never leading rounds and not taking board seats"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size reported as $10.6m (USD) / ~€9.7m. Has since launched a larger Fund II.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-underline-ventures",
+    "name": { "en": "Underline Ventures" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "Romania",
+    "hq_city": "Bucharest",
+    "website": "https://underline.vc",
+    "links": {
+      "other": ["https://tech.eu/2023/11/15/eastern-europe-s-first-solo-gp-venture-fund-underline-ventures-achieves-20m-target/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$20M", "usd": 20000000, "currency": "USD" },
+      "funds": [
+        { "name": "Underline Fund I", "vintage_year": 2023, "size": { "raw": "$20M (≈€18.4M)", "usd": 20000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "~$500K average", "usd_min": 500000, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Eastern Europe", "CEE"],
+      "sector_focus": ["generalist", "saas-enterprise"],
+      "thesis": "Eastern Europe's first solo-GP, private-only venture fund, run by How to Web founder Bogdan Iordache, backing 20+ early-stage startups by Eastern European founders with ~$500k tickets."
+    },
+    "track_record": {
+      "portfolio_count": "7+",
+      "notable_investments": [
+        { "company": "Nestor", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Videowise", "sector": "ecommerce", "outcome": "active" },
+        { "company": "Veridion", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Turneo", "sector": "saas-enterprise", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Bogdan Iordache", "role": "Solo GP / General Partner" }
+    ],
+    "team_size": 1,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["solo-gp", "emerging-manager", "first-time-fund", "cee"],
+    "summary": {
+      "en": "Bucharest-based $20m (≈€18.4m) fund — Eastern Europe's first solo-GP venture fund — run by How to Web founder Bogdan Iordache, backing 20+ early-stage Eastern European founders with ~$500k average tickets, funded entirely by founders/operators (UiPath, Bitdefender, Telerik)."
+    },
+    "sources": [
+      {
+        "url": "https://tech.eu/2023/11/15/eastern-europe-s-first-solo-gp-venture-fund-underline-ventures-achieves-20m-target/",
+        "title": "Eastern Europe's first solo GP venture fund, Underline Ventures, achieves $20M target",
+        "publisher": "Tech.eu",
+        "accessed": "2026-06-02",
+        "supports": "fund size, solo GP status, ticket size, portfolio, LP base",
+        "quote": "first solo general partner venture fund in Eastern Europe has closed its first fund at $20M ... average investment ticket of $500K ... backed entirely by tech founders and operators from UiPath, Telerik, Bitdefender"
+      },
+      {
+        "url": "https://siliconcanals.com/underline-ventures-closes-fund-at-18-4m/",
+        "title": "Romania's Underline Ventures closes first fund at €18.4M",
+        "publisher": "Silicon Canals",
+        "accessed": "2026-06-02",
+        "supports": "EUR equivalent fund size",
+        "quote": "Underline Ventures closes first fund at €18.4M to back early-stage Eastern European founders"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size reported as $20M (Tech.eu) and €18.4M (Silicon Canals).",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-booom",
+    "name": { "en": "BOOOM" },
+    "aka": ["Booom"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://www.booom.vc",
+    "links": {
+      "other": ["https://sifted.eu/articles/solo-gp-booom-e17m-fund-news"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€17m", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "BOOOM Fund I", "vintage_year": 2024, "size": { "raw": "€17m", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€100k-€400k", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise", "logistics", "ai-ml"],
+      "thesis": "Berlin-based solo-GP microfund by Felix Plapperer backing European B2B software at pre-seed/seed with a focus on supply chain and procurement tech; the three sennder founders co-initiated the fund and mentor portfolio companies."
+    },
+    "track_record": {
+      "portfolio_count": 11,
+      "notable_investments": [
+        { "company": "Timberhub", "sector": "logistics", "outcome": "active" },
+        { "company": "Ankar AI", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Spread AI", "sector": "saas-enterprise", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Felix Plapperer", "role": "Solo GP / Founder" }
+    ],
+    "team_size": 1,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["solo-gp", "emerging-manager", "first-time-fund", "microfund"],
+    "summary": {
+      "en": "Berlin-based €17m solo-GP microfund led by Felix Plapperer, writing €100k-€400k cheques into ~30 European B2B software startups (especially supply chain / procurement tech), with the three sennder founders co-initiating and mentoring the portfolio.",
+      "local": "Berliner €17-Mio.-Solo-GP-Mikrofonds von Felix Plapperer für europäische B2B-Software-Startups, mit Schwerpunkt auf Supply-Chain- und Procurement-Tech."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/solo-gp-booom-e17m-fund-news",
+        "title": "BOOOM: A new €17m VC fund from solo GP Felix Plapperer",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "fund size, check size, portfolio, stage, sectors, sennder mentors",
+        "quote": "BOOOM, announced a final close of its first fund at €17m in July 2024 ... write cheques of €100k-€400k in around 30 companies ... invested in 11 companies ... three founders of German logistics unicorn sennder ... co-initiated the fund"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Plapperer is described as solo GP though sennder founders 'co-initiated' the fund as mentors/anchors, not co-GPs.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-no-label-ventures",
+    "name": { "en": "No Label Ventures" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://nolabel.ventures",
+    "links": {
+      "linkedin": "https://uk.linkedin.com/company/nolabelvc",
+      "other": ["https://tech.eu/2023/03/29/no-label-ventures-the-new-vc-firm-for-immigrant-founders/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$15m", "usd": 15000000, "currency": "USD" },
+      "funds": [
+        { "name": "No Label Fund I", "vintage_year": 2023, "size": { "raw": "$15m", "usd": 15000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$150k-$250k", "usd_min": 150000, "usd_max": 250000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United Kingdom"],
+      "sector_focus": ["generalist"],
+      "thesis": "Solo-GP fund by Lebanese immigrant Ramzi Rafih (ex-KKR, Silver Lake) backing immigrant and under-represented founders across Europe, providing first cheques plus visa support and client introductions."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": ["George Roberts (KKR co-founder, LP)"]
+    },
+    "people": [
+      { "name": "Ramzi Rafih", "role": "Solo GP / Founder & General Partner" }
+    ],
+    "team_size": 1,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["solo-gp", "emerging-manager", "first-time-fund", "immigrant-founders"],
+    "summary": {
+      "en": "London-based $15m solo-GP fund founded in 2022 by Ramzi Rafih (ex-KKR, Silver Lake) investing $150k-$250k into immigrant and under-represented founders across Europe, with visa support and client introductions."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/first-time-european-vc-funds-2023",
+        "title": "All the new first-time European VC funds of 2023",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "fund size, check size, focus, solo GP status",
+        "quote": "No Label Ventures | Ramzi Rafih | $15m first close, closed half | UK/London | Pre-seed/seed | Immigrant founder startups | $150k-$250k | Solo GP: Yes"
+      },
+      {
+        "url": "https://tech.eu/2023/03/29/no-label-ventures-the-new-vc-firm-for-immigrant-founders/",
+        "title": "No Label Ventures - the new VC Firm for immigrant founders",
+        "publisher": "Tech.eu",
+        "accessed": "2026-06-02",
+        "supports": "founding, founder background, immigrant focus, LP",
+        "quote": "founded in 2022 by Ramzi Rafih, a Lebanese immigrant ... an early backer of the fund is George Roberts, Co-founder ... of KKR"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "$15m described as fund target/first close; Rafih confirmed solo GP.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-common-magic",
+    "name": { "en": "Common Magic" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.commonmagic.xyz",
+    "links": {
+      "other": ["https://sifted.eu/articles/common-magic-sarah-drinkwater-community-news"]
+    },
+    "capital": {
+      "current_fund": { "raw": "£10m target", "usd": null, "currency": "GBP" },
+      "funds": [
+        { "name": "Common Magic Fund I", "vintage_year": 2023, "size": { "raw": "£10m target (one third closed at announcement)", "usd": null, "currency": "GBP" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "£100k-£150k average", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Europe", "United States"],
+      "sector_focus": ["consumer", "generalist"],
+      "thesis": "Solo-GP fund by ex-Googler and prolific angel Sarah Drinkwater backing European and US pre-seed/seed startups building 'products with community at their core'; never leads, no board seats, prefers underestimated founders."
+    },
+    "track_record": {
+      "portfolio_count": "~30 target",
+      "co_investors": ["Atomico", "Phoenix Court fund-of-funds", "Basecamp"]
+    },
+    "people": [
+      { "name": "Sarah Drinkwater", "role": "Solo GP / Founder" }
+    ],
+    "team_size": 1,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["solo-gp", "emerging-manager", "first-time-fund", "female-gp", "community"],
+    "summary": {
+      "en": "London-based £10m solo-GP fund led by ex-Googler Sarah Drinkwater, writing £100k-£150k cheques into ~30 European and US pre-seed/seed startups building community-led products; never leads or takes board seats."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/common-magic-sarah-drinkwater-community-news",
+        "title": "Solo GP Sarah Drinkwater raises fund to back 'community' startups",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "fund size, check size, portfolio target, stage, never-leads",
+        "quote": "Sarah Drinkwater ... raised a third of a £10m fund ... back about 30 companies with cheques of £100k-150k on average ... won't lead deals or take board seats"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "£10m is target; one-third closed at announcement (2023).",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-araya-ventures",
+    "name": { "en": "Araya Ventures", "local": "Arāya Ventures" },
+    "aka": ["Araya Super Angel Fund", "Arāya Ventures"],
+    "type": "micro-vc",
+    "subtypes": ["vc", "angel-syndicate"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://araya.ventures",
+    "links": {
+      "other": ["https://sifted.eu/articles/araya-ventures-first-fund-of-20m"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$26.3m final close (£19m target)", "usd": 26300000, "currency": "USD" },
+      "funds": [
+        { "name": "Araya Super Angel Fund", "vintage_year": 2024, "size": { "raw": "£8.25m initial close, £19m target, $26.3m final close", "usd": 26300000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$200k-550k", "usd_min": 200000, "usd_max": 550000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United Kingdom", "Europe"],
+      "sector_focus": ["healthtech", "fintech", "climate-energy", "ecommerce"],
+      "thesis": "Solo-GP super-angel fund by Rupa Ganatra-Popat planning to back up to 60 pre-seed/seed founders across healthtech, fintech, climate tech, commerce and the future of work."
+    },
+    "track_record": {
+      "portfolio_count": "up to 60 target",
+      "co_investors": ["British Business Investments (LP)"]
+    },
+    "people": [
+      { "name": "Rupa Ganatra-Popat", "role": "Solo GP / Founder" }
+    ],
+    "team_size": 1,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["solo-gp", "emerging-manager", "first-time-fund", "female-gp", "super-angel"],
+    "summary": {
+      "en": "London-based solo-GP 'Super Angel' fund founded in 2022 by Rupa Ganatra-Popat; £8.25m initial close in 2024 toward a £19m target (final close $26.3m in 2025), writing $200k-550k cheques into up to 60 pre-seed/seed healthtech, fintech, climate and commerce startups."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/new-european-vc-funds-2024",
+        "title": "All the new first-time European VC funds of 2024",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "initial close, target, check size, solo GP, sectors",
+        "quote": "Araya Super Angel Fund | Rupa Popat (solo GP) | Closed £8.25m, target £19m | UK/London | Pre-seed, seed | Climate, health, fintech, commerce, work | $200k-550k"
+      },
+      {
+        "url": "https://www.eu-startups.com/2025/03/araya-ventures-rolls-out-e22-million-debut-fund-to-back-60-innovative-startups/",
+        "title": "Arāya Ventures rolls out €22 million debut fund to back 60 innovative startups",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-02",
+        "supports": "second close, BBI commitment, portfolio target",
+        "quote": "Arāya Ventures rolls out €22 million debut fund to back 60 innovative startups"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Multiple closes reported: £8.25m (Aug 2024), €22m / £6m BBI commitment (Mar 2025), $26.3m final close (Jul 2025).",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-andrena-ventures",
+    "name": { "en": "Andrena Ventures" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://andrena.vc",
+    "links": {
+      "other": ["https://techcrunch.com/2024/04/29/andrena-ventures-solo-gp/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$12m target (€11.1m first close)", "usd": 12000000, "currency": "USD" },
+      "funds": [
+        { "name": "Andrena Fund I", "vintage_year": 2024, "size": { "raw": "$12m target; €11.1m first close", "usd": 12000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United Kingdom"],
+      "sector_focus": ["fintech"],
+      "thesis": "Solo-GP fund by Gideon Valkin (early Monzo team) backing second-generation startups from Europe's fintech 'mafias' at pre-seed and seed."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Gideon Valkin", "role": "Solo GP / General Partner" }
+    ],
+    "team_size": 1,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["solo-gp", "emerging-manager", "first-time-fund", "fintech-mafia"],
+    "summary": {
+      "en": "London-based $12m solo-GP fund launched in 2024 by Monzo alum Gideon Valkin, backing second-generation founders spinning out of Europe's fintech success stories at pre-seed and seed (€11.1m first close)."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2024/04/29/andrena-ventures-solo-gp/",
+        "title": "Solo GP fund Andrena Ventures hopes to carry startup talent onto its next challenges",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "solo GP status, fund size target, stage, focus",
+        "quote": "Andrena Ventures is a solo GP ... fund based in the U.K. that wants to support second-generation startups at the pre-seed and seed stages ... raising $12 million ... general partner is Gideon Valkin"
+      },
+      {
+        "url": "https://www.eu-startups.com/2024/04/london-based-andrena-ventures-reaches-first-close-of-e111-million-fund-to-back-europes-fintech-mafias/",
+        "title": "London-based Andrena Ventures reaches first close of €11.1 million fund",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-02",
+        "supports": "first close amount, fintech mafia focus",
+        "quote": "Andrena Ventures reaches first close of €11,1 million fund to back Europe's fintech mafias"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "$12m target with €11.1m first close (April 2024).",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-np-hard-ventures",
+    "name": { "en": "NP-Hard Ventures" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "Netherlands",
+    "hq_city": "Amsterdam",
+    "website": "https://nphard.vc",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/ankehuiskes/",
+      "other": ["https://sifted.eu/articles/np-hard-ventures-12m-fund"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€12m", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "NP-Hard Fund I", "vintage_year": 2023, "size": { "raw": "€12m", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "~€250k average", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "Operator- and woman-led debut fund (Anke Huiskes running it full-time, with serial-founder co-GPs part-time) backing ~20 product-obsessed pre-seed B2B software founders, ~25% of capital in the US."
+    },
+    "track_record": {
+      "portfolio_count": 15,
+      "notable_investments": [
+        { "company": "Tldraw", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Terraform", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Emidat", "sector": "climate-energy", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Anke Huiskes", "role": "Co-founder / Managing Partner", "linkedin": "https://www.linkedin.com/in/ankehuiskes/" },
+      { "name": "Micha Hernandez van Leuffen", "role": "Co-founder (part-time)" },
+      { "name": "Paul Veugen", "role": "Co-founder (part-time)" }
+    ],
+    "team_size": 3,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "first-time-fund", "female-gp", "operator-led", "microfund"],
+    "summary": {
+      "en": "Amsterdam-based €12m debut operator- and woman-led microfund (Anke Huiskes full-time, with serial-founder co-GPs part-time) writing ~€250k cheques into ~20 pre-seed B2B software startups across Europe and the US."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/np-hard-ventures-12m-fund",
+        "title": "Operator- and woman-led VC NP-Hard Ventures raises its debut €12m fund",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "fund size, check size, portfolio count, structure, stage",
+        "quote": "debut €12m fund ... average cheques of €250k into 20 pre-seed startups ... about 25% of the fund allocated to US startups ... already made 15 investments, including Tldraw, Terraform, and Emidat ... Huiskes is running the fund full time, while her cofounders ... are investing part time"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Often grouped with solo GPs (Sifted 2023 list tags it solo, Anke Huiskes), but technically has two part-time co-GPs; classified here as operator-led emerging manager.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-openseed-vc",
+    "name": { "en": "OpenSeed" },
+    "aka": ["OpenSeed VC", "Openseed"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.openseed.vc",
+    "links": {
+      "other": ["https://sifted.eu/articles/new-european-vc-funds-2024"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$10m target (~30% minimum fund size closed)", "usd": 10000000, "currency": "USD" },
+      "funds": [
+        { "name": "OpenSeed Fund I", "vintage_year": 2024, "size": { "raw": "$10m target; ~30% minimum fund size closed at first close", "usd": 10000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "Africa"],
+      "sector_focus": ["generalist"],
+      "thesis": "Solo-GP fund by Maria Rotilu, described as one of Europe's first Black solo GPs, backing operator-led founders at pre-seed and earlier across Europe and Africa."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Maria Rotilu", "role": "Solo GP / Founder" }
+    ],
+    "team_size": 1,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["solo-gp", "emerging-manager", "first-time-fund", "operator-led"],
+    "summary": {
+      "en": "London-based solo-GP fund (target $10m) launched in 2024 by Maria Rotilu — reported as one of Europe's first Black solo GPs — backing operator-led founders at pre-seed and earlier across Europe and Africa."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/new-european-vc-funds-2024",
+        "title": "All the new first-time European VC funds of 2024",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "fund size target, first close, solo GP, stage, geo focus",
+        "quote": "Openseed | Maria Rotilu (solo GP) | Closed '30% minimum fund size', targeting $10m | UK/London | Pre-seed and earlier | Operator-led Europe/Africa"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Exact closed amount not disclosed ('30% minimum fund size'); target $10m. Single primary list source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-backfuture-ventures",
+    "name": { "en": "Backfuture Ventures" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://backfuture.vc",
+    "links": {
+      "other": ["https://sifted.eu/articles/new-european-vc-funds-2024"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$10m target ($3m first close)", "usd": 10000000, "currency": "USD" },
+      "funds": [
+        { "name": "Backfuture Fund I", "vintage_year": 2024, "size": { "raw": "$3m first close, $10m target", "usd": 10000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "£100k-200k", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise"],
+      "thesis": "Solo-GP fund by SaaStr Europa / SaaStock founder Alex Theuma backing SaaS startups at pre-seed and seed with £100k-200k cheques."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Alex Theuma", "role": "Solo GP / Founder" }
+    ],
+    "team_size": 1,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["solo-gp", "emerging-manager", "first-time-fund", "saas"],
+    "summary": {
+      "en": "London-based solo-GP fund launched in 2024 by SaaStock founder Alex Theuma; $3m first close toward a $10m target, writing £100k-200k cheques into pre-seed/seed SaaS startups."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/new-european-vc-funds-2024",
+        "title": "All the new first-time European VC funds of 2024",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "first close, target, solo GP, stage, check size",
+        "quote": "Backfuture Ventures | Alex Theuma (solo GP) | Closed $3m, target $10m | UK/London | Pre-seed, seed | SaaS | £100k-200k"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "$3m first close toward $10m target; single primary list source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-14peaks-capital",
+    "name": { "en": "14Peaks Capital" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "europe",
+    "country": "Switzerland",
+    "hq_city": "Zurich",
+    "website": "https://www.14peaks.com",
+    "links": {
+      "other": ["https://sifted.eu/articles/new-european-vc-funds-2024"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$30m", "usd": 30000000, "currency": "USD" },
+      "funds": [
+        { "name": "14Peaks Fund I", "vintage_year": 2024, "size": { "raw": "$30m", "usd": 30000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise", "fintech"],
+      "thesis": "Solo-GP fund by Edoardo Ermotti backing B2B SaaS, fintech and future-of-work startups from pre-seed to Series A."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Edoardo Ermotti", "role": "Solo GP / Founder" }
+    ],
+    "team_size": 1,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["solo-gp", "emerging-manager", "first-time-fund", "saas"],
+    "summary": {
+      "en": "Switzerland-based $30m solo-GP fund led by Edoardo Ermotti, investing across B2B SaaS, fintech and future-of-work from pre-seed to Series A."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/new-european-vc-funds-2024",
+        "title": "All the new first-time European VC funds of 2024",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "fund size, solo GP, stage, sectors",
+        "quote": "14Peaks Capital | Edoardo Ermotti (solo GP) | $30m closed | Switzerland | Pre-seed-Series A | B2B SaaS fintech, future of work"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "HQ city (Zurich) inferred for Swiss base; not explicitly stated in source. Single primary list source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-identity-vc",
+    "name": { "en": "Identity.vc" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://www.identity.vc",
+    "links": {
+      "other": ["https://sifted.eu/articles/new-european-vc-funds-2024"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€15m closed, €50m target", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Identity.vc Fund I", "vintage_year": 2024, "size": { "raw": "€15m closed, €50m target", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "€250k-€1.5m", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["generalist", "impact"],
+      "thesis": "Emerging fund investing in LGBTQ+-led startups across Europe from pre-seed to Series A with €250k-€1.5m cheques."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": []
+    },
+    "people": [],
+    "team_size": null,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "first-time-fund", "lgbtq", "impact"],
+    "summary": {
+      "en": "Berlin-based emerging fund (€15m closed toward a €50m target) investing €250k-€1.5m into LGBTQ+-led startups across Europe from pre-seed to Series A."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/new-european-vc-funds-2024",
+        "title": "All the new first-time European VC funds of 2024",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "fund size, target, check size, focus, stage",
+        "quote": "Identity.vc | Closed €15m, target €50m | Germany/Berlin | Pre-seed-Series A | LGBTQ+ led startups | €250k-€1.5m"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Single primary list source; team/people not captured.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-varsity-vc",
+    "name": { "en": "Varsity VC" },
+    "aka": ["Varsity"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://www.varsity.vc",
+    "links": {
+      "other": ["https://sifted.eu/articles/varsity-vc-seed-fund-news"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€75m closed, €150m target", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Varsity Fund I", "vintage_year": 2024, "size": { "raw": "€75m closed, targeting €150m", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": "€500k-€6m", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["fintech", "healthtech", "climate-energy", "saas-enterprise"],
+      "thesis": "First-time pan-European seed fund founded by ex-Société Générale deputy CEO Didier Valet with two ex-Serena partners, investing €500k-€6m across fintech, healthtech, climate tech and enterprise software, keeping two-thirds for follow-ons."
+    },
+    "track_record": {
+      "portfolio_count": "up to 30 target",
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Didier Valet", "role": "Co-founder / General Partner" },
+      { "name": "Kamel Zeroual", "role": "Co-founder / Partner (ex-Serena)" },
+      { "name": "Florent Thomas", "role": "Co-founder / Partner (ex-Serena)" }
+    ],
+    "team_size": 3,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "first-time-fund", "seed"],
+    "summary": {
+      "en": "Paris-based first-time seed fund (€75m closed, €150m target) founded in 2024 by ex-Société Générale deputy CEO Didier Valet with two ex-Serena partners, writing €500k-€6m cheques across European fintech, healthtech, climate and enterprise software.",
+      "local": "Fonds de capital-risque parisien de premier tour (€75m levés, objectif €150m) fondé par Didier Valet, ex-DG délégué de Société Générale, pour le fintech, healthtech, climat et logiciels d'entreprise européens."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/varsity-vc-seed-fund-news",
+        "title": "Ex-Société Générale's exec launches new €150m European seed fund",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "fund size, target, check size, sectors, founders, follow-on strategy",
+        "quote": "closed its first €75m, targeting €150m ... seed investments in Europe across four verticals including fintech, healthtech, climate tech and enterprise software, writing €500k-€6m tickets ... back up to 30 companies, with two-thirds of the fund kept for follow-ons"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Team-led first-time fund (three co-founders), not solo GP, but a newly-raised emerging manager. Sifted 2024 list tagged Valet 'solo GP' which conflicts with the three-partner structure; classified here as emerging-manager team.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-evercurious-vc",
+    "name": { "en": "Evercurious VC" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "europe",
+    "country": "Greece",
+    "hq_city": "Athens",
+    "website": "https://www.evercurious.vc",
+    "links": {
+      "other": ["https://sifted.eu/articles/new-european-vc-funds-2024"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€12.5m closed, €20m target", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Evercurious Fund I", "vintage_year": 2024, "size": { "raw": "€12.5m closed, €20m target", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Greece", "Europe"],
+      "sector_focus": ["deeptech", "generalist"],
+      "thesis": "New Greek pre-seed/seed fund (founders include a former CERN researcher) backing Greek founders and their European expansion."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": []
+    },
+    "people": [],
+    "team_size": null,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "first-time-fund", "greece"],
+    "summary": {
+      "en": "Athens-based first-time pre-seed/seed fund (€12.5m closed toward a €20m target) backing Greek founders and their European expansion, with a deeptech tilt (founders include a former CERN researcher)."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/new-european-vc-funds-2024",
+        "title": "All the new first-time European VC funds of 2024",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "fund size, target, stage, geo focus",
+        "quote": "Evercurious VC | Former CERN researcher; engineer-turned-VC | Closed €12.5m, target €20m | Greece/Athens | Pre-seed, seed | Greek/European expansion"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Single primary list source; GP names not captured.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-zaka-vc",
+    "name": { "en": "Zaka" },
+    "aka": ["Zaka VC"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "europe",
+    "country": "Czech Republic",
+    "hq_city": "Prague",
+    "website": "https://www.zaka.vc",
+    "links": {
+      "other": ["https://sifted.eu/articles/new-european-vc-funds-2024"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€10.5m closed, €15m target", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Zaka Fund I", "vintage_year": 2024, "size": { "raw": "€10.5m closed, €15m target", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€250k-€300k", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "CEE"],
+      "sector_focus": ["saas-enterprise"],
+      "thesis": "New Prague-based pre-seed/seed microfund founded by two Czech serial entrepreneurs, writing €250k-€300k cheques into B2B software startups."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": []
+    },
+    "people": [],
+    "team_size": 2,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "first-time-fund", "cee", "microfund"],
+    "summary": {
+      "en": "Prague-based first-time microfund (€10.5m closed toward a €15m target) founded by two Czech serial entrepreneurs, writing €250k-€300k cheques into pre-seed/seed B2B software startups."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/new-european-vc-funds-2024",
+        "title": "All the new first-time European VC funds of 2024",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "fund size, target, check size, stage, sector",
+        "quote": "Zaka | Two Czech serial entrepreneurs | €10.5m closed, €15m target | Czech Republic/Prague | Pre-seed, seed | B2B software | €250k-€300k"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Single primary list source; GP names not captured.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-dutch-operator-fund",
+    "name": { "en": "Dutch Operator Fund" },
+    "type": "micro-vc",
+    "subtypes": ["vc", "angel-syndicate"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "europe",
+    "country": "Netherlands",
+    "hq_city": "Amsterdam",
+    "website": "https://www.dutchoperatorfund.com",
+    "links": {
+      "other": ["https://sifted.eu/articles/new-european-vc-funds-2024"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€2m", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Dutch Operator Fund I", "vintage_year": 2024, "size": { "raw": "€2m", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€75k-200k", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Netherlands"],
+      "sector_focus": ["generalist"],
+      "thesis": "Small operator-led fund pooling seven Dutch entrepreneurs/angels to write €75k-200k cheques into early-stage Dutch startups."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": []
+    },
+    "people": [],
+    "team_size": 7,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "first-time-fund", "operator-led", "microfund"],
+    "summary": {
+      "en": "Amsterdam-based €2m operator microfund pooling seven Dutch entrepreneurs/angels to write €75k-200k cheques into early-stage Dutch startups.",
+      "local": "Amsterdams operator-microfonds van €2 miljoen, opgezet door zeven Nederlandse ondernemers/angels, met cheques van €75k-200k voor vroege-fase Nederlandse startups."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/new-european-vc-funds-2024",
+        "title": "All the new first-time European VC funds of 2024",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "fund size, check size, structure, geo focus",
+        "quote": "Dutch Operator Fund | Seven Dutch entrepreneurs/angels | Closed €2m | Netherlands/Amsterdam | Pre-seed, seed | Dutch startups | €75k-200k"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Single primary list source; small €2m vehicle, borderline between angel collective and microfund.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-impact-shakers-ventures",
+    "name": { "en": "Impact Shakers Ventures" },
+    "aka": ["Impact Shakers"],
+    "type": "micro-vc",
+    "subtypes": ["vc", "incubator"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "europe",
+    "country": "Belgium",
+    "hq_city": "Brussels",
+    "website": "https://impactshakers.com",
+    "links": {
+      "other": ["https://sifted.eu/articles/new-european-vc-funds-2024"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€5m closed, €20m target", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Impact Shakers Fund I", "vintage_year": 2024, "size": { "raw": "€5m closed, targeting €20m", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€150k initial; up to €1.5m follow-on", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["impact"],
+      "thesis": "Early-stage impact fund led by Yonca Braeckman backing underrepresented founders and impact startups, with €150k initial cheques and up to €1.5m in follow-on."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Yonca Braeckman", "role": "Cofounder / CEO" }
+    ],
+    "team_size": null,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "first-time-fund", "impact", "female-gp"],
+    "summary": {
+      "en": "Brussels-based early-stage impact fund (€5m closed toward a €20m target) led by Yonca Braeckman, writing €150k initial cheques (up to €1.5m follow-on) into impact and underrepresented-founder startups across Europe."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/new-european-vc-funds-2024",
+        "title": "All the new first-time European VC funds of 2024",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "fund size, target, check size, focus, lead",
+        "quote": "Impact Shakers | Yonca Braeckman (cofounder/CEO) | Closed €5m, targeting €20m | Belgium | Early-stage | Impact startups | €150k initial; up to €1.5m follow-on"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Single primary list source; HQ city (Brussels) inferred for Belgium base.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "eu-backtrace-capital",
+    "name": { "en": "Backtrace Capital" },
+    "aka": ["Backtrace"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Munich",
+    "website": "https://www.backtrace.vc",
+    "links": {
+      "other": ["https://sifted.eu/articles/new-european-vc-funds-2024"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€10m closed, €30m target", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Backtrace Fund I", "vintage_year": 2024, "size": { "raw": "€10m closed, €30m target", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€750k-1m (pre-seed); >€1m (seed)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "DACH"],
+      "sector_focus": ["saas-enterprise", "cybersecurity", "ai-ml"],
+      "thesis": "Emerging Munich fund by two former Target Partners investors backing dev tools, security and AI-infrastructure startups at pre-seed and seed."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": []
+    },
+    "people": [],
+    "team_size": 2,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["emerging-manager", "first-time-fund", "deeptech", "microfund"],
+    "summary": {
+      "en": "Munich-based first-time fund (€10m closed toward a €30m target) by two former Target Partners investors, writing €750k-1m pre-seed cheques (>€1m at seed) into dev tools, security and AI-infrastructure startups.",
+      "local": "Münchner Erstfonds (€10 Mio. geschlossen, Ziel €30 Mio.) von zwei ehemaligen Target-Partners-Investoren für Dev-Tools, Security und AI-Infrastruktur."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/new-european-vc-funds-2024",
+        "title": "All the new first-time European VC funds of 2024",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "fund size, target, check size, founders, sectors, stage",
+        "quote": "Backtrace | Two former Target Partners investors | €10m closed, €30m target | Germany/Munich | Pre-seed, seed | Dev tools, security, AI infrastructure | €750k-1m (pre-seed); >€1m (seed)"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Single primary list source; GP names not captured.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  }
+]

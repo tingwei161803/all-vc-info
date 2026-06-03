@@ -1,0 +1,1167 @@
+[
+  {
+    "id": "eu-european-investment-fund",
+    "name": { "en": "European Investment Fund", "local": "European Investment Fund" },
+    "aka": ["EIF"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 1994,
+    "region": "europe",
+    "country": "Luxembourg",
+    "hq_city": "Luxembourg City",
+    "website": "https://www.eif.org",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/european-investment-fund/",
+      "other": ["https://en.wikipedia.org/wiki/European_Investment_Fund"]
+    },
+    "capital": {
+      "aum": { "raw": "€143.7 billion", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "European Tech Champions Initiative (ETCI 1)", "vintage_year": 2023, "size": { "raw": "€3.9bn", "usd": null, "currency": "EUR" } },
+        { "name": "European Tech Champions Initiative II (ETCI 2)", "vintage_year": 2025, "size": { "raw": "€15bn", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["all"],
+      "geo_focus": ["Europe", "European Union"],
+      "sector_focus": ["generalist", "deeptech", "biotech", "climate-energy"],
+      "lead_or_follow": "follow",
+      "thesis": "EU's central fund-of-funds and limited partner — Europe's biggest LP — channeling EU and EIB capital into venture capital, private equity, private debt and guarantees via financial intermediaries to support SMEs and scale-ups."
+    },
+    "track_record": {
+      "co_investors": ["Atomico", "Headline", "Eurazeo"]
+    },
+    "summary": {
+      "en": "The European Investment Fund is the EU's central provider of risk finance for SMEs and the continent's largest limited partner, investing in venture capital and private equity funds (rather than directly in startups), with €143.7bn AUM. It anchors flagship fund-of-funds programmes such as the European Tech Champions Initiative."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/European_Investment_Fund",
+        "title": "European Investment Fund - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "founding year, HQ, AUM, ownership",
+        "quote": "established in 1994 ... €143.7 billion in assets under management"
+      },
+      {
+        "url": "https://sifted.eu/articles/eif-launches-e15bn-fund-of-funds",
+        "title": "EIF launches €15bn fund of funds to back 100 growth-stage VCs",
+        "publisher": "Sifted",
+        "accessed": "2026-06-02",
+        "supports": "ETCI fund sizes",
+        "quote": "a new €15bn fund of funds to back growth-stage investors across the continent ... the first, which raised €3.9bn and has backed 14 €1bn+ funds, from VC firms including Atomico, Headline and Eurazeo"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM figure (€143.7bn, April 2025 per Sifted/Wikipedia) is total assets under management. ETCI 2 size is a target/launch figure.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-eic-accelerator",
+    "name": { "en": "European Innovation Council Accelerator", "local": "European Innovation Council Accelerator" },
+    "aka": ["EIC Accelerator", "EIC Fund"],
+    "type": "government-program",
+    "subtypes": ["accelerator", "vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "Belgium",
+    "hq_city": "Brussels",
+    "website": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+    "links": {
+      "other": ["https://eic.ec.europa.eu/eic-fund_en", "https://eic.ec.europa.eu/index_en"]
+    },
+    "capital": {
+      "aum": { "raw": "EIC Fund signed investment agreements of more than €1.4 billion", "usd": null, "currency": "EUR" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "geo_focus": ["European Union", "Horizon Europe associated countries"],
+      "sector_focus": ["deeptech", "biotech", "climate-energy", "ai-ml", "hardware-semiconductor", "spacetech"],
+      "thesis": "EU flagship deeptech instrument under Horizon Europe: blended finance combining grant funding with direct equity from the EIC Fund for startups developing market-creating breakthrough innovations at TRL 6-8."
+    },
+    "program": {
+      "investment": { "raw": "Grant up to €2.5M + equity €1–€10M from EIC Fund", "usd": null, "currency": "EUR" },
+      "equity_taken_pct": null,
+      "format": "remote",
+      "demo_day": false,
+      "application_url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+      "eligibility": "Single startups and SMEs (including spin-outs), small mid-caps up to 499 employees for investment only, and natural persons intending to establish an SME; from EU Member States and Horizon Europe-associated countries."
+    },
+    "track_record": {
+      "portfolio_count": "Over 150 investment rounds completed",
+      "notable_investments": []
+    },
+    "summary": {
+      "en": "The EIC Accelerator is the EU's flagship deeptech funding programme, run by EISMEA on behalf of the European Commission. It provides blended finance — grants up to €2.5M plus equity of €1–€10M from the EIC Fund — to startups and SMEs developing breakthrough, market-creating innovations.",
+      "local": "Le programme phare de l'UE pour les startups deeptech, combinant subventions et investissements en fonds propres via le Fonds EIC."
+    },
+    "sources": [
+      {
+        "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+        "title": "EIC Accelerator - European Innovation Council",
+        "publisher": "European Commission",
+        "accessed": "2026-06-02",
+        "supports": "grant and equity amounts, eligibility, administration",
+        "quote": "Lump sum contribution below € 2.5 million ... €1 - €10 million in direct equity or quasi-equity ... managed by the European Innovation Council and SMEs Executive Agency (EISMEA) on behalf of the European Commission."
+      },
+      {
+        "url": "https://eic.ec.europa.eu/eic-fund_en",
+        "title": "EIC Fund - European Innovation Council",
+        "publisher": "European Commission",
+        "accessed": "2026-06-02",
+        "supports": "EIC Fund signed agreements, investment rounds",
+        "quote": "signed investment agreements of more than EUR 1.4 billion ... Over 150 investment rounds have been completed"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Equity range stated as €1–€10M on the official Accelerator page; some secondary sources cite €0.5–€15M ranges from different years. Founded 2021 reflects the fully-fledged EIC under Horizon Europe (EIC Pilot ran earlier).",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-bpifrance",
+    "name": { "en": "Bpifrance", "local": "Bpifrance" },
+    "aka": ["Banque publique d'investissement"],
+    "type": "government-program",
+    "subtypes": ["vc", "growth-equity"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Maisons-Alfort",
+    "website": "https://www.bpifrance.fr",
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/Bpifrance", "https://www.bpifrance.fr/la-french-tech"]
+    },
+    "capital": {
+      "aum": { "raw": "€101.7 billion total assets (2022)", "usd": null, "currency": "EUR" }
+    },
+    "strategy": {
+      "stages": ["all"],
+      "geo_focus": ["France"],
+      "sector_focus": ["generalist", "deeptech", "biotech", "climate-energy", "healthtech"],
+      "lead_or_follow": "both",
+      "thesis": "France's public investment bank and de facto sovereign fund: provides loans, guarantees, direct equity and fund-of-funds investment across innovation sectors, and co-coordinates the La French Tech national startup programme."
+    },
+    "summary": {
+      "en": "Bpifrance is the French public investment bank, created in 2012, combining a development bank, export credit agency and sovereign fund. It backs startups through direct equity, fund-of-funds, loans and guarantees, and is a central operator of the La French Tech programme.",
+      "local": "Bpifrance est la banque publique d'investissement française, créée en 2012, regroupant banque de développement, agence de crédit export et fonds souverain ; elle soutient les startups par des investissements directs, des fonds de fonds, des prêts et des garanties."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bpifrance",
+        "title": "Bpifrance - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "founding year, HQ, ownership, total assets",
+        "quote": "2012; 14 years ago (2012) ... Maisons-Alfort, France ... €101.7 billion ... Caisse des dépôts et consignations (50%) ... EPIC Bpifrance (50%)"
+      },
+      {
+        "url": "https://www.bpifrance.fr/la-french-tech",
+        "title": "La French Tech | Bpifrance",
+        "publisher": "Bpifrance",
+        "accessed": "2026-06-02",
+        "supports": "role in La French Tech",
+        "quote": "La French Tech"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Total assets €101.7bn is as of 2022 (Wikipedia); more recent AUM figures may differ. Owned 50/50 by Caisse des dépôts and EPIC Bpifrance.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-la-french-tech",
+    "name": { "en": "La French Tech", "local": "La French Tech" },
+    "aka": ["Mission French Tech", "French Tech Initiative"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://lafrenchtech.gouv.fr",
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/French_Tech", "https://lafrenchtech.gouv.fr/en/programme/french-tech-2030/"]
+    },
+    "strategy": {
+      "stages": ["all"],
+      "geo_focus": ["France"],
+      "sector_focus": ["generalist", "deeptech"],
+      "thesis": "Interministerial French government initiative to structure, promote and internationalise the French startup ecosystem, running flagship cohorts (French Tech Next40/120 and French Tech 2030) rather than directly investing capital."
+    },
+    "program": {
+      "cohort_size": "Next40/120 selects the 120 most successful French startups; French Tech 2030 selects 125 emerging players",
+      "format": "hybrid",
+      "application_url": "https://lafrenchtech.gouv.fr"
+    },
+    "summary": {
+      "en": "La French Tech is an interministerial French government initiative launched in 2013 to strengthen, structure and internationalise the French startup ecosystem. It runs flagship support programmes — French Tech Next40/120 and French Tech 2030 — and is operated alongside Bpifrance.",
+      "local": "La French Tech est une initiative interministérielle lancée en 2013 pour renforcer, structurer et internationaliser l'écosystème français des startups, avec les programmes French Tech Next40/120 et French Tech 2030."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/French_Tech",
+        "title": "French Tech - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "founding year, nature of initiative",
+        "quote": "La French Tech is an interministerial initiative launched in 2013"
+      },
+      {
+        "url": "https://lafrenchtech.gouv.fr/en/programme/french-tech-2030/",
+        "title": "French Tech 2030 - La mission French Tech",
+        "publisher": "Mission French Tech (French government)",
+        "accessed": "2026-06-02",
+        "supports": "cohort programmes Next40/120 and French Tech 2030",
+        "quote": "French Tech Next40/120, for the 120 most successful French start-ups, and French Tech 2030, for 125 emerging innovation players"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "La French Tech is a label/programme, not an investment vehicle; capital is deployed via Bpifrance. Some sources date the creation to late 2013, others reference 2012 minister actions.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-kfw-capital",
+    "name": { "en": "KfW Capital", "local": "KfW Capital" },
+    "aka": ["KfW Capital GmbH & Co. KG"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Frankfurt am Main",
+    "website": "https://www.kfw-capital.de",
+    "links": {
+      "other": ["https://www.kfw-capital.de/Investment-programs/Wachstumsfonds/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Wachstumsfonds Deutschland (Growth Fund Germany)", "vintage_year": null, "size": { "raw": "€1 billion", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "geo_focus": ["Germany", "Europe"],
+      "sector_focus": ["generalist", "deeptech"],
+      "lead_or_follow": "follow",
+      "thesis": "Subsidiary of German development bank KfW that invests only in VC and venture-debt funds (no direct investments) to develop the German and European VC funding landscape; anchors the €1bn Wachstumsfonds Deutschland fund-of-funds."
+    },
+    "summary": {
+      "en": "KfW Capital is the venture arm of Germany's development bank KfW, launched in October 2018, investing exclusively in VC and venture-debt funds to improve access to capital for German tech startups. It anchors the €1bn Wachstumsfonds Deutschland, a key module of the federal Future Fund.",
+      "local": "KfW Capital ist die 2018 gegründete Venture-Tochter der KfW, die ausschließlich in VC- und Venture-Debt-Fonds investiert und den 1-Milliarde-Euro-Wachstumsfonds Deutschland verankert."
+    },
+    "sources": [
+      {
+        "url": "https://www.kfw.de/About-KfW/Newsroom/Latest-News/Pressemitteilungen-Details_787712.html",
+        "title": "Final closing of Wachstumsfonds Deutschland: EUR 1 billion",
+        "publisher": "KfW",
+        "accessed": "2026-06-02",
+        "supports": "Wachstumsfonds Deutschland €1bn size",
+        "quote": "The Growth Fund Germany is a €1 billion venture capital fund of funds ... one of the largest VC funds of funds ever to be set up in Europe."
+      },
+      {
+        "url": "https://www.kfw-capital.de/Investment-programs/Wachstumsfonds/",
+        "title": "Wachstumsfonds Deutschland | KfW Capital",
+        "publisher": "KfW Capital",
+        "accessed": "2026-06-02",
+        "supports": "founding date, fund-of-funds mandate, no direct investments",
+        "quote": "KfW Capital launched operational activities on 15 October 2018 ... KfW Capital only invests through participation in VC funds (i.e., no direct investments)."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding date of 15 Oct 2018 from primary KfW source. Wachstumsfonds reached its €1bn target at final closing.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-high-tech-gruenderfonds",
+    "name": { "en": "High-Tech Gruenderfonds", "local": "High-Tech Gründerfonds" },
+    "aka": ["HTGF"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2005,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Bonn",
+    "website": "https://www.htgf.de/en/",
+    "offices": [
+      { "country": "Germany", "city": "Bonn" },
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "Germany", "city": "Munich" }
+    ],
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/High-Tech_Gr%C3%BCnderfonds"]
+    },
+    "capital": {
+      "aum": { "raw": "over €2 billion across all funds", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "HTGF IV (fourth seed fund)", "vintage_year": 2023, "size": { "raw": "€494m", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€800,000+ initial; up to €2M as lead; total up to €8M per startup", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Germany"],
+      "sector_focus": ["deeptech", "biotech", "climate-energy", "saas-enterprise"],
+      "lead_or_follow": "lead",
+      "thesis": "Germany's most active seed investor — a public-private partnership (~70% public, 30% private) created by federal mandate to close the early-stage funding gap, investing in pre-seed and seed high-tech startups no older than three years."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Tubulis", "sector": "biotech", "outcome": "acquired by Gilead for up to $5 billion (2026)" },
+        { "company": "EGYM", "sector": "healthtech", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "High-Tech Gründerfonds is Germany's most active seed-stage venture investor, founded in 2005 as a public-private partnership (about 70% public, 30% private) to close the early-stage funding gap. It has over €2bn under management across funds and invests €800k+ initial checks in pre-seed and seed high-tech startups.",
+      "local": "Der High-Tech Gründerfonds ist Deutschlands aktivster Seed-Investor, 2005 als öffentlich-private Partnerschaft gegründet, mit über 2 Mrd. Euro Fondsvolumen."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/High-Tech_Gr%C3%BCnderfonds",
+        "title": "High-Tech Gründerfonds - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "founding year, public-private split",
+        "quote": "founded in 2005 ... around 30 per cent private capital and 70 per cent public"
+      },
+      {
+        "url": "https://www.htgf.de/en/venture-capital-investor-2/",
+        "title": "HTGF | Pre-Seed and Seed Investor for High-Tech Startups",
+        "publisher": "High-Tech Gründerfonds",
+        "accessed": "2026-06-02",
+        "supports": "check size, stage, eligibility, fund volume, exits",
+        "quote": "€800,000+ ... Companies must be no older than three years and headquartered in Germany ... Tubulis (acquired by Gilead for up to $5 billion, April 2026)"
+      },
+      {
+        "url": "https://tech.eu/2026/01/15/htgf-where-public-mandate-meets-venture-discipline/",
+        "title": "HTGF: Where public mandate meets venture discipline",
+        "publisher": "Tech.eu",
+        "accessed": "2026-06-02",
+        "supports": "fund volume over €2bn, fourth seed fund €494m, total per-startup limit",
+        "quote": "fund volume of over 2 billion euros across all funds ... closed its fourth seed fund at €494m ... seed funding of up to EUR 2 million as the lead investor, with a total investment limit of EUR 8 million per start-up"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund volume over €2bn and €494m fourth seed fund from secondary (Tech.eu/search summary). Tubulis/Gilead exit reported April 2026.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-deeptech-climate-fonds",
+    "name": { "en": "DeepTech & Climate Fonds", "local": "DeepTech & Climate Fonds" },
+    "aka": ["DTCF"],
+    "type": "government-program",
+    "subtypes": ["vc", "growth-equity"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Bonn",
+    "website": "https://dtcf.de/",
+    "capital": {
+      "aum": { "raw": "€1 billion", "usd": null, "currency": "EUR" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "geo_focus": ["Germany", "Europe"],
+      "sector_focus": ["deeptech", "climate-energy", "robotics", "ai-ml", "biotech"],
+      "lead_or_follow": "both",
+      "thesis": "German government growth-stage fund focused on the capital-intensive growth phase of deeptech and climate-tech companies, funded by the German Future Fund and the ERP Special Fund to address Europe's growth-capital gap."
+    },
+    "summary": {
+      "en": "The DeepTech & Climate Fonds (DTCF) is a €1bn German government growth fund launched in February 2023, funded by the German Future Fund and ERP Special Fund. It invests in the capital-intensive growth phase of deeptech and climate-tech companies across Germany and Europe.",
+      "local": "Der DeepTech & Climate Fonds ist ein 1-Milliarde-Euro-Fonds der Bundesregierung, der seit Februar 2023 in die wachstumsstarke Phase von Deep-Tech- und Climate-Tech-Unternehmen investiert."
+    },
+    "sources": [
+      {
+        "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/EN/Pressemitteilungen/2023/02/20230202-one-billion-euros-for-forward-looking-technologies-in-the-deep-tech-sector.html",
+        "title": "One billion euros for forward-looking technologies in the deep tech sector",
+        "publisher": "German Federal Ministry for Economic Affairs (BMWE)",
+        "accessed": "2026-06-02",
+        "supports": "€1bn size, deep tech focus",
+        "quote": "One billion euros for forward-looking technologies in the deep tech sector"
+      },
+      {
+        "url": "https://dtcf.de/",
+        "title": "DeepTech & Climate Fonds",
+        "publisher": "DTCF",
+        "accessed": "2026-06-02",
+        "supports": "AUM, launch date, growth-phase focus",
+        "quote": "1 Billion EUR in Assets Under Management ... since February 1, 2023, the DeepTech & Climate Fonds has been operating from Germany throughout Europe ... funded by the German Future Fund and the ERP Special Fund"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Launched 1 Feb 2023; €1bn from Future Fund and ERP Special Fund. HTGF announced integration of DTCF in 2026.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-british-patient-capital",
+    "name": { "en": "British Patient Capital", "local": "British Patient Capital" },
+    "aka": ["BPC", "British Business Bank"],
+    "type": "government-program",
+    "subtypes": ["vc", "growth-equity"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.britishpatientcapital.co.uk",
+    "links": {
+      "other": ["https://www.british-business-bank.co.uk/finance-options/equity-finance/patient-capital-funds", "https://sifted.eu/articles/british-patient-capital-scaleups"]
+    },
+    "capital": {
+      "aum": { "raw": "£3,075m total across three programmes", "usd": null, "currency": "GBP" },
+      "funds": [
+        { "name": "Venture Capital Investment Fund (British Patient Capital programme)", "vintage_year": 2018, "size": { "raw": "£2.5 billion", "usd": null, "currency": "GBP" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "geo_focus": ["United Kingdom"],
+      "sector_focus": ["generalist", "biotech", "deeptech"],
+      "lead_or_follow": "follow",
+      "thesis": "Commercial subsidiary of the British Business Bank and the largest domestic institutional investor into UK venture and venture-growth capital funds, set up after the 2017 Patient Capital Review to close the UK growth-capital gap versus the US."
+    },
+    "summary": {
+      "en": "British Patient Capital is a commercial subsidiary of the UK's British Business Bank, launched in 2018 after the Patient Capital Review, with a £2.5bn Venture Capital Investment Fund (and £3,075m across three programmes). It is the largest domestic institutional investor into UK venture and venture-growth funds."
+    },
+    "sources": [
+      {
+        "url": "https://www.british-business-bank.co.uk/finance-options/equity-finance/patient-capital-funds",
+        "title": "Patient Capital Funds | British Business Bank",
+        "publisher": "British Business Bank",
+        "accessed": "2026-06-02",
+        "supports": "founding, subsidiary status, mandate",
+        "quote": "It was launched in 2018 following the Patient Capital Review ... British Patient Capital (BPC) is a commercial subsidiary of the Bank."
+      },
+      {
+        "url": "https://committees.parliament.uk/writtenevidence/109252/html/",
+        "title": "Written evidence submitted by British Business Bank",
+        "publisher": "UK Parliament",
+        "accessed": "2026-06-02",
+        "supports": "fund size £2.5bn and £3,075m total",
+        "quote": "£2.5 billion Venture Capital Investment Fund ... British Patient Capital manages assets with a total value of £3,075m"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "British Business Bank announced retiring the British Patient Capital sub-brand (Sifted), but BPC remains the operating subsidiary as of research date. Fund figures from parliamentary written evidence.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-future-fund-breakthrough",
+    "name": { "en": "Future Fund: Breakthrough", "local": "Future Fund: Breakthrough" },
+    "aka": ["British Business Bank Future Fund Breakthrough"],
+    "type": "government-program",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "Sheffield",
+    "website": "https://www.british-business-bank.co.uk/finance-options/equity-finance/future-fund-breakthrough",
+    "capital": {
+      "current_fund": { "raw": "£425m", "usd": null, "currency": "GBP" }
+    },
+    "strategy": {
+      "stages": ["growth", "series-b", "series-c-plus"],
+      "check_size": { "raw": "Up to 30% of an investment round (minimum round £20m)", "usd_min": null, "usd_max": null },
+      "geo_focus": ["United Kingdom"],
+      "sector_focus": ["deeptech", "biotech", "climate-energy"],
+      "lead_or_follow": "follow",
+      "thesis": "UK government co-investment programme delivered via the British Business Bank, making equity co-investments alongside private investors into growth-stage, R&D-intensive UK companies in breakthrough technology sectors such as quantum, clean tech and life sciences."
+    },
+    "program": {
+      "investment": { "raw": "Up to 30% of round; minimum total round size £20m", "usd": null, "currency": "GBP" },
+      "eligibility": "Growth-stage, R&D-intensive UK companies in breakthrough technology sectors raising rounds of at least £20m."
+    },
+    "summary": {
+      "en": "Future Fund: Breakthrough is a £425m UK-wide programme run by the British Business Bank that co-invests in equity rounds (up to 30% of a round of at least £20m) alongside private investors into growth-stage, R&D-intensive British companies in breakthrough technology sectors."
+    },
+    "sources": [
+      {
+        "url": "https://www.british-business-bank.co.uk/finance-options/equity-finance/future-fund-breakthrough",
+        "title": "Future Fund: Breakthrough | British Business Bank",
+        "publisher": "British Business Bank",
+        "accessed": "2026-06-02",
+        "supports": "£425m size, co-investment terms, sector focus",
+        "quote": "Future Fund: Breakthrough is a £425m UK-wide programme ... The minimum total investment round size is £20m. The maximum Future Fund: Breakthrough share of an investment round is 30%."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "£425m programme launched 2021. Operated by British Business Bank; distinct from British Patient Capital though related.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-cdp-venture-capital",
+    "name": { "en": "CDP Venture Capital", "local": "CDP Venture Capital SGR" },
+    "aka": ["Fondo Nazionale Innovazione", "National Innovation Fund"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "europe",
+    "country": "Italy",
+    "hq_city": "Rome",
+    "website": "https://www.cdpventurecapital.it",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/cdp-venture-capital-sgr/"
+    },
+    "capital": {
+      "aum": { "raw": "Target 8 billion euro in AUM by 2028", "usd": null, "currency": "EUR" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "growth"],
+      "geo_focus": ["Italy"],
+      "sector_focus": ["ai-ml", "cybersecurity", "agritech", "spacetech", "healthtech", "biotech", "climate-energy", "mobility"],
+      "lead_or_follow": "both",
+      "thesis": "Italy's national venture capital platform (Fondo Nazionale Innovazione), managed under Cassa Depositi e Prestiti, investing across the full startup lifecycle via direct and fund-of-funds vehicles to make venture capital a cornerstone of Italy's innovation economy."
+    },
+    "summary": {
+      "en": "CDP Venture Capital is Italy's national venture capital fund (Fondo Nazionale Innovazione), part of state institution Cassa Depositi e Prestiti, investing across the full startup lifecycle through direct and fund-of-funds vehicles. It targets €8bn in assets under management by 2028.",
+      "local": "CDP Venture Capital è il fondo nazionale di venture capital italiano (Fondo Nazionale Innovazione), parte di Cassa Depositi e Prestiti, con un obiettivo di 8 miliardi di euro di masse gestite entro il 2028."
+    },
+    "sources": [
+      {
+        "url": "https://www.cdpventurecapital.it/en/news.page?contentId=COM34690",
+        "title": "Target 8 billion resources under management by 2028",
+        "publisher": "CDP Venture Capital",
+        "accessed": "2026-06-02",
+        "supports": "AUM target, sectors, nature as national VC under CDP",
+        "quote": "8 billion euro in asset under management ... 1 billion euro raised from third parties ... Artificial Intelligence & Cybersecurity, AgrifoodTech, SpaceTech, Healthcare & Lifescience, CleanTech, IndustryTech, and InfraTech & Mobility"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "€8bn is a 2028 target, not current AUM (secondary sources estimate current AUM around €4.7bn). Founding year 2020 reflects the SGR's establishment as the National Innovation Fund vehicle; the SGR entity has earlier roots (some sources cite 2015).",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-fond-ico-global",
+    "name": { "en": "Fond-ICO Global (AXIS / ICO)", "local": "Fond-ICO Global" },
+    "aka": ["AXIS Participaciones Empresariales", "Instituto de Crédito Oficial"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "europe",
+    "country": "Spain",
+    "hq_city": "Madrid",
+    "website": "https://www.ico.es/en/web/axis/ico/nuestros_fondos/fond_ico_global",
+    "capital": {
+      "current_fund": { "raw": "€4.5 billion", "usd": null, "currency": "EUR" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "geo_focus": ["Spain"],
+      "sector_focus": ["generalist", "climate-energy"],
+      "lead_or_follow": "follow",
+      "thesis": "Spain's first public fund-of-funds, managed by AXIS (the VC arm of state credit institute ICO), endowed with €4.5bn to develop and consolidate the ecosystem of privately managed venture capital and private equity funds investing in Spanish companies."
+    },
+    "track_record": {
+      "portfolio_count": "more than 100 funds subscribed"
+    },
+    "summary": {
+      "en": "Fond-ICO Global is Spain's first public venture-capital/private-equity fund-of-funds, managed by AXIS, the VC subsidiary of state credit institute ICO. Endowed with €4.5bn, it has subscribed over 100 funds to build the ecosystem of privately managed funds investing in Spanish companies across all stages.",
+      "local": "Fond-ICO Global es el primer fondo de fondos público de capital riesgo de España, gestionado por AXIS (filial del ICO), dotado con 4.500 millones de euros y con más de 100 fondos suscritos."
+    },
+    "sources": [
+      {
+        "url": "https://www.ico.es/en/web/axis/ico/nuestros_fondos/fond_ico_global",
+        "title": "Fond-ICO Global - Axis",
+        "publisher": "Instituto de Crédito Oficial (ICO) / AXIS",
+        "accessed": "2026-06-02",
+        "supports": "€4.5bn endowment, first public fund-of-funds, over 100 funds",
+        "quote": "the first public venture capital/private equity 'fund of funds' created in Spain, currently endowed with EUR 4.5 billion ... more than 100 funds subscribed"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fond-ICO Global launched 2013; managed by AXIS (the VC company of ICO). €4.5bn is the cumulative endowment.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-enterprise-ireland",
+    "name": { "en": "Enterprise Ireland", "local": "Enterprise Ireland" },
+    "aka": [],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 1998,
+    "region": "europe",
+    "country": "Ireland",
+    "hq_city": "Dublin",
+    "website": "https://www.enterprise-ireland.com",
+    "capital": {
+      "funds": [
+        { "name": "Seed and Venture Capital Scheme 2025–2029", "vintage_year": 2025, "size": { "raw": "€250 million", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Ireland"],
+      "sector_focus": ["generalist", "deeptech", "saas-enterprise"],
+      "lead_or_follow": "both",
+      "thesis": "Irish government enterprise development agency and one of Europe's most active domestic VC investors by deal count, providing direct equity to early-stage Irish companies and anchoring private VC funds through the Seed and Venture Capital Scheme."
+    },
+    "track_record": {
+      "portfolio_count": "988 investments over 2018 to H1 2022 (most in any European country, per PitchBook)"
+    },
+    "summary": {
+      "en": "Enterprise Ireland is the Irish government's enterprise development agency (founded 1998) and ranked by PitchBook as Europe's most active domestic VC investor by deal count. It invests directly in early-stage Irish companies and anchors private funds via the Seed and Venture Capital Scheme, whose 2025–2029 cycle has a record €250m allocation."
+    },
+    "sources": [
+      {
+        "url": "https://www.enterprise-ireland.com/en/news/minister-burke-announces-new-250m-seed-and-venture-capital-scheme",
+        "title": "Minister Burke Announces new €250m Seed and Venture Capital Scheme",
+        "publisher": "Enterprise Ireland",
+        "accessed": "2026-06-02",
+        "supports": "€250m scheme 2025-2029",
+        "quote": "a new cycle of the Seed and Venture Capital Scheme ... will operate for the period 2025 to 2029 and will have a record allocation of €250 million"
+      },
+      {
+        "url": "https://www.enterprise-ireland.com/en/news/enterprise-ireland-ranked-as-europe-s-most-active-domestic-venture-capital-investor-by-pitchbook",
+        "title": "Enterprise Ireland ranked as Europe's most active domestic venture capital investor by PitchBook",
+        "publisher": "Enterprise Ireland",
+        "accessed": "2026-06-02",
+        "supports": "most active domestic VC investor, 988 investments",
+        "quote": "Enterprise Ireland had completed 988 investments over the period 2018 to H1 2022, the most in any European country"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 1998. €250m is the 2025-2029 Seed and Venture Capital Scheme allocation. Enterprise Ireland also invests directly from its own balance sheet.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-almi-invest",
+    "name": { "en": "Almi Invest", "local": "Almi Invest" },
+    "aka": [],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2009,
+    "region": "europe",
+    "country": "Sweden",
+    "hq_city": "Stockholm",
+    "website": "https://www.almi.se/en/venture-capital/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/almi-invest/",
+      "crunchbase": "https://www.crunchbase.com/organization/almi-invest"
+    },
+    "capital": {
+      "aum": { "raw": "€430 million", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "GreenTech fund", "vintage_year": null, "size": { "raw": "1.2 billion SEK", "usd": null, "currency": "SEK" } },
+        { "name": "Third investment fund (2024–2029)", "vintage_year": 2024, "size": { "raw": "€140 million (approx. SEK 1.6 billion)", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Sweden"],
+      "sector_focus": ["generalist", "deeptech", "biotech", "climate-energy"],
+      "lead_or_follow": "both",
+      "thesis": "Sweden's most active early-stage venture capital firm, a state-owned enterprise operating eight regional VC funds plus a national GreenTech fund, making around 200 new and follow-on investments per year into scalable Swedish startups."
+    },
+    "track_record": {
+      "portfolio_count": "over 1,000 investments since 2009"
+    },
+    "summary": {
+      "en": "Almi Invest is Sweden's most active early-stage venture capital firm, a state-owned enterprise with €430m under management and over 1,000 investments since 2009. It operates eight regional VC funds plus a national GreenTech fund and makes roughly 200 investments a year.",
+      "local": "Almi Invest är Sveriges mest aktiva investerare i ett tidigt skede, ett statligt ägt bolag med 430 miljoner euro under förvaltning och över 1 000 investeringar sedan 2009."
+    },
+    "sources": [
+      {
+        "url": "https://www.almi.se/en/venture-capital/",
+        "title": "Almi Invest - Sweden's most active early-stage investor",
+        "publisher": "Almi",
+        "accessed": "2026-06-02",
+        "supports": "state-owned, AUM, investments since 2009, ~200/year, GreenTech fund",
+        "quote": "As a state-owned enterprise, Almi Invest has extensive experience of investing in startups ... With €430 million under management and over 1,000 investments since 2009 ... GreenTech fund of 1.2 billion kronor"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "€430m AUM and 1,000+ investments since 2009 from official Almi page. Third fund €140m / SEK 1.6bn from search summary (secondary).",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-saminvest",
+    "name": { "en": "Saminvest", "local": "Saminvest AB" },
+    "aka": [],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "Sweden",
+    "hq_city": "Stockholm",
+    "website": "https://www.saminvest.se",
+    "capital": {
+      "aum": { "raw": "SEK 3.95 billion committed", "usd": null, "currency": "SEK" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Sweden"],
+      "sector_focus": ["generalist"],
+      "lead_or_follow": "follow",
+      "thesis": "Swedish state-owned fund-of-funds established to address gaps in VC financing, investing in venture capital funds and business angel syndicates to mobilise private capital into Swedish startups."
+    },
+    "track_record": {
+      "portfolio_count": "19 VC funds and 10 business angel syndicates"
+    },
+    "summary": {
+      "en": "Saminvest AB is a Swedish state-owned fund-of-funds established in 2016 to address gaps in venture capital financing. Operating since 2017, it has committed SEK 3.95bn across 19 VC funds and 10 business angel syndicates.",
+      "local": "Saminvest AB är ett statligt ägt fond-i-fond-bolag, bildat 2016, som åtagit sig 3,95 miljarder kronor i 19 VC-fonder och 10 affärsängelsyndikat."
+    },
+    "sources": [
+      {
+        "url": "https://www.oecd.org/en/publications/benchmarking-government-support-for-venture-capital_82cd3fe1-en/sweden_d31bbe06-en.html",
+        "title": "Benchmarking government support for venture capital: Sweden",
+        "publisher": "OECD",
+        "accessed": "2026-06-02",
+        "supports": "founding 2016, committed SEK 3.95bn, 19 funds and 10 syndicates",
+        "quote": "In 2016, the government established Saminvest AB, a fund-of-funds ... Since starting operations in 2017, Saminvest has committed SEK 3.95 billion, investing in 19 VC funds and 10 business angel syndicates."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Figures from OECD benchmarking summary (reputable secondary). Commitment totals are cumulative as reported at time of source.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-tesi",
+    "name": { "en": "Tesi (Finnish Industry Investment)", "local": "Suomen Teollisuussijoitus" },
+    "aka": ["Finnish Industry Investment Ltd", "TESI"],
+    "type": "government-program",
+    "subtypes": ["vc", "growth-equity"],
+    "status": "active",
+    "founded_year": 1995,
+    "region": "europe",
+    "country": "Finland",
+    "hq_city": "Helsinki",
+    "website": "https://tesi.fi/en/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/finnish-industry-investment-ltd/"
+    },
+    "capital": {
+      "aum": { "raw": "EUR 2.5 billion (2023)", "usd": null, "currency": "EUR" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "geo_focus": ["Finland"],
+      "sector_focus": ["generalist", "deeptech", "climate-energy"],
+      "lead_or_follow": "both",
+      "thesis": "Finnish state-owned investment company with an industrial-policy mission, investing on market terms both in VC and private equity funds and directly in startups, scale-ups and large industrial projects to develop Finland's venture and growth ecosystem."
+    },
+    "summary": {
+      "en": "Tesi (Finnish Industry Investment Ltd) is Finland's state-owned investment company, established in 1995 with an industrial-policy mission. It invests on market terms in VC and PE funds and directly in startups and scale-ups, with around €2.5bn AUM as of 2023. Business Finland Venture Capital integrated into Tesi in 2024.",
+      "local": "Tesi (Suomen Teollisuussijoitus Oy) on Suomen valtion omistama sijoitusyhtiö, perustettu 1995, jonka hallinnoitavat varat olivat noin 2,5 miljardia euroa vuonna 2023."
+    },
+    "sources": [
+      {
+        "url": "https://tesi.fi/en/about-tesi/",
+        "title": "About Tesi - Profitable risk-taking with proven impact",
+        "publisher": "Tesi",
+        "accessed": "2026-06-02",
+        "supports": "state-owned, mandate, market-terms investing in funds and directly",
+        "quote": "Tesi is a state-owned investment company with an industrial policy mission ... investing on market terms both in venture capital and private equity funds, and directly in startups, scale-ups, and large industrial projects."
+      },
+      {
+        "url": "https://www.businessfinland.fi/en/whats-new/news/2024/Business-Finland-Venture-Capital-integrates-into-Tesi/",
+        "title": "Business Finland Venture Capital integrates into Tesi",
+        "publisher": "Business Finland",
+        "accessed": "2026-06-02",
+        "supports": "integration of Business Finland VC into Tesi",
+        "quote": "Business Finland Venture Capital's operations will be integrated into the state-owned investment company Tesi"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 1995 (Ministry of Economic Affairs and Employment). €2.5bn AUM figure is for 2023 (secondary). Business Finland VC integrated end of 2024.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-pfr-ventures",
+    "name": { "en": "PFR Ventures", "local": "PFR Ventures" },
+    "aka": ["Polish Development Fund Ventures"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "Poland",
+    "hq_city": "Warsaw",
+    "website": "https://pfrventures.pl/en",
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "growth"],
+      "geo_focus": ["Poland", "Central and Eastern Europe"],
+      "sector_focus": ["generalist", "deeptech"],
+      "lead_or_follow": "follow",
+      "thesis": "Venture arm of the State-Treasury-owned Polish Development Fund (PFR) and the largest institutional fund investor in Central and Eastern Europe, co-investing with private investors, business angels and corporates into VC and PE vehicles backing Polish innovative companies."
+    },
+    "track_record": {
+      "portfolio_count": "more than 80 funds, over 900 investments"
+    },
+    "summary": {
+      "en": "PFR Ventures is the venture arm of the State-Treasury-owned Polish Development Fund (PFR), established in 2016. It is the largest institutional fund investor in Central and Eastern Europe, with a portfolio of more than 80 funds that have made over 900 investments into Polish innovative companies.",
+      "local": "PFR Ventures jest częścią Polskiego Funduszu Rozwoju (PFR), największym inwestorem instytucjonalnym w regionie Europy Środkowo-Wschodniej, z portfelem ponad 80 funduszy i ponad 900 inwestycjami."
+    },
+    "sources": [
+      {
+        "url": "https://pfrventures.pl/en",
+        "title": "PFR Ventures",
+        "publisher": "PFR Ventures",
+        "accessed": "2026-06-02",
+        "supports": "part of PFR, largest fund investor in CEE, 80+ funds, 900+ investments",
+        "quote": "PFR Ventures is part of the Polish Development Fund (PFR) ... the biggest institutional fund in Central and Eastern Europe ... a portfolio of more than 80 funds that have made over 900 investments"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Polish_Development_Fund",
+        "title": "Polish Development Fund - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "PFR ownership by State Treasury, established 2016",
+        "quote": "The Polish Development Fund (PFR) is a Polish joint-stock company owned by the State Treasury ... The PFR was established in 2016"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "PFR established 2016; PFR Ventures is its venture/fund-of-funds arm. 80+ funds and 900+ investments are cumulative figures from the official site.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-investinor",
+    "name": { "en": "Investinor", "local": "Investinor AS" },
+    "aka": [],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2008,
+    "region": "europe",
+    "country": "Norway",
+    "hq_city": "Trondheim",
+    "website": "https://investinor.no/en/about-us/",
+    "capital": {
+      "aum": { "raw": "over NOK 8 billion", "usd": null, "currency": "NOK" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b"],
+      "check_size": { "raw": "NOK 100,000 to 5,000,000 (sweet spot ~1,500,000)", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Norway"],
+      "sector_focus": ["generalist", "climate-energy", "saas-enterprise", "healthtech"],
+      "lead_or_follow": "both",
+      "thesis": "Norway's state-owned venture capital firm, controlled by the Ministry of Trade, Industry and Fisheries; a sector-agnostic, multi-stage investor that makes direct investments and invests in seed and venture funds, managing the state's seed and pre-seed schemes."
+    },
+    "track_record": {
+      "portfolio_count": "79 portfolio companies since founding"
+    },
+    "summary": {
+      "en": "Investinor is Norway's state-owned venture capital firm, founded in 2008 and controlled by the Ministry of Trade, Industry and Fisheries, managing over NOK 8bn. It is a sector-agnostic, multi-stage investor making direct investments and backing seed and venture funds, with 79 portfolio companies.",
+      "local": "Investinor er Norges statseide venturekapitalselskap, etablert i 2008, som forvalter over 8 milliarder kroner og investerer både direkte og i fond."
+    },
+    "sources": [
+      {
+        "url": "https://investinor.no/en/about-us/",
+        "title": "About us - Investinor",
+        "publisher": "Investinor",
+        "accessed": "2026-06-02",
+        "supports": "state-owned, AUM, mandate to invest directly and in funds",
+        "quote": "Investinor AS is a government-funded investment company, managing assets worth over NOK 8 billion ... can make direct investments in companies, invest in seed capital and venture funds"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2008; AUM over NOK 8bn from official site. 79 portfolio companies and check-size sweet spot from secondary search summary.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-eifo",
+    "name": { "en": "Export and Investment Fund of Denmark", "local": "Danmarks Eksport og Investeringsfond" },
+    "aka": ["EIFO", "Vaekstfonden (former)", "Danish Growth Fund (former)"],
+    "type": "government-program",
+    "subtypes": ["vc", "growth-equity"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "europe",
+    "country": "Denmark",
+    "hq_city": "Copenhagen",
+    "website": "https://eifo.dk/en",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/eifo"
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "geo_focus": ["Denmark", "Nordics"],
+      "sector_focus": ["generalist", "deeptech", "climate-energy"],
+      "lead_or_follow": "both",
+      "thesis": "Denmark's single state risk-capital institution, formed in 2023 by merging the Danish Growth Fund (Vaekstfonden), the Danish Green Investment Fund and EKF's export credit agency, providing one access point for risk-tolerant government capital to entrepreneurs, SMEs and exporters."
+    },
+    "track_record": {
+      "portfolio_count": "Vaekstfonden co-financed more than 5,400 companies since 1992"
+    },
+    "summary": {
+      "en": "The Export and Investment Fund of Denmark (EIFO) is Denmark's unified state risk-capital institution, launched in January 2023 by merging the Danish Growth Fund (Vaekstfonden), the Danish Green Investment Fund and EKF's export credit agency. It provides a single access point for government risk capital to startups, SMEs and exporters.",
+      "local": "Danmarks Eksport og Investeringsfond (EIFO) er Danmarks samlede statslige risikokapitalinstitution, etableret i januar 2023 ved sammenlægning af Vaekstfonden, Danmarks Grønne Investeringsfond og EKF."
+    },
+    "sources": [
+      {
+        "url": "https://www.eifo.dk/en/about/eifos-history/",
+        "title": "EIFOs history",
+        "publisher": "EIFO",
+        "accessed": "2026-06-02",
+        "supports": "2023 merger of three institutions, single point of contact",
+        "quote": "a merger of the Danish Growth Fund (Vaekstfonden), the Danish Green Investment Fund, and EKF Denmark's Export Credit Agency. Launched in January 2023"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Danish_Growth_Fund",
+        "title": "The Danish Growth Fund - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "Vaekstfonden history, 5,400 companies since 1992",
+        "quote": "Since 1992, The Danish Growth Fund has co-financed growth in more than 5,400 companies with a total commitment of more than DKK 15 billion."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "EIFO formed Jan 2023 from merger; Vaekstfonden (predecessor) dates to 1992. The 5,400 companies / DKK 15bn figure refers to the predecessor Vaekstfonden.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-invest-nl",
+    "name": { "en": "Invest-NL", "local": "Invest-NL" },
+    "aka": [],
+    "type": "government-program",
+    "subtypes": ["vc", "growth-equity"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "europe",
+    "country": "Netherlands",
+    "hq_city": "Amsterdam",
+    "website": "https://www.invest-nl.nl/en/about-us",
+    "links": {
+      "other": ["https://www.cbinsights.com/investor/invest-nl"]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "geo_focus": ["Netherlands"],
+      "sector_focus": ["climate-energy", "deeptech", "impact"],
+      "lead_or_follow": "both",
+      "thesis": "Dutch national promotional and development bank / impact investor, founded in 2020, that provides risk capital to accelerate sustainable and innovative transitions — 'making financeable what seems unfinanceable' — for Dutch scale-ups and projects."
+    },
+    "summary": {
+      "en": "Invest-NL is the Netherlands' national promotional and development bank, founded in 2020 and based in Amsterdam. As an impact investor it provides risk capital to accelerate sustainability and innovation transitions, financing Dutch scale-ups and projects that struggle to attract private capital.",
+      "local": "Invest-NL is de nationale ontwikkelings- en financieringsinstelling van Nederland, opgericht in 2020, die als impactinvesteerder risicokapitaal verstrekt om duurzame en innovatieve transities te versnellen."
+    },
+    "sources": [
+      {
+        "url": "https://www.invest-nl.nl/en/about-us",
+        "title": "About us - Invest-NL",
+        "publisher": "Invest-NL",
+        "accessed": "2026-06-02",
+        "supports": "national development agency, impact investor mission",
+        "quote": "Invest-NL is a national finance and development agency, and as impact investors, its mission is to make financeable what seems unfinanceable"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded 2020, HQ Amsterdam (founding year from secondary CB Insights / search summary; official 'About us' confirms mandate). AUM/fund-size figures not separately verified with a quote, so left null.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-aws-gruendungsfonds",
+    "name": { "en": "aws Gruendungsfonds", "local": "aws Gründungsfonds" },
+    "aka": ["aws Gründerfonds", "Austria Wirtschaftsservice"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "europe",
+    "country": "Austria",
+    "hq_city": "Vienna",
+    "website": "https://www.gruendungsfonds.at/en/",
+    "links": {
+      "linkedin": "https://at.linkedin.com/company/awsgruendungsfonds"
+    },
+    "capital": {
+      "funds": [
+        { "name": "aws Gründerfonds", "vintage_year": 2013, "size": { "raw": "€68.5 million", "usd": null, "currency": "EUR" } },
+        { "name": "aws Gründungsfonds II", "vintage_year": 2023, "size": { "raw": "€72+ million", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "€0.5–1.5M initial; up to €5M with follow-ons", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Austria"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "deeptech", "climate-energy", "healthtech", "fintech"],
+      "lead_or_follow": "both",
+      "thesis": "Austria's most active seed-to-Series-A venture investor, managed by aws Fondsmanagement (a subsidiary of the federal promotional bank aws, 100% owned by the Republic of Austria), providing growth capital and mobilising private co-investors for Austria-based startups."
+    },
+    "summary": {
+      "en": "The aws Gründungsfonds is Austria's most active seed to Series A venture investor, managed by aws Fondsmanagement under the federal promotional bank Austria Wirtschaftsservice (100% state-owned). It runs the €68.5m aws Gründerfonds (2013) and the €72m+ aws Gründungsfonds II (2023), writing €0.5–1.5M initial checks.",
+      "local": "Der aws Gründungsfonds ist Österreichs aktivster Seed- bis Series-A-Venture-Investor, verwaltet von der aws Fondsmanagement unter der zu 100 % staatlichen Förderbank Austria Wirtschaftsservice."
+    },
+    "sources": [
+      {
+        "url": "https://www.gruendungsfonds.at/en/ueber-uns",
+        "title": "About aws Gründungsfonds",
+        "publisher": "aws Gründungsfonds",
+        "accessed": "2026-06-02",
+        "supports": "state ownership, fund sizes, terms, check sizes, most active seed investor",
+        "quote": "the federal promotional bank is 100% owned by the Republic of Austria ... The aws Gründerfonds has 68.5 million EUR in investment capital with a term from 2013 to 2026 ... The aws Gründungsfonds II has 72+ million EUR ... aws is Austria's most active Seed - Series A Venture-Capital-Investor ... investment amounts of 0.5 to 1.5 million EUR for initial investments ... up to 5 million EUR"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund sizes and check sizes from the official aws Gründungsfonds 'About us' page. aws itself (the parent promotional bank) was founded 2002; the Gründerfonds vehicle dates to 2013.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-innosuisse",
+    "name": { "en": "Innosuisse", "local": "Innosuisse - Schweizerische Agentur für Innovationsförderung" },
+    "aka": ["Swiss Innovation Agency"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "europe",
+    "country": "Switzerland",
+    "hq_city": "Bern",
+    "website": "https://www.innosuisse.admin.ch/en",
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Switzerland"],
+      "sector_focus": ["deeptech", "generalist"],
+      "thesis": "Swiss federal innovation agency that supports science-based startups and SMEs with grants, innovation-project funding and accredited start-up coaching (rather than taking equity), to commercialise applied research."
+    },
+    "program": {
+      "investment": { "raw": "Initial Coaching voucher up to CHF 10,000; Core Coaching up to CHF 50,000; covers up to 70% of eligible project costs", "usd": null, "currency": "CHF" },
+      "equity_taken_pct": "0",
+      "format": "hybrid",
+      "application_url": "https://www.innosuisse.admin.ch/en/start-up-coaching-for-start-up",
+      "eligibility": "Knowledge-intensive and technology-based Swiss start-ups and SMEs with significant innovation potential."
+    },
+    "summary": {
+      "en": "Innosuisse is the Swiss federal innovation agency (established 2018) that funds science-based startups and SMEs through grants, innovation-project funding (covering up to 70% of project costs) and accredited start-up coaching vouchers (up to CHF 50,000), without taking equity.",
+      "local": "Innosuisse ist die Schweizerische Agentur für Innovationsförderung (gegründet 2018), die wissenschaftsbasierte Start-ups mit Beiträgen, Innovationsprojekten und Start-up-Coaching fördert, ohne Beteiligungen zu erwerben."
+    },
+    "sources": [
+      {
+        "url": "https://www.innosuisse.admin.ch/en/start-up-coaching-for-start-up",
+        "title": "Innosuisse Start-up Coaching",
+        "publisher": "Innosuisse",
+        "accessed": "2026-06-02",
+        "supports": "coaching voucher amounts, project cost coverage",
+        "quote": "Initial Coaching grants a voucher worth up to CHF 10,000 ... Core Coaching grants a voucher worth of up to CHF 50,000 ... Innosuisse typically covers up to 70% of eligible direct project costs"
+      },
+      {
+        "url": "https://www.sbfi.admin.ch/en/innosuisse-the-swiss-innovation-agency",
+        "title": "Innosuisse: The Swiss Innovation Agency",
+        "publisher": "Swiss State Secretariat for Education, Research and Innovation (SBFI)",
+        "accessed": "2026-06-02",
+        "supports": "federal innovation agency status",
+        "quote": "Innosuisse: The Swiss Innovation Agency"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Innosuisse became operational on 1 January 2018 (successor to the CTI/KTI). It is a grant/coaching agency, not an equity investor; equity_taken_pct set to 0.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-scottish-national-investment-bank",
+    "name": { "en": "Scottish National Investment Bank", "local": "Scottish National Investment Bank" },
+    "aka": ["SNIB", "The Bank"],
+    "type": "government-program",
+    "subtypes": ["vc", "growth-equity"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "Edinburgh",
+    "website": "https://www.thebank.scot",
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/Scottish_National_Investment_Bank"]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "geo_focus": ["Scotland", "United Kingdom"],
+      "sector_focus": ["climate-energy", "deeptech", "impact"],
+      "lead_or_follow": "both",
+      "thesis": "Scotland's state-owned national development and investment bank, using public money to fund commercial projects and crowd in private investment, with a mission centred on net-zero transition, place-based growth and innovation."
+    },
+    "summary": {
+      "en": "The Scottish National Investment Bank is Scotland's state-owned development and investment bank, established in 2020 and based in Edinburgh. It deploys public capital into commercial projects and growth-stage companies to crowd in private investment, with missions around net-zero, innovation and inclusive growth."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Scottish_National_Investment_Bank",
+        "title": "Scottish National Investment Bank - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "state-owned, Edinburgh HQ, mission",
+        "quote": "The Scottish National Investment Bank is a Scottish state-owned investment and national development bank based in Edinburgh, Scotland ... The primary goal is to help Scotland transition to net-zero carbon emissions, while supporting small and medium-size enterprises."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded/launched 2020. Fund-size and capitalisation figures not pinned to a quote here, so capital fields left null. Scottish Enterprise's Scottish Venture Fund / Co-Investment Fund are related but separate programmes.",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  },
+  {
+    "id": "eu-portugal-ventures",
+    "name": { "en": "Portugal Ventures", "local": "Portugal Ventures" },
+    "aka": ["Banco Português de Fomento group"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "europe",
+    "country": "Portugal",
+    "hq_city": "Porto",
+    "website": "https://www.portugalventures.pt/en/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/portugal-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "182 million euros", "usd": null, "currency": "EUR" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Portugal"],
+      "sector_focus": ["deeptech", "biotech", "saas-enterprise"],
+      "lead_or_follow": "both",
+      "thesis": "Portugal's state-backed venture capital firm, part of the Banco Português de Fomento group, investing in pre-seed, seed and Series A startups with internationally scalable solutions in digital, engineering & industry, life sciences and tourism."
+    },
+    "track_record": {
+      "portfolio_count": "more than 130 portfolio companies"
+    },
+    "summary": {
+      "en": "Portugal Ventures is Portugal's state-backed venture capital firm, founded in 2012 (from a merger of three public VC companies) and part of the Banco Português de Fomento group. It manages around €182m across more than 130 portfolio companies, investing at pre-seed, seed and Series A.",
+      "local": "A Portugal Ventures é a sociedade de capital de risco do Estado português, fundada em 2012 e integrada no grupo Banco Português de Fomento, gerindo cerca de 182 milhões de euros em mais de 130 empresas."
+    },
+    "sources": [
+      {
+        "url": "https://www.crunchbase.com/organization/portugal-ventures",
+        "title": "Portugal Ventures - Crunchbase Company Profile",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-02",
+        "supports": "founding 2012, Porto HQ, part of BPF group, AUM, portfolio count, stages",
+        "quote": "Portugal Ventures was founded in 2012 ... in 2020 Portugal Ventures joined the Banco Português de Fomento Group ... currently manages 182 million euros and has more than 130 portfolio companies ... pre-seed, seed and series A stages"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded 2012 (merger of Turismo Capital, INOV Capital, AICEP Capital); joined Banco Português de Fomento in 2020. Figures from Crunchbase/search summary (secondary).",
+    "last_updated": "2026-06-02",
+    "researched_by": "government-program"
+  }
+]

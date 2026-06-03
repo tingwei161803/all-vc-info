@@ -1,0 +1,903 @@
+[
+  {
+    "id": "us-precursor-ventures",
+    "name": { "en": "Precursor Ventures" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://precursorvc.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/precursor-ventures",
+      "other": ["https://www.vcsheet.com/fund/precursor-ventures"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund IV", "vintage_year": 2023, "size": { "raw": "$140M", "usd": 140000000, "currency": "USD" } },
+        { "name": "Fund V", "vintage_year": 2025, "size": { "raw": "$66M", "usd": 66000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$250K–$500K", "usd_min": 250000, "usd_max": 500000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States", "Canada"],
+      "sector_focus": ["generalist", "saas-enterprise", "consumer", "fintech"],
+      "thesis": "Classic pre-seed and seed firm that backs first-time, often unproven founders at the earliest stage (frequently pre-product). Deliberately small, solo-GP structure to make fast decisions on founding-team quality rather than traction or credentials."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "The Athletic", "sector": "media", "outcome": "acquired" }
+      ]
+    },
+    "people": [
+      { "name": "Charles Hudson", "role": "Managing Partner & Founder (solo GP)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["solo-gp", "pre-seed", "micro-vc", "emerging-manager"],
+    "summary": {
+      "en": "San Francisco solo-GP micro-VC led by Charles Hudson, investing pre-seed/seed checks of $250K–$500K into first-time founders. Fund V closed at $66M in 2025."
+    },
+    "sources": [
+      {
+        "url": "https://www.vcsheet.com/fund/precursor-ventures",
+        "title": "Precursor Ventures - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "Fund V size, check size, stage, solo GP, geo focus",
+        "quote": "Fund Size: Fund V is $66M ... Check Size: $250K - $500K ... Stage: Pre-Seed and Seed ... Solo GP fund led by Charles Hudson (Managing Partner) ... Geographic Focus: USA and Canada"
+      },
+      {
+        "url": "https://precursorvc.com/",
+        "title": "Precursor Ventures — Pre-Seed & Seed Stage Venture Capital",
+        "publisher": "Precursor Ventures",
+        "accessed": "2026-06-02",
+        "supports": "stage focus, San Francisco HQ"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund IV ($140M) and Fund V ($66M) reported via secondary source (VC Sheet); founded_year ~2015 inferred from Hudson's spinout from SoftTech VC.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "us-conviction-partners",
+    "name": { "en": "Conviction" },
+    "aka": ["Conviction Partners"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://conviction.com/",
+    "links": {
+      "other": ["https://techcrunch.com/2025/01/31/guos-conviction-partners-adds-mike-vernal-as-gp-raises-230m-fund/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I (debut)", "vintage_year": 2022, "size": { "raw": "$101M", "usd": 101000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2025, "size": { "raw": "$230M", "usd": 230000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml", "saas-enterprise"],
+      "thesis": "AI-focused firm backing companies building artificial intelligence and 'Software 3.0' applications and infrastructure. Founded by Sarah Guo after leaving Greylock; expanding from solo-led to multi-GP."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Mistral", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Harvey", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Sierra", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Sarah Guo", "role": "Founder & General Partner" },
+      { "name": "Mike Vernal", "role": "General Partner (joined 2025, ex-Sequoia)" }
+    ],
+    "tags": ["ai", "emerging-manager", "spinout", "seed"],
+    "summary": {
+      "en": "AI-native venture firm founded in 2022 by Sarah Guo (ex-Greylock). Raised a $101M debut fund and a $230M second fund; backers of Mistral, Harvey and Sierra."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2025/01/31/guos-conviction-partners-adds-mike-vernal-as-gp-raises-230m-fund/",
+        "title": "Guo's Conviction Partners adds Mike Vernal as GP, raises $230M fund",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "fund sizes, founding, AI focus, portfolio, Mike Vernal",
+        "quote": "its just closed a second fund with $230 million in capital commitments — more than double the haul of its $101 million debut fund ... Notable investments include Mistral, Harvey, and Sierra."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Began as a solo-GP fund; now multi-GP after adding Mike Vernal in 2025. Classified as emerging-manager/micro-VC for its first-fund vintage.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "us-chingona-ventures",
+    "name": { "en": "Chingona Ventures" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Chicago",
+    "website": "https://www.chingona.ventures/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/chingona-ventures",
+      "other": ["https://techcrunch.com/2022/05/06/chingona-ventures-lands-52m-to-fund-overlooked-founders-in-massive-markets/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2019, "size": { "raw": "$6M", "usd": 6000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2022, "size": { "raw": "$52M", "usd": 52000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$250K–$1M", "usd_min": 250000, "usd_max": 1000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["fintech", "healthtech", "agritech"],
+      "thesis": "Pre-seed firm, focused on the Midwest, backing overlooked founders in large markets. Aims to be the first and largest check into a company's round."
+    },
+    "people": [
+      { "name": "Samara Hernandez", "role": "Founder & sole General Partner" }
+    ],
+    "tags": ["solo-gp", "pre-seed", "diversity", "midwest", "emerging-manager"],
+    "summary": {
+      "en": "Chicago-based pre-seed micro-VC founded in 2019 by sole GP Samara Hernandez. Fund II closed at $52M (up from a $6M debut fund), writing first/largest checks of $250K–$1M into overlooked Midwest founders."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2022/05/06/chingona-ventures-lands-52m-to-fund-overlooked-founders-in-massive-markets/",
+        "title": "Chingona Ventures lands $52M to fund overlooked founders in massive markets",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "fund sizes, founding year, sole GP, pre-seed, Midwest, check sizes",
+        "quote": "closed a new fund with $52 million in capital commitments ... Founded in 2019 by Samara Hernandez ... the firm's sole general partner ... invests in pre-seed startups, primarily in the Midwest ... slightly larger checks, ranging from $250,000 to $1 million"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "us-wischoff-ventures",
+    "name": { "en": "Wischoff Ventures" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York",
+    "website": "https://www.wischoff.com/",
+    "links": {
+      "other": ["https://techcrunch.com/2022/12/16/solo-gp-nichole-wischoff-raises-20m-fund-backed-by-peter-thiel-to-invest-in-unsexy-businesses/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2021, "size": { "raw": "$5M", "usd": 5000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2022, "size": { "raw": "$20M", "usd": 20000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "up to $1M", "usd_min": null, "usd_max": 1000000 },
+      "geo_focus": ["United States"],
+      "sector_focus": ["fintech", "saas-enterprise", "logistics"],
+      "thesis": "Solo-GP fund investing in 'unsexy', B2B businesses — companies applying AI/ML or embedded fintech to large legacy industries, with a soft spot for industrial automation."
+    },
+    "people": [
+      { "name": "Nichole Wischoff", "role": "Founder & solo General Partner" }
+    ],
+    "tags": ["solo-gp", "pre-seed", "b2b", "fintech", "emerging-manager"],
+    "summary": {
+      "en": "New York solo-GP micro-VC led by Nichole Wischoff. Fund II closed at $20M (up from a $5M debut), backed by Peter Thiel and others, targeting 25–30 US pre-seed/seed B2B 'unsexy' startups with checks up to $1M."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2022/12/16/solo-gp-nichole-wischoff-raises-20m-fund-backed-by-peter-thiel-to-invest-in-unsexy-businesses/",
+        "title": "Solo GP Nichole Wischoff raises $20M fund backed by Peter Thiel to invest in 'unsexy businesses'",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "fund sizes, solo GP, check size, stage, sector, backers",
+        "quote": "closed a second fund of $20 million ... Her target is to invest in 25 to 30 U.S. startups at the pre-seed or seed stage ... plans to write larger checks of up to $1 million ... Her first $5 million fund ... companies that apply an AI/ML or embedded fintech component to large legacy industries ... Backers of this new fund include Peter Thiel, Lee Fixel, Jerry Yang, Bain Capital ..."
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "us-cleo-capital",
+    "name": { "en": "Cleo Capital" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.cleocap.com/",
+    "links": {
+      "other": ["https://techcrunch.com/2021/04/09/cleo-capital-is-targeting-20-million-for-fund-ii/", "https://www.vcsheet.com/fund/cleo-capital"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2018, "size": { "raw": "$3.14M", "usd": 3140000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2021, "size": { "raw": "targeting up to $20M", "usd": null, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500K–$1M", "usd_min": 500000, "usd_max": 1000000 },
+      "geo_focus": ["United States"],
+      "sector_focus": ["fintech", "consumer", "saas-enterprise"],
+      "thesis": "Generalist pre-seed/seed fund backing exceptional early-stage founders. Founded and led by Sarah Kunst."
+    },
+    "people": [
+      { "name": "Sarah Kunst", "role": "Founder & General Partner" }
+    ],
+    "tags": ["solo-gp", "pre-seed", "emerging-manager"],
+    "summary": {
+      "en": "San Francisco micro-VC founded by Sarah Kunst in 2018. Closed a $3.14M debut fund and targeted up to $20M for Fund II, investing $500K–$1M at pre-seed/seed."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2021/04/09/cleo-capital-is-targeting-20-million-for-fund-ii/",
+        "title": "Cleo Capital is targeting $20 million for Fund II",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund II target $20M, Fund I close $3.14M, founding, stage",
+        "quote": "Cleo Capital is raising up to $20 million for its second fund ... She ended up closing $3.14 million of that goal."
+      },
+      {
+        "url": "https://www.vcsheet.com/fund/cleo-capital",
+        "title": "Cleo Capital - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "founded 2018 by Sarah Kunst, check size, stage",
+        "quote": "Cleo Capital is a generalist venture capital fund founded by general partner Sarah Kunst in 2018 ... invests $500K-1M at pre-seed"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund II final close size not confirmed; SEC filing showed ~$6.7M raised toward the $20M target as of the 2021 article. Started solo-GP; Kunst was reportedly adding a second partner.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "us-cake-ventures",
+    "name": { "en": "Cake Ventures" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.cake.vc/",
+    "links": {
+      "other": ["https://www.blackenterprise.com/cake-ventures-founded-by-monique-woodard-debuts-first-fund/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I (debut)", "vintage_year": 2023, "size": { "raw": "$17M", "usd": 17000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["consumer", "healthtech", "fintech"],
+      "thesis": "Demographic-change thesis: backs companies targeting an aging population, the 'billion-dollar female economy', and the shift to majority-minority US populations."
+    },
+    "people": [
+      { "name": "Monique Woodard", "role": "Founder & Managing Director" }
+    ],
+    "tags": ["solo-gp", "pre-seed", "demographics", "diversity", "emerging-manager"],
+    "summary": {
+      "en": "San Francisco pre-seed/seed micro-VC led by Monique Woodard, whose debut $17M fund (2023) invests around major demographic shifts — aging, women's spending power, and majority-minority populations."
+    },
+    "sources": [
+      {
+        "url": "https://www.blackenterprise.com/cake-ventures-founded-by-monique-woodard-debuts-first-fund/",
+        "title": "Cake Ventures, Founded by Monique Woodard, Debuts First Fund",
+        "publisher": "Black Enterprise",
+        "accessed": "2026-06-02",
+        "supports": "debut fund $17M, founder, thesis, stage",
+        "quote": "Cake Ventures, a pre-seed and seed venture capital firm, today announced its debut fund ($17 million) ... Founded by Monique Woodard ... an investment thesis focused on demographic change"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded year ~2021 (firm operating before the 2023 debut-fund close); exact founding date not confirmed.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "us-ganas-ventures",
+    "name": { "en": "Ganas Ventures" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Diego",
+    "website": "https://www.ganas.vc/",
+    "links": {
+      "other": ["https://techcrunch.com/2022/03/08/lolita-taub-ganas-ventures/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I (debut)", "vintage_year": 2022, "size": { "raw": "target $9.99M", "usd": 9990000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "~$100K", "usd_min": null, "usd_max": 100000 },
+      "geo_focus": ["United States", "Latin America"],
+      "sector_focus": ["generalist", "fintech"],
+      "thesis": "Community-driven early-stage fund backing pre-seed/seed startups in the US and Latin America; goal to back 75 companies with ~$100K checks. 'Instead of go-to market, to me, the future is go-to community.'"
+    },
+    "people": [
+      { "name": "Lolita Taub", "role": "Founder & General Partner (solo GP)" }
+    ],
+    "tags": ["solo-gp", "pre-seed", "latinx", "latam", "diversity", "emerging-manager"],
+    "summary": {
+      "en": "San Diego community-driven micro-VC led by solo GP Lolita Taub. Debut fund targeted $9.99M to back ~75 pre-seed/seed startups across the US and Latin America with ~$100K checks."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2022/03/08/lolita-taub-ganas-ventures/",
+        "title": "Community-first operator Lolita Taub is launching her own venture capital firm",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "fund target, check size, stage, geo focus, 75 companies",
+        "quote": "The debut fund has a target of $9.99 million ... The goal with the first fund is to back 75 pre-seed and seed-stage companies based in the U.S. and Latin America, writing checks around $100,000."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Final close size of Fund I not confirmed; $9.99M was a target, with $1.2M raised as of the March 2022 article.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "us-worklife-ventures",
+    "name": { "en": "Worklife Ventures" },
+    "aka": ["Worklife"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.worklife.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/work-life-ventures",
+      "other": ["https://techcrunch.com/2022/04/25/brianne-kimmel-worklife-fund-two/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2019, "size": { "raw": "$13M", "usd": 13000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2022, "size": { "raw": "$35M", "usd": 35000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "consumer"],
+      "thesis": "Future-of-work and creator-economy focused fund backing software for the average person and tools that enable more meaningful ways to make money."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Deel", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Webflow", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Hopin", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Public", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Brianne Kimmel", "role": "Founder & Managing Partner (solo GP)" }
+    ],
+    "tags": ["solo-gp", "seed", "future-of-work", "emerging-manager"],
+    "summary": {
+      "en": "San Francisco future-of-work micro-VC founded in 2019 by solo GP Brianne Kimmel. First fund closed at $13M, Fund II at $35M; early backer of Deel, Webflow, Hopin and Public."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2022/04/25/brianne-kimmel-worklife-fund-two/",
+        "title": "Brianne Kimmel's new $35 million fund isn't yet tempted by all of web3",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "fund sizes, founding year, solo GP, focus, portfolio",
+        "quote": "$35 million for her second future work-focused fund ... Worklife's first fund ultimately closed at $13 million ... Kimmel first launched Worklife Ventures in 2019 ... The solo-GP ... unicorns in the portfolio, which include Deel, Webflow, Hopin, Tonal, Clubhouse, Pipe and Public."
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "us-banana-capital",
+    "name": { "en": "Banana Capital" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Ann Arbor",
+    "website": "https://www.bananacapital.fund/",
+    "links": {
+      "other": ["https://techcrunch.com/2021/04/27/banana-capitals-fund-1-turner-novak/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I (debut)", "vintage_year": 2021, "size": { "raw": "$9.99M", "usd": 9990000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$25K–$300K", "usd_min": 25000, "usd_max": 300000 },
+      "ownership_target_pct": "0.2%–3%",
+      "geo_focus": ["United States"],
+      "sector_focus": ["consumer", "healthtech", "ecommerce"],
+      "thesis": "Internet-first fund backing early-stage founders in the broad consumer sector (social, healthcare, e-commerce) who understand internet culture, memes and humor."
+    },
+    "people": [
+      { "name": "Turner Novak", "role": "Founder & solo General Partner" }
+    ],
+    "tags": ["solo-gp", "pre-seed", "consumer", "internet-first", "emerging-manager"],
+    "summary": {
+      "en": "Solo-GP micro-VC founded by Turner Novak. Oversubscribed debut fund of $9.99M writing $25K–$300K checks into internet-first consumer founders."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2021/04/27/banana-capitals-fund-1-turner-novak/",
+        "title": "Banana Capital's debut fund is for internet-first founders",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "fund size, check size, ownership target, sector, solo GP",
+        "quote": "The oversubscribed debut fund is $9.99 million and the average check size is between $25,000 to $300,000 ... He is targeting ownership between 0.2% to 3% ... Novak describes Banana Capital as an internet-first fund."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I figures from primary 2021 reporting; later Fund II/III sizes circulate via secondary sources only and were not confirmed here.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "us-cantos-ventures",
+    "name": { "en": "Cantos Ventures" },
+    "aka": ["Cantos"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.cantos.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/cantos-ventures",
+      "other": ["https://techcrunch.com/2022/09/01/cantos-3/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund III", "vintage_year": 2022, "size": { "raw": "$50M", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$400K–$1.5M", "usd_min": 400000, "usd_max": 1500000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["deeptech", "climate-energy", "biotech", "spacetech"],
+      "thesis": "First-check 'near-frontier' deep-tech investor in climate, TechBio, aerospace and next-gen computing — stepping into hardware and bio gaps that generalist VCs avoid."
+    },
+    "people": [
+      { "name": "Ian Rountree", "role": "Founder & General Partner" }
+    ],
+    "tags": ["pre-seed", "deeptech", "frontier", "first-check", "emerging-manager"],
+    "summary": {
+      "en": "San Francisco deep-tech micro-VC founded in 2016 by Ian Rountree. Fund III of $50M writes first pre-seed/seed checks ($400K–$1.5M) into 'near-frontier' climate, TechBio, aerospace and computing startups."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2022/09/01/cantos-3/",
+        "title": "Cantos ploughs $50M into near-frontier startups",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund III $50M, deep-tech focus, pre-seed/seed",
+        "quote": "ploughing $50M into near-frontier startups ... pre-seed and seed stages ... deeply technical climate, TechBio, aerospace and next-gen computing startups"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund III ($50M) and stage from primary TechCrunch reporting; founded_year 2016 and $400K–$1.5M check size from secondary sources.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "us-conscience-vc",
+    "name": { "en": "Conscience VC" },
+    "aka": ["Conscience"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Los Angeles",
+    "website": "https://www.conscience.vc/",
+    "links": {
+      "other": ["https://techcrunch.com/2022/07/12/conscience-vc-raises-oversubscribed-fund-for-consumer-companies-rooted-in-science/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I (debut)", "vintage_year": 2022, "size": { "raw": "$10M", "usd": 10000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "up to $250K", "usd_min": null, "usd_max": 250000 },
+      "geo_focus": ["United States"],
+      "sector_focus": ["consumer", "biotech", "deeptech", "healthtech"],
+      "thesis": "Backs science-led, IP-driven, technically defensible consumer companies (a '12+ months to replicate' defensibility test). Largely pre-seed, but anything pre-Series A."
+    },
+    "track_record": {
+      "portfolio_count": 17
+    },
+    "people": [
+      { "name": "Ariana Thacker", "role": "Founding Partner (solo GP)" }
+    ],
+    "tags": ["solo-gp", "pre-seed", "deeptech", "consumer", "diversity", "emerging-manager"],
+    "summary": {
+      "en": "Los Angeles solo-GP micro-VC founded in 2020 by chemical engineer Ariana Thacker. Oversubscribed $10M debut fund writes checks up to $250K into science-led, defensible consumer companies, mostly at pre-seed."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2022/07/12/conscience-vc-raises-oversubscribed-fund-for-consumer-companies-rooted-in-science/",
+        "title": "Conscience VC raises oversubscribed fund for consumer companies rooted in science",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "debut fund $10M, check size, stage, founding, portfolio count",
+        "quote": "the close of its debut $10 million fund after an oversubscribed fundraise ... will cut checks up to $250,000 and will largely operate at the pre-seed stage, but will do anything pre-Series A ... has invested in 17 companies so far."
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "us-daybreak-ventures",
+    "name": { "en": "Daybreak Ventures" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York",
+    "website": "https://www.daybreakventures.com/",
+    "links": {
+      "other": ["https://fortune.com/2025/03/14/rex-woodburys-daybreak-ventures-unveils-33-million-first-fund/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I (debut)", "vintage_year": 2025, "size": { "raw": "$33M", "usd": 33000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500K–$1M", "usd_min": 500000, "usd_max": 1000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["consumer", "saas-enterprise"],
+      "thesis": "First-check fund returning to the 'artisanal, disciplined' roots of early-stage venture, investing in both consumer and enterprise companies."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Barnwell", "sector": "healthtech", "outcome": "active" },
+        { "company": "Hoop", "sector": "ecommerce", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Rex Woodbury", "role": "Founder & Managing Partner (solo GP)" }
+    ],
+    "tags": ["solo-gp", "pre-seed", "first-check", "emerging-manager", "spinout"],
+    "summary": {
+      "en": "Solo-GP micro-VC by Rex Woodbury (ex-Index Ventures, author of Digital Native). Debut Fund I of $33M (closed 2025) writes $500K–$1M first checks into consumer and enterprise startups."
+    },
+    "sources": [
+      {
+        "url": "https://fortune.com/2025/03/14/rex-woodburys-daybreak-ventures-unveils-33-million-first-fund/",
+        "title": "Rex Woodbury's Daybreak Ventures unveils $33 million first fund",
+        "publisher": "Fortune",
+        "accessed": "2026-06-02",
+        "supports": "first fund $33M, check size, sectors, founder background",
+        "quote": "Daybreak Ventures with a first fund closed at $33 million ... Daybreak will invest in both consumer and enterprise companies, writing checks ranging from $500,000 to $1 million."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund announced/closed March 2025; firm founded ~2024.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "us-vibe-capital",
+    "name": { "en": "Vibe Capital" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Brooklyn",
+    "website": "https://www.vibecap.co/",
+    "links": {
+      "other": ["https://techcrunch.com/2021/10/20/vibe-capital-is-a-new-venture-firm-built-for-scrappy-international-founders/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund (2021)", "vintage_year": 2021, "size": { "raw": "$60M (with additional $10M post-launch, ~$70M)", "usd": 70000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["United States", "Emerging markets"],
+      "sector_focus": ["generalist", "healthtech"],
+      "thesis": "Solo-GP fund backing pre-seed/seed founders across all sectors (especially physical and mental health), with roughly half of investments in emerging markets and scrappy international founders."
+    },
+    "people": [
+      { "name": "Ankur Nagpal", "role": "Founding Partner (solo GP); founder of Teachable" }
+    ],
+    "tags": ["solo-gp", "pre-seed", "international", "emerging-manager"],
+    "summary": {
+      "en": "Solo-GP micro-VC led by Teachable founder Ankur Nagpal. Raised a ~$60–70M fund in 2021 for pre-seed/seed founders globally, with about half in emerging markets."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2021/10/20/vibe-capital-is-a-new-venture-firm-built-for-scrappy-international-founders/",
+        "title": "Vibe Capital is a new venture firm built for scrappy international founders",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "fund size, solo GP, stage, emerging-market focus",
+        "quote": "a $60 million fund to back pre-seed and seed startup founders working across all sectors ... roughly half of its investments in emerging markets ... Ankur Nagpal ... spent seven years building up Teachable"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Nagpal later publicly stated he shrank the $70M+ fund by ~43% amid the market downturn and returned capital; later Vibe funds (Fund III) circulate via secondary sources only. Figures here reflect the original 2021 close.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "us-coelius-capital",
+    "name": { "en": "Coelius Capital" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://coelius.vc/",
+    "links": {
+      "other": ["https://www.vcsheet.com/who/zach-coelius", "https://venture.angellist.com/v/back/coelius-capital"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Two 2019 vehicles", "vintage_year": 2019, "size": { "raw": "$45M each", "usd": 45000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$200K–$1M", "usd_min": 200000, "usd_max": 1000000 },
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "fintech"],
+      "thesis": "Solo-GP fund run like a lead angel, backing 'validated weird ideas' in B2B sectors where Coelius has domain knowledge, using a 3,000+ AngelList backer community as a diligence engine. Avoids crypto, hard sciences, security, bio and chips."
+    },
+    "track_record": {
+      "portfolio_count": "60+"
+    },
+    "people": [
+      { "name": "Zach Coelius", "role": "Managing Partner (solo GP)" }
+    ],
+    "tags": ["solo-gp", "b2b", "rolling-fund", "emerging-manager"],
+    "summary": {
+      "en": "San Francisco solo-GP micro-VC run by entrepreneur Zach Coelius. Established two $45M vehicles in 2019 plus an AngelList rolling fund; reported deploying ~$94M across 60+ B2B companies."
+    },
+    "sources": [
+      {
+        "url": "https://www.vcsheet.com/who/zach-coelius",
+        "title": "Zach Coelius (Coelius Capital) / VC Breakdown & Contact",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-02",
+        "supports": "fund vehicles, check size, solo GP, portfolio count, sector avoidance",
+        "quote": "established two $45 million vehicles at the end of 2019 ... deployed $94 million across 60+ companies ... Average checks are $200k-1m ... refuses to invest in crypto, web3, hard sciences, security, bio, or chips."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund sizes, IRR and portfolio count from a single secondary source (VC Sheet); not corroborated by a primary filing.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "us-day-one-ventures",
+    "name": { "en": "Day One Ventures" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.dayoneventures.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/day-one-ventures",
+      "other": ["https://techcrunch.com/2025/12/04/why-day-one-ventures-masha-bucher-thinks-vcs-and-storytelling-go-hand-in-hand/"]
+    },
+    "capital": {
+      "aum": { "raw": "$450M+", "usd": 450000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund III", "vintage_year": 2024, "size": { "raw": "$150M", "usd": 150000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$500K–$5M (sweet spot ~$1.5M)", "usd_min": 500000, "usd_max": 5000000 },
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "consumer"],
+      "thesis": "Aims to be the first investor in the most important and ambitious ideas, combining venture capital with integrated, free PR/communications support for portfolio companies."
+    },
+    "track_record": {
+      "portfolio_count": "12+ unicorns",
+      "notable_investments": [
+        { "company": "World (Worldcoin)", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "Superhuman", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Remote.com", "sector": "saas-enterprise", "outcome": "unicorn" }
+      ]
+    },
+    "people": [
+      { "name": "Masha Bucher", "role": "Founder & General Partner (solo GP)" }
+    ],
+    "tags": ["solo-gp", "pre-seed", "pr-vc", "emerging-manager"],
+    "summary": {
+      "en": "San Francisco micro-VC founded in 2018 by solo GP Masha Bucher, pairing early-stage checks with integrated free PR. Grew from $11M AUM to $450M+, closed a $150M Fund III, and counts 12+ unicorns including Remote.com and World."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2025/12/04/why-day-one-ventures-masha-bucher-thinks-vcs-and-storytelling-go-hand-in-hand/",
+        "title": "Why Day One Ventures' Masha Bucher thinks VCs and storytelling go hand-in-hand",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "founding year, Fund III size, AUM growth, unicorns, portfolio, PR model",
+        "quote": "She founded Day One Ventures in 2018 ... Last year, Day One closed its Fund III with $150 million ... from $11 million in assets under management to well over $450 million today ... at least 12 unicorns under its belt ... Sam Altman's World, the email app Superhuman, and the remote work platform Remote.com"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Now scaling beyond strict 'micro' size at $450M+ AUM, but originated as a solo-GP emerging-manager fund ($11M); included on that basis.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "us-better-tomorrow-ventures",
+    "name": { "en": "Better Tomorrow Ventures" },
+    "aka": ["BTV"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.btv.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/better-tomorrow-ventures-bebf",
+      "other": ["https://techcrunch.com/2025/10/01/better-tomorrow-ventures-closes-140m-remains-bullish-on-fintech/"]
+    },
+    "capital": {
+      "aum": { "raw": "$450M", "usd": 450000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund II", "vintage_year": 2022, "size": { "raw": "$150M", "usd": 150000000, "currency": "USD" } },
+        { "name": "Fund III", "vintage_year": 2025, "size": { "raw": "$140M", "usd": 140000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500K–$3.5M", "usd_min": 500000, "usd_max": 3500000 },
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["fintech"],
+      "thesis": "Pre-seed/seed fund focused exclusively on early-stage fintech globally; plans ~30–35 investments per fund. 'The world of finance is huge. About 20% of global GDP is financial services.'"
+    },
+    "people": [
+      { "name": "Sheel Mohnot", "role": "General Partner & co-founder (ex-500 Startups)" },
+      { "name": "Jake Gibson", "role": "General Partner & co-founder (NerdWallet co-founder)" }
+    ],
+    "tags": ["pre-seed", "fintech", "emerging-manager", "spinout"],
+    "summary": {
+      "en": "San Francisco fintech-focused micro-VC founded in 2019 by Sheel Mohnot and Jake Gibson. Raised a $150M Fund II and $140M Fund III (about $450M AUM), writing $500K–$3.5M pre-seed/seed checks into fintech globally."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2025/10/01/better-tomorrow-ventures-closes-140m-remains-bullish-on-fintech/",
+        "title": "Better Tomorrow Ventures closes $140M, remains bullish on fintech",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "Fund III $140M, Fund II $150M, founders, check size, ~30-35 investments, fintech focus",
+        "quote": "Fund III: $140 million ... Fund II: $150 million ... Co-founders: Sheel Mohnot ... and Jake Gibson ... Check sizes ranging from $500,000 to $3.5 million ... Plans to deploy across 30 to 35 companies"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Now ~$450M AUM, larger than a strict micro-VC, but originated in 2019 as a small first-time fintech fund; included as an emerging-manager success story. An earlier 2022 report cited Fund II at $225M; the 2025 primary source cites $150M for Fund II.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  },
+  {
+    "id": "us-construct-capital",
+    "name": { "en": "Construct Capital" },
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Washington, D.C.",
+    "website": "https://www.constructcap.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/construct-capital",
+      "other": ["https://techcrunch.com/2022/04/21/construct-capital-startups-automation-infrastructure/"]
+    },
+    "capital": {
+      "aum": { "raw": "$750M", "usd": 750000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2021, "size": { "raw": "$140M", "usd": 140000000, "currency": "USD" } },
+        { "name": "Fund III", "vintage_year": 2025, "size": { "raw": "$300M", "usd": 300000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["robotics", "logistics", "mobility", "deeptech"],
+      "thesis": "Early-stage firm transforming 'Foundational Industries' (manufacturing, logistics/transportation, mobility, critical infrastructure) using robotics, AI and automation."
+    },
+    "people": [
+      { "name": "Dayna Grayson", "role": "Co-founder & General Partner (ex-NEA)" },
+      { "name": "Rachel Holt", "role": "Co-founder & General Partner (ex-Uber)" }
+    ],
+    "tags": ["seed", "industrial", "deeptech", "emerging-manager", "first-time-fund"],
+    "summary": {
+      "en": "Washington D.C. early-stage firm founded in 2020 by Dayna Grayson (ex-NEA) and Rachel Holt (ex-Uber). Its $140M first fund (2021) targeted foundational industrials; now ~$750M AUM with a $300M Fund III."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2022/04/21/construct-capital-startups-automation-infrastructure/",
+        "title": "Construct Capital raises $300M to invest in automation",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-02",
+        "supports": "founding 2020, first fund $140M, co-founders, foundational industries focus",
+        "quote": "Construct Capital co-founders Dayna Grayson and Rachel Holt founded the fund in 2020 and closed their first fund of $140 million ... Capital from the first fund went into 15 companies"
+      },
+      {
+        "url": "https://www.businesswire.com/news/home/20250331964620/en/Construct-Capital-Closes-$300-Million-Fund-III-to-Transform-Foundational-Industries",
+        "title": "Construct Capital Closes $300 Million Fund III to Transform Foundational Industries",
+        "publisher": "Business Wire",
+        "accessed": "2026-06-02",
+        "supports": "Fund III $300M, $750M AUM, foundational industries"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Now $750M AUM (Fund III $300M), beyond strict micro-VC scale, but included for its notable $140M first-time fund (2020/2021). $750M AUM figure from secondary reporting.",
+    "last_updated": "2026-06-02",
+    "researched_by": "micro-emerging-vc"
+  }
+]

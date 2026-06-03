@@ -1,0 +1,1020 @@
+[
+  {
+    "id": "jp-softbank-vision-fund",
+    "name": { "en": "SoftBank Vision Fund", "local": "ソフトバンク・ビジョン・ファンド" },
+    "aka": ["SVF", "SoftBank Investment Advisers", "SBIA"],
+    "type": "cvc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://visionfund.com/",
+    "links": {
+      "other": ["https://group.softbank/en", "https://en.wikipedia.org/wiki/SoftBank_Vision_Fund"]
+    },
+    "capital": {
+      "aum": { "raw": "over $100 billion (Vision Fund 1)", "usd": 100000000000, "currency": "USD" },
+      "funds": [
+        { "name": "SoftBank Vision Fund 1", "vintage_year": 2017, "size": { "raw": "over $100 billion", "usd": 100000000000, "currency": "USD" } },
+        { "name": "SoftBank Vision Fund 2", "vintage_year": 2019, "size": { "raw": "initially targeted $108 billion; raised significantly less", "usd": null, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "check_size": { "raw": "typically $100M+ per investment", "usd_min": 100000000, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["global", "United States", "China", "India", "Europe"],
+      "sector_focus": ["ai-ml", "deeptech", "fintech", "ecommerce", "mobility", "robotics"],
+      "thesis": "SoftBank Group's flagship technology-focused mega-fund, managed by SoftBank Investment Advisers, backing late-stage AI-aligned technology companies with very large checks."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Uber", "sector": "mobility", "outcome": "IPO" },
+        { "company": "DoorDash", "sector": "logistics", "outcome": "IPO" },
+        { "company": "Coupang", "sector": "ecommerce", "outcome": "IPO" },
+        { "company": "ByteDance", "sector": "consumer", "outcome": "active" },
+        { "company": "Arm", "sector": "hardware-semiconductor", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Masayoshi Son", "role": "Chairman & CEO, SoftBank Group (founder of Vision Fund strategy)" }
+    ],
+    "summary": {
+      "en": "SoftBank Vision Fund is the SoftBank Group's flagship technology investment vehicle, managed by SoftBank Investment Advisers (London/Tokyo/Silicon Valley). With over $100 billion in Vision Fund 1, it is the world's largest technology-focused fund, investing very large checks in late-stage AI-aligned companies.",
+      "local": "ソフトバンクグループのテクノロジー投資の旗艦ファンド。世界最大級のテック特化ファンド。"
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/SoftBank_Vision_Fund",
+        "title": "SoftBank Vision Fund - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-02",
+        "supports": "founding year, fund size, manager, HQ, portfolio",
+        "quote": "The Vision Fund was 'founded in 2017' and is 'managed by SoftBank Investment Advisers, a subsidiary of the SoftBank Group.' ... Vision Fund 1 raised over $100 billion at inception ... Vision Fund 2, established in 2019, initially targeted $108 billion"
+      },
+      {
+        "url": "https://group.softbank/en",
+        "title": "SoftBank Group Corp.",
+        "publisher": "SoftBank Group",
+        "accessed": "2026-06-02",
+        "supports": "Japanese parent holding company, technology focus"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Vision Fund 2 final raised amount was significantly below the $108B target; exact AUM fluctuates. SoftBank Investment Advisers is HQ'd in London with a main Tokyo office; parent SoftBank Group is Tokyo-based.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "jp-sony-innovation-fund",
+    "name": { "en": "Sony Innovation Fund", "local": "ソニーイノベーションファンド" },
+    "aka": ["Sony Ventures", "Sony Ventures Corporation", "SIF"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.sonyinnovationfund.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/sony-innovation-fund",
+      "other": ["https://globalventuring.com/corporate/sony-ventures-vc-investment-fund/"]
+    },
+    "capital": {
+      "aum": { "raw": "more than $500 million", "usd": 500000000, "currency": "USD" },
+      "funds": [
+        { "name": "Sony Innovation Fund (Fund 1)", "vintage_year": 2016, "size": { "raw": "financed from Sony's corporate balance sheet", "usd": null, "currency": null } },
+        { "name": "Sony Innovation Fund 2", "vintage_year": null, "size": { "raw": "joint venture with Daiwa Securities (later-stage)", "usd": null, "currency": null } },
+        { "name": "Sony Innovation Fund 3", "vintage_year": null, "size": { "raw": "26.5 billion yen ($209 million)", "usd": 209000000, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "geo_focus": ["United States", "Europe", "Israel", "Japan", "India"],
+      "sector_focus": ["ai-ml", "deeptech", "fintech", "healthtech", "gaming", "consumer", "climate-energy", "saas-enterprise"],
+      "thesis": "Sony's corporate venture arm investing globally in technology, entertainment, healthcare and deeptech, with strong emphasis on business collaboration with Sony Group."
+    },
+    "track_record": {
+      "portfolio_count": "198 (per Tracxn, Mar 2026)",
+      "notable_investments": [
+        { "company": "Scandit", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Trax", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Green Earth Institute", "sector": "climate-energy", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Gen Tsuchikawa", "role": "CEO & Chief Investment Officer" },
+      { "name": "Kazuhito Hadano", "role": "CEO, Sony Ventures Corporation" }
+    ],
+    "summary": {
+      "en": "Sony Innovation Fund (under Sony Ventures Corporation) is Sony Group's corporate venture capital arm, founded in 2016. It manages over $500M across funds (incl. Fund 3 at 26.5 billion yen / ~$209M) and invests globally in AI, deeptech, entertainment, healthcare and fintech.",
+      "local": "ソニーグループのCVC。2016年設立、世界でテクノロジー・エンタメ・ヘルスケア等に投資。"
+    },
+    "sources": [
+      {
+        "url": "https://globalventuring.com/corporate/sony-ventures-vc-investment-fund/",
+        "title": "Sony Ventures moves into the VC business",
+        "publisher": "Global Venturing",
+        "accessed": "2026-06-02",
+        "supports": "founding year, fund sizes, AUM, CEO, sectors, portfolio",
+        "quote": "Founding Year: 2016 ... Fund 3: 26.5 billion yen ($209 million) ... Total AUM: Over $500 million ... Key People: Gen Tsuchikawa (CEO and Chief Investment Officer)"
+      },
+      {
+        "url": "https://tracxn.com/d/venture-capital/sonyinnovationfund/__NrvggLlqWZHTIW7xhBou6YZUVdoTGRSFiYTCG-Tq5Cc",
+        "title": "Sony Innovation Fund - Investor Profile",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "portfolio count, exits, sectors",
+        "quote": "As of March 2026, Sony Innovation Fund is an active investor, having invested in 198 companies ... has seen 4 unicorns, 12 IPOs and 14 acquisitions including key companies like Slice, Trax and Scandit."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund 1 and Fund 2 exact sizes not disclosed (Fund 1 from balance sheet; Fund 2 JV with Daiwa). Portfolio count varies by source (153+ per Global Venturing vs 198 per Tracxn).",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "jp-kddi-open-innovation-fund",
+    "name": { "en": "KDDI Open Innovation Fund", "local": "KDDI Open Innovation Fund" },
+    "aka": ["KOIF", "KDDI新規事業育成ファンド"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.kddi.com/english/open-innovation-program/koif/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/kddi-open-innovation-fund",
+      "other": ["https://www.kddi.com/english/open-innovation-program/koif/portfolio/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "KDDI Open Innovation Fund I", "vintage_year": 2012, "size": { "raw": "5 billion yen", "usd": null, "currency": "JPY" } },
+        { "name": "KDDI Open Innovation Fund II", "vintage_year": null, "size": { "raw": "5 billion yen", "usd": null, "currency": "JPY" } },
+        { "name": "KDDI Open Innovation Fund III", "vintage_year": 2018, "size": { "raw": "30 billion yen", "usd": null, "currency": "JPY" } },
+        { "name": "KDDI Open Innovation Fund V", "vintage_year": 2025, "size": { "raw": "5 billion yen", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "geo_focus": ["Japan", "global"],
+      "sector_focus": ["ai-ml", "deeptech", "robotics", "mobility", "fintech", "saas-enterprise", "healthtech"],
+      "thesis": "KDDI's CVC, run jointly with Global Brain, backing startups for business collaboration across AI, DeepTech, mobility and robotics; Fund V (2025) focuses on AI and Deep Tech."
+    },
+    "track_record": {
+      "portfolio_count": "154 startups (as of Dec 9, 2025, excl. Fund of Funds)",
+      "notable_investments": [
+        { "company": "GITAI", "sector": "robotics", "outcome": "active" },
+        { "company": "Groq", "sector": "hardware-semiconductor", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "KDDI Open Innovation Fund (KOIF) is the telecom operator KDDI's CVC, managed with Global Brain since 2012. It has invested in 154 startups, with funds ranging from 5 billion yen to 30 billion yen; Fund V (April 2025) targets AI and Deep Tech.",
+      "local": "KDDIのCVC。グローバル・ブレインと共同運営、2012年開始。AI・ディープテック等に投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.kddi.com/english/open-innovation-program/koif/",
+        "title": "KDDI Open Innovation Fund",
+        "publisher": "KDDI Corporation",
+        "accessed": "2026-06-02",
+        "supports": "portfolio count, fund sizes, manager Global Brain, sectors",
+        "quote": "KDDI Open Innovation Fund has invested in 154 startups so far. (As of December 9, 2025, except Fund of Funds investments) ... Fund III ... 30 billion yen ... Fund V ... 5 billion yen ... 'Global Brain Corporation' manages all funds"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund IV not referenced on the English page; total active managed capital ~45 billion yen per KDDI. Vintage of Fund III stated as April 2018 in fetched table.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "jp-z-venture-capital",
+    "name": { "en": "Z Venture Capital", "local": "Z Venture Capital株式会社" },
+    "aka": ["ZVC", "YJ Capital", "LINE Ventures"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://zvc.vc/en/",
+    "links": {
+      "other": ["https://zvc.vc/en/portfolio/", "https://thebridge.jp/en/2025/01/z-venture-capital-launches-a-new-fund-with-a-scale-of-30-billion-yen"]
+    },
+    "capital": {
+      "aum": { "raw": "around 185 billion yen in investments worldwide", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "ZVC No. 2 Investment Limited Partnership", "vintage_year": 2025, "size": { "raw": "30 billion yen", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "geo_focus": ["Japan", "South Korea", "United States", "Southeast Asia"],
+      "sector_focus": ["ai-ml", "fintech", "ecommerce", "consumer", "spacetech", "robotics", "deeptech"],
+      "thesis": "CVC of LY Corporation (LINE Yahoo) investing across media, commerce, fintech and AI, plus deep tech like space and robotics; targets all stages from seed to later."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "In Joon Hwang", "role": "Representative / CEO" }
+    ],
+    "summary": {
+      "en": "Z Venture Capital (ZVC) is the corporate venture capital arm of LY Corporation (LINE Yahoo), formed in 2021 from the merger of YJ Capital and LINE Ventures. It manages around 185 billion yen worldwide and invests across media, commerce, fintech, AI, space and robotics, from seed to later stage.",
+      "local": "LINEヤフー(LY Corporation)のCVC。YJキャピタルとLINE Venturesの統合により誕生。メディア・コマース・フィンテック・AI等に投資。"
+    },
+    "sources": [
+      {
+        "url": "https://zvc.vc/en/about/",
+        "title": "ABOUT - Z Venture Capital",
+        "publisher": "Z Venture Capital",
+        "accessed": "2026-06-02",
+        "supports": "parent, founding, AUM, geographies, CEO",
+        "quote": "Parent Company: LY Corporation (100% shareholder) ... 'around 185 billion yen in investments worldwide' ... Geographies: 'Japan, Korea, the United States, and Southeast Asia' ... In Joon Hwang (Representative)"
+      },
+      {
+        "url": "https://thebridge.jp/en/2025/01/z-venture-capital-launches-a-new-fund-with-a-scale-of-30-billion-yen",
+        "title": "Z Venture Capital Launches a New Fund with a Scale of 30 Billion Yen",
+        "publisher": "The Bridge",
+        "accessed": "2026-06-02",
+        "supports": "ZVC2 fund size, sectors",
+        "quote": "Z Venture Capital established a new fund 'ZVC No. 2 Investment Limited Partnership' with a scale of 30 billion yen"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded year 2012 reflects original YJ Capital entity per ZVC about page; the ZVC brand dates to the 2021 merger.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "jp-ntt-docomo-ventures",
+    "name": { "en": "NTT DOCOMO Ventures", "local": "NTTドコモ・ベンチャーズ" },
+    "aka": ["DOCOMO Innovation Fund", "NTT Docomo Ventures"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.nttdocomo-v.com/en/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/ntt-docomo-ventures",
+      "other": ["https://www.docomo.ne.jp/english/info/media_center/pr/2025/1225_00.html"]
+    },
+    "capital": {
+      "aum": { "raw": "more than $350 million committed in total", "usd": 350000000, "currency": "USD" },
+      "funds": [
+        { "name": "DOCOMO Innovation Fund (DI)", "vintage_year": 2013, "size": { "raw": "10 billion yen", "usd": null, "currency": "JPY" } },
+        { "name": "DOCOMO Innovation Fund II (DI2)", "vintage_year": 2017, "size": { "raw": "15 billion yen", "usd": null, "currency": "JPY" } },
+        { "name": "DOCOMO Innovation Fund III (DI3)", "vintage_year": 2022, "size": { "raw": "15 billion yen", "usd": null, "currency": "JPY" } },
+        { "name": "DOCOMO Innovation Fund IV (DI4)", "vintage_year": 2026, "size": { "raw": "15 billion yen", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": "about US$2 million to US$3 million per investment", "usd_min": 2000000, "usd_max": 3000000 },
+      "ownership_target_pct": "minority stakes of around 20% or less",
+      "geo_focus": ["Japan", "global"],
+      "sector_focus": ["ai-ml", "cybersecurity", "healthtech", "saas-enterprise"],
+      "thesis": "NTT DOCOMO's CVC investing in information technology, telecom and content/platform startups in Japan and overseas for strategic collaboration with the DOCOMO/NTT group."
+    },
+    "track_record": {
+      "portfolio_count": "around 100 companies over 12 years",
+      "notable_investments": [
+        { "company": "ElevenLabs", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "NTT DOCOMO Ventures is the CVC of mobile carrier NTT DOCOMO, running the DOCOMO Innovation Fund series (DI 2013 / DI2 2017 / DI3 2022 / DI4 2026), with funds of 10–15 billion yen each and ~$350M committed in total. It backs ~100 companies in AI, cybersecurity, healthcare and enterprise tech.",
+      "local": "NTTドコモのCVC。DOCOMOイノベーションファンドシリーズを運営し、AI・セキュリティ・ヘルスケア等に投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.docomo.ne.jp/english/info/media_center/pr/2025/1225_00.html",
+        "title": "Establishment of DOCOMO Innovation Fund IV",
+        "publisher": "NTT DOCOMO",
+        "accessed": "2026-06-02",
+        "supports": "fund establishment dates and sizes",
+        "quote": "DI Fund: 'established in February 2013 (fund size: 10 billion yen)'; DI2 Fund: 'established in October 2017 (fund size: 15 billion yen)'; DI3 Fund: 'established in April 2022 (fund size: 15 billion yen)'; DOCOMO Innovation Fund IV ... Established: January 1, 2026 ... '15 billion yen'"
+      },
+      {
+        "url": "https://globalventuring.com/corporate/asia/japans-ntt-docomo-fourth-startup-fund/",
+        "title": "Japan's NTT Docomo launches fourth startup fund",
+        "publisher": "Global Venturing",
+        "accessed": "2026-06-02",
+        "supports": "total committed, portfolio count, check size, ownership target",
+        "quote": "committed more than $350 million in total to startup investments ... built a portfolio of some 100 companies over the past 12 years ... seeks to invest up to about USD $2 million to USD $3 million per investment and prefers to seek minority stakes of around 20% or less"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Check size, ownership target and portfolio/exit counts are from Global Venturing (secondary). DI4 established Jan 1, 2026.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "jp-cyberagent-capital",
+    "name": { "en": "CyberAgent Capital", "local": "サイバーエージェント・キャピタル" },
+    "aka": ["CA Startups Internet Fund", "CyberAgent Ventures"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2006,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.cyberagentcapital.com/en/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/cyberagent",
+      "other": ["https://pitchbook.com/profiles/investor/53279-92"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "CA Startups Internet Fund 1", "vintage_year": null, "size": { "raw": "JPY 2.4 billion", "usd": null, "currency": "JPY" } },
+        { "name": "CA Startups Internet Fund 2", "vintage_year": null, "size": { "raw": "JPY 5 billion", "usd": null, "currency": "JPY" } },
+        { "name": "CA Startups Internet Fund 3", "vintage_year": 2021, "size": { "raw": "6 billion yen (US$55.5 million)", "usd": 55500000, "currency": "JPY" } },
+        { "name": "CA Startups Internet Fund 4", "vintage_year": 2025, "size": { "raw": "maximum fund size of JPY 5 billion", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Japan", "Asia"],
+      "sector_focus": ["consumer", "saas-enterprise", "ai-ml", "gaming", "ecommerce"],
+      "thesis": "CyberAgent's CVC ('first investor' co-creation capital) backing seed/early-stage internet-related startups in Japan and Asia with growth and global potential."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Timee", "sector": "consumer", "outcome": "IPO" },
+        { "company": "VisasQ", "sector": "saas-enterprise", "outcome": "IPO" }
+      ]
+    },
+    "summary": {
+      "en": "CyberAgent Capital is the CVC of internet/media company CyberAgent, founded in 2006 (formerly CyberAgent Ventures). It runs the CA Startups Internet Fund series (Fund 3 at 6 billion yen / ~$55.5M; Fund 4 up to 5 billion yen, 2025) and invests in seed/early-stage internet startups across Asia.",
+      "local": "サイバーエージェントのCVC。CA Startups インターネットファンドシリーズを運営し、アジアのシード・アーリー期インターネットスタートアップに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.dealstreetasia.com/stories/cyberagent-capital-241692",
+        "title": "Japan's CyberAgent Capital closes Startups Internet Fund at $55.5m",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-02",
+        "supports": "Fund 3 size, founding year, Fund 1/2 sizes",
+        "quote": "CA Startups Internet Fund 3rd: Raised a total of 6 billion yen (US$55.5 million) ... Fund I also raised JPY2.4 billion ... JPY5 billion close of Fund II ... founded in 2006"
+      },
+      {
+        "url": "https://www.marketscreener.com/news/cyberagent-inc-announces-establishment-of-ca-startups-internet-fund-no-4-venture-capital-investmen-ce7c51dbde8cf325",
+        "title": "CyberAgent Announces Establishment of CA Startups Internet Fund No. 4",
+        "publisher": "MarketScreener",
+        "accessed": "2026-06-02",
+        "supports": "Fund 4 size and timing",
+        "quote": "CA Startups Internet Fund 4: Announced in August 2025 with a maximum fund size of JPY 5 billion"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded year 2006 reflects predecessor CyberAgent Ventures. Fund vintages for Funds 1 and 2 not precisely dated.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "jp-panasonic-conductive-ventures",
+    "name": { "en": "Conductive Ventures (Panasonic CVC)", "local": "コンダクティブ・ベンチャーズ" },
+    "aka": ["Panasonic Corporate Venture Capital", "Conductive Ventures"],
+    "type": "cvc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Osaka (Panasonic HQ); fund based in Palo Alto, USA",
+    "website": "https://www.panasonic.com/global/about/cvc.html",
+    "links": {
+      "other": ["https://conductive.vc/", "https://news.panasonic.com/global/press/en220420-2"]
+    },
+    "capital": {
+      "aum": { "raw": "$450m capital under management", "usd": 450000000, "currency": "USD" },
+      "funds": [
+        { "name": "Conductive Ventures Fund I", "vintage_year": null, "size": { "raw": "$100M", "usd": 100000000, "currency": "USD" } },
+        { "name": "Conductive Ventures Fund II", "vintage_year": 2020, "size": { "raw": "$150 Million", "usd": 150000000, "currency": "USD" } },
+        { "name": "Conductive Ventures Fund III", "vintage_year": 2022, "size": { "raw": "$200m", "usd": 200000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "growth"],
+      "geo_focus": ["United States", "Japan"],
+      "sector_focus": ["ai-ml", "fintech", "healthtech", "saas-enterprise", "hardware-semiconductor"],
+      "thesis": "Panasonic is the sole LP in growth-equity firm Conductive Ventures, which backs growth-stage software, hardware, tech-enabled services and helps portfolio companies access Japanese markets."
+    },
+    "track_record": {
+      "exits": [
+        { "company": "Desktop Metal", "type": "IPO", "year": 2020, "value": { "raw": "$2.5bn post-transaction valuation", "usd": 2500000000, "currency": "USD" } },
+        { "company": "Proterra", "type": "M&A", "year": 2021, "value": { "raw": "$1.6bn enterprise valuation", "usd": 1600000000, "currency": "USD" } }
+      ]
+    },
+    "people": [
+      { "name": "Carey Lai", "role": "Co-founder & Managing Director" },
+      { "name": "Paul Yeh", "role": "Co-founder & Managing Director" }
+    ],
+    "summary": {
+      "en": "Conductive Ventures is the US-based growth-equity vehicle for which Panasonic is the sole LP, founded 2017. Across Funds I–III ($100M / $150M / $200M, ~$450M total) it backs growth-stage software, hardware and tech-enabled services and helps them enter Japanese markets.",
+      "local": "パナソニックを唯一のLPとする米国拠点のCVC。ソフトウェア・ハードウェア等のグロース期企業に投資。"
+    },
+    "sources": [
+      {
+        "url": "https://globalventuring.com/corporate/panasonic-puts-200m-conductive/",
+        "title": "Panasonic puts $200m more into Conductive Ventures",
+        "publisher": "Global Venturing",
+        "accessed": "2026-06-02",
+        "supports": "fund sizes, AUM, founders, exits",
+        "quote": "closed its Fund III at $200m ... bringing its capital under management to $450m ... Fund I at $100M and Fund II at $150M ... Founded in 2017 by managing directors Carey Lai and Paul Yeh ... Desktop Metal ... valuing it at $2.5bn ... Proterra, which secured a $1.6bn enterprise valuation"
+      },
+      {
+        "url": "https://news.panasonic.com/global/press/en220420-2",
+        "title": "Panasonic Invests Additional $200 Million in Conductive Ventures Fund III",
+        "publisher": "Panasonic Newsroom Global",
+        "accessed": "2026-06-02",
+        "supports": "Panasonic as sole LP, Fund III"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Conductive Ventures is a US growth-equity firm with Panasonic as sole LP — counts as Panasonic's CVC vehicle. The fund/team is US-based (Palo Alto); parent Panasonic is Japan-based.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "jp-mitsubishi-electric-me-innovation-fund",
+    "name": { "en": "ME Innovation Fund (Mitsubishi Electric)", "local": "ME Innovation Fund" },
+    "aka": ["Mitsubishi Electric Innovation Fund"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.mitsubishielectric.com/cvc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/mitsubishi-electric-innovation-fund",
+      "other": ["https://www.mitsubishielectric.com/cvc/portfolio.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "ME Innovation Fund", "vintage_year": 2022, "size": { "raw": "five billion yen over ten years", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["Japan", "global"],
+      "sector_focus": ["deeptech", "climate-energy", "robotics", "hardware-semiconductor", "mobility", "spacetech"],
+      "thesis": "Mitsubishi Electric's CVC (GP: Global Brain) investing 5 billion yen over a decade in startups focused on digitalisation and sustainability, aiming for 20–30 portfolio companies."
+    },
+    "track_record": {
+      "portfolio_count": "18 investments"
+    },
+    "summary": {
+      "en": "ME Innovation Fund is Mitsubishi Electric's corporate venture capital fund, launched January 2022 with Global Brain as GP. It commits 5 billion yen over ten years to startups in digitalisation and green/sustainability tech, targeting 20–30 investments.",
+      "local": "三菱電機のCVC。グローバル・ブレインがGP。10年で50億円、デジタル化とグリーンイノベーション領域に投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.businesswire.com/news/home/20220112005431/en/Mitsubishi-Electric-Global-Brain-Launch-%E2%80%9CME-Innovation-Fund%E2%80%9D",
+        "title": "Mitsubishi Electric, Global Brain Launch \"ME Innovation Fund\"",
+        "publisher": "Business Wire",
+        "accessed": "2026-06-02",
+        "supports": "launch, fund size, period, GP, focus, target count",
+        "quote": "Mitsubishi Electric and Global Brain announced the launch of the ME Innovation Fund ... with a commitment to invest five billion yen in capital over the next ten years ... aims to invest in 20 to 30 companies ... Global Brain Corporation as its general partner"
+      },
+      {
+        "url": "https://www.mitsubishielectric.com/cvc/portfolio.html",
+        "title": "PORTFOLIO : ME Innovation Fund",
+        "publisher": "Mitsubishi Electric",
+        "accessed": "2026-06-02",
+        "supports": "portfolio count",
+        "quote": "ME Innovation Fund has made a total of 18 investments."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Portfolio count of 18 is as last reported; may have grown.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "jp-fujitsu-ventures",
+    "name": { "en": "Fujitsu Ventures", "local": "富士通ベンチャーズ" },
+    "aka": ["Fujitsu Ventures Fund", "FUJITSU VENTURES LIMITED"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.fujitsu.com/jp/group/fjv/en/",
+    "links": {
+      "other": ["https://www.fujitsu.com/global/about/resources/news/press-releases/2021/0331-01.html", "https://info.archives.global.fujitsu/global/about/resources/news/press-releases/2025/0526-01.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fujitsu Ventures Fund (Fund I)", "vintage_year": 2021, "size": { "raw": "10 billion yen", "usd": null, "currency": "JPY" } },
+        { "name": "Fujitsu Ventures Fund II", "vintage_year": 2025, "size": { "raw": "15 billion yen", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "geo_focus": ["Japan", "United States", "Europe", "Israel"],
+      "sector_focus": ["ai-ml", "deeptech", "saas-enterprise", "impact"],
+      "thesis": "Fujitsu's CVC making strategic investments in promising tech startups globally to reinforce business collaboration, with an added impact-investing strand from 2024."
+    },
+    "track_record": {
+      "portfolio_count": "17 companies (Fund I)",
+      "notable_investments": [
+        { "company": "Sakana AI", "sector": "ai-ml", "outcome": "active" },
+        { "company": "QunaSys", "sector": "deeptech", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "Fujitsu Ventures (Fujitsu Ventures Fund) is Fujitsu's CVC, launched April 2021 with a 10 billion yen Fund I and a 15 billion yen Fund II (July 2025). It invests in tech startups across Japan, the US, Europe and Israel, including Sakana AI and QunaSys.",
+      "local": "富士通のCVC。2021年に100億円のファンドIを設立、2025年に150億円のファンドIIを設立。グローバルにテックスタートアップへ投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.fujitsu.com/global/about/resources/news/press-releases/2021/0331-01.html",
+        "title": "Fujitsu Accelerates Investment in Promising Tech Startups with Establishment of 10 Billion Yen CVC Fund",
+        "publisher": "Fujitsu Global",
+        "accessed": "2026-06-02",
+        "supports": "Fund I size and 2021 establishment",
+        "quote": "Fujitsu Accelerates Investment in Promising Tech Startups with Establishment of 10 Billion Yen Corporate Venture Capital Fund"
+      },
+      {
+        "url": "https://info.archives.global.fujitsu/global/about/resources/news/press-releases/2025/0526-01.html",
+        "title": "Fujitsu launches second corporate venture capital fund",
+        "publisher": "Fujitsu Global",
+        "accessed": "2026-06-02",
+        "supports": "Fund II size and timing, Fund I portfolio count",
+        "quote": "Fujitsu Ventures Fund II, with a total capital commitment of 15 billion yen, effective July 1, 2025 ... Fund I has invested in a total of 17 companies"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I portfolio count of 17 from Fujitsu press; impact investing strand added June 2024.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "jp-nec-orchestrating-future-fund",
+    "name": { "en": "NEC Orchestrating Future Fund", "local": "NEC Orchestrating Future Fund" },
+    "aka": ["NOFF"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.nec.com/en/global/innovation/noff/index.html",
+    "links": {
+      "other": ["https://www.nec.com/en/press/202211/global_20221130_01.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "NEC Orchestrating Future Fund", "vintage_year": 2021, "size": { "raw": "US$140 million (approximately 20 billion yen)", "usd": 140000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "geo_focus": ["Japan", "global"],
+      "sector_focus": ["ai-ml", "deeptech", "healthtech", "fintech", "climate-energy", "cybersecurity"],
+      "thesis": "NEC's ecosystem-type CVC backing startups across six domains: 5G & 6G, Smart Cities, DX, Healthcare & Life Sciences, Digital Government / Digital Finance, and Carbon Neutrality."
+    },
+    "track_record": {
+      "portfolio_count": "14 startups (as of March 2026)"
+    },
+    "summary": {
+      "en": "NEC Orchestrating Future Fund (NOFF) is NEC's ecosystem-type CVC, established December 2021 and final-closed at US$140 million (~20 billion yen). It invests across six domains including 5G/6G, smart cities, DX, healthcare, digital government/finance and carbon neutrality.",
+      "local": "NECのエコシステム型CVC。2021年設立、約1.4億ドル(約200億円)。5G/6G・スマートシティ・DX・ヘルスケア等に投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.nec.com/en/press/202211/global_20221130_01.html",
+        "title": "NEC Orchestrating Future Fund Completes Final Close for US$140 Million",
+        "publisher": "NEC",
+        "accessed": "2026-06-02",
+        "supports": "fund size, establishment, domains",
+        "quote": "NEC Orchestrating Future Fund, an Ecosystem-type CVC Fund, Completes Final Close for US$140 Million"
+      },
+      {
+        "url": "https://www.nec.com/en/global/innovation/noff/index.html",
+        "title": "NEC Orchestrating Future Fund (NOFF)",
+        "publisher": "NEC",
+        "accessed": "2026-06-02",
+        "supports": "six investment domains, portfolio count, establishment December 2021",
+        "quote": "established in December 2021 for US$140 million (approximately 20 billion yen) ... six key domains: 5G & 6G, Smart Cities, Digital Transformation (DX), Healthcare & Life Sciences, Digital Government / Digital Finance, and Carbon Neutrality ... NOFF has invested in 14 domestic and international startups"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "NEC's site returned 403 on direct fetch; figures (US$140M / ~20B yen, Dec 2021, six domains, 14 companies as of Mar 2026) are corroborated by NEC press release title and search snippets. Portfolio count quote is from secondary aggregation of NEC's page.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "jp-toshiba-cvc-fund",
+    "name": { "en": "Toshiba Corporate Venture Capital Fund", "local": "東芝コーポレートベンチャーキャピタル" },
+    "aka": ["Toshiba CVC"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.global.toshiba/ww/company.html",
+    "links": {
+      "other": ["https://globalventuring.com/corporate/toshiba-pushes-89m-corporate-venturing-fund/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Toshiba Corporate Venture Capital Fund", "vintage_year": 2019, "size": { "raw": "¥10 billion ($89 million)", "usd": 89000000, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "geo_focus": ["Japan", "global"],
+      "sector_focus": ["climate-energy", "hardware-semiconductor", "robotics", "healthtech", "deeptech"],
+      "thesis": "Toshiba's CVC fund created to build new businesses beyond its current portfolio, investing in renewable energy, power electronics, robotics, medical and battery (SCiB) technologies."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Multiverse Computing", "sector": "deeptech", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "Toshiba set up a ¥10 billion (~$89M) corporate venture capital fund in 2019 to create new businesses beyond its existing portfolio, targeting renewable energy, power electronics, robotics, medical and battery technologies; it has also backed quantum-computing startups.",
+      "local": "東芝が2019年に設立した100億円のCVCファンド。再生可能エネルギー・パワーエレクトロニクス・ロボティクス・医療技術等に投資。"
+    },
+    "sources": [
+      {
+        "url": "https://globalventuring.com/corporate/toshiba-pushes-89m-corporate-venturing-fund/",
+        "title": "Toshiba pushes $89m corporate venturing fund",
+        "publisher": "Global Venturing",
+        "accessed": "2026-06-02",
+        "supports": "fund size, establishment, sectors, broader plan",
+        "quote": "Fund Size: ¥10 billion ($89 million) ... Established: March 2019 ... 'a new corporate venture capital fund of ¥10bn has been set up to create new businesses not bound by our current portfolio.' ... Renewable energy technologies, power electronics, robotics, medical technologies ... $8.3 billion over five years"
+      },
+      {
+        "url": "https://www.global.toshiba/ww/news/corporate/2024/07/news-20240726-01.html",
+        "title": "Toshiba and Quantonation Announce Toshiba's Investment in Quantum Investment Fund Quantonation II",
+        "publisher": "Toshiba",
+        "accessed": "2026-06-02",
+        "supports": "ongoing quantum/deep tech investing"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund size and sectors from Global Venturing (secondary); current portfolio count not verified. Toshiba has undergone restructuring/privatization, but CVC/strategic investing activity continues.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "jp-deepcore",
+    "name": { "en": "DEEPCORE", "local": "ディープコア" },
+    "aka": ["Deepcore Inc."],
+    "type": "cvc",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://deepcore.jp/",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/deepcore"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Deepcore Fund 1", "vintage_year": 2018, "size": { "raw": "about $55 million", "usd": 55000000, "currency": "USD" } },
+        { "name": "DEEPCORE TOKYO II", "vintage_year": 2019, "size": { "raw": "$83.71M (closed 5/31/2023)", "usd": 83710000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Japan", "global"],
+      "sector_focus": ["ai-ml", "robotics", "deeptech"],
+      "thesis": "SoftBank's AI-focused incubator and seed CVC, investing in seed/early-stage AI startups and running incubation and talent programs for AI entrepreneurs and engineers."
+    },
+    "track_record": {
+      "portfolio_count": "168 investments (per CB Insights)"
+    },
+    "summary": {
+      "en": "DEEPCORE is SoftBank's AI-focused incubator and seed-stage CVC, which raised its first ~$55M fund in 2018 and a second fund (DEEPCORE TOKYO II, ~$83.7M). It invests in seed/early-stage AI and deeptech startups and runs incubation/talent programs.",
+      "local": "ソフトバンクのAI特化型インキュベーター/シードCVC。AI・ディープテックのシード期スタートアップに投資し、育成プログラムを運営。"
+    },
+    "sources": [
+      {
+        "url": "https://www.cbinsights.com/investor/deepcore",
+        "title": "DEEPCORE Portfolio Investments and Funds",
+        "publisher": "CB Insights",
+        "accessed": "2026-06-02",
+        "supports": "HQ, portfolio count, funds, sectors, stages",
+        "quote": "Headquarters: Tokyo, Japan ... Portfolio Companies: 168 investments ... Funds: 5 funds, including DEEPCORE TOKYO II Investment ($83.71M, closed 5/31/2023) ... Sectors: AI, robotics, and advanced technology ... Investment Stages: Seed and early-stage"
+      },
+      {
+        "url": "https://www.avcj.com/avcj/news/3010175/softbanks-japanese-ai-incubator-targets-usd55m-fund",
+        "title": "SoftBank's Japanese AI incubator targets $55m fund",
+        "publisher": "AVCJ",
+        "accessed": "2026-06-02",
+        "supports": "SoftBank parent, AI incubator, first fund ~$55M (2018)",
+        "quote": "Deepcore was formed through SoftBank's AI-focused incubator, which raised its first fund of about $55 million in 2018"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded year 2018 reflects SoftBank AI incubator launch (CB Insights lists 2005, which appears to be a data error). Portfolio count varies (70+ in older sources vs 168 in CB Insights).",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "jp-bandai-namco-021-fund",
+    "name": { "en": "Bandai Namco 021 Fund", "local": "バンダイナムコ 021 Fund" },
+    "aka": ["021 Fund", "Bandai Namco Entertainment 021 Startup Investment Fund"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://021fund.bn-ent.net/en/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/bandai-namco-entertainment",
+      "other": ["https://021fund.bn-ent.net/en/aboutus/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Bandai Namco 021 Fund", "vintage_year": 2022, "size": { "raw": "about 1 billion yen/year (3 billion yen over 3 years), from BNE balance sheet", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "10 million yen up to 500 million yen", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan", "United States", "global"],
+      "sector_focus": ["gaming", "ai-ml", "consumer", "web3-crypto"],
+      "thesis": "Bandai Namco Entertainment's CVC investing in game studios and original-IP startups, using advanced tech (AI, VR, esports, NFTs, space entertainment) to create next-generation entertainment."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "SuperGaming", "sector": "gaming", "outcome": "active" },
+        { "company": "DeepMotion", "sector": "ai-ml", "outcome": "active" },
+        { "company": "GGWP", "sector": "gaming", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "The Bandai Namco 021 Fund is the CVC division of Bandai Namco Entertainment, launched April 2022. It invests ~1 billion yen/year (3 billion over 3 years) from the parent's balance sheet, with checks of 10M–500M yen, in game studios and original-IP startups across gaming, AI, VR, esports and Web3.",
+      "local": "バンダイナムコエンターテインメントのCVC。2022年4月設立。ゲーム開発スタジオやオリジナルIPスタートアップに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.firstcvc.jp/en/story/bannamu-iwasaki",
+        "title": "Bandai Namco's Goal to Create Entertainment Through Startup Investments",
+        "publisher": "FIRST CVC",
+        "accessed": "2026-06-02",
+        "supports": "launch, balance-sheet structure, annual investment, check size, focus",
+        "quote": "launched in April 2022 as the CVC ... investments are made directly from Bandai Namco Entertainment's balance sheet ... Annual investment is about 1 billion yen (3 billion yen over 3 years), with investment sizes ranging from 10 million yen up to 500 million yen"
+      },
+      {
+        "url": "https://021fund.bn-ent.net/en/aboutus/",
+        "title": "About us | Bandai Namco 021 Fund",
+        "publisher": "Bandai Namco Entertainment",
+        "accessed": "2026-06-02",
+        "supports": "parent, HQ, strategy pillars (Create IP / Grow IP / Connect with Fans)",
+        "quote": "Parent Company: Bandai Namco Entertainment Inc. ... Headquarters: 5-37-8 Shiba, Minato-ku, Tokyo"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Structured as direct balance-sheet investing rather than an LP fund; '021 Fund' is the brand. Check size in USD left null (only yen reported).",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "jp-gmo-venturepartners",
+    "name": { "en": "GMO VenturePartners", "local": "GMO VenturePartners株式会社" },
+    "aka": ["GMO Venture Partners", "GMO Fintech Fund"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2000,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://gmo-vp.com/en/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/gmo-venturepartners",
+      "other": ["https://pitchbook.com/profiles/investor/55694-08"]
+    },
+    "capital": {
+      "aum": { "raw": "approximately JPY 30.3 billion (around $227 million)", "usd": 227000000, "currency": "JPY" },
+      "funds": [
+        { "name": "GMO Fintech Fund 8", "vintage_year": 2026, "size": { "raw": "initial 6.4 billion yen, targeting ~10 billion yen final close", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "geo_focus": ["United States", "Asia", "Japan"],
+      "sector_focus": ["fintech", "ai-ml", "ecommerce", "saas-enterprise"],
+      "thesis": "GMO Internet Group's early/growth-stage investment arm specializing in fintech and IT, pivoting toward AI-driven fintech with its 8th fund."
+    },
+    "track_record": {
+      "portfolio_count": "227 companies",
+      "exits": [
+        { "company": "Mercari", "type": "IPO", "year": 2018, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Money Forward", "type": "IPO", "year": 2017, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "summary": {
+      "en": "GMO VenturePartners is the venture investment arm of GMO Internet Group, established in 2000. With ~JPY 30.3 billion (~$227M) total capital and 227 portfolio companies (incl. Mercari and Money Forward exits), it focuses on fintech and IT; its 8th fund (2026) pivots to AI-driven fintech.",
+      "local": "GMOインターネットグループのCVC。2000年設立。フィンテック・ITに投資し、メルカリやマネーフォワード等のEXIT実績。"
+    },
+    "sources": [
+      {
+        "url": "https://tracxn.com/d/venture-capital/gmo-venture-partners/__zr6gMzBDba6rhN-CpS5UBCnn5qIqy6SQwvUQ7ycs7xU",
+        "title": "GMO Venture Partners - Investor Profile",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-02",
+        "supports": "founding, AUM, portfolio count, exits, parent",
+        "quote": "established in 2000 and headquartered in Tokyo ... early and growth stage investment subsidiary of GMO Internet Group ... total capital of approximately JPY 30.3 billion (around $227 million) ... portfolio of 227 companies, including notable exits such as Mercari and Money Forward"
+      },
+      {
+        "url": "https://www.fintechobserver.com/gmo-targets-jpy-10bn-for-8th-venture-fund-pivots-focus-to-ai-driven-fintech/",
+        "title": "GMO Targets JPY 10bn for 8th Venture Fund, Pivots Focus to AI-Driven FinTech",
+        "publisher": "Fintech Observer",
+        "accessed": "2026-06-02",
+        "supports": "Fund 8 size and timing",
+        "quote": "GMO Fintech Fund 8 ... slated for a launch on April 1, 2026, with an initial capital base of 6.4 billion yen ... targeting a final close of approximately 10 billion yen"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "GMO VenturePartners is a consolidated subsidiary of GMO Internet Group (an internet/IT/fintech company), so classed as a tech CVC. Some sources treat it as a standalone VC.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "jp-salesforce-ventures-japan-trailblazer-fund",
+    "name": { "en": "Salesforce Ventures Japan Trailblazer Fund", "local": "セールスフォース・ベンチャーズ ジャパン・トレイルブレイザー・ファンド" },
+    "aka": ["Salesforce Ventures Japan", "Japan Trailblazer Fund"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "United States",
+    "hq_city": "Tokyo (Salesforce Ventures Japan); parent San Francisco, USA",
+    "website": "https://salesforceventures.com/",
+    "links": {
+      "other": ["https://www.salesforce.com/news/press-releases/2018/12/05/salesforce-ventures-introduces-100-million-japan-trailblazer-fund/", "https://en.prnasia.com/releases/apac/salesforce-ventures-introduces-100-million-japan-trailblazer-fund-231536.shtml"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Japan Trailblazer Fund", "vintage_year": 2018, "size": { "raw": "$100 million", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "fintech"],
+      "thesis": "Salesforce Ventures' first local fund in Asia, backing Japanese enterprise-cloud and SaaS startups in the Salesforce ecosystem."
+    },
+    "track_record": {
+      "portfolio_count": "40 Japanese companies (at fund launch, since 2011)",
+      "notable_investments": [
+        { "company": "Sansan", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "TeamSpirit", "sector": "saas-enterprise", "outcome": "IPO" }
+      ]
+    },
+    "summary": {
+      "en": "The Japan Trailblazer Fund is Salesforce Ventures' $100M Japan-dedicated CVC fund, launched December 2018 — its first local fund in Asia. Salesforce Ventures has backed 40+ Japanese companies (incl. Sansan, TeamSpirit) since 2011, focusing on enterprise-cloud/SaaS startups.",
+      "local": "セールスフォース・ベンチャーズの日本特化型1億ドルCVCファンド(2018年12月設立)。Sansanやチームスピリット等のエンタープライズSaaSに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://en.prnasia.com/releases/apac/salesforce-ventures-introduces-100-million-japan-trailblazer-fund-231536.shtml",
+        "title": "Salesforce Ventures Introduces $100 Million Japan Trailblazer Fund",
+        "publisher": "PR Newswire APAC",
+        "accessed": "2026-06-02",
+        "supports": "fund size, date, portfolio count, notable companies",
+        "quote": "Salesforce Ventures launched the Japan Trailblazer Fund, a new $100 million fund ... announced in December 2018 ... has supported the Japanese startup community since 2011, investing in 40 innovative companies ... Sansan ... TeamSpirit"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Foreign (US) CVC with a Japan-dedicated fund and Japan team; included as a tech CVC active in Japan. Parent is Salesforce (US enterprise-software company), hence country set to United States.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "jp-rakuten-capital",
+    "name": { "en": "Rakuten Capital", "local": "楽天キャピタル" },
+    "aka": ["Rakuten Ventures", "Rakuten Ventures Japan Fund"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://capital.rakuten.com/",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/rakuten-ventures",
+      "other": ["https://global.rakuten.com/corp/news/press/2016/0127_01.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Rakuten Ventures Japan Fund", "vintage_year": 2016, "size": { "raw": "10 billion yen (approx. US$84 million)", "usd": 84000000, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "geo_focus": ["Japan", "global"],
+      "sector_focus": ["ecommerce", "fintech", "consumer", "mobility", "ai-ml"],
+      "thesis": "Rakuten Group's corporate venture arm investing globally in companies of strategic significance to Rakuten across e-commerce, fintech, mobile and digital content."
+    },
+    "track_record": {
+      "portfolio_count": "more than 90 companies",
+      "notable_investments": [
+        { "company": "Lyft", "sector": "mobility", "outcome": "IPO" },
+        { "company": "Pinterest", "sector": "consumer", "outcome": "IPO" },
+        { "company": "Careem", "sector": "mobility", "outcome": "acquired" },
+        { "company": "Carousell", "sector": "ecommerce", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "Rakuten Capital (formerly Rakuten Ventures) is the CVC of internet-services group Rakuten, launched in 2013. It has invested in 90+ companies globally (incl. Lyft, Pinterest, Careem) and ran a 10 billion yen (~$84M) Rakuten Ventures Japan Fund focused on e-commerce, fintech and mobile.",
+      "local": "楽天グループのCVC。2013年開始。Lyftやピンタレスト等、世界で90社超に投資。10億円規模の楽天ベンチャーズ・ジャパン・ファンドも運用。"
+    },
+    "sources": [
+      {
+        "url": "https://global.rakuten.com/corp/news/press/2016/0127_01.html",
+        "title": "Rakuten Ventures Establishes 10 Billion Yen Rakuten Ventures Japan Fund",
+        "publisher": "Rakuten Group",
+        "accessed": "2026-06-02",
+        "supports": "Japan Fund size",
+        "quote": "Rakuten Ventures launched the Rakuten Ventures Japan Fund, a 10 billion yen (approx. US$84 million) venture capital fund targeting investments in startups in Japan"
+      },
+      {
+        "url": "https://www.cbinsights.com/investor/rakuten-ventures",
+        "title": "Rakuten Capital Portfolio Investments",
+        "publisher": "CB Insights",
+        "accessed": "2026-06-02",
+        "supports": "founding, parent, portfolio count, notable companies",
+        "quote": "Rakuten Capital is the corporate venture capital arm of Rakuten Group ... Launched in 2013 ... invested globally in more than 90 companies, including Careem, Carousell, GoTo, Lyft, Pinterest and Upstart"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Rakuten Ventures Japan Fund dates to 2016 (10B yen); Rakuten Capital itself launched 2013. Current standalone fund activity reduced in recent years; investing now often from balance sheet.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  },
+  {
+    "id": "jp-mixi-cvc",
+    "name": { "en": "MIXI (Corporate Venture Capital)", "local": "株式会社MIXI" },
+    "aka": ["mixi", "MIXI Inc."],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://mixi.co.jp/en/",
+    "links": {
+      "other": ["https://www.firstcvc.jp/en/story/mixi", "https://inc42.com/buzz/japans-mixi-launches-50-mn-cvc-fund-for-indian-digital-entertainment-startups/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "MIXI corporate investment (FY19–FY22)", "vintage_year": null, "size": { "raw": "around 70 billion yen ($492 million) invested FY19-FY22", "usd": 492000000, "currency": "JPY" } },
+        { "name": "MIXI India CVC Fund", "vintage_year": 2024, "size": { "raw": "$50 million", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "$0.5M to $2M (India fund)", "usd_min": 500000, "usd_max": 2000000 },
+      "geo_focus": ["Japan", "India"],
+      "sector_focus": ["gaming", "consumer", "saas-enterprise"],
+      "thesis": "MIXI invests in consumer (toC) services, especially entertainment, to create synergies with its digital-entertainment and communication businesses; it runs CVC funds in Japan and India."
+    },
+    "track_record": {
+      "notable_investments": []
+    },
+    "summary": {
+      "en": "MIXI, the Japanese entertainment/communication company (Monster Strike, SNS), runs corporate venture investing focused on consumer (toC) entertainment services. It invested ~70 billion yen ($492M) FY19–FY22 and launched a $50M CVC fund in India (2024) for early-stage entertainment startups.",
+      "local": "MIXIのCVC。エンタメ等のtoCサービスに投資し、自社事業とのシナジーを追求。FY19〜FY22に約700億円を投資、インドで5,000万ドルのCVCファンドも設立。"
+    },
+    "sources": [
+      {
+        "url": "https://inc42.com/buzz/japans-mixi-launches-50-mn-cvc-fund-for-indian-digital-entertainment-startups/",
+        "title": "Japan's MIXI Launches $50 Mn CVC Fund For Indian Digital Entertainment Startups",
+        "publisher": "Inc42",
+        "accessed": "2026-06-02",
+        "supports": "Japan investment total, India fund size, check size, existing Japan CVC",
+        "quote": "invested around 70 Bn yen ($492 Mn) between FY19-FY22 ... launch of a $50 Mn corporate venture capital (CVC) fund in India ... ticket size of $0.5 Mn to $2 Mn ... MIXI has an existing CVC fund in Japan"
+      },
+      {
+        "url": "https://www.firstcvc.jp/en/story/mixi",
+        "title": "CVC Details: Mixi, Inc.",
+        "publisher": "FIRST CVC",
+        "accessed": "2026-06-02",
+        "supports": "MIXI as CVC, toC/entertainment focus, synergy strategy",
+        "quote": "MIXI invests in consumer-facing services (toC) with a focus on the entertainment sector, leveraging its assets and expertise in digital entertainment"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "MIXI invests strategically rather than via a single named Japan LP fund; founding year of CVC activity not pinned down. India fund ($50M) is a distinct vehicle.",
+    "last_updated": "2026-06-02",
+    "researched_by": "cvc-tech"
+  }
+]
