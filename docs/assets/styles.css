@@ -189,8 +189,8 @@ a { color:inherit; text-decoration:none; }
 .chart-card h3 { margin:0 0 12px; font-size:1rem; color:var(--on-surface); }
 .hbar { display:grid; grid-template-columns:minmax(78px,auto) 1fr auto; align-items:center; gap:10px; margin-bottom:8px; font-size:.82rem; }
 .hbar__label { color:var(--on-surface-variant); text-align:right; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-.hbar__track { background:var(--surface-variant); border-radius:var(--radius-sm); height:18px; overflow:hidden; }
-.hbar__fill { height:100%; background:linear-gradient(90deg,var(--primary),var(--tertiary)); border-radius:var(--radius-sm); transition:width .5s ease; }
+.hbar__track { display:block; width:100%; background:var(--surface-variant); border-radius:var(--radius-sm); height:18px; overflow:hidden; }
+.hbar__fill { display:block; height:100%; min-width:3px; background:linear-gradient(90deg,var(--primary),var(--tertiary)); border-radius:var(--radius-sm); transition:width .5s ease; }
 .hbar__val { color:var(--on-surface); font-variant-numeric:tabular-nums; font-weight:600; min-width:34px; text-align:right; }
 
 /* ---- ACCORDION (glossary) ---- */
