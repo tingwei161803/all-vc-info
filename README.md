@@ -10,6 +10,19 @@
 
 ---
 
+## 🌐 線上互動圖鑑
+
+**<https://tingwei161803.github.io/all-vc-info/>**
+
+多軸篩選(地區 × 類型 × 產業 × 階段)· 全文搜尋(機構名/國家/論點/被投公司)· 中英雙語全頁切換 ·
+深淺色模式 · 點卡片看完整詳情與**來源 quote 佐證** · 可分享的 URL 篩選狀態 · CSV 匯出。
+純靜態 HTML/CSS/JS(Material Design 3、零 build),由 `docs/` 經 GitHub Pages 部署。
+
+> 網站資料層由 `uv run scripts/build_site.py` 從 `data/<region>/entities.json` 產生
+> (slim 索引全載 + 各區完整詳情 lazy-load)。
+
+---
+
 ## 收錄範圍
 
 | 維度 | 內容 |
