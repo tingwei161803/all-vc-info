@@ -1,0 +1,1030 @@
+[
+  {
+    "id": "jp-enfi",
+    "name": { "en": "EnFi Inc.", "local": "エンフィ株式会社" },
+    "aka": ["EnFi", "Entertainment x Financial"],
+    "type": "vc",
+    "subtypes": ["fund-of-funds"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.enfi.co.jp/",
+    "links": {
+      "other": ["https://www.enfi.co.jp/en"]
+    },
+    "capital": {
+      "aum": { "raw": "約15億円 (EnFi Global Game Fund)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "EnFi Global Innovative Technology Fund", "vintage_year": 2021, "size": { "raw": null, "usd": null, "currency": "JPY" } },
+        { "name": "EnFi Global Game Fund", "vintage_year": 2023, "size": { "raw": "約15億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Global", "Japan"],
+      "sector_focus": ["gaming"],
+      "thesis": "Japan's first game-specialized venture capital, operating a fund-of-funds (FoF) that invests in overseas game-specialized VC funds, giving Japanese LPs access to global game startups through Japanese contracts and yen transactions."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Sisu Game Ventures", "sector": "gaming VC (Finland)", "outcome": "active" },
+        { "company": "Behold Ventures", "sector": "gaming VC", "outcome": "active" },
+        { "company": "Transcend Fund", "sector": "gaming VC", "outcome": "active" },
+        { "company": "LumiKai", "sector": "gaming/interactive media VC", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Michiko Kakiya (垣屋美智子)", "role": "Founding Partner & CEO" }
+    ],
+    "application": { "how_to_apply": "Contact via website; primarily a fund-of-funds investing in game-focused VCs", "accepts_cold_inbound": null },
+    "tags": ["gaming", "fund-of-funds", "game-specialized"],
+    "summary": {
+      "en": "EnFi is Japan's first game-specialized venture capital firm, founded in 2020 by ex-Sony Computer Entertainment executive Michiko Kakiya. It runs the ~1.5bn yen 'EnFi Global Game Fund', described as the world's only game-specialized fund-of-funds, investing in overseas game-focused VC funds such as Sisu Game Ventures, Behold Ventures, Transcend Fund and LumiKai.",
+      "local": "日本初のゲーム特化型ベンチャーキャピタル。2020年設立。約15億円の「EnFiグローバルゲームファンド」(世界唯一のゲーム特化FoF)を運用し、海外のゲーム特化VCファンドへ投資する。"
+    },
+    "sources": [
+      {
+        "url": "https://www.enfi.co.jp/en",
+        "title": "EnFi Inc. official site",
+        "publisher": "EnFi",
+        "accessed": "2026-06-03",
+        "supports": "founding year, HQ, fund name and size, people, portfolio",
+        "quote": "EnFi Global Game Fund ... approximately 1.5 billion yen ... 世界で唯一のゲームに特化したFoFファンド ... Michiko Kakiya, Founding Partner and CEO"
+      },
+      {
+        "url": "https://www.4gamer.net/games/999/G999905/20211221021/",
+        "title": "ゲーム特化のファンドは，日本のゲーム業界に新たな道筋を示せるのか",
+        "publisher": "4Gamer",
+        "accessed": "2026-06-03",
+        "supports": "Japan's first game-specialized VC, first investment in Sisu Game Ventures",
+        "quote": "日本初のゲーム特化型ベンチャーキャピタル"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size 1.5bn yen consistently reported as a FoF; underlying check sizes to startups not disclosed (it invests in funds, not directly).",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "jp-bandai-namco-021-fund",
+    "name": { "en": "Bandai Namco 021 Fund", "local": "バンダイナムコ 021 Fund" },
+    "aka": ["021 Fund", "Bandai Namco Entertainment 021 Fund", "ゼロトゥワンファンド"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://021fund.bn-ent.net/en/",
+    "links": {
+      "other": ["https://021fund.bn-ent.net/en/", "https://www.bandainamcoent.co.jp/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "60億円以上", "usd": null, "currency": "JPY" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": "数千万円〜3億円", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["gaming"],
+      "thesis": "CVC of Bandai Namco Entertainment investing in startups creating new IP and entertainment business models, and in domestic/overseas game studios capable of worldwide distribution, to accelerate new-IP creation under the 'Connect with Fans' vision."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Million Production", "sector": "VTuber", "outcome": "active" },
+        { "company": "DEEP MOTION", "sector": "gaming/AI", "outcome": "active" },
+        { "company": "Super Gaming (Super.gg / Pte Ltd)", "sector": "mobile gaming (India)", "outcome": "active" },
+        { "company": "Utaite", "sector": "2.5D IP development", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Pitch via 021 Fund website", "accepts_cold_inbound": true, "contact": "https://021fund.bn-ent.net/en/" },
+    "tags": ["gaming", "IP", "VTuber", "cvc", "entertainment"],
+    "summary": {
+      "en": "Bandai Namco Entertainment's corporate VC, launched in 2022 (renamed from 'Bandai Namco Entertainment 021 Fund' in June 2025). Investment scale expanded to 6 billion+ yen, with tickets of tens of millions up to 300 million yen across pre-seed to later stage, focused on new IP/entertainment startups and game studios for worldwide distribution.",
+      "local": "バンダイナムコエンターテインメントのCVC。2022年立ち上げ、2025年に名称変更。投資規模は60億円以上、チケットサイズ数千万円〜3億円。新規IP・エンタメ事業のスタートアップやワールドワイド展開可能なゲーム開発スタジオに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.gamebusiness.jp/article/2025/06/12/24410.html",
+        "title": "バンダイナムコ、投資ファンドの名称変更と60億円以上の投資を発表",
+        "publisher": "GameBusiness.jp",
+        "accessed": "2026-06-03",
+        "supports": "fund size, ticket size, stages, sector focus, notable investments, rename",
+        "quote": "投資規模は60億円以上 ... チケットサイズは数千万円から3億円 ... プレシードからレイターステージまで"
+      },
+      {
+        "url": "https://thebridge.jp/2025/06/bandai-namco-021-fund_established",
+        "title": "バンダイナムコ021 Fund、投資枠を60億円超に拡大",
+        "publisher": "The Bridge",
+        "accessed": "2026-06-03",
+        "supports": "fund expansion to 60億円超, new IP creation strategy"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size 60億円 = 6 billion yen (one summarizer mistranslated as 60 billion); corrected here.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "jp-firebug-wondertainer-fund",
+    "name": { "en": "FIREBUG / WONDERTAINER FUND", "local": "FIREBUG / ワンダーテイナーファンド" },
+    "aka": ["WONDERTAINER FUND", "ワンダーテイナーファンド"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://firebug.co.jp/",
+    "links": {},
+    "capital": {
+      "current_fund": { "raw": "約3億円 (想定)", "usd": null, "currency": "JPY" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["gaming", "consumer"],
+      "thesis": "Entertainment industry-specialized fund run by FIREBUG (a talent/artist SNS content & business agency); invests in seed/early-stage entertainment companies offering new creative and revenue opportunities for talent, artists and IP."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "宮崎聡 (Satoshi Miyazaki)", "role": "Representative Director & CEO, FIREBUG" }
+    ],
+    "application": { "how_to_apply": "Contact FIREBUG", "accepts_cold_inbound": null },
+    "tags": ["entertainment", "talent", "creator", "music"],
+    "summary": {
+      "en": "WONDERTAINER FUND is an entertainment-industry-specialized fund (approx. 300m yen) established in 2022 by agency FIREBUG. Its 13 LPs include Gree, Cork, Ageha Springs and individuals such as comedian Atsushi Tamura and footballer Tomoaki Makino. It backs seed/early-stage companies building new creative and revenue services for talent and artists.",
+      "local": "FIREBUGが2022年に設立したエンタメ業界特化ファンド(約3億円想定)。出資者13者にグリー、コルク、アゲハスプリングス、田村淳・槙野智章ら個人が名を連ねる。タレント・アーティストの新しい表現や収益を生むシード/アーリー企業に投資。"
+    },
+    "sources": [
+      {
+        "url": "https://diamond.jp/articles/-/333492",
+        "title": "エンタメ業界特化のファンド、FIREBUGが設立──田村淳氏、槙野智章氏などが出資",
+        "publisher": "Diamond Online",
+        "accessed": "2026-06-03",
+        "supports": "fund name, founding, size, LPs, investment focus, CEO",
+        "quote": "約3億円を想定する ... 13人が出資 ... 宮崎聡, Representative Director and CEO of FIREBUG"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund target size ~300m yen including planned second close; no public portfolio list confirmed.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "jp-big-bull",
+    "name": { "en": "Big Bull Inc.", "local": "ビッグブル株式会社" },
+    "aka": ["Big Bull No.1 Fund", "ビッグブル1号投資事業有限責任組合"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://bigbull.co.jp/",
+    "links": {},
+    "capital": {
+      "funds": [
+        { "name": "ビッグブル1号投資事業有限責任組合", "vintage_year": 2024, "size": { "raw": null, "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "check_size": { "raw": "500万円〜5,000万円", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["gaming", "consumer", "ecommerce"],
+      "thesis": "Independent VC investing in toC startups centered on entertainment and retail consumer, including games, manga and anime-related businesses, from seed/Series A through pre-IPO."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [
+      { "name": "放生會雄地 (Yuji Hoshoei)", "role": "General Partner (ex-i-nest capital principal)" },
+      { "name": "古川翔一 (Shoichi Furukawa)", "role": "EIR / Venture Capitalist" },
+      { "name": "横田秀和 (Hidekazu Yokota)", "role": "Advisor (entertainment VC)" }
+    ],
+    "application": { "how_to_apply": "Contact Big Bull", "accepts_cold_inbound": null },
+    "tags": ["entertainment", "toC", "gaming", "manga", "anime"],
+    "summary": {
+      "en": "Big Bull is an independent VC (company founded 2019) whose first fund 'Big Bull No.1' completed first close on 30 Sep 2024. It targets toC startups in entertainment and retail consumer — including games, manga and anime — from seed/Series A to pre-IPO, writing 5–50 million yen checks.",
+      "local": "独立系VC。1号ファンド「ビッグブル1号」が2024年9月30日にファーストクローズ。エンタメ・リテールコンシューマー中心のtoC領域(ゲーム・漫画・アニメ含む)のシード〜プレIPOに、投資額500万円〜5,000万円で投資。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000001.000148190.html",
+        "title": "エンタメ・toCスタートアップへ投資を行う独立系VCファンド「ビッグブル1号投資事業有限責任組合」設立",
+        "publisher": "PR Times / Big Bull",
+        "accessed": "2026-06-03",
+        "supports": "founding, HQ, fund establishment date, focus, check size, team",
+        "quote": "2024年9月30日 ... エンタテインメントやリテール コンシューマーを中心にtoC領域に取り組むスタートアップ ... 投資額500万円～5,000万円のレンジ"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Total fund size not disclosed (only first close announced); check range explicitly stated.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "jp-yamaha-music-innovations-fund",
+    "name": { "en": "Yamaha Music Innovations Fund", "local": "Yamaha Music Innovations Fund" },
+    "aka": ["Yamaha Music Innovations Fund I, LP", "Yamaha Music Innovations"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2025,
+    "region": "japan",
+    "country": "United States",
+    "hq_city": "Silicon Valley",
+    "offices": [{ "country": "United States", "city": "Silicon Valley" }, { "country": "Japan", "city": "Hamamatsu" }],
+    "website": "https://yamahamusicinnovations.com",
+    "links": {},
+    "capital": {
+      "current_fund": { "raw": "5千万米ドル", "usd": 50000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["United States"],
+      "sector_focus": ["gaming", "ai-ml"],
+      "thesis": "Yamaha's US CVC (via Yamaha Music Innovations, LLC) backing early-stage music startups across creative tools/infrastructure, interactive media platforms, artist community/collaboration mechanisms, and accessibility/empowerment technologies, to drive next-generation music experiences."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [
+      { "name": "Andrew Kern", "role": "Managing Partner (ex-Crush Ventures, Live Nation)" },
+      { "name": "Yusuke Sugino (杉野裕介)", "role": "President & CEO, Yamaha Music Innovations" }
+    ],
+    "application": { "how_to_apply": "Via Yamaha Music Innovations website", "accepts_cold_inbound": null },
+    "tags": ["music", "musictech", "entertainment", "cvc"],
+    "summary": {
+      "en": "Yamaha Music Innovations Fund I, LP is the US$50M corporate venture fund of Yamaha Corporation, operating from Silicon Valley via subsidiary Yamaha Music Innovations, LLC. Launched April 2025, it invests in early-stage music startups across creative tools, interactive media, artist collaboration and accessibility technologies. Managing Partner Andrew Kern.",
+      "local": "ヤマハの米シリコンバレー子会社が運用する総額5千万米ドルのCVC。2025年4月始動。クリエイティブツール、インタラクティブメディア、アーティスト協業、アクセシビリティ等の音楽系アーリーステージに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000968.000010701.html",
+        "title": "コーポレートベンチャーキャピタル「Yamaha Music Innovations Fund」を本格始動",
+        "publisher": "PR Times / Yamaha",
+        "accessed": "2026-06-03",
+        "supports": "fund name, size, launch, location, focus areas, people",
+        "quote": "5千万米ドル ... 2025年4月 ... Silicon Valley ... Managing Partner: Andrew Kern ... President and CEO: Yusuke Sugino"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund legally US-domiciled and Silicon Valley-based but parent is Japanese (Yamaha); included as Japan-parented entertainment/music investor. Country set to United States (the fund's specific country).",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "jp-studio-entre",
+    "name": { "en": "Studio ENTRE", "local": "Studio ENTRE株式会社" },
+    "aka": ["StudioENTRE", "スタジオエントレ"],
+    "type": "venture-studio",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://entre.studio/",
+    "links": {
+      "other": ["https://music-vision.entre.studio/incubation-program", "https://note.com/studio_entre"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["gaming", "consumer"],
+      "thesis": "Entertainment-domain startup studio combining entertainment business with technology to co-create new ventures in music, video, publishing, fashion, creator economy, metaverse and Web3; funded by and partnered with mixi (mixi Entertainment Fund)."
+    },
+    "program": {
+      "format": "incubation / startup studio",
+      "location": "Tokyo",
+      "perks": ["business planning", "fundraising support", "mixi Entertainment Fund access"]
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [
+      { "name": "山口哲一 (Tetsuichi Yamaguchi)", "role": "Representative Director (music producer / entertech evangelist)" }
+    ],
+    "application": { "how_to_apply": "Via Music Startup Incubation program / website", "accepts_cold_inbound": true },
+    "tags": ["music", "entertainment", "creator-economy", "startup-studio", "web3"],
+    "summary": {
+      "en": "Studio ENTRE is an entertainment-domain startup studio founded June 2020 by music producer Tetsuichi Yamaguchi, with funding from mixi. It co-creates and incubates startups across music, video, publishing, fashion, creator economy, metaverse and Web3, and runs a Music Startup Incubation program; partnered with the mixi Entertainment Fund.",
+      "local": "音楽プロデューサー山口哲一が2020年6月に設立したエンタメ領域のスタートアップスタジオ。ミクシィより資金調達。音楽・映像・出版・ファッション・クリエイターエコノミー等で起業を支援し、ミクシィ・エンタテインメントファンドと連携。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000001.000062348.html",
+        "title": "エンタメ業界のイノベーションを加速させるスタートアップ・スタジオ「Studio ENTRE」が設立 ミクシィより資金調達",
+        "publisher": "PR Times / Studio ENTRE",
+        "accessed": "2026-06-03",
+        "supports": "founding year, type, focus, mixi funding, leader",
+        "quote": "エンタメ業界のイノベーションを加速させるスタートアップ・スタジオ「Studio ENTRE」が設立 ミクシィより資金調達"
+      },
+      {
+        "url": "https://entre.studio/",
+        "title": "Studio ENTRE official site",
+        "publisher": "Studio ENTRE",
+        "accessed": "2026-06-03",
+        "supports": "entertainment startup studio positioning"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Operates more as a studio/incubator than a traditional fund; investment amounts not disclosed. June 2020 founding from press release.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "jp-akatsuki-ventures",
+    "name": { "en": "Akatsuki Ventures (Heart Driven Fund / AET Fund / Dawn Capital)", "local": "アカツキベンチャーズ" },
+    "aka": ["Heart Driven Fund", "AET Fund", "Akatsuki Entertainment Technology Fund", "Dawn Capital"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://aktsk.jp/",
+    "links": {
+      "other": ["https://aktsk.jp/en/company/portfolio/", "https://www.firstcvc.jp/en/story/akatsukiventures"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Heart Driven Fund", "vintage_year": 2018, "size": { "raw": "約60億円", "usd": null, "currency": "JPY" } },
+        { "name": "AET Fund (Akatsuki Entertainment Technology Fund)", "vintage_year": 2017, "size": { "raw": null, "usd": null, "currency": "USD" } },
+        { "name": "Dawn Capital", "vintage_year": 2022, "size": { "raw": "50億円規模", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan", "United States", "India"],
+      "sector_focus": ["gaming", "consumer"],
+      "thesis": "Game company Akatsuki's investment arm focusing on entertainment and lifestyle ('heart-driven' / emotional value), spanning gaming, media and consumer services; AET Fund targets entertainment tech in US/Asia/India; Dawn Capital (50bn... 5bn yen) for broader venture."
+    },
+    "track_record": {
+      "portfolio_count": "約58社 (Heart Driven Fund)",
+      "notable_investments": [
+        { "company": "Tsukuruba", "sector": "proptech/consumer", "outcome": "IPO" },
+        { "company": "Anique", "sector": "anime/manga NFT", "outcome": "active" },
+        { "company": "Mech Mocha", "sector": "mobile gaming (India)", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "小川智也 (Tomoya Ogawa)", "role": "Managing Director, AET Fund (ex-DeNA)" }
+    ],
+    "application": { "how_to_apply": "Contact via Akatsuki/Akatsuki Ventures", "accepts_cold_inbound": null },
+    "tags": ["gaming", "entertainment", "lifestyle", "cvc", "india"],
+    "summary": {
+      "en": "Akatsuki Inc. (mobile game maker) runs several entertainment-focused investment vehicles: Heart Driven Fund (est. 2018, ~6bn yen, ~58 companies, emphasis on emotional/'heart-driven' value), the AET Fund (Akatsuki Entertainment Technology Fund, est. Oct 2017, entertainment tech in US/Asia/India), and the 5bn-yen Dawn Capital fund spun out as Akatsuki Ventures Inc. in April 2022.",
+      "local": "ゲーム企業アカツキの投資部門。Heart Driven Fund(2018年、約60億円、約58社、感情価値重視)、AET Fund(2017年10月、米国・アジア・インドのエンタメテック)、Dawn Capital(2022年、50億円規模、アカツキベンチャーズとして分社化)を運営。"
+    },
+    "sources": [
+      {
+        "url": "https://aktsk.jp/press/50868/",
+        "title": "アカツキ、50億円規模の新ファンド「Dawn Capital」を組成",
+        "publisher": "Akatsuki Inc.",
+        "accessed": "2026-06-03",
+        "supports": "Dawn Capital 50億円, Akatsuki Ventures spinoff 2022",
+        "quote": "50億円規模の新ファンド「Dawn Capital」"
+      },
+      {
+        "url": "https://techblitz.com/india-aetfund/",
+        "title": "アカツキ、インドのエンターテインメント、ライフスタイル市場に注目 (AET Fund)",
+        "publisher": "TechBlitz",
+        "accessed": "2026-06-03",
+        "supports": "AET Fund Oct 2017 launch, entertainment focus, India/US, MD Tomoya Ogawa",
+        "quote": "2017年10月 ... エンターテインメント領域を中心に、コンシューマー向けサービス及びメディア"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Heart Driven Fund size ~6bn yen and ~58 portfolio companies per secondary sources; AET Fund total size not publicly disclosed; Dawn Capital 5bn yen (50億円) per Akatsuki press release.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "jp-colopl-next",
+    "name": { "en": "COLOPL NEXT, Inc.", "local": "株式会社コロプラネクスト" },
+    "aka": ["Colopl Next", "Colopl VR Fund"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.coloplnext.co.jp/",
+    "links": {
+      "other": ["https://colopl.co.jp/service/investment/", "https://initial.inc/investors/V08597"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Colopl VR Fund", "vintage_year": 2016, "size": { "raw": "最大5,000万米ドル", "usd": 50000000, "currency": "USD" } },
+        { "name": "Colopl VR Fund 2", "vintage_year": 2017, "size": { "raw": "5,000万米ドル", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan", "United States", "South Korea"],
+      "sector_focus": ["gaming", "deeptech"],
+      "thesis": "CVC of mobile game company Colopl. Best known for the Colopl VR Fund (and VR Fund 2), totaling ~US$100M and one of the world's largest VR-specialized funds; also invests broadly in frontier tech, B2C and entertainment startups in Japan, US and Korea."
+    },
+    "track_record": {
+      "portfolio_count": "VR関連30社超 (Colopl VR Fund)",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": { "how_to_apply": "Contact via website", "accepts_cold_inbound": true },
+    "tags": ["gaming", "vr", "metaverse", "cvc"],
+    "summary": {
+      "en": "COLOPL NEXT (est. 2015) is the CVC of mobile game company Colopl. It runs the Colopl VR Fund (2016) and Colopl VR Fund 2 (2017, US$50M each), together ~US$100M — one of the world's largest VR-specialized funds with 30+ VR portfolio companies — and also invests in frontier tech, B2C and entertainment across Japan, US and Korea.",
+      "local": "ゲーム企業コロプラのCVC(2015年設立)。Colopl VR Fund(2016)とColopl VR Fund 2(2017、各5,000万米ドル)で合計約1億米ドルの世界屈指のVR特化ファンドを運用、VR関連30社超に投資。先端技術・BtoC・エンタメ領域にも投資。"
+    },
+    "sources": [
+      {
+        "url": "https://colopl.co.jp/news/info/2017013101.php",
+        "title": "コロプラおよびコロプラネクスト、5,000万米ドル規模の新たなVR専門ファンド「Colopl VR Fund 2」を設立",
+        "publisher": "Colopl Inc.",
+        "accessed": "2026-06-03",
+        "supports": "VR Fund 2 size 50M USD, total ~100M USD, VR 30+ companies",
+        "quote": "5,000万米ドル規模の新たなVR専門ファンド「Colopl VR Fund 2」 ... 合わせて1億米ドルの規模 ... VR関連企業30社超への投資実績"
+      },
+      {
+        "url": "https://www.coloplnext.co.jp/",
+        "title": "COLOPL NEXT official site",
+        "publisher": "Colopl Next",
+        "accessed": "2026-06-03",
+        "supports": "founding 2015, sector focus, Japan/US/Korea, Korea subsidiary"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "VR Fund figures from 2016/2017 press; current fund activity continues per website but newer fund sizes not disclosed.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "jp-gumi-cryptos-capital",
+    "name": { "en": "gumi Cryptos Capital", "local": "gumi Cryptos Capital" },
+    "aka": ["gCC", "gumi Cryptos"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "offices": [{ "country": "United States", "city": "San Francisco" }, { "country": "Japan", "city": "Tokyo" }],
+    "website": "https://gumi-cryptos.com/",
+    "links": {},
+    "capital": {
+      "funds": [
+        { "name": "gumi Cryptos Capital Fund I", "vintage_year": 2018, "size": { "raw": "$2,100万ドル (約25億円)", "usd": 21000000, "currency": "USD" } },
+        { "name": "gumi Cryptos Capital Fund II", "vintage_year": 2022, "size": { "raw": "1.1億ドル (約134億円)", "usd": 110000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "50万ドル〜500万ドル", "usd_min": 500000, "usd_max": 5000000 },
+      "geo_focus": ["Global", "United States", "Japan"],
+      "sector_focus": ["web3-crypto", "gaming"],
+      "thesis": "Blockchain/Web3 VC spun out of Japanese mobile game company gumi, investing in early-stage startups across infrastructure, dev tools, gaming, DeFi, metaverse and DAOs. Backed OpenSea and Yield Guild Games (gaming guild) in Fund I."
+    },
+    "track_record": {
+      "portfolio_count": "約50社 (target, Fund II); 36社 (Fund I)",
+      "notable_investments": [
+        { "company": "OpenSea", "sector": "NFT marketplace", "outcome": "active" },
+        { "company": "Yield Guild Games", "sector": "web3 gaming guild", "outcome": "active" },
+        { "company": "Astar Network", "sector": "blockchain", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Hironao Kunimitsu (國光宏尚)", "role": "Co-founder / Partner (gumi founder)" },
+      { "name": "Rui Zhang", "role": "Partner" },
+      { "name": "Miko Matsumura", "role": "Partner" }
+    ],
+    "application": { "how_to_apply": "Contact via website", "accepts_cold_inbound": null },
+    "tags": ["web3", "crypto", "blockchain-gaming", "metaverse", "gaming"],
+    "summary": {
+      "en": "gumi Cryptos Capital (gCC) is a blockchain/Web3 VC spun out of Japanese mobile-game maker gumi in 2018, based in San Francisco and Tokyo. Fund I (~$21M, 2018) backed OpenSea and gaming guild Yield Guild Games; Fund II (~$110M, March 2022) targets ~50 early-stage Web3 startups across infra, gaming, DeFi, metaverse and DAOs with $500K–$5M checks.",
+      "local": "日本のゲーム企業gumiが2018年に設立したWeb3/ブロックチェーン特化VC。米SF・東京拠点。1号(約21百万ドル)はOpenSeaやYield Guild Gamesに、2号(約1.1億ドル、2022年)はインフラ・ゲーム・DeFi・メタバース等のアーリー約50社に50万〜500万ドルで投資。"
+    },
+    "sources": [
+      {
+        "url": "https://coinpost.jp/?p=335930",
+        "title": "ブロックチェーンVC「gumi Cryptos Capital」、130億円超のファンドを発表",
+        "publisher": "CoinPost",
+        "accessed": "2026-06-03",
+        "supports": "Fund I/II sizes, HQ, check size, sector focus, partners, portfolio",
+        "quote": "1.1億ドル（約134億円） ... 50万ドル（約6,000万円）から500万ドル ... San Francisco and Tokyo ... Hironao Kunimitsu, Rui Zhang, Miko Matsumura"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund management entity US-domiciled (SF) with Tokyo presence and Japanese parent (gumi); country set to United States. Some figures from secondary financial press.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "jp-gfr-fund",
+    "name": { "en": "GFR Fund", "local": "GFR Fund" },
+    "aka": ["GREE VR Capital", "GFR Fund III"],
+    "type": "cvc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "japan",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://gfrfund.com/",
+    "links": {
+      "twitter": "https://twitter.com/gfrfund",
+      "crunchbase": "https://www.crunchbase.com/organization/gfr-fund"
+    },
+    "capital": {
+      "funds": [
+        { "name": "GFR Fund III", "vintage_year": null, "size": { "raw": "$53.5M", "usd": 53500000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["United States", "Southeast Asia", "India", "Africa"],
+      "sector_focus": ["gaming", "ai-ml", "consumer"],
+      "thesis": "Early-stage fund affiliated with Japan's GREE Inc. (originally GREE VR Capital), investing in gaming, generative AI, creator economy/community, media & brands and consumer tech, emphasizing the power of digitally-native community building."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "VRChat", "sector": "social VR/metaverse", "outcome": "active" },
+        { "company": "Omeda Studios", "sector": "gaming", "outcome": "active" },
+        { "company": "SuperGaming", "sector": "gaming (India)", "outcome": "active" },
+        { "company": "Sky Mavis", "sector": "blockchain gaming", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Teppei Tsutsui", "role": "CEO / Managing Partner" }
+    ],
+    "application": { "how_to_apply": "Pitch via website", "accepts_cold_inbound": true },
+    "tags": ["gaming", "metaverse", "xr", "web3", "creator-economy", "ai"],
+    "summary": {
+      "en": "GFR Fund (originally GREE VR Capital), affiliated with Japanese mobile-gaming firm GREE, is a San Francisco-based early-stage fund established 2016. It invests at pre-seed/seed/Series A in gaming, generative AI, creator economy, media & brands and consumer tech, with portfolio including VRChat, SuperGaming and Sky Mavis; raised $53.5M for Fund III.",
+      "local": "GREE系列のGFR Fund(旧GREE VR Capital)。2016年設立、米SF拠点。ゲーム、生成AI、クリエイターエコノミー、メディア、コンシューマー領域のプレシード〜シリーズAに投資。VRChat、SuperGaming、Sky Mavis等が投資先。3号で5,350万ドルを調達。"
+    },
+    "sources": [
+      {
+        "url": "https://gfrfund.com/",
+        "title": "GFR Fund official site",
+        "publisher": "GFR Fund",
+        "accessed": "2026-06-03",
+        "supports": "stages, sector focus, geo focus, portfolio, thesis",
+        "quote": "Gaming, Generative AI, Creator Economy & Community, Media & Brands, Consumer Tech ... Pre-seed, seed, and Series A ... VRChat ... SuperGaming"
+      },
+      {
+        "url": "https://www.cbinsights.com/investor/gree-vr-capital",
+        "title": "GFR Fund (GREE VR Capital) profile",
+        "publisher": "CB Insights",
+        "accessed": "2026-06-03",
+        "supports": "GREE affiliation, founding 2016, San Francisco"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "US-domiciled fund with Japanese parent (GREE); country set to United States. Fund III size $53.5M per gaming press; founding year 2016 per CB Insights/secondary sources.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "jp-avex-ventures",
+    "name": { "en": "Avex Ventures, Inc.", "local": "エイベックス・ベンチャーズ株式会社" },
+    "aka": ["Avex Ventures"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://avexventures.co.jp/",
+    "links": {
+      "other": ["https://initial.inc/investors/V09813"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan", "United States"],
+      "sector_focus": ["gaming", "consumer"],
+      "thesis": "Wholly-owned CVC of Avex (music/entertainment group) investing in entertainment 'talent' (hit creators) and entertainment-related technology ('entertech'); strategic rather than pure financial, leveraging Avex group infrastructure. US subsidiary added a ~3bn yen Web3-focused CVC function in 2022."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "松浦勝人 (Masato Matsuura)", "role": "Representative Director" }
+    ],
+    "application": { "how_to_apply": "Contact vc@av.avex.co.jp", "accepts_cold_inbound": true, "contact": "vc@av.avex.co.jp" },
+    "tags": ["music", "entertainment", "entertech", "talent", "web3", "cvc"],
+    "summary": {
+      "en": "Avex Ventures is the wholly-owned CVC of Japanese music/entertainment group Avex, founded December 2016 in Tokyo. It invests in entertainment 'talent' (hit creators) and entertainment-related technology, prioritizing group synergy over pure capital gains. In 2022 Avex's US subsidiary added a ~3bn-yen, Web3-focused CVC function.",
+      "local": "音楽・エンタメ大手エイベックスの100%子会社CVC。2016年12月設立(東京)。ヒットを生む「人材」とエンタメ関連「テクノロジー」に投資し、グループシナジーを重視。2022年には米子会社にWeb3中心の総額約30億円のCVC機能を新設。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000153.000002323.html",
+        "title": "エイベックス・ベンチャーズ株式会社を設立し、エンタメ人材とエンターテックへの本格的な投資・支援に進出！",
+        "publisher": "PR Times / Avex",
+        "accessed": "2026-06-03",
+        "supports": "founding date, HQ, parent, focus, representative, website",
+        "quote": "2016年12月1日 ... 東京都港区 ... エンタテインメント関連の「テクノロジー」 ... 松浦勝人"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size not disclosed for the Japan entity; 2022 US Web3 CVC of ~3bn yen reported separately by secondary press.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "jp-tv-asahi-ex-innovation-fund",
+    "name": { "en": "TV Asahi EX Innovation Fund 1", "local": "テレビ朝日 EX Innovation Fund 1号" },
+    "aka": ["EX Innovation Fund 1号", "EX Innovation Fund"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2025,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.tv-asahihd.co.jp/",
+    "links": {
+      "other": ["https://www.tv-asahihd.co.jp/pdf/ir_news/pdf/2025/20250701_cvc.pdf"]
+    },
+    "capital": {
+      "current_fund": { "raw": "50億円", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "EX Innovation Fund 1号", "vintage_year": 2025, "size": { "raw": "50億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["gaming", "ai-ml"],
+      "thesis": "First CVC fund of TV Asahi Holdings, co-established with Simplex Capital Investment. Invests in content- and technology-focused startups that expand entertainment possibilities, aiming to create proprietary content and IP; M&A also in view."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [
+      { "name": "早河洋 (Hiroshi Hayakawa)", "role": "Chairman & Representative Director, TV Asahi HD" },
+      { "name": "水嶋浩雅 (Hiroyuki Mizushima)", "role": "Representative Director & President, Simplex Capital Investment" }
+    ],
+    "application": { "how_to_apply": "Contact via TV Asahi HD Investment Strategy Division", "accepts_cold_inbound": null },
+    "tags": ["media", "broadcasting", "IP", "content", "entertainment", "cvc"],
+    "summary": {
+      "en": "EX Innovation Fund 1 is the first CVC fund of TV Asahi Holdings, launched 1 July 2025 with Simplex Capital Investment. It is a 5bn-yen, 10-year fund investing in content and technology startups (early to expansion stage) that expand entertainment possibilities and help create proprietary content/IP.",
+      "local": "テレビ朝日ホールディングス初のCVCファンド。2025年7月1日設立、シンプレクス・キャピタル・インベストメントと共同。総額50億円・運用10年。コンテンツ・テクノロジー領域のアーリー〜エクスパンション期スタートアップに投資し、独自IP創出を狙う。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000012.000052215.html",
+        "title": "テレビ朝日ホールディングス、CVCファンド「EX Innovation Fund 1号」を設立",
+        "publisher": "PR Times / TV Asahi HD",
+        "accessed": "2026-06-03",
+        "supports": "launch date, size, duration, stages, focus, people, partner",
+        "quote": "2025年7月1日 ... 50億円 ... 10年間 ... コンテンツやテクノロジー領域を中心に、エンターテインメントの可能性を拡張するスタートアップ ... シンプレクス・キャピタル・インベストメント"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Newly launched 2025; no portfolio yet at time of research. Size 50億円 = 5 billion yen.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "jp-igi-indie-game-incubator",
+    "name": { "en": "iGi indie Game incubator", "local": "iGi インディーゲームインキュベーター" },
+    "aka": ["iGi", "Indie Game Incubator"],
+    "type": "incubator",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://igi.dev/en/",
+    "links": {
+      "other": ["https://corp.marv.jp/pr/20210215-001297.html"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["gaming"],
+      "thesis": "Japan's first specialized online incubation program for indie game developers, organized by Marvelous and operated with GameBCN (Barcelona) supervision; aims to build a creator-first ecosystem."
+    },
+    "program": {
+      "length_weeks": 26,
+      "cohort_size": "約5チーム",
+      "batches_per_year": 1,
+      "equity_taken_pct": "0 (rights retained by team)",
+      "investment": { "raw": "支援金あり (development funding from 2nd cohort)", "usd": null, "currency": "JPY" },
+      "format": "online",
+      "location": "Japan (online)",
+      "demo_day": true,
+      "perks": ["400+ hours of mentoring", "promotion / media relations", "multilingual support", "legal/contract support", "pitch training"],
+      "application_url": "https://igi.dev/en/",
+      "application_cycles": ["annual (6th cohort applications due 2025-12-15)"],
+      "eligibility": "Indie game developers; participation free, no equity taken"
+    },
+    "track_record": {
+      "portfolio_count": "16 creators across 3 editions (as of early cohorts)",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": { "how_to_apply": "Submit build & video via igi.dev; document screening", "accepts_cold_inbound": true, "contact": "https://igi.dev/en/" },
+    "tags": ["gaming", "indie-games", "incubator", "marvelous"],
+    "summary": {
+      "en": "iGi (indie Game incubator) is Japan's first online incubation program specialized for indie game developers, launched February 2021 by Marvelous Inc. (operated with LUDiMUS/HEAD-HIGH and supervised by Barcelona's GameBCN). The ~6-month, free program takes no equity, offers 400+ hours of mentoring plus development funding and a demo day; now in its 6th cohort (2026).",
+      "local": "マーベラスが2021年2月に立ち上げた日本初のインディーゲーム開発者向けオンラインインキュベーション。約6か月・参加無料・株式取得なし。400時間超のメンタリング、支援金、デモデイを提供。第6期(2026年)実施中。"
+    },
+    "sources": [
+      {
+        "url": "https://corp.marv.jp/pr/20210215-001297.html",
+        "title": "日本初のゲーム専門オンラインインキュベーションプログラム『インディーゲームインキュベーター（iGi）』発足のお知らせ",
+        "publisher": "Marvelous Inc.",
+        "accessed": "2026-06-03",
+        "supports": "first Japanese game incubation program, Feb 2021 launch, GameBCN supervision",
+        "quote": "日本初のゲーム専門オンラインインキュベーションプログラム"
+      },
+      {
+        "url": "https://igi.dev/en/",
+        "title": "iGi indie Game incubator official site",
+        "publisher": "iGi / Marvelous",
+        "accessed": "2026-06-03",
+        "supports": "program length, free/no equity, mentoring, application deadline, supported games",
+        "quote": "Completely free. Support funds available ... Rights retained by team ... Application Deadline: December 15, 2025"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Cohort size varies (~5 teams per edition); exact development-funding amount not publicly disclosed.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "jp-shueisha-manga-tech",
+    "name": { "en": "Shueisha Manga-Tech (Startup Accelerator)", "local": "集英社 マンガテック" },
+    "aka": ["Manga Tech", "マンガテック", "Shueisha Startup Accelerator Program"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://shueishamangatech.com/",
+    "links": {},
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["gaming"],
+      "thesis": "Co-creation startup accelerator run by publisher Shueisha (Weekly Shonen Jump) to drive innovation in manga, character business, publishing, IP and the broader entertainment industry, with potential Shueisha cooperation/investment."
+    },
+    "program": {
+      "length_weeks": 17,
+      "cohort_size": null,
+      "batches_per_year": 1,
+      "equity_taken_pct": null,
+      "investment": { "raw": "最優秀100万円 / 優秀50万円 / その他10万円相当の事業化支援金", "usd": null, "currency": "JPY" },
+      "format": "hybrid",
+      "location": "Tokyo",
+      "demo_day": true,
+      "perks": ["workspace access", "mentoring (18 mentors)", "seminars", "potential Shueisha cooperation/investment"],
+      "application_url": "https://shueishamangatech.com/",
+      "application_cycles": ["annual (e.g. deadline Sept 30 for 2020 cohort)"],
+      "eligibility": "事業ステージ不問・学生歓迎・年齢/国籍不問 (any stage, students welcome, any age/nationality)"
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [
+      { "name": "細野修平 (Shohei Hosono)", "role": "General Producer (Jump+ Editor-in-Chief)" },
+      { "name": "籾山悠太 (Yuta Momiyama)", "role": "Producer (Jump+ Deputy Editor-in-Chief)" }
+    ],
+    "application": { "how_to_apply": "Apply via shueishamangatech.com", "accepts_cold_inbound": true },
+    "tags": ["manga", "IP", "publishing", "entertainment", "accelerator"],
+    "summary": {
+      "en": "Manga-Tech is the startup accelerator run by publisher Shueisha (operated with Tsucrea), first held as 'Manga Tech 2020'. The ~4-month co-creation program targets manga, character business, publishing and IP innovation, offering workspace, 18 mentors, prize money (up to 1m yen) and potential Shueisha cooperation/investment; open to any stage including students.",
+      "local": "出版大手・集英社が運営するスタートアップアクセラレーター(ツクリエと共同運営)。2020年開始。漫画・キャラクター・出版・IPのイノベーションを支援する約4か月の共創プログラムで、最優秀100万円等の支援金や集英社との協業・出資の可能性を提供。"
+    },
+    "sources": [
+      {
+        "url": "https://shueishamangatech.com/",
+        "title": "マンガテック2020 | 集英社スタートアップアクセラレータープログラム",
+        "publisher": "Shueisha",
+        "accessed": "2026-06-03",
+        "supports": "organizer, duration, prize money, mentors, eligibility, producers",
+        "quote": "4か月間のメンタリング ... 最優秀1者：100万円相当の事業化支援金 ... 事業ステージ不問！学生歓迎！年齢、国籍不問！"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Detailed figures confirmed for the 2020 edition; cohort size and equity terms not specified. Program is co-creation/accelerator rather than a fixed-equity model.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "jp-sony-music-entx",
+    "name": { "en": "Sony Music Entertainment ENTX", "local": "ソニー・ミュージックエンタテインメント ENTX" },
+    "aka": ["ENTX", "エンタエックス", "Entertainment Explosion"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://entx.jp/",
+    "links": {
+      "other": ["https://www.sme.co.jp/pressrelease/news/detail/NEWS001048.html"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Japan"],
+      "sector_focus": ["gaming"],
+      "thesis": "Sony Music Group's acceleration program ('Entertainment Explosion') supporting startups solving social issues through the power of entertainment, across broad themes beyond music, with mentoring from Sony Music staff and partners and possible business partnerships/investment."
+    },
+    "program": {
+      "length_weeks": 14,
+      "cohort_size": "7社 (1期; 81社中)",
+      "batches_per_year": 1,
+      "equity_taken_pct": null,
+      "investment": { "raw": "最優秀賞100万円 / 優秀賞50万円", "usd": null, "currency": "JPY" },
+      "format": "hybrid",
+      "location": "Tokyo",
+      "demo_day": true,
+      "perks": ["office space at Sony Music HQ", "mentoring", "collaboration cafe / WeWork access", "potential business partnership/investment"],
+      "application_url": "https://entx.jp/",
+      "application_cycles": ["annual"],
+      "acceptance_rate": "~9% (7 of 81 in 1st cohort)",
+      "eligibility": "Startups across diverse themes incl. tourism, sports, healthcare, education, music"
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [
+      { "name": "今野敏博 (Toshihiro Imano)", "role": "Director / CFO / Corporate EVP, Sony Music Entertainment" }
+    ],
+    "application": { "how_to_apply": "Apply online via entx.jp", "accepts_cold_inbound": true },
+    "tags": ["music", "entertainment", "accelerator", "sony"],
+    "summary": {
+      "en": "ENTX ('Entertainment Explosion') is Sony Music Entertainment (Japan)'s acceleration program launched in 2018 to support startups solving social issues through entertainment. The ~3–4 month program (with Dentsu/Protostar) accepted 7 of 81 applicants in its first cohort, offers Sony Music HQ workspace, mentoring, prize money and potential Sony Music Group partnership/investment.",
+      "local": "ソニー・ミュージックエンタテインメントが2018年に始動したアクセラレーションプログラム「ENTX」。エンタメの力で社会課題を解決するスタートアップを支援。1期は81社中7社採択。ソニーミュージック本社のオフィス提供、メンタリング、賞金、グループ各社との協業・出資の可能性を提供。"
+    },
+    "sources": [
+      {
+        "url": "https://www.sme.co.jp/pressrelease/news/detail/NEWS001048.html",
+        "title": "ソニーミュージックグループのアクセラレーションプログラム「ENTX（エンタエックス）」始動",
+        "publisher": "Sony Music Group",
+        "accessed": "2026-06-03",
+        "supports": "launch 2018, program length, prize money, themes, director",
+        "quote": "最優秀賞100万円、優秀賞50万円 ... 2018年 ... Toshihiro Imano, Director, CFO"
+      },
+      {
+        "url": "https://thebridge.jp/2018/08/sme-launches-entx",
+        "title": "ソニー・ミュージックエンタテインメント、アクセラレーションプログラム「ENTX」を始動",
+        "publisher": "The Bridge",
+        "accessed": "2026-06-03",
+        "supports": "1st cohort 7 of 81 applicants, Dentsu collaboration"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Acceptance rate from 1st cohort (7/81). Program runs broad themes; not exclusively music. Equity terms not disclosed.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "jp-i-nest-capital",
+    "name": { "en": "i-nest capital, inc.", "local": "i-nest capital株式会社" },
+    "aka": ["i-nest capital", "アイネストキャピタル"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.i-nestcapital.com/",
+    "links": {
+      "other": ["https://initial.inc/investors/V13510"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "i-nest 1号投資事業有限責任組合", "vintage_year": 2019, "size": { "raw": "総額73億円", "usd": null, "currency": "JPY" } },
+        { "name": "i-nest 2号投資事業有限責任組合", "vintage_year": 2025, "size": { "raw": "目標60〜80億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["gaming", "consumer", "ai-ml"],
+      "thesis": "Independent VC centered on the entertainment & lifestyle domain (plus advanced tech and DX/AI), aiming to create new industries and solve social issues. Notable as the training ground for several entertainment-focused investors."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [
+      { "name": "山中卓 (Takashi Yamanaka)", "role": "Partner" },
+      { "name": "塚本繁雄 (Shigeo Tsukamoto)", "role": "Partner" },
+      { "name": "本鬮俊彦 (Toshihiko Hongura)", "role": "Partner" }
+    ],
+    "application": { "how_to_apply": "Contact via website", "accepts_cold_inbound": true },
+    "tags": ["entertainment", "lifestyle", "consumer", "independent-vc"],
+    "summary": {
+      "en": "i-nest capital is an independent VC founded in 2019, focused on the entertainment & lifestyle domain (alongside advanced tech and DX/AI). Its first fund (est. Dec 2019) reached 7.3bn yen; its second fund (2025) targets 6–8bn yen. It backs entertainment/lifestyle and consumer startups across seed to Series B.",
+      "local": "2019年設立の独立系VC。エンターテインメント&ライフスタイル領域(先端技術・DX/AI含む)に注力。1号ファンド(2019年12月)は総額73億円、2号(2025年)は目標60〜80億円。エンタメ・ライフスタイル・コンシューマー領域のシード〜シリーズBに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://sogyotecho.jp/news/20201204i-nestcapital/",
+        "title": "「i-nest capital」のエンターテインメント&ライフスタイル領域を支援する第1号ファンドが総額73億円で組成完了",
+        "publisher": "創業手帳",
+        "accessed": "2026-06-03",
+        "supports": "Fund I size 73億円, entertainment & lifestyle focus, founding",
+        "quote": "エンターテインメント&ライフスタイル領域を支援する第1号ファンドが総額73億円で組成完了"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000073.000051734.html",
+        "title": "独立系ベンチャーキャピタルのi-nest capitalが2号ファンドを設立",
+        "publisher": "PR Times / i-nest capital",
+        "accessed": "2026-06-03",
+        "supports": "Fund II target size and focus (new lifestyle/entertainment, advanced tech, DX/AI)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I total 7.3bn yen (73億円) — note one summarizer mistranslated as '73 billion'; correct value is 7.3 billion yen. Entertainment is a core but not exclusive focus.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "jp-mobcast-financial",
+    "name": { "en": "Mobcast Financial (Wize)", "local": "株式会社モブキャストフィナンシャル / Wize" },
+    "aka": ["Mobcast Financial", "モブキャストフィナンシャル", "Wize Inc."],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://wize-inc.jp/",
+    "links": {
+      "other": ["https://mobcast.co.jp/investment/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["gaming", "consumer"],
+      "thesis": "Investment arm within the Mobcast Holdings group (game/entertainment company); raises external investor funds and also self-invests, supporting portfolio companies via continuous-growth systems, fundraising know-how, and entertainment/IT industry networks."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Enhance", "sector": "VR content / games (Tetris Effect creator)", "outcome": "active" },
+        { "company": "Retrograde", "sector": "EC / media / music", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Contact via Mobcast Holdings investment page", "accepts_cold_inbound": null },
+    "tags": ["gaming", "entertainment", "IP", "cvc"],
+    "summary": {
+      "en": "Mobcast Financial (now operating as Wize Inc.) is the investment arm of the Mobcast Holdings group, a Japanese game/entertainment company. It raises external investor capital and self-invests in entertainment and IT startups, with portfolio companies including Enhance (Tetris Effect studio) and Retrograde, leveraging the group's entertainment/IT networks.",
+      "local": "ゲーム・エンタメ企業モブキャストグループの投資部門(現Wize)。外部投資家資金の運用と自己投資を行い、エンタメ・IT領域のスタートアップを支援。投資先にEnhance(VRコンテンツ)、Retrograde(EC・メディア・音楽)など。"
+    },
+    "sources": [
+      {
+        "url": "https://mobcast.co.jp/investment/",
+        "title": "関連会社 - 株式会社モブキャストホールディングス",
+        "publisher": "Mobcast Holdings",
+        "accessed": "2026-06-03",
+        "supports": "investment arm, portfolio (Enhance, Retrograde), three strengths",
+        "quote": "Enhance (VR content development) and Retrograde ... 「entertainment and IT industry networks」"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Mobcast Financial domain redirects to wize-inc.jp; founding year and fund size not confirmed. Entity structure changed; classified as a group CVC/investment arm based on available info.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  }
+]

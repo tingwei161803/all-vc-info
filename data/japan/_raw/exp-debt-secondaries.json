@@ -1,0 +1,1107 @@
+[
+  {
+    "id": "jp-topaz-capital",
+    "name": { "en": "Topaz Capital, Inc.", "local": "トパーズ・キャピタル株式会社" },
+    "aka": ["TOPAZ CAPITAL"],
+    "type": "vc",
+    "subtypes": ["venture-debt", "private-debt"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://topazcap.com/",
+    "links": {
+      "other": ["https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%91%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%94%E3%82%BF%E3%83%AB"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "JPY" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "fintech"],
+      "thesis": "Independent private-debt fund manager (ex-Industrial Bank of Japan founders) offering institutional investors mid-risk/mid-return credit; pioneered venture-debt structures and co-founded the venture-debt JV that became Daiwa Blue Financial."
+    },
+    "track_record": {
+      "co_investors": ["Daiwa PI Partners", "Credit Engine"]
+    },
+    "people": [
+      { "name": "Takeshi Shimmura", "role": "Representative Director & President" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["venture-debt", "private-debt"],
+    "summary": {
+      "en": "Independent Japanese private-debt fund manager founded in 2012 by three ex-IBJ bankers; runs limited-partnership credit funds and was an early venture-debt pioneer (co-founder of the JV behind Daiwa Blue Financial). Dai-ichi Life acquired ~70% of the company in 2023.",
+      "local": "2012年に旧日本興業銀行出身の3名が設立した独立系プライベート・デット・ファンド運用会社。ベンチャーデットの先駆けで、大和ブルーフィナンシャルの前身JVを共同設立。2023年に第一生命HDが発行済株式の約70％を取得。"
+    },
+    "sources": [
+      {
+        "url": "https://topazcap.com/company/",
+        "title": "会社概要 | トパーズ・キャピタル株式会社",
+        "publisher": "Topaz Capital",
+        "accessed": "2026-06-03",
+        "supports": "founding date, HQ, capital, representative",
+        "quote": "2012年6月15日 … 東京都港区愛宕2-5-1 愛宕グリーンヒルズMORIタワー39階 … 388,871,638円 … 代表取締役社長 新村 健"
+      },
+      {
+        "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%91%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%94%E3%82%BF%E3%83%AB",
+        "title": "トパーズ・キャピタル - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-03",
+        "supports": "founders ex-IBJ, Dai-ichi Life acquisition",
+        "quote": "2012年、日本興業銀行（現・みずほ銀行）を出自とした3名の共同創業者により設立 … 2023年、第一生命ホールディングスは … 約70％を創業メンバーから取得"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Capital figure differs between Wikipedia summary and official site (¥388.9M per official site, used). Dai-ichi Life ~70% stake from secondary source.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "jp-daiwa-blue-financial",
+    "name": { "en": "Daiwa Blue Financial Inc.", "local": "大和ブルーフィナンシャル株式会社" },
+    "aka": ["Blue Topaz", "ブルー・トパーズ"],
+    "type": "vc",
+    "subtypes": ["venture-debt"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://daiwablue.jp/",
+    "links": {
+      "other": ["https://initial.inc/investors/V16478", "https://startup-db.com/companies/94dzpVmUExBGjWkY"]
+    },
+    "capital": {
+      "current_fund": { "raw": "capital ¥256,200,000", "usd": null, "currency": "JPY" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Daiwa Securities Group venture-debt lender providing non-dilutive loans to startups; originally the Topaz Capital / Credit Engine JV 'Blue Topaz', taken into the Daiwa group via Daiwa PI Partners in 2022."
+    },
+    "track_record": {
+      "co_investors": ["Daiwa PI Partners", "Topaz Capital", "Credit Engine"]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["venture-debt", "daiwa"],
+    "summary": {
+      "en": "Daiwa Securities Group venture-debt lender. Established April 2019 as the Topaz Capital x Credit Engine JV 'Blue Topaz'; subsidiarized by Daiwa PI Partners in March 2022 and renamed Daiwa Blue Financial. Provides non-dilutive lending to growth startups.",
+      "local": "大和証券グループのベンチャーデット会社。2019年4月にトパーズ・キャピタルとクレジットエンジンのJV『ブルー・トパーズ』として設立、2022年3月に大和PIパートナーズが子会社化し大和ブルーフィナンシャルへ商号変更。スタートアップ向けに希薄化のない融資を提供。"
+    },
+    "sources": [
+      {
+        "url": "https://daiwablue.jp/about",
+        "title": "会社概要 | Daiwa Blue Financial",
+        "publisher": "Daiwa Blue Financial",
+        "accessed": "2026-06-03",
+        "supports": "founding date, address, capital",
+        "quote": "2019年4月11日に設立 … 東京都千代田区丸の内一丁目9番1号 グラントウキョウノースタワー … 資本金は256,200,000円"
+      },
+      {
+        "url": "https://www.nihon-ma.co.jp/news/20220316_8601-8/",
+        "title": "大和PIパートナーズ、ベンチャーデット事業のブルー・トパーズを子会社化へ",
+        "publisher": "日本M&Aセンター M&Aニュース",
+        "accessed": "2026-06-03",
+        "supports": "Blue Topaz origin and Daiwa subsidiarization/rename",
+        "quote": "大和PIパートナーズ株式会社は … ブルー・トパーズ株式会社の株式の一部譲受 … により子会社化し … 『大和ブルーフィナンシャル株式会社』に商号変更"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "jp-sdf-capital",
+    "name": { "en": "SDF Capital Co., Ltd. (Startup Debt Fund)", "local": "SDFキャピタル株式会社" },
+    "aka": ["STARTUP DEBT FUND", "スタートアップ・デットファンド"],
+    "type": "vc",
+    "subtypes": ["venture-debt"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.sdf-capital.com/",
+    "links": {
+      "other": ["https://initial.inc/investors/V17816", "https://startup-db.com/investment-companies/94dzpVmU083GjWkY"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "スタートアップ・デットファンド1号投資事業有限責任組合", "vintage_year": 2022, "size": { "raw": null, "usd": null, "currency": "JPY" } },
+        { "name": "スタートアップ・デットファンド2号投資事業有限責任組合", "vintage_year": null, "size": { "raw": "approx ¥5.0B first close", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Claims Japan's first independent debt fund exclusively for startups; provides non-dilutive lending. Founded by Money Forward Synca, Takumi Fukuda and WARC."
+    },
+    "track_record": {
+      "notable_investments": [{ "company": "10X", "sector": "saas-enterprise", "outcome": "active" }],
+      "co_investors": ["Money Forward", "WARC", "Fivot", "Yoii"]
+    },
+    "people": [
+      { "name": "Takumi Fukuda", "role": "Representative Director" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["venture-debt", "independent-debt-fund"],
+    "summary": {
+      "en": "SDF Capital runs 'Startup Debt Fund', positioned as Japan's first independent debt fund exclusively for startups. Founded November 2021 (Money Forward Synca, Takumi Fukuda, WARC). Fund 1 launched 2022; Fund 2 first-closed at ~¥5.0B.",
+      "local": "SDFキャピタルはスタートアップ専門の独立系デットファンド『スタートアップ・デットファンド』を運営（日本初を標榜）。2021年11月設立（マネーフォワードシンカ・福田拓実氏・WARCの共同出資）。1号は2022年、2号は約50億円でファーストクローズ。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000001.000101774.html",
+        "title": "日本初のスタートアップ向け独立系デットファンド、「スタートアップ・デットファンド」設立",
+        "publisher": "PR TIMES / SDFキャピタル",
+        "accessed": "2026-06-03",
+        "supports": "Japan-first claim, founders",
+        "quote": "スタートアップのみを対象にした独立系のデットファンドという点において日本初のファンド … マネーフォワードシンカ、福田拓実氏、WARCの3社が共同出資"
+      },
+      {
+        "url": "https://www.nikkei.com/compass/company/j8JKaT4A5inFXT2kKBdcby",
+        "title": "ＳＤＦキャピタル株式会社の会社情報",
+        "publisher": "NIKKEI COMPASS",
+        "accessed": "2026-06-03",
+        "supports": "founding month, HQ, representative",
+        "quote": "代表取締役は福田拓実 … 東京都品川区上大崎 … 2021年11月に設立"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund 1 exact size not disclosed in sources; Fund 2 ~¥5.0B first close per press search summary.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "jp-fivot",
+    "name": { "en": "Fivot Inc.", "local": "株式会社Fivot" },
+    "aka": ["Flex Capital", "フィボット"],
+    "type": "vc",
+    "subtypes": ["venture-debt", "rbf"],
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://fivot.co.jp/",
+    "links": {
+      "other": ["https://flex-capital.jp/", "https://www.resona-gr.co.jp/holdings/news/newsrelease_c/detail/20251127_718.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "RFC Venture Debt Fund 1号投資事業有限責任組合 (with Resona Bank)", "vintage_year": 2025, "size": { "raw": "¥3.1B", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "fintech", "saas-enterprise"],
+      "thesis": "Provides non-dilutive debt finance to startups via 'Flex Capital' — venture debt, RBF and invoice advance ('Flex Capital Invoice') — using an AI/LLM credit model; partnered with Resona Bank for a venture-debt fund."
+    },
+    "track_record": {
+      "portfolio_count": "270+ borrowers (cumulative)",
+      "notable_investments": [{ "company": "iYell", "sector": "fintech", "outcome": "active" }],
+      "co_investors": ["Resona Bank"]
+    },
+    "people": [
+      { "name": "Shogo Abe", "role": "Representative Director (CEO)" }
+    ],
+    "application": {
+      "how_to_apply": "Online application; screening result within ~10 business days",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["venture-debt", "rbf", "invoice-finance"],
+    "summary": {
+      "en": "Fivot operates 'Flex Capital', a non-dilutive debt platform for startups (venture debt, RBF, invoice advance) with an AI/LLM credit model. Cumulative lending surpassed ¥10B (¥12B+ later); 270+ borrowers; ~0.3% default rate. Co-launched 'RFC Venture Debt Fund 1号' (¥3.1B) with Resona Bank in Nov 2025.",
+      "local": "株式会社Fivotはスタートアップ向けの希薄化しないデットプラットフォーム『Flex Capital』（ベンチャーデット・RBF・請求書立替）をAI/LLM与信で提供。累計融資100億円超（後に120億円超）、支援270社以上、デフォルト率約0.3%台。2025年11月にりそな銀行と『RFC Venture Debt Fund 1号』（31億円）を組成。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000032.000078718.html",
+        "title": "株式会社Fivot、「Flex Capital」の累計融資金額が100億円を突破",
+        "publisher": "PR TIMES / Fivot",
+        "accessed": "2026-06-03",
+        "supports": "cumulative lending, borrower count, default rate, products",
+        "quote": "累積融資金額は100億円を超え、支援社数は270社以上 … 株式希薄化のないベンチャーデット、RBF … 請求書立替払い『Flex Capital Invoice』 … 0.3%台 … 最短20分の審査申し込みで、10営業日以内に審査結果"
+      },
+      {
+        "url": "https://www.resona-gr.co.jp/holdings/news/newsrelease_c/detail/20251127_718.html",
+        "title": "りそな銀行とFivotによるRFC Venture Debt Fund 1号の設立について",
+        "publisher": "Resona Holdings",
+        "accessed": "2026-06-03",
+        "supports": "Resona JV fund, stage focus",
+        "quote": "シードからミドルステージの国内スタートアップ企業向け融資 … RFC Venture Debt Fund 1号投資事業有限責任組合"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year not confirmed in fetched sources (company established ~2019 per other DBs but not verified here, left null). RFC fund size ¥3.1B per search summary of Resona/Fivot release.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "jp-yoii",
+    "name": { "en": "Yoii Inc.", "local": "株式会社Yoii" },
+    "aka": ["Yoii Fuel", "ヨーイ"],
+    "type": "vc",
+    "subtypes": ["rbf"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://yoii.jp/",
+    "links": {
+      "other": ["https://initial.inc/companies/A-39612", "https://prtimes.jp/main/html/rd/p/000000016.000078333.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Yoii RBF Fund 1号 (Japan's first RBF fund)", "vintage_year": 2024, "size": { "raw": null, "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "several million to hundreds of millions JPY; fees 3–15%; 1–12 month terms", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["saas-enterprise", "consumer", "generalist"],
+      "thesis": "Revenue-based financing specialist: 'Yoii Fuel' uses a proprietary algorithm to forecast future revenue and advance non-dilutive capital to startups; established Japan's first RBF-focused fund."
+    },
+    "track_record": {
+      "co_investors": ["One Capital", "Inclusion Japan", "University of Tokyo", "Mitsubishi UFJ Trust Bank"]
+    },
+    "people": [
+      { "name": "Masaharu Uno", "role": "Co-founder / CEO" },
+      { "name": "Akira Omori", "role": "Co-founder" }
+    ],
+    "application": {
+      "how_to_apply": "Online application via Yoii Fuel platform",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["rbf", "revenue-based-financing"],
+    "summary": {
+      "en": "Yoii operates 'Yoii Fuel', a revenue-based financing (RBF) platform that forecasts a startup's future revenue and advances non-dilutive funds (fees 3–15%, 1–12 month terms). Founded April 2021; in Dec 2024 established Japan's first RBF-focused fund ('Yoii RBF Fund 1号') backed by Mitsubishi UFJ Trust Bank and others.",
+      "local": "株式会社YoiiはRBFプラットフォーム『Yoii Fuel』を運営。独自アルゴリズムで将来売上を査定し希薄化のない資金を提供（手数料3〜15%、期間1〜12ヶ月）。2021年4月設立。2024年12月に三菱UFJ信託銀行等の出資で日本初のRBFファンド『Yoii RBF Fund 1号』を設立。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000016.000078333.html",
+        "title": "Yoii、三菱UFJ信託銀行等からの出資を受けて日本初のRBFファンドを設立",
+        "publisher": "PR TIMES / Yoii",
+        "accessed": "2026-06-03",
+        "supports": "Japan-first RBF fund, backers",
+        "quote": "三菱UFJ信託銀行等からの出資を受けて日本初のRBFファンドを設立"
+      },
+      {
+        "url": "https://initial.inc/companies/A-39612",
+        "title": "株式会社Yoii | INITIAL",
+        "publisher": "INITIAL (Speeda)",
+        "accessed": "2026-06-03",
+        "supports": "founding year, founders, HQ",
+        "quote": "founded in April 2021 by Masaharu Uno and Akira Omori"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fee/term ranges from secondary aggregator pages; fund size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "jp-paytoday-dual-life-partners",
+    "name": { "en": "Dual Life Partners Inc. (RBF by PAYTODAY)", "local": "Dual Life Partners株式会社" },
+    "aka": ["PAYTODAY", "RBF by PAYTODAY"],
+    "type": "vc",
+    "subtypes": ["rbf", "factoring"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://rbf.paytoday.jp/",
+    "links": {
+      "other": ["https://paytoday.jp/", "https://prtimes.jp/main/html/rd/p/000000043.000072244.html"]
+    },
+    "capital": {
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "fees 3–12%; funding in 1–3 days", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["saas-enterprise", "consumer", "generalist"],
+      "thesis": "AI factoring provider ('PAYTODAY') that added 'RBF by PAYTODAY' in 2023, advancing capital against future recurring revenue (future receivables) for startups and SaaS companies."
+    },
+    "track_record": {
+      "portfolio_count": "cumulative purchase applications ¥30B+",
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Online-only application; funding within 1–3 days",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["rbf", "factoring", "ai-credit"],
+    "summary": {
+      "en": "Dual Life Partners (Tokyo, est. April 2016) runs the AI factoring service 'PAYTODAY' (cumulative purchase applications ¥30B+) and launched 'RBF by PAYTODAY' in April 2023, advancing non-dilutive capital against future recurring revenue for startups and SaaS firms (fees 3–12%, funding in 1–3 days).",
+      "local": "Dual Life Partners株式会社（東京、2016年4月設立）はAIファクタリング『PAYTODAY』（累計買取申込300億円超）を運営し、2023年4月に将来のリカーリング売上を対象とする『RBF by PAYTODAY』を開始。手数料3〜12%、最短1〜3日で資金提供。"
+    },
+    "sources": [
+      {
+        "url": "https://rbf.paytoday.jp/company",
+        "title": "運営会社 | RBF by PAYTODAY",
+        "publisher": "Dual Life Partners",
+        "accessed": "2026-06-03",
+        "supports": "operating company, RBF launch",
+        "quote": "RBF by PAYTODAY is operated by Dual Life Partners … established in April 2016 … In April 2023, they released RBF by PAYTODAY"
+      },
+      {
+        "url": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/21700.html",
+        "title": "AIファクタリングサービス「PAYTODAY」累計買取申込金額300億円を突破",
+        "publisher": "テレ東プラス",
+        "accessed": "2026-06-03",
+        "supports": "cumulative purchase application volume",
+        "quote": "累計買取申込金額３００億円を突破"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding/launch dates and fee ranges from operator page and PR; precise RBF-only volume not separable from total factoring volume.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "jp-mynavi-bridge",
+    "name": { "en": "Mynavi Bridge Co., Ltd.", "local": "株式会社マイナビブリッジ" },
+    "aka": ["Mynavi Bridge RBF"],
+    "type": "cvc",
+    "subtypes": ["rbf"],
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://mynavibridge.jp/rbf/",
+    "links": {
+      "other": ["https://corp.mynavibridge.jp/service/rbf", "https://startup-db.com/companies/OlBVGEVUy7Ap5WqM"]
+    },
+    "capital": {
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["saas-enterprise", "generalist"],
+      "thesis": "Mynavi-group RBF provider; purchases a portion of a startup's future recurring receivables to advance non-dilutive growth capital. Mitsubishi UFJ Trust Bank is among its investors."
+    },
+    "track_record": {
+      "co_investors": ["Mitsubishi UFJ Trust Bank"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Online RBF application; sell a portion of future receivables to Mynavi Bridge",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["rbf", "mynavi"],
+    "summary": {
+      "en": "Mynavi-group fintech offering revenue-based financing (RBF): a startup sells a portion of its continuing future revenue (future receivables) to Mynavi Bridge for non-dilutive capital. Mitsubishi UFJ Trust Bank is an investor in the RBF business.",
+      "local": "マイナビグループのフィンテックでRBF（レベニュー・ベースド・ファイナンス）を提供。スタートアップが継続的な将来売上（将来債権）の一部をマイナビブリッジに売却し希薄化のない資金を得る。RBF事業には三菱UFJ信託銀行が出資。"
+    },
+    "sources": [
+      {
+        "url": "https://mynavibridge.jp/rbf/",
+        "title": "マイナビブリッジのRBF | 将来の売上を現金化",
+        "publisher": "Mynavi Bridge",
+        "accessed": "2026-06-03",
+        "supports": "RBF mechanism, target",
+        "quote": "継続的に発生する将来の売上（将来債権）の一部をマイナビブリッジへ売却し、成長のために必要な資金を提供"
+      },
+      {
+        "url": "https://business.nikkei.com/atcl/gen/19/00139/030300259/",
+        "title": "三菱UFJ信託も出資する「RBF」 売り上げ予測基にスタートアップへ資金",
+        "publisher": "日経ビジネス",
+        "accessed": "2026-06-03",
+        "supports": "Mitsubishi UFJ Trust Bank investor",
+        "quote": "三菱UFJ信託も出資する「RBF」"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year of the RBF entity not confirmed; left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "jp-siiibo-securities",
+    "name": { "en": "Siiibo Securities Inc.", "local": "Siiibo証券株式会社" },
+    "aka": ["Siiibo", "シーボ証券"],
+    "type": "vc",
+    "subtypes": ["venture-debt", "corporate-bond"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://siiibo.com/",
+    "links": {
+      "other": ["https://siiibo.com/business/", "https://startup-db.com/companies/2lO6prvUAeQpg5wB"]
+    },
+    "capital": {
+      "current_fund": { "raw": "capital ¥500M", "usd": null, "currency": "JPY" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-b", "growth"],
+      "check_size": { "raw": "issuance up to ~¥200M per startup (raised from ~¥50M average)", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "fintech"],
+      "thesis": "Online corporate-bond securities firm connecting mid/late-stage startups with professional investors; lets startups raise debt-like capital via small private placement bonds (incl. convertible bonds) in 1–2 weeks without equity dilution."
+    },
+    "track_record": {
+      "co_investors": ["Aozora Corporate Investment", "15th Rock"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Issue private-placement corporate bonds via the Siiibo platform",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["corporate-bond", "venture-debt", "private-placement"],
+    "summary": {
+      "en": "Siiibo Securities (founded 2019) runs an online corporate-bond platform connecting unlisted/mid-late-stage startups with professional individual investors. Startups raise non-dilutive debt via small private-placement bonds (incl. convertibles) in 1–2 weeks; bond issuance cap raised to ~¥200M. Capital increased to ¥500M with a 2025 round backed by Aozora Corporate Investment and 15th Rock (cumulative raise ~¥1.6B).",
+      "local": "Siiibo証券（2019年設立）は社債特化のオンライン証券プラットフォームを運営し、未上場・ミドル〜レイターのスタートアップとプロ投資家を直接つなぐ。少人数私募債（転換社債含む）で1〜2週間・希薄化なしの調達が可能。社債発行枠を約2億円に拡大、2025年にあおぞら企業投資・15th Rock等から増資し資本金5億円（累計調達約16億円）。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000080.000045441.html",
+        "title": "Siiibo証券が提供する資金調達サービスを通じて、発行可能な社債の金額が増額",
+        "publisher": "PR TIMES / Siiibo証券",
+        "accessed": "2026-06-03",
+        "supports": "bond issuance cap increase, capital, backers",
+        "quote": "発行可能な社債の金額 … 約2億円 … 資本金を5億円 … あおぞら企業投資、15th Rock … 累計調達 … 約16億円"
+      },
+      {
+        "url": "https://siiibo.com/business/",
+        "title": "Siiibo証券 | 社債発行で迅速・低コストな資金調達",
+        "publisher": "Siiibo Securities",
+        "accessed": "2026-06-03",
+        "supports": "founding year, mechanism (1-2 week, private placement bonds)",
+        "quote": "founded in 2019 … borrow capital in 1-2 weeks … small number private placement bonds with a maximum of 49 potential investors"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "jp-upsider-capital",
+    "name": { "en": "UPSIDER Capital Inc.", "local": "UPSIDER Capital株式会社" },
+    "aka": ["UPSIDER BLUE DREAM Fund"],
+    "type": "vc",
+    "subtypes": ["venture-debt"],
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.upsidercap.com/",
+    "links": {
+      "other": ["https://www.mizuho-fg.co.jp/release/20231109_2release_jp.html", "https://prtimes.jp/main/html/rd/p/000000222.000076272.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "UPSIDER BLUE DREAM Fund", "vintage_year": 2023, "size": { "raw": "approx ¥10B", "usd": null, "currency": "JPY" } },
+        { "name": "UPSIDER BLUE DREAM Growth Fund 2号", "vintage_year": 2025, "size": { "raw": "¥143B", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "up to ¥1B per deal", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "fintech"],
+      "thesis": "Venture-debt arm of corporate-card fintech UPSIDER, operating in JV with Mizuho FG. Uses AI-driven cash-flow/credit models to lend up to ¥1B to growth-stage startups, often within ~1 week."
+    },
+    "track_record": {
+      "portfolio_count": "lending executed ¥130B+ (as of May 2025)",
+      "co_investors": ["Mizuho Financial Group", "Mizuho Innovation Frontier"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply for venture debt via UPSIDER Capital; credit decision typically within ~10 business days",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["venture-debt", "ai-credit", "mizuho"],
+    "summary": {
+      "en": "UPSIDER Capital is the venture-debt subsidiary of fintech UPSIDER, run as a JV with Mizuho FG. Its 'UPSIDER BLUE DREAM Fund' (~¥10B, 2023) plus 'Growth Fund 2号' (¥143B, 2025) bring the cumulative venture-debt total to ~¥243B — described as Japan's largest independent venture-debt fund. Lends up to ¥1B per deal using AI credit; ¥130B+ executed by May 2025.",
+      "local": "UPSIDER Capitalは法人カード企業UPSIDERのベンチャーデット子会社で、みずほFGとのJV。『UPSIDER BLUE DREAM Fund』（約100億円・2023年）と『Growth Fund 2号』（1,430億円・2025年）で累計2,430億円規模となり国内最大級の独立系ベンチャーデットと称される。AI与信で1件最大10億円を融資、2025年5月時点で累計1,300億円超を実行。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000222.000076272.html",
+        "title": "UPSIDER、ベンチャーデットファンド「UPSIDER BLUE DREAM Growth Fund 2号」を設立",
+        "publisher": "PR TIMES / UPSIDER Holdings",
+        "accessed": "2026-06-03",
+        "supports": "Fund 2 size, cumulative, largest-independent claim, lending volume",
+        "quote": "総資産143億円 … 累計2,430億円 … 国内最大級 … 累計1,300億円超を実行（2025年5月）"
+      },
+      {
+        "url": "https://www.mizuho-fg.co.jp/release/20231109_2release_jp.html",
+        "title": "UPSIDERとみずほFGによる合弁事業の開始およびデットファンドの設立",
+        "publisher": "Mizuho Financial Group",
+        "accessed": "2026-06-03",
+        "supports": "JV with Mizuho, Fund 1 ~¥10B, up to ¥1B per deal, growth-stage",
+        "quote": "グロースステージのスタートアップ向けデットファンド … 約100億円 … 1件あたり最大10億円"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year of UPSIDER Capital subsidiary not confirmed (left null); fund figures from PR. Note 143億円/243億円 figures cross-checked as JPY (search summary mis-stated billions).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "jp-aozora-corporate-investment",
+    "name": { "en": "Aozora Corporate Investment Co., Ltd.", "local": "あおぞら企業投資株式会社" },
+    "aka": ["HYBRIDファンド", "Aozora HYBRID Fund"],
+    "type": "cvc",
+    "subtypes": ["venture-debt"],
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.aozora-ci.co.jp/fund/hybrid.html",
+    "links": {
+      "other": ["https://www.aozorabank.co.jp/hojin/financing/debt/", "https://www.dbj.jp/topics/dbj_news/2024/html/20250228_205173.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "あおぞらHYBRID1号投資事業有限責任組合", "vintage_year": 2019, "size": { "raw": "¥2.0B", "usd": null, "currency": "JPY" } },
+        { "name": "あおぞらHYBRID2号投資事業有限責任組合", "vintage_year": 2022, "size": { "raw": "¥3.0B start, increased to ¥10.0B", "usd": null, "currency": "JPY" } },
+        { "name": "あおぞらHYBRID3号投資事業有限責任組合", "vintage_year": 2023, "size": { "raw": "¥9.0B start", "usd": null, "currency": "JPY" } },
+        { "name": "HYBRID ANNEX1号投資事業有限責任組合 (with DBJ)", "vintage_year": 2025, "size": { "raw": "¥5.0B (to ¥10.0B)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Wholly-owned Aozora Bank investment subsidiary running the 'HYBRID' series of venture-debt funds (convertible bonds / warrant-attached loans) for IPO-oriented Japanese startups; partners with DBJ on large-ticket venture-debt (HYBRID ANNEX)."
+    },
+    "track_record": {
+      "co_investors": ["Aozora Bank", "Development Bank of Japan (DBJ)"]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["venture-debt", "aozora", "hybrid-fund"],
+    "summary": {
+      "en": "Aozora Bank's wholly-owned investment arm running the 'HYBRID' venture-debt fund series (convertible bonds / warrant-attached loans) for IPO-oriented startups: HYBRID 1 (¥2.0B, 2019), HYBRID 2 (¥3.0B→¥10.0B, 2022), HYBRID 3 (¥9.0B, 2023), and HYBRID ANNEX 1 (¥5.0B→¥10.0B, with DBJ, 2025) for large-ticket deals.",
+      "local": "あおぞら銀行100％子会社の投資会社で、IPO志向スタートアップ向けの『HYBRID』ベンチャーデットファンド（転換社債・新株予約権付融資）を運営。HYBRID1号（20億円・2019年）、2号（30億円→100億円・2022年）、3号（90億円・2023年）、大型案件向けのHYBRID ANNEX1号（DBJと共同、50億円→100億円・2025年）。"
+    },
+    "sources": [
+      {
+        "url": "https://www.aozora-ci.co.jp/news/release_hybrid.html",
+        "title": "あおぞらHYBRID1号投資事業有限責任組合を設立しました",
+        "publisher": "Aozora Corporate Investment",
+        "accessed": "2026-06-03",
+        "supports": "HYBRID 1 founding and size",
+        "quote": "2019年11月7日に設立 … ファンド総額は20億円"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000011.000131315.html",
+        "title": "あおぞら企業投資、DBJグループと大型ベンチャーデットファンド「HYBRID ANNEX1号」を設立",
+        "publisher": "PR TIMES / あおぞら企業投資",
+        "accessed": "2026-06-03",
+        "supports": "HYBRID ANNEX 1 with DBJ, sizing",
+        "quote": "大型ベンチャーデット案件 … 当初は50億円で組成され … 100億円に増額"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "HYBRID 2/3 sizes from aggregated search of official releases; ANNEX from PR. Company founding year of the subsidiary itself not confirmed (left null).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "jp-kepple-capital",
+    "name": { "en": "Kepple Capital Inc.", "local": "株式会社ケップルキャピタル" },
+    "aka": ["Kepple Liquidity Fund", "ケップル"],
+    "type": "vc",
+    "subtypes": ["secondary"],
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://kepplecp.co.jp/",
+    "links": {
+      "other": ["https://corp.kepple.co.jp/investor/keppleliquidityfund", "https://prtimes.jp/main/html/rd/p/000000054.000026987.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Kepple Liquidity 1号投資事業有限責任組合", "vintage_year": 2022, "size": { "raw": "¥10.0B (final close 2024; ~¥5.0B initial target)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "GP of Kepple Group's secondary-only fund, buying existing shares of domestic mid/late-stage startups from selling shareholders (CVCs, expiring funds) to provide liquidity, targeting exit via IPO/M&A in a few years."
+    },
+    "track_record": {
+      "co_investors": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["secondary", "startup-equity-secondary"],
+    "summary": {
+      "en": "Kepple Capital (GP, 100% owned by Kepple) runs 'Kepple Liquidity 1号', a fund dedicated to startup-equity secondaries. Established June 2022 (initial ~¥5.0B target), it completed fundraising at ¥10.0B in May 2024, buying existing shares of domestic mid/late-stage startups from sellers such as CVCs and expiring funds; 7-year term.",
+      "local": "ケップルキャピタル（ケップル100％出資のGP）はスタートアップ株式のセカンダリー取引特化型ファンド『Kepple Liquidity 1号』を運営。2022年6月設立（当初目標約50億円）、2024年5月に100億円で募集完了。CVCやファンド満期等の売り手から国内ミドル・レイターの既発行株式を買い取る。存続7年。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000054.000026987.html",
+        "title": "ケップル、スタートアップ株式のセカンダリー取引特化型ファンドを設立",
+        "publisher": "PR TIMES / ケップルグループ",
+        "accessed": "2026-06-03",
+        "supports": "fund purpose, target stage, GP, term",
+        "quote": "スタートアップ株式のセカンダリー取引 … 国内のミドル・レイターステージ … 既発行株式 … ケップルキャピタルがGP … 7年目の決算日まで"
+      },
+      {
+        "url": "https://www.marr.jp/menu/ma_strategy/ma_pefund/entry/54859",
+        "title": "100億円のスタートアップ株式のセカンダリー取引特化型ファンドを組成",
+        "publisher": "MARR Online (RECOF)",
+        "accessed": "2026-06-03",
+        "supports": "fund size ¥10.0B final, established June 2022",
+        "quote": "2022年6月1日に設立 … 最大総額50億円 … 2024年5月に100億円で募集を完了"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Kepple Capital (GP) founding year not separately confirmed; fund details verified.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "jp-wm-partners",
+    "name": { "en": "WM Partners Co., Ltd.", "local": "WMパートナーズ株式会社" },
+    "aka": ["JPEOF", "WM Growth"],
+    "type": "vc",
+    "subtypes": ["secondary"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://secondaries.wmpartners.jp/",
+    "links": {
+      "other": ["https://wmpartners.jp/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "JPEOF2021投資事業有限責任組合", "vintage_year": 2021, "size": { "raw": "¥10.0B", "usd": null, "currency": "JPY" } },
+        { "name": "WMグロース5号投資事業有限責任組合", "vintage_year": null, "size": { "raw": "¥12.1B", "usd": null, "currency": "JPY" } },
+        { "name": "WMグロース4号投資事業有限責任組合", "vintage_year": null, "size": { "raw": "¥10.6B", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Secondary specialist providing liquidity in two lines: fund-interest liquidity (acquiring LP fund stakes) and unlisted-equity liquidity (buying unlisted/startup shares). Operates 'Japan Private Equity Opportunity' (JPEOF) and 'WM Growth' fund series."
+    },
+    "track_record": {
+      "portfolio_count": "70+ fund acquisitions, 200+ unlisted-equity transactions (cumulative, 20+ years)",
+      "co_investors": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["secondary", "fund-stakes", "unlisted-equity"],
+    "summary": {
+      "en": "WM Partners (est. July 2013, Tokyo) is a Japanese secondary specialist offering fund-interest liquidity (LP stake acquisitions) and unlisted-equity liquidity (buying unlisted/startup shares). Funds include JPEOF2021 (¥10.0B), WM Growth 5 (¥12.1B), WM Growth 4 (¥10.6B). Reports 70+ fund acquisitions and 200+ unlisted-equity deals over 20+ years.",
+      "local": "WMパートナーズ（2013年7月設立・東京）は、ファンド持分流動化（LP持分買取）と未上場株式流動化（未上場・スタートアップ株式買取）を提供する日本のセカンダリー専門会社。JPEOF2021（100億円）、WMグロース5号（121億円）、4号（106億円）等を運用。20年超で70件超のファンド買取、200件超の未上場株式取引実績。"
+    },
+    "sources": [
+      {
+        "url": "https://secondaries.wmpartners.jp/",
+        "title": "ファンド持分、未上場株式の二次買取｜WMパートナーズ セカンダリー投資",
+        "publisher": "WM Partners",
+        "accessed": "2026-06-03",
+        "supports": "founding, two service lines, fund names/sizes, track record",
+        "quote": "Established July 2013 … ファンド持分流動化 … 未上場株式流動化 … JPEOF2021投資事業有限責任組合（100億円） … WMグロース5号（121億円） … 70 fund acquisitions and 200+ unlisted equity transactions"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Vintage years of WM Growth 4/5 not stated; sizes per official site.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "jp-ai-capital",
+    "name": { "en": "Alternative Investment Capital Limited", "local": "エー・アイ・キャピタル株式会社" },
+    "aka": ["AI Capital", "AIC"],
+    "type": "vc",
+    "subtypes": ["fund-of-funds", "secondary"],
+    "status": "active",
+    "founded_year": 2002,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.aicapital.co.jp/",
+    "links": {
+      "other": ["https://www.aicapital.co.jp/secondary.html", "https://initial.inc/investors/V11639"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "JPY" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["generalist"],
+      "thesis": "PE/VC-focused low-liquidity alternatives manager offering fund-of-funds, separate accounts, primary, secondary and co-investment, plus GP solutions; acquires LP fund stakes (secondary) leveraging strong GP relationships."
+    },
+    "track_record": {
+      "co_investors": ["Sumitomo Mitsui Banking Corporation", "Daido Life Insurance", "Mitsubishi UFJ Trust Bank"]
+    },
+    "people": [
+      { "name": "Reijiro Samura", "role": "Representative Director & President" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["fund-of-funds", "secondary", "private-equity"],
+    "summary": {
+      "en": "Alternative Investment Capital (AI Capital, est. July 2002, Tokyo) is a PE/VC-focused low-liquidity alternatives manager doing fund-of-funds, primary, secondary and co-investment plus GP solutions. Acquires LP fund stakes (secondary) via strong GP relationships. Owned by SMBC (60%), Daido Life (36%) and MUFG Trust (4%).",
+      "local": "エー・アイ・キャピタル（AI Capital、2002年7月設立・東京）はPE/VC等の低流動性オルタナティブに特化した運用会社で、ファンド・オブ・ファンズ、プライマリー、セカンダリー、コインベストメント、GPソリューションを手掛ける。GPとのリレーションを生かしLP持分のセカンダリー譲受も実施。株主はSMBC60%・大同生命36%・三菱UFJ信託4%。"
+    },
+    "sources": [
+      {
+        "url": "https://www.aicapital.co.jp/about.html",
+        "title": "会社概要｜エー・アイ・キャピタル株式会社",
+        "publisher": "Alternative Investment Capital",
+        "accessed": "2026-06-03",
+        "supports": "founding, business lines, representative, shareholders",
+        "quote": "2002 (July) … Primary PE investments, Secondary investments, Co-investments, Fund-of-funds advisory … Representative Director & President Reijiro Samura … SMBC 60.0%, Daido Life 36.0%, MUFG Trust 4.0%"
+      },
+      {
+        "url": "https://www.aicapital.co.jp/secondary.html",
+        "title": "セカンダリー投資｜エー・アイ・キャピタル株式会社",
+        "publisher": "Alternative Investment Capital",
+        "accessed": "2026-06-03",
+        "supports": "secondary investment (LP stake acquisition)",
+        "quote": "ファンドの既存出資者（LP）からファンド出資持分を譲受けるセカンダリー投資"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "jp-ngs-partners",
+    "name": { "en": "NGS Partners, Inc.", "local": "日本成長支援パートナーズ株式会社" },
+    "aka": ["Nihon Seicho Shien Partners"],
+    "type": "vc",
+    "subtypes": ["secondary"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://ngspartners.jp/",
+    "links": {
+      "other": ["https://ngspartners.jp/company.html", "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=3011001125526"]
+    },
+    "capital": {
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Secondary agent supporting liquidity of unlisted shares held by corporations and individuals — sales/consolidation of existing issued unlisted shares, replacing existing shareholders with strategic ones."
+    },
+    "track_record": {
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Tatsuhiro Miyako", "role": "Representative" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["secondary", "unlisted-equity", "secondary-agent"],
+    "summary": {
+      "en": "NGS Partners (est. 2018, Tokyo) is a secondary agent helping corporations and individuals liquidate unlisted shares (sale/consolidation of issued unlisted equity), including venture/startup holdings, by replacing existing shareholders with strategic ones to support long-term value.",
+      "local": "日本成長支援パートナーズ（2018年設立・東京）は、法人・個人が保有する非上場株式の流動化（既発行非上場株式の売却・集約）を支援するセカンダリーエージェント。VC保有分や創業者株なども対象に、既存株主から戦略的株主へのリプレイスを推進。"
+    },
+    "sources": [
+      {
+        "url": "https://ngspartners.jp/company.html",
+        "title": "会社概要 | 日本成長支援パートナーズ",
+        "publisher": "NGS Partners",
+        "accessed": "2026-06-03",
+        "supports": "founding year, representative, secondary-agent business",
+        "quote": "Establishment Year: 2018 … Representative: 都竜大 … a secondary agent supporting the liquidity of unlisted stocks held by corporations and individuals"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Capital not disclosed; no managed fund (acts as agent/advisor).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "jp-aj-capital",
+    "name": { "en": "AJ Capital Inc.", "local": "AJキャピタル株式会社" },
+    "aka": ["AJ Capital", "Succession Fund", "AJC Corporate Development Fund"],
+    "type": "vc",
+    "subtypes": ["secondary"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://ajcap.co.jp/",
+    "links": {
+      "other": ["https://ajcap.co.jp/fund/", "https://www.jaic-vc.co.jp/vc-files/file_from_2021year/jrelease_20250401.pdf"]
+    },
+    "capital": {
+      "aum": { "raw": "approx ¥9.102B across three funds", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "サクセッション1号投資事業有限責任組合", "vintage_year": null, "size": { "raw": "¥3.0B", "usd": null, "currency": "JPY" } },
+        { "name": "サクセッション2号投資事業有限責任組合", "vintage_year": null, "size": { "raw": "¥5.101B", "usd": null, "currency": "JPY" } },
+        { "name": "AJC企業育成投資事業有限責任組合 (VC secondary fund)", "vintage_year": null, "size": { "raw": "¥1.001B", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-b", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Aozora Bank x Japan Asia Investment (JAIC) JV. The 'AJC Corporate Development Investment Fund' does VC secondaries (acquiring unlisted shares, bulk-sold securities and LP interests to provide liquidity to the venture secondary market); the 'Succession' funds do business-succession buyouts of small/mid-caps."
+    },
+    "track_record": {
+      "co_investors": ["Aozora Bank", "Japan Asia Investment (JAIC)", "Awa Bank"]
+    },
+    "people": [
+      { "name": "Masayuki Kobayashi", "role": "Representative Director & President" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["secondary", "vc-secondary", "succession", "aozora", "jaic"],
+    "summary": {
+      "en": "AJ Capital (est. 2018) is a 50/50 JV of Aozora Bank and Japan Asia Investment (JAIC). Its 'AJC Corporate Development Investment Fund' (¥1.001B) does VC secondaries — buying unlisted shares, bulk-sold securities and LP interests to provide venture-secondary liquidity — alongside Succession 1 (¥3.0B) and Succession 2 (¥5.101B) business-succession funds; ~¥9.1B total AUM.",
+      "local": "AJキャピタル（2018年設立）はあおぞら銀行と日本アジア投資（JAIC）の50/50JV。『AJC企業育成投資事業有限責任組合』（10.01億円）でVCセカンダリー（非上場株式・バルクセール証券・LP持分の譲受によりベンチャーセカンダリーへ流動性提供）を、サクセッション1号（30億円）・2号（51.01億円）で事業承継投資を実施。運用総額約91億円。"
+    },
+    "sources": [
+      {
+        "url": "https://ajcap.co.jp/fund/",
+        "title": "サクセッション1号投資事業有限責任組合 / ファンド一覧",
+        "publisher": "AJ Capital",
+        "accessed": "2026-06-03",
+        "supports": "fund names, sizes, VC-secondary strategy, total AUM",
+        "quote": "Succession 1 … 3,000百万円 … Succession 2 … 5,101百万円 … AJC企業育成投資事業有限責任組合 … 1,001百万円 … 非上場会社株式、バルクセールされる投資証券、LP出資持分 … Total … 9.102 billion yen"
+      },
+      {
+        "url": "https://www.jaic-vc.co.jp/vc-files/file_from_2021year/jrelease_20250401.pdf",
+        "title": "当社関連会社のAJキャピタル株式会社が運営するサクセッションファンド",
+        "publisher": "Japan Asia Investment (JAIC)",
+        "accessed": "2026-06-03",
+        "supports": "JV ownership, establishment",
+        "quote": "AJ キャピタル株式会社 … あおぞら銀行 … 日本アジア投資"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund vintage years not individually stated; sizes/AUM per official fund page. Succession funds are business-succession (not startup) but the AJC fund is explicitly a venture secondary vehicle, qualifying the org for this segment.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "jp-ant-capital-partners",
+    "name": { "en": "Ant Capital Partners Co., Ltd.", "local": "アント・キャピタル・パートナーズ株式会社" },
+    "aka": ["Ant Capital", "Bee Alternatives"],
+    "type": "vc",
+    "subtypes": ["secondary", "fund-of-funds"],
+    "status": "active",
+    "founded_year": 2000,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.antcapital.jp/",
+    "links": {
+      "other": ["https://www.antcapital.jp/sd/", "https://www.antcapital.jp/en/company/profile/", "https://initial.inc/investors/2364"]
+    },
+    "capital": {
+      "current_fund": { "raw": "capital ¥100,000,000", "usd": null, "currency": "JPY" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["growth", "series-b", "series-c-plus", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan", "Asia"],
+      "sector_focus": ["generalist"],
+      "thesis": "Pioneer of fund-stake secondaries in Japan: acquires LP interests in VC/buyout funds and runs GP-led fund restructurings; claims to operate Japan's largest fund-equity secondary fund (fund-equity ops via subsidiary Bee Alternatives since 2021). Also does growth/buyout direct investing."
+    },
+    "track_record": {
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Ryosuke Iinuma", "role": "Representative Director" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["secondary", "fund-stakes", "private-equity", "gp-led"],
+    "summary": {
+      "en": "Ant Capital Partners (est. Oct 2000, Tokyo; JV origin of Nikko Principal Investments and UK Antfactory) pioneered Japan's first comprehensive secondary investment fund and runs what it calls the country's largest fund-equity secondary fund — acquiring LP stakes in VC/buyout funds and leading GP-led restructurings (fund-equity ops via subsidiary Bee Alternatives since Aug 2021). Also does direct growth/buyout investing.",
+      "local": "アント・キャピタル・パートナーズ（2000年10月設立・東京、日興プリンシパル・インベストメンツと英アントファクトリーのJV起源）は、日本初の本格的セカンダリー投資ファンドを組成した先駆者で、国内最大級のファンド持分セカンダリー（VC/バイアウトファンドのLP持分譲受・GP主導再編）を運営。ファンド持分業務は2021年8月よりBee Alternativesで実施。グロース/バイアウトの直接投資も行う。"
+    },
+    "sources": [
+      {
+        "url": "https://www.antcapital.jp/en/company/profile/",
+        "title": "Corporate Profile – Ant Capital Partners Co., Ltd.",
+        "publisher": "Ant Capital Partners",
+        "accessed": "2026-06-03",
+        "supports": "founding date, HQ, capital, representative",
+        "quote": "設立日は2000年10月23日 … 丸の内2-4-1 丸の内ビルディング27階 … 資本金は100,000,000円 … 代表取締役は飯沼良介"
+      },
+      {
+        "url": "https://www.antcapital.jp/solution-investment/solution-investment-method/solution-investment-fund-equity-investment/",
+        "title": "ファンド持分投資 – アント・キャピタル・パートナーズ",
+        "publisher": "Ant Capital Partners",
+        "accessed": "2026-06-03",
+        "supports": "Japan-first secondary, fund-equity (LP stakes), Bee Alternatives",
+        "quote": "日本で初めて本格的なセカンダリー投資ファンドを組成 … 国内最大規模のファンド … 2021年8月よりBee Alternatives … LP出資持分"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Mostly a PE/buyout fund-stake secondary specialist (includes VC fund stakes); included for fund-equity secondaries relevance.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "jp-smartround",
+    "name": { "en": "smartround, Inc.", "local": "株式会社スマートラウンド" },
+    "aka": ["smartround secondary platform"],
+    "type": "vc",
+    "subtypes": ["secondary"],
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://jp.smartround.com/",
+    "links": {
+      "other": ["https://jp.smartround.com/corporate/news/posts/rDjY8gJk", "https://initial.inc/companies/A-32608"]
+    },
+    "capital": {
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "saas-enterprise"],
+      "thesis": "Startup/investor data platform building a secondary platform for unlisted shares (issuer-involved trading) and LP fund-investment management; set up a securities subsidiary to enable unlisted-share secondary brokerage, collaborating with Nomura, MUMSS and Mizuho FG."
+    },
+    "track_record": {
+      "portfolio_count": "7,500+ startups and 6,500+ investors on platform",
+      "co_investors": ["Nomura Holdings", "Mitsubishi UFJ Morgan Stanley Securities", "Mizuho Financial Group"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Use the smartround platform; secondary brokerage via its securities subsidiary",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["secondary", "platform", "unlisted-equity"],
+    "summary": {
+      "en": "smartround runs a startup/investor data platform (7,500+ startups, 6,500+ investors) and is building a secondary platform for unlisted shares — establishing a securities subsidiary to broker issuer-involved unlisted-share secondaries, with Nomura, MUMSS and Mizuho FG. Also expanding into debt finance and LP fund-investment management.",
+      "local": "スマートラウンドはスタートアップ/投資家データプラットフォーム（7,500社超・6,500投資家超）を運営し、未上場株式のセカンダリー・プラットフォーム実現に向け証券子会社を設立。発行体関与のもと未上場株式の売買仲介を、野村・三菱UFJモルガン・スタンレー証券・みずほFGと連携して展開。デットやLP投資管理機能も拡充予定。"
+    },
+    "sources": [
+      {
+        "url": "https://jp.smartround.com/corporate/news/posts/rDjY8gJk",
+        "title": "スマートラウンド、未上場株式のセカンダリープラットフォーム実現に向けて子会社を設立",
+        "publisher": "smartround",
+        "accessed": "2026-06-03",
+        "supports": "secondary platform, securities subsidiary",
+        "quote": "未上場株式のセカンダリープラットフォーム実現に向けて子会社を設立"
+      },
+      {
+        "url": "https://note.com/smartround/n/nc9b59f06091a",
+        "title": "スマートラウンドは未上場株式のセカンダリー・プラットフォームを作ります！",
+        "publisher": "smartround (note)",
+        "accessed": "2026-06-03",
+        "supports": "platform scale, secondary intent",
+        "quote": "7,500社以上のスタートアップと6,500以上の個人・機関投資家に利用 … 未上場株式のセカンダリー取引の円滑化"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Platform/marketplace + securities subsidiary rather than a principal secondary fund; founding year not confirmed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "jp-gree-lp-fund",
+    "name": { "en": "GREE LP Fund (Gree Ventures / Gree Capital Management)", "local": "GREE LP Fund（グリーベンチャーズ／グリーキャピタルマネジメント）" },
+    "aka": ["GREE LP Fund JP1号", "GREE LP Fund US I", "Strive"],
+    "type": "vc",
+    "subtypes": ["fund-of-funds"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://gree.vc/",
+    "links": {
+      "other": ["https://gree.vc/fundinvestment", "https://prtimes.jp/main/html/rd/p/000000184.000021973.html", "https://hd.gree.net/jp/ja/business/investment.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "GREE LP Fund JP1号投資事業有限責任組合", "vintage_year": 2022, "size": { "raw": "up to ¥12.0B (120億円)", "usd": null, "currency": "JPY" } },
+        { "name": "GREE LP Fund US I, LP", "vintage_year": 2022, "size": { "raw": "$52.75M (≈$55M)", "usd": 52750000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan", "United States", "Global"],
+      "sector_focus": ["generalist"],
+      "thesis": "GREE's fund-of-funds program investing as an LP into independent venture capital funds across seed/later/overseas. Operated by Gree Ventures with Gree Capital Management as the 100%-owned LP investor."
+    },
+    "track_record": {
+      "co_investors": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["fund-of-funds", "lp-investor", "gree"],
+    "summary": {
+      "en": "GREE's fund-of-funds program: 'GREE LP Fund JP1号' (up to ¥12.0B, July 2022) invests as an LP into independent domestic VC funds across seed/later/overseas, and 'GREE LP Fund US I, LP' (~$52.75M, 2022) targets US VCs. Operated by Gree Ventures, with Gree Capital Management (100% Gree-owned) as the LP investor.",
+      "local": "グリーのファンド・オブ・ファンズ。『GREE LP Fund JP1号』（最大120億円・2022年7月）が国内独立系VCにLP出資（シード・レイター・海外と広範囲）、『GREE LP Fund US I, LP』（約5,275万ドル・2022年）が米国VCを対象。グリーベンチャーズが運用し、グリーキャピタルマネジメント（グリー100%子会社）がLP出資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.tokyogeeks.com/news/20220517_8949/",
+        "title": "グリー、VCファンドに投資する国内VC向け最大120億円と米国VC向け最大5,500万USドルのファンド設立",
+        "publisher": "TOKYO GEEKS",
+        "accessed": "2026-06-03",
+        "supports": "JP fund ¥12.0B and US fund size, FoF nature",
+        "quote": "国内VC向け最大120億円と米国VC向け最大5,500万USドルのファンド設立 … VCファンドに投資する"
+      },
+      {
+        "url": "https://gamebiz.jp/news/377076",
+        "title": "グリー、北米子会社を通じて「GREE LP Fund US I, LP」を組成 ファンド規模は5275万ドル",
+        "publisher": "gamebiz",
+        "accessed": "2026-06-03",
+        "supports": "US FoF final size",
+        "quote": "GREE LP Fund US I, LP … ファンド規模は5275万ドル"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "JP fund is 'up to' ¥12.0B (120億円); a search summary erroneously said 120 billion yen — corrected to ¥12.0B. US fund final ~$52.75M (target ~$55M).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  }
+]

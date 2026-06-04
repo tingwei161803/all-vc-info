@@ -1,0 +1,712 @@
+[
+  {
+    "id": "tw-very-mulan",
+    "name": { "en": "Very Mulan", "local": "非常木蘭" },
+    "aka": ["非常木蘭股份有限公司", "VeryMulan"],
+    "type": "angel-syndicate",
+    "subtypes": ["venture-studio"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.verymulan.com/",
+    "links": {
+      "other": ["https://www.facebook.com/verymulan", "https://www.verymulan.com/about/president"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "minority stake, capped at <=50% of investee capital", "usd_min": null, "usd_max": null },
+      "ownership_target_pct": "<=50%",
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["impact", "consumer", "agritech", "generalist"],
+      "thesis": "A women-empowerment social enterprise founded by Chang Shu-mei that makes seed investments in women-founded/women-led ventures (no sector restriction), recycling any returns back into the fund to support further female founders rather than distributing profits. Described by Standard Chartered as the first VC firm in Taiwan dedicated to supporting female entrepreneurs."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "酸女孩的甜點 (Sour Girl)", "sector": "consumer / food", "outcome": "active" },
+        { "company": "Aergo", "sector": "adaptive mobility / assistive products", "outcome": "active" },
+        { "company": "美好花生 (Lovely Peanut)", "sector": "agritech / organic agriculture", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Chang Shu-mei (張舒眉)", "role": "Founder" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via the Very Mulan platform; combines content/media, mentorship and selective seed investment in women-led ventures.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.verymulan.com/about/cooperate"
+    },
+    "tags": ["women-led", "female-founders", "impact", "social-enterprise", "diversity"],
+    "summary": {
+      "en": "Women-focused impact platform and seed investor founded in 2012 by Chang Shu-mei. Operates as a social enterprise blending storytelling/media, resource matching and minority seed investments (capped at <=50% of investee capital) in women-founded ventures, recycling returns rather than distributing profit.",
+      "local": "2012 年由張舒眉以個人積蓄成立的女力媒合社會企業，結合深度內容、資源媒合與對女性創業者的種子投資（投資上限為對方資本額 50%），所得回饋滾入基金繼續支持下一位女性創業家，被渣打銀行稱為台灣第一家專注支持女性創業家的創投。"
+    },
+    "sources": [
+      {
+        "url": "https://www.verymulan.com/about",
+        "title": "認識我們 - 非常木蘭",
+        "publisher": "Very Mulan",
+        "accessed": "2026-06-03",
+        "supports": "Founding year, founder, social-enterprise structure, investment approach, portfolio examples",
+        "quote": "非常木蘭對任一公司的投資，都以不超過對方50%的資本額為限，因為挹注的目的是支持，而非主導。這些投資所得到的回饋不會進入個人口袋，而是豐厚非常木蘭的資金，繼續尋找下一個值得支持的對象。"
+      },
+      {
+        "url": "https://www.sc.com/en/feature/women-entrepreneurs-taiwan/",
+        "title": "Women in business: why Taiwan is a supportive space for entrepreneurs",
+        "publisher": "Standard Chartered",
+        "accessed": "2026-06-03",
+        "supports": "Characterization as first VC dedicated to female entrepreneurs; founder name",
+        "quote": "Very Mulan is the first venture capital firm in Taiwan dedicated to supporting female entrepreneurs. Very Mulan provides support via seed funding and connecting entrepreneurs with relevant mentors."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founder name appears as both 張舒眉 (verymulan.com) and 張淑梅 (Chang Shu-mei, Standard Chartered romanization); treated as same person. Self-describes primarily as a women-empowerment content platform / social enterprise; investment activity is real but appears small and informal (not a registered VC fund). Portfolio count and check sizes undisclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "tw-impact-hub-taipei",
+    "name": { "en": "Impact Hub Taipei", "local": "社會影響力製造所" },
+    "aka": ["台灣好室有限公司", "Taiwan Good Living Co., Ltd.", "影響力製造所"],
+    "type": "incubator",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://taipei.impacthub.net/",
+    "links": {
+      "other": [
+        "https://si.taiwan.gov.tw/home/org?fid=107",
+        "https://www.youtube.com/ImpactHubTaipei",
+        "http://blab.tw/bcommunity-impacthubtaipei"
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["impact", "climate-energy", "generalist"],
+      "thesis": "The first Impact Hub in the Chinese-speaking world and the only Impact Hub in Asia certified as a B Corp. An Entrepreneur Support Organization (ESO) running impact incubation and acceleration programs for social enterprises, NPOs and impact-driven teams, plus coworking space and corporate sustainability services."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": "50+ teams incubated cumulatively",
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Taipei",
+      "demo_day": true,
+      "perks": [
+        "Impact Incubation program",
+        "Coworking space (Impact Space)",
+        "Impact Communications / sustainability consulting",
+        "Global Impact Hub network access",
+        "Operator of partner programs: KEEP WALKING Fund, MAYB Lab (白蘭媽媽夢想勇敢GO), Standard Chartered Women in Entrepreneurship Award"
+      ],
+      "eligibility": "Social enterprises, NPOs and impact-driven entrepreneurial teams."
+    },
+    "track_record": {
+      "portfolio_count": "50+",
+      "notable_investments": []
+    },
+    "application": {
+      "how_to_apply": "Apply to specific incubation/acceleration cohorts and partner programs announced on the Impact Hub Taipei website.",
+      "accepts_cold_inbound": true,
+      "contact": "https://taipei.impacthub.net/"
+    },
+    "tags": ["impact", "social-innovation", "b-corp", "incubator", "accelerator", "women-led-programs"],
+    "summary": {
+      "en": "Founded 2015 (entity 台灣好室有限公司), Impact Hub Taipei is the first Impact Hub in the Chinese-speaking world and the only B-Corp-certified Impact Hub in Asia. It runs impact incubation/acceleration programs (50+ teams incubated), coworking space, and operates several externally funded impact programs, including the Standard Chartered Women in Entrepreneurship Award.",
+      "local": "2015 年成立（法人為台灣好室有限公司），為華文世界第一個 Impact Hub，也是亞洲唯一通過 B 型企業認證的 Impact Hub。提供影響力孵化／加速計畫（累計孵化逾 50 組團隊）、共享空間與企業永續溝通服務，並承辦渣打女力創業獎等多項影響力計畫。"
+    },
+    "sources": [
+      {
+        "url": "https://taipei.impacthub.net/",
+        "title": "Impact Hub Taipei – 全球最大的社會創新網絡、影響力孵化器",
+        "publisher": "Impact Hub Taipei",
+        "accessed": "2026-06-03",
+        "supports": "Legal entity, B Corp status, programs, 50+ teams incubated, services",
+        "quote": "50+ incubated teams; certified B Corp; runs Impact Incubation, KEEP WALKING Fund, MAYB Lab, 渣打女力創業獎."
+      },
+      {
+        "url": "http://blab.tw/bcommunity-impacthubtaipei",
+        "title": "社會影響力製造所 Impact Hub Taipei — B型企業協會",
+        "publisher": "B Lab Taiwan",
+        "accessed": "2026-06-03",
+        "supports": "B Corp certification; first Impact Hub in Chinese-speaking world",
+        "quote": "Impact Hub Taipei 是亞洲唯一獲得 B 型企業認證的 Impact Hub，也是華文世界第一個 Impact Hub。"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year cited as Aug 2015 by secondary sources; the website's '10 years' framing implies ~2014-2015. Does not take equity / provide direct cash investment from its own balance sheet; funding to startups flows via externally sponsored programs (e.g. Standard Chartered, Diageo KEEP WALKING).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "tw-seinsights-ilab",
+    "name": { "en": "SEInsights iLab Accelerator", "local": "社企流 iLab 育成計畫／加速器" },
+    "aka": ["社企流 iLab", "iLab", "SEInsights iLab"],
+    "type": "accelerator",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://ilab.seinsights.asia/accelerator/",
+    "links": {
+      "other": [
+        "https://www.seinsights.asia/",
+        "https://medium.com/ilab-sei",
+        "https://npo.seinsights.asia/about-us/"
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["impact"],
+      "thesis": "Taiwan's first impact-focused startup accelerator, run by social-innovation media platform SEInsights (社企流). The growth-stage accelerator track (launched 2019) was co-created with B Current / Huoshuei impact investment (活水) — described as Taiwan's first incubation mechanism designed for growth-stage impact enterprises."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": "133 teams incubated cumulatively (over 6 years)",
+      "batches_per_year": 1,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Taipei",
+      "demo_day": true,
+      "perks": [
+        "Growth courses",
+        "Three-to-one mentor guidance",
+        "Quick-win projects",
+        "Resource matching and investor introductions"
+      ],
+      "eligibility": "Accelerator track: impact enterprises with annual revenue above NT$5,000,000 that can demonstrate measurable impact. Incubator track: early-stage social-innovation teams."
+    },
+    "track_record": {
+      "portfolio_count": "133",
+      "notable_investments": []
+    },
+    "application": {
+      "how_to_apply": "Apply during open call windows announced on ilab.seinsights.asia and SEInsights channels.",
+      "accepts_cold_inbound": true,
+      "contact": "https://ilab.seinsights.asia/accelerator/"
+    },
+    "tags": ["impact", "social-enterprise", "accelerator", "incubator", "first-mover"],
+    "summary": {
+      "en": "Launched in 2014 by social-innovation media SEInsights (社企流), iLab is Taiwan's first impact-focused incubation/acceleration program. Over six years it incubated 133 teams that collectively raised more than NT$100 million; its growth-stage accelerator track (2019) was co-created with B Current/Huoshuei (活水) impact investment.",
+      "local": "社企流 iLab 育成計畫於 2014 年啟動，是全台第一個著重「社會影響力」的創業育成／加速器。六年間共支持 133 組團隊、合作團隊累計募資逾 1 億台幣；2019 年的加速器（成長期）由社企流與活水社企投資開發攜手創立，為全台第一個針對成長期影響力企業設計的育成機制。"
+    },
+    "sources": [
+      {
+        "url": "https://www.seinsights.asia/article/6787",
+        "title": "全台第一個著重「社會影響力」的創業加速器：社企流 iLab",
+        "publisher": "SEInsights (社企流)",
+        "accessed": "2026-06-03",
+        "supports": "First impact accelerator; accelerator co-created with 活水; revenue eligibility; program design",
+        "quote": "加速器由社企流與活水社企投資開發攜手首開濫觴，為全台第一個針對成長期影響力企業設計的育成機制… 鎖定年收 500 萬以上、用商業改善社會問題的企業。"
+      },
+      {
+        "url": "https://visionproject.org.tw/story/548",
+        "title": "社企流 iLab 育成新創 6年孵133個團隊",
+        "publisher": "願景工程基金會 / Vision Project",
+        "accessed": "2026-06-03",
+        "supports": "133 teams incubated; NT$100M+ raised; founding context",
+        "quote": "已支持 133 組團隊走過創業的第一哩路… 合作團隊總募集資金超過 1 億台幣。"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "iLab does not invest its own capital / take equity; it provides acceleration and connects teams to capital (the NT$100M+ figure is funds raised by alumni, not deployed by iLab). The growth-stage accelerator partner 活水 is the same group as B Current Impact Investment (already covered separately); iLab itself is a distinct program entity.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "tw-awe-taiwan",
+    "name": { "en": "Academy for Women Entrepreneurs (AWE) Taiwan", "local": "AWE 臺灣女性創業學院" },
+    "aka": ["AWE Taiwan", "臺灣女性創業學院", "女性創業學院"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.ait.org.tw/academy-for-women-entrepreneurs-awe-participant-recruitment/",
+    "links": {
+      "other": [
+        "https://www.facebook.com/AWEinTaiwan/",
+        "https://startup.sme.gov.tw/home/modules/news/detial.php?sId=1731"
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["impact", "generalist"],
+      "thesis": "A U.S. State Department flagship women-entrepreneurship program localized in Taiwan since 2021 by the American Institute in Taiwan (AIT) together with Taiwan's SME and Startup Administration (MOEA) and Meta. Delivers training, mentorship and (since 2023) an accelerator bootcamp focused on funding, market expansion and international engagement for women founders."
+    },
+    "program": {
+      "length_weeks": 20,
+      "cohort_size": "~240 alumnae cumulatively; 37+ mentors",
+      "batches_per_year": 1,
+      "equity_taken_pct": 0,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Taiwan",
+      "demo_day": null,
+      "perks": [
+        "13 online DreamBuilder modules",
+        "Hybrid online + in-person sessions",
+        "Mentorship from senior women entrepreneurs",
+        "Accelerator bootcamp (since 2023) with 1-on-1 mentoring",
+        "International network access via AIT / U.S. State Department"
+      ],
+      "application_url": "https://www.ait.org.tw/academy-for-women-entrepreneurs-awe-participant-recruitment/",
+      "eligibility": "Women founders or aspiring founders in Taiwan, typically with English-communication ability for the international track."
+    },
+    "track_record": {
+      "portfolio_count": "~240 alumnae"
+    },
+    "application": {
+      "how_to_apply": "Annual open recruitment via AIT / SME Startup Administration; 2025 cohort applications ran through 30 April.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.ait.org.tw/"
+    },
+    "tags": ["women-led", "female-founders", "government-program", "accelerator", "diversity", "us-taiwan"],
+    "summary": {
+      "en": "AWE Taiwan is the local edition of the U.S. State Department's Academy for Women Entrepreneurs, run since 2021 by AIT with Taiwan's MOEA SME & Startup Administration and Meta. Over five-month cohorts it trains and mentors women founders (~240 alumnae, 37+ mentors); since 2023 it adds an accelerator bootcamp targeting funding, market expansion and international engagement.",
+      "local": "AWE 臺灣女性創業學院為美國國務院「女性創業學院」在台版本，自 2021 年起由美國在台協會（AIT）攜手經濟部中小及新創企業署與 Meta 共同辦理。五個月課程培訓並輔導女性創業者（累計近 240 位校友、37 位以上業師），2023 年起加入加速器訓練營，協助女性創業家取得資金、拓展市場並接軌國際。"
+    },
+    "sources": [
+      {
+        "url": "https://www.ait.org.tw/academy-for-women-entrepreneurs-awe-participant-recruitment/",
+        "title": "Academy for Women Entrepreneurs (AWE) Participant Recruitment",
+        "publisher": "American Institute in Taiwan (AIT)",
+        "accessed": "2026-06-03",
+        "supports": "Program established 2019 by U.S. State Dept; Taiwan implementation 2021 with MOEA and Meta; alumnae/mentor counts; five-month structure",
+        "quote": "AIT first implemented AWE in Taiwan in 2021 in partnership with Taiwan's MOEA and Meta. AWE Taiwan has gathered nearly 240 excellent female founder alumni and 37+ mentors."
+      },
+      {
+        "url": "https://technews.tw/2022/03/08/the-2nd-academy-for-women-entrepreneurs-in-taiwan/",
+        "title": "AIT、經濟部攜手 Meta，第二屆女性創業學院計畫開始招募",
+        "publisher": "TechNews 科技新報",
+        "accessed": "2026-06-03",
+        "supports": "Partners (AIT, MOEA, Meta); women-founder focus",
+        "quote": "AIT、經濟部攜手 Meta，第二屆女性創業學院計畫開始招募。"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Non-equity, training/mentorship program with an accelerator bootcamp; does not provide direct cash investment. Now also delivered under the SME Administration's 飛雁 women-entrepreneurship umbrella (臺灣女性創業學院).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "tw-women-entrepreneurship-feiyan-program",
+    "name": { "en": "Women Entrepreneurship Program (Flying Goose)", "local": "女性創業飛雁計畫" },
+    "aka": ["飛雁計畫", "Flying Goose Program", "女性創業飛雁"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.sme.gov.tw/women/",
+    "links": {
+      "other": [
+        "https://startup.sme.gov.tw/home/modules/rproject/detail/?sId=4",
+        "https://woman.sysme.org.tw/",
+        "https://competition.sysme.org.tw/"
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["generalist", "impact"],
+      "thesis": "Long-running national women-entrepreneurship program of Taiwan's MOEA SME & Startup Administration. Provides staged support to women founders: free training courses, a 6-month women's accelerator (funding + market expansion), the Women Entrepreneur Awards (女性創業菁英獎), the AWE Taiwan academy, and overseas-market assistance."
+    },
+    "program": {
+      "length_weeks": 26,
+      "cohort_size": null,
+      "batches_per_year": 1,
+      "equity_taken_pct": 0,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Taiwan (nationwide)",
+      "demo_day": null,
+      "perks": [
+        "Free entrepreneurship knowledge & marketing courses",
+        "Women's entrepreneurship salons / forums",
+        "6-month women's accelerator (funding access + market expansion)",
+        "Women Entrepreneur Awards (女性創業菁英獎)",
+        "AWE Taiwan women's academy",
+        "Overseas market / international event support"
+      ],
+      "application_url": "https://www.sme.gov.tw/women/",
+      "eligibility": "Women in Taiwan who are starting or running businesses; specific tracks for early-stage and growth-stage women founders."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "application": {
+      "how_to_apply": "Apply per track via the program website and the contractor (產業競爭力發展中心 / sysme); the 15th Women Entrepreneur Awards and 2026 academy selection were open as of March 2026.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.sme.gov.tw/women/"
+    },
+    "tags": ["women-led", "female-founders", "government-program", "accelerator", "diversity"],
+    "summary": {
+      "en": "The Women Entrepreneurship 'Flying Goose' Program, run by Taiwan's MOEA SME & Startup Administration, is a long-standing national initiative supporting women founders through free courses, a 6-month women's accelerator, the Women Entrepreneur Awards (15th edition by 2026), the AWE academy, and overseas-market support.",
+      "local": "女性創業飛雁計畫由經濟部中小及新創企業署辦理，是長期性的全國女性創業支持計畫，提供創業知能課程、6 個月女性創業加速器（資金取得與市場拓展）、女性創業菁英獎（2026 年已辦至第 15 屆）、AWE 女性創業學院及海外市場拓展協助。"
+    },
+    "sources": [
+      {
+        "url": "https://www.sme.gov.tw/women/",
+        "title": "女性創業飛雁計畫 | Women Entrepreneurship Program",
+        "publisher": "經濟部中小及新創企業署 (MOEA SME & Startup Administration)",
+        "accessed": "2026-06-03",
+        "supports": "Run by MOEA SME Administration; awards (15th edition), academy, course/funding/networking pillars",
+        "quote": "臺灣女性創業學院 – 2026 selection now open; 女性創業菁英獎 – currently accepting applications for the 15th edition; resource categories: courses, consulting, networking, funding, resources."
+      },
+      {
+        "url": "https://startup.sme.gov.tw/home/modules/rproject/detail/?sId=4",
+        "title": "女性創業飛雁計畫 - 新創圓夢網",
+        "publisher": "新創圓夢網 / MOEA",
+        "accessed": "2026-06-03",
+        "supports": "Accelerator format, multi-stage support, women-founder focus",
+        "quote": "以加速器形式徵選國內具發展潛力之女性新創企業… 提供多元配套服務措施。"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year of the umbrella 飛雁 program not pinned to a single year (the Women Entrepreneur Award is at its 15th edition by 2026, implying ~2010s origin). Non-equity government program; funding to founders is via competition/award seed money rather than equity investment. AWE academy (separate entry) is delivered under this umbrella.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "tw-power-of-women-accelerator",
+    "name": { "en": "Power of Women New Female Force Startup Accelerator", "local": "新女力創業加速器計畫" },
+    "aka": ["Power of Women", "新住民女性創業加速器計畫", "PowerOfWomen WRP"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "http://www.powerofwomen.org.tw/",
+    "links": {
+      "other": [
+        "https://www.wrp.org.tw/OnePage.aspx?mid=38&id=139",
+        "https://www.iwomenweb.org.tw/Content_List.aspx?n=DD5B9DCEBE84118D",
+        "https://www.facebook.com/PowerOfWomen.WRP/"
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["impact", "consumer", "generalist"],
+      "thesis": "A women-empowerment startup accelerator run by the Foundation for Women's Rights Promotion and Development (婦女權益促進發展基金會, WRP). Targets economically disadvantaged Taiwanese women and new-immigrant (新住民) women, using a 'training -> consulting -> competition funding' model to strengthen economic self-sufficiency and empowerment."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": 1,
+      "equity_taken_pct": 0,
+      "investment": { "raw": "competition-based grant funding to selected proposals (amount undisclosed)", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Taiwan",
+      "demo_day": true,
+      "perks": [
+        "Entrepreneurship training courses (培力課程)",
+        "Consulting / mentoring (諮詢輔導)",
+        "Business-plan pitch competition with funding (競賽資金補助)",
+        "Cross-domain resource integration"
+      ],
+      "eligibility": "Domestic economically disadvantaged women and new-immigrant women in Taiwan with entrepreneurial potential."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "application": {
+      "how_to_apply": "Apply via the Power of Women / WRP program calls; selected participants progress to the funded pitch competition.",
+      "accepts_cold_inbound": true,
+      "contact": "http://www.powerofwomen.org.tw/"
+    },
+    "tags": ["women-led", "new-immigrant", "underrepresented", "government-program", "accelerator", "diversity", "impact"],
+    "summary": {
+      "en": "Run by the Foundation for Women's Rights Promotion and Development (WRP), this accelerator began in late 2017 as a new-immigrant women's accelerator and was renamed in 2020 to include all Taiwanese women. It uses a training -> consulting -> competition-funding model; a 2022 survey estimated ~80% of participants raised monthly income by ~NT$10,000, totaling ~NT$21.6 million over four years.",
+      "local": "由財團法人婦女權益促進發展基金會辦理，2017 年底開辦（原為「新住民女性創業加速器」，2020 年納入本國女性並更名「新女力創業加速器」）。採「培力課程→諮詢輔導→競賽資金補助」模式，鎖定弱勢與新住民女性；依 111 年調查，約八成參與者每月平均增加約一萬元收入，四年累計約 2,160 萬元。"
+    },
+    "sources": [
+      {
+        "url": "https://www.wrp.org.tw/OnePage.aspx?mid=38&id=139",
+        "title": "新女力創業加速器計畫",
+        "publisher": "財團法人婦女權益促進發展基金會 (WRP)",
+        "accessed": "2026-06-03",
+        "supports": "Operator (WRP), program model, target population",
+        "quote": "原為「新住民女性創業加速器計畫」，於2017年底開啟，並於2020年將台灣女性納入，更名為「新女力創業加速器計畫」。"
+      },
+      {
+        "url": "https://startup.sme.gov.tw/home/modules/rproject/detail/?sId=59",
+        "title": "新女力創業加速器計畫 - 新創圓夢網",
+        "publisher": "新創圓夢網 / MOEA",
+        "accessed": "2026-06-03",
+        "supports": "Competition-based funding model; income-impact figures",
+        "quote": "透過「培力課程-諮詢輔導-競賽資金補助」的執行模式… 八成計畫參與受訪者平均每月增加一萬元的最低推估，四年累計增加2160萬元。"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Government/foundation-funded program; provides competition grant money rather than equity. Specific per-team funding amounts not disclosed in sources.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "tw-standard-chartered-women-in-entrepreneurship",
+    "name": { "en": "Standard Chartered Women in Entrepreneurship Award", "local": "渣打女力創業獎" },
+    "aka": ["WIE Taiwan", "渣打女力創業獎", "Standard Chartered WIE"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://wiegoh.tw/",
+    "links": {
+      "other": [
+        "https://www.cna.com.tw/postwrite/chi/414182",
+        "https://finance.technews.tw/2026/03/04/standard-chartered-womens-entrepreneurship-award"
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["impact", "climate-energy", "generalist"],
+      "thesis": "A corporate-philanthropy women-founder award and acceleration program under Standard Chartered's Futuremakers initiative, delivered with the Garden of Hope Foundation (勵馨基金會) and Impact Hub Taipei. Provides seed/prize funding plus mentorship and bootcamp training to young women founders whose ventures show social impact in social inclusion, innovative technology, or environmental sustainability."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": "10 selected enterprises per edition (3 winners + 7 finalists)",
+      "batches_per_year": 1,
+      "equity_taken_pct": 0,
+      "investment": { "raw": "NT$2,000,000 total prize pool (3rd edition): NT$600,000 / NT$400,000 / NT$300,000 + NT$100,000 x7", "usd": null, "currency": "TWD" },
+      "format": "hybrid",
+      "location": "Taipei",
+      "demo_day": true,
+      "perks": [
+        "Prize / seed funding (NT$2M total pool)",
+        "1-on-1 mentorship with Standard Chartered volunteer mentors",
+        "Modular capacity-building workshops & bootcamp",
+        "Network / resource access"
+      ],
+      "application_url": "https://wiegoh.tw/",
+      "application_cycles": ["Annual; 2026 (4th) edition applications ran 4 Mar - 20 Apr 2026"],
+      "eligibility": "Women founders/co-founders/key managers aged 16-35; business registered 1-8 years (registered Mar 2018-Mar 2025); <=20 employees; demonstrable social impact in social inclusion, innovative technology, or environmental sustainability."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "application": {
+      "how_to_apply": "Apply online via wiegoh.tw during the annual call with a submitted business plan.",
+      "accepts_cold_inbound": true,
+      "contact": "https://wiegoh.tw/"
+    },
+    "tags": ["women-led", "female-founders", "impact", "diversity", "corporate-philanthropy", "climate"],
+    "summary": {
+      "en": "Launched in 2023 (4th edition in 2026), the Standard Chartered Women in Entrepreneurship Award is a corporate-philanthropy program (Futuremakers) delivered with the Garden of Hope Foundation and Impact Hub Taipei. It awards a total NT$2 million prize pool (NT$600K/400K/300K + NT$100K x7) plus mentorship and bootcamp training to young women founders building socially impactful ventures.",
+      "local": "渣打女力創業獎自 2023 年首屆辦理（2026 年為第四屆），是渣打銀行 Futuremakers 公益計畫，與勵馨基金會及 Impact Hub Taipei 共同執行。提供總額新台幣 200 萬元獎金（首獎 60 萬、次獎 40 萬、三獎 30 萬，其餘 7 名各 10 萬）以及一對一業師輔導與訓練營，支持經營具社會影響力事業的年輕女性創業家。"
+    },
+    "sources": [
+      {
+        "url": "https://wiegoh.tw/",
+        "title": "渣打女力創業獎",
+        "publisher": "Standard Chartered Foundation / 渣打基金會",
+        "accessed": "2026-06-03",
+        "supports": "Organizer and partners (Garden of Hope, Impact Hub Taipei); prize amounts; eligibility; first edition 2023",
+        "quote": "Primary Funder: Standard Chartered Foundation; Implementing Partners: Garden of Hope Foundation (勵馨基金會) and Impact Hub Taipei. Total prize pool NT$2 million: 1st NT$600,000, 2nd NT$400,000, 3rd NT$300,000, remaining 7 semifinalists NT$100,000 each. First edition 2023."
+      },
+      {
+        "url": "https://www.cna.com.tw/postwrite/chi/414182",
+        "title": "第3屆渣打女力創業獎得主出爐 渣打鏈結資源與資金推動女性創業生態圈",
+        "publisher": "中央社 CNA",
+        "accessed": "2026-06-03",
+        "supports": "Third-edition winners, prize structure, women-founder ecosystem focus",
+        "quote": "第3屆渣打女力創業獎得主出爐，渣打鏈結資源與資金推動女性創業生態圈。"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Implementing partner cited as 勵馨基金會 (Garden of Hope) on official site; one secondary source mentioned 富邦慈善基金會/Fuyi — official site preferred. Non-equity award/accelerator; provides prize/seed money, not equity investment.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "tw-axiomtek-nycu-esg-accelerator",
+    "name": { "en": "Axiomtek x NYCU ESG Innovation Accelerator", "local": "樺漢-陽明交大 ESG 創新加速器" },
+    "aka": ["ESG創新加速器", "Axiomtek ESG Accelerator", "HwaCom ESG Net-Zero Accelerator"],
+    "type": "accelerator",
+    "subtypes": ["corporate-accelerator"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Hsinchu",
+    "website": "https://www.taiwanarena.tech/program-detail/2026IAPS/",
+    "links": {
+      "other": [
+        "https://www.gvm.com.tw/article/118649",
+        "https://iaps.ord.nycu.edu.tw/"
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Taiwan", "Global"],
+      "sector_focus": ["climate-energy", "ai-ml", "saas-enterprise", "impact"],
+      "thesis": "A corporate-academic ESG / net-zero accelerator created by Axiomtek Group (樺漢科技) and National Yang Ming Chiao Tung University's 'ESG Net-Zero Transformation Innovation Research Center', spanning startup value-add, industry-academia collaboration and talent cultivation. Focus areas include green/smart energy management, ESG, smart manufacturing, smart cities and AI applications, plus net-zero retail solutions."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": 1,
+      "equity_taken_pct": null,
+      "investment": { "raw": "Strategic investment and customer matching for top performers (amount undisclosed)", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Hsinchu / Taipei",
+      "demo_day": null,
+      "perks": [
+        "Market validation fields and global channel resources",
+        "Hardware integration via Axiomtek group",
+        "International supply-chain access (e.g. Walmart, McDonald's connections)",
+        "Access to NYCU research labs",
+        "Strategic investment and customer matching for top teams"
+      ],
+      "application_url": "https://www.taiwanarena.tech/program-detail/2026IAPS/",
+      "application_cycles": ["2026 first cohort application deadline 18 Mar 2026"],
+      "eligibility": "Startups with complete implementation solutions / commercial readiness in ESG, green energy, smart manufacturing, smart cities, AI and net-zero retail."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "application": {
+      "how_to_apply": "Apply via Taiwan Tech Arena (taiwanarena.tech) program call.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.taiwanarena.tech/program-detail/2026IAPS/"
+    },
+    "tags": ["climate", "net-zero", "esg", "corporate-accelerator", "deeptech", "impact"],
+    "summary": {
+      "en": "An ESG / net-zero corporate-academic accelerator launched by Axiomtek Group (樺漢科技) with NYCU's ESG Net-Zero Transformation Innovation Research Center, focused on green energy management, ESG, smart manufacturing/cities, AI and net-zero retail. Offers market-validation fields, global channel and supply-chain access, NYCU lab resources, and strategic investment/customer matching for top teams.",
+      "local": "由樺漢科技集團與國立陽明交通大學「ESG 淨零轉型創新研究中心」合作成立的 ESG／淨零企業加速器，聚焦綠能與智慧能源管理、ESG、智慧製造、智慧城市、AI 應用與淨零智慧零售。提供市場驗證場域、全球通路與供應鏈資源、陽明交大研究實驗室資源，並為表現優異團隊提供策略性投資與客戶媒合。"
+    },
+    "sources": [
+      {
+        "url": "https://www.taiwanarena.tech/program-detail/2026IAPS/",
+        "title": "2026 ESG創新加速器：智慧零售 × 淨零轉型 × 國際鏈結",
+        "publisher": "Taiwan Tech Arena (TTA)",
+        "accessed": "2026-06-03",
+        "supports": "Operators (Axiomtek + NYCU), focus areas, perks, 2026 first cohort, strategic investment for top teams",
+        "quote": "The program is run by Axiomtek Group and National Yang Ming Chiao Tung University's 'ESG Net-Zero Transformation Innovation Research Center'… participants receive 市場驗證場域與全球通路資源… plus strategic investment and customer matching opportunities for top performers. 2026 第一梯次, application deadline 18 Mar 2026."
+      },
+      {
+        "url": "https://www.gvm.com.tw/article/118649",
+        "title": "陽明交大與樺漢科技 群策群力贏向 ESG 淨零創新轉型",
+        "publisher": "遠見雜誌 / GVM",
+        "accessed": "2026-06-03",
+        "supports": "Axiomtek-NYCU ESG net-zero research center; startup value-add, industry-academia, talent pillars",
+        "quote": "陽明交大與樺漢科技集團成立『樺漢-陽明交大 ESG 淨零轉型創新研究中心』，致力於結合 AIoT 和 ESG，在『新創加值、產學合作、人才培育』三大領域，促進陽明交大與企業共創永續轉型生態系。"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Earlier secondary search mis-attributed the accelerator to Compal/仁寶; the operator is Axiomtek 樺漢科技 with NYCU. 'ESG創新加速器' first ran 2025 (2025 call documented) with a 2026 cohort; treated founded_year 2025. Equity/investment terms and cohort size undisclosed; strategic investment for top teams mentioned but unquantified.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "tw-cip-indigenous-million-startup-program",
+    "name": { "en": "CIP Indigenous Million-Dollar Startup Program", "local": "原住民族百萬創業計畫" },
+    "aka": ["原住民族經濟永續發展計畫 - 百萬創業", "百萬創業計畫", "CIP Indigenous Entrepreneurship Program"],
+    "type": "government-program",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "New Taipei City",
+    "website": "https://startup.cip.gov.tw/",
+    "links": {
+      "other": [
+        "https://startup.cip.gov.tw/news/contents/27",
+        "https://startup.sme.gov.tw/home/modules/funding/detail/?sId=186",
+        "https://www.cip.gov.tw/zh-tw/site-faq/data-list/0C3331F0EBD318C21BC71C92D52CB6D7-info.html?cumid=B54B5C7E1E0F99407B2EFDF44011B790"
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["impact", "consumer", "agritech", "generalist"],
+      "thesis": "The Council of Indigenous Peoples' (原住民族委員會) economic-sustainability program supporting Indigenous founders. Its flagship 'Million Startup' competition provides startup funding plus six months of financial and business-model diagnostic guidance and entrepreneurship training; sister tracks fund Indigenous enterprise innovation R&D."
+    },
+    "program": {
+      "length_weeks": 26,
+      "cohort_size": "20 teams selected (8th edition)",
+      "batches_per_year": 1,
+      "equity_taken_pct": 0,
+      "investment": { "raw": "up to NT$1,000,000 per team (Million Startup); innovation R&D track up to NT$5,000,000 / NT$7,500,000", "usd": null, "currency": "TWD" },
+      "format": "in-person",
+      "location": "Taiwan",
+      "demo_day": true,
+      "perks": [
+        "Up to NT$1,000,000 startup funding (Million Startup track)",
+        "6 months financial & business-model diagnostic guidance",
+        "Entrepreneurship training",
+        "Innovation R&D subsidies (separate track)",
+        "Business diagnosis / consulting"
+      ],
+      "application_url": "https://startup.cip.gov.tw/",
+      "eligibility": "Indigenous individuals and Indigenous-owned enterprises in Taiwan."
+    },
+    "track_record": {
+      "portfolio_count": "20 teams per Million Startup cohort (8th edition)",
+      "notable_investments": []
+    },
+    "application": {
+      "how_to_apply": "Apply via the CIP entrepreneurship program portal (startup.cip.gov.tw) for the relevant track (Million Startup competition, innovation R&D, business diagnosis).",
+      "accepts_cold_inbound": true,
+      "contact": "https://startup.cip.gov.tw/"
+    },
+    "tags": ["indigenous", "underrepresented", "government-program", "impact", "diversity", "incubator"],
+    "summary": {
+      "en": "A Council of Indigenous Peoples program supporting Indigenous founders in Taiwan. Its 'Million Startup' competition gives up to NT$1 million plus six months of diagnostic guidance and training to ~20 selected teams per edition (8th edition completed); separate tracks subsidize Indigenous enterprise innovation R&D up to NT$5-7.5 million.",
+      "local": "原住民族委員會的原住民族經濟永續發展計畫，支持原住民創業者。旗艦「百萬創業」競賽提供每隊最高新台幣 100 萬元創業金，外加 6 個月財務與商業模式診斷輔導及創業培訓，每屆甄選約 20 組團隊（已辦至第 8 屆）；另有原住民企業創新研發補助（最高 500 萬／750 萬元）等子計畫。"
+    },
+    "sources": [
+      {
+        "url": "https://startup.cip.gov.tw/news/contents/27",
+        "title": "原民會第8屆「百萬創業計畫」創業競賽20組團隊出爐",
+        "publisher": "原住民族委員會 (Council of Indigenous Peoples)",
+        "accessed": "2026-06-03",
+        "supports": "8th edition, 20 teams, up to NT$1M funding, 6 months guidance",
+        "quote": "第8屆… 選 20 組團隊… 受最高新台幣 100 萬元創業金，加上 6 個月專業財務與商業模式診斷輔導及創業培訓。"
+      },
+      {
+        "url": "https://startup.sme.gov.tw/home/modules/funding/detail/?sId=186",
+        "title": "原住民企業補助最高750萬_企業創新創業輔導計畫－輔導創新研發",
+        "publisher": "新創圓夢網 / 原民會",
+        "accessed": "2026-06-03",
+        "supports": "Innovation R&D subsidy amounts (up to NT$5M / NT$7.5M)",
+        "quote": "原住民企業補助最高750萬… 輔導創新研發。"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Government grant/competition program for Indigenous founders; provides non-dilutive funding, not equity. Program-origin year not pinned (8th edition by 2026 implies ~2010s start). Subsidy ceilings vary by track (NT$500K-NT$3M for enterprise tracks per 2026 guidelines; up to NT$5M/NT$7.5M for innovation R&D).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  }
+]

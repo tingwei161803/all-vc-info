@@ -1,0 +1,1447 @@
+[
+  {
+    "id": "us-essence-vc",
+    "name": { "en": "Essence Venture Capital" },
+    "aka": ["Essence VC"],
+    "type": "micro-vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Seattle",
+    "website": "https://www.essencevc.fund/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/essence-venture-capital",
+      "crunchbase": "https://www.cbinsights.com/investor/essence-vc-fund",
+      "other": ["https://www.essencevc.fund/companies"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": "$41M", "usd": 41000000, "currency": "USD" },
+      "funds": [
+        { "name": "Essence VC Fund IV", "vintage_year": 2025, "size": { "raw": "$41M", "usd": 41000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$10K–$10M", "usd_min": 10000, "usd_max": 10000000 },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "generalist"],
+      "thesis": "Solo-GP fund that invests in developer tools and data infrastructure companies 'before they exist', backing deeply technical engineer-founders and helping them build narrative, community, and engineering teams."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Timothy Chen", "role": "Managing Partner / Solo GP" }
+    ],
+    "application": {
+      "how_to_apply": "Pre-seed for founders with repos at GitHub alpha stage; seed for teams with working demos and initial traction.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.essencevc.fund/"
+    },
+    "tags": ["developer-tools", "data-infrastructure", "open-source", "solo-gp", "infrastructure"],
+    "summary": {
+      "en": "Seattle-based solo-GP micro-VC led by Timothy Chen (ex-SVP Engineering at Cosmos, co-founder of Hyperpilot acquired by Cloudera), specializing in pre-seed/seed developer tools and data/infrastructure software. Closed a $41M Fund IV in 2025."
+    },
+    "sources": [
+      {
+        "url": "https://www.geekwire.com/2026/tim-chens-essence-vc-firm-is-raising-a-new-fund-to-back-more-infrastructure-startups/",
+        "title": "Tim Chen's Essence VC firm is raising a new fund to back more infrastructure startups",
+        "publisher": "GeekWire",
+        "accessed": "2026-06-03",
+        "supports": "Founder, focus on developer tools/data infrastructure, solo GP, Seattle base",
+        "quote": "Essence VC is a specialized infrastructure-focused venture capital firm led by solo general partner Timothy Chen."
+      },
+      {
+        "url": "https://www.openvc.app/fund/Essence%20VC",
+        "title": "Essence VC | Investor Profile",
+        "publisher": "OpenVC",
+        "accessed": "2026-06-03",
+        "supports": "Stage, check size, fund IV size",
+        "quote": "Fund IV raised $41M in September 2025 ... pre-seed funding of $10K - $1M ... seed funding of $10K - $10M."
+      },
+      {
+        "url": "https://www.essencevc.fund/",
+        "title": "Essence Venture Capital",
+        "publisher": "Essence VC",
+        "accessed": "2026-06-03",
+        "supports": "Thesis, infrastructure-before-they-exist positioning",
+        "quote": "We invest in infrastructure companies before they exist."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund IV size ($41M, 2025) reported by GeekWire/OpenVC; AUM and portfolio count not disclosed and left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "us-heavybit",
+    "name": { "en": "Heavybit" },
+    "aka": ["Heavybit Industries"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.heavybit.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/heavybit-industries",
+      "other": ["https://pitchbook.com/profiles/investor/60765-31"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": "$180M+ (combined Fund V + Opportunity Fund II)", "usd": 180000000, "currency": "USD" },
+      "funds": [
+        { "name": "Heavybit Holdings IV", "vintage_year": 2022, "size": { "raw": "$80M", "usd": 80000000, "currency": "USD" } },
+        { "name": "Fund V + Opportunity Fund II (combined)", "vintage_year": 2025, "size": { "raw": "over $180M combined", "usd": 180000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$500K–$5M", "usd_min": 500000, "usd_max": 5000000 },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "cybersecurity", "generalist"],
+      "thesis": "Leading investor in enterprise infrastructure; backs developer-first products and tools that redefine how software is built, deployed, and scaled, leading early rounds and providing a hands-on platform from day zero."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "PagerDuty", "sector": "devops", "outcome": "IPO" },
+        { "company": "CircleCI", "sector": "devops", "outcome": "active" },
+        { "company": "Netlify", "sector": "developer-tools", "outcome": "active" },
+        { "company": "Snyk", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "LaunchDarkly", "sector": "developer-tools", "outcome": "active" },
+        { "company": "Tailscale", "sector": "infrastructure", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via firm website; leads pre-seed and seed rounds.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.heavybit.com/"
+    },
+    "tags": ["developer-tools", "infrastructure", "devsecops", "enterprise-software", "open-source"],
+    "summary": {
+      "en": "San Francisco VC (since 2013) focused on early-stage enterprise infrastructure and developer-first products. Closed a combined $180M+ across its fifth flagship pre-seed/seed fund and second opportunity fund in July 2025; portfolio includes PagerDuty, CircleCI, Netlify, Snyk and LaunchDarkly."
+    },
+    "sources": [
+      {
+        "url": "https://www.businesswire.com/news/home/20220906005188/en/Heavybit-Raises-$80M-Fund-From-Dev-Tools-Unicorn-Founders-and-LPs-to-Support-the-$900B-Enterprise-Software-Boom",
+        "title": "Heavybit Raises $80M Fund From Dev Tools Unicorn Founders and LPs",
+        "publisher": "Business Wire",
+        "accessed": "2026-06-03",
+        "supports": "Fund IV $80M, dev-tools focus",
+        "quote": "Heavybit Raises $80M Fund From Dev Tools Unicorn Founders and LPs to Support the $900B Enterprise Software Boom"
+      },
+      {
+        "url": "https://www.heavybit.com/",
+        "title": "Heavybit is the leading investor in enterprise infrastructure",
+        "publisher": "Heavybit",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2013, $180M combined 2025 funds, $500K–$5M checks, portfolio",
+        "quote": "Since 2013, Heavybit has continuously launched and scaled startups ... two new funds ... combined total of over $180 million ... initial checks ranging from $500,000 to $5 million."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund IV ($80M) confirmed by Business Wire; $180M+ combined 2025 funds reported via firm site/search. Portfolio count not given; left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "us-amplify-partners",
+    "name": { "en": "Amplify Partners" },
+    "aka": [],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Menlo Park",
+    "offices": [
+      { "country": "United States", "city": "Menlo Park" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "website": "https://www.amplifypartners.com/",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/amplify-partners",
+      "other": ["https://www.amplifypartners.com/team"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": "$400M (Fund 6 core)", "usd": 400000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund 6 (core)", "vintage_year": null, "size": { "raw": "$400M", "usd": 400000000, "currency": "USD" } },
+        { "name": "Fund 6 Select", "vintage_year": null, "size": { "raw": "$300M", "usd": 300000000, "currency": "USD" } },
+        { "name": "Amplify Bio", "vintage_year": null, "size": { "raw": "$200M", "usd": 200000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$1M–$10M (~$3M typical seed)", "usd_min": 1000000, "usd_max": 10000000 },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "deeptech", "biotech"],
+      "thesis": "Backs technical founders from the earliest stages building the next generation of applications, models, tools, and infrastructure, supported by an operator 'Build Team'."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Datadog", "sector": "observability", "outcome": "IPO" },
+        { "company": "Fastly", "sector": "infrastructure", "outcome": "IPO" },
+        { "company": "Temporal", "sector": "developer-tools", "outcome": "active" },
+        { "company": "Modal", "sector": "ai-infrastructure", "outcome": "active" },
+        { "company": "Chainguard", "sector": "cybersecurity", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Sunil Dhaliwal", "role": "General Partner" },
+      { "name": "Mike Dauber", "role": "General Partner" },
+      { "name": "Lenny Pruss", "role": "General Partner" },
+      { "name": "Sarah Catanzaro", "role": "General Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Reach out via firm website; first-check investor for technical founders.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.amplifypartners.com/"
+    },
+    "tags": ["developer-tools", "infrastructure", "ai-ml", "technical-founders", "digital-biology"],
+    "summary": {
+      "en": "Menlo Park/SF early-stage firm (founded 2012) backing technical founders in infrastructure, developer tools, AI and digital biology; early backer of Datadog, Fastly, Temporal, Modal and Chainguard. Announced Fund 6 ($400M core), Fund 6 Select ($300M) and Amplify Bio ($200M)."
+    },
+    "sources": [
+      {
+        "url": "https://www.amplifypartners.com/blog-posts/fund-6-announcement",
+        "title": "Announcing $900M in new capital, our first digital biology fund, and our new look",
+        "publisher": "Amplify Partners",
+        "accessed": "2026-06-03",
+        "supports": "Fund 6 ($400M), Fund 6 Select ($300M), Amplify Bio ($200M)",
+        "quote": "Fund 6, a $400M core fund for first checks to technical founders, Fund 6 Select, a $300M fund ... and Amplify Bio, a $200M fund."
+      },
+      {
+        "url": "https://www.amplifypartners.com/about-amplify",
+        "title": "About Us | Amplify Partners",
+        "publisher": "Amplify Partners",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2012, focus on infrastructure/dev tools/AI, check sizes, portfolio",
+        "quote": "founded in 2012 ... focusing on sectors such as infrastructure, developer tools, artificial intelligence (AI), and digital biology ... check sizes ranging from $1 million to $10 million."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund 6 sizes from official announcement. AUM and portfolio count not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "us-rally-ventures",
+    "name": { "en": "Rally Ventures" },
+    "aka": [],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Menlo Park",
+    "offices": [
+      { "country": "United States", "city": "Menlo Park" },
+      { "country": "United States", "city": "Minneapolis" }
+    ],
+    "website": "https://www.rallyventures.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/rallyventures",
+      "crunchbase": "https://www.crunchbase.com/organization/rally-ventures",
+      "other": ["https://www.rallyventures.com/investments/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": "$240M (Fund V)", "usd": 240000000, "currency": "USD" },
+      "funds": [
+        { "name": "Rally Fund V", "vintage_year": null, "size": { "raw": "$240M", "usd": 240000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "cybersecurity", "fintech"],
+      "thesis": "Early-stage business technology firm investing in developer tools & infrastructure (APIs, DevOps, observability, cloud-native tooling) and enterprise software, supported by a network of 100+ Rally Tech Partners."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Ben Fried", "role": "Partner (former VP/CIO at Google)" },
+      { "name": "Tom Peterson", "role": "Partner (founder of El Dorado Ventures)" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via firm website.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.rallyventures.com/"
+    },
+    "tags": ["developer-tools", "infrastructure", "enterprise-software", "devops", "observability"],
+    "summary": {
+      "en": "Early-stage enterprise technology VC (founded 2012) with offices in Menlo Park and Minneapolis, investing in developer tools & infrastructure (APIs, DevOps, observability, cloud-native) and enterprise SaaS. Closed a $240M Fund V."
+    },
+    "sources": [
+      {
+        "url": "https://www.rallyventures.com/",
+        "title": "Rally Ventures",
+        "publisher": "Rally Ventures",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2012, focus areas, Menlo Park + Minneapolis",
+        "quote": "Rally Ventures was founded in 2012 ... Developer Tools & Infrastructure - APIs, DevOps, observability, cloud-native tooling."
+      },
+      {
+        "url": "https://f4.fund/firms/rally-ventures",
+        "title": "Rally Ventures — Investment Thesis & Preferences",
+        "publisher": "f4.fund",
+        "accessed": "2026-06-03",
+        "supports": "Fund V $240M, focus on AI/ML, cybersecurity, fintech, SaaS+",
+        "quote": "Rally Fund V, a $240 million fund ... focus on AI/ML, Cybersecurity, Fintech and SaaS+."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund V size from f4.fund/search; check size not disclosed (null). Portfolio count null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "us-lombardstreet-ventures",
+    "name": { "en": "Lombardstreet Ventures" },
+    "aka": ["LombardStreet Ventures"],
+    "type": "micro-vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Menlo Park",
+    "website": "https://lombardstreet.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/lombardstreetvc",
+      "crunchbase": "https://www.crunchbase.com/organization/lombardstreet-io",
+      "other": ["https://www.openvc.app/fund/Lombardstreet%20Ventures"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": "USD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "cybersecurity", "generalist"],
+      "thesis": "Pre-seed/seed micro-VC backing US (preferably Silicon Valley) founders in B2B SaaS, dev tools, infrastructure software, open source, low-code tools, and security; API-first companies a particular interest."
+    },
+    "track_record": {
+      "portfolio_count": "20+",
+      "notable_investments": [
+        { "company": "Kong", "sector": "api-infrastructure", "outcome": "unicorn" },
+        { "company": "Turing", "sector": "developer-platform", "outcome": "active" },
+        { "company": "Calm", "sector": "consumer", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Massimo Sgrelli", "role": "Co-founder / Managing Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via firm website; prefers founders with some US-market traction.",
+      "accepts_cold_inbound": true,
+      "contact": "https://lombardstreet.vc/"
+    },
+    "tags": ["developer-tools", "infrastructure", "open-source", "api-first", "pre-seed"],
+    "summary": {
+      "en": "Menlo Park pre-seed/seed micro-VC (founded 2016) focused on B2B SaaS, dev tools, infrastructure software, open source, low-code and security, with a stated interest in API-first companies. Portfolio includes Kong, Turing and Calm."
+    },
+    "sources": [
+      {
+        "url": "https://lombardstreet.vc/",
+        "title": "Lombardstreet Ventures – Pre-Seed Venture Capital Firm",
+        "publisher": "Lombardstreet Ventures",
+        "accessed": "2026-06-03",
+        "supports": "Pre-seed focus, dev tools / infra / open source / security sectors",
+        "quote": "excited about the potential for growth and innovation in B2B SaaS, dev tools, infrastructure software, open source, low code tools, and security."
+      },
+      {
+        "url": "https://www.openvc.app/fund/Lombardstreet%20Ventures",
+        "title": "Lombardstreet Ventures | Investor Profile",
+        "publisher": "OpenVC",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2016/2017, Menlo Park, portfolio 20+ with unicorns",
+        "quote": "founded in 2016 ... The portfolio includes over 20 startups ... including nine unicorns ... Calm, Turing, and Kong."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size/check size not publicly disclosed (null). Founding year cited as 2016 (firm) and 2017 (co-founding event); used 2016.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "us-tola-capital",
+    "name": { "en": "Tola Capital" },
+    "aka": [],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Seattle",
+    "website": "https://tolacapital.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/tola-capital",
+      "crunchbase": "https://www.crunchbase.com/organization/tola-capital",
+      "other": ["https://aum13f.com/firm/tola-capital-management-llc"]
+    },
+    "capital": {
+      "aum": { "raw": "~$688M", "usd": 688000000, "currency": "USD" },
+      "current_fund": { "raw": "$230M (Fund III)", "usd": 230000000, "currency": "USD" },
+      "funds": [
+        { "name": "Tola Fund III", "vintage_year": 2023, "size": { "raw": "$230M", "usd": 230000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "cybersecurity"],
+      "thesis": "Backs enterprise software companies enabled by new data and cloud platforms, focusing on AI/ML tooling, domain-specific foundation models, AI SaaS, governance and security."
+    },
+    "track_record": {
+      "portfolio_count": "20+",
+      "notable_investments": [
+        { "company": "Pulumi", "sector": "developer-tools", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Sheila Gulati", "role": "Managing Director (ex-Microsoft)" },
+      { "name": "Stacey Giard", "role": "Managing Director (ex-Microsoft)" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via firm website.",
+      "accepts_cold_inbound": null,
+      "contact": "https://tolacapital.com/"
+    },
+    "tags": ["enterprise-software", "data", "cloud", "ai-ml", "developer-tools"],
+    "summary": {
+      "en": "Seattle enterprise-software VC (founded 2010 by ex-Microsoft managers Sheila Gulati and Stacey Giard) backing companies enabled by new data and cloud platforms. Raised a $230M Fund III in 2023; ~$688M AUM. Portfolio includes infrastructure-as-code firm Pulumi."
+    },
+    "sources": [
+      {
+        "url": "https://www.geekwire.com/2023/tola-capital-raises-230m-for-third-fund-to-help-seattle-area-firm-back-enterprise-software-startups/",
+        "title": "Tola Capital raises $230M for third fund",
+        "publisher": "GeekWire",
+        "accessed": "2026-06-03",
+        "supports": "Fund III $230M, founders, Pulumi, founded 2010",
+        "quote": "Founded by former Microsoft managers Sheila Gulati and Stacey Giard, Tola has invested in more than 20 companies to date, including Seattle-based Pulumi."
+      },
+      {
+        "url": "https://aum13f.com/firm/tola-capital-management-llc",
+        "title": "TOLA Capital Management LLC | AUM 13F",
+        "publisher": "AUM 13F",
+        "accessed": "2026-06-03",
+        "supports": "AUM ~$688M",
+        "quote": "Tola Capital has around $688m assets under management."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM ~$688M and Fund III $230M sourced. Check size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "us-oss-capital",
+    "name": { "en": "OSS Capital" },
+    "aka": ["Open Source Software Capital"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://oss.capital/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/oss-capital-l-p",
+      "other": ["https://oss.capital/portfolio/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": "USD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$0.1M–$6M", "usd_min": 100000, "usd_max": 6000000 },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Global", "United States"],
+      "sector_focus": ["saas-enterprise", "generalist"],
+      "thesis": "First and only early-stage VC exclusively dedicated to backing commercial open source software (COSS) startup founders globally, advised by 50+ COSS founders; believes future COSS leaders can scale with 10–30% of the historical capital."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Joseph Jacks", "role": "Founder / General Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Reach out via firm website; focused exclusively on commercial open-source founders.",
+      "accepts_cold_inbound": true,
+      "contact": "https://oss.capital/"
+    },
+    "tags": ["open-source", "coss", "developer-tools", "infrastructure", "commercial-open-source"],
+    "summary": {
+      "en": "San Francisco early-stage VC founded in 2018 by Joseph Jacks, the first fund exclusively dedicated to commercial open source software (COSS) startups, writing $0.1M–$6M checks at pre-seed/seed and advised by 50+ COSS founders behind GitLab, Elastic and Red Hat."
+    },
+    "sources": [
+      {
+        "url": "https://oss.capital/",
+        "title": "OSS Capital – Open source software eats everything",
+        "publisher": "OSS Capital",
+        "accessed": "2026-06-03",
+        "supports": "First COSS-exclusive VC since 2018, advisor base, capital efficiency thesis",
+        "quote": "the first and only early-stage VC exclusively dedicated to backing leading COSS (commercial open source) startup founders on a global basis since 2018."
+      },
+      {
+        "url": "https://github.com/octolens/awesome-oss-investors",
+        "title": "awesome-oss-investors",
+        "publisher": "GitHub (octolens)",
+        "accessed": "2026-06-03",
+        "supports": "Stage and check size ($0.1-6M, pre-seed/seed)",
+        "quote": "OSS Capital ... \"Pre-Seed/Seed $0.1-6M\" dedicated to open-source ventures."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founder and COSS-exclusive focus from official site; fund size/AUM not disclosed publicly (null). Check size from awesome-oss-investors list.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "us-open-core-ventures",
+    "name": { "en": "Open Core Ventures" },
+    "aka": ["OCV"],
+    "type": "venture-studio",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.opencoreventures.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/open-core-ventures",
+      "other": ["https://www.opencoreventures.com/about"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": "USD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "~$2M initial funding per company", "usd_min": 2000000, "usd_max": 2000000 },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["saas-enterprise", "generalist", "cybersecurity"],
+      "thesis": "Venture studio that starts new commercial open-source companies: identifies open-source projects with traction, recruits founders/contributors, and provides ~$2M initial funding plus operational support until a seed round."
+    },
+    "track_record": {
+      "portfolio_count": "30+",
+      "notable_investments": [
+        { "company": "FlowFuse", "sector": "developer-tools", "outcome": "active" },
+        { "company": "Fleet", "sector": "device-management", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Sid Sijbrandij", "role": "Founder (GitLab CEO)" }
+    ],
+    "application": {
+      "how_to_apply": "OCV starts companies and recruits founders rather than investing in existing companies; contact via website.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.opencoreventures.com/"
+    },
+    "tags": ["open-source", "venture-studio", "commercial-open-source", "company-builder", "developer-tools"],
+    "summary": {
+      "en": "San Francisco venture studio founded by GitLab CEO Sid Sijbrandij that builds new commercial open-source companies around open-source projects with traction, providing ~$2M initial funding per company. Has launched 30+ companies including FlowFuse and Fleet."
+    },
+    "sources": [
+      {
+        "url": "https://www.opencoreventures.com/about",
+        "title": "About | Open Core Ventures",
+        "publisher": "Open Core Ventures",
+        "accessed": "2026-06-03",
+        "supports": "Studio model, $2M per company, founder Sid Sijbrandij",
+        "quote": "starting commercial open-source software companies ... provides initial funding of $2 million per company ... until the company secures a seed round."
+      },
+      {
+        "url": "https://superscout.co/investor/open-core-ventures",
+        "title": "Open Core Ventures: The Early Stage Founder's Guide",
+        "publisher": "Superscout",
+        "accessed": "2026-06-03",
+        "supports": "30+ companies launched, FlowFuse/Fleet",
+        "quote": "OCV has facilitated the launch of over 30 companies ... including Fleet and FlowFuse."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year ~2021 (inferred from launch reporting). Classified as venture-studio because it builds rather than invests. AUM/fund size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "us-abstraction-capital",
+    "name": { "en": "Abstraction Capital" },
+    "aka": [],
+    "type": "micro-vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": null,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Kansas City",
+    "website": "https://abstraction.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/abstraction-capital",
+      "crunchbase": "https://www.crunchbase.com/organization/abstraction-capital",
+      "other": ["https://www.openvc.app/fund/Abstraction%20Capital"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": "USD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$0.1M–$4M", "usd_min": 100000, "usd_max": 4000000 },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "generalist"],
+      "thesis": "Early-stage capital for developers: backs technical founders building developer tools, cloud infrastructure, and workflow automation that free developers from non-core tasks."
+    },
+    "track_record": {
+      "portfolio_count": "33",
+      "notable_investments": [
+        { "company": "Buf", "sector": "developer-tools", "outcome": "active" },
+        { "company": "Octane", "sector": "monetization-infrastructure", "outcome": "acquired" }
+      ],
+      "exits": [
+        { "company": "Octane", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Taylor Clauson", "role": "Founder" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via firm website; focused on developer-tool and cloud-infrastructure founders.",
+      "accepts_cold_inbound": true,
+      "contact": "https://abstraction.vc/"
+    },
+    "tags": ["developer-tools", "cloud-infrastructure", "pre-seed", "workflow-automation"],
+    "summary": {
+      "en": "Kansas City pre-seed/seed micro-VC led by Taylor Clauson, providing early-stage capital for developers building developer tools and cloud infrastructure. Has made ~33 investments including Buf and Octane (acquired by Stripe)."
+    },
+    "sources": [
+      {
+        "url": "https://abstraction.vc/",
+        "title": "Early stage capital for developers | Abstraction Capital",
+        "publisher": "Abstraction Capital",
+        "accessed": "2026-06-03",
+        "supports": "Developer-tools/cloud-infra focus, pre-seed/seed",
+        "quote": "focuses on supporting technical founders building tools for developers and technical users ... developer tool and cloud infrastructure space."
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/abstraction-capital",
+        "title": "Abstraction Capital - Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-03",
+        "supports": "33 investments, Buf, Octane acquired by Stripe, Kansas City HQ",
+        "quote": "Abstraction Capital has made 33 investments ... Octane, a platform for monetizing usage-based software, which was acquired by Stripe."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year not clearly stated (null). HQ confirmed as Kansas City (not Austin). Fund size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "us-theory-ventures",
+    "name": { "en": "Theory Ventures" },
+    "aka": [],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://theoryvc.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/theory-ventures",
+      "other": ["https://tomtunguz.com/theory/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": "$450M (Fund II)", "usd": 450000000, "currency": "USD" },
+      "funds": [
+        { "name": "Theory Ventures Fund I", "vintage_year": 2023, "size": { "raw": "$230M", "usd": 230000000, "currency": "USD" } },
+        { "name": "Theory Ventures Fund II", "vintage_year": 2024, "size": { "raw": "$450M", "usd": 450000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "web3-crypto"],
+      "thesis": "Theory-driven firm investing in data-driven startups; 'The Decade of Data' thesis centers on data movement, transformation, analysis and observability software underpinning data applications and AI."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Allium", "sector": "data-infrastructure", "outcome": "active" },
+        { "company": "Tobiko", "sector": "data-operations", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Tomasz Tunguz", "role": "Founder / General Partner (ex-Redpoint)" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via firm website.",
+      "accepts_cold_inbound": null,
+      "contact": "https://theoryvc.com/"
+    },
+    "tags": ["data-infrastructure", "data", "ai-ml", "enterprise-software", "observability"],
+    "summary": {
+      "en": "San Francisco firm founded in 2023 by Tomasz Tunguz (ex-Redpoint, early backer of Looker/Monte Carlo/Dremio/Hex/MotherDuck), focused on data, data infrastructure and AI. Raised a $230M Fund I and a $450M Fund II."
+    },
+    "sources": [
+      {
+        "url": "https://fortune.com/2024/11/01/tomasz-tunguz-theory-ventures-second-fund/",
+        "title": "Tomasz Tunguz's Theory Ventures has raised a $450 million second fund",
+        "publisher": "Fortune",
+        "accessed": "2026-06-03",
+        "supports": "Fund II $450M, Fund I $230M, founded 2023, data focus",
+        "quote": "The firm was started in 2023 by Tomasz Tunguz ... The second fund of $450 million is a major step up from the first fund of $230 million."
+      },
+      {
+        "url": "https://tomtunguz.com/theory/",
+        "title": "Theory | Tomasz Tunguz",
+        "publisher": "Tomasz Tunguz",
+        "accessed": "2026-06-03",
+        "supports": "Decade of Data thesis, data infrastructure focus",
+        "quote": "data movement, transformation, analysis, & observability software underpinning data applications."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund sizes from Fortune. Check size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "us-root-ventures",
+    "name": { "en": "Root Ventures" },
+    "aka": [],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://root.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/root-ventures",
+      "other": ["https://www.vcsheet.com/fund/root-ventures"]
+    },
+    "capital": {
+      "aum": { "raw": "$325M", "usd": 325000000, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": "USD" },
+      "funds": [
+        { "name": "Root Ventures Fund II", "vintage_year": 2018, "size": { "raw": "$76.7M", "usd": 76700000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["deeptech", "robotics", "hardware-semiconductor", "saas-enterprise"],
+      "thesis": "Deep-tech seed fund of practicing engineers and hardware hackers that explicitly underwrites 'engineering risk'; invests in developer tools, robotics/automation, hardware/semiconductors, manufacturing and AI infrastructure."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Zed", "sector": "developer-tools", "outcome": "active" },
+        { "company": "Okteto", "sector": "developer-tools", "outcome": "active" },
+        { "company": "Meroxa", "sector": "data-infrastructure", "outcome": "active" },
+        { "company": "Particle", "sector": "iot-hardware", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Avidan Ross", "role": "Founder / General Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via firm website; deep-tech seed investor.",
+      "accepts_cold_inbound": true,
+      "contact": "https://root.vc/"
+    },
+    "tags": ["deep-tech", "developer-tools", "robotics", "hardware", "engineering-risk", "data-infrastructure"],
+    "summary": {
+      "en": "San Francisco deep-tech seed fund (founded 2015 by Avidan Ross) staffed by practicing engineers that underwrites engineering risk. ~$325M across funds. Developer-tools portfolio includes Zed, Okteto and data-infra firm Meroxa, alongside robotics and hardware bets."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2018/07/26/root-ventures-a-young-sf-firm-focused-on-hard-tech-just-closed-a-much-bigger-second-fund-with-76-7-million/",
+        "title": "Root Ventures, a young SF firm focused on 'hard tech', closed a second fund with $76.7 million",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-03",
+        "supports": "Fund II $76.7M, hard-tech focus, SF",
+        "quote": "Root Ventures, a young SF firm focused on 'hard tech,' just closed a much bigger second fund with $76.7 million."
+      },
+      {
+        "url": "https://root.vc/",
+        "title": "Root Ventures",
+        "publisher": "Root Ventures",
+        "accessed": "2026-06-03",
+        "supports": "Deep-tech seed, engineering risk, dev-tools/robotics portfolio, ~$325M",
+        "quote": "a $325M seed stage venture capital firm based in San Francisco ... developer tools (Zed, Okteto, Meroxa)."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund II $76.7M (2018) from TechCrunch; ~$325M aggregate from firm/vcsheet. Founding year ~2015.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "us-decibel-partners",
+    "name": { "en": "Decibel Partners" },
+    "aka": ["Decibel VC"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Palo Alto",
+    "website": "https://www.decibel.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/decibelvc",
+      "crunchbase": "https://www.crunchbase.com/organization/decibel-vc",
+      "other": ["https://www.decibel.vc/companies"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": "USD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "cybersecurity", "ai-ml", "healthtech"],
+      "thesis": "Invests in essential infrastructure software for developers, data engineers and cybersecurity teams; operates independently while maintaining a strategic partnership with Cisco for enterprise scale and customer access."
+    },
+    "track_record": {
+      "portfolio_count": "50+",
+      "notable_investments": [
+        { "company": "Censys", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Botpress", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Push Security", "sector": "cybersecurity", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": ["Cisco"]
+    },
+    "people": [
+      { "name": "Jon Sakoda", "role": "Founding Partner (ex-NEA)" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via firm website.",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.decibel.vc/"
+    },
+    "tags": ["developer-tools", "infrastructure", "cybersecurity", "data-engineering", "cisco-affiliated"],
+    "summary": {
+      "en": "Palo Alto early-stage VC (founded 2015) investing in essential infrastructure software for developers, data engineers and cybersecurity teams, with a strategic partnership with Cisco. 59 investments across 50+ companies including Censys, Botpress and Push Security."
+    },
+    "sources": [
+      {
+        "url": "https://www.decibel.vc/",
+        "title": "Decibel VC",
+        "publisher": "Decibel Partners",
+        "accessed": "2026-06-03",
+        "supports": "Infrastructure software for developers/data engineers/security, Cisco partnership, founded 2015",
+        "quote": "invests in essential infrastructure software for developers, data engineers, and cybersecurity teams ... Founded in 2015 ... a major tech partner—Cisco."
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/decibel-vc",
+        "title": "Decibel Partners - Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-03",
+        "supports": "59 investments / 50+ companies, Censys/Botpress/Push Security",
+        "quote": "made 59 investments across more than 50 portfolio companies ... Notable portfolio companies include Botpress, Censys, and Push Security."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size not disclosed (null). Cisco-affiliated independent fund.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "us-costanoa-ventures",
+    "name": { "en": "Costanoa Ventures" },
+    "aka": ["Costanoa Venture Capital"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Palo Alto",
+    "website": "https://www.costanoavc.com/",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/costanoa-venture-capital",
+      "other": ["https://www.costanoa.vc/"]
+    },
+    "capital": {
+      "aum": { "raw": "$2B+", "usd": 2000000000, "currency": "USD" },
+      "current_fund": { "raw": "$275M (Fund V)", "usd": 275000000, "currency": "USD" },
+      "funds": [
+        { "name": "Costanoa Fund V", "vintage_year": 2024, "size": { "raw": "$275M", "usd": 275000000, "currency": "USD" } },
+        { "name": "Opportunity Fund III", "vintage_year": 2024, "size": { "raw": "$119M", "usd": 119000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "cybersecurity", "fintech"],
+      "thesis": "Seed and Series A firm backing applied AI, data and developer infrastructure, cybersecurity, fintech and national security; offers a BuilderOps program to accelerate product-market fit."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Greg Sands", "role": "Founder / Managing Partner (ex-Sutter Hill, first PM at Netscape)" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via firm website.",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.costanoavc.com/"
+    },
+    "tags": ["data-infrastructure", "developer-tools", "ai-ml", "cybersecurity", "fintech", "enterprise-software"],
+    "summary": {
+      "en": "Palo Alto seed/Series A firm (founded 2012 by Greg Sands) backing applied AI, data and developer infrastructure, cybersecurity and fintech. Closed a $275M Fund V and $119M Opportunity Fund III in 2024; AUM exceeds $2B."
+    },
+    "sources": [
+      {
+        "url": "https://www.globenewswire.com/news-release/2024/09/18/2948355/0/en/Costanoa-Ventures-Closes-Oversubscribed-Early-Stage-Fund-Expands-Investments-in-AI-Enabled-B2B-Tech.html",
+        "title": "Costanoa Ventures Closes Oversubscribed Early-Stage Fund",
+        "publisher": "GlobeNewswire",
+        "accessed": "2026-06-03",
+        "supports": "Fund V $275M, Opportunity Fund III $119M, AUM $2B+",
+        "quote": "Costanoa Ventures closed Costanoa Fund V, a $275 million early-stage fund, and Opportunity Fund III, a $119 million fund ... total assets under management now exceed $2 billion."
+      },
+      {
+        "url": "https://www.costanoavc.com/about/",
+        "title": "About Costanoa Ventures",
+        "publisher": "Costanoa Ventures",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2012, data and developer infrastructure focus",
+        "quote": "founded in 2012 ... applied AI, data and developer infrastructure, fintech, cyber and national security."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund V/Opportunity Fund III sizes and $2B+ AUM from GlobeNewswire release.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "us-work-bench",
+    "name": { "en": "Work-Bench" },
+    "aka": ["Work-Bench Ventures"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York",
+    "website": "https://www.work-bench.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/work-bench",
+      "other": ["https://workbench.substack.com/p/announcing-work-bench-fund-iv-160m"]
+    },
+    "capital": {
+      "aum": { "raw": "$375M", "usd": 375000000, "currency": "USD" },
+      "current_fund": { "raw": "$160M (Fund IV)", "usd": 160000000, "currency": "USD" },
+      "funds": [
+        { "name": "Work-Bench Fund II", "vintage_year": 2018, "size": { "raw": "$47M", "usd": 47000000, "currency": "USD" } },
+        { "name": "Work-Bench Fund III", "vintage_year": null, "size": { "raw": "$100M", "usd": 100000000, "currency": "USD" } },
+        { "name": "Work-Bench Fund IV", "vintage_year": 2025, "size": { "raw": "$160M", "usd": 160000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": "$2M–$6M", "usd_min": 2000000, "usd_max": 6000000 },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "cybersecurity"],
+      "thesis": "NYC enterprise seed firm that leads seed rounds in AI/ML, cloud-native infrastructure / dev tools, cybersecurity and application-layer enterprise software, helping founders sell into the Fortune 500."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Jonathan Lehr", "role": "Co-founder / General Partner" },
+      { "name": "Jessica Lin", "role": "Co-founder / General Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via firm website; leads enterprise seed rounds.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.work-bench.com/"
+    },
+    "tags": ["enterprise-software", "cloud-native", "developer-tools", "infrastructure", "nyc"],
+    "summary": {
+      "en": "New York enterprise seed VC (founded 2013 by Jonathan Lehr and Jessica Lin) leading $2M–$6M seed rounds in AI/ML, cloud-native infrastructure / dev tools and cybersecurity. Closed a $160M Fund IV in 2025; $375M AUM."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2025/05/13/new-york-focused-vc-work-bench-has-raised-a-fresh-160m/",
+        "title": "New York-focused VC Work-Bench has raised a fresh $160M",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-03",
+        "supports": "Fund IV $160M, NYC enterprise seed",
+        "quote": "New York-focused VC Work-Bench has raised a fresh $160M."
+      },
+      {
+        "url": "https://fortune.com/2025/05/12/work-bench-fourth-fund-jessica-lin-jonathan-lehr-new-york-venture-capital-tech/",
+        "title": "Work-Bench's new $160 million venture fund doubles down on New York enterprise tech investing",
+        "publisher": "Fortune",
+        "accessed": "2026-06-03",
+        "supports": "Founders, founded 2013, $375M AUM, $2-6M seed checks, cloud-native / dev tools focus",
+        "quote": "founded in 2013 by Jonathan Lehr and Jessica Lin ... leads $3M - $6M Seed rounds ... Cloud Native Infrastructure / Dev Tools ... $375M AUM."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund sizes and AUM from TechCrunch/Fortune. Check size cited as both $2M–$4M and $3M–$6M across sources; used $2M–$6M range.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "us-wing-venture-capital",
+    "name": { "en": "Wing Venture Capital" },
+    "aka": ["Wing VC"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Palo Alto",
+    "website": "https://www.wing.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/wing-venture-capital",
+      "crunchbase": "https://www.crunchbase.com/organization/wing-venture-capital",
+      "other": ["https://www.wing.vc/about"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": "USD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "cybersecurity"],
+      "thesis": "Invests exclusively in early-stage B2B companies building the 'Modern Enterprise' on the AI-first stack, with deep interest in enterprise security and infrastructure, data science, dev tools, go-to-market and creative tooling; backs pre-product, pre-revenue teams."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Contact via firm website.",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.wing.vc/"
+    },
+    "tags": ["enterprise-software", "infrastructure", "dev-tools", "ai-first", "data-science"],
+    "summary": {
+      "en": "Palo Alto early-stage B2B firm (founded 2013) focused on the AI-first 'Modern Enterprise' stack, with deep interest in enterprise security and infrastructure, data science and developer tools; invests at pre-product, pre-revenue stages."
+    },
+    "sources": [
+      {
+        "url": "https://www.wing.vc/about",
+        "title": "About Us | Wing Venture Capital",
+        "publisher": "Wing Venture Capital",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2013, AI-first enterprise infrastructure/dev tools focus",
+        "quote": "founded in 2013 ... deep interest in enterprise security and infrastructure, data science, go-to-market tooling, dev tools, and creative tooling."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund size/AUM and check size not disclosed publicly (null). HQ Palo Alto per firm materials.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "us-basis-set-ventures",
+    "name": { "en": "Basis Set Ventures" },
+    "aka": ["Basis Set"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.basisset.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/basis-set-ventures",
+      "other": ["https://www.basisset.com/basis-set-faq"]
+    },
+    "capital": {
+      "aum": { "raw": "$250M+", "usd": 250000000, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": "USD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$250K–$3M ($2M–$3M seed; $250K–$500K pre-seed)", "usd_min": 250000, "usd_max": 3000000 },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "robotics"],
+      "thesis": "AI-native seed/Series A investor backing technical founders from low-level scalable infrastructure up through vertical applications across four themes: scaling infrastructure, intelligent collaboration, automated workflows and autonomous machines."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Scale AI", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Tigris", "sector": "data-infrastructure", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Lan Xuezhao", "role": "Founder / Managing Partner" },
+      { "name": "Chang Xu", "role": "Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via firm website.",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.basisset.com/"
+    },
+    "tags": ["ai-ml", "infrastructure", "data-infrastructure", "automation", "developer-tools"],
+    "summary": {
+      "en": "San Francisco AI-native seed/Series A firm (founded 2017 by Lan Xuezhao) with $250M+ AUM, investing from scalable infrastructure up through vertical AI applications. Uses proprietary ML for founder selection; early investor in Scale AI."
+    },
+    "sources": [
+      {
+        "url": "https://www.basisset.com/basis-set-faq",
+        "title": "Basis Set FAQ",
+        "publisher": "Basis Set Ventures",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2017, $250M+ AUM, check sizes, four themes",
+        "quote": "founded in 2017 ... $250M+ under management ... typically invests $2M-$3M for seed rounds, with pre-seed investments around $250K-$500K ... scaling infrastructure, intelligent collaboration, automated workflows, and autonomous machines."
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/basis-set-ventures",
+        "title": "Basis Set Ventures - Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-03",
+        "supports": "San Francisco base, AI focus, founder",
+        "quote": "Basis Set Ventures is an early stage venture capital fund based in San Francisco, California."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM $250M+ and check sizes from firm FAQ. Individual fund sizes not separately disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "us-leonis-capital",
+    "name": { "en": "Leonis Capital" },
+    "aka": [],
+    "type": "micro-vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Francisco",
+    "website": "https://www.leoniscap.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/leonis-capital-vc",
+      "other": ["https://www.leoniscap.com/companies"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": "$25M (Fund II)", "usd": 25000000, "currency": "USD" },
+      "funds": [
+        { "name": "Leonis Capital Fund II", "vintage_year": 2025, "size": { "raw": "$25M", "usd": 25000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "North America"],
+      "sector_focus": ["ai-ml", "robotics", "deeptech"],
+      "thesis": "Research-driven firm that is the 'first partner for technical founders', partnering at the earliest stages with AI-native companies across AI, developer tools, robotics and manufacturing; supported by research fellows from Stanford, MIT, Berkeley and Harvard."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Jenny Xiao", "role": "Partner (ex-OpenAI researcher, PhD Columbia)" },
+      { "name": "Jay Zhao", "role": "Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via firm website; first-check partner for technical founders.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.leoniscap.com/"
+    },
+    "tags": ["ai-ml", "developer-tools", "robotics", "research-driven", "technical-founders"],
+    "summary": {
+      "en": "San Francisco research-driven micro-VC (since 2021) that backs AI-native technical founders across AI, developer tools, robotics and manufacturing. Closed a fully subscribed $25M Fund II in September 2025, with research fellows from top universities."
+    },
+    "sources": [
+      {
+        "url": "https://www.newswire.com/news/leonis-capital-closes-25m-fund-ii-to-back-ai-builders-22637949",
+        "title": "Leonis Capital Closes $25M Fund II to Back AI Builders",
+        "publisher": "Newswire",
+        "accessed": "2026-06-03",
+        "supports": "Fund II $25M (2025), research-driven, founders, fellows",
+        "quote": "Leonis Capital announced its fully subscribed Fund II of $25M ... a research-driven venture firm based in San Francisco ... Since 2021, it has partnered with technical founders at the earliest stages."
+      },
+      {
+        "url": "https://www.leoniscap.com/",
+        "title": "Leonis Capital | The First Partner for Technical Founders",
+        "publisher": "Leonis Capital",
+        "accessed": "2026-06-03",
+        "supports": "Positioning, sector focus (AI, dev tools, robotics)",
+        "quote": "The First Partner for Technical Founders"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund II $25M and founding (2021) from Newswire. Check size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "us-unusual-ventures",
+    "name": { "en": "Unusual Ventures" },
+    "aka": [],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Menlo Park",
+    "offices": [
+      { "country": "United States", "city": "Menlo Park" },
+      { "country": "United States", "city": "San Francisco" },
+      { "country": "United States", "city": "Boston" }
+    ],
+    "website": "https://www.unusual.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/unusualventures",
+      "other": ["https://www.unusual.vc/portfolio/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": "$485M (Fund III)", "usd": 485000000, "currency": "USD" },
+      "funds": [
+        { "name": "Unusual Ventures Fund III", "vintage_year": 2022, "size": { "raw": "$485M", "usd": 485000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["saas-enterprise", "cybersecurity", "ai-ml"],
+      "thesis": "Seed-stage firm focused exclusively on enterprise software—especially infrastructure, security and vertical SaaS powered by AI/ML—investing in a small, curated portfolio with embedded operational/GTM support via the Unusual Academy."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Harness", "sector": "developer-tools", "outcome": "active" },
+        { "company": "Arctic Wolf", "sector": "cybersecurity", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "John Vrionis", "role": "Co-founder / Partner" },
+      { "name": "Jyoti Bansal", "role": "Co-founder (founder of AppDynamics/Harness)" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via firm website; leads seed rounds with embedded GTM support.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.unusual.vc/"
+    },
+    "tags": ["enterprise-software", "infrastructure", "developer-tools", "cybersecurity", "gtm-support"],
+    "summary": {
+      "en": "Menlo Park seed-stage firm (founded 2018 by John Vrionis and Jyoti Bansal) focused exclusively on enterprise infrastructure, security and vertical SaaS, with embedded operational/GTM support via Unusual Academy. Closed a $485M Fund III in 2022; backed Harness and Arctic Wolf."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Unusual_Ventures",
+        "title": "Unusual Ventures - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2018, founders, offices, Fund III $485M, enterprise infra focus",
+        "quote": "founded in 2018 by John Vrionis and Jyoti Bansal ... In May 2022, Unusual Ventures closed its third fund with $485 million in capital commitments."
+      },
+      {
+        "url": "https://www.unusual.vc/",
+        "title": "Unusual Ventures | Venture Capital Firm",
+        "publisher": "Unusual Ventures",
+        "accessed": "2026-06-03",
+        "supports": "Enterprise infrastructure/security focus, GTM model",
+        "quote": "focuses exclusively on enterprise software startups, particularly those innovating in infrastructure, security, and vertical SaaS."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund III $485M (2022) from Wikipedia citing reporting; check size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "us-commit-fund",
+    "name": { "en": ">commit", "local": "commit" },
+    "aka": ["commit.fund", "commit VC"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": null,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "New York",
+    "offices": [
+      { "country": "United States", "city": "New York" },
+      { "country": "France", "city": "Paris" }
+    ],
+    "website": "https://commit.fund/",
+    "links": {
+      "other": ["https://github.com/commitvc"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": "USD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "up to $1.5M", "usd_min": null, "usd_max": 1500000 },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Europe"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "cybersecurity"],
+      "thesis": "Transatlantic (Europe–US) VC focused on commercial open-source startups in infrastructure and developer tools, AI/ML, data platforms, cybersecurity/sysadmin tooling and business applications; uses proprietary tooling tracking open-source adoption signals."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Olivier Huez", "role": "Partner" },
+      { "name": "Max Corbani", "role": "Partner" },
+      { "name": "Abel Samot", "role": "Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via firm website; focused on commercial open-source founders building in Europe and scaling in the US.",
+      "accepts_cold_inbound": true,
+      "contact": "https://commit.fund/"
+    },
+    "tags": ["open-source", "coss", "developer-tools", "infrastructure", "transatlantic", "data-platforms"],
+    "summary": {
+      "en": "Transatlantic (Europe–US) early-stage VC, part of the Red River West family, focused exclusively on commercial open-source startups in infrastructure/dev tools, AI/ML, data platforms and cybersecurity. Writes checks up to $1.5M at pre-seed/seed."
+    },
+    "sources": [
+      {
+        "url": "https://commit.fund/",
+        "title": ">commit — Venture Capital for Commercial Open Source Startups",
+        "publisher": ">commit",
+        "accessed": "2026-06-03",
+        "supports": "COSS focus, Europe-US geography, sectors, partners, $1.5M checks, Red River West",
+        "quote": "An early-stage venture capital fund specializing in commercial open-source startups, part of the Red River West family ... checks up to $1.5M ... between Europe and the US."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Transatlantic fund (Red River West family) with US (NYC) and European (Paris) presence; included as US-active per its stated US go-to-market focus. Founding year and fund size not disclosed (null). HQ city inferred from US office; lower confidence on precise US HQ.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  }
+]

@@ -1,0 +1,923 @@
+[
+  {
+    "id": "kr-seoul-techno-holdings",
+    "name": { "en": "Seoul Techno Holdings", "local": "서울대학교기술지주" },
+    "aka": ["SNU Holdings", "서울대기술지주", "Seoul National University Technology Holdings", "STH"],
+    "type": "accelerator",
+    "subtypes": ["vc", "incubator"],
+    "status": "active",
+    "founded_year": 2008,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.snuholdings.com",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/서울대학교-기술지주",
+      "other": ["https://thevc.kr/seoultechnoholdings", "https://startup.snu.ac.kr/front/support/investment"]
+    },
+    "capital": {
+      "aum": { "raw": "approx. 1.1 trillion KRW across 12 funds", "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Seoul National University STH Gwanak S-Valley Fund", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "KRW" } },
+        { "name": "Seoul National University STH IP Startup Fund", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "KRW" } },
+        { "name": "Ewha-Life Mission Venture Fund", "vintage_year": 2024, "size": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "avg ~460M KRW (range 20M–3.45B KRW)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist", "ai-ml", "biotech", "healthtech", "fintech", "hardware-semiconductor"],
+      "thesis": "Seoul National University's sole startup investment company, commercializing university technology by taking patents as in-kind capital and providing seed/early-stage investment plus incubation to spin-offs and SNU-linked founders."
+    },
+    "track_record": {
+      "portfolio_count": 147,
+      "notable_investments": [
+        { "company": "Rebellions", "sector": "ai-ml / semiconductor", "outcome": "active (AI chip)" },
+        { "company": "TravelWallet", "sector": "fintech", "outcome": "active" },
+        { "company": "LucentBlock", "sector": "fintech", "outcome": "active" },
+        { "company": "Awesome Ray", "sector": "deeptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Mook Seung-hwan (목승환)", "role": "Representative / CEO (former; later Director of Startup & Venture Innovation, Ministry of SMEs and Startups)", "linkedin": "" }
+    ],
+    "team_size": 15,
+    "application": {
+      "how_to_apply": "Via SNU startup support portal and STH direct contact; sources spin-offs from SNU research and SNU-linked founders.",
+      "accepts_cold_inbound": true,
+      "contact": "startup.snu.ac.kr"
+    },
+    "tags": ["university-holding-company", "기술지주", "seoul-national-university", "technology-commercialization", "tips-operator"],
+    "summary": {
+      "en": "Seoul Techno Holdings (SNU Holdings) is Seoul National University's technology holding company and most active university-affiliated investor, founded in 2008. It runs ~12 funds totaling roughly 1.1 trillion KRW and has backed 140+ companies including AI-chip maker Rebellions and fintech TravelWallet, several of which now exceed 100B KRW valuation.",
+      "local": "서울대학교기술지주(서울대기술지주)는 2008년 설립된 서울대학교 기술지주회사로, 약 12개 펀드·총 1.1조원 규모를 운용하며 147개사에 투자한 국내 최대 대학기술지주 투자사다. 리벨리온, 트래블월렛 등 포트폴리오를 보유한다."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/seoultechnoholdings",
+        "title": "서울대학교기술지주(기술지주회사) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founded year, hq, portfolio count, funds/AUM, stages, sector focus, CEO, team size",
+        "quote": "Founded October 30, 2008; Total Portfolio Companies: 147; Active Funds: 12; Total AUM: Approximately 1.1 trillion won; CEO: Mook Seung-hwan; Current Employees: 15 (as of April 2026)"
+      },
+      {
+        "url": "https://www.hankyung.com/article/2021030492241",
+        "title": "서울대기술지주, 벤처펀드 200억 첫 조성",
+        "publisher": "Hankyung",
+        "accessed": "2026-06-03",
+        "supports": "fund formation history",
+        "quote": "서울대기술지주, 벤처펀드 200억 첫 조성"
+      },
+      {
+        "url": "https://startup.snu.ac.kr/front/support/investment",
+        "title": "서울대학교 기술지주회사 투자지원 체계",
+        "publisher": "Seoul National University Startup Support",
+        "accessed": "2026-06-03",
+        "supports": "SNU affiliation, investment support role",
+        "quote": "서울대학교 기술지주회사 투자지원 체계 구축"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Portfolio count varies by source (147 on THE VC profile, 155 on portfolio listing page) and over time; AUM ~1.1T KRW reported by THE VC. USD conversions left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "kr-ku-holdings",
+    "name": { "en": "Korea University Technology Holdings", "local": "고려대학교기술지주" },
+    "aka": ["KU Holdings", "고려대기술지주", "Korea University Holdings"],
+    "type": "accelerator",
+    "subtypes": ["vc", "incubator"],
+    "status": "active",
+    "founded_year": 2009,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.kuholdings.co.kr",
+    "links": {
+      "other": ["https://thevc.kr/kuholdings", "https://www.cbinsights.com/investor/korea-university-holdings"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Dream 1st KU-DSC Green Investment University Fund (드림 제1호 KU-DSC 그린투자 대학펀드)", "vintage_year": 2022, "size": { "raw": "100억원 (10 billion KRW)", "usd": null, "currency": "KRW" } },
+        { "name": "고려대 딥사이언스 딥테크 벤처투자조합 제1호", "vintage_year": 2023, "size": { "raw": null, "usd": null, "currency": "KRW" } },
+        { "name": "고려대-포스코 기술혁신 스케일업 벤처투자조합 제1호", "vintage_year": 2022, "size": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "avg ~254M KRW (range 80M–857M KRW)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["biotech", "healthtech", "deeptech", "climate-energy", "generalist"],
+      "thesis": "Korea University's technology holding company (largest capital base among Korean university holdings at founding); commercializes university IP via subsidiaries, runs TIPS-linked seed investment and deep-science/deep-tech funds, with a bio-health consortium across the metropolitan and regional ecosystems."
+    },
+    "track_record": {
+      "portfolio_count": 99,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Woo Sang-hyun (우상현)", "role": "Representative / CEO", "linkedin": "" }
+    ],
+    "team_size": 11,
+    "application": {
+      "how_to_apply": "Via KU Startup portal and KU Holdings TIPS-linked programs; sources Korea University spin-offs and campus founders.",
+      "accepts_cold_inbound": true,
+      "contact": "www.kuholdings.co.kr"
+    },
+    "tags": ["university-holding-company", "기술지주", "korea-university", "tips-operator", "deep-science"],
+    "summary": {
+      "en": "Korea University Technology Holdings (KU Holdings), founded 2009 with the largest capital base among Korean university holdings, has invested in ~99 companies and runs funds including the 10B KRW KU-DSC Green University Fund and a deep-science/deep-tech fund. It anchors a bio-health startup consortium with Korea University Medical Center.",
+      "local": "고려대학교기술지주(KU Holdings)는 2009년 국내 대학기술지주 중 최대 자본금으로 설립되어 약 99개사에 투자했으며, 100억원 규모 KU-DSC 그린투자 대학펀드와 딥사이언스 딥테크 벤처투자조합 등을 운용한다."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/kuholdings",
+        "title": "고려대학교기술지주(기술지주회사) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founded year, hq, portfolio count, funds, stages, sector focus, CEO, team size",
+        "quote": "Founded September 25, 2009; Total Portfolio Companies: 99; Total Funds: 7; CEO: Woo Sang-hyun; Employee Count: 11 as of April 2026; Investment Stages: Primarily Seed (87 deals) and Series A (6 deals)"
+      },
+      {
+        "url": "https://www.kath.or.kr/press/?bmode=view&idx=12395350",
+        "title": "고려대 기술지주 - 100억 원 규모의 KU대학펀드 본격 운용",
+        "publisher": "Korean Technology Holding Company Association (KATH)",
+        "accessed": "2026-06-03",
+        "supports": "KU University Fund name, size, launch date, partners",
+        "quote": "Dream 1st KU-DSC Green Investment University Fund, 100억원 total scale, launched June 29 2022; targets youth startups and green SMEs; partners include Seoul City, IBK, DSC Investment, Korea University."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Portfolio count differs by source (75 on portfolio page, 99 on company profile); fund size reported as 100억원 (10B KRW), not 100B. USD left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "kr-hyu-holdings",
+    "name": { "en": "Hanyang University Technology Holdings", "local": "한양대학교기술지주" },
+    "aka": ["HYU Holdings", "한양대 기술지주회사"],
+    "type": "accelerator",
+    "subtypes": ["vc", "incubator"],
+    "status": "active",
+    "founded_year": 2008,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.hyuholdings.com",
+    "links": {
+      "other": ["https://thevc.kr/hyuholdings", "https://www.hanyang.ac.kr/web/www/holdings"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Hanyang University Sprint Venture Investment Combination No.1", "vintage_year": 2025, "size": { "raw": "40 billion KRW", "usd": null, "currency": "KRW" } },
+        { "name": "Hanyang University Blue Lion Venture Investment Combination", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "KRW" } },
+        { "name": "Hanyang University Startup Engine Individual Investment Combination", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "avg ~247M KRW (range 80M–680M KRW)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["ai-ml", "biotech", "healthtech", "saas-enterprise", "generalist"],
+      "thesis": "Korea's first university-based technology holding company (est. 2008). Acts as a global startup accelerator commercializing Hanyang technologies, running TIPS, angel funds, education funds and incubating programs across its Seoul campus and ERICA campus arm."
+    },
+    "track_record": {
+      "portfolio_count": 43,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Kim Kyung-won", "role": "Representative / CEO", "linkedin": "" }
+    ],
+    "team_size": 5,
+    "application": {
+      "how_to_apply": "Via Hanyang University startup support unit and HYU Holdings accelerator/TIPS programs.",
+      "accepts_cold_inbound": true,
+      "contact": "startup.hanyang.ac.kr"
+    },
+    "tags": ["university-holding-company", "기술지주", "hanyang-university", "first-university-holding", "tips-operator", "accelerator"],
+    "summary": {
+      "en": "Hanyang University Technology Holdings (HYU Holdings), established 2008 as Korea's first university-based technology holding company, operates as a startup accelerator with TIPS, angel and education funds. It has invested in ~43 companies and in 2025 formed a 40B KRW Sprint venture fund; a separate ERICA-campus holding (HYU ERICA Holdings) extends its reach.",
+      "local": "한양대학교기술지주(HYU Holdings)는 2008년 설립된 국내 최초의 대학 기술지주회사로, TIPS·엔젤·교육 펀드를 운용하는 액셀러레이터다. 약 43개사에 투자했고 2025년 400억원 규모 스프린트 벤처투자조합을 결성했다."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/hyuholdings",
+        "title": "한양대학교기술지주회사(기술지주회사) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founded year, hq, portfolio count, funds and sizes, stages, sector focus, CEO, team size",
+        "quote": "Founded September 5, 2008; Portfolio Companies: 43; Hanyang University Sprint Venture Investment Combination 1 (40 billion won, established Sept 2025); CEO: Kim Kyung-won; Current Staff: 5 employees (as of April 2026)"
+      },
+      {
+        "url": "http://www.hyuholdings.com/eng/sub01/sub01_0101.php",
+        "title": "HYU Holdings - About / first university-based holding company",
+        "publisher": "HYU Holdings",
+        "accessed": "2026-06-03",
+        "supports": "first university-based holding company, accelerator role, TIPS/angel/education funds",
+        "quote": "HYU Holdings, the first university-based holding company in Korea, plays a key role as a global start-up accelerator; runs TIPS, angel funds, education funds and venture incubating programs."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Often cited as Korea's first university technology holding company (Sept 2008), slightly before SNU's (Oct 2008). HYU ERICA Holdings is a related but distinct entity. USD left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "kr-kaist-venture-investment-holdings",
+    "name": { "en": "KAIST Venture Investment Holdings", "local": "카이스트청년창업투자지주" },
+    "aka": ["KVI", "KAIST Ventures", "카이스트벤처스", "KAIST Youth Startup Investment Holdings"],
+    "type": "accelerator",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://kaistventures.com",
+    "links": {
+      "linkedin": "https://kr.linkedin.com/company/kaist-venture-capital",
+      "other": ["https://thevc.kr/kaistventureinvestmentholdings", "https://www.rocketpunch.com/en/companies/kaistventureinvestmentholdings"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "KAIST-Misk Double Impact Fund", "vintage_year": 2024, "size": { "raw": null, "usd": null, "currency": "KRW" } },
+        { "name": "KAIST Technology Startup Boost Investment", "vintage_year": 2023, "size": { "raw": null, "usd": null, "currency": "KRW" } },
+        { "name": "KAIST Youth Startup Boost Investment", "vintage_year": 2022, "size": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "avg ~287M KRW (range 10M–1B KRW)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["ai-ml", "deeptech", "biotech", "healthtech", "hardware-semiconductor", "impact"],
+      "thesis": "100%-KAIST-owned technology-based impact investor and the country's only youth-specialized TIPS operator. Backs technology ventures and social ventures from KAIST and the youth-startup ecosystem; subsidiary KAIST Ventures runs a 2B KRW VC vehicle."
+    },
+    "track_record": {
+      "portfolio_count": 53,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Jung Hoe-hoon (정회훈)", "role": "CEO", "linkedin": "" },
+      { "name": "Ahn Jun-hyun (안준현)", "role": "Senior Investment Director", "linkedin": "" }
+    ],
+    "team_size": 7,
+    "application": {
+      "how_to_apply": "Via KAIST Startup (창업원) and the youth-specialized TIPS program; sources KAIST-linked and youth-founded deep-tech / social ventures.",
+      "accepts_cold_inbound": true,
+      "contact": "kaistventures.com"
+    },
+    "tags": ["university-holding-company", "기술지주", "kaist", "tips-operator", "impact-investing", "youth-startup"],
+    "summary": {
+      "en": "KAIST Venture Investment Holdings (KVI), founded 2014 and wholly owned by KAIST, is a technology-based impact investor and Korea's only youth-specialized TIPS operator. It has backed ~53 companies (AI-heavy) via five funds including the KAIST-Misk Double Impact Fund; subsidiary KAIST Ventures runs a 2B KRW VC.",
+      "local": "카이스트청년창업투자지주(KVI)는 KAIST가 100% 출자해 2014년 설립한 기술기반 임팩트 투자사이자 국내 유일의 청년 특화 TIPS 운영사다. 5개 펀드로 약 53개사(AI 중심)에 투자했고, 자회사 카이스트벤처스가 자본금 20억원 VC를 운용한다."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/kaistventureinvestmentholdings",
+        "title": "카이스트청년창업투자지주(기술지주회사) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founded date, hq, portfolio count, funds, stages, sector focus, CEO, team size",
+        "quote": "Established October 31, 2014; Total portfolio: 53 companies; Average investment: approximately 287 million won; range 10 million to 1 billion won; 5 funds; CEO: Jung Hoe-hoon; 7 staff members (as of April 2026)"
+      },
+      {
+        "url": "http://kaistventures.com/",
+        "title": "카이스트청년창업투자지주 | kvi",
+        "publisher": "KAIST Venture Investment Holdings",
+        "accessed": "2026-06-03",
+        "supports": "100% KAIST ownership, impact investing, youth-specialized TIPS operator",
+        "quote": "KAIST 100% 출자로 설립된 기술기반 임팩트 투자 및 청년 특화 TIPS 운영사"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Two related entities: KAIST Venture Investment Holdings (the holding/accelerator) and KAIST Ventures (its 100%-owned VC subsidiary, 2B KRW capital). USD left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "kr-postech-holdings",
+    "name": { "en": "POSTECH Holdings", "local": "포항공과대학교기술지주" },
+    "aka": ["Postech Holdings", "포스텍홀딩스", "POSTECH Technology Holdings"],
+    "type": "accelerator",
+    "subtypes": ["vc", "incubator"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Pohang",
+    "website": "http://postechholdings.com",
+    "links": {
+      "other": ["https://thevc.kr/postechholdings", "https://www.cbinsights.com/investor/postech-holdings"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Stadium Public Technology Commercialization Fund No.1", "vintage_year": 2024, "size": { "raw": null, "usd": null, "currency": "KRW" } },
+        { "name": "POSTECH Regional New Deal Venture Fund", "vintage_year": 2022, "size": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "avg ~353M KRW per deal", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["deeptech", "biotech", "healthtech", "hardware-semiconductor", "saas-enterprise"],
+      "thesis": "POSTECH's technology holding company, creating subsidiaries from university patents and investing in deep-tech, IT and bio seed-stage startups; supports them with coaching, expert matching, angel investment and follow-on VC networking from incubation centers in Pohang and Seoul."
+    },
+    "track_record": {
+      "portfolio_count": 113,
+      "notable_investments": [
+        { "company": "Zibrain", "sector": "ai-ml", "outcome": "active" },
+        { "company": "GL", "sector": "healthtech", "outcome": "active (AI dementia-prevention device)" }
+      ]
+    },
+    "people": [
+      { "name": "Byung-chul Ko (고병철)", "role": "CEO", "linkedin": "" }
+    ],
+    "team_size": 9,
+    "application": {
+      "how_to_apply": "Via POSTECH startup support team; welcomes seed-level deep-tech startups, especially POSTECH spin-offs.",
+      "accepts_cold_inbound": true,
+      "contact": "startup.postech.ac.kr"
+    },
+    "tags": ["university-holding-company", "기술지주", "postech", "deep-tech", "technology-commercialization"],
+    "summary": {
+      "en": "POSTECH Holdings, founded 2012, is the technology holding company of POSTECH, investing in deep-tech, IT and bio seed-stage startups built on university patents. As of Aug 2024 it had directly invested 55.5B KRW into 171 companies and facilitated 648.4B KRW of follow-on investment, operating 8 funds from Pohang and Seoul.",
+      "local": "포항공과대학교기술지주(포스텍홀딩스)는 2012년 설립된 POSTECH 기술지주회사로, 딥테크·IT·바이오 시드 스타트업에 투자한다. 2024년 8월 기준 171개사에 555억원 직접 투자, 6,484억원 후속투자를 연계했으며 8개 펀드를 운용한다."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/postechholdings",
+        "title": "포항공과대학교기술지주(기술지주회사) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founded date, hq, portfolio count, funds, stages, sector focus, CEO, team size",
+        "quote": "Founded June 12, 2012; Portfolio: 113 companies; 8 total funds; CEO: Byung-chul Ko; 9 employees as of April 2026; Investment Stage: primarily Seed (108) and Pre-A (21)"
+      },
+      {
+        "url": "http://postechholdings.com/26",
+        "title": "포항공과대학교 기술지주 주식회사 - investment performance",
+        "publisher": "POSTECH Holdings",
+        "accessed": "2026-06-03",
+        "supports": "direct investment total, follow-on investment facilitated, deep-tech focus",
+        "quote": "As of August 2024, POSTECH Holdings had directly invested 55.5 billion won in 171 companies and facilitated 648.4 billion won in follow-up investments."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Two portfolio metrics: THE VC profile shows 113 (deals where it appears as investor on platform), official site cites 171 companies directly invested by Aug 2024. USD left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "kr-yonsei-technology-holdings",
+    "name": { "en": "Yonsei Technology Holdings", "local": "연세대학교기술지주" },
+    "aka": ["YSU Holdings", "연세대학교 기술지주회사", "Yonsei University Technology Holdings"],
+    "type": "accelerator",
+    "subtypes": ["vc", "incubator"],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Incheon",
+    "website": "https://ysuholdings.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/yonsei-technology-holdings-128e",
+      "other": ["https://www.cbinsights.com/investor/yonsei-technology-holdings", "https://pitchbook.com/profiles/fund/20326-87F"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Yonsei Technology Startup Venture Fund", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "KRW" } },
+        { "name": "Yonsei University Technology Holdings University Startup Private Investment Association (YUTH No.1–4)", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["biotech", "healthtech", "consumer", "deeptech", "generalist"],
+      "thesis": "Yonsei University's technology holding company, commercializing university technology and supporting Yonsei-connected startups via direct investment, operating funds (YUTH I–IV) and links to external private investment; portfolio skews to bio/health and life sciences."
+    },
+    "track_record": {
+      "portfolio_count": 30,
+      "notable_investments": [
+        { "company": "RAPHAS", "sector": "healthtech", "outcome": "IPO (2019)" },
+        { "company": "Karis Bio", "sector": "biotech", "outcome": "active (Series B 2025)" },
+        { "company": "Xenohelix", "sector": "biotech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "RAPHAS", "type": "IPO", "year": 2019, "value": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "people": [
+      { "name": "Jongill Hong (홍종일)", "role": "CEO (per official site)", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Via Yonsei research/industry cooperation foundation and YSU Holdings; sources Yonsei spin-offs and Yonsei-connected founders.",
+      "accepts_cold_inbound": true,
+      "contact": "ysuholdings.com (Tel: 02-2123-5135)"
+    },
+    "tags": ["university-holding-company", "기술지주", "yonsei-university", "biotech", "technology-commercialization"],
+    "summary": {
+      "en": "Yonsei Technology Holdings, founded 2011, is Yonsei University's technology holding company. It supports Yonsei-connected startups through direct investment and the YUTH I–IV private funds plus a venture fund, with ~30 investments and a notable IPO exit in microneedle firm RAPHAS (2019); recent deals include Karis Bio (Series B, 2025).",
+      "local": "연세대학교기술지주(YSU Holdings)는 2011년 설립된 연세대 기술지주회사로, 직접투자와 YUTH 1–4호 사모펀드·벤처펀드로 연세 연계 스타트업을 지원한다. 약 30개사에 투자했고 라파스(2019 IPO) 회수 실적이 있으며, 카리스바이오(2025 시리즈B) 등에 투자했다."
+    },
+    "sources": [
+      {
+        "url": "https://www.cbinsights.com/investor/yonsei-technology-holdings",
+        "title": "Yonsei Technology Holdings - Portfolio Investments",
+        "publisher": "CB Insights",
+        "accessed": "2026-06-03",
+        "supports": "portfolio count, exit, recent investment, type",
+        "quote": "30 Investments, 1 portfolio exit; RAPHAS completed an IPO on November 11, 2019; Karis Bio received $7.92M Series B on March 4, 2025; latest investment in Nuvinda (Oct 1, 2025)."
+      },
+      {
+        "url": "https://ysuholdings.com/en/intro/intro.do",
+        "title": "Overview | About Us | YONSEI TECHNOLOGY HOLDINGS",
+        "publisher": "Yonsei Technology Holdings",
+        "accessed": "2026-06-03",
+        "supports": "founded date, hq, CEO, sector focus, mission",
+        "quote": "Date of Establishment: May 31, 2011; CEO: Jongill Hong; HQ Yonsei University International Campus, Incheon; Technology Commercialization through the Establishment of Subsidiary."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "CEO name differs across sources (Jongill Hong per official site; CB Insights lists WonYong Lee), suggesting a leadership change. Portfolio count ~29–31 across sources. USD left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "kr-skku-techno-holdings",
+    "name": { "en": "SKKU Techno Holdings", "local": "성균관대학교기술지주" },
+    "aka": ["Sungkyunkwan University Technology Holdings", "성균관대 기술지주"],
+    "type": "accelerator",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Suwon",
+    "website": "https://skkustartup.kr",
+    "links": {
+      "other": ["https://thevc.kr/skkutechnoholdings"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["biotech", "healthtech", "deeptech", "generalist"],
+      "thesis": "Sungkyunkwan University's technology holding company; commercializes university patents by establishing subsidiaries and providing management support, with R&D project funding and seed-stage activity; participated in the 2025 Startup Korea Fund initiative."
+    },
+    "track_record": {
+      "portfolio_count": "1+ (small platform-recorded count; runs national R&D projects)",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Gu Ja-chun (구자춘)", "role": "CEO", "linkedin": "" },
+      { "name": "Yu Pil-jin", "role": "Director", "linkedin": "" }
+    ],
+    "team_size": 3,
+    "application": {
+      "how_to_apply": "Via SKKU startup portal (skkustartup.kr); sources SKKU spin-offs.",
+      "accepts_cold_inbound": true,
+      "contact": "skkustartup.kr"
+    },
+    "tags": ["university-holding-company", "기술지주", "sungkyunkwan-university", "technology-commercialization"],
+    "summary": {
+      "en": "SKKU Techno Holdings, founded 2012 in Suwon, is Sungkyunkwan University's technology holding company. It commercializes university IP through subsidiaries, runs national R&D projects and seed-stage support with a small 3-person team, and joined the 2025 Startup Korea Fund initiative.",
+      "local": "성균관대학교기술지주(SKKU Techno Holdings)는 2012년 수원에 설립된 성균관대 기술지주회사로, 대학 특허를 현물출자해 자회사를 설립하고 국가 R&D 과제·시드 지원을 수행한다. 2025년 스타트업코리아펀드에 참여했다."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/skkutechnoholdings",
+        "title": "성균관대학교기술지주(기술지주회사) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founded date, hq, type, CEO, team size, sector focus",
+        "quote": "Founded July 10, 2012; HQ Suwon; CEO Gu Ja-chun; Employees (Feb 2026): 3; Sector Focus: research development, financial corporate investment with emphasis on biomedical/healthcare."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Small holding with limited platform-recorded direct investments; primarily IP commercialization plus national R&D. Fund details not disclosed. USD left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "kr-knu-holdings",
+    "name": { "en": "KNU Holdings", "local": "경북대학교기술지주" },
+    "aka": ["Kyungpook National University Technology Holdings", "경북대 기술지주"],
+    "type": "accelerator",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Daegu",
+    "website": "http://knuholdings.com",
+    "links": {
+      "other": ["https://thevc.kr/knuholdings"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "KNU-Row Partners University Startup Investment Combination No.1", "vintage_year": 2022, "size": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "avg ~140M KRW (range 50M–300M KRW)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["ai-ml", "generalist"],
+      "thesis": "Kyungpook National University's technology holding company in Daegu; commercializes university technology via subsidiaries and runs a university-startup investment fund with Row Partners, backing AI/data and regional startups."
+    },
+    "track_record": {
+      "portfolio_count": 3,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Kim Gyu-man (김규만)", "role": "Co-CEO", "linkedin": "" },
+      { "name": "Jung Sung-geun (정성근)", "role": "Co-CEO", "linkedin": "" }
+    ],
+    "team_size": 15,
+    "application": {
+      "how_to_apply": "Via Kyungpook National University industry cooperation foundation and KNU Holdings; sources KNU spin-offs and Daegu-region startups.",
+      "accepts_cold_inbound": true,
+      "contact": "knuholdings.com"
+    },
+    "tags": ["university-holding-company", "기술지주", "kyungpook-national-university", "regional", "daegu"],
+    "summary": {
+      "en": "KNU Holdings, founded 2013 in Daegu, is Kyungpook National University's technology holding company. It commercializes university IP and runs the KNU-Row Partners University Startup Investment fund, with a handful of seed/Series A investments (avg ~140M KRW) in AI/data and regional startups.",
+      "local": "경북대학교기술지주(KNU Holdings)는 2013년 대구에 설립된 경북대 기술지주회사로, KNU-로우파트너스 대학창업투자조합을 운용하며 AI·데이터·지역 스타트업에 시드/시리즈A 투자(평균 약 1.4억원)를 한다."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/knuholdings",
+        "title": "경북대학교기술지주(기술지주회사) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founded date, hq, portfolio count, fund, stages, check size, CEOs, team size",
+        "quote": "Founded June 28, 2013; HQ Daegu; portfolio 3 investments; average investment 140 million won (range 50–300 million); KNU-Row Partners University Startup Investment Combination Fund No. 1 (formed Aug 2022); CEOs Kim Gyu-man, Jung Sung-geun; 15 employees (April 2026)."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Direct-investment portfolio count small (3) on THE VC; team size of 15 likely includes incubation/program staff. USD left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "kr-unist-holdings",
+    "name": { "en": "UNIST Holdings", "local": "유니스트기술지주" },
+    "aka": ["Ulsan National Institute of Science and Technology Holdings", "유니스트기술지주(주)"],
+    "type": "accelerator",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Ulsan",
+    "website": "http://unistholdings.com",
+    "links": {
+      "other": ["https://thevc.kr/unistholdings", "https://industry.unist.ac.kr/technology-commercialization-center/유니스트기술지주주/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Regional Future Industry Transformation Deep Tech Pioneer Venture Investment Association No.1 (지역 미래산업 전환 딥테크 개척 벤처투자조합 제1호)", "vintage_year": 2025, "size": { "raw": "12 billion KRW", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "avg ~983M KRW (range 300M–1.67B KRW)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["deeptech", "climate-energy", "hardware-semiconductor", "biotech", "generalist"],
+      "thesis": "UNIST's 100%-owned technology holding company in Ulsan, commercializing institute technology via subsidiaries. In 2026 it converted into a licensed venture-capital firm (Ministry of SMEs and Startups VC license), enabling formal investment review and larger scale-up funds; runs a 12B KRW regional deep-tech fund."
+    },
+    "track_record": {
+      "portfolio_count": 3,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Kim Young-sik (김영식)", "role": "CEO", "linkedin": "" }
+    ],
+    "team_size": 4,
+    "application": {
+      "how_to_apply": "Via UNIST technology commercialization center; sources UNIST spin-offs and Ulsan/regional deep-tech startups.",
+      "accepts_cold_inbound": true,
+      "contact": "unistholdings.com"
+    },
+    "tags": ["university-holding-company", "기술지주", "unist", "deep-tech", "regional", "ulsan", "vc-licensed"],
+    "summary": {
+      "en": "UNIST Holdings, founded 2017 and wholly owned by UNIST, is the institute's technology holding company in Ulsan. It commercializes UNIST IP and in 2026 obtained a Ministry of SMEs venture-capital license, allowing formal investment review and scale-up funds; it runs a 12B KRW regional deep-tech pioneer venture fund (2025).",
+      "local": "유니스트기술지주는 2017년 UNIST가 100% 출자해 설립한 울산 소재 기술지주회사로, 2026년 중소벤처기업부 벤처투자회사(VC) 라이선스를 취득해 전문 투자심사·스케일업 펀드 결성이 가능해졌다. 120억원 규모 지역 딥테크 개척 벤처투자조합을 운용한다."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/unistholdings",
+        "title": "유니스트기술지주(기술지주회사) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founded date, hq, portfolio count, fund and size, stages, check size, CEO, team size",
+        "quote": "Founded July 7, 2017; HQ Ulsan; UNIST 100% ownership; Portfolio: 3 investees; Regional Future Industry Transformation Deep Tech Pioneer Venture Investment Association No. 1 - 12 billion won (formed August 2025); CEO Kim Young-sik; 4 employees (April 2026)."
+      },
+      {
+        "url": "https://www.fnnews.com/news/202604270650559620",
+        "title": "'유니스트 기술지주' 벤처 투자회사로 전환",
+        "publisher": "Financial News",
+        "accessed": "2026-06-03",
+        "supports": "conversion to licensed VC, investment review and fund formation capability",
+        "quote": "유니스트기술지주는 중소벤처기업부 벤처투자회사(VC) 라이선스를 취득했다 ... 전문적인 투자 심사와 대규모 펀드 결성을 통한 후속 스케일업 투자가 가능"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Direct-investment portfolio count small (3) but newly VC-licensed (2026). USD left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "kr-mirae-science-technology-holdings",
+    "name": { "en": "Mirae Science Technology Holdings", "local": "미래과학기술지주" },
+    "aka": ["Mirae Holdings", "미래과학기술지주(주)", "Future Science Technology Holdings"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Daejeon",
+    "website": "https://www.miraeholding.com",
+    "links": {
+      "other": ["https://www.miraeholding.com/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["deeptech", "biotech", "healthtech", "hardware-semiconductor", "saas-enterprise"],
+      "thesis": "Public technology-commercialization company jointly founded in 2014 by Korea's four science-and-technology universities (KAIST, UNIST, GIST, DGIST). Discovers and concentrates investment on future-promising firms built on disruptive and innovative technologies, from pre-seed through IPO, in biotech/medical, machinery & materials/chemicals, and ICT."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Via Mirae Holdings (KAIST research building, Daejeon); sources spin-offs and technologies from KAIST, UNIST, GIST and DGIST faculty/researchers.",
+      "accepts_cold_inbound": true,
+      "contact": "Tel: 042-349-3111"
+    },
+    "tags": ["multi-university", "기술지주", "kaist", "unist", "gist", "dgist", "deep-tech", "public-technology-commercialization"],
+    "summary": {
+      "en": "Mirae Science Technology Holdings, founded 2014 in Daejeon, is a public technology-commercialization company jointly established by Korea's four science-and-technology universities — KAIST, UNIST, GIST and DGIST. It invests from pre-seed to IPO in deep-tech firms across biotech/medical, materials/chemicals and ICT, drawing on the founding institutes' research.",
+      "local": "미래과학기술지주는 2014년 4개 과기특성화대학(KAIST·UNIST·GIST·DGIST)이 공동 설립한 공공기술사업화 전문회사로 대전에 본사를 둔다. 바이오·의료, 기계·소재·화학, ICT 분야 딥테크 기업에 프리시드부터 IPO 단계까지 투자한다."
+    },
+    "sources": [
+      {
+        "url": "https://www.miraeholding.com/",
+        "title": "미래과학기술지주",
+        "publisher": "Mirae Science Technology Holdings",
+        "accessed": "2026-06-03",
+        "supports": "founded year, hq, founding universities, investment stages, sector focus, mission",
+        "quote": "2014년 4개 과기특성화대학(KAIST, UNIST, GIST, DGIST)이 주축이 되어 설립한 공공기술사업화 전문 회사; Pre-seed에서 IPO까지; Biotech & Medical, Machinery/Materials/Chemicals, ICT Services; HQ 대전 KAIST 연구동."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Joint vehicle of four science-tech institutes; specific portfolio count, fund sizes and current CEO not disclosed on site (March 2026 CEO appointment referenced). USD left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "kr-korea-science-technology-holdings",
+    "name": { "en": "Korea Science and Technology Holdings", "local": "한국과학기술지주" },
+    "aka": ["KST", "KST Holdings", "한국과학기술지주(주)"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Daejeon",
+    "website": "http://www.kstholdings.co.kr",
+    "links": {
+      "other": ["https://thevc.kr/kst", "https://ko.wikipedia.org/wiki/한국과학기술지주"]
+    },
+    "capital": {
+      "aum": { "raw": "founding capital 50.4 billion KRW (17 govt research institutes)", "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["deeptech", "biotech", "hardware-semiconductor", "robotics", "climate-energy"],
+      "thesis": "Technology holding company jointly established in Nov 2013 by 17 government-funded research institutes (출연연) to commercialize public R&D. Runs public-technology planning/startup funds, deep-tech mid/long-term funds and growth-stage scale-up funds, aiming to build deep-tech unicorns."
+    },
+    "track_record": {
+      "portfolio_count": 65,
+      "notable_investments": [],
+      "exits": []
+    },
+    "people": [
+      { "name": "Choi Chi-ho (최치호)", "role": "CEO / Representative", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Via KST Holdings (Daedeok Techno-Valley, Daejeon); sources spin-offs and technologies from government research institutes.",
+      "accepts_cold_inbound": true,
+      "contact": "www.kstholdings.co.kr"
+    },
+    "tags": ["research-institute-holding", "기술지주", "government-research-institutes", "출연연", "deep-tech", "public-technology-commercialization"],
+    "summary": {
+      "en": "Korea Science and Technology Holdings (KST), launched November 2013 with 50.4B KRW jointly invested by 17 government-funded research institutes, commercializes public-sector R&D. It has invested in 65 companies; by 2019 it had deployed 26B KRW into 60 firms and recovered 19B KRW (326% ROI on principal), and now runs deep-tech and scale-up funds.",
+      "local": "한국과학기술지주(KST)는 2013년 11월 17개 정부출연연구기관이 자본금 504억원을 공동출자해 설립한 공공기술사업화 기술지주회사다. 65개사에 투자했고, 2019년 기준 60개사에 260억원 투자·190억원 회수(원금 대비 326% ROI)를 기록했다. 대표는 최치호."
+    },
+    "sources": [
+      {
+        "url": "https://ko.wikipedia.org/wiki/한국과학기술지주",
+        "title": "한국과학기술지주 - 위키백과",
+        "publisher": "Wikipedia (Korean)",
+        "accessed": "2026-06-03",
+        "supports": "founded year, founding institutes, capital, hq, CEO, purpose",
+        "quote": "2013년 11월 17개 정부출연연구기관들이 자본금 504억원을 공동출자하여 출범; 대표이사는 최치호; 본사는 대전광역시 유성구."
+      },
+      {
+        "url": "https://thevc.kr/kst",
+        "title": "한국과학기술지주(기술지주회사) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "portfolio count, fund types",
+        "quote": "한국과학기술지주(KST) has invested in 65 portfolio companies; manages public technology planning and startup funds, deep-tech startup funds and scale-up funds."
+      },
+      {
+        "url": "https://www.etnews.com/20190927000249",
+        "title": "한국과학기술지주 투자·회수성과 눈길",
+        "publisher": "Electronic Times (etnews)",
+        "accessed": "2026-06-03",
+        "supports": "2019 investment/recovery performance, ROI",
+        "quote": "KST invested 26 billion won in 60 companies over 6 years and recovered 19 billion won; principal 4.46 billion won, ROI 326%."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Research-institute (not university) affiliated holding; founding capital 50.4B KRW. USD left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "kr-snusv-angel-club",
+    "name": { "en": "SNUSV Angel Club", "local": "SNUSV엔젤클럽" },
+    "aka": ["Seoul National University Student Venture Network Angel Club", "서울대 학생벤처네트워크 엔젤클럽"],
+    "type": "angel-network",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://snusvangelclub.com",
+    "links": {
+      "other": ["https://snusv.net/", "https://www.facebook.com/snusv/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist", "ai-ml", "fintech", "consumer"],
+      "thesis": "Alumni angel club formed (~2020) by founders from SNUSV — Seoul National University's student venture network (Korea's first student startup club, est. 1996) — together with venture-industry professionals. Provides angel investment, mentoring and networking to junior founders via regular IR days."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "team_size": "~80 members",
+    "application": {
+      "how_to_apply": "Pitch at SNUSV Angel Club regular IR days (held 3+ times per year); typically sourced through the SNUSV alumni network.",
+      "accepts_cold_inbound": true,
+      "contact": "snusvangelclub.com"
+    },
+    "tags": ["alumni-network", "angel-club", "seoul-national-university", "snusv", "student-venture-network"],
+    "summary": {
+      "en": "SNUSV Angel Club is an alumni angel network formed around 2020 by founders from SNUSV — Seoul National University's student venture network (Korea's first student startup club, founded 1996, whose ~850 alumni launched companies such as Hyperconnect, Toss/Today's House and Quanda). Its ~80 members (entrepreneurs, exited founders and finance/legal professionals) invest in and mentor junior founders via 3+ IR days per year.",
+      "local": "SNUSV엔젤클럽은 2020년경 서울대 학생벤처네트워크(SNUSV, 1996년 설립된 국내 최초 학생 창업 동아리) 출신 창업가와 벤처투자 전문가들이 결성한 동문 엔젤투자 네트워크다. 약 80명의 회원이 연 3회 이상 IR데이를 통해 후배 창업가에 엔젤투자·멘토링한다."
+    },
+    "sources": [
+      {
+        "url": "http://snusvangelclub.com/",
+        "title": "SNUSV엔젤클럽",
+        "publisher": "SNUSV Angel Club",
+        "accessed": "2026-06-03",
+        "supports": "founded year, member count, composition, IR frequency, affiliation, activity",
+        "quote": "Founded around 2020; approximately 80 members; founders from SNUSV and venture industry experts; regular IR days held 3+ times annually; provides angel investment, mentoring, and networking."
+      },
+      {
+        "url": "https://snusv.net/",
+        "title": "서울대학교 학생벤처네트워크 SNUSV.NET",
+        "publisher": "SNUSV",
+        "accessed": "2026-06-03",
+        "supports": "SNUSV history, alumni and notable companies",
+        "quote": "SNUSV.NET founded in 1996, South Korea's first student startup club; ~850 alumni; ~70 alumni companies including Hyperconnect, Today's House and Quanda, cumulative value ~8.7 trillion won."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Alumni-driven angel club; individual deal sizes and portfolio not publicly disclosed. Founding year approximate (~2020, early COVID). USD left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "kr-ewu-technology-holdings",
+    "name": { "en": "Ewha Womans University Technology Holdings", "local": "이화여자대학교기술지주" },
+    "aka": ["EWU Technology Holdings", "이화기술지주", "Ewha Technology Holdings"],
+    "type": "accelerator",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://holdings.ewha.ac.kr",
+    "links": {
+      "other": ["https://thevc.kr/ewutechnologyholdings", "https://startup.ewha.ac.kr/investment/tech"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "이화여자대학교 미래창업혁신 개인투자조합 (Ewha Future Entrepreneurship & Innovation Individual Investment Partnership)", "vintage_year": null, "size": { "raw": "1 billion KRW (10억원)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["biotech", "healthtech", "consumer", "generalist"],
+      "thesis": "Ewha Womans University's technology holding company; commercializes university technology through subsidiaries and supports Ewha-affiliated (women-founder-heavy) startups, having launched a 1B KRW individual investment partnership for university startups."
+    },
+    "track_record": {
+      "portfolio_count": 1,
+      "notable_investments": []
+    },
+    "people": [],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Via Ewha startup portal (startup.ewha.ac.kr) and EWU Technology Holdings; sources Ewha spin-offs.",
+      "accepts_cold_inbound": true,
+      "contact": "holdings.ewha.ac.kr"
+    },
+    "tags": ["university-holding-company", "기술지주", "ewha-womans-university", "women-founders", "technology-commercialization"],
+    "summary": {
+      "en": "Ewha Womans University Technology Holdings (EWU Technology Holdings), founded 2016, is the technology holding company of Ewha Womans University. It commercializes university IP and supports Ewha-affiliated (largely women-led) startups, and launched a 1B KRW individual investment partnership to fund university spin-offs.",
+      "local": "이화여자대학교기술지주(EWU Technology Holdings)는 2016년 설립된 이화여대 기술지주회사로, 대학 기술을 사업화하고 이화 연계(여성 창업가 중심) 스타트업을 지원한다. 10억원 규모 미래창업혁신 개인투자조합을 결성했다."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/ewutechnologyholdings",
+        "title": "이화여자대학교기술지주(기술지주회사) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founded year, type, portfolio count",
+        "quote": "EWU Technology Holdings established in August 2016 as a Korean accelerator; technology holding company in finance and corporate investment; 1 portfolio company on platform."
+      },
+      {
+        "url": "https://startup.ewha.ac.kr/investment/tech",
+        "title": "이화스타트업포털-기술지주회사",
+        "publisher": "Ewha Womans University Startup Portal",
+        "accessed": "2026-06-03",
+        "supports": "1B KRW startup fund / individual investment partnership",
+        "quote": "이화여자대학교 기술지주회사가 1억원 규모의 startup fund를 조성... 이화여자대학교 기술지주회사 미래창업혁신 개인투자조합 출범식."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Small holding; only 1 direct investment recorded on THE VC. Fund described as ~1B KRW (10억원) individual investment partnership. USD left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  }
+]

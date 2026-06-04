@@ -1,0 +1,942 @@
+[
+  {
+    "id": "in-lumikai",
+    "name": { "en": "Lumikai Fund" },
+    "aka": ["Lumikai"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Gurugram",
+    "website": "https://www.lumikai.com/",
+    "links": {
+      "twitter": "https://twitter.com/Lumikai",
+      "linkedin": "https://in.linkedin.com/company/lumikai",
+      "other": ["https://lumikai.medium.com/"]
+    },
+    "capital": {
+      "aum": { "raw": "~$90M across two funds", "usd": 90000000, "currency": "USD" },
+      "current_fund": { "raw": "$50M (Fund II, 2023)", "usd": 50000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2020, "size": { "raw": "$40M", "usd": 40000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2023, "size": { "raw": "$50M", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$200K–$1.5M", "usd_min": 200000, "usd_max": 1500000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["gaming", "consumer", "ai-ml"],
+      "thesis": "India's first dedicated gaming and interactive media VC; backs early-stage founders across games, content, game streaming, social platforms, creator tooling, AR/VR and generative AI."
+    },
+    "track_record": {
+      "portfolio_count": 15,
+      "notable_investments": [
+        { "company": "Loco", "sector": "game streaming", "outcome": "active" },
+        { "company": "Eloelo", "sector": "social gaming", "outcome": "active" },
+        { "company": "Bombay Play", "sector": "game studio", "outcome": "active" },
+        { "company": "Vobble", "sector": "kids audio", "outcome": "active" },
+        { "company": "STAN", "sector": "esports/web3 fan platform", "outcome": "active" }
+      ],
+      "co_investors": ["Kalaari Capital"]
+    },
+    "people": [
+      { "name": "Salone Sehgal", "role": "Founding General Partner" },
+      { "name": "Justin Shriram Keeling", "role": "Founding General Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Email/contact via website",
+      "accepts_cold_inbound": true,
+      "contact": "hello@lumikai.com"
+    },
+    "tags": ["gaming", "interactive-media", "creator-economy"],
+    "summary": {
+      "en": "Gurugram-based Lumikai is India's first gaming and interactive media VC fund, founded in 2020 by Salone Sehgal and Justin Keeling. It runs two funds totalling ~$90M and invests pre-seed to Series A across games, content, streaming and creator tooling."
+    },
+    "sources": [
+      { "url": "https://www.lumikai.com/", "title": "Lumikai homepage", "publisher": "Lumikai", "accessed": "2026-06-03", "supports": "Sector focus, contact, social links", "quote": "India's Pioneering Interactive Media, Digital Platforms & Games VC" },
+      { "url": "https://inc42.com/features/decoding-lumikai-investment-playbook-for-india-30-bn-gaming-interactive-media-industry/", "title": "Decoding Lumikai's investment playbook", "publisher": "Inc42", "accessed": "2026-06-03", "supports": "Founding year, founders, fund sizes, check size, portfolio", "quote": "Founded in 2020 by Salone Sehgal ... Fund I (2020): $40 million; Fund II (2023): $50 million ... Check sizes: $200K–$1.5 million" },
+      { "url": "https://inc42.com/buzz/gaming-vc-firm-lumikai-launches-50-mn-fund-eyes-investment-in-18-20-startups/", "title": "Lumikai Launches $50 Mn Fund", "publisher": "Inc42", "accessed": "2026-06-03", "supports": "Fund II size, founders", "quote": "founded in 2019 by Justin Shriram Keeling and Salone Sehgal" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year reported as 2019 (market entry) and 2020 (fund) across sources; used 2020 for fund formation. HQ reported as Gurugram/NCR region.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "in-chimera-vc",
+    "name": { "en": "Chimera VC" },
+    "aka": ["Chimera Ventures"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": null,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "website": "https://chimeravc.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/chimeravc",
+      "other": []
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$100K–$500K", "usd_min": 100000, "usd_max": 500000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["India", "Global"],
+      "sector_focus": ["gaming", "ai-ml"],
+      "thesis": "Gaming-focused VC backing the infrastructure, tools and studios layer of gaming. 'We back the layers that make gaming work' — durable studios, better tools, and foundational infrastructure, plus AI tooling for games."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Qila Games", "sector": "game studio", "outcome": "active" },
+        { "company": "PlaySuper", "sector": "gaming rewards", "outcome": "active" },
+        { "company": "Liquid Nitro Games", "sector": "game studio", "outcome": "active" },
+        { "company": "Driffle", "sector": "game marketplace", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Krish Anurag", "role": "Managing Partner" },
+      { "name": "Mohit Mohan", "role": "Head of Investments" },
+      { "name": "Sagar Nair", "role": "Head of Initiatives and Incubation" }
+    ],
+    "application": {
+      "how_to_apply": "Email deals team",
+      "accepts_cold_inbound": true,
+      "contact": "deals@chimeravc.com"
+    },
+    "tags": ["gaming", "gaming-infrastructure", "gaming-tools"],
+    "summary": {
+      "en": "Chimera VC is an India-based gaming-focused venture fund investing pre-seed to Series A ($100K–$500K) in game studios, gaming tools, infrastructure and AI tooling. It co-founded the LVL Zero gaming incubator with Nazara and MIXI."
+    },
+    "sources": [
+      { "url": "https://chimeravc.com/index.html", "title": "Chimera VC homepage", "publisher": "Chimera VC", "accessed": "2026-06-03", "supports": "Team, stages, check size, sector focus, portfolio, contact", "quote": "Pre-seed to Series A ... Check Size: $100K–$500K ... We back the layers that make gaming work" },
+      { "url": "https://respawn.outlookindia.com/gaming/gaming-news/indian-gaming-incubator-lvl-zero-opens-first-cohort-applications", "title": "LVL Zero opens first cohort applications", "publisher": "Outlook Respawn", "accessed": "2026-06-03", "supports": "Chimera VC role in LVL Zero, Krish Anurag as managing partner", "quote": "Krish Anurag (managing partner at Chimera VC and founding partner)" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year not disclosed on site. HQ inferred as Mumbai from team/LVL Zero context; not explicitly stated.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "in-ventana-ventures",
+    "name": { "en": "Ventana Ventures" },
+    "aka": [],
+    "type": "micro-vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "website": "https://www.ventanaventures.in/",
+    "links": {
+      "twitter": "https://twitter.com/Ventanaventure",
+      "linkedin": "https://www.linkedin.com/company/ventana-venture/",
+      "other": []
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "Up to $130K per team", "usd_min": null, "usd_max": 130000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["gaming"],
+      "thesis": "Early-stage gaming-only VC 'catalyzing India's gaming revolution', backing founders from inception with capital plus mentorship on engineering, design, market research and team building."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Brewed Games", "sector": "indie game studio", "outcome": "active" },
+        { "company": "MetaShot", "sector": "sports gaming", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Contact form at /reach-out",
+      "accepts_cold_inbound": true,
+      "contact": "via website contact form"
+    },
+    "tags": ["gaming", "early-stage"],
+    "summary": {
+      "en": "Ventana Ventures is an India-based early-stage gaming-focused fund investing up to ~$130K per pre-seed/seed team, with portfolio including Brewed Games and MetaShot."
+    },
+    "sources": [
+      { "url": "https://www.ventanaventures.in/", "title": "Ventana Ventures homepage", "publisher": "Ventana Ventures", "accessed": "2026-06-03", "supports": "Check size, stages, focus, portfolio, links", "quote": "We invest up to USD 130K in each participating team" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year, fund size and partner names not disclosed on site. HQ inferred (Bengaluru) from portfolio company location reference.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "in-eximius-ventures",
+    "name": { "en": "Eximius Ventures" },
+    "aka": ["Eximius Capital Ventures"],
+    "type": "micro-vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "india",
+    "country": "India",
+    "hq_city": "New Delhi",
+    "website": "https://eximiusvc.com/",
+    "links": {
+      "linkedin": "https://in.linkedin.com/company/eximius-capital-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/eximius-ventures",
+      "other": []
+    },
+    "capital": {
+      "current_fund": { "raw": "$10M maiden fund", "usd": 10000000, "currency": "USD" },
+      "funds": [
+        { "name": "Eximius maiden fund", "vintage_year": 2021, "size": { "raw": "$10M", "usd": 10000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "~$300K (up to $500K)", "usd_min": 300000, "usd_max": 500000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India"],
+      "sector_focus": ["gaming", "fintech", "consumer", "healthtech", "saas-enterprise"],
+      "thesis": "Pre-seed fund 'solving primary needs for the next billion', with gaming/online media a core sector alongside fintech, SaaS and healthtech; published a dedicated thesis on Indian online gaming."
+    },
+    "track_record": {
+      "portfolio_count": "25-30 planned",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Pearl Agarwal", "role": "Founder & Managing Director" }
+    ],
+    "application": {
+      "how_to_apply": "Via website / warm intro",
+      "accepts_cold_inbound": true,
+      "contact": "via website"
+    },
+    "tags": ["gaming", "pre-seed", "next-billion"],
+    "summary": {
+      "en": "Eximius Ventures is a Delhi/Bengaluru pre-seed micro-VC founded by Pearl Agarwal in 2020 with a $10M maiden fund, writing ~$300K cheques. Gaming/online media is a core sector; it published 'Playing to Win — A Thesis on Indian Online Gaming'."
+    },
+    "sources": [
+      { "url": "https://india.entrepreneur.com/finance/eximius-ventures-closes-10-mn-fund-for-early-stage-startups/367381", "title": "Eximius Ventures Closes $10 Mn Fund", "publisher": "Entrepreneur India", "accessed": "2026-06-03", "supports": "Fund size, cheque size", "quote": "Eximius Ventures' maiden fund has $10 million with approximately $300,000 equity cheque per startup" },
+      { "url": "https://eximiusvc.com/blogs/top-pre-seed-investors-for-gaming-sector-in-india/", "title": "Top Pre-Seed Investors for Gaming Sector In India", "publisher": "Eximius VC", "accessed": "2026-06-03", "supports": "Gaming focus, SEBI AIF status, offices, founder", "quote": "support early-stage startups, especially in the gaming space ... Offices: Delhi, Bangalore" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year given as 2020 or 2021 across sources; used 2020. Offices in both Delhi and Bengaluru.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "in-dream-capital",
+    "name": { "en": "Dream Capital" },
+    "aka": ["DreamCap", "Dream Sports Capital"],
+    "type": "cvc",
+    "subtypes": [],
+    "status": "inactive",
+    "founded_year": 2021,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "website": "https://www.dreamsports.group/dream-capital/",
+    "links": {
+      "other": ["https://www.dreamsports.group/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$250M corpus", "usd": 250000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": "$1M–$100M", "usd_min": 1000000, "usd_max": 100000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India"],
+      "sector_focus": ["gaming", "consumer"],
+      "thesis": "Corporate VC and M&A arm of Dream Sports (Dream11), with a $250M corpus to back startups in sports, gaming and fitness-tech in India; multi-stage from $1M to $100M tickets."
+    },
+    "track_record": {
+      "portfolio_count": 8,
+      "notable_investments": [
+        { "company": "Rario", "sector": "cricket NFT platform", "outcome": "shutdown" },
+        { "company": "FanCode", "sector": "sports content", "outcome": "active" },
+        { "company": "SoStronk", "sector": "esports", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "N/A — fund wound down",
+      "accepts_cold_inbound": false
+    },
+    "tags": ["gaming", "sports-tech", "cvc", "wound-down"],
+    "summary": {
+      "en": "Dream Capital was the $250M corporate VC/M&A arm of Dream Sports (Dream11), launched August 2021 to back sports, gaming and fitness-tech startups. It was wound down around 2023 after roughly 8 investments including Rario and FanCode."
+    },
+    "sources": [
+      { "url": "https://www.dreamsports.group/newsroom/dream-capital-to-infuse-us250m-in-the-indian-start-up-ecosystem/", "title": "Dream Capital to infuse US$250M", "publisher": "Dream Sports", "accessed": "2026-06-03", "supports": "Corpus, ticket sizes, sectors, portfolio count", "quote": "a corpus of US$250M ... ticket sizes US$1M to $100M ... already invested in 8 start-ups" },
+      { "url": "https://globalventuring.com/corporate/asia/dream-sports-shuts-250m-fund/", "title": "Dream Sports calls time on $250m CVC fund", "publisher": "Global Venturing", "accessed": "2026-06-03", "supports": "Shutdown status", "quote": "Dream Sports is shutting down its corporate venture capital unit, barely two years after it was launched" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund effectively wound down ~2023; marked inactive. Included as a notable gaming/sports CVC many lists omit.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "in-hashed-emergent",
+    "name": { "en": "Hashed Emergent" },
+    "aka": [],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "website": "https://www.hashedem.com/",
+    "links": {
+      "twitter": "https://twitter.com/HashedEM",
+      "linkedin": "https://in.linkedin.com/company/hashedem",
+      "crunchbase": "https://www.cbinsights.com/investor/hashed-emergent",
+      "other": ["https://hashedem.substack.com/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["India", "Middle East", "Africa", "Southeast Asia"],
+      "sector_focus": ["web3-crypto", "gaming", "ai-ml"],
+      "thesis": "Web3/AI-native early-stage VC for India and emerging markets; backs builders across consumer apps, DeFi, gaming and Web3 infrastructure. Offshoot of Korea's Hashed."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Tak Lee", "role": "Managing Partner / Lead" }
+    ],
+    "application": {
+      "how_to_apply": "Via website",
+      "accepts_cold_inbound": true,
+      "contact": "via website"
+    },
+    "tags": ["web3", "gaming", "blockchain", "emerging-markets"],
+    "summary": {
+      "en": "Hashed Emergent is a Bengaluru-based web3/AI venture fund, the emerging-markets offshoot of Korea's Hashed, founded 2021 and led by Tak Lee. It backs early-stage web3 startups including gaming across India, the Middle East and Africa."
+    },
+    "sources": [
+      { "url": "https://www.hashedem.com/about", "title": "Hashed Emergent — About", "publisher": "Hashed Emergent", "accessed": "2026-06-03", "supports": "Founding year, lead, HQ hubs, sector focus", "quote": "Founding Year: 2021 ... Led by Tak Lee ... Bangalore, Seoul, Singapore, Lagos, and Dubai" },
+      { "url": "https://inc42.com/buzz/india-home-to-over-1000-web3-startups-hashed-emergent-study/", "title": "India Home To Over 1,000 Web3 Startups: Hashed Emergent Study", "publisher": "Inc42", "accessed": "2026-06-03", "supports": "India web3/gaming focus", "quote": "across the sectors of consumer apps, DeFi, gaming, and Web3 infrastructure" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Dedicated fund size not publicly disclosed. Gaming is one of several focus verticals, not exclusive.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "in-kratos-games-network",
+    "name": { "en": "Kratos Games Network" },
+    "aka": ["Kratos Studios", "KGeN", "IndiGG"],
+    "type": "cvc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "website": "https://www.kgen.io/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/kratos-studios",
+      "other": []
+    },
+    "capital": {
+      "current_fund": { "raw": "INR 50 Cr grant pool", "usd": null, "currency": "INR" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["India", "Global"],
+      "sector_focus": ["gaming", "web3-crypto"],
+      "thesis": "Kratos Studios (owner of IndiGG, builder of the KGeN gamer network) runs the Kratos Games Network, a INR 50 Cr grant program helping Web2 gaming studios transition titles to blockchain/Web3 gaming."
+    },
+    "track_record": {
+      "portfolio_count": "10-15 studios (first batch target)",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Manish Agarwal", "role": "Co-founder & CEO (ex-Nazara CEO)" },
+      { "name": "Ishank Gupta", "role": "Co-founder" }
+    ],
+    "application": {
+      "how_to_apply": "Studio application to Kratos Games Network program",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["gaming", "web3", "grants", "studios"],
+    "summary": {
+      "en": "Kratos Studios (KGeN/IndiGG), founded 2023 by ex-Nazara CEO Manish Agarwal and Ishank Gupta, launched the Kratos Games Network — a INR 50 Cr grant program to help gaming studios transition to blockchain gaming. It raised INR 160 Cr seed led by Accel."
+    },
+    "sources": [
+      { "url": "https://inc42.com/buzz/kratos-studios-allocates-inr-50-cr-to-help-gaming-studios-transition-games-to-blockchain/", "title": "Kratos Studios Allocates INR 50 Cr", "publisher": "Inc42", "accessed": "2026-06-03", "supports": "INR 50 Cr grant, blockchain transition, batch target", "quote": "the 'Kratos Games Network' program with a grant of INR 50 crore ... select the first batch of 10-15 studios by March 2024" },
+      { "url": "https://www.entrepreneur.com/en-in/news-and-trends/kratos-gamer-network-secures-usd-135-mn-funding/497943", "title": "Kratos Gamer Network Secures USD 13.5 Mn Funding", "publisher": "Entrepreneur India", "accessed": "2026-06-03", "supports": "Founders, founding year", "quote": "founded in 2022 by Manish Agarwal and Ishank Gupta" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year reported as 2022 (KGeN entity) and 2023 (Kratos Studios launch); used 2023 for the studios/grant program. Token-reward model means it sits between CVC and grant program.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "in-kigi-krafton-india",
+    "name": { "en": "Krafton India Gaming Incubator (KIGI)" },
+    "aka": ["KIGI"],
+    "type": "incubator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "website": "https://krafton.in/kigi/",
+    "links": {
+      "other": ["https://krafton.in/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$50K–$150K milestone-based", "usd_min": 50000, "usd_max": 150000 },
+      "geo_focus": ["India"],
+      "sector_focus": ["gaming"],
+      "thesis": "Krafton's mentorship-focused incubator for Indian game studios, providing milestone-based funding and global mentorship to build export-ready, premium games."
+    },
+    "program": {
+      "length_weeks": 26,
+      "cohort_size": "4+ studios per cohort",
+      "batches_per_year": 1,
+      "equity_taken_pct": null,
+      "investment": { "raw": "$50K–$150K milestone-based", "usd": null, "currency": "USD" },
+      "format": "hybrid",
+      "location": "Mumbai, Hyderabad, Bengaluru, Madurai",
+      "demo_day": null,
+      "perks": ["6–12 months global mentorship", "AWS / Google Cloud / AccelByte integration", "publishing support"],
+      "application_url": "https://krafton.in/kigi/",
+      "acceptance_rate": null,
+      "eligibility": "Indian game development studios"
+    },
+    "track_record": {
+      "portfolio_count": "two cohorts completed by late 2025",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via KIGI website during open cohort calls",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["gaming", "incubator", "krafton", "game-studios"],
+    "summary": {
+      "en": "KIGI is Krafton's India Gaming Incubator launched in 2023, offering Indian game studios $50K–$150K milestone-based funding plus 6–12 months of global mentorship. Two cohorts completed by late 2025; Cohort 3 onboarding in 2026."
+    },
+    "sources": [
+      { "url": "https://respawn.outlookindia.com/gaming/gaming-guides/top-gaming-incubator-programs-india-krafton-lvl-zero-more", "title": "Top Gaming Incubator Programs India", "publisher": "Outlook Respawn", "accessed": "2026-06-03", "supports": "Funding, locations, cohort cadence, partners", "quote": "milestone-based funding ranging from $50,000 to $150,000 ... Mumbai, Hyderabad, Bengaluru, Madurai" },
+      { "url": "https://krafton.in/kigi/", "title": "KIGI — Krafton India", "publisher": "Krafton India", "accessed": "2026-06-03", "supports": "Program existence and parent", "quote": "KRAFTON INDIA GAMING INCUBATOR" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Parent Krafton is South Korean; KIGI is the India program, hence country India. Equity terms not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "in-lvl-zero",
+    "name": { "en": "LVL Zero" },
+    "aka": [],
+    "type": "incubator",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "website": "https://lvlzero.xyz/",
+    "links": { "other": [] },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "$10K equity-free grant", "usd_min": 10000, "usd_max": 10000 },
+      "geo_focus": ["India"],
+      "sector_focus": ["gaming"],
+      "thesis": "Execution-first gaming incubator (an alternative to traditional accelerators) running a 100-day sprint for Indian PC/console/mobile studios with ML integration."
+    },
+    "program": {
+      "length_weeks": 14,
+      "cohort_size": 10,
+      "batches_per_year": 1,
+      "equity_taken_pct": "0 (equity-free)",
+      "investment": { "raw": "$10K grant per studio (total pool $100K)", "usd": 10000, "currency": "USD" },
+      "format": "hybrid",
+      "location": "Pan-India",
+      "demo_day": true,
+      "perks": ["equity-free grant", "mentor matching for live ops", "Demo Day pitches", "Google Play knowledge partner"],
+      "application_url": "https://lvlzero.xyz/",
+      "application_cycles": ["Applications opened 26 Jan 2026, closed 26 Feb 2026; inaugural cohort April 2026"],
+      "acceptance_rate": "10 of 240+ applicants",
+      "eligibility": "Indian gaming studios"
+    },
+    "track_record": {
+      "portfolio_count": "10 (inaugural cohort)",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Krish Anurag", "role": "Founding Partner (Chimera VC)" },
+      { "name": "Nitish Mittersain", "role": "Backer (Nazara Technologies, JMD & CEO)" },
+      { "name": "Tomoharu Urabe", "role": "Backer (MIXI Global Investments)" }
+    ],
+    "application": {
+      "how_to_apply": "Apply at lvlzero.xyz during cohort window",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["gaming", "incubator", "equity-free", "nazara", "mixi"],
+    "summary": {
+      "en": "LVL Zero is an execution-first Indian gaming incubator launched 2025/26, backed by Nazara Technologies, MIXI Global Investments and Chimera VC. It runs a 100-day sprint giving 10 studios a $10K equity-free grant each; the inaugural April 2026 cohort drew 240+ applications."
+    },
+    "sources": [
+      { "url": "https://respawn.outlookindia.com/gaming/gaming-news/indian-gaming-incubator-lvl-zero-opens-first-cohort-applications", "title": "Indian Gaming Incubator LVL Zero Opens First Cohort Applications", "publisher": "Outlook Respawn", "accessed": "2026-06-03", "supports": "Backers, grant, cohort size, program length, application dates", "quote": "Grant: $10,000 USD per company ... 10 startups for the inaugural cohort ... 100 days ... backed by Nazara Technologies, MIXI Global Investments, and Chimera VC" }
+    ],
+    "confidence": "high",
+    "verification_notes": "MIXI is Japanese, Nazara Indian, Chimera Indian; program is India-focused, hence country India.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "in-india-hero-project",
+    "name": { "en": "India Hero Project (PlayStation)" },
+    "aka": ["PlayStation India Hero Project"],
+    "type": "government-program",
+    "subtypes": ["cvc", "accelerator"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "website": "https://www.playstation.com/en-in/india-hero-project/",
+    "links": {
+      "other": ["https://sonyinteractive.com/en/news/blog/india-hero-project-call-for-submissions/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$100K+ recoupable, milestone-based", "usd_min": 100000, "usd_max": null },
+      "geo_focus": ["India"],
+      "sector_focus": ["gaming"],
+      "thesis": "Sony Interactive Entertainment's India publishing/funding initiative providing PS5 dev kits, milestone-based recoupable funding from $100K, mentorship and global publishing pipelines to Indian console studios."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": "5 (first cohort), 2 (second cohort)",
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "From $100,000 recoupable, milestone-based", "usd": 100000, "currency": "USD" },
+      "format": "hybrid",
+      "location": "India-wide",
+      "demo_day": null,
+      "perks": ["PS5 development kits", "SIE internal resources & mentorship", "global publishing pipeline"],
+      "application_url": "https://sonyinteractive.com/en/news/blog/india-hero-project-call-for-submissions/",
+      "eligibility": "Indian game development studios building PS5/console titles"
+    },
+    "track_record": {
+      "portfolio_count": "7+ funded titles across two cohorts",
+      "notable_investments": [
+        { "company": "Underdogs Studio (Mukti)", "sector": "console game", "outcome": "active" },
+        { "company": "Big Boot Games (Meteora)", "sector": "console game", "outcome": "active" },
+        { "company": "Appy Monkeys (Lokko)", "sector": "console game", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Submit during open call for submissions",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["gaming", "console", "playstation", "publishing"],
+    "summary": {
+      "en": "India Hero Project is Sony Interactive Entertainment's India initiative (announced 2023) backing Indian console game studios with PS5 dev kits, milestone-based recoupable funding from $100K, mentorship and global publishing. Two cohorts funded 7+ titles."
+    },
+    "sources": [
+      { "url": "https://en.wikipedia.org/wiki/PlayStation_Hero_Projects", "title": "PlayStation Hero Projects", "publisher": "Wikipedia", "accessed": "2026-06-03", "supports": "Launch, cohorts, funding terms", "quote": "Each developer was eligible to receive at least $100,000, paid after developers hit certain milestones ... five games accepted and announced in March 2024" },
+      { "url": "https://respawn.outlookindia.com/gaming/gaming-guides/top-gaming-incubator-programs-india-krafton-lvl-zero-more", "title": "Top Gaming Incubator Programs India", "publisher": "Outlook Respawn", "accessed": "2026-06-03", "supports": "Funding, dev kits, publishing", "quote": "milestone-based recoupable funding starting at $100,000, and global publishing pipelines" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Parent Sony Interactive Entertainment is multinational; classified as government-program/CVC-style publisher program is imperfect — primary type set as government-program-style publisher initiative; subtypes flag cvc/accelerator nature. India-specific program.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "in-iict-wavex-media-tech-incubator",
+    "name": { "en": "IICT–WaveX Media Tech Incubator" },
+    "aka": ["WaveX", "Indian Institute of Creative Technologies Incubator"],
+    "type": "government-program",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "website": "https://www.iict.org/",
+    "links": {
+      "other": ["https://www.investindia.gov.in/sector/media"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["India"],
+      "sector_focus": ["gaming", "consumer"],
+      "thesis": "Government media-tech incubator under the Ministry of Information & Broadcasting (via IICT Mumbai) for AVGC-XR startups — animation, VFX, gaming, comics and extended reality — offering subsidized world-class production infrastructure, mentorship and advisory."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": 15,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "Subsidized infrastructure (₹8,500/month + GST), no direct equity cash disclosed", "usd": null, "currency": "INR" },
+      "format": "in-person",
+      "location": "IICT Mumbai (NFDC Complex / Film City Goregaon)",
+      "demo_day": null,
+      "perks": ["8K RED Raptor cameras", "Dolby Atmos 4K HDR preview theatre", "LED-wall virtual production stage", "photogrammetry systems", "gaming consoles", "mentorship & advisory"],
+      "application_url": "https://www.iict.org/",
+      "eligibility": "Early-stage AVGC-XR (animation, VFX, gaming, comics, XR) startups"
+    },
+    "track_record": {
+      "portfolio_count": "15 (first batch)",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via IICT/WaveX platform",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["gaming", "avgc-xr", "government", "media-tech", "animation", "vfx"],
+    "summary": {
+      "en": "A government media-tech incubator launched 2025 under the Ministry of Information & Broadcasting via IICT Mumbai, on the WaveX accelerator platform. It supports AVGC-XR startups (gaming, animation, VFX, comics, XR) with subsidized world-class production infrastructure (₹8,500/month) and mentorship; first batch selects 15 startups."
+    },
+    "sources": [
+      { "url": "https://smefutures.com/wavex-govt-launches-7-new-incubators-for-gaming-xr-startups/", "title": "WaveX: Govt launches 7 new incubators for gaming, XR startups", "publisher": "SME Futures", "accessed": "2026-06-03", "supports": "Ministry backing, AVGC-XR focus, 7 incubators", "quote": "WaveX ... announced the launch of seven new incubators for gaming XR startups ... backed by the Ministry of Information and Broadcasting" },
+      { "url": "https://www.digitalstudioindia.com/production/animation/wavex-iict-media-tech-incubator-avgc-xr-startup-in-india", "title": "WaveX and IICT Launch Media Tech Incubator", "publisher": "Digital Studio India", "accessed": "2026-06-03", "supports": "IICT Mumbai partnership, infrastructure, fee, batch size", "quote": "first batch will select 15 startups to operate from the IICT campus, with a fee of Rs 8,500 plus GST per month" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Government program; classed as government-program with incubator subtype. Direct cash funding not disclosed — support is infrastructure/mentorship.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "in-gamex-isb-iventure",
+    "name": { "en": "GameX Accelerator (I-Venture @ ISB)" },
+    "aka": ["GameX", "GameX 2.0"],
+    "type": "accelerator",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Hyderabad",
+    "website": "https://i-venture.org/gamex/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/iventureatisb/",
+      "other": ["https://www.startupindia.gov.in/content/sih/en/ams-application/accelerator-program.html?applicationId=660d53c2e4b0cba5bc1713e2"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["India"],
+      "sector_focus": ["gaming"],
+      "thesis": "Three-month gaming and esports accelerator run by I-Venture @ ISB (DLabs), providing masterclasses, mentorship, regulatory and fundraising support to gaming/esports startups, culminating in a Demo Day."
+    },
+    "program": {
+      "length_weeks": 13,
+      "cohort_size": null,
+      "batches_per_year": 1,
+      "equity_taken_pct": "no equity; 2% success fee on investment raised + INR 20,000 program fee",
+      "investment": { "raw": "No direct investment; fundraising support", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Hyderabad (ISB campus)",
+      "demo_day": true,
+      "perks": ["masterclasses & workshops", "mentorship", "regulatory support", "go-to-market support", "fundraising connections", "startup toolkit"],
+      "application_url": "https://i-venture.org/gamex/",
+      "application_cycles": ["Applications in April; program June–September; Demo Day September"],
+      "eligibility": "Gaming and esports startups"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via i-venture.org/gamex during annual call (April)",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["gaming", "esports", "accelerator", "isb", "university"],
+    "summary": {
+      "en": "GameX is a 3-month gaming and esports accelerator by I-Venture @ ISB (Indian School of Business / DLabs) in Hyderabad. It takes no equity (INR 20,000 fee + 2% success fee), offering mentorship, regulatory and fundraising support and a Demo Day. GameX 2.0 partnered with STAN to fuel the creator-led gaming economy."
+    },
+    "sources": [
+      { "url": "https://i-venture.org/gamex/", "title": "GameX Accelerator — I-Venture @ ISB", "publisher": "I-Venture @ ISB", "accessed": "2026-06-03", "supports": "Program length, focus, fee, success fee, timeline", "quote": "3-month acceleration program ... INR 20,000 + GST ... success fee of 2% of any investment ... Demo Day in the second week of September" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year inferred ~2024 from first cohort/Demo Day LinkedIn posts (2024). Cohort size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "in-games24x7-techxpedite",
+    "name": { "en": "TechXpedite (Games24x7)" },
+    "aka": ["TechXpedite"],
+    "type": "accelerator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "website": "https://www.games24x7.com/techxpedite",
+    "links": { "other": ["https://www.games24x7.com/"] },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["India"],
+      "sector_focus": ["gaming", "ai-ml"],
+      "thesis": "Games24x7's AI & gaming startup accelerator, connecting early-stage AI/gaming founders with the gaming major's tech resources, mentorship and potential investment."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Mumbai",
+      "demo_day": null,
+      "perks": ["mentorship", "access to Games24x7 tech & data", "industry connections"],
+      "application_url": "https://www.games24x7.com/techxpedite",
+      "eligibility": "AI and gaming startups"
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via TechXpedite program page",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["gaming", "ai", "accelerator", "games24x7"],
+    "summary": {
+      "en": "TechXpedite is the AI & gaming startup accelerator run by Indian gaming major Games24x7 (RummyCircle, My11Circle), connecting early-stage AI/gaming founders with mentorship, the company's tech and data resources and industry access."
+    },
+    "sources": [
+      { "url": "https://www.games24x7.com/techxpedite", "title": "TechXpedite by Games24x7", "publisher": "Games24x7", "accessed": "2026-06-03", "supports": "Program existence, parent, AI & gaming focus", "quote": "TechXpedite by Games24x7: AI & Gaming Startup Accelerator" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Limited public detail on funding, cohort size, equity. Founding year inferred ~2025 from program launch; HQ matches Games24x7 (Mumbai).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "in-meta-gaming-accelerator-india",
+    "name": { "en": "Meta Gaming Accelerator India" },
+    "aka": [],
+    "type": "accelerator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "website": "https://www.storyboard18.com/how-it-works/meta-backs-emerging-gaming-developers-in-india-with-new-accelerator-and-vc-led-mentorship-70647.htm",
+    "links": { "other": [] },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["India"],
+      "sector_focus": ["gaming", "ai-ml"],
+      "thesis": "Meta's accelerator for emerging Indian game developers, pairing AI tooling, global scale and VC-led mentorship to help studios grow."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "India",
+      "demo_day": null,
+      "perks": ["AI tooling", "VC-led mentorship", "access to Meta platforms & global scale"],
+      "application_url": null,
+      "eligibility": "Emerging Indian game developers"
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [],
+    "application": {
+      "how_to_apply": "Via Meta program application when open",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["gaming", "accelerator", "meta", "ai"],
+    "summary": {
+      "en": "Meta launched a gaming accelerator in India (2025) to empower emerging game developers with AI tooling, global scale and VC-led mentorship."
+    },
+    "sources": [
+      { "url": "https://www.storyboard18.com/how-it-works/meta-backs-emerging-gaming-developers-in-india-with-new-accelerator-and-vc-led-mentorship-70647.htm", "title": "Meta backs emerging gaming developers in India with new Accelerator", "publisher": "Storyboard18", "accessed": "2026-06-03", "supports": "Program existence, focus", "quote": "Meta backs emerging gaming developers in India with new Accelerator and VC-led mentorship" },
+      { "url": "https://www.businesstoday.in/technology/news/story/meta-gaming-accelerator-launched-to-empower-indian-game-developers-with-ai-global-scale-and-vc-support-481017-2025-06-19", "title": "Meta Gaming Accelerator launched", "publisher": "Business Today", "accessed": "2026-06-03", "supports": "Launch year, AI/VC focus", "quote": "Meta Gaming Accelerator launched to empower Indian game developers with AI, global scale, and VC support" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Parent Meta is US-based; this is the India-specific program. Funding terms, cohort details not disclosed in sources reviewed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "in-anicut-capital",
+    "name": { "en": "Anicut Capital" },
+    "aka": [],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Chennai",
+    "website": "http://www.anicutcapital.com/",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/anicut-capital",
+      "other": ["https://www.anicutcapital.com/portfolio/"]
+    },
+    "capital": {
+      "aum": { "raw": "INR 3,500 crore cumulative AUM", "usd": null, "currency": "INR" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["consumer", "gaming", "fintech", "saas-enterprise"],
+      "thesis": "Alternative investment firm (debt, seed, growth equity, private credit) for India's startup and SME ecosystem; media, consumer brands and gaming are part of its sector coverage, and it is listed among India's gaming VC funds."
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "notable_investments": [
+        { "company": "SportVot", "sector": "sports OTT streaming", "outcome": "active" },
+        { "company": "Bira 91", "sector": "consumer", "outcome": "active" },
+        { "company": "Wow! Momo", "sector": "consumer", "outcome": "active" }
+      ],
+      "co_investors": ["IAN Alpha Fund", "Omidyar Network", "Ankur Capital"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Via website / warm intro",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["media", "gaming", "consumer", "growth"],
+    "summary": {
+      "en": "Anicut Capital is a Chennai-based alternative investment firm founded 2015 with ~INR 3,500 Cr cumulative AUM across debt, seed, growth and private credit funds. It covers media, consumer and gaming, backing sports-OTT startup SportVot among 100+ companies."
+    },
+    "sources": [
+      { "url": "https://www.indianvcs.com/investor/anicut-capital", "title": "Anicut Capital profile", "publisher": "IndianVCs", "accessed": "2026-06-03", "supports": "Founding year, HQ, sectors, AUM", "quote": "founded in 2015 and based in Chennai ... cumulative AUM of INR 3,500 crore" },
+      { "url": "https://inc42.com/startups/how-sportvot-is-taking-live-sports-streaming-to-grassroots/", "title": "How SportVot Is Taking Live Sports Streaming To Grassroots", "publisher": "Inc42", "accessed": "2026-06-03", "supports": "Media/sports-OTT investment (Anicut among SportVot backers)", "quote": "backers including Anicut Capital, LVX (LetsVenture), Capital A, Omidyar Network" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Sector-agnostic with notable media/sports-tech exposure rather than pure gaming/media specialist; included for documented media/entertainment activity.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "in-mumbai-angels-network",
+    "name": { "en": "Mumbai Angels Network" },
+    "aka": ["Mumbai Angels"],
+    "type": "angel-network",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2006,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "website": "https://www.mumbaiangels.com/",
+    "links": { "other": [] },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["generalist", "gaming"],
+      "thesis": "One of India's oldest angel networks, investing at the very early stage across sectors including gaming, with capital plus advisory and connections."
+    },
+    "track_record": {
+      "portfolio_count": "200+",
+      "notable_investments": [
+        { "company": "GameEon Studios", "sector": "game studio", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via website",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["angel-network", "gaming", "early-stage"],
+    "summary": {
+      "en": "Mumbai Angels Network is one of India's oldest angel networks (founded 2006) with 200+ investments. Among gaming bets, it invested $320,000 in game developer GameEon Studios in September 2021."
+    },
+    "sources": [
+      { "url": "https://yourstory.com/2021/09/funding-mumbai-angels-network-gaming-startup-platform-gameeon-studios", "title": "Mumbai Angels Network invests $320K in GameEon Studios", "publisher": "YourStory", "accessed": "2026-06-03", "supports": "Gaming investment, amount", "quote": "Mumbai Angels Network invested $320,000 in GameEon Studios" },
+      { "url": "https://www.business-standard.com/article/companies/mumbai-angels-network-invests-320-000-in-game-developer-gameeon-studios-121090900470_1.html", "title": "Mumbai Angels Network invests $320,000 in GameEon Studios", "publisher": "Business Standard", "accessed": "2026-06-03", "supports": "Portfolio size, gaming deal", "quote": "over 200 investments in different industries" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Generalist angel network with documented gaming deals; not a pure gaming/media specialist. Founding year ~2006 per public records.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "in-hyderabad-angels",
+    "name": { "en": "Hyderabad Angels" },
+    "aka": [],
+    "type": "angel-network",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Hyderabad",
+    "website": "https://hyderabadangels.in/",
+    "links": {
+      "crunchbase": "https://tracxn.com/d/angel-network/hyderabadangels/__suXA6PxxfjvIMmohFKCnQ3PlZ-FGAlYgMF7RMHZIAm4",
+      "other": []
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["generalist", "gaming"],
+      "thesis": "Hyderabad-based angel network ('Value Beyond Capital') investing early-stage across many sectors explicitly including gaming and media tech."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Kalyan Sivalenka", "role": "Managing Director & Managing Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via website",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["angel-network", "gaming", "media-tech"],
+    "summary": {
+      "en": "Hyderabad Angels (founded 2012) is a Hyderabad-based angel network investing early-stage across sectors explicitly including gaming and media tech, led by Managing Partner Kalyan Sivalenka."
+    },
+    "sources": [
+      { "url": "https://tracxn.com/d/angel-network/hyderabadangels/__suXA6PxxfjvIMmohFKCnQ3PlZ-FGAlYgMF7RMHZIAm4", "title": "Hyderabad Angels — Investor Profile", "publisher": "Tracxn", "accessed": "2026-06-03", "supports": "Founding year, HQ, gaming/media-tech in sectors", "quote": "founded in 2012 and is an angel network based in Hyderabad ... invests in gaming ... media tech" },
+      { "url": "https://respawn.outlookindia.com/gaming/gaming-originals/why-are-investors-betting-big-on-indias-creator-gaming-economy", "title": "India's Gaming & Creator Economy at an Inflection Point", "publisher": "Outlook Respawn", "accessed": "2026-06-03", "supports": "Gaming/creator-economy engagement, managing partner", "quote": "Kalyan Sivalenka, Managing Director and Managing Partner" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Generalist angel network with explicit gaming/media-tech sector coverage; not a pure specialist.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  }
+]

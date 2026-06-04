@@ -1,0 +1,573 @@
+[
+  {
+    "id": "il-builtup-ventures",
+    "name": {
+      "en": "BuiltUp Ventures (BUV by Besadno)",
+      "local": "BuiltUp Ventures"
+    },
+    "aka": ["BUV", "BUV by Besadno", "BuiltUp Ventures by Besadno"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://builtupventures.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/builtup-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/builtup-ventures",
+      "other": [
+        "https://www.israel21c.org/promo/builtup-ventures-fund-opens-a-new-office-in-dubai/",
+        "https://nocamels.com/2019/11/new-us-israeli-fund-aims-to-invest-in-kosher-property-tech-startups/"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$50M target", "usd": null, "currency": "USD" },
+      "funds": [
+        { "name": "BuiltUp Ventures Fund I", "vintage_year": 2019, "size": { "raw": "$10M target (first close $4M)", "usd": null, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "pre-seed"],
+      "check_size": { "raw": "$360K–$750K (per Shizune)", "usd_min": 360000, "usd_max": 750000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel", "United States", "United Arab Emirates"],
+      "sector_focus": ["proptech"],
+      "thesis": "The first dedicated PropTech/ConTech fund spun out of the Besadno Investment Group, bringing vetted early-stage Israeli property and construction technology deal flow to global markets, sourced at the university, incubator and accelerator levels."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Trusstor", "sector": "contech", "outcome": "active" },
+        { "company": "StructShare", "sector": "contech", "outcome": "active" },
+        { "company": "SolidBlock", "sector": "proptech", "outcome": "active" },
+        { "company": "Augmind", "sector": "proptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Eli (Eliezer) Gross", "role": "Founder & Chairman (Besadno Investment Group)" },
+      { "name": "Brian (Zev) Steinberger", "role": "Chief Investment Officer" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via website",
+      "accepts_cold_inbound": true,
+      "contact": null
+    },
+    "tags": ["proptech", "contech", "real-estate-tech", "dedicated-fund", "long-tail"],
+    "summary": {
+      "en": "Tel Aviv- and NYC-based seed micro-VC dedicated to Israeli PropTech and ConTech, spun out of the Besadno Investment Group in 2019; also operates a hub in Dubai. Portfolio spans robotic construction-tech to smart property management.",
+      "local": "קרן זרע ייעודית לפרופטק וקונטק ישראלי, שהוקמה ב-2019 מתוך קבוצת ההשקעות בסדנו, עם משרדים בתל אביב, ניו יורק ודובאי."
+    },
+    "sources": [
+      {
+        "url": "https://nocamels.com/2019/11/new-us-israeli-fund-aims-to-invest-in-kosher-property-tech-startups/",
+        "title": "New US-Israeli Fund Aims To Invest In 'Kosher' Property Tech Startups",
+        "publisher": "NoCamels",
+        "accessed": "2026-06-03",
+        "supports": "founder, founding year, fund size targets",
+        "quote": "BuiltUp has raised $4 million so far, and intends to raise a total of $10 million by the end of the year, with a goal to raise a total of $50 million by the end of 2020."
+      },
+      {
+        "url": "https://www.israel21c.org/promo/builtup-ventures-fund-opens-a-new-office-in-dubai/",
+        "title": "BuiltUp Ventures Fund opens a new office in Dubai",
+        "publisher": "ISRAEL21c",
+        "accessed": "2026-06-03",
+        "supports": "type, focus, offices",
+        "quote": "BUV by Besadno is a fund that specializes in early-stage, innovative, Israeli property and construction technology (Proptech and Contech)."
+      },
+      {
+        "url": "https://shizune.co/investors/proptech-vc-funds-israel",
+        "title": "Top 50 Proptech VC Funds in Israel",
+        "publisher": "Shizune",
+        "accessed": "2026-06-03",
+        "supports": "HQ city, check size, stage",
+        "quote": "BuiltUp Ventures — Tel Aviv. Focus: Construction, Software, Real Estate. Stage: Seed ($360k–$750k)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "BuiltUp Ventures and 'BUV by Besadno' are the same entity (Besadno Group's PropTech fund). Exact final fund size and current AUM not publicly disclosed; left null. The $50M figure is a stated target, not a confirmed close.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "il-bricks-proptech-innovation",
+    "name": {
+      "en": "Bricks Proptech Innovation",
+      "local": "בריקס"
+    },
+    "aka": ["BRICKS", "BRICKS Fund", "Bricks Corporate Finance"],
+    "type": "incubator",
+    "subtypes": ["vc", "accelerator"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Ramat HaSharon",
+    "website": "https://www.bricksinnovation.net/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/bricks-proptech-innovation",
+      "crunchbase": "https://www.crunchbase.com/organization/bricks-proptech-innovation",
+      "other": [
+        "https://www.calcalistech.com/ctech/articles/0,7340,L-3909783,00.html",
+        "https://pitchbook.com/profiles/investor/467188-66"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel", "United States", "United Kingdom", "Asia"],
+      "sector_focus": ["proptech"],
+      "thesis": "Proptech innovation center and early-stage VC arm connecting influential real-estate owners, developers and operators with emerging startups; runs an innovation hub of ~150 startups and an associated BRICKS Fund."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": "~150 startups in network (50 non-Israeli)",
+      "format": "hybrid",
+      "location": "Israel",
+      "perks": ["Real-estate corporate access", "pilots / beta sites", "mentorship", "corporate finance"],
+      "eligibility": "PropTech / real-estate startups"
+    },
+    "track_record": {
+      "portfolio_count": "~25+ in community",
+      "notable_investments": [
+        { "company": "Ultrawis", "sector": "contech", "outcome": "active" },
+        { "company": "Greenvibe", "sector": "proptech", "outcome": "active" },
+        { "company": "Datumate", "sector": "contech", "outcome": "active" },
+        { "company": "OKIBO", "sector": "contech", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Sivan Blasenheim", "role": "Founder / Managing Partner" },
+      { "name": "Ran Laufer", "role": "Managing Partner" },
+      { "name": "Amir Hasidim", "role": "Partner" },
+      { "name": "Amir Yerushalmi", "role": "Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via website contact form",
+      "accepts_cold_inbound": true,
+      "contact": null
+    },
+    "tags": ["proptech", "innovation-hub", "real-estate", "long-tail"],
+    "summary": {
+      "en": "Tel Aviv-area proptech innovation center founded in late 2019 (Ramat HaSharon) that serves as the innovation arm for real-estate owners and operators across Israel, the US, UK and Asia, with a network of ~150 startups and an associated early-stage VC fund.",
+      "local": "מרכז חדשנות פרופטק שהוקם בסוף 2019 ברמת השרון, המשמש כזרוע החדשנות של בעלי ומפעילי נדל\"ן בישראל, ארה\"ב, בריטניה ואסיה, עם רשת של כ-150 סטארטאפים וקרן הון סיכון נלווית."
+    },
+    "sources": [
+      {
+        "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3909783,00.html",
+        "title": "For Israel's proptech sector, the foundation lies in the BRICKS",
+        "publisher": "Calcalist / CTech",
+        "accessed": "2026-06-03",
+        "supports": "founders, model, network size, VC fund formation",
+        "quote": "The network has around 150 startups - 50 of which aren't Israeli ... the formation of its own VC fund to help investors become more involved."
+      },
+      {
+        "url": "https://www.bricksinnovation.net/",
+        "title": "Bricks Proptech Innovation",
+        "publisher": "Bricks",
+        "accessed": "2026-06-03",
+        "supports": "leadership, partners, programs",
+        "quote": "A leading innovation center focused on innovative technologies in the Real Estate sector."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding given as 'late 2019' by Globes/CTech (HQ Ramat HaSharon). Leadership roster has evolved (early sources list Sivan Blasenheim and Amalia Paz; current site lists Blasenheim, Laufer, Hasidim, Yerushalmi). Check sizes and fund size not disclosed. Leadership overlaps with REACH Israel (Blasenheim, Laufer) but BRICKS is a distinct entity.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "il-realtech-vc",
+    "name": {
+      "en": "RealTech (RealT VC)",
+      "local": "RealTech"
+    },
+    "aka": ["RealT", "RealT VC", "RealTech VC"],
+    "type": "vc",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.realt.vc/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/realt-vc",
+      "other": ["https://www.vcsheet.com/sheet/real-estate-and-construction"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel"],
+      "sector_focus": ["proptech", "climate-energy"],
+      "thesis": "Early-stage VC investing in PropTech and sustainability startups from pre-seed to Series A, drawing deal flow and real-time feedback from leading real-estate companies via an associated innovation center; themes include healthy buildings, customer experience and the sustainable/circular economy."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via website",
+      "accepts_cold_inbound": true,
+      "contact": null
+    },
+    "tags": ["proptech", "sustainability", "contech", "long-tail"],
+    "summary": {
+      "en": "Israeli early-stage VC investing in PropTech and sustainability startups (pre-seed to Series A), using an innovation center and real-estate corporate partners for deal flow and validation.",
+      "local": "קרן הון סיכון ישראלית בשלב מוקדם המשקיעה בסטארטאפים בתחומי הפרופטק והקיימות, משלב Pre-seed ועד Series A, תוך שימוש במרכז חדשנות ובשותפי נדל\"ן לאיתור ולוולידציה של עסקאות."
+    },
+    "sources": [
+      {
+        "url": "https://www.realt.vc/",
+        "title": "RealTech | Proptech & Sustainability",
+        "publisher": "RealTech",
+        "accessed": "2026-06-03",
+        "supports": "focus, stage, model",
+        "quote": "RealT focuses on early stage VC investing in Proptech & sustainability startups from pre-seed to A stage."
+      },
+      {
+        "url": "https://shizune.co/investors/proptech-vc-funds-israel",
+        "title": "Top 50 Proptech VC Funds in Israel",
+        "publisher": "Shizune",
+        "accessed": "2026-06-03",
+        "supports": "Israel-based proptech VC listing",
+        "quote": "RealTech | Proptech & Sustainability"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year, fund size, named team and portfolio not surfaced from the official site (realt.vc returned 404/limited content on fetch); details drawn from search snippets and listing aggregators. Appears related to the BRICKS innovation ecosystem but operates under its own RealTech/RealT VC brand.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "il-reality-proptech",
+    "name": {
+      "en": "Reality PropTech",
+      "local": "ריאליטי פרופטק"
+    },
+    "aka": ["Reality Proptech", "Reality Group PropTech"],
+    "type": "angel-network",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://reality-proptech.com/",
+    "links": {
+      "other": ["https://finder.startupnationcentral.org/investor_page/reality-proptech"]
+    },
+    "capital": {
+      "aum": { "raw": "Reality Group parent: 8.5B NIS / ~$3B real estate portfolio", "usd": null, "currency": "ILS" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel"],
+      "sector_focus": ["proptech", "fintech"],
+      "thesis": "Early-stage investment group backed by Reality Group, one of Israel's largest real-estate fund managers, investing in ventures that fundamentally change the real-estate market across Real Estate FinTech, Smart Real Estate, the Collaborative Economy and Construction Technology, offering startups industry leaders, real-time data and beta-sites."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Right Hear", "sector": "proptech", "outcome": "active" },
+        { "company": "HomeMaze", "sector": "proptech", "outcome": "active" },
+        { "company": "Blocka", "sector": "proptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Dr. Michael Vardi", "role": "Founder" },
+      { "name": "Assaf Vardi", "role": "Founder & Managing Partner" },
+      { "name": "Ohad Rozen", "role": "Founder & Managing Partner" },
+      { "name": "Chen Rosen-Rajuan", "role": "Managing Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Submit venture via website contact form",
+      "accepts_cold_inbound": true,
+      "contact": "office@reality-proptech.com"
+    },
+    "tags": ["proptech", "angel-group", "real-estate", "long-tail"],
+    "summary": {
+      "en": "Tel Aviv-based early-stage proptech investment group backed by Reality Group (one of Israel's largest real-estate fund managers, ~$3B / 8.5B NIS), investing in real-estate fintech, smart real estate and construction tech.",
+      "local": "קבוצת השקעות פרופטק בשלב מוקדם בתל אביב, מגובה ע\"י קבוצת ריאליטי (מהגדולות בניהול קרנות נדל\"ן בישראל, כ-8.5 מיליארד ש\"ח), המשקיעה בפינטק נדל\"ן, נדל\"ן חכם וטכנולוגיות בנייה."
+    },
+    "sources": [
+      {
+        "url": "https://reality-proptech.com/",
+        "title": "Reality PropTech invests in early stage startups",
+        "publisher": "Reality PropTech",
+        "accessed": "2026-06-03",
+        "supports": "type, HQ, focus, team, parent portfolio size",
+        "quote": "connecting entrepreneurs with industry leaders, real-time data, beta-sites, and access to Reality's 8.5 billion NIS portfolio."
+      },
+      {
+        "url": "https://finder.startupnationcentral.org/investor_page/reality-proptech",
+        "title": "Reality Proptech - Israeli Angel Group",
+        "publisher": "Start-Up Nation Finder",
+        "accessed": "2026-06-03",
+        "supports": "classification as Israeli angel group, proptech focus",
+        "quote": "Reality PropTech is an Israeli angel group that invests in early-stage ventures which fundamentally change the real estate market."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Reality Group parent portfolio cited as both 8.5B NIS and ~$3B across sources; both retained with quotes. Founding year of the proptech arm not stated. Classified as angel-network per Start-Up Nation Finder ('Israeli angel group') though it operates as a corporate-backed early-stage fund.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "il-contech-construction-innovation-center",
+    "name": {
+      "en": "ConTech – Construction Innovation Center",
+      "local": "קונטק – מרכז טכנולוגיות הבנייה והנדל\"ן"
+    },
+    "aka": ["ConTech Israel", "Construction Innovation Zone"],
+    "type": "government-program",
+    "subtypes": ["accelerator", "incubator"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.contech.me/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/contech-construcation-innovaation-zone",
+      "other": [
+        "https://he.contech.me/",
+        "https://finder.startupnationcentral.org/program_page/contech",
+        "https://aec-business.com/boosting-the-israeli-contech-startup-ecosystem/"
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Israel"],
+      "sector_focus": ["proptech"],
+      "thesis": "Non-profit, government-backed construction innovation center building an international ConTech/PropTech community — connecting Israeli startups with global construction corporates, contractors, regulators and investors to make Israel a leading global construction-tech hub."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": "4–6 startups selected annually (incubator track)",
+      "batches_per_year": 1,
+      "equity_taken_pct": null,
+      "format": "hybrid",
+      "location": "Tel Aviv",
+      "perks": ["Industry connections", "consulting hours", "co-working", "investor access"],
+      "eligibility": "Construction-tech and proptech startups"
+    },
+    "track_record": {
+      "portfolio_count": "200+ startups in community",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Zachi Flatto", "role": "Co-founder & CEO" },
+      { "name": "Shirly Braitner", "role": "CEO" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via ConTech website / program intake",
+      "accepts_cold_inbound": true,
+      "contact": null
+    },
+    "tags": ["contech", "proptech", "government-backed", "non-profit", "community", "long-tail"],
+    "summary": {
+      "en": "Tel Aviv-based non-profit construction innovation center (founded ~2017) backed by Israel's Ministry of Construction & Housing, Ministry of Economy and the Israel Builders Association; runs an incubator selecting 4–6 contech/proptech startups a year and a community of 200+ startups.",
+      "local": "מרכז חדשנות לבנייה ללא כוונת רווח בתל אביב (הוקם בסביבות 2017), מגובה ע\"י משרד הבינוי והשיכון, משרד הכלכלה והתאחדות הקבלנים; מפעיל חממה הבוחרת 4–6 סטארטאפים בשנה וקהילה של מעל 200 סטארטאפים."
+    },
+    "sources": [
+      {
+        "url": "https://aec-business.com/boosting-the-israeli-contech-startup-ecosystem/",
+        "title": "Boosting the Israeli ConTech Startup Ecosystem",
+        "publisher": "AEC Business",
+        "accessed": "2026-06-03",
+        "supports": "CEO, HQ, government partners, thesis",
+        "quote": "With Israeli technologies, government support, and the spirit of Israeli entrepreneurship, ConTech builds a unique ecosystem, making Israel a leading global Construction-Tech hub."
+      },
+      {
+        "url": "https://he.contech.me/",
+        "title": "קונטק - מרכז טכנולוגיות הבנייה והנדל\"ן בישראל",
+        "publisher": "ConTech",
+        "accessed": "2026-06-03",
+        "supports": "non-profit status, incubator cohort size, community size",
+        "quote": "קהילת קונטק החלה את דרכה עם עשרים סטארטאפים, והיום ישנם יותר מ-200 סטארטאפים בתחום."
+      },
+      {
+        "url": "https://finder.startupnationcentral.org/program_page/contech",
+        "title": "ConTech - Startup Nation Finder",
+        "publisher": "Start-Up Nation Central",
+        "accessed": "2026-06-03",
+        "supports": "founding year, accelerator classification, partners",
+        "quote": "ConTech is an accelerator based in Tel Aviv, Israel founded in 2017 ... ConTech's partners include the Ministry of Economy and Industry, the Israel Builders Association and the Ministry of Construction and Housing."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "ConTech is a non-profit community/program rather than a capital-deploying fund; classified as government-program with accelerator/incubator subtypes (it is government-backed and runs an incubator track of 4–6 startups/year). Founding year 2017 per Start-Up Nation Finder. Leadership: Zachi Flatto (co-founder/CEO) confirmed; Shirly Braitner also named as CEO in one source (possible co-CEO or succession).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "il-reach-israel-scv",
+    "name": {
+      "en": "REACH Israel (Second Century Ventures)",
+      "local": "REACH Israel"
+    },
+    "aka": ["REACH Israel", "SCV REACH Israel", "NAR REACH Israel"],
+    "type": "accelerator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.nar-reach.com/israel",
+    "links": {
+      "other": [
+        "https://www.nar-reach.com/reach-israel-2026-where-real-estate-innovation-meets-real-world-impact",
+        "https://chicagoagentmagazine.com/2025/06/02/reach-and-second-century-ventures/"
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Israel", "United States"],
+      "sector_focus": ["proptech"],
+      "thesis": "Israeli chapter of the REACH accelerator run by Second Century Ventures, the strategic investment arm of the U.S. National Association of REALTORS; an event-based program launching and scaling proptech and adjacent real-estate startups, leveraging SCV's global network of 1M+ real-estate executives."
+    },
+    "program": {
+      "length_weeks": 24,
+      "cohort_size": "~7 companies per cohort",
+      "batches_per_year": 1,
+      "equity_taken_pct": null,
+      "format": "hybrid",
+      "location": "Tel Aviv",
+      "demo_day": true,
+      "perks": ["Strategic planning calls", "1:1 mentorship", "industry events / demo days", "masterclasses", "executive roundtables", "NAR network access"],
+      "application_url": "https://www.nar-reach.com/israel",
+      "application_cycles": ["Annual (e.g., Sept 2025 – Feb 2026 cohort)"],
+      "eligibility": "Real-estate / proptech startups"
+    },
+    "track_record": {
+      "portfolio_count": "23 companies across 3 Israeli cohorts; 300+ globally",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Sivan Blasenheim", "role": "Managing Partner, REACH Israel" },
+      { "name": "Ran Laufer", "role": "Managing Partner, REACH Israel" },
+      { "name": "Tal Rath", "role": "Director" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via nar-reach.com/israel during open application window",
+      "accepts_cold_inbound": true,
+      "contact": null
+    },
+    "tags": ["proptech", "accelerator", "scv", "nar", "real-estate", "long-tail"],
+    "summary": {
+      "en": "Tel Aviv-based proptech accelerator, the Israeli chapter of NAR's Second Century Ventures REACH program; runs a ~6-month, event-based cohort (~7 companies) with mentorship, demo days and access to the global real-estate network. 23 companies across three Israeli cohorts.",
+      "local": "מאיץ פרופטק בתל אביב, הסניף הישראלי של תוכנית REACH של Second Century Ventures (הזרוע ההשקעתית של איגוד המתווכים האמריקאי NAR); מחזור בן כ-6 חודשים מבוסס אירועים עם כ-7 חברות, ליווי וגישה לרשת נדל\"ן גלובלית."
+    },
+    "sources": [
+      {
+        "url": "https://www.nar-reach.com/israel",
+        "title": "REACH Israel – NAR REACH",
+        "publisher": "Second Century Ventures / NAR",
+        "accessed": "2026-06-03",
+        "supports": "HQ, program structure, leadership, length",
+        "quote": "Based in Tel-Aviv, REACH Israel provides a dynamic event-based program aimed at launching and accelerating the most promising startups in real estate and adjacent sectors."
+      },
+      {
+        "url": "https://www.nar-reach.com/reach-israel-2026-where-real-estate-innovation-meets-real-world-impact",
+        "title": "REACH Israel 2026",
+        "publisher": "Second Century Ventures / NAR",
+        "accessed": "2026-06-03",
+        "supports": "cohort count, 23 companies across 3 cohorts",
+        "quote": "With 23 companies across three cohorts, the program has built a proven, growing body of evidence: that Israeli proptech is not just innovative - it delivers."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Equity/investment terms not disclosed (REACH is primarily an equity-light accelerator). Program length inferred ~24 weeks from the Sept 2025–Feb 2026 cohort dates. Leadership (Blasenheim, Laufer) overlaps with BRICKS; REACH Israel is the SCV/NAR-backed program and is treated as a distinct entity. Founding year of the Israeli chapter not stated.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "il-gc-ventures-gelfand",
+    "name": {
+      "en": "GC Ventures (Gelfand Capital Ventures)",
+      "local": "GC Ventures"
+    },
+    "aka": ["Gelfand Capital Ventures", "GC Ventures", "Gelfand VC"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Herzliya",
+    "offices": [
+      { "country": "United States", "city": "Philadelphia" },
+      { "country": "Israel", "city": "Herzliya" }
+    ],
+    "website": "https://www.gelfandvc.com/",
+    "links": {
+      "other": ["https://shizune.co/investors/proptech-vc-funds-israel"]
+    },
+    "capital": {
+      "aum": { "raw": "$1B (via Gelfand Group parent real-estate portfolio)", "usd": 1000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel", "United States"],
+      "sector_focus": ["proptech", "ai-ml"],
+      "thesis": "Operator-led vertical-AI PropTech and ConTech venture firm backed by a ~$1B AUM real-estate group; runs an 'IDPC' (Investor, Design Partner, Client) model that deploys portfolio products directly into live operating real-estate portfolios for validation before scaling."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Agora", "sector": "proptech", "outcome": "active" },
+        { "company": "Jetbuild", "sector": "contech", "outcome": "active" },
+        { "company": "Constrol", "sector": "contech", "outcome": "active" },
+        { "company": "Apply Design", "sector": "proptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Yonatan Gelfand", "role": "Founder / Principal (Gelfand Group)" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via website form (Philadelphia or Herzliya offices)",
+      "accepts_cold_inbound": true,
+      "contact": null
+    },
+    "tags": ["proptech", "contech", "vertical-ai", "operator-led", "long-tail"],
+    "summary": {
+      "en": "Operator-led PropTech/ConTech VC with offices in Herzliya and Philadelphia, backed by the Gelfand Group's ~$1B real-estate portfolio; invests in vertical-AI proptech and construction-tech and deploys portfolio products into its own live real-estate operations.",
+      "local": "קרן הון סיכון לפרופטק וקונטק בהובלת מפעילים, עם משרדים בהרצליה ופילדלפיה, מגובה ע\"י תיק הנדל\"ן של קבוצת גלפנד (כ-מיליארד דולר); משקיעה ב-Vertical AI לתחום הנדל\"ן והבנייה ומטמיעה את מוצרי החברות הפורטפוליו בנכסים הפעילים שלה."
+    },
+    "sources": [
+      {
+        "url": "https://www.gelfandvc.com/",
+        "title": "GC Ventures | Gelfand Capital Ventures",
+        "publisher": "GC Ventures",
+        "accessed": "2026-06-03",
+        "supports": "focus, model, AUM, offices, portfolio",
+        "quote": "an operator-led proptech and contech venture firm backed by a $1B AUM real estate group, rooted in Israel and scaled in the U.S."
+      },
+      {
+        "url": "https://shizune.co/investors/proptech-vc-funds-israel",
+        "title": "Top 50 Proptech VC Funds in Israel",
+        "publisher": "Shizune",
+        "accessed": "2026-06-03",
+        "supports": "Israel base (Herzliya), real-estate focus",
+        "quote": "GC Ventures — Israel/Germany. Focus: Real Estate, Content, Software. Stage: Seed, Pre-Seed"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "$1B AUM refers to the parent Gelfand Group real-estate portfolio, not a dedicated venture fund. HQ given as Herzliya (Israel) on listings; primary US office is Philadelphia. Founding year and named venture team beyond the Gelfand family not surfaced. One aggregator lists 'Israel/Germany'; official site says Israel + US — Germany not confirmed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  }
+]

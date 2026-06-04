@@ -1,0 +1,513 @@
+[
+  {
+    "id": "il-merlin-ventures",
+    "name": { "en": "Merlin Ventures", "local": "מרלין ונצ'רס" },
+    "aka": ["Merlin VC", "Merlin Group venture arm"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "offices": [
+      { "country": "Israel", "city": "Tel Aviv" },
+      { "country": "United States", "city": "Tysons Corner (Virginia)" }
+    ],
+    "website": "https://merlin.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/merlinventures/",
+      "other": ["https://merlin.vc/news-insights/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": "$75M", "usd": 75000000, "currency": "USD" },
+      "funds": [
+        { "name": "Merlin Ventures inaugural/second fund", "vintage_year": 2025, "size": { "raw": "$75M", "usd": 75000000, "currency": "USD" } },
+        { "name": "Prior Merlin vehicle", "vintage_year": 2021, "size": { "raw": "$53M", "usd": 53000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel", "United States"],
+      "sector_focus": ["cybersecurity", "ai-ml", "saas-enterprise"],
+      "thesis": "Backs Israeli cybersecurity founders building for US and global markets, pairing capital with go-to-market infrastructure, US government/enterprise relationships, and compliance support via parent Merlin Group's federal channel."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Talon Cyber Security", "sector": "cybersecurity", "outcome": "acquired (Palo Alto Networks)" },
+        { "company": "Dig Security", "sector": "cybersecurity", "outcome": "acquired (Palo Alto Networks)" },
+        { "company": "Veriti", "sector": "cybersecurity", "outcome": "acquired (Check Point)" },
+        { "company": "InfoSec Global", "sector": "cybersecurity", "outcome": "acquired (Keyfactor)" }
+      ],
+      "exits": [
+        { "company": "Talon Cyber Security", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Dig Security", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Seth Spergel", "role": "Managing Partner", "linkedin": "" },
+      { "name": "Shay Michel", "role": "Managing Partner", "linkedin": "" },
+      { "name": "David Phelps", "role": "CEO, Merlin Group (fund manager)", "linkedin": "" },
+      { "name": "Almog Golod", "role": "Partner", "linkedin": "" },
+      { "name": "Tav Spector (Levi)", "role": "Operating Partner", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via merlin.vc / firm website; inbound for cybersecurity startups targeting US/global markets.",
+      "accepts_cold_inbound": true,
+      "contact": "https://merlin.vc/"
+    },
+    "tags": ["cybersecurity", "israel", "us-israel", "growth", "government-grade"],
+    "summary": {
+      "en": "Merlin Ventures is the venture arm of Merlin Group, a US-Israeli cybersecurity investor that built out its Israel team in early 2021 and closed an oversubscribed ~$75M fund in 2025. It backs Israeli cyber startups for US/global expansion; its earlier vehicles produced six exits including Talon and Dig Security (both to Palo Alto Networks), Veriti (Check Point) and InfoSec Global (Keyfactor).",
+      "local": "מרלין ונצ'רס היא זרוע ההשקעות של מרלין גרופ, משקיע סייבר אמריקאי-ישראלי שהקים צוות בישראל בתחילת 2021 וסגר קרן של כ-75 מיליון דולר ב-2025."
+    },
+    "sources": [
+      {
+        "url": "https://merlin.vc/2025-inaugural-fund/",
+        "title": "Merlin Ventures Announces Oversubscribed $75 Million Inaugural Fund",
+        "publisher": "Merlin VC",
+        "accessed": "2026-06-03",
+        "supports": "fund size, Israel team since Jan 2021, HQ Tysons Corner + Tel Aviv, managing partners, portfolio exits",
+        "quote": "Merlin Ventures announced the close of its oversubscribed inaugural fund, exceeding its $75 million target ... Since building out its team in Israel in January 2021, Merlin Ventures has successfully exited six investments made from previous vehicles, including Talon and Dig Security, both acquired by Palo Alto Networks, and more recently, InfoSec Global, acquired by Keyfactor, and Veriti, acquired by Check Point Software."
+      },
+      {
+        "url": "https://www.calcalistech.com/ctechnews/article/rj3lnopmll",
+        "title": "Merlin Ventures raises $75 million to back next wave of Israeli cybersecurity startups",
+        "publisher": "Calcalist / CTech",
+        "accessed": "2026-06-03",
+        "supports": "second fund $75M, prior fund $53M, growth-stage cybersecurity, six of ten first-fund companies acquired",
+        "quote": "Second fund raised: $75 million ... Previous fund: $53 million, launched four years ago ... Of first fund's 10 companies: six have already been acquired."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Sources describe Merlin variously as inaugural and as second fund (prior $53M vehicle). Stage described as growth-stage cybersecurity but PRNewswire/SiliconANGLE framed seed-stage; tagged seed+A+growth to capture range. Check size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "il-nightdragon-tel-aviv",
+    "name": { "en": "NightDragon (Tel Aviv / EMEA office)", "local": "נייטדרגון" },
+    "aka": ["NightDragon Security", "NightDragon EMEA"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "israel",
+    "country": "United States",
+    "hq_city": "San Francisco (Bay Area)",
+    "offices": [
+      { "country": "United States", "city": "San Francisco" },
+      { "country": "Israel", "city": "Tel Aviv" }
+    ],
+    "website": "https://www.nightdragon.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/nightdragon-security",
+      "other": ["https://www.calcalistech.com/ctechnews/article/hkcolbubn"]
+    },
+    "capital": {
+      "aum": { "raw": "~$1B", "usd": 1000000000, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": "USD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel", "United States", "Europe", "EMEA"],
+      "sector_focus": ["cybersecurity"],
+      "thesis": "Late-stage/growth investor and advisory platform dedicated to cybersecurity, safety, security and privacy companies; opened its first international office in Tel Aviv in 2023 to source and back Israeli cyber and defense-tech companies."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Cider Security", "sector": "cybersecurity", "outcome": "acquired (Palo Alto Networks)" }
+      ],
+      "exits": [
+        { "company": "Cider Security", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Dave DeWalt", "role": "Founder & CEO (former CEO of McAfee, FireEye)", "linkedin": "" },
+      { "name": "Dorin Baniel", "role": "Principal & Head of EMEA (heads Tel Aviv office)", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via nightdragon.com; EMEA/Israel deal flow led from Tel Aviv office.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.nightdragon.com/"
+    },
+    "tags": ["cybersecurity", "growth", "privacy", "safety", "israel-office", "us-fund"],
+    "summary": {
+      "en": "NightDragon is a US growth-stage venture and advisory firm (~$1B AUM) founded by former McAfee/FireEye CEO Dave DeWalt, focused exclusively on cybersecurity, safety, security and privacy. In 2023 it opened its first international office in Tel Aviv, led by Dorin Baniel as Principal and Head of EMEA, to invest in Israeli cyber and emerging-tech companies; portfolio includes Israel-linked Cider Security (acquired by Palo Alto Networks).",
+      "local": "נייטדרגון היא חברת השקעות צמיחה אמריקאית בתחום הסייבר שהקימה בשנת 2023 משרד ראשון מחוץ לארה\"ב בתל אביב בראשות דורין בניאל."
+    },
+    "sources": [
+      {
+        "url": "https://www.calcalistech.com/ctechnews/article/hkcolbubn",
+        "title": "Dave DeWalt's NightDragon opens first international office in Tel Aviv",
+        "publisher": "Calcalist / CTech",
+        "accessed": "2026-06-03",
+        "supports": "Tel Aviv office opened 2023, head Dorin Baniel, founder Dave DeWalt, ~$1B AUM, focus cybersecurity/security/safety/privacy growth stage, Cider exit",
+        "quote": "Dorin Baniel serves as Principal and Head of EMEA ... announced April 3, 2023 ... Dave DeWalt established NightDragon in 2012 [firm; 2016 fund] ... targets growth stage companies in the areas of cybersecurity, security, safety and privacy ... Approximately $1 billion [AUM] ... Cider, which was acquired by Palo Alto Networks."
+      },
+      {
+        "url": "https://finder.startupnationcentral.org/investor_page/nightdragon",
+        "title": "NightDragon — Foreign VC and Private Equity",
+        "publisher": "Start-Up Nation Finder",
+        "accessed": "2026-06-03",
+        "supports": "Listed as foreign VC/PE active in Israel focused on cybersecurity",
+        "quote": "NightDragon - Foreign VC and Private Equity | Startup Nation Finder"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "country set to United States (HQ); Israel presence is the Tel Aviv EMEA office opened 2023. Founding year of firm cited as 2016 in some sources and 2012 in CTech text (DeWalt's broader involvement); AUM ~$1B. Check size and dedicated Israel fund size not disclosed. SNC finder page returned 403 to automated fetch but is indexed/confirmed via search snippet.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "il-hyperwise-ventures",
+    "name": { "en": "Hyperwise Ventures", "local": "הייפרווייז ונצ'רס" },
+    "aka": ["Hyperwise"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "offices": [{ "country": "Israel", "city": "Tel Aviv" }],
+    "website": "https://hyperwise.vc/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/hyperwise-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/hyperwise-ventures",
+      "other": ["https://finder.startupnationcentral.org/investor_page/hyperwise-ventures"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": "$120M (Fund II)", "usd": 120000000, "currency": "USD" },
+      "funds": [
+        { "name": "Hyperwise Ventures I", "vintage_year": null, "size": { "raw": "$70M", "usd": 70000000, "currency": "USD" } },
+        { "name": "Hyperwise Ventures II", "vintage_year": null, "size": { "raw": "$120M", "usd": 120000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "pre-seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["cybersecurity", "saas-enterprise"],
+      "thesis": "Early-stage VC leading seed investments in Israeli cybersecurity and enterprise-software startups, backed by founders who themselves built and sold cyber companies."
+    },
+    "track_record": {
+      "portfolio_count": "~14",
+      "notable_investments": [
+        { "company": "LightCyber", "sector": "cybersecurity", "outcome": "acquired (Palo Alto Networks)" },
+        { "company": "FireGlass", "sector": "cybersecurity", "outcome": "acquired (Symantec)" },
+        { "company": "Mobilisafe", "sector": "cybersecurity", "outcome": "acquired (Rapid7)" }
+      ],
+      "exits": [
+        { "company": "LightCyber", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "FireGlass", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Nathan Shuchami", "role": "Managing Partner / Co-founder", "linkedin": "https://il.linkedin.com/in/nathan-shuchami-1152721" },
+      { "name": "Aviv Gafni", "role": "Co-founder / Partner", "linkedin": "" },
+      { "name": "Ben Omelchenko", "role": "Co-founder / Partner", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via hyperwise.vc; leads seed rounds for cyber and enterprise software founders.",
+      "accepts_cold_inbound": true,
+      "contact": "https://hyperwise.vc/"
+    },
+    "tags": ["cybersecurity", "enterprise-software", "seed", "israel", "tel-aviv"],
+    "summary": {
+      "en": "Hyperwise Ventures is a Tel Aviv early-stage VC that leads seed investments in Israeli cybersecurity and enterprise-software startups. Founded by serial cyber entrepreneurs (Nathan Shuchami, Aviv Gafni, Ben Omelchenko), it has raised two funds (~$70M and ~$120M) and backed companies such as LightCyber (acquired by Palo Alto Networks) and FireGlass (acquired by Symantec).",
+      "local": "הייפרווייז ונצ'רס היא קרן הון סיכון תל-אביבית בשלב מוקדם המובילה השקעות סיד בסטארטאפים ישראליים בתחומי הסייבר ותוכנת הארגון."
+    },
+    "sources": [
+      {
+        "url": "https://finder.startupnationcentral.org/investor_page/hyperwise-ventures",
+        "title": "Hyperwise Ventures — Israeli VC and Private Equity",
+        "publisher": "Start-Up Nation Finder",
+        "accessed": "2026-06-03",
+        "supports": "Israel-based early-stage VC focused on cybersecurity and enterprise software, founders",
+        "quote": "Hyperwise Ventures is an early stage venture capital firm leading seed investments in startups in the cyber security and enterprise software spaces."
+      },
+      {
+        "url": "https://hyperwise.vc/who-we-are/",
+        "title": "Who we are — Hyperwise Ventures",
+        "publisher": "Hyperwise Ventures",
+        "accessed": "2026-06-03",
+        "supports": "founders Nathan Shuchami, Aviv Gafni, Ben Omelchenko; cyber/enterprise focus; portfolio LightCyber, FireGlass, Mobilisafe",
+        "quote": "LightCyber (acquired by PAN); Mobilisafe (acquired by Rapid7); FireGlass (acquired by Symantec)"
+      },
+      {
+        "url": "https://tracxn.com/d/venture-capital/hyperwiseventures/__Ot13iEWrkd8elxdiJVovd5bfTTKAuCTBNF8Ljn2hyhw",
+        "title": "Hyperwise Ventures — Investor Profile",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-03",
+        "supports": "founded 2014, Tel Aviv, Fund I $70M, Fund II $120M, ~14 investments",
+        "quote": "Hyperwise Ventures is a venture capital firm founded in 2014, primarily based out of Tel Aviv, Israel. The firm manages Fund 1: $70M and Fund 2: $120M."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year cited as 2014 (Tracxn) though some sources note 2019 vintage; fund sizes from Tracxn/IVC. Note: Nathan Shuchami also co-founded Orca Security but Hyperwise is not necessarily an Orca investor. Check size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "il-mensch-capital-partners",
+    "name": { "en": "Mensch Capital Partners", "local": "מנש קפיטל פרטנרס" },
+    "aka": ["Mensch VC", "Mensch Capital"],
+    "type": "micro-vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "offices": [{ "country": "Israel", "city": "Tel Aviv" }],
+    "website": "https://www.menschvc.com/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/menschvc",
+      "crunchbase": "https://www.crunchbase.com/organization/mensch-capital-partners",
+      "other": ["https://finder.startupnationcentral.org/investor_page/mensch-capital-partners"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": null, "usd": null, "currency": "USD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "up to ~$1M (pre-seed first checks)", "usd_min": null, "usd_max": 1000000 },
+      "ownership_target_pct": null,
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel", "Global"],
+      "sector_focus": ["cybersecurity", "ai-ml", "saas-enterprise"],
+      "thesis": "Writes large pre-seed first checks for Israeli founders with strong differentiated teams (often ex-cyber operators), then brings leading global VCs into the seed round. Founder-led by a cybersecurity entrepreneur with Wiz and Hippo founders on the investment committee."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Shape AI", "sector": "cybersecurity", "outcome": "acquired (Cyera)" },
+        { "company": "Genie Security", "sector": "cybersecurity", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Shape AI", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ],
+      "co_investors": ["IBI Tech Fund"]
+    },
+    "people": [
+      { "name": "Boaz Shedletsky", "role": "Founder & Managing Partner (cybersecurity entrepreneur)", "linkedin": "https://www.crunchbase.com/person/boaz-shedletsky-b1d2" },
+      { "name": "Assaf Rappaport", "role": "Investment Committee / LP (Co-founder & CEO, Wiz)", "linkedin": "" },
+      { "name": "Assaf Wand", "role": "Investment Committee / LP (Founder, Hippo)", "linkedin": "" },
+      { "name": "Tomer Goldberg", "role": "Investment Committee (MD, Harel Technology Investments)", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Email mensch@menschvc.com or contact via menschvc.com.",
+      "accepts_cold_inbound": true,
+      "contact": "mensch@menschvc.com"
+    },
+    "tags": ["cybersecurity", "pre-seed", "seed", "founder-led", "wiz-network", "israel"],
+    "summary": {
+      "en": "Mensch Capital Partners is a Tel Aviv pre-seed/seed micro-VC (founded 2021) led by cybersecurity entrepreneur Boaz Shedletsky, with Wiz co-founder Assaf Rappaport and Hippo founder Assaf Wand on its investment committee and Harel Insurance as anchor LP. It writes large pre-seed first checks (up to ~$1M) and has backed cyber startups such as Shape AI (acquired by Cyera) and Genie Security.",
+      "local": "מנש קפיטל פרטנרס היא קרן מיקרו תל-אביבית בשלב פרי-סיד/סיד (נוסדה 2021) בראשות יזם הסייבר בועז שדלצקי, עם אסף רפפורט (Wiz) ואסף וונד (Hippo) בוועדת ההשקעות."
+    },
+    "sources": [
+      {
+        "url": "https://finder.startupnationcentral.org/investor_page/mensch-capital-partners",
+        "title": "Mensch Capital Partners — Israeli VC and Private Equity",
+        "publisher": "Start-Up Nation Finder",
+        "accessed": "2026-06-03",
+        "supports": "pre-seed/seed VC, founder cyber entrepreneur, Wiz & Hippo founders on IC/LP, cyber investments incl. Genie Security",
+        "quote": "Mensch was founded by cybersecurity entrepreneur Boaz Shedletsky, and counts Assaf Rappaport, co-founder of unicorn Wiz, and Assaf Wand, founder of unicorn Hippo, as LPs and investment committee members ... leading funding for Genie Security's approximately $3 million raise."
+      },
+      {
+        "url": "https://www.calcalistech.com/ctechnews/article/r18vhecx2",
+        "title": "\"The common thing about all our investments is strong differentiated teams going after big markets\"",
+        "publisher": "Calcalist / CTech",
+        "accessed": "2026-06-03",
+        "supports": "founded 2021, Tel Aviv, pre-seed/seed, up to $1M first checks, Harel anchor LP, IC members",
+        "quote": "Mensch Capital Partners was founded in 2021 and is primarily based out of Tel Aviv, Israel. The firm writes big Pre-Seed checks of up to $1M ... Harel Insurance - anchor LP."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Mensch is sector-broad (also crypto/web3/AI), but founder is a cyber entrepreneur, cyber is a core focus, and several portfolio/exit companies (Shape AI, Genie Security) are cybersecurity, so included for the cyber segment. Fund size not publicly disclosed; check size '$1M' is for pre-seed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "il-s-ventures-sentinelone",
+    "name": { "en": "S Ventures (SentinelOne)", "local": "S Ventures (סנטינל-וואן)" },
+    "aka": ["SentinelOne S Ventures", "S Ventures Fund"],
+    "type": "cvc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "israel",
+    "country": "United States",
+    "hq_city": "Mountain View (California)",
+    "offices": [
+      { "country": "United States", "city": "Mountain View" },
+      { "country": "Israel", "city": "Tel Aviv" }
+    ],
+    "website": "https://www.sentinelone.com/s-ventures/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/sentinelone/",
+      "other": ["https://www.sentinelone.com/press/sentinelone-launches-s-ventures-fund/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": "$100M", "usd": 100000000, "currency": "USD" },
+      "funds": [
+        { "name": "S Ventures Fund", "vintage_year": 2022, "size": { "raw": "$100M", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": "$1M–$5M typical", "usd_min": 1000000, "usd_max": 5000000 },
+      "ownership_target_pct": null,
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel", "United States", "Global"],
+      "sector_focus": ["cybersecurity", "ai-ml", "saas-enterprise"],
+      "thesis": "Corporate venture fund of Israeli-founded SentinelOne investing across all stages in next-generation security, data and AI companies, with a dedicated Israel investment lead sourcing local startups for the Singularity ecosystem."
+    },
+    "track_record": {
+      "portfolio_count": "25+",
+      "notable_investments": [
+        { "company": "Torq", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Laminar", "sector": "cybersecurity", "outcome": "acquired (Rubrik)" },
+        { "company": "Noetic Cyber", "sector": "cybersecurity", "outcome": "acquired" },
+        { "company": "Armorblox", "sector": "cybersecurity", "outcome": "acquired (Cisco)" }
+      ],
+      "exits": [
+        { "company": "Laminar", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Iren Reznikov", "role": "Director, Corporate Development & Venture Investments (Israel lead)", "linkedin": "" },
+      { "name": "Rob Salvagno", "role": "Head of Corporate Development (runs the fund)", "linkedin": "" },
+      { "name": "David Kellenberger", "role": "US investments", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via sentinelone.com/s-ventures; Israel deal flow via local corporate development team.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.sentinelone.com/s-ventures/"
+    },
+    "tags": ["cybersecurity", "cvc", "data", "ai", "israel-lead", "corporate-venture"],
+    "summary": {
+      "en": "S Ventures is the $100M corporate venture fund launched in 2022 by Israeli-founded cybersecurity firm SentinelOne. It invests across all stages (typically $1M–$5M checks) in security, data and AI companies, with a dedicated Israel investment lead (Iren Reznikov) sourcing local startups. Israeli portfolio includes Torq and Laminar (later acquired by Rubrik).",
+      "local": "S Ventures היא קרן ההשקעות התאגידית בהיקף 100 מיליון דולר שהשיקה ב-2022 חברת הסייבר סנטינל-וואן, עם אחראית השקעות בישראל (אירן רזניקוב) המאתרת סטארטאפים מקומיים."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2022/09/21/sentinelone-s-ventures-fund/",
+        "title": "SentinelOne launches $100M fund to invest in enterprise cybersecurity startups",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-03",
+        "supports": "$100M fund, launched 2022, Israel lead Iren Reznikov, focus security & data, Israeli portfolio Torq & Laminar",
+        "quote": "SentinelOne ... announced the launch of S Ventures, a $100 million fund ... Iren Reznikov, the company's director of corporate development and venture investments in Israel ... initial portfolio includes several Israeli startups, among them: Torq ... and Laminar."
+      },
+      {
+        "url": "https://www.sentinelone.com/s-ventures/",
+        "title": "S Ventures Investments in Cybersecurity",
+        "publisher": "SentinelOne",
+        "accessed": "2026-06-03",
+        "supports": "all-stage focus, $1M-$5M check size, sectors security/data/AI, portfolio incl. Laminar, Noetic Cyber, Armorblox",
+        "quote": "Investment Stage: Pre-seed through later series rounds ... Check Size: typically ranging from $1-5 million ... Sector Focus: Security, data, and AI."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "country=United States (SentinelOne HQ Mountain View) but the firm is Israeli-founded with a dedicated Israel investment lead and significant Israeli deal flow. AUM beyond the $100M fund not disclosed; portfolio now includes broader AI names (Anthropic, Cohere) per fund page.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "il-saas-ventures-cyber-fund",
+    "name": { "en": "SaaS Ventures (Israel Cyber Fund)", "local": "SaaS Ventures" },
+    "aka": ["SaaS Venture Capital", "SaaS Ventures Israel cyber fund"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "israel",
+    "country": "United States",
+    "hq_city": "Miami (Florida)",
+    "offices": [
+      { "country": "United States", "city": "Miami" },
+      { "country": "Israel", "city": "Tel Aviv (in formation)" }
+    ],
+    "website": "https://saasventurecapital.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/saas-ventures/",
+      "other": ["https://startupnationcentral.org/hub/opinions/why-a-us-cyber-fund-is-going-all-in-on-israel/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "USD" },
+      "current_fund": { "raw": "$50M (Israel cyber fund)", "usd": 50000000, "currency": "USD" },
+      "funds": [
+        { "name": "SaaS Ventures Israel cyber fund", "vintage_year": 2025, "size": { "raw": "$50M", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["cybersecurity", "saas-enterprise"],
+      "thesis": "US SaaS investor launching a dedicated ~$50M Israel-focused cyber fund; cybersecurity is the anchor with cyber-adjacent categories (infrastructure, enterprise tools, governance, identity), hiring an Israel-based General Partner with a local team."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Collin Gutman", "role": "Founder & Managing Partner", "linkedin": "https://www.linkedin.com/in/collingutman/" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via saasventurecapital.com; Israel-based GP and team being established for cyber deal flow.",
+      "accepts_cold_inbound": true,
+      "contact": "https://saasventurecapital.com/"
+    },
+    "tags": ["cybersecurity", "us-israel", "new-fund-2025", "identity", "infrastructure"],
+    "summary": {
+      "en": "SaaS Ventures is a US (Miami) SaaS-focused VC, founded by Collin Gutman, that in 2025 launched a dedicated ~$50M Israel cyber fund — its first standalone, geography-specific vehicle. Cybersecurity is the anchor focus alongside cyber-adjacent infrastructure, enterprise tools, governance and identity; the firm is establishing an Israeli team with a local General Partner.",
+      "local": "SaaS Ventures היא קרן אמריקאית (מיאמי) בראשות קולין גוטמן שהשיקה ב-2025 קרן סייבר ייעודית לישראל בהיקף של כ-50 מיליון דולר, עם שותף כללי וצוות מקומי בהקמה."
+    },
+    "sources": [
+      {
+        "url": "https://startupnationcentral.org/hub/opinions/why-a-us-cyber-fund-is-going-all-in-on-israel/",
+        "title": "Why a U.S. Cyber Fund is Going All in on Israel",
+        "publisher": "Start-Up Nation Central",
+        "accessed": "2026-06-03",
+        "supports": "$50M dedicated Israel cyber fund, anchor cybersecurity + adjacent categories, hiring Israel-based GP, Miami HQ, Collin Gutman",
+        "quote": "building a $50M fund, hiring a General Partner based in Israel ... Cybersecurity is the anchor, but we're also focused on cyber-adjacent categories: infrastructure, enterprise tools, governance, and identity ... Collin Gutman, Managing Partner."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "country=United States (Miami HQ); the Israel cyber fund is newly launched (2025) with first close completed and Israel GP/team in formation, so on-the-ground Israel presence is nascent. Firm founding year ~2017 per VCSheet/CBInsights. Check size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  }
+]

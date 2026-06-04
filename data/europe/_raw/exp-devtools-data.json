@@ -1,0 +1,1071 @@
+[
+  {
+    "id": "eu-open-capital",
+    "name": { "en": "Open Capital" },
+    "aka": ["OpenCapital.vc"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://opencapital.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/open-capital-au",
+      "other": ["https://vc4a.com/open-capital/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "$0.3M–$0.5M", "usd_min": 300000, "usd_max": 500000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "deeptech"],
+      "thesis": "First European VC investing exclusively in early-stage commercial open-source software companies; views commercial open source as the most profitable way to build fast-growing software businesses while controlling cash burn, and plugs founders into a community of CxOs of commercial open-source companies."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Kestra", "sector": "data-orchestration / dev tools", "outcome": "active" },
+        { "company": "Traefik Labs", "sector": "cloud-native networking / dev tools", "outcome": "active" },
+        { "company": "Twenty CRM", "sector": "open-source CRM", "outcome": "active" }
+      ]
+    },
+    "application": {
+      "how_to_apply": "Contact via the website 'Contact us' form.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["open-source", "developer-tools", "commercial-oss", "pre-seed"],
+    "summary": {
+      "en": "Paris-based pre-seed fund investing exclusively in European commercial open-source software companies, writing $0.3–0.5M checks. Portfolio includes Kestra, Traefik Labs and Twenty CRM.",
+      "local": "Fonds parisien d'amorçage (pre-seed) investissant exclusivement dans les éditeurs européens de logiciels open-source commerciaux."
+    },
+    "sources": [
+      {
+        "url": "https://opencapital.vc/",
+        "title": "Homepage - Open Capital",
+        "publisher": "Open Capital",
+        "accessed": "2026-06-03",
+        "supports": "open-source focus, pre-seed stage, community of CxOs, European focus",
+        "quote": "Building a strong community and be close to your users is the key for software adoption."
+      },
+      {
+        "url": "https://www.crunchbase.com/hub/open-source-companies-seed-funding",
+        "title": "Open Capital profile / portfolio references",
+        "publisher": "search aggregation (Crunchbase hub)",
+        "accessed": "2026-06-03",
+        "supports": "check size, country, portfolio",
+        "quote": "Open Capital invests in the pre-seed stage with investment sizes of $0.3-$0.5M and has backed portfolio companies including Kestra, Traefik Labs, and Twenty CRM."
+      },
+      {
+        "url": "https://github.com/octolens/awesome-oss-investors",
+        "title": "awesome-oss-investors",
+        "publisher": "GitHub (octolens)",
+        "accessed": "2026-06-03",
+        "supports": "country = France, open-source investor classification",
+        "quote": "OpenCapital.vc | FR | https://opencapital.vc/"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year (2020) and Paris HQ derived from secondary aggregators (vc4a, awesome-oss-investors, openvc); fund size not disclosed. Check size and portfolio confirmed against the firm's own site and aggregated profiles.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "eu-lunar-ventures",
+    "name": { "en": "Lunar Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://www.lunar.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/lunar-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "~€90M (Fund I €40M + Fund II €50M)", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": "€50M (Fund II)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Lunar Ventures Fund I", "vintage_year": 2021, "size": { "raw": "€40M", "usd": null, "currency": "EUR" } },
+        { "name": "Lunar Ventures Fund II", "vintage_year": 2025, "size": { "raw": "€50M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€750k–€1m", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United States"],
+      "sector_focus": ["deeptech", "ai-ml", "saas-enterprise"],
+      "thesis": "Backs technical founders from day zero on hard deep-tech problems including AI infrastructure (governance and tooling for ML data pipelines), homomorphic encryption, local-first technology, agentic automation and techbio."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Zama", "sector": "homomorphic encryption / dev tools", "outcome": "active" },
+        { "company": "deepset", "sector": "AI infrastructure", "outcome": "active" },
+        { "company": "ElectricSQL", "sector": "local-first data platform", "outcome": "active" },
+        { "company": "Molecule", "sector": "decentralized science", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Elad Verbin", "role": "Founding Partner" },
+      { "name": "Mick Halsband", "role": "Founding Partner" },
+      { "name": "Luis Shemtov", "role": "Founding Partner" }
+    ],
+    "team_size": 11,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["deep-tech", "ai-infrastructure", "developer-tools", "data-infrastructure", "pre-seed"],
+    "summary": {
+      "en": "Berlin deep-tech pre-seed fund backing technical founders 'from day zero' in AI infrastructure, ML data tooling, homomorphic encryption and local-first tech. Fund II closed at €50M (2025); checks of €750k–€1m into 25–30 startups.",
+      "local": "Berliner Deep-Tech-Pre-Seed-Fonds, der technische Gründer ab Tag null in KI-Infrastruktur, ML-Daten-Tooling und Verschlüsselung unterstützt."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/lunar-ventures-raises-50m",
+        "title": "Deeptech VC Lunar Ventures raises second fund of €50m",
+        "publisher": "Sifted",
+        "accessed": "2026-06-03",
+        "supports": "Fund II size €50M, Berlin HQ, founders, check size, AI infrastructure / data pipeline focus",
+        "quote": "Lunar Ventures says it will write cheques of between €750k and €1m into 25-30 startups... Founded in Berlin by Dr. Elad Verbin, Mick Halsband, and Luis Shemtov."
+      },
+      {
+        "url": "https://techcrunch.com/2021/10/13/lunar-ventures-launches-technically-oriented-e40m-fund-aimed-at-deeptech-startups/",
+        "title": "Lunar Ventures launches technically oriented, €40M fund, aimed at deep tech startups",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-03",
+        "supports": "Fund I €40M, 2021 launch, deep-tech focus",
+        "quote": "Lunar Ventures launches technically oriented, €40M fund, aimed at deep tech startups"
+      },
+      {
+        "url": "https://www.lunar.vc/",
+        "title": "Lunar Ventures",
+        "publisher": "Lunar Ventures",
+        "accessed": "2026-06-03",
+        "supports": "thesis (technical founders from day zero), portfolio (Zama, deepset, ElectricSQL, Molecule)",
+        "quote": "technical, truly understand what we're doing, and actually add value"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I closed 2x oversubscribed at €40M (initial €20M target); team grew to 11 per Sifted. Founding year taken as Fund I close year (2021).",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "eu-backtrace-capital",
+    "name": { "en": "Backtrace Capital" },
+    "aka": ["backtrace"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Munich",
+    "website": "https://backtrace.vc/",
+    "links": {
+      "other": ["https://app.dealroom.co/news/note/backtrace-secures-10m-for-european-ai-and-software-startups"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€50M (Fund I, final close)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Backtrace Fund I", "vintage_year": 2024, "size": { "raw": "€50M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€250k–€1m+", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United States"],
+      "sector_focus": ["deeptech", "ai-ml", "cybersecurity", "hardware-semiconductor", "saas-enterprise"],
+      "thesis": "Backs 'boring' / 'picks-and-shovels' infrastructure tech — software developer tools, AI infrastructure, cybersecurity, cloud and semiconductors that sit beneath the application layer — at pre-seed and seed, building a concentrated portfolio of 20–25 companies and helping them expand to the US."
+    },
+    "track_record": {
+      "portfolio_count": "20–25 target",
+      "notable_investments": [
+        { "company": "Platform Engineering Labs", "sector": "developer tools / platform engineering", "outcome": "active" },
+        { "company": "KERYS Software", "sector": "infrastructure software", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Dominik Tobschall", "role": "Founding/General Partner" },
+      { "name": "Michael Münnix", "role": "Founding/General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["developer-tools", "infrastructure", "picks-and-shovels", "ai-infrastructure", "pre-seed"],
+    "summary": {
+      "en": "Munich pre-seed/seed fund founded 2024 by ex-Speedinvest and Target Partners investors, backing 'picks-and-shovels' infrastructure: dev tools, AI infra, cybersecurity, cloud and semiconductors. Fund I final close €50M; checks €250k–€1m+.",
+      "local": "Münchner Pre-Seed/Seed-Fonds, der Infrastruktur-Tech finanziert: Entwicklertools, KI-Infrastruktur, Cybersicherheit, Cloud und Halbleiter. Fund I €50M."
+    },
+    "sources": [
+      {
+        "url": "https://natlawreview.com/press-releases/backtrace-announces-final-close-fund-i-eu50m-back-europes-next-generation",
+        "title": "backtrace announces final close of Fund I at €50m",
+        "publisher": "National Law Review (press release)",
+        "accessed": "2026-06-03",
+        "supports": "Fund I final close €50M, infrastructure thesis",
+        "quote": "backtrace announces final close of Fund I at €50m to back Europe's next generation of tech infrastructure founders"
+      },
+      {
+        "url": "https://www.vestbee.com/insights/articles/backtrace-capital-raises-10-m-fund",
+        "title": "Munich-based VC Backtrace raises €10M fund to back European tech infrastructure startups",
+        "publisher": "Vestbee",
+        "accessed": "2026-06-03",
+        "supports": "Munich HQ, founders, founded 2024, sector focus, check size, portfolio",
+        "quote": "The firm was founded in 2024 by Dominik Tobschall and Michael Münnix... initial checks ranging from €250,000 to over €1 million... portfolio including companies like Platform Engineering Labs and KERYS Software."
+      },
+      {
+        "url": "https://sifted.eu/articles/speedinvest-target-partners-vc-fund-news",
+        "title": "Ex-Speedinvest and Target Partners VCs make first close of new fund",
+        "publisher": "Sifted",
+        "accessed": "2026-06-03",
+        "supports": "founders' backgrounds (Speedinvest, Target Partners), dev tools/security/AI infra focus",
+        "quote": "Ex-Speedinvest and Target Partners VCs make first close of new fund"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I progressed from €10M first close (target €30M) to €50M final close in March 2026 per press releases.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "eu-crane-venture-partners",
+    "name": { "en": "Crane Venture Partners" },
+    "aka": ["Crane"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://crane.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/crane-venture-partners"
+    },
+    "capital": {
+      "current_fund": { "raw": "$140M (Crane II)", "usd": 140000000, "currency": "USD" },
+      "funds": [
+        { "name": "Crane I", "vintage_year": 2019, "size": { "raw": "$90M", "usd": 90000000, "currency": "USD" } },
+        { "name": "Crane II", "vintage_year": 2022, "size": { "raw": "$140M", "usd": 140000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe", "United Kingdom"],
+      "sector_focus": ["deeptech", "saas-enterprise", "ai-ml", "cybersecurity"],
+      "thesis": "Earliest-stage ('first to believe, last to leave') high-conviction investor in 'intelligent' enterprise startups building foundational digital infrastructure: open source, AI infrastructure, DevOps, data management and cybersecurity."
+    },
+    "track_record": {
+      "portfolio_count": "50+",
+      "notable_investments": [
+        { "company": "Cyberhaven", "sector": "cybersecurity", "outcome": "unicorn ($1B valuation Series D)" },
+        { "company": "Gable", "sector": "data management", "outcome": "active" },
+        { "company": "Qovery", "sector": "developer tools / DevOps", "outcome": "active" },
+        { "company": "Encord", "sector": "data / ML tooling", "outcome": "active" },
+        { "company": "H2O.ai", "sector": "AI / ML platform", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Scott Sage", "role": "Co-founder & Partner" },
+      { "name": "Krishna Visvanathan", "role": "Co-founder & Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["developer-tools", "data-infrastructure", "devops", "open-source", "ai-infrastructure", "seed"],
+    "summary": {
+      "en": "London seed/pre-seed specialist in foundational software infrastructure — open source, AI infra, DevOps, data management and cybersecurity. Crane II raised $140M (2022); 50+ portfolio companies and a >75% seed-to-Series-A graduation rate.",
+      "local": "London-based early-stage VC focused on the builders of the world's digital infrastructure."
+    },
+    "sources": [
+      {
+        "url": "https://crane.vc/crane-venture-partners-raises-140-million-for-its-second-fund-to-empower-the-builders-of-the-worlds-digital-infrastructure/",
+        "title": "Crane Venture Partners Raises $140 Million for its Second Fund",
+        "publisher": "Crane Venture Partners",
+        "accessed": "2026-06-03",
+        "supports": "Crane II = $140M, focus on open source / AI / data / developer tools",
+        "quote": "Crane Venture Partners Raises $140 Million for its Second Fund to Empower the Builders of the World's Digital Infrastructure"
+      },
+      {
+        "url": "https://techcrunch.com/2019/06/11/crane-a-new-early-stage-london-vc-focused-on-intelligent-enterprise-startups-raises-90m-fund/",
+        "title": "Crane, a new early-stage London VC ... raises $90M fund",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-03",
+        "supports": "Crane I = $90M, founders Scott Sage and Krishna Visvanathan, London HQ, intelligent enterprise focus",
+        "quote": "Crane, a new early-stage London VC focused on 'intelligent' enterprise startups, raises $90M fund"
+      },
+      {
+        "url": "https://crane.vc/",
+        "title": "Home - Crane Venture Partners",
+        "publisher": "Crane Venture Partners",
+        "accessed": "2026-06-03",
+        "supports": "sector focus (AI infrastructure, DevOps, data management, cybersecurity), portfolio (Cyberhaven, Gable, Qovery), 'first to believe, last to leave'",
+        "quote": "First to believe. Last to leave."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Crane also raised a separate ~$135M APAC fund; that vehicle is outside the Europe scope. Founding year ~2016 per Crunchbase; first institutional fund (Crane I) 2019. Per-check size not publicly fixed.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "eu-openocean",
+    "name": { "en": "OpenOcean" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2009,
+    "region": "europe",
+    "country": "Finland",
+    "hq_city": "Helsinki",
+    "website": "https://www.openocean.vc/",
+    "offices": [
+      { "country": "Finland", "city": "Helsinki" },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/openoceanvc",
+      "crunchbase": "https://www.crunchbase.com/organization/open-ocean"
+    },
+    "capital": {
+      "current_fund": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "~€5m initial average", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "deeptech"],
+      "thesis": "Thesis-driven pan-European Series A investor in companies driving the data economy, organized around three theses: Automation, Data Infrastructure and the Future of Software Development. Founded and run by the team behind MySQL and MariaDB."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "MariaDB", "sector": "open-source database", "outcome": "IPO (NYSE 2022)" }
+      ]
+    },
+    "people": [
+      { "name": "Michael 'Monty' Widenius", "role": "Founding Partner (MySQL/MariaDB creator)" },
+      { "name": "Patrik Backman", "role": "General Partner" },
+      { "name": "Ralf Wahlsten", "role": "Founding Partner" },
+      { "name": "Tom Henriksson", "role": "General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["data-infrastructure", "data-economy", "open-source", "developer-tools", "series-a"],
+    "summary": {
+      "en": "Pan-European Series A investor (Helsinki + London) founded by the MySQL / MariaDB team, focused on the data economy across three theses: automation, data infrastructure and the future of software development. Average initial check ~€5m.",
+      "local": "Pan-eurooppalainen Series A -sijoittaja (Helsinki/Lontoo), jonka perustivat MySQL:n ja MariaDB:n tekijät; painopiste data-infrastruktuurissa."
+    },
+    "sources": [
+      {
+        "url": "https://www.openocean.vc/about",
+        "title": "About us",
+        "publisher": "OpenOcean",
+        "accessed": "2026-06-03",
+        "supports": "Helsinki/London offices, MySQL/MariaDB founding team, three theses, ~€5m average check, Series A focus",
+        "quote": "started in 2009 by founders and early investors of MySQL, Michael 'Monty' Widenius, Patrik Backman, and Ralf Wahlsten... three core theses: Automation, Data Infrastructure and Future of Software Development, with initial average investment sizes of €5m."
+      },
+      {
+        "url": "https://github.com/octolens/awesome-oss-investors",
+        "title": "awesome-oss-investors",
+        "publisher": "GitHub (octolens)",
+        "accessed": "2026-06-03",
+        "supports": "open-source investor classification, UK/Finland",
+        "quote": "OpenOcean | UK, Finland | https://openocean.vc/"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year 2009 per firm's own about page (predecessor activity); MariaDB Corporation listed on NYSE in 2022. Current fund size not disclosed in fetched sources.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "eu-runa-capital",
+    "name": { "en": "Runa Capital" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2010,
+    "region": "europe",
+    "country": "Luxembourg",
+    "hq_city": "Luxembourg City",
+    "website": "https://runacap.com/",
+    "offices": [
+      { "country": "Luxembourg", "city": "Luxembourg City" },
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "France", "city": "Paris" },
+      { "country": "Bulgaria", "city": "Sofia" }
+    ],
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/runacapital",
+      "crunchbase": "https://www.crunchbase.com/organization/runa-capital",
+      "other": ["https://github.com/RunaCapital/ROSS-Index", "https://runacap.com/ross-index/"]
+    },
+    "capital": {
+      "aum": { "raw": "~$500M raised across 4 funds (2010–2022)", "usd": 500000000, "currency": "USD" },
+      "funds": [
+        { "name": "Runa Capital Opportunity Fund I", "vintage_year": 2022, "size": { "raw": "$69M (by Autumn 2022)", "usd": 69000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$1M–$10M", "usd_min": 1000000, "usd_max": 10000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe", "North America"],
+      "sector_focus": ["deeptech", "saas-enterprise", "fintech", "ai-ml"],
+      "thesis": "Early-stage investor in deep tech, enterprise software and fintech infrastructure with a strong open-source heritage (early backer of Nginx and MariaDB); publishes the quarterly ROSS Index ranking the fastest-growing open-source startups by GitHub star growth."
+    },
+    "track_record": {
+      "portfolio_count": "100+",
+      "notable_investments": [
+        { "company": "Nginx", "sector": "open-source web server / infrastructure", "outcome": "acquired (F5 Networks)" },
+        { "company": "MariaDB", "sector": "open-source database", "outcome": "IPO (NYSE 2022)" },
+        { "company": "Mambu", "sector": "fintech infrastructure", "outcome": "active (unicorn)" }
+      ]
+    },
+    "people": [
+      { "name": "Dmitry Chikhachev", "role": "Co-founder & Managing Partner" },
+      { "name": "Ilya Zubarev", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["open-source", "ross-index", "data-infrastructure", "enterprise-software", "developer-tools", "series-a"],
+    "summary": {
+      "en": "Luxembourg-HQ early-stage VC investing in deep tech, enterprise software and fintech infrastructure with deep open-source roots (early backer of Nginx and MariaDB). Publishes the quarterly ROSS Index of fastest-growing open-source startups; checks $1M–$10M, ~$500M raised across 4 funds.",
+      "local": "VC mit Sitz in Luxemburg für Deep Tech, Enterprise-Software und Fintech-Infrastruktur; veröffentlicht den ROSS-Index der schnellstwachsenden Open-Source-Startups."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Runa_Capital",
+        "title": "Runa Capital - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-03",
+        "supports": "founding 2010, founders, Luxembourg HQ, ~$500M across 4 funds, check size, portfolio (Nginx, MariaDB, Mambu)",
+        "quote": "From 2010 through 2022, Runa Capital raised around $500 million in 4 funds and invested in over 100 companies... Runa Capital invests from $1 million to $10 million, largely in Series A rounds."
+      },
+      {
+        "url": "https://runacap.com/ross-index/",
+        "title": "ROSS Index: the top trending open-source startups, every quarter",
+        "publisher": "Runa Capital",
+        "accessed": "2026-06-03",
+        "supports": "ROSS Index, open-source focus",
+        "quote": "the ROSS Index publishes the top open-source startups by the relative growth rate of GitHub stars at their repositories."
+      },
+      {
+        "url": "https://runacap.com/people/dmitry-chikhachev/",
+        "title": "Dmitry Chikhachev - Runa Capital",
+        "publisher": "Runa Capital",
+        "accessed": "2026-06-03",
+        "supports": "co-founder identity / role",
+        "quote": "Dmitry Chikhachev"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Opportunity Fund I raised $69M by Autumn 2022. HQ relocated to Luxembourg; multiple offices listed by the firm.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "eu-468-capital",
+    "name": { "en": "468 Capital" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "offices": [
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "website": "https://468cap.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/person/florian-leibert"
+    },
+    "capital": {
+      "aum": { "raw": "$1.3B+ across funds", "usd": 1300000000, "currency": "USD" },
+      "current_fund": { "raw": "~$400M (Fund II)", "usd": 400000000, "currency": "USD" },
+      "funds": [
+        { "name": "468 Capital Fund II", "vintage_year": 2022, "size": { "raw": "~$400M", "usd": 400000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe", "United States"],
+      "sector_focus": ["deeptech", "ai-ml", "saas-enterprise", "robotics"],
+      "thesis": "Founder-led VC backing companies with strong open-source adoption and bottom-up, developer-driven go-to-market in cloud infrastructure, AI/ML tooling, automation and deep tech; founded by ex-Mesosphere/Apache Mesos and Airbnb/Twitter engineer Florian Leibert."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Iterative (DVC)", "sector": "MLOps / developer tools", "outcome": "active" },
+        { "company": "Immerok", "sector": "serverless Apache Flink / data infrastructure", "outcome": "acquired (Confluent)" }
+      ]
+    },
+    "people": [
+      { "name": "Florian Leibert", "role": "Co-founder & General Partner (ex-Mesosphere CEO)" },
+      { "name": "Ludwig Ensthaler", "role": "Co-founder & General Partner" },
+      { "name": "Alexander Kudlich", "role": "Co-founder & General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["open-source", "cloud-infrastructure", "mlops", "data-infrastructure", "developer-tools"],
+    "summary": {
+      "en": "Berlin/San Francisco founder-led VC (est. 2020) backing open-source-driven cloud infrastructure, MLOps and AI tooling. Founded by ex-Mesosphere CEO Florian Leibert; Fund II ~$400M, $1.3B+ across funds. Backed Iterative (DVC) and Immerok (Apache Flink).",
+      "local": "Berliner/SF-VC, gegründet 2020, investiert in Open-Source-getriebene Cloud-Infrastruktur, MLOps und KI-Tooling."
+    },
+    "sources": [
+      {
+        "url": "https://www.ypog.law/en/press/ypog-advises-468-capital-on-structuring-400-million-fund",
+        "title": "YPOG advises 468 Capital on structuring $400 million fund",
+        "publisher": "YPOG",
+        "accessed": "2026-06-03",
+        "supports": "Fund II ~$400M",
+        "quote": "YPOG advises 468 Capital on structuring $400 million fund"
+      },
+      {
+        "url": "https://468cap.com/leadership_team/florian-leibert/",
+        "title": "Florian Leibert › 468 Capital",
+        "publisher": "468 Capital",
+        "accessed": "2026-06-03",
+        "supports": "founder background (Mesosphere/Apache Mesos, Airbnb, Twitter), open-source / cloud-infrastructure thesis",
+        "quote": "Companies with great open source adoption and bottom-up market strategy, like Iterative, are going to define the standards for AI tools and processes around building ML models"
+      },
+      {
+        "url": "https://www.globenewswire.com/news-release/2021/06/02/2240670/0/en/MLOps-Company-Iterative-Raises-20-Million-Series-A-Funding-Led-by-468-Capital.html",
+        "title": "MLOps Company Iterative Raises $20 Million Series A Funding Led by 468 Capital",
+        "publisher": "GlobeNewswire",
+        "accessed": "2026-06-03",
+        "supports": "Iterative (DVC, MLOps/dev tools) Series A led by 468 Capital",
+        "quote": "MLOps Company Iterative Raises $20 Million Series A Funding Led by 468 Capital"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "$1.3B+ AUM and Fund II ~$400M figures from secondary aggregation and the fund's structuring counsel; per-check sizes not consistently disclosed.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "eu-fly-ventures",
+    "name": { "en": "Fly Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "offices": [
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "France", "city": "Paris" },
+      { "country": "Switzerland", "city": "Zurich" }
+    ],
+    "website": "https://fly.vc/",
+    "links": {},
+    "capital": {
+      "current_fund": { "raw": "€80M (Fund III)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Fly Ventures Fund II", "vintage_year": 2020, "size": { "raw": "€53M", "usd": null, "currency": "EUR" } },
+        { "name": "Fly Ventures Fund III", "vintage_year": 2024, "size": { "raw": "€80M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€1m–€4m (into rounds of €2–8m)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["deeptech", "ai-ml", "saas-enterprise"],
+      "thesis": "Seed/inception-stage fund partnering with technical founders on complex problems across enterprise and deep tech; roughly 45% AI, 35% vertical applications/industrial tech and 20% dev tools/infrastructure. Equal-GP model across Berlin, London, Paris and Zurich."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Wayve", "sector": "autonomous driving / AI", "outcome": "unicorn" },
+        { "company": "Lakera", "sector": "AI security / dev tools", "outcome": "active" },
+        { "company": "Orbital Materials", "sector": "AI for materials / deeptech", "outcome": "active" }
+      ]
+    },
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["deep-tech", "developer-tools", "infrastructure", "ai", "seed"],
+    "summary": {
+      "en": "Berlin-rooted, pan-European seed/inception fund (equal-GP across Berlin, London, Paris, Zurich) backing technical founders. Fund III closed at €80M (2024); ~20% of investments in dev tools/infrastructure. Checks €1–4m; >75% follow-on/exit rate. First-check backer of Wayve and Lakera.",
+      "local": "Berliner Seed-Fonds für technische Gründer in Deep Tech und Infrastruktur; Fund III €80M (2024)."
+    },
+    "sources": [
+      {
+        "url": "https://tech.eu/2024/12/06/fly-ventures-closes-eur80m-fund-iii-to-support-deeptech-founders-in-europe/",
+        "title": "Fly Ventures closes €80M Fund III to support deeptech founders in Europe",
+        "publisher": "Tech.eu",
+        "accessed": "2026-06-03",
+        "supports": "Fund III €80M, previous fund €53M, check size, equal-GP setup, dev tools/infra share",
+        "quote": "AI has accounted for about 45 per cent of Fly's investments, with vertical applications and industrial tech taking up 35 per cent, and dev tools/infrastructure taking up 20 per cent."
+      },
+      {
+        "url": "https://techcrunch.com/2024/12/06/fly-ventures-sets-its-eyes-on-technical-founders-with-a-fresh-e80m-fund/",
+        "title": "Fly Ventures sets its eyes on technical founders with a fresh €80M fund",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-03",
+        "supports": "technical founders thesis, first-check in Wayve/Lakera/Orbital Materials, distributed Berlin/London/Paris/Zurich team",
+        "quote": "Fly Ventures Fund III was raised on the strength of being the first check investor in several standout companies, including unicorn Wayve, Lakera, and Orbital Materials."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding ~2016 (predecessor funds); Fund II €53M (2020), Fund III €80M (2024). Check range €1–4m per Tech.eu.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "eu-dig-ventures",
+    "name": { "en": "DIG Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.dig.ventures/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/dig-ventures"
+    },
+    "capital": {
+      "current_fund": { "raw": "$100M (first institutional fund)", "usd": 100000000, "currency": "USD" },
+      "funds": [
+        { "name": "DIG Ventures Fund I (institutional)", "vintage_year": 2025, "size": { "raw": "$100M", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe", "Israel", "United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "Operator-led, hands-on pre-seed/seed fund backing the most ambitious B2B SaaS, AI and cloud infrastructure founders, sharing go-to-market playbooks and network. Founded by MuleSoft founder Ross Mason after the $6.5B Salesforce acquisition."
+    },
+    "track_record": {
+      "co_investors": ["Datadog founder Olivier Pomel (LP/angel)"]
+    },
+    "people": [
+      { "name": "Ross Mason", "role": "Founder & General Partner (MuleSoft founder)" },
+      { "name": "Melissa Klinger", "role": "Partner (ex-MuleSoft UK sales lead)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["cloud-infrastructure", "b2b-saas", "developer-tools", "operator-led", "pre-seed"],
+    "summary": {
+      "en": "London operator-led pre-seed/seed fund founded by MuleSoft founder Ross Mason, backing B2B SaaS, AI and cloud infrastructure founders across Europe (also Israel/US). First institutional fund closed at $100M (2025); LPs include Datadog founder Olivier Pomel.",
+      "local": "London-based operator-led pre-seed/seed fund focused on B2B software and cloud infrastructure."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2025/04/09/a-fresh-100m-rolls-into-dig-ventures-as-it-bids-to-woo-early-stage-european-startups/",
+        "title": "A fresh $100M rolls into Dig Ventures as it bids to woo early-stage European startups",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-03",
+        "supports": "$100M first institutional fund, founders, MuleSoft $6.5B exit, B2B SaaS/AI/cloud infra focus, geo (Europe/Israel/US), Datadog founder LP",
+        "quote": "DIG has launched its first institutional fund closing out at $100 million, to invest in B2B SaaS, AI, and cloud infrastructure startups, at pre-seed and seed stages... drew participation from Datadog founder Olivier Pomel"
+      },
+      {
+        "url": "https://www.dig.ventures/",
+        "title": "DIG Ventures | Early-stage investors in B2B software",
+        "publisher": "DIG Ventures",
+        "accessed": "2026-06-03",
+        "supports": "operator-led / B2B software positioning",
+        "quote": "Early-stage investors in B2B software"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2018 as a family office by Ross Mason and Melissa Klinger; transitioned to institutional VC with the 2025 $100M fund.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "eu-33n-ventures",
+    "name": { "en": "33N Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "Spain",
+    "hq_city": "Madrid",
+    "offices": [
+      { "country": "Spain", "city": "Madrid" },
+      { "country": "Portugal", "city": "Porto" }
+    ],
+    "website": "https://www.33n.vc/",
+    "links": {
+      "other": ["https://www.alantra.com/what-we-do/alternative-asset-management/venture-capital-2/cybersecurity/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "€150M target (€50M+ first close, Jan 2024)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "33N Cybersecurity and Infrastructure Software Fund", "vintage_year": 2024, "size": { "raw": "€150M target", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": "€4m–€12m (avg ~€10m)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe", "Israel", "United States"],
+      "sector_focus": ["cybersecurity", "saas-enterprise", "deeptech"],
+      "thesis": "Early-growth (Series A/B) specialist in cybersecurity and infrastructure software companies with proven technology and commercial revenue, scaling internationally. Launched in partnership with asset manager Alantra by a team with 10+ years investing in cybersecurity."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Carlos Alberto Silva", "role": "Managing Partner" },
+      { "name": "Carlos Moreira da Silva", "role": "Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["cybersecurity", "infrastructure-software", "series-a", "series-b", "data-infrastructure"],
+    "summary": {
+      "en": "Madrid/Porto Series A–B fund specialising in cybersecurity and infrastructure software, launched in partnership with Alantra and Mutua Madrileña. €150M target (€50M+ first close Jan 2024); tickets €4–12m, investing across Europe, Israel and the US.",
+      "local": "Fondo de Madrid/Oporto especializado en ciberseguridad y software de infraestructura (Series A-B), lanzado con Alantra. Objetivo de €150M."
+    },
+    "sources": [
+      {
+        "url": "https://techstartups.com/2024/01/10/33n-ventures-closes-e50-million-for-its-cybersecurity-and-infrastructure-software-fund-to-invest-across-the-globe/",
+        "title": "33N Ventures closes €50M for its cybersecurity and infrastructure software fund",
+        "publisher": "Tech Startups",
+        "accessed": "2026-06-03",
+        "supports": "€50M first close, cybersecurity + infrastructure software focus, global investing",
+        "quote": "33N Ventures closes €50 million for its cybersecurity and infrastructure software fund to invest across the globe"
+      },
+      {
+        "url": "https://capital-riesgo.es/en/articles/33n-ventures-launched-in-partnership-between-alantra-and-an-experienced-cybersecurity-team-to-invest-across-europe-israel-and-the-us/",
+        "title": "33N Ventures launched in partnership between Alantra and an experienced cybersecurity team",
+        "publisher": "Capital-Riesgo.es",
+        "accessed": "2026-06-03",
+        "supports": "Alantra partnership, geo focus (Europe, Israel, US), founders, €150M target, ticket size, Series A/B focus",
+        "quote": "€150 million target size, writing average investment tickets of approximately €10 million... They focus on Series A and B rounds, investing €4-12 million per deal"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "HQ given as Madrid with a Porto office; some sources list Porto first. Founding/launch year ~2022–2023, first fund close Jan 2024. €20M initial capacity committed by Alantra + Mutua Madrileña before the €50M close.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "eu-serena-data-ventures",
+    "name": { "en": "Serena (Data Ventures)" },
+    "aka": ["Serena Capital", "Serena Data Ventures"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2008,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://www.serena.vc/",
+    "links": {},
+    "capital": {
+      "current_fund": { "raw": "€100M (Serena Data Ventures II)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Serena Data Ventures I", "vintage_year": 2017, "size": { "raw": "€70M", "usd": null, "currency": "EUR" } },
+        { "name": "Serena Data Ventures II", "vintage_year": 2024, "size": { "raw": "€100M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€500k–€3.5m", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["deeptech", "ai-ml", "saas-enterprise", "web3-crypto"],
+      "thesis": "Dedicated early-stage data/infrastructure fund backing the 'invisible' tools, platforms and infrastructure software behind everyday apps, across three themes: Infrastructure (modern data stack for AI), Blockchain and Quantum computing."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Koyeb", "sector": "developer platform / app deployment", "outcome": "active" },
+        { "company": "Fipto", "sector": "blockchain treasury / infrastructure", "outcome": "active" }
+      ]
+    },
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["data-infrastructure", "modern-data-stack", "infrastructure-software", "developer-tools", "ai", "pre-seed"],
+    "summary": {
+      "en": "Serena Data Ventures is Paris-based Serena's dedicated early-stage fund for infrastructure software — the 'invisible' technologies behind consumer apps. Fund II €100M (2024, successor to €70M Data Ventures I), backing 20+ pre-seed/seed startups with €500k–3.5m tickets. Portfolio includes Koyeb and Fipto.",
+      "local": "Serena Data Ventures est le fonds d'amorçage de Serena dédié aux logiciels d'infrastructure (data stack moderne, IA). Fonds II de €100M (2024)."
+    },
+    "sources": [
+      {
+        "url": "https://sifted.eu/articles/french-vc-serena-raises-100m-fund",
+        "title": "French VC Serena raises new €100m fund to back the 'invisible' technologies behind apps",
+        "publisher": "Sifted",
+        "accessed": "2026-06-03",
+        "supports": "€100M Data Ventures II, successor to €70M Data Venture I (2017), infrastructure software focus, three themes, ticket size, portfolio (Koyeb, Fipto), Bpifrance/EIF LPs",
+        "quote": "Serena has closed a new €100m early-stage fund... the €100m Data Ventures II... successor to the €70m Data Venture I from 2017... It will back over 20 pre-seed and seed startups with tickets from €500k-3.5m."
+      },
+      {
+        "url": "https://www.serena.vc/",
+        "title": "Serena",
+        "publisher": "Serena",
+        "accessed": "2026-06-03",
+        "supports": "firm positioning, Paris HQ",
+        "quote": "Serena"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Serena Capital founded 2008; Data Ventures is its dedicated data/infrastructure strategy (Fund I 2017, Fund II 2024). Serena also raised a separate €200M Fund IV (applied AI / energy) in 2025, which is broader than this dev-tools/data segment.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "eu-nauta-capital",
+    "name": { "en": "Nauta Capital" },
+    "aka": ["Nauta"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2004,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "offices": [
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "Spain", "city": "Barcelona" },
+      { "country": "Germany", "city": "Munich" }
+    ],
+    "website": "https://www.nautacapital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/nauta-capital",
+      "linkedin": "https://uk.linkedin.com/company/nautacapital"
+    },
+    "capital": {
+      "aum": { "raw": "over half a billion (€500M+) under management", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": "€120M first close (Fund V, Nauta Tech Invest V)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Nauta Tech Invest V", "vintage_year": 2020, "size": { "raw": "€120M first close (€190M target)", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "£100k–£250k (Nauta Labs pre-seed deep tech)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe", "United Kingdom", "Spain", "Germany"],
+      "sector_focus": ["saas-enterprise", "deeptech", "ai-ml"],
+      "thesis": "Capital-efficient B2B software investor (Seed/Series A) focused on B2B SaaS with strong network effects, vertical enterprise tech and deep-tech applications for large enterprises; runs Nauta Labs to seed pre-seed deep-tech companies."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "NumberEight", "sector": "contextual intelligence / data", "outcome": "active" }
+      ]
+    },
+    "team_size": 24,
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["b2b-software", "deep-tech", "capital-efficient", "enterprise-software"],
+    "summary": {
+      "en": "Pan-European B2B software VC (London, Barcelona, Munich) with €500M+ AUM and a capital-efficiency thesis, investing Seed/Series A in B2B SaaS, vertical enterprise tech and deep tech. Fund V first close €120M; Nauta Labs seeds pre-seed deep-tech with £100k–250k checks.",
+      "local": "VC paneuropeo de software B2B (Londres, Barcelona, Múnich) con más de €500M gestionados y una tesis de eficiencia de capital."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2020/07/08/nauta-capital-5/",
+        "title": "Nauta Capital launches fifth fund with €120M to back early-stage European B2B startups",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-03",
+        "supports": "Fund V €120M first close, B2B software focus, Seed/Series A, capital-efficient thesis, offices",
+        "quote": "Nauta Capital launches fifth fund with €120M to back early-stage European B2B startups"
+      },
+      {
+        "url": "https://nautacapital.com/news/nauta-capital-launches-fifth-fund-with-a-e120m-first-close-reveals-first-investment-in-uk-contextual-intelligence-platform-numbereight/",
+        "title": "Nauta Capital launches fifth fund with a €120M first close ... NumberEight",
+        "publisher": "Nauta Capital",
+        "accessed": "2026-06-03",
+        "supports": "€500M+ AUM, team of 24, Nauta Labs £100k–250k pre-seed deep-tech, NumberEight investment",
+        "quote": "the VC firm will invest £100-£250K in 16 pre-seed deeptech companies through its recently launched Nauta Labs initiative."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2004 (Barcelona origins); now HQ-led from London with Barcelona and Munich offices. Fund V targeted €190M with €120M first close.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "eu-tera-ventures",
+    "name": { "en": "Tera Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "Estonia",
+    "hq_city": "Tallinn",
+    "website": "https://www.tera.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/tera-ventures",
+      "linkedin": "https://ee.linkedin.com/company/tera-ventures"
+    },
+    "capital": {
+      "current_fund": { "raw": "€43M (Fund II, closed 2021)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Tera Ventures Fund II", "vintage_year": 2021, "size": { "raw": "€43M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": "€200k–€1.5m", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Estonia", "Nordics", "Baltics", "Poland", "Czech Republic"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "robotics", "deeptech", "cybersecurity"],
+      "thesis": "Seed-stage investor in born-global digital startups across the Nordics, Baltics and CEE, with 15+ years of AI-driven enterprise SaaS, robotics/deep tech, fintech and security investing."
+    },
+    "track_record": {
+      "portfolio_count": "20+ seed-stage investments"
+    },
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["enterprise-saas", "deep-tech", "baltics", "nordics", "seed", "born-global"],
+    "summary": {
+      "en": "Tallinn-based seed fund backing born-global digital startups across the Nordics, Baltics, Poland and Czech Republic, in AI-powered enterprise SaaS, robotics/deep tech and security. Fund II €43M (2021); checks €200k–1.5m.",
+      "local": "Tallinnas asuv seemnefond, mis investeerib globaalselt skaleeruvatesse idufirmadesse Põhjamaades, Baltikumis ja Kesk-Euroopas. Fond II €43M."
+    },
+    "sources": [
+      {
+        "url": "https://www.eu-startups.com/2021/04/tera-ventures-closes-e43-million-fund-to-boost-seed-stage-startups/",
+        "title": "Tera Ventures closes €43 million fund to boost seed-stage startups",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-03",
+        "supports": "Fund II €43M, seed stage, geographic reach, check size",
+        "quote": "Tera Ventures closes €43 million fund to boost seed-stage startups"
+      },
+      {
+        "url": "https://www.tera.vc/",
+        "title": "Front Page - Tera Ventures",
+        "publisher": "Tera Ventures",
+        "accessed": "2026-06-03",
+        "supports": "born-global thesis, enterprise SaaS / robotics / deep tech focus, Tallinn base",
+        "quote": "Tera Ventures"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Check size (€200k–1.5m) and geographic reach from aggregated Tracxn/EU-Startups data; founding year ~2016 (Fund I era). Devtools/data-infra relevance is partial — enterprise SaaS/security/deep tech rather than pure dev tools.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "eu-episode-1-ventures",
+    "name": { "en": "Episode 1 Ventures" },
+    "aka": ["Episode 1"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.episode1.com/",
+    "links": {
+      "other": ["https://fundingtrip.com/f/episode-1"]
+    },
+    "capital": {
+      "current_fund": { "raw": "£76M (~$95M) Fund III", "usd": 95000000, "currency": "GBP" },
+      "funds": [
+        { "name": "Episode 1 Fund III", "vintage_year": 2024, "size": { "raw": "£76M", "usd": 95000000, "currency": "GBP" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "£250k–£3m", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United Kingdom", "Europe", "United States"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "biotech", "healthtech"],
+      "thesis": "Pre-seed/seed B2B investor using in-house data-driven deal sourcing (GitHub, Product Hunt, LinkedIn signals) across AI, TechBio, open-source, software infrastructure, healthtech and marketplaces; 10–15 deals per year, mainly UK."
+    },
+    "track_record": {},
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["open-source", "software-infrastructure", "b2b", "ai", "pre-seed", "data-driven-sourcing"],
+    "summary": {
+      "en": "London pre-seed/seed B2B VC with data-driven deal sourcing. Fund III closed at £76M (~$95M, 2024), targeting AI, TechBio, open-source, software infrastructure, healthtech and marketplaces; £250k–3m checks, 10–15 deals/year. LPs include British Patient Capital and Molten Ventures.",
+      "local": "London-based pre-seed/seed B2B VC with data-driven deal sourcing; Fonds III £76M (2024)."
+    },
+    "sources": [
+      {
+        "url": "https://tech.eu/2024/02/06/episode-1-announces-ps76m-fund-for-pre-seed-and-seed-stage-investments/",
+        "title": "Episode 1 announces £76M fund for Pre-Seed and Seed-stage investments",
+        "publisher": "Tech.eu",
+        "accessed": "2026-06-03",
+        "supports": "£76M Fund III, pre-seed/seed, sector focus incl. open-source and software infrastructure, ticket size",
+        "quote": "focusing on AI, TechBio, open-source, software infrastructure, healthtech and marketplaces startups with ticket sizes ranging from £250,000 to £3 million."
+      },
+      {
+        "url": "https://techcrunch.com/2024/02/05/episode-1-fund-3/",
+        "title": "Early-stage UK VC Episode 1 closes $95M third fund",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-03",
+        "supports": "$95M (£76M) fund size, data-driven sourcing (GitHub/Product Hunt/LinkedIn), 10–15 deals/year, UK focus, Molten Ventures + British Patient Capital LPs",
+        "quote": "The firm uses data collated from repositories such as LinkedIn, Product Hunt, and GitHub to filter out the most promising startups"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2013. Open source / software infrastructure is one of several focus areas (generalist B2B), so devtools/data-infra relevance is partial.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "eu-b2venture",
+    "name": { "en": "b2venture" },
+    "aka": ["btov Partners", "btov", "b-to-v Partners"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2000,
+    "region": "europe",
+    "country": "Switzerland",
+    "hq_city": "St. Gallen",
+    "offices": [
+      { "country": "Switzerland", "city": "St. Gallen" },
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "Germany", "city": "Munich" },
+      { "country": "Luxembourg", "city": "Luxembourg City" }
+    ],
+    "website": "https://www.b2venture.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/btovpartners"
+    },
+    "capital": {
+      "aum": { "raw": "€420M across three divisions", "usd": null, "currency": "EUR" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "€0.25m–€3.5m", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Germany", "Austria", "Switzerland", "Europe"],
+      "sector_focus": ["deeptech", "saas-enterprise", "cybersecurity", "robotics", "hardware-semiconductor"],
+      "thesis": "Early-stage DACH-focused deep-tech and enterprise software investor across Industry 4.0, industrial AI, IoT, enterprise software and cybersecurity, combining an institutional fund with a large business-angel network."
+    },
+    "track_record": {},
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["deep-tech", "enterprise-software", "industrial-tech", "cybersecurity", "dach", "angel-network"],
+    "summary": {
+      "en": "Pan-European (DACH-focused) deep-tech and enterprise software VC founded 2000, with offices in St. Gallen, Berlin, Munich and Luxembourg and €420M AUM. Tickets €0.25–3.5m across Industry 4.0, industrial AI, IoT, enterprise software and cybersecurity.",
+      "local": "Paneuropäischer (DACH-fokussierter) Deep-Tech- und Enterprise-Software-VC, gegründet 2000; €420M verwaltetes Vermögen, Tickets €0,25–3,5 Mio."
+    },
+    "sources": [
+      {
+        "url": "https://www.eu-startups.com/2019/10/pan-european-startup-btov-partners-closes-new-industrial-tech-fund-at-e100-million/",
+        "title": "Pan-European VC btov Partners closes new Industrial Tech Fund at €100 million",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-03",
+        "supports": "industrial/deep-tech focus, pan-European, fund scale",
+        "quote": "Pan-European VC btov Partners closes new Industrial Tech Fund at €100 million"
+      },
+      {
+        "url": "https://privateequitylist.com/investors/btov-partners",
+        "title": "btov Partners (b2venture) profile",
+        "publisher": "Private Equity List",
+        "accessed": "2026-06-03",
+        "supports": "founded 2000, offices, €420M AUM, ticket size €0.25–3.5m, sector focus, DACH geo focus",
+        "quote": "ticket sizes ranging from EUR 0.25m to 3.5m... manages assets totaling €420 million across its three divisions"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Rebranded from btov Partners to b2venture. Dev-tools/data-infra relevance is partial — broad deep-tech/enterprise/industrial mandate rather than pure dev tools. AUM and ticket figures from secondary aggregators.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  }
+]

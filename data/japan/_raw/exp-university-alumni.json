@@ -1,0 +1,736 @@
+[
+  {
+    "id": "jp-kobe-university-capital",
+    "name": { "en": "Kobe University Capital", "local": "神戸大学キャピタル株式会社" },
+    "aka": ["KUC", "神戸大学キャピタル"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Kobe",
+    "website": "https://kuc.vc/",
+    "links": { "other": ["https://kuc.vc/fund/"] },
+    "capital": {
+      "current_fund": { "raw": "¥2.2 billion (KUC No.1 fund, co-formed with SBI)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "KUC1号投資事業有限責任組合", "vintage_year": 2023, "size": { "raw": "総額22億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Kansai / Kobe region"],
+      "sector_focus": ["generalist", "deeptech", "biotech"],
+      "thesis": "Backs university-derived ventures from Kobe University and partner national/public/private universities, research-institution spin-offs and Kobe University alumni entrepreneurs to drive regional revitalization."
+    },
+    "track_record": {},
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "kobe-university", "national-university", "regional"],
+    "summary": {
+      "en": "Kobe University Capital (KUC) is a wholly owned subsidiary of Kobe University that, with SBI University-Based Venture Support, co-manages the ¥2.2bn KUC No.1 fund — said to be Japan's first national-university fund backed entirely by private capital.",
+      "local": "神戸大学が100%出資する子会社。SBI大学発ベンチャー育成支援と共同で総額22億円の『神戸大学ファンド（KUC1号）』を運営し、国立大初の民間資本100%の大学ファンドとされる。"
+    },
+    "sources": [
+      { "url": "https://kuc.vc/fund/", "title": "FUND - 神戸大学キャピタル", "publisher": "Kobe University Capital", "accessed": "2026-06-03", "supports": "Fund name, ownership, co-GP, investment scope, HQ", "quote": "KUC1号投資事業有限責任組合; 100%子会社の神戸大学キャピタルが co-GP として SBI大学発ベンチャー育成支援株式会社と運営" },
+      { "url": "https://www.nikkei.com/article/DGXZQOCC280H50Y3A820C2000000/", "title": "Kobe University fund coverage", "publisher": "Nikkei", "accessed": "2026-06-03", "supports": "¥2.2bn fund size, 2023 founding", "quote": "神戸大学100%株主の神戸大学キャピタルがSBI大学発ベンチャー育成支援と総額22億円の『神戸大学ファンド』を共同設立" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size (¥22 億円) from Nikkei/search; KUC page does not state exact figure. Exact founding month not confirmed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "jp-vision-incubate",
+    "name": { "en": "Vision Incubate", "local": "株式会社ビジョンインキュベイト" },
+    "aka": ["ビジョンインキュベイト", "Kanazawa University VC"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Kanazawa",
+    "website": "https://www.kanazawa-u.ac.jp/",
+    "links": { "other": ["https://prtimes.jp/main/html/rd/p/000000002.000121785.html", "https://o-fsi.w3.kanazawa-u.ac.jp/venture/vc.html"] },
+    "capital": {
+      "funds": [
+        { "name": "ビジョンインキュベイト1号ファンド", "vintage_year": 2023, "size": { "raw": null, "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Hokuriku region"],
+      "sector_focus": ["deeptech", "generalist"],
+      "thesis": "Invests in startups leveraging national-university technology, centred on Kanazawa and the Hokuriku region; targets roughly 20 national-university spin-offs over 2-3 years."
+    },
+    "track_record": { "portfolio_count": "target ~20 companies" },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "kanazawa-university", "national-university", "hokuriku", "regional"],
+    "summary": {
+      "en": "Vision Incubate is a VC established by Kanazawa University with 100% of its capital from the university's own resources — described as Japan's first national-university VC funded entirely by the university itself. Authorized as a certified fund in May 2023, it targets ~20 Hokuriku national-university startups.",
+      "local": "金沢大学が自己財源100%で設立したVC。国立大学等による自己財源100%出資の設立としては国内初とされる。2023年5月認定。今後2〜3年で北陸を中心に国立大発スタートアップ約20社への投資を目指す。"
+    },
+    "sources": [
+      { "url": "https://prtimes.jp/main/html/rd/p/000000002.000121785.html", "title": "金沢大学発VCが認定。国立大学等による自己財源100%出資の設立としては国内初！", "publisher": "金沢大学 (PR Times)", "accessed": "2026-06-03", "supports": "100% self-funded, Japan-first, May 2023 authorization, Hokuriku focus", "quote": "国内初（Japan's first）national university VC established entirely with university's own resources; Recognition approved May 9, 2023" },
+      { "url": "https://www.nikkei.com/article/DGXZQOCC280H50Y3A820C2000000/", "title": "金沢大学がベンチャーキャピタル 大学発新興20社に投資", "publisher": "Nikkei", "accessed": "2026-06-03", "supports": "~20 portfolio target, Hokuriku focus", "quote": "今後2〜3年程度で北陸を中心に国立大学発のスタートアップ約20社への投資を目指す" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size not disclosed in fetched sources. Company name romanization 'Vision Incubate' inferred from カナ.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "jp-bp-capital-tuat-fund",
+    "name": { "en": "BP Capital (TUAT Fund manager)", "local": "BPキャピタル株式会社" },
+    "aka": ["BPキャピタル", "TUATファンド", "BP Capital"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.tuat.ac.jp/",
+    "links": { "other": ["https://www.tuat.ac.jp/english/outline/disclosure/pressrelease/2022/20230119_01.html"] },
+    "capital": {
+      "funds": [
+        { "name": "TUAT１号投資事業有限責任組合", "vintage_year": 2023, "size": { "raw": "最大10億円（予定）", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["agritech", "deeptech", "biotech"],
+      "thesis": "TUAT No.1 fund, managed by BP Capital with Tokyo University of Agriculture and Technology and Astena Holdings as LPs, backs seed-to-early startups from TUAT and other national universities, emphasizing agriculture, livestock, smart farming and food."
+    },
+    "track_record": {},
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "certified-fund", "tuat", "agritech", "national-university"],
+    "summary": {
+      "en": "The TUAT No.1 fund (TUATファンド), established 18 Jan 2023 and managed by BP Capital with Tokyo University of Agriculture and Technology and Astena Holdings as LPs, is described as Japan's first case of a national university investing self-generated revenue into a private VC's certified fund. Size up to ¥1bn, focused on agri/food deeptech.",
+      "local": "東京農工大学・アステナHDがLP出資しBPキャピタルが運用する『TUAT１号ファンド』（2023年1月18日設立、最大10億円予定）。国立大学が自己収益で民間VCの認定ファンドに出資する国内初の事例とされ、農業・畜産・スマート農業・食分野のシード〜アーリーに投資。"
+    },
+    "sources": [
+      { "url": "https://www.tuat.ac.jp/english/outline/disclosure/pressrelease/2022/20230119_01.html", "title": "国立大学法人と民間VCの連携による『初の認定ファンド』組成", "publisher": "Tokyo University of Agriculture and Technology", "accessed": "2026-06-03", "supports": "Fund name, manager, LPs, size, date, focus, Japan-first", "quote": "TUAT１号投資事業有限責任組合; founding January 18, 2023; 最大10億円（予定）; 国内初の事例" }
+    ],
+    "confidence": "high",
+    "verification_notes": "BP Capital's own founding year not confirmed; entity centred on the TUAT certified fund.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "jp-qb-capital",
+    "name": { "en": "QB Capital", "local": "QBキャピタル合同会社" },
+    "aka": ["QBキャピタル", "QB Capital, LLC", "QBファンド"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Fukuoka",
+    "website": "https://qbc.co.jp/",
+    "links": { "crunchbase": "", "other": ["https://initial.inc/investors/V08962", "https://www.k-uip.co.jp/news/view/77"] },
+    "capital": {
+      "funds": [
+        { "name": "QB第一号ファンド", "vintage_year": 2015, "size": { "raw": null, "usd": null, "currency": "JPY" } },
+        { "name": "QB第二号投資事業有限責任組合", "vintage_year": 2021, "size": { "raw": "約70億円 (closed April 2022); target 50億円超", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Kyushu region"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "biotech"],
+      "thesis": "Invests in university-originated, real-tech (deeptech) startups centred on the Kyushu region, aiming to create regional innovation and break away from Tokyo concentration."
+    },
+    "track_record": { "portfolio_count": "25 (Fund 1)" },
+    "people": [
+      { "name": "Tsuyoshi Sakamoto / 坂本 剛", "role": "Representative Partner" },
+      { "name": "Takashi Hondo / 本藤 孝", "role": "Representative Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "kyushu-university", "regional", "deeptech", "tlo"],
+    "summary": {
+      "en": "QB Capital (Fukuoka, founded 2015) was set up by West Japan City Bank and Kyushu University's TLO (Sangaku Renkei Kyushu). Its first fund backed 25 companies; the second fund (~¥7bn, closed 2022) is co-run with NCB Venture Capital and targets Kyushu university / real-tech startups.",
+      "local": "九州大学TLO（産学連携機構九州）と西日本シティ銀行の出資で2015年に設立された福岡のVC。QB1号は25社に投資、QB2号（約70億円、2022年クローズ）はNCBベンチャーキャピタルと共同運営し、九州の大学発・リアルテック系スタートアップに投資。"
+    },
+    "sources": [
+      { "url": "https://qbc.co.jp/", "title": "QBキャピタル", "publisher": "QB Capital", "accessed": "2026-06-03", "supports": "Founding year, HQ, leadership, Fund 2 size, focus", "quote": "QBキャピタル合同会社; Founded 2015; Fukuoka; Fund 2 ~¥7 billion (closed April 2022); 坂本 剛 Representative Partner" },
+      { "url": "https://www.k-uip.co.jp/news/view/77", "title": "QBキャピタル合同会社設立について", "publisher": "産学連携機構九州", "accessed": "2026-06-03", "supports": "Backers (West Japan City Bank, Sangaku Renkei Kyushu), Fund 1 25 companies", "quote": "西日本シティ銀行および産学連携機構九州の出資により設立; QB第一号ファンド... 25社に投資" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund 2 size cited as ~¥7bn on qbc.co.jp vs '50億円超' target in earlier press release; both noted.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "jp-sangaku-renkei-capital",
+    "name": { "en": "Industry-Academia Collaboration Capital (AIAC)", "local": "株式会社産学連携キャピタル" },
+    "aka": ["産学連携キャピタル", "AIAC", "産学連携1号ファンド"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokushima",
+    "website": "https://aiac.co.jp/",
+    "links": { "other": ["https://startup-db.com/investment-companies/yKEMpjXUqxAJQPej", "https://www.tokushima-u.ac.jp/docs/20440.html"] },
+    "capital": {
+      "funds": [
+        { "name": "産学連携1号投資事業有限責任組合", "vintage_year": 2020, "size": { "raw": "1,061百万円（約10億円）", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Tokushima / Shikoku"],
+      "sector_focus": ["deeptech", "biotech"],
+      "thesis": "Backs Tokushima University-involved ventures and enterprises using next-generation 'light/optics' technology to drive regional economic activation, founded by Awa Bank and the University Support Organization."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Tanaka Masanori / 田中正則", "role": "Representative Director (former REVIC Capital president)" },
+      { "name": "Kitaoka Kazuyoshi / 北岡和義", "role": "Director (Tokushima University associate professor)" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "tokushima-university", "regional", "deeptech"],
+    "summary": {
+      "en": "Industry-Academia Collaboration Capital (AIAC), founded March 2020 in Tokushima by Awa Bank and the University Support Organization (95% shareholder), runs the ~¥1.06bn 産学連携1号 fund backing Tokushima University ventures and next-generation optics/'light' technology startups.",
+      "local": "2020年3月設立、徳島市拠点。阿波銀行と一般社団法人大学支援機構（株式の95%保有）が出資し、約10.61億円の『産学連携1号ファンド』を運営。徳島大学関連ベンチャーや次世代『光』技術を活用する企業に投資。"
+    },
+    "sources": [
+      { "url": "https://aiac.co.jp/", "title": "AIAC-産学連携キャピタル", "publisher": "産学連携キャピタル", "accessed": "2026-06-03", "supports": "Founding date, HQ, fund size, backers, people, focus", "quote": "Established March 2, 2020, Tokushima City; 産学連携1号... 1,061 百万円; Awa Bank 1,000 million yen; 大学支援機構 holds 95.0% of shares" },
+      { "url": "https://www.tokushima-u.ac.jp/docs/20440.html", "title": "徳島大学発ベンチャー支援『産学連携１号投資事業有限責任組合』設立について", "publisher": "Tokushima University", "accessed": "2026-06-03", "supports": "Tokushima University affiliation, fund purpose", "quote": "徳島大学発のベンチャー企業への出資" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Representative Director name romanization from search; confirm spelling if used downstream.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "jp-hiroshima-university-venture-fund",
+    "name": { "en": "Hiroshima University & Regional Universities Venture Support Fund", "local": "広島大学・広島県内大学発ベンチャー支援投資事業有限責任組合" },
+    "aka": ["広島大学ファンド", "ひろしまインキュベーション＆キャピタル", "HIC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2026,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Hiroshima",
+    "website": "https://www.hiroshima-u.ac.jp/iagcc",
+    "links": { "other": ["https://www.hiroshima-u.ac.jp/iagcc/news/96554", "https://www.h-vc.co.jp/company/"] },
+    "capital": {
+      "funds": [
+        { "name": "広島大学・広島県内大学発ベンチャー支援投資事業有限責任組合", "vintage_year": 2026, "size": { "raw": "11億9100万円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Hiroshima / Chugoku region"],
+      "sector_focus": ["biotech", "healthtech", "deeptech", "saas-enterprise"],
+      "thesis": "Invests in startups based on research outcomes from Hiroshima University and other universities in Hiroshima Prefecture (medical, bio, ICT and other fields), as part of building a regional startup ecosystem."
+    },
+    "track_record": {},
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "hiroshima-university", "regional", "biotech"],
+    "summary": {
+      "en": "Hiroshima University's first certified venture fund (¥1.191bn, GP: Hiroshima Incubation & Capital / HIC, with Hiroshima Venture Capital and REVIC) backs startups from Hiroshima University and other prefectural universities. LPs include Hiroshima Bank, UTokyo IPC, Rakuten Securities and others; 10-year term, coordinated with Kyoto-iCAP.",
+      "local": "広島大学初の認定ファンド（11億9100万円）。GPは(株)ひろしまインキュベーション＆キャピタル（HIC）で、広島ベンチャーキャピタル(HVC)とREVICが支援。LPに広島銀行、東京大学協創プラットフォーム開発、楽天証券HD等。広島大学など県内大学発の医療・バイオ・ICT等のスタートアップに投資、存続10年、京都iCAPと連携。"
+    },
+    "sources": [
+      { "url": "https://www.hiroshima-u.ac.jp/iagcc/news/96554", "title": "広島大学発ベンチャーが始動 ― 第1号ファンドを組成", "publisher": "Hiroshima University", "accessed": "2026-06-03", "supports": "Fund size, GP/structure, LPs, term, focus", "quote": "11億9100万円; GP 株式会社ひろしまインキュベーション＆キャピタル（HIC）; LPに広島銀行、東京大学協創プラットフォーム開発、楽天証券HD; 10年" },
+      { "url": "https://www.nikkei.com/article/DGXMZO58882660Y0A500C2LC0000/", "title": "大学発スタートアップを支援、広島VCがファンド設立", "publisher": "Nikkei", "accessed": "2026-06-03", "supports": "Kyoto-iCAP coordination, sector coverage", "quote": "京都大学イノベーションキャピタル（京都iCAP）とも連携; 医療やバイオ、情報通信など幅広い分野" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fetched university page dates the 1st fund formation Jan 7 2026; an earlier 2020 Hiroshima VC fund (¥500M) is a distinct vehicle. Founding_year set to 2026 for this certified fund.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "jp-tokyo-univ-science-innovation-capital",
+    "name": { "en": "Tokyo University of Science Innovation Capital", "local": "東京理科大学イノベーション・キャピタル株式会社" },
+    "aka": ["TUSIC", "東京理科大学イノベーション・キャピタル", "TUSIDE"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://tusic.co.jp/",
+    "links": { "other": ["https://initial.inc/investors/V11465", "https://startup-db.com/companies/PM41JdNUWmkpxB6X"] },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "JPY" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["biotech", "deeptech", "ai-ml", "healthtech", "impact"],
+      "thesis": "Not limited to university-originated startups; invests across SDGs, life science, IoT, X-Tech and data science from seed/early through pre-IPO, as the investment arm of the TUSIDE ecosystem."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Yuichi Katayori / 片寄裕市", "role": "Representative Director & Managing Partner" },
+      { "name": "Hisanori Takata / 高田仁則", "role": "Representative Director & Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "tokyo-university-of-science", "private-university", "deeptech"],
+    "summary": {
+      "en": "Tokyo University of Science Innovation Capital (TUSIC), established Nov 2018 in Kagurazaka, Tokyo, is the venture-investment arm of TUS's TUSIDE ecosystem. Owned by a general incorporated association (TUS New Business Creation Fund), it invests in SDGs, life science, IoT, X-Tech and data-science startups from seed to pre-IPO, not limited to university spin-offs.",
+      "local": "2018年11月設立、東京・神楽坂。東京理科大学のエコシステム『TUSIDE』のベンチャー出資機能を担う。一般社団法人東京理科大学新事業創出基金が出資。大学発に限定せず、SDGs・ライフサイエンス・IoT・X-Tech・データサイエンス領域のシード〜プレIPOに投資。"
+    },
+    "sources": [
+      { "url": "https://tusic.co.jp/", "title": "TUSIC | 東京理科大学イノベーション・キャピタル", "publisher": "TUSIC", "accessed": "2026-06-03", "supports": "Founding year/month, HQ, capital, ownership, people", "quote": "Founding 2018 (November); Kagurazaka, Shinjuku; Capital ¥10 million; owner General Incorporated Association Tokyo University of Science New Business Creation Fund" },
+      { "url": "https://www.startuplist.jp/alliance_posts/47", "title": "東京理科大学イノベーション・キャピタルの特徴・評判・投資先実績", "publisher": "StartupList", "accessed": "2026-06-03", "supports": "Investment policy, stages, sectors", "quote": "大学発に限定しておらず、SDGs・ライフサイエンス・IoT・XTech・データサイエンスなどの領域で、シード、アーリーからプレIPOまで" }
+    ],
+    "confidence": "high",
+    "verification_notes": "People names romanized from the firm site; exact readings unverified. Fund names/sizes not disclosed publicly.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "jp-miyako-capital",
+    "name": { "en": "Miyako Capital", "local": "みやこキャピタル株式会社" },
+    "aka": ["みやこキャピタル", "Miyako Capital", "みやこ京大ファンド"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Kyoto",
+    "website": "https://miyakocapital.com/",
+    "links": { "other": ["https://journal.startup-db.com/articles/miyakocapital-okahashi", "https://prtimes.jp/main/html/rd/p/000000001.000078235.html"] },
+    "capital": {
+      "funds": [
+        { "name": "みやこ京大1号ファンド", "vintage_year": 2015, "size": { "raw": "総額73.3億円", "usd": null, "currency": "JPY" } },
+        { "name": "みやこ京大2号ファンド", "vintage_year": 2019, "size": { "raw": "総額142.1億円", "usd": null, "currency": "JPY" } },
+        { "name": "みやこ京大イノベーション3号投資事業有限責任組合", "vintage_year": 2023, "size": { "raw": "約200億円規模 (目標)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["biotech", "deeptech", "ai-ml", "hardware-semiconductor"],
+      "thesis": "Kyoto University's officially recognized VC; invests in technology-development ventures using academic/research IP and talent, focused on life science, chemistry/materials manufacturing and AI, with the 3rd fund centred on deeptech seed/early."
+    },
+    "track_record": {},
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "kyoto-university", "deeptech", "biotech"],
+    "summary": {
+      "en": "Miyako Capital (Kyoto, founded Sept 2013) is Kyoto University's officially recognized independent VC. Its funds grew from ¥7.33bn (Miyako-Kyodai No.1, 2015) to ¥14.21bn (No.2, 2019) and a ~¥20bn No.3 deeptech fund (2023), backing life-science, materials and AI university startups.",
+      "local": "2013年9月設立、京都拠点。京都大学公認の独立系VC。みやこ京大1号(2015, 73.3億円)、2号(2019, 142.1億円)を経て、3号(2023)はディープテックのシード・アーリー中心で約200億円規模を目指す。ライフサイエンス・化学素材・AI分野の大学発に投資。"
+    },
+    "sources": [
+      { "url": "https://prtimes.jp/main/html/rd/p/000000001.000078235.html", "title": "みやこキャピタル、2号ファンドを142億円で最終クローズ", "publisher": "みやこキャピタル (PR Times)", "accessed": "2026-06-03", "supports": "Fund 1 & 2 sizes and vintages", "quote": "みやこ京大1号ファンドは2015年11月... 総額73.3億円; 承継ファンドのみやこ京大2号ファンドは2019年10月設立、総額142.1億円" },
+      { "url": "https://www.nikkei.com/article/DGXZQOUC033PX0T00C23A8000000/", "title": "京大系VCが200億円ファンド バイオ・AI企業育成", "publisher": "Nikkei", "accessed": "2026-06-03", "supports": "Fund 3 ~¥20bn target, sectors", "quote": "京大系VCが200億円ファンド バイオ・AI企業育成" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund 3 size is a target/aim per Nikkei headline; founding year 2013 from search.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "jp-hokudai-green-frontier-fund",
+    "name": { "en": "Hokudai Green Frontier Fund (managed by 15th Rock)", "local": "北大Green Frontier Fund投資事業有限責任組合" },
+    "aka": ["北大Green Frontier Fund", "15th Rock", "Hokkaido University fund"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://15th-rock.com/",
+    "links": { "other": ["https://prtimes.jp/main/html/rd/p/000000023.000048359.html", "https://www.hokudai.ac.jp/news/pdf/240306_pr2.pdf"] },
+    "capital": {
+      "funds": [
+        { "name": "北大Green Frontier Fund投資事業有限責任組合", "vintage_year": 2024, "size": { "raw": "目標総額30億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Hokkaido"],
+      "sector_focus": ["agritech", "climate-energy", "deeptech", "impact"],
+      "thesis": "Targets 'Green' (primary industries — agriculture, forestry, fisheries, mining — plus GX/sustainability) and 'Frontier' (Hokkaido University-related: alumni and research outcomes). Managed by 15th Rock, a VC founded by Hokkaido University alumni."
+    },
+    "track_record": {},
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "hokkaido-university", "alumni-founded", "agritech", "climate"],
+    "summary": {
+      "en": "The Hokudai Green Frontier Fund (target ¥3bn, 10-year term, launched spring 2024) is Hokkaido University's university fund, managed by 15th Rock — a Tokyo VC founded in 2019 by Hokkaido University alumni. It invests in 'Green' primary-industry/GX themes and 'Frontier' Hokkaido University-related (alumni, research) startups.",
+      "local": "北海道大学の大学発ファンド『北大Green Frontier Fund』（目標総額30億円・存続10年・2024年春設立）。運営は北大OBが2019年創業の15th Rock（東京・千代田）。一次産業・GXなど『Green』と、北大関連（出身者・研究成果）『Frontier』に投資。"
+    },
+    "sources": [
+      { "url": "https://prtimes.jp/main/html/rd/p/000000023.000048359.html", "title": "北海道大学と15th Rockが大学発ファンド『北大Green Frontier Fund』を今春に設立", "publisher": "15th Rock (PR Times)", "accessed": "2026-06-03", "supports": "Fund name, size, term, launch, manager, alumni founding, focus", "quote": "北大Green Frontier Fund投資事業有限責任組合; 30億円; 10年; 15th Rockは北大OBが2019年に創業; Green=農業林業水産業鉱業...GX; Frontier=北海道大学関連（出身者、研究成果など）" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund is a target ¥3bn as of launch; 15th Rock HQ Chiyoda, Tokyo.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "jp-central-japan-innovation-capital",
+    "name": { "en": "Central Japan Innovation Capital", "local": "株式会社Central Japan Innovation Capital" },
+    "aka": ["CJIC", "Central Japan Innovation Capital"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Nagoya",
+    "website": "https://www.thers.ac.jp/",
+    "links": { "other": ["https://www.thers.ac.jp/news/2024/11/20241107-tii.html", "https://note.com/nagoyauniversity/n/naf0d58b60c1c"] },
+    "capital": {
+      "current_fund": { "raw": "33億円 (initial fund from 13 institutions)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "CJIC 1号ファンド", "vintage_year": 2024, "size": { "raw": "33億円; 将来50〜100億円規模を目指す", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Tokai region"],
+      "sector_focus": ["deeptech", "ai-ml", "robotics", "mobility", "hardware-semiconductor", "biotech"],
+      "thesis": "Subsidiary of the Tokai National Higher Education and Research System investing in deeptech seed/early startups (IT, mobility, AI, robotics, materials/semiconductors, life science, manufacturing, agritech) with significant impact on the Tokai region."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Takeda Kazuya / 武田一哉", "role": "President (Nagoya University professor)" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "tokai", "nagoya-university", "national-university", "deeptech"],
+    "summary": {
+      "en": "Central Japan Innovation Capital (CJIC), established 1 Nov 2024 as a 100% subsidiary of the Tokai National Higher Education and Research System (Nagoya University + Gifu University), is a Nagoya-based deeptech VC. Its first fund raised ¥3.3bn from 13 backers (incl. Aichi Pref., Nagoya City, MUFG Bank), aiming for ¥5-10bn total.",
+      "local": "東海国立大学機構（名古屋大学・岐阜大学）の100%子会社として2024年11月1日設立、名古屋拠点のディープテックVC。1号ファンドは愛知県・名古屋市・三菱UFJ銀行など13機関から33億円を調達、将来50〜100億円規模を目指す。"
+    },
+    "sources": [
+      { "url": "https://www.thers.ac.jp/news/2024/11/20241107-tii.html", "title": "ベンチャーキャピタル事業の会社設立に関するお知らせ", "publisher": "東海国立大学機構 (THERS)", "accessed": "2026-06-03", "supports": "Founding date, parent, HQ, capital, deeptech focus", "quote": "November 1, 2024; parent Tokai National Higher Education and Research System; Nagoya; Capital 15 million yen, 100% ownership by TII; deep tech startups seed and early-stage" },
+      { "url": "https://note.com/nagoyauniversity/n/naf0d58b60c1c", "title": "東海地域発スタートアップを資金面でバックアップ／CJIC設立、初回ファンドに33億円", "publisher": "名古屋大学 (note)", "accessed": "2026-06-03", "supports": "First fund ¥3.3bn from 13 backers, MUFG, ¥5-10bn target, president", "quote": "33億円 from 13 institutions and companies, including Aichi Prefecture, Nagoya City, and Mitsubishi UFJ Bank; aims for total operations of 50-100 億円; Takeda Kazuya 名古屋大学教授 president" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Company capital ¥15M; fund (¥33億) is the investment vehicle. President romanization inferred.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "jp-iyogin-ehime-university-fund",
+    "name": { "en": "Iyogin Ehime University Venture Support Fund", "local": "いよぎん愛媛大学発ベンチャー応援ファンド投資事業有限責任組合" },
+    "aka": ["いよぎん愛媛大学発ベンチャー応援ファンド", "いよぎんキャピタル", "Iyo Capital"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Matsuyama",
+    "website": "https://www.iyo-capital.co.jp/",
+    "links": { "other": ["https://www.iyo-capital.co.jp/fund/", "https://startup-db.com/funds/xY4QRl71sR0nG1oj", "https://www.ehime-u.ac.jp/data_relese/data_relese-5220/"] },
+    "capital": {
+      "funds": [
+        { "name": "いよぎん愛媛大学発ベンチャー応援ファンド投資事業有限責任組合", "vintage_year": 2016, "size": { "raw": "総額1億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Ehime / Shikoku"],
+      "sector_focus": ["biotech", "healthtech", "deeptech"],
+      "thesis": "Supports the creation/POC phase of Ehime University-originated ventures built on the university's technical seeds, in a three-way structure with Iyo Bank (investment + business planning), Ehime University (technology) and Shikoku TLO (venture management/economic verification)."
+    },
+    "track_record": {},
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "ehime-university", "regional", "tlo", "poc-stage"],
+    "summary": {
+      "en": "The Iyogin Ehime University Venture Support Fund (¥100M, established 1 Feb 2016, managed by Iyo Capital) funds the proof-of-concept / creation phase of Ehime University spin-offs, in a tripartite model with Iyo Bank, Ehime University and Shikoku TLO (Techno Network Shikoku).",
+      "local": "いよぎんキャピタルが運営する『いよぎん愛媛大学発ベンチャー応援ファンド』（総額1億円、2016年2月1日設立）。伊予銀行（投資・事業計画支援）、愛媛大学（技術）、四国TLO（経営支援・経済性検証）の三者連携で、愛媛大学発ベンチャーの創出・POC段階を支援。"
+    },
+    "sources": [
+      { "url": "https://www.ehime-u.ac.jp/data_relese/data_relese-5220/", "title": "『いよぎん愛媛大学発ベンチャー応援ファンド』の創設について", "publisher": "Ehime University", "accessed": "2026-06-03", "supports": "Founding date, fund size, three-party structure, focus", "quote": "established February 1, 2016; total fund size 100 million yen; Iyo Bank... Ehime University provides technology, and Techno Network Shikoku (Shikoku TLO) provides venture management support" },
+      { "url": "https://startup-db.com/funds/xY4QRl71sR0nG1oj", "title": "いよぎん愛媛大学発ベンチャー応援ファンド投資事業有限責任組合", "publisher": "STARTUP DB", "accessed": "2026-06-03", "supports": "Fund existence and naming", "quote": "いよぎん愛媛大学発ベンチャー応援ファンド投資事業有限責任組合" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund manager is Iyo Capital (いよぎんキャピタル), subsidiary of Iyo Bank / Iyogin Holdings.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "jp-yamaguchi-fun-fun-drive-fund",
+    "name": { "en": "Fun Fun Drive Fund (Yamaguchi FG / Yamaguchi University)", "local": "Fun Fun Drive投資事業有限責任組合" },
+    "aka": ["Fun Fun Drive", "山口キャピタル", "Yamaguchi Capital"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Shimonoseki",
+    "website": "https://startup-db.com/companies/PMb8p0WUO4jGgNdv",
+    "links": { "other": ["https://a-start.jp/?p=29", "http://www.yamaguchi-u.ac.jp/weeklynews/_7735/_8295.html"] },
+    "capital": {
+      "funds": [
+        { "name": "Fun Fun Drive投資事業有限責任組合", "vintage_year": 2020, "size": { "raw": "総額3億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "約3,000万円/件", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Yamaguchi / Chugoku"],
+      "sector_focus": ["generalist", "deeptech"],
+      "thesis": "Targets startups involving current students, faculty and alumni of Yamaguchi University, providing risk capital and hands-on support at the hard-to-fund seed/early stage, roughly ¥30M per deal."
+    },
+    "track_record": {},
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "yamaguchi-university", "alumni", "regional"],
+    "summary": {
+      "en": "The Fun Fun Drive fund (¥300M, established 27 Jan 2020, managed by Yamaguchi Capital with Yamaguchi FG and Yamaguchi Bank) explicitly targets startups involving Yamaguchi University's current students, faculty and alumni, investing ~¥30M per deal at seed/early stage; term to end-2029.",
+      "local": "山口キャピタルが運営する『Fun Fun Drive投資事業有限責任組合』（総額3億円、2020年1月27日設立、山口FG・山口銀行・山口キャピタルが組合員）。山口大学の現役学生・教職員・卒業生が関与するスタートアップを主対象に、シード/アーリーへ1件3000万円程度を投資。存続2029年末まで。"
+    },
+    "sources": [
+      { "url": "https://a-start.jp/?p=29", "title": "山口FGが山口大学発ベンチャーを投資対象とするファンドを設立", "publisher": "A-START", "accessed": "2026-06-03", "supports": "Founding date, fund size, members, alumni target, stage, check size, term", "quote": "January 27, 2020; ¥300 million total; 山口FG, 山口銀行, 山口キャピタル; startups involving current students, faculty, and alumni of Yamaguchi University; 1件3000万円程度; through December 31, 2029" }
+    ],
+    "confidence": "high",
+    "verification_notes": "University primary page (yamaguchi-u.ac.jp) returned 404 on fetch; details confirmed via A-START which cites the joint release. Yamaguchi Capital HQ Shimonoseki (Yamaguchi Bank base).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "jp-weru-investment",
+    "name": { "en": "WERU Investment", "local": "ウエルインベストメント株式会社" },
+    "aka": ["ウエルインベストメント", "WERU Investment Co., Ltd.", "早稲田大学アントレプレヌール研究会"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1998,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.weruinvest.com/",
+    "links": { "other": ["https://www.weruinvest.com/about-us/"] },
+    "capital": { "funds": [] },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["deeptech", "generalist", "biotech"],
+      "thesis": "Self-described as Japan's first VC sourced from university resources, originating from Waseda University's entrepreneur club (WERU). Broad-based investing across technology and research-driven startups via VC, equity and credit funds."
+    },
+    "track_record": {},
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "waseda-university", "alumni-club-origin", "legacy"],
+    "summary": {
+      "en": "WERU Investment (Tokyo, founded 1998) traces its origins to Waseda University's entrepreneur club (早稲田大学アントレプレヌール研究会, WERU) and calls itself Japan's first VC with university resources as its foundation. It runs VC, equity and credit funds backing technology and research-driven startups.",
+      "local": "1998年設立、東京・新宿。早稲田大学アントレプレヌール研究会（WERU）を母体とし、日本で初めて大学資源を源流とするVCを称する。VC・エクイティ・クレジットファンドを運営し、技術系・研究開発型スタートアップに投資。"
+    },
+    "sources": [
+      { "url": "https://www.weruinvest.com/about-us/", "title": "ABOUT US - WERU Investment", "publisher": "WERU Investment", "accessed": "2026-06-03", "supports": "Founding year, Waseda club origin, Japan-first claim, HQ, fund types", "quote": "established in 1998, originating from Waseda University's entrepreneur club; 日本で初めて大学資源を源流とするベンチャーキャピタル; Tokyo Shinjuku" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Current AUM / fund sizes not disclosed on the about page.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "jp-ritsumeikan-social-impact-fund",
+    "name": { "en": "Ritsumeikan Social Impact Fund (RSIF)", "local": "立命館ソーシャルインパクトファンド" },
+    "aka": ["RSIF", "立命館ソーシャルインパクトファンド", "RIMIX"],
+    "type": "vc",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Kyoto",
+    "website": "https://r-rimix.com/fund/",
+    "links": { "other": ["https://r-rimix.com/fund/", "https://www.nikkei.com/article/DGXZQOUF05A8N0V00C24A1000000/"] },
+    "capital": {
+      "current_fund": { "raw": "20億円 (2023拡充後)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "立命館ソーシャルインパクトファンド (RSIF)", "vintage_year": 2020, "size": { "raw": "20億円 (当初10億円→2023年に20億円へ拡充)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["impact", "healthtech", "edtech", "climate-energy"],
+      "thesis": "Impact-investment fund (100% funded by Ritsumeikan) backing faculty, students and alumni of Ritsumeikan launching social-enterprise ventures; prioritizes 'grassroots innovation' and social impact alongside returns, targeting returns below typical VC."
+    },
+    "track_record": {},
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "ritsumeikan-university", "private-university", "impact", "alumni", "students"],
+    "summary": {
+      "en": "The Ritsumeikan Social Impact Fund (RSIF), established April 2020 and 100% funded by Ritsumeikan school corporation, invests in faculty, students and alumni building social enterprises. Operated by Plus Social Investment, it was expanded to ¥2bn in 2023; 10-year term, impact-first with sub-market return targets.",
+      "local": "2020年4月設立、学校法人立命館が100%出資する『立命館ソーシャルインパクトファンド（RSIF）』。立命館の教職員・学生・卒業生による社会起業を投資対象とし、運営はプラスソーシャルインベストメント。2023年に20億円へ拡充、存続10年、通常VCより低い目標リターンのインパクト投資。"
+    },
+    "sources": [
+      { "url": "https://r-rimix.com/fund/", "title": "RSIF｜立命館ソーシャルインパクトファンド", "publisher": "立命館 RIMIX", "accessed": "2026-06-03", "supports": "Founding, ¥2bn size, 100% Ritsumeikan funding, GP, eligible investees, term", "quote": "Established April 2020 with a fund size of 2 billion yen; 100% funded by Ritsumeikan School Corporation; Operated by Plus Social Investment; invests in Ritsumeikan faculty, students, and alumni; Operating period 10 years" },
+      { "url": "https://www.nikkei.com/article/DGXZQOUF05A8N0V00C24A1000000/", "title": "立命館大学、社会課題解決にマネー ファンド20億円に倍増", "publisher": "Nikkei", "accessed": "2026-06-03", "supports": "Expansion to ¥2bn (doubled)", "quote": "ファンド20億円に倍増" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Initial size ¥1bn doubled to ¥2bn (2023/24 per Nikkei). RSIF blends impact-VC and grant-like support; type set to vc with incubator subtype.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "jp-kaishi-angel-fund",
+    "name": { "en": "Kaishi Angel Fund No.1", "local": "開志エンジェルファンド1号" },
+    "aka": ["開志エンジェルファンド1号", "事業創造キャピタル", "Kaishi Professional University fund"],
+    "type": "angel-syndicate",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Niigata",
+    "website": "https://www.nsg.gr.jp/",
+    "links": { "other": ["https://www.nsg.gr.jp/blog/%E5%AD%A6%E7%94%9F%E3%81%AE%E8%B5%B7%E6%A5%AD%E3%82%92%E6%94%AF%E6%8F%B4%EF%BC%81%E3%80%8C%E9%96%8B%E5%BF%97%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%83%89%EF%BC%91/", "https://www.nikkei.com/article/DGXZQOFB087Q60Y1A100C2000000/"] },
+    "capital": {
+      "funds": [
+        { "name": "開志エンジェルファンド1号", "vintage_year": 2021, "size": { "raw": "総額1億円", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Niigata"],
+      "sector_focus": ["generalist"],
+      "thesis": "Angel fund (¥1M-unit subscriptions from individual angel investors) supporting student and alumni ventures from Kaishi Professional University, in partnership with Business Creation Capital; 10-year term."
+    },
+    "track_record": {},
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-fund", "kaishi-professional-university", "student-startups", "angel", "regional"],
+    "summary": {
+      "en": "The Kaishi Angel Fund No.1 (¥100M, established 2021, Niigata) pairs Kaishi Professional University's innovation institute with Business Creation Capital (事業創造キャピタル) to back student/alumni ventures, raising ¥1M-unit commitments from individual angel investors; 10-year term.",
+      "local": "開志専門職大学イノベーション力研究所と事業創造キャピタルが連携する『開志エンジェルファンド1号』（総額1億円、2021年設立、新潟）。個人投資家（エンジェル）から一口100万円で募集し、同大学の学生・卒業生の起業を支援。運用期間10年。"
+    },
+    "sources": [
+      { "url": "https://www.nsg.gr.jp/blog/%E5%AD%A6%E7%94%9F%E3%81%AE%E8%B5%B7%E6%A5%AD%E3%82%92%E6%94%AF%E6%8F%B4%EF%BC%81%E3%80%8C%E9%96%8B%E5%BF%97%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%83%89%EF%BC%91/", "title": "学生の起業を支援！『開志エンジェルファンド１号』設立", "publisher": "NSG Group", "accessed": "2026-06-03", "supports": "Founding year, size, GP, ¥1M units, term, target", "quote": "ファンド総額は1億円; 一口100万円を単位として募集; 2021年に設立、運用期間は10年間; 事業創造キャピタル株式会社と連携" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Kaishi Professional University (開志専門職大学) is an NSG-group professional university; fund managed by Business Creation Capital.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "jp-nagoya-tokai-wide-venture-fund",
+    "name": { "en": "Nagoya University & Tokai Regional Universities Wide Venture Fund", "local": "名古屋大学・東海地区大学広域ベンチャーファンド" },
+    "aka": ["名古屋大学・東海地区大学広域ベンチャー1号", "日本ベンチャーキャピタル", "NVCC", "Tongali fund"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Nagoya",
+    "website": "https://www.nvcc.co.jp/",
+    "links": { "other": ["https://www.nvcc.co.jp/news/nagoya/", "https://www.aip.nagoya-u.ac.jp/venture/entrepreneurship/venture-fund"] },
+    "capital": {
+      "funds": [
+        { "name": "名古屋大学・東海地区大学広域ベンチャー1号投資事業有限責任組合", "vintage_year": 2016, "size": { "raw": "総額25億円", "usd": null, "currency": "JPY" } },
+        { "name": "名古屋大学・東海地区大学広域ベンチャー2号ファンド (Beyond Next Ventures運営)", "vintage_year": 2019, "size": { "raw": "1号・2号累計100億円超 (28社支援)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Tokai region"],
+      "sector_focus": ["deeptech", "mobility", "biotech", "hardware-semiconductor"],
+      "thesis": "Multi-university wide fund pooling five Tokai national universities (Nagoya, Gifu, Toyohashi Tech, Nagoya Inst. of Tech, Mie) with private VC to commercialize their technology seeds and pursue disruptive innovation."
+    },
+    "track_record": { "portfolio_count": "28 (across funds 1 & 2)" },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "multi-university", "tokai", "nagoya-university", "national-university", "deeptech"],
+    "summary": {
+      "en": "The Nagoya University & Tokai Regional Universities Wide Venture Fund pools five Tokai national universities (Nagoya, Gifu, Toyohashi Tech, Nagoya Inst. of Tech, Mie). Fund No.1 (¥2.5bn, est. 8 Mar 2016) is managed by Japan Venture Capital (NVCC); Fund No.2 (2019) by Beyond Next Ventures. Together they exceed ¥10bn and have backed 28 companies.",
+      "local": "東海5国立大学（名古屋・岐阜・豊橋技科大・名工大・三重）を束ねる広域大学ファンド。1号（総額25億円、2016年3月8日設立）は日本ベンチャーキャピタル(NVCC)が運営、2号（2019年）はBeyond Next Venturesが運営。1号・2号累計で100億円超、28社を支援。"
+    },
+    "sources": [
+      { "url": "https://www.nvcc.co.jp/news/nagoya/", "title": "『名古屋大学・東海地区大学広域ベンチャー1号投資事業有限責任組合』を設立", "publisher": "日本ベンチャーキャピタル (NVCC)", "accessed": "2026-06-03", "supports": "Fund 1 date, size, GP, five universities", "quote": "Establishment Date March 8, 2016; Fund Size 2.5 billion yen; GP Japan Venture Capital; Nagoya, Gifu, Toyohashi University of Technology, Nagoya Institute of Technology, Mie University" },
+      { "url": "https://prtimes.jp/main/html/rd/p/000000049.000017460.html", "title": "名古屋大学・東海地区大学広域ベンチャー２号ファンド設立に関するお知らせ", "publisher": "Beyond Next Ventures (PR Times)", "accessed": "2026-06-03", "supports": "Fund 2 by Beyond Next Ventures, cumulative >¥10bn / 28 companies", "quote": "across both the 1st and 2nd funds, more than 10 billion yen... supported 28 companies" }
+    ],
+    "confidence": "high",
+    "verification_notes": "GP differs by fund (NVCC for No.1, Beyond Next Ventures for No.2). Cumulative figures across both funds.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "jp-mirai-sozo-kiko",
+    "name": { "en": "Mirai Sozo Kiko (Mirai Creation Organization)", "local": "株式会社みらい創造機構" },
+    "aka": ["みらい創造機構", "みらい創造インベストメンツ", "Mirai Sozo", "東工大関連ファンド"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2014,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.titech.ac.jp/",
+    "links": { "other": ["https://www.titech.ac.jp/news/2021/061935", "https://startup-db.com/investment-companies/bzgwJ67UErzGrjY6"] },
+    "capital": {
+      "funds": [
+        { "name": "みらい創造一号投資事業有限責任組合", "vintage_year": 2016, "size": { "raw": null, "usd": null, "currency": "JPY" } },
+        { "name": "みらい創造二号投資事業有限責任組合", "vintage_year": 2021, "size": { "raw": "50億円規模 (ファイナルクローズ予定)", "usd": null, "currency": "JPY" } },
+        { "name": "みらい創造3号ファンド", "vintage_year": 2025, "size": { "raw": "東京都が30億円出資", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["deeptech", "robotics", "hardware-semiconductor", "ai-ml", "climate-energy"],
+      "thesis": "Invests primarily in ventures using research from Tokyo Tech (now Institute of Science Tokyo), ventures founded by its researchers and alumni, and joint ventures, plus KOSEN (technical college)-related R&D startups."
+    },
+    "track_record": { "portfolio_count": "45+ (Fund 2 era)" },
+    "people": [
+      { "name": "Yukinori Okada / 岡田祐之", "role": "CEO" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "tokyo-tech", "science-tokyo", "alumni", "deeptech", "kosen"],
+    "summary": {
+      "en": "Mirai Sozo Kiko (founded 9 Sept 2014) is Tokyo Tech / Institute of Science Tokyo's affiliated VC. Fund No.1 (2016) backed 26 Tokyo-Tech-related ventures with three IPOs; Fund No.2 (est. 1 Sept 2021, ~¥5bn) extended to KOSEN-related startups (45+ investments); Fund No.3 (2025) drew a ¥3bn investment from Tokyo Metropolitan Government.",
+      "local": "2014年9月9日設立、東京工業大学（現・東京科学大学）の関連VC。1号(2016)は東工大関連26社に投資し3社IPO。2号(2021年9月1日設立、約50億円)は高専関連にも対象を拡大し45社超に投資。3号(2025)は東京都が30億円を出資。研究者・卒業生関連ベンチャーが中心。"
+    },
+    "sources": [
+      { "url": "https://www.titech.ac.jp/news/2021/061935", "title": "東工大関連ベンチャーキャピタルみらい創造機構 二号ファンドを組成", "publisher": "Tokyo Institute of Technology", "accessed": "2026-06-03", "supports": "Fund 2 date and ~¥5bn size, alumni/researcher focus, KOSEN expansion", "quote": "Establishment Date September 1, 2021; ファイナルクローズにて50億円規模を予定; ventures founded by current students and alumni" },
+      { "url": "https://www.nikkei.com/article/DGXZQOUC261GD0W5A221C2000000/", "title": "東京科学大系VCのみらい創造、3号ファンド設立 東京都が出資", "publisher": "Nikkei", "accessed": "2026-06-03", "supports": "Fund 3 with ¥3bn Tokyo Metropolitan Government investment", "quote": "「みらい創造3号ファンド」が設立され、東京都が30億円を出資" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year 2014 from STARTUP DB/search; CEO name romanization inferred. Fund 1 size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  }
+]

@@ -1,0 +1,549 @@
+[
+  {
+    "id": "ca-ripple-ventures",
+    "name": { "en": "Ripple Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.rippleventures.com/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/rippleventures",
+      "crunchbase": "https://www.crunchbase.com/organization/ripple-ventures",
+      "other": ["https://medium.com/rippleventures"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "Ripple Ventures Fund I", "vintage_year": 2018, "size": { "raw": "CAD $10M", "usd": null, "currency": "CAD" } },
+        { "name": "Ripple Ventures Fund III", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$250K–$1M USD", "usd_min": 250000, "usd_max": 1000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "Inception-stage venture fund leading first cheques into pre-incorporation/pre-product B2B SaaS founders, with emphasis on workflow automation, data & analytics platforms, and developer tools selling to global markets. Run by serial entrepreneurs who work hands-on with each company."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Matt Cohen", "role": "Founder & Managing Partner", "linkedin": "https://ca.linkedin.com/in/matt-cohen1" }
+    ],
+    "application": {
+      "how_to_apply": "Inbound via website; runs the RippleX Fellowship for student/recent-grad B2B software founders.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.rippleventures.com/"
+    },
+    "tags": ["b2b-saas", "developer-tools", "data-analytics", "pre-seed", "toronto"],
+    "summary": {
+      "en": "Toronto-based pre-seed/seed venture fund founded in 2018 by Matt Cohen, writing first cheques into B2B SaaS, developer tools and data/analytics platforms across Canada and the US. Fund I closed at CAD $10M; later funds (incl. Fund III) followed."
+    },
+    "sources": [
+      { "url": "https://www.rippleventures.com/", "title": "Ripple Ventures", "publisher": "Ripple Ventures", "accessed": "2026-06-03", "supports": "stage, check size, geo, thesis, team", "quote": "Check Size: $250K–$1M USD. Inception stage, which can be: pre-incorporation, pre-product, or pre-traction. Canadian and US startups that sell to global markets." },
+      { "url": "https://www.newswire.ca/news-releases/ripple-ventures-closes-10m-venture-fund-for-early-stage-technology-investments--opens-incubator-space-for-portfolio-companies-693034361.html", "title": "Ripple Ventures Closes $10m Venture Fund", "publisher": "Newswire / Cision", "accessed": "2026-06-03", "supports": "Fund I size", "quote": "Ripple Ventures Closes $10m Venture Fund for Early-Stage Technology Investments" },
+      { "url": "https://medium.com/rippleventures/announcing-ripple-ventures-fund-iii-and-team-promotions-6b21681525a2", "title": "Announcing Ripple Ventures Fund III and Team Promotions", "publisher": "Ripple Ventures (Medium)", "accessed": "2026-06-03", "supports": "founding year, Fund III existence, B2B SaaS focus", "quote": "Matt Cohen founded Ripple Ventures in 2018 ... pre-seed companies building B2B software across North America" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I CAD $10M confirmed via Cision press release; Fund III announced via official Medium. Current AUM/total fund size not publicly disclosed, left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "ca-first-ascent-ventures",
+    "name": { "en": "First Ascent Ventures" },
+    "aka": ["FAV"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "offices": [
+      { "country": "Canada", "city": "Toronto" },
+      { "country": "Canada", "city": "Montreal" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "website": "https://firstascentventures.com/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/firstascentvc",
+      "other": ["https://pitchbook.com/profiles/fund/16225-48F"]
+    },
+    "capital": {
+      "aum": { "raw": "$225M (Fund I + Fund II)", "usd": null, "currency": "CAD" },
+      "current_fund": { "raw": "$125M (FAV Fund II)", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "FAV Fund I", "vintage_year": null, "size": { "raw": "$100 million", "usd": null, "currency": "CAD" } },
+        { "name": "FAV Fund II", "vintage_year": 2021, "size": { "raw": "$125 million", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "cybersecurity"],
+      "thesis": "Backs emerging-technology companies building the next generation of disruptive enterprise B2B software that leverages the cloud, big data, analytics, mobility, AI/ML, blockchain, IoT, privacy and security. Invests from Series A/B onwards, takes a board seat and actively helps management scale."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Q4", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "Assent", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Osano", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Shinydocs", "sector": "saas-enterprise", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Tony van Marken", "role": "Managing Partner & Co-Founder" },
+      { "name": "Richard Black", "role": "Managing Partner & Co-Founder" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via website / offices; no formal open application process.",
+      "accepts_cold_inbound": null,
+      "contact": "https://firstascentventures.com/"
+    },
+    "tags": ["enterprise-software", "cloud", "data", "analytics", "series-a", "toronto"],
+    "summary": {
+      "en": "Toronto-headquartered (with Montreal and San Francisco offices) enterprise B2B software VC founded in 2015. Invests Series A/B in cloud, big-data/analytics, AI/ML, security and IoT software. Fund I ($100M) is fully invested; Fund II ($125M) closed August 2021."
+    },
+    "sources": [
+      { "url": "https://firstascentventures.com/", "title": "First Ascent Ventures", "publisher": "First Ascent Ventures", "accessed": "2026-06-03", "supports": "founding year, offices, fund sizes, stage, sector focus, partners", "quote": "Founded: 2015 ... Fund I: $100 million (fully invested) ... Fund II: $125 million (closed August 2021) ... cloud, AI, machine learning, big data, 5G, mobility, blockchain, IoT, privacy and security" },
+      { "url": "https://tracxn.com/d/venture-capital/first-ascent-ventures/__l94G5bHJtU1I5UwR54VKm9njuW4oB1owUye76eZuLTM", "title": "First Ascent Ventures - Investor Profile", "publisher": "Tracxn", "accessed": "2026-06-03", "supports": "B2B enterprise software focus, exits", "quote": "invested in 19 Enterprise (B2B) companies ... 7 acquisitions including key companies like DailyPay, Dialogue and Q4" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund sizes and 2015 founding confirmed by official site. Check size not disclosed publicly. Some portfolio companies (e.g. DailyPay) are co-investments per Tracxn.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "ca-vanedge-capital",
+    "name": { "en": "Vanedge Capital" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2010,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Vancouver",
+    "offices": [
+      { "country": "Canada", "city": "Vancouver" },
+      { "country": "United States", "city": "Silicon Valley" }
+    ],
+    "website": "https://www.vanedgecapital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/vanedge",
+      "other": ["https://www.vanedgecapital.com/team/", "https://inbcinvestment.com/inbc_portfolio/vanedge-capital/"]
+    },
+    "capital": {
+      "aum": { "raw": "over $500 million under management", "usd": null, "currency": "CAD" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "$1M–$15M (pre-seed $1M–$3M; seed $2M–$5M; Series A $8M–$15M)", "usd_min": 1000000, "usd_max": 15000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["deeptech", "ai-ml", "saas-enterprise", "cybersecurity", "hardware-semiconductor"],
+      "thesis": "Vancouver/Silicon Valley fund investing in analytics and analytics infrastructure, hard technologies (semiconductors, quantum, space), AI infrastructure, data/SaaS and computational biology. Identifies technology themes early and partners with technically deep founders building infrastructure-level companies."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Chainalysis", "sector": "web3-crypto", "outcome": "active" },
+        { "company": "D-Wave Systems", "sector": "deeptech", "outcome": "IPO" },
+        { "company": "Canalyst", "sector": "saas-enterprise", "outcome": "acquired" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "V. Paul Lee", "role": "Founder & Managing Partner" },
+      { "name": "Moe Kermani", "role": "Managing Partner" },
+      { "name": "Amy Rae", "role": "Partner" },
+      { "name": "Jonathan Saari", "role": "Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Contact form on website.",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.vanedgecapital.com/contact-us/"
+    },
+    "tags": ["data-infrastructure", "analytics", "deeptech", "ai-infrastructure", "vancouver"],
+    "summary": {
+      "en": "Vancouver-based (with Silicon Valley presence) venture firm founded ~2010 by ex-Electronic Arts president Paul Lee. Invests in analytics and analytics-infrastructure, AI infrastructure, semiconductors/quantum, data/SaaS and computational biology, with over $500M under management. Portfolio includes Chainalysis and D-Wave."
+    },
+    "sources": [
+      { "url": "https://www.vanedgecapital.com/", "title": "Vanedge Capital", "publisher": "Vanedge Capital", "accessed": "2026-06-03", "supports": "HQ, AUM, sector focus", "quote": "over $500 million under management ... Hard Tech ... AI & Analytics" },
+      { "url": "https://www.vanedgecapital.com/team/", "title": "Team | Vanedge Capital", "publisher": "Vanedge Capital", "accessed": "2026-06-03", "supports": "partner names, sector focus", "quote": "V. Paul Lee – Managing Partner ... Moe Kermani, PhD – Managing Partner (deep tech, AI, cybersecurity, semiconductors) ... Amy Rae – Partner (SaaS and applied analytics)" },
+      { "url": "https://www.vcsheet.com/fund/vanedge-capital", "title": "Vanedge Capital - VC Fund Breakdown", "publisher": "VC Sheet", "accessed": "2026-06-03", "supports": "check size, stages, sector focus", "quote": "Overall range: $1M - $15M ... technically complex, infrastructure-level hard tech (space, semiconductors, AI infrastructure)" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year reported variously as 2008–2010 across secondary sources; 2010 used per BCBusiness/secondary consensus. AUM stated as 'over $500M' on site; some sources say ~$400M. Check-size sub-ranges from VCSheet (secondary).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "ca-whitecap-venture-partners",
+    "name": { "en": "Whitecap Venture Partners" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1993,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.whitecapvp.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/whitecap-venture-partners",
+      "other": ["https://betakit.com/whitecap-venture-partners-closes-140-million-fund-v-to-invest-across-canada/"]
+    },
+    "capital": {
+      "aum": { "raw": "$365 million", "usd": null, "currency": "CAD" },
+      "current_fund": { "raw": "$140 million (Fund V)", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Whitecap Fund V", "vintage_year": null, "size": { "raw": "$140 million CAD", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "Seed $500K–$1.5M; Series A $3M–$10M", "usd_min": 500000, "usd_max": 10000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["saas-enterprise", "healthtech"],
+      "thesis": "Invests in early-stage B2B SaaS and medtech across Canada (Fund V expands coverage west of Manitoba). Concentrated portfolio of 7–10 core Series A deals per fund, deploying more capital, time and attention to each company (typically $15–$20M total per company)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Real Matters", "sector": "saas-enterprise", "outcome": "IPO" },
+        { "company": "PartnerStack", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Bold Commerce", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Affinio", "sector": "saas-enterprise", "outcome": "acquired" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Shayn Diamond", "role": "Partner" },
+      { "name": "Russell Samuels", "role": "Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via website.",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.whitecapvp.com/"
+    },
+    "tags": ["b2b-saas", "enterprise-software", "medtech", "series-a", "toronto"],
+    "summary": {
+      "en": "Long-running Toronto VC (founded 1993) investing seed and Series A in early-stage B2B SaaS and medtech across Canada and the Northeastern US. Closed $140M Fund V (total AUM ~$365M); notable exits include Real Matters (IPO) and Affinio (acquired)."
+    },
+    "sources": [
+      { "url": "https://betakit.com/whitecap-venture-partners-closes-140-million-fund-v-to-invest-across-canada/", "title": "Whitecap Venture Partners closes $140 million Fund V", "publisher": "BetaKit", "accessed": "2026-06-03", "supports": "founding year, HQ, fund size, AUM, check size, stages, sector, partners, portfolio", "quote": "Founding Year: 1993 ... Fund V Size: $140 million CAD ... Total AUM: $365 million CAD ... $3-10 million for Series A; $500,000-$1.5 million for seed ... early-stage B2B SaaS and medtech ... Partners: Shayn Diamond and Russell Samuels" }
+    ],
+    "confidence": "high",
+    "verification_notes": "All figures from BetaKit coverage of Fund V close (reputable secondary). Website URL inferred (whitecapvp.com) — primary site not directly fetched.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "ca-graphite-ventures",
+    "name": { "en": "Graphite Ventures" },
+    "aka": ["MaRS IAF", "Investment Accelerator Fund", "Graphite IAF"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "offices": [
+      { "country": "Canada", "city": "Toronto" },
+      { "country": "Canada", "city": "Montreal" },
+      { "country": "Canada", "city": "Ottawa" },
+      { "country": "Canada", "city": "Waterloo" },
+      { "country": "Canada", "city": "Calgary" }
+    ],
+    "website": "https://www.graphitevc.com/",
+    "links": {
+      "other": ["https://www.graphitevc.com/philosophy/", "https://betakit.com/graphite-ventures-closes-110-million-fund-iv-as-firm-builds-its-national-presence/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$110 million (Graphite IAF IV)", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Graphite Investment Accelerator Fund IV", "vintage_year": null, "size": { "raw": "$110 million CAD", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$250K–$1M initial; $1M–$3M follow-on", "usd_min": 250000, "usd_max": 3000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["saas-enterprise", "fintech", "healthtech", "proptech"],
+      "thesis": "Spun out of MaRS' Investment Accelerator Fund (est. 2008), Graphite invests seed/early-stage in Canadian B2B tech — B2B SaaS, fintech, digital health, proptech and capital-efficient hardware (often AI/ML-enabled) — helping founders build capital-efficient growth businesses that scale without constant fundraising."
+    },
+    "track_record": {
+      "portfolio_count": "200+ investments (incl. legacy MaRS IAF), 40+ exits",
+      "notable_investments": [
+        { "company": "Nicoya", "sector": "biotech", "outcome": "active" },
+        { "company": "MedMe", "sector": "healthtech", "outcome": "active" },
+        { "company": "Part3", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Maxa", "sector": "saas-enterprise", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Aaron Bast", "role": "General Partner (Waterloo)" },
+      { "name": "Lance Laking", "role": "General Partner (Ottawa)" },
+      { "name": "Craig Leonard", "role": "General Partner (Toronto)" },
+      { "name": "Omi Velasco", "role": "Principal (Calgary)" }
+    ],
+    "application": {
+      "how_to_apply": "Inbound via website; teams across Toronto, Montreal, Ottawa, Waterloo, Calgary.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.graphitevc.com/"
+    },
+    "tags": ["b2b-saas", "fintech", "digital-health", "seed", "national", "toronto"],
+    "summary": {
+      "en": "Graphite Ventures is the 2021 private-sector evolution of MaRS' Investment Accelerator Fund (est. 2008). It invests seed/early-stage in Canadian B2B SaaS, fintech, digital health, proptech and capital-efficient hardware, with a $110M Fund IV and teams in five Canadian cities."
+    },
+    "sources": [
+      { "url": "https://betakit.com/graphite-ventures-closes-110-million-fund-iv-as-firm-builds-its-national-presence/", "title": "Graphite Ventures closes $110-million Fund IV", "publisher": "BetaKit", "accessed": "2026-06-03", "supports": "fund size, check size, stages, sector, partners, portfolio, HQ", "quote": "$110 million CAD final close ... $250,000–$1 million (initial); $1–$3 million (follow-on) ... B2B SaaS, FinTech, digital health, and capital-efficient hardware ... Aaron Bast, Lance Laking, Craig Leonard ... WaitWell (Calgary), Maxa (Montréal), Part3 (Toronto)" },
+      { "url": "https://www.graphitevc.com/philosophy/", "title": "Our focus in Canada's venture capital | Graphite Ventures", "publisher": "Graphite Ventures", "accessed": "2026-06-03", "supports": "spinout year, geographies, portfolio count, thesis", "quote": "launched as Graphite Ventures in 2021 ... over 200 investments and more than 40 exits ... Toronto, Montreal, Ottawa, Waterloo, Calgary" },
+      { "url": "https://www.marsdd.com/our-story/mars-iaf-launches-graphite-ventures-a-new-100-million-venture-capital-fund/", "title": "MaRS IAF launches Graphite Ventures", "publisher": "MaRS Discovery District", "accessed": "2026-06-03", "supports": "spinout from MaRS IAF (est. 2008), B2B focus", "quote": "Created in 2008 ... new private-sector venture-capital fund ... Graphite focuses exclusively on B2B tech at the seed stage" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Graphite is the private-sector spinout of MaRS IAF; portfolio_count blends legacy IAF + Graphite per official philosophy page. Initial check size $250K–$1M per BetaKit; philosophy page cites $500K–$1.5M — ranges overlap and may reflect different rounds.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "ca-new-brunswick-innovation-foundation",
+    "name": { "en": "New Brunswick Innovation Foundation" },
+    "aka": ["NBIF", "Fondation de l'innovation du Nouveau-Brunswick", "FINB"],
+    "type": "government-program",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2003,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Fredericton",
+    "website": "https://nbif.ca/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/nbif",
+      "crunchbase": "https://www.crunchbase.com/organization/new-brunswick-innovation-foundation",
+      "other": ["https://nbif.ca/venture-capital-what-we-do/", "https://en.wikipedia.org/wiki/New_Brunswick_Innovation_Foundation"]
+    },
+    "capital": {
+      "aum": { "raw": "Backed by a $100 million fund; over $100 million invested", "usd": null, "currency": "CAD" },
+      "current_fund": { "raw": "$100 million", "usd": null, "currency": "CAD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$50K–$1M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada", "New Brunswick"],
+      "sector_focus": ["saas-enterprise", "cybersecurity", "climate-energy", "healthtech", "agritech"],
+      "thesis": "Evergreen pre-seed/seed venture organization investing in high-growth startups headquartered in New Brunswick across ICT, advanced manufacturing, cybersecurity, energy innovation, digital health, agritech, forestry and oceans. Often the first investor, with a fund-of-funds and accelerator network alongside direct equity."
+    },
+    "track_record": {
+      "portfolio_count": "113+ companies created since 2003",
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Email the investment team at proposals@nbif.ca about the Venture Capital Fund.",
+      "accepts_cold_inbound": true,
+      "contact": "proposals@nbif.ca"
+    },
+    "tags": ["government", "ict", "cybersecurity", "new-brunswick", "pre-seed", "evergreen"],
+    "summary": {
+      "en": "Fredericton-based evergreen government innovation foundation (est. 2003) acting as New Brunswick's pre-eminent pre-seed/seed venture investor. Backed by a $100M fund, it invests $50K–$1M in ICT, cybersecurity, cleantech, digital health and agritech startups headquartered in the province, often as the first cheque."
+    },
+    "sources": [
+      { "url": "https://nbif.ca/venture-capital-what-we-do/", "title": "Venture Capital: Overview | NBIF", "publisher": "New Brunswick Innovation Foundation", "accessed": "2026-06-03", "supports": "check size, stages, first-investor role", "quote": "$50K to $1M ... pre-seed and early-stage ... often the first investor" },
+      { "url": "https://en.wikipedia.org/wiki/New_Brunswick_Innovation_Foundation", "title": "New Brunswick Innovation Foundation - Wikipedia", "publisher": "Wikipedia", "accessed": "2026-06-03", "supports": "mandate, government nature", "quote": "an agency that seeks to promote entrepreneurship in the Canadian province of New Brunswick by making venture capital investments in startup companies" },
+      { "url": "https://hellodarwin.com/business-aid/programs/nbif-startup-investment-fund", "title": "NBIF Startup Investment Fund | Program Guide", "publisher": "helloDarwin", "accessed": "2026-06-03", "supports": "$100M fund, sector focus, 113 companies", "quote": "Backed by a $100 million fund ... ICT, advanced manufacturing, cybersecurity, energy innovation, digital health, agritech, forestry and oceans ... helped to create over 113 companies" }
+    ],
+    "confidence": "high",
+    "verification_notes": "$100M fund and $50K–$1M cheque confirmed across official + secondary sources. USD min/max for check left null (CAD figures only). Classified as government-program with vc subtype.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "ca-build-ventures",
+    "name": { "en": "Build Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Halifax",
+    "website": "https://www.buildventures.ca/",
+    "links": {
+      "other": ["https://betakit.com/build-ventures-closes-50-5-million-cad-for-fund-ii/", "https://www.bdc.ca/en/bdc-capital/venture-capital/portfolio/build-ventures-ii"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$50.5 million (Fund II); plans to grow to $64M+", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Build Ventures II", "vintage_year": null, "size": { "raw": "$50.5 million CAD", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada", "Atlantic Canada"],
+      "sector_focus": ["saas-enterprise", "generalist"],
+      "thesis": "Atlantic-Canada-focused venture firm investing seed and pre-Series A in emerging ICT / technology companies across the region, often the lead institutional investor in early rounds."
+    },
+    "track_record": {
+      "portfolio_count": "25 companies (as of mid-2025)",
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Patrick Keefe", "role": "Managing Partner & Founder", "linkedin": "https://www.crunchbase.com/person/patrick-keefe-2320" }
+    ],
+    "application": {
+      "how_to_apply": "Inbound via website.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.buildventures.ca/"
+    },
+    "tags": ["atlantic-canada", "ict", "software", "seed", "halifax"],
+    "summary": {
+      "en": "Halifax-based venture firm (founded 2013) investing seed and Series A in emerging ICT/software companies across Atlantic Canada, typically as the lead. Fund II closed at $50.5M CAD; ~25 portfolio companies as of 2025."
+    },
+    "sources": [
+      { "url": "https://betakit.com/build-ventures-closes-50-5-million-cad-for-fund-ii/", "title": "Build Ventures closes $50.5 million CAD for Fund II", "publisher": "BetaKit", "accessed": "2026-06-03", "supports": "Fund II size", "quote": "Build Ventures II, has closed with $50.5 million in committed capital ... plans to grow Fund II to more than $64 million" },
+      { "url": "https://www.buildventures.ca/", "title": "Build Ventures", "publisher": "Build Ventures", "accessed": "2026-06-03", "supports": "Atlantic Canada focus, early-stage tech", "quote": "early stage technology companies across the Atlantic region" },
+      { "url": "https://tracxn.com/d/venture-capital/build-ventures/__CFB0RRqApXZuwC1g0HoUS2ZB9YLGBYgbOzZ_U0qDLRE", "title": "Build Ventures - Investor Profile", "publisher": "Tracxn", "accessed": "2026-06-03", "supports": "founding year, portfolio count, stage breakdown", "quote": "founded in 2013 ... invested in 25 companies ... 16 investments in Seed stage ... 7 investments in Series A stage" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund II $50.5M and 2013 founding confirmed. Sector focus is broad ICT/software (generalist within tech); included for data-infra/software adjacency. Check size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "ca-good-news-ventures",
+    "name": { "en": "Good News Ventures" },
+    "aka": ["GNV"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Markham",
+    "website": "https://www.goodnewsventures.com/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/good-news-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/good-news-ventures",
+      "other": ["https://www.goodnewsventures.com/portfolio"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States", "North America"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "web3-crypto"],
+      "thesis": "Industry-agnostic ICT venture fund investing pre-seed/seed in North-American-focused software companies across all categories — AI/ML, IoT, infrastructure, blockchain and quantum computing — backing founders with passion, a groundbreaking solution and the right timing."
+    },
+    "track_record": {
+      "portfolio_count": "55+ companies since 2017",
+      "notable_investments": [
+        { "company": "DarwinAI", "sector": "ai-ml", "outcome": "acquired" },
+        { "company": "Stay22", "sector": "consumer", "outcome": "active" },
+        { "company": "Lending Loop", "sector": "fintech", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Mohan Markandaier", "role": "Co-Founder & Managing Partner", "linkedin": "https://www.linkedin.com/in/mohanmarkandaier/" }
+    ],
+    "application": {
+      "how_to_apply": "Email info@goodnewsventures.com.",
+      "accepts_cold_inbound": true,
+      "contact": "info@goodnewsventures.com"
+    },
+    "tags": ["ict", "infrastructure", "ai-ml", "blockchain", "pre-seed", "markham"],
+    "summary": {
+      "en": "Markham/Toronto-based industry-agnostic ICT pre-seed and seed fund (founded 2017) investing in North-American software across AI/ML, IoT, infrastructure, blockchain and quantum. 55+ portfolio companies, including DarwinAI (acquired by Apple)."
+    },
+    "sources": [
+      { "url": "https://www.goodnewsventures.com/", "title": "Good News Ventures", "publisher": "Good News Ventures", "accessed": "2026-06-03", "supports": "stages, thesis, contact, team, portfolio", "quote": "Pre-seed and seed ... Blockchain and AI startups ... Contact: info@goodnewsventures.com ... Stay22, #paid, Acto App, Impro.ai" },
+      { "url": "https://tracxn.com/d/venture-capital/good-news-ventures/__4DHWcZPT8PGHdzO3FThF0eidUNcoZznDw7Erz3Xv5Fo", "title": "Good News Ventures - Investor Profile", "publisher": "Tracxn", "accessed": "2026-06-03", "supports": "founding year, HQ, ICT/infrastructure focus, portfolio count", "quote": "founded in 2017 and based in Markham, Canada ... all sectors including AI/ML, IoT, Infrastructure, Blockchain and Quantum Computing ... invested in 55+ companies globally" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year (2017), Markham HQ, ICT/infrastructure focus and 55+ portfolio from official site + Tracxn. Fund size, AUM and check size not disclosed. DarwinAI acquired by Apple (2024) per public reporting.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "ca-hello-ventures",
+    "name": { "en": "Hello Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc", "angel-syndicate"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Victoria",
+    "website": null,
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/hello-ventures",
+      "other": ["https://pitchbook.com/profiles/investor/161052-76"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["saas-enterprise"],
+      "thesis": "Early-stage fund of Shopify co-founder Scott Lake, making minority investments in B2B SaaS and business/productivity software companies."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Scott Lake", "role": "Founder (Shopify co-founder)" }
+    ],
+    "application": {
+      "how_to_apply": "Limited public information; primarily founder-network driven.",
+      "accepts_cold_inbound": null,
+      "contact": null
+    },
+    "tags": ["b2b-saas", "micro-vc", "victoria", "shopify-alumni"],
+    "summary": {
+      "en": "Victoria, BC micro-fund (founded 2016) of Shopify co-founder Scott Lake, making early-stage minority investments in B2B SaaS and productivity software. Small, low-profile, network-driven."
+    },
+    "sources": [
+      { "url": "https://www.crunchbase.com/organization/hello-ventures", "title": "Hello Ventures - Crunchbase", "publisher": "Crunchbase", "accessed": "2026-06-03", "supports": "founding year, HQ, stage, B2B SaaS focus", "quote": "venture capital firm founded in 2016 and based in Victoria, Canada ... early-stage investments and has a preference for minority stakes" },
+      { "url": "https://shizune.co/investors/b2b-vc-funds-canada", "title": "Top B2B VC Funds in Canada", "publisher": "Shizune", "accessed": "2026-06-03", "supports": "Victoria BC location, B2B SaaS focus", "quote": "Hello Ventures | Victoria, BC | Seed, Pre-Seed, Series A | Software, B2B, SaaS" }
+    ],
+    "confidence": "low",
+    "verification_notes": "Small, low-profile micro-fund; no active public website found. Founding year, Victoria HQ and B2B SaaS focus from Crunchbase + Shizune. Scott Lake (Shopify co-founder) linkage per secondary sources. Fund size, check size and portfolio undisclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  }
+]

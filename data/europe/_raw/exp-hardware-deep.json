@@ -1,0 +1,884 @@
+[
+  {
+    "id": "eu-cloudberry-vc",
+    "name": { "en": "Cloudberry VC" },
+    "aka": ["Cloudberry"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "europe",
+    "country": "Finland",
+    "hq_city": "Helsinki",
+    "website": "https://cloudberry.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/cloudberryvc/",
+      "other": ["https://siliconsemiconductor.net/article/124152/Cloudberry_VC_launches_Europe%E2%80%99s_first_semiconductor_venture_fund"]
+    },
+    "offices": [
+      { "country": "Finland", "city": "Helsinki" },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "capital": {
+      "current_fund": { "raw": "€30M", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Cloudberry Fund I", "vintage_year": 2026, "size": { "raw": "€30M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€400K–€1M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["hardware-semiconductor", "deeptech"],
+      "thesis": "Europe's first dedicated semiconductor VC; invests pre-seed/seed into semiconductors (compute & electronics), photonics (connectivity & sensing) and advanced materials (equipment, design tools & metrology), addressing the gap where Europe has R&D talent and industrial heritage but lacked specialist early-stage chip capital."
+    },
+    "track_record": {
+      "co_investors": ["GlobalFoundries", "Radiant Opto-Electronics", "Tesi"]
+    },
+    "people": [
+      { "name": "René Kromhof", "role": "Founding Partner (ex-Heptagon/ASML)" },
+      { "name": "Veera Pietikäinen", "role": "Founding Partner" },
+      { "name": "Lawrence Lundy-Bryan", "role": "General Partner & Head of Research" },
+      { "name": "Tuomas Hollman", "role": "Venture Partner (ex-Bosch Sensortec)" },
+      { "name": "Lukas Steinmann", "role": "Venture Partner (ex-ams Osram/Heptagon)" }
+    ],
+    "application": {
+      "how_to_apply": "Email hello@cloudberry.vc",
+      "accepts_cold_inbound": true,
+      "contact": "hello@cloudberry.vc"
+    },
+    "tags": ["semiconductor", "photonics", "advanced-materials", "deeptech", "nordic"],
+    "summary": {
+      "en": "Helsinki- and London-based Cloudberry VC is positioned as Europe's first dedicated semiconductor venture fund, with a €30M Fund I writing €400K–€1M pre-seed and seed tickets into semiconductors, photonics and advanced materials. Strategic LPs include GlobalFoundries and Radiant Opto-Electronics."
+    },
+    "sources": [
+      {
+        "url": "https://cloudberry.vc/",
+        "title": "Cloudberry VC | Europe's First Dedicated Semiconductor VC",
+        "publisher": "Cloudberry VC",
+        "accessed": "2026-06-03",
+        "supports": "HQ, fund size, check size, stages, sector focus, founders, strategic LPs, contact",
+        "quote": "€30M fund ... €400K to €1M ... Semiconductors (compute & electronics) ... Photonics (connectivity & sensing) ... Advanced materials"
+      },
+      {
+        "url": "https://siliconsemiconductor.net/article/124152/Cloudberry_VC_launches_Europe%E2%80%99s_first_semiconductor_venture_fund",
+        "title": "Cloudberry VC launches Europe's first semiconductor venture fund",
+        "publisher": "Silicon Semiconductor",
+        "accessed": "2026-06-03",
+        "supports": "First semiconductor fund, €30M initial close, strategic investors, international LP share",
+        "quote": "an initial close of €30 million ... Strategic investors include major industry players such as GlobalFoundries and Radiant Opto-Electronics"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year not stated on site; fund launched/initial close reported Dec 2025–Jan 2026. Helsinki HQ per site address (Maria01); London is a second office.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "eu-photonventures",
+    "name": { "en": "PhotonVentures" },
+    "aka": ["PhotonVentures Fund Management B.V."],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2023,
+    "region": "europe",
+    "country": "Netherlands",
+    "hq_city": "Hilversum",
+    "website": "https://photonventures.vc/",
+    "links": {
+      "other": [
+        "https://www.photondelta.com/news/photonventures-closes-second-fundraising-round-at-75-million/",
+        "https://www.semiconductor-today.com/news_items/2024/oct/photon-ventures-111024.shtml"
+      ]
+    },
+    "capital": {
+      "current_fund": { "raw": "€75M (Fund I, target >€100M)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "PhotonVentures Fund I", "vintage_year": 2023, "size": { "raw": "€75M (closed second round; >€100M target)", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "€1M–€2.5M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["hardware-semiconductor", "deeptech"],
+      "thesis": "One of the few European funds focused exclusively on integrated photonics; backs early-stage photonic-chip startups and scale-ups across data & telecom, medical & healthcare, engineering & transport and quantum computing. Spin-off and strategic partner of PhotonDelta."
+    },
+    "track_record": {
+      "portfolio_count": 16,
+      "notable_investments": [
+        { "company": "SMART Photonics", "sector": "integrated photonics", "outcome": "active" },
+        { "company": "LioniX International", "sector": "integrated photonics", "outcome": "active" },
+        { "company": "QuiX Quantum", "sector": "photonic quantum computing", "outcome": "active" }
+      ],
+      "co_investors": ["PhotonDelta", "Invest-NL", "BOM", "Oost NL", "TNO", "University of Twente"]
+    },
+    "people": [
+      { "name": "Ewit Roos", "role": "General Partner / co-founder (co-founder of PhotonDelta)" },
+      { "name": "Pieter Klinkert", "role": "Co-founder" },
+      { "name": "Joachim de Sterke", "role": "Co-founder" }
+    ],
+    "application": {
+      "how_to_apply": "Contact form on website or email Info@photonventures.vc",
+      "accepts_cold_inbound": true,
+      "contact": "Info@photonventures.vc"
+    },
+    "tags": ["integrated-photonics", "photonic-chips", "deeptech", "netherlands"],
+    "summary": {
+      "en": "Hilversum-based PhotonVentures, founded 2023 and spun out of PhotonDelta, is one of the few European VCs dedicated solely to integrated photonics. Fund I closed a second round at €75M (>€100M target), investing €1M–€2.5M into early-stage photonic-chip companies; LPs include Invest-NL, BOM, Oost NL, TNO and the University of Twente.",
+      "local": "PhotonVentures uit Hilversum is een van de weinige Europese durfkapitaalfondsen dat zich uitsluitend richt op geïntegreerde fotonica."
+    },
+    "sources": [
+      {
+        "url": "https://www.photondelta.com/news/photonventures-closes-second-fundraising-round-at-75-million/",
+        "title": "PhotonVentures closes second fundraising round at €75 million",
+        "publisher": "PhotonDelta",
+        "accessed": "2026-06-03",
+        "supports": "Fund size €75M, >€100M target, integrated photonics focus, PhotonDelta spin-off",
+        "quote": "PhotonVentures closes second fundraising round at €75 million"
+      },
+      {
+        "url": "https://www.semiconductor-today.com/news_items/2024/oct/photon-ventures-111024.shtml",
+        "title": "PhotonVentures Fund I receives €5m investment from Invest-NL",
+        "publisher": "Semiconductor Today",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2023 by Roos/Klinkert/de Sterke, check size €1M–€2.5M, early-stage focus, Invest-NL/BOM/Oost NL/TNO/Twente LPs",
+        "quote": "founded in 2023 by Ewit Roos, Pieter Klinkert and Joachim de Sterke ... participation typically ranging from €1 million to €2.5 million"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I reached €75M second close with a >€100M overall target as of late 2024. Portfolio count (16) from PhotonVentures site listing.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "eu-imec-xpand",
+    "name": { "en": "imec.xpand" },
+    "aka": ["imec xpand", "imec.xpand II"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "europe",
+    "country": "Belgium",
+    "hq_city": "Leuven",
+    "website": "https://www.imec-int.com/en/xpand",
+    "links": {
+      "other": [
+        "https://www.imec-int.com/en/press/imecxpand-launches-eur300m-fund-amid-global-race-semiconductor-supremacy",
+        "https://www.eu-startups.com/2024/05/belgian-vc-imec-xpand-launches-e300-million-fund-to-target-global-semiconductor-and-nanotechnology-innovation/"
+      ]
+    },
+    "capital": {
+      "current_fund": { "raw": "€300M (imec.xpand II)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "imec.xpand II", "vintage_year": 2024, "size": { "raw": "€300M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "Global"],
+      "sector_focus": ["hardware-semiconductor", "deeptech", "ai-ml"],
+      "thesis": "Independent global VC affiliated with imec, the world-leading nanoelectronics R&D hub in Leuven; backs startups in semiconductors and nanotechnology with potential to be globally disruptive, including AI/ML, AR/VR and photonics hardware."
+    },
+    "track_record": {
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Peter Vanbekbergen", "role": "Partner & Co-founder" },
+      { "name": "Tom Vanhoutte", "role": "Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Via imec.xpand website",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["semiconductor", "nanotechnology", "nanoelectronics", "imec", "belgium"],
+    "summary": {
+      "en": "imec.xpand is an independent global venture fund affiliated with Belgium's imec nanoelectronics research hub. Its second fund (imec.xpand II) closed at €300M in 2024 — among the biggest semiconductor-focused funds — backing semiconductor and nanotechnology startups."
+    },
+    "sources": [
+      {
+        "url": "https://www.imec-int.com/en/press/imecxpand-launches-eur300m-fund-amid-global-race-semiconductor-supremacy",
+        "title": "imec.xpand Launches EUR 300M Fund Amid Global Race for Semiconductor Supremacy",
+        "publisher": "imec",
+        "accessed": "2026-06-03",
+        "supports": "Fund size €300M, semiconductor/nanotech focus, imec affiliation, co-founder Vanbekbergen",
+        "quote": "the launch of a new EUR 300 million fund aimed at accelerating the growth of transformative semiconductor and nanotechnology innovations"
+      },
+      {
+        "url": "https://www.eu-startups.com/2024/05/belgian-vc-imec-xpand-launches-e300-million-fund-to-target-global-semiconductor-and-nanotechnology-innovation/",
+        "title": "Belgian VC Imec.xpand launches €300 million fund",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-03",
+        "supports": "Belgian VC, €300M fund total (€150M + €150M), partners",
+        "quote": "imec.xpand II at €300 million, they are one of the biggest semiconductor-oriented funds"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "imec is headquartered in Leuven; imec.xpand operates as an affiliated but independent fund. Founding year of the manager not specified; Fund II final close €300M (2024).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "eu-eureka-venture-sgr",
+    "name": { "en": "EUREKA! Venture SGR", "local": "EUREKA! Venture SGR" },
+    "aka": ["Eureka! Venture", "Eureka Venture SGR"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "europe",
+    "country": "Italy",
+    "hq_city": "Milan",
+    "website": "https://eurekaventure.substack.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/eureka-venture",
+      "crunchbase": "https://www.crunchbase.com/organization/eureka-venture",
+      "other": ["https://tech.eu/2020/08/03/eureka-venture-first-fund/"]
+    },
+    "capital": {
+      "aum": { "raw": "€110M (across funds)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Eureka! Fund I - Technology Transfer", "vintage_year": 2020, "size": { "raw": "part of €110M AUM", "usd": null, "currency": "EUR" } },
+        { "name": "BlackSheep Fund", "vintage_year": 2021, "size": { "raw": "part of €110M AUM", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Italy"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "climate-energy"],
+      "thesis": "Italy's first independent deeptech investment fund; the technology-transfer fund invests in proof-of-concepts, spin-offs and startups commercialising Italian scientific research in advanced materials and materials science & engineering (energy, health, mobility, cleantech, AI)."
+    },
+    "track_record": {
+      "portfolio_count": 34,
+      "exits": [
+        { "company": "(2 exits, avg 35% return)", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ],
+      "co_investors": ["European Investment Fund", "CDP Venture Capital", "A2A", "Nestlé", "SAES", "Umbra Group", "Calzedonia", "Jakala"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Via website / LinkedIn",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["advanced-materials", "materials-science", "technology-transfer", "deeptech", "italy"],
+    "summary": {
+      "en": "Milan-based EUREKA! Venture SGR (founded 2019), Italy's first independent deeptech fund, manages ~€110M across two funds. Its Technology Transfer fund commercialises Italian academic research in advanced materials and materials science, backed by the EIF, CDP Venture Capital and industrial corporates.",
+      "local": "EUREKA! Venture SGR di Milano è il primo fondo italiano indipendente di deeptech, con circa €110M in gestione, focalizzato sui materiali avanzati e sul trasferimento tecnologico."
+    },
+    "sources": [
+      {
+        "url": "https://tech.eu/2020/08/03/eureka-venture-first-fund/",
+        "title": "Italian VC Eureka! Venture launches deeptech fund with €50 million target",
+        "publisher": "Tech.eu",
+        "accessed": "2026-06-03",
+        "supports": "Milan HQ, deeptech/advanced materials, technology transfer focus, first fund",
+        "quote": "Eureka! Fund I - Technology Transfer ... invests in proof-of-concepts, spin-offs, startups ... Advanced Materials and more generally Materials Science and Engineering"
+      },
+      {
+        "url": "https://www.startupbusiness.it/en/eurekas-2023-venture-100-investors-and-e110-million-raised/129799/",
+        "title": "Eureka's 2023 Venture: 100 investors and €110 million raised",
+        "publisher": "Startupbusiness",
+        "accessed": "2026-06-03",
+        "supports": "€110M total AUM, 100 investors, EIF/CDP and corporate LPs, 34 portfolio companies, 2 exits avg 35%",
+        "quote": "100 investors and €110 million in total funding from the SGR ... 62% attributable to institutional entities such as the European Investment Fund and CDP Venture Capital"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "€110M is total AUM across two funds (Tech Transfer + BlackSheep); BlackSheep targets MadTech (marketing/advertising) rather than hardware, so hardware relevance is via the advanced-materials Technology Transfer fund. Founded/operating from 2019 per company description.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "eu-momenta-ventures",
+    "name": { "en": "Momenta" },
+    "aka": ["Momenta Partners", "Momenta Ventures"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "europe",
+    "country": "Switzerland",
+    "hq_city": "Lucerne",
+    "website": "https://momenta.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/momenta-partners",
+      "other": ["https://www.startupticker.ch/en/investors/momenta-partners"]
+    },
+    "offices": [
+      { "country": "Switzerland", "city": "Lucerne" },
+      { "country": "United States", "city": "" },
+      { "country": "Luxembourg", "city": "" }
+    ],
+    "capital": {
+      "aum": { "raw": "over $100M", "usd": 100000000, "currency": "USD" },
+      "funds": [
+        { "name": "Digital Industry Fund IV", "vintage_year": 2023, "size": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "North America"],
+      "sector_focus": ["hardware-semiconductor", "robotics", "climate-energy", "logistics"],
+      "thesis": "Self-described 'Industrial Impact' venture firm investing in full-stack and deep technology that digitalises energy/utilities, manufacturing, smart spaces and supply chain/mobility — across the DNA of Devices, Networks and Applications — in support of the EU Industry 5.0 initiative."
+    },
+    "track_record": {
+      "portfolio_count": "50+",
+      "co_investors": ["Rockwell Automation", "NS Solutions", "Advantech"]
+    },
+    "people": [
+      { "name": "Ken Forster", "role": "Founder & Executive Director" }
+    ],
+    "application": {
+      "how_to_apply": "Via momenta.vc",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["industrial-iot", "digital-industry", "manufacturing", "industry-5.0", "switzerland"],
+    "summary": {
+      "en": "Momenta is a Lucerne-headquartered 'Industrial Impact' VC (offices also in the US and Luxembourg) with over $100M AUM, investing seed through Series B in companies digitalising energy, manufacturing, smart spaces and supply chains. Its Digital Industry Fund IV (2023) is anchored by Rockwell Automation."
+    },
+    "sources": [
+      {
+        "url": "https://www.startupticker.ch/en/investors/momenta-partners",
+        "title": "Momenta Partners",
+        "publisher": "Startupticker.ch",
+        "accessed": "2026-06-03",
+        "supports": "Lucerne HQ, industrial/digital-industry focus, AUM >$100M, manufacturing/energy/supply-chain sectors",
+        "quote": "manages over $100M in assets focusing on digital industry technologies across energy, manufacturing, smart spaces and supply chains"
+      },
+      {
+        "url": "https://www.prweb.com/releases/momenta-relocates-global-headquarters-to-lucerne-switzerland-to-enhance-alignment-with-thriving-tech-and-life-sciences-ecosystem-301923742.html",
+        "title": "Momenta Relocates Global Headquarters to Lucerne, Switzerland",
+        "publisher": "PRWeb",
+        "accessed": "2026-06-03",
+        "supports": "Lucerne HQ relocation Sept 2023, founder Ken Forster, Fund IV anchored by Rockwell Automation, 50+ companies",
+        "quote": "Momenta Founder and Executive Director Ken Forster ... Digital Industry Fund IV in 2023, which was anchored by Rockwell Automation"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Momenta has US roots; global HQ relocated to Lucerne in Sept 2023, so classified under Switzerland. AUM '>$100M' and '50+ companies' from secondary sources; specific Fund IV size not disclosed. Founding year not pinned.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "eu-constructor-capital",
+    "name": { "en": "Constructor Capital" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "europe",
+    "country": "Switzerland",
+    "hq_city": "Zurich",
+    "website": "https://tech.eu/2026/02/02/constructor-capital-closes-110m-fund-i-for-science-first-founders/",
+    "links": {
+      "other": [
+        "https://www.eu-startups.com/2026/02/swiss-vc-firm-constructor-capital-closes-e92-8-million-debut-fund-to-back-deeptech-software-and-edtech-startups/",
+        "https://tech.eu/2026/02/02/constructor-capital-closes-110m-fund-i-for-science-first-founders/"
+      ]
+    },
+    "capital": {
+      "current_fund": { "raw": "€92.8M / $110M (Fund I)", "usd": 110000000, "currency": "USD" },
+      "funds": [
+        { "name": "Constructor Capital Fund I", "vintage_year": 2026, "size": { "raw": "€92.8M ($110M)", "usd": 110000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$1M–$10M (up to $15M select)", "usd_min": 1000000, "usd_max": 15000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United States", "UAE", "Singapore"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "saas-enterprise"],
+      "thesis": "Backs science-first founders making the lab-to-market leap; deeptech (including quantum technologies), software and edtech, leveraging a network of 50+ universities (MIT, Oxford, Cambridge, ETH Zurich, NUS) and Nobel-laureate researchers tied to Constructor Group."
+    },
+    "track_record": {
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Matthias Winter", "role": "Managing Partner" },
+      { "name": "Marie Lepske", "role": "General Partner (DeepTech & quantum)" },
+      { "name": "Alex Fine", "role": "General Partner (software & GTM)" },
+      { "name": "Laurent Dedenis", "role": "General Partner (EdTech)" },
+      { "name": "Oleg Melnikov", "role": "General Partner (product & software systems)" }
+    ],
+    "application": {
+      "how_to_apply": "Via Constructor Capital / Constructor Group",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["deeptech", "quantum", "science-first", "switzerland", "university-spinout"],
+    "summary": {
+      "en": "Swiss early-stage VC Constructor Capital closed its debut fund at €92.8M ($110M) in 2026 to lead/co-lead Seed and Series A rounds ($1M–$15M) for science-first deeptech (incl. quantum), software and edtech founders, leveraging Constructor Group's 50+ university network."
+    },
+    "sources": [
+      {
+        "url": "https://www.eu-startups.com/2026/02/swiss-vc-firm-constructor-capital-closes-e92-8-million-debut-fund-to-back-deeptech-software-and-edtech-startups/",
+        "title": "Swiss VC firm Constructor Capital closes €92.8 million debut fund",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-03",
+        "supports": "Fund size €92.8M/$110M, Seed/Series A, deeptech incl. quantum, check sizes, leadership, university network",
+        "quote": "closed its first fund at €92.8 million ($110 million) to back Seed and Series A rounds for startups in DeepTech, software, and EdTech ... ticket sizes ranging from nearly €840k ($1 million) to €8.4 million ($10 million)"
+      },
+      {
+        "url": "https://tech.eu/2026/02/02/constructor-capital-closes-110m-fund-i-for-science-first-founders/",
+        "title": "Constructor Capital closes $110M Fund I for science-first founders",
+        "publisher": "Tech.eu",
+        "accessed": "2026-06-03",
+        "supports": "$110M Fund I, Swiss/Zurich base, science-first deeptech thesis",
+        "quote": "Constructor Capital closes $110M Fund I for science-first founders"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Deeptech/quantum is one of several verticals (also software, edtech), so hardware relevance is partial. Listed variously as Zurich- and Schaffhausen/Switzerland-based; HQ set to Zurich per Startupticker. Founding year of manager not specified.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "eu-55-north",
+    "name": { "en": "55 North" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2025,
+    "region": "europe",
+    "country": "Denmark",
+    "hq_city": "Copenhagen",
+    "website": "https://www.eu-startups.com/2025/10/copenhagen-based-55-north-announces-e134-million-first-close-for-record-e300-million-quantum-technology-fund/",
+    "links": {
+      "other": [
+        "https://thequantuminsider.com/2025/10/02/55-north-announces-first-close-for-e300-million-quantum-technology-fund/",
+        "https://tech.eu/2025/10/02/denmark-launches-the-worlds-largest-quantum-fund/"
+      ]
+    },
+    "capital": {
+      "current_fund": { "raw": "€300M target (€134M first close)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "55 North Fund I", "vintage_year": 2025, "size": { "raw": "€300M target; €134M first close", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["all"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "Global"],
+      "sector_focus": ["deeptech", "hardware-semiconductor"],
+      "thesis": "World's largest dedicated quantum-technology VC; invests across all stages in quantum computing, sensing and communication, supporting hardware, software, algorithms and enabling technologies."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "IQM", "sector": "quantum computing hardware", "outcome": "active" },
+        { "company": "Kiutra", "sector": "cryogenics for quantum", "outcome": "active" }
+      ],
+      "co_investors": ["EIFO", "Novo Holdings", "Vsquared Ventures", "Cambium Capital"]
+    },
+    "people": [
+      { "name": "Owen Lozman", "role": "Managing Partner (ex-M Ventures)" },
+      { "name": "Helmut G. Katzgraber", "role": "Partner (ex-Amazon, Microsoft)" },
+      { "name": "Kai Hudek", "role": "Partner (ex-IonQ)" }
+    ],
+    "application": {
+      "how_to_apply": "Via 55 North",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["quantum", "quantum-hardware", "deeptech", "denmark"],
+    "summary": {
+      "en": "Copenhagen-based 55 North (founded 2025) is the world's largest dedicated quantum-technology fund, with a €300M target and a €134M first close. It invests across all stages in quantum computing, sensing and communication hardware/software; anchor LPs include EIFO and Novo Holdings, with IQM and Kiutra already backed."
+    },
+    "sources": [
+      {
+        "url": "https://www.eu-startups.com/2025/10/copenhagen-based-55-north-announces-e134-million-first-close-for-record-e300-million-quantum-technology-fund/",
+        "title": "Copenhagen-based 55 North announces €134 million first close for record €300 million quantum technology fund",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-03",
+        "supports": "Copenhagen HQ, €300M target / €134M first close, quantum focus, founders, anchor LPs, IQM/Kiutra",
+        "quote": "first close of its €300 million inaugural Fund I at €134 million ... Anchor investors include EIFO ... and Novo Holdings"
+      },
+      {
+        "url": "https://thequantuminsider.com/2025/10/02/55-north-announces-first-close-for-e300-million-quantum-technology-fund/",
+        "title": "55 North Announces First Close For €300 Million Quantum Technology Fund",
+        "publisher": "The Quantum Insider",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2025 by Lozman, Katzgraber, Hudek; all-stage quantum",
+        "quote": "established in 2025 by Dr. Owen Lozman, Dr. Helmut G. Katzgraber, and Dr. Kai Hudek"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "€300M is the target; €134M is the first close (Oct 2025). Quantum-hardware-focused, qualifying under hardware/deeptech.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "eu-siliconcatalyst-uk",
+    "name": { "en": "SiliconCatalyst.UK" },
+    "aka": ["Silicon Catalyst UK", "ChipStart UK"],
+    "type": "accelerator",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.siliconcatalyst.uk/",
+    "links": {
+      "other": [
+        "https://www.siliconcatalyst.uk/chipstart-uk",
+        "https://www.gov.uk/government/news/government-scheme-helps-uk-chip-start-ups-raise-10-million-from-new-fertility-treatments-to-improving-the-efficiency-of-ai"
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["United Kingdom"],
+      "sector_focus": ["hardware-semiconductor", "deeptech"],
+      "thesis": "UK arm of the Silicon Catalyst global semiconductor accelerator; runs the government-backed ChipStart UK incubator for early-stage chip-design companies, plus a two-year accelerator for funded startups, giving access to design tools, IP, foundries and 270+ advisors."
+    },
+    "program": {
+      "length_weeks": 36,
+      "cohort_size": "10–12 per cohort",
+      "batches_per_year": 1,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "United Kingdom",
+      "demo_day": null,
+      "perks": ["Semiconductor industry training", "Access to design tools, IP and prototyping/foundries", "Mentorship from semiconductor executives", "Access to 270+ Silicon Catalyst advisors and investor network"],
+      "application_url": "https://www.siliconcatalyst.uk/application",
+      "eligibility": "ChipStart UK: chip-design companies with <US$1.5M funding; Two-Year Accelerator: >US$1.5M funding"
+    },
+    "track_record": {
+      "portfolio_count": "33 (across 3 cohorts)",
+      "notable_investments": [
+        { "company": "Wave Photonics", "sector": "integrated photonics", "outcome": "active" },
+        { "company": "Singular Photonics", "sector": "photonics/sensing", "outcome": "active" },
+        { "company": "SECQAI", "sector": "secure/quantum chips", "outcome": "active" },
+        { "company": "Vaire", "sector": "reversible-computing chips", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Sean Redmond", "role": "Director / Managing Partner, Si Catalyst UK" },
+      { "name": "Russell Haggar", "role": "Managing Partner" },
+      { "name": "Mike Staplehurst", "role": "Managing Partner" },
+      { "name": "Ross Addinall", "role": "Managing Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via siliconcatalyst.uk/application",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["semiconductor", "chip-design", "accelerator", "incubator", "chipstart", "uk"],
+    "summary": {
+      "en": "SiliconCatalyst.UK is the UK arm of the Silicon Catalyst global semiconductor incubator/accelerator, launched 2023 with £1.3M backing. It runs the government-backed ChipStart UK nine-month incubator (cohorts of 10–12) plus a two-year accelerator, giving chip-design startups tools, IP, foundry access and 270+ advisors; cohort 1 raised over £10M from private investors."
+    },
+    "sources": [
+      {
+        "url": "https://www.siliconcatalyst.uk/",
+        "title": "SiliconCatalyst.UK",
+        "publisher": "SiliconCatalyst.UK",
+        "accessed": "2026-06-03",
+        "supports": "Two programs (ChipStart incubator + 2-year accelerator), nine-month duration, cohorts, eligibility, mentorship/tools, leadership, cohort-1 funding",
+        "quote": "Nine-month intensive program ... Cohort 1: 11 companies ... Cohort 2: 10 companies ... Cohort 3: 12 companies ... First cohort closed over £10 million of funding from private investors"
+      },
+      {
+        "url": "https://www.gov.uk/government/news/government-scheme-helps-uk-chip-start-ups-raise-10-million-from-new-fertility-treatments-to-improving-the-efficiency-of-ai",
+        "title": "Government scheme helps UK chip start-ups raise £10 million",
+        "publisher": "GOV.UK",
+        "accessed": "2026-06-03",
+        "supports": "Government-backed ChipStart UK, semiconductor design focus, cohort companies, £10M raised",
+        "quote": "delivered by SiliconCatalyst.UK ... early-stage companies involved in the design of semiconductors"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Nine-month program ~= 36 weeks. Portfolio count summed across three cohorts (11+10+12=33). ChipStart UK is a £1.3M government pilot; standalone investment per company not disclosed. HQ city listed as London (UK-based; regional offices elsewhere).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "eu-techvision-fonds",
+    "name": { "en": "TechVision Fonds", "local": "TechVision Fonds" },
+    "aka": ["TechVision Fund", "TVF", "TVF Management GmbH"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2007,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Aachen",
+    "website": "https://tvf.vc/",
+    "links": {
+      "other": [
+        "https://tvf.vc/tvf-ii-final-closing-with-over-50-million-e/",
+        "https://www.eu-startups.com/2025/07/german-vc-fund-techvision-fund-ii-closes-e50-million-to-boost-deeptech-startups/"
+      ]
+    },
+    "capital": {
+      "current_fund": { "raw": "€50M+ (TVF II)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "TVF II", "vintage_year": 2023, "size": { "raw": "€50M+", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Germany", "Netherlands", "Belgium"],
+      "sector_focus": ["hardware-semiconductor", "deeptech", "biotech"],
+      "thesis": "Regional pre-seed/seed deeptech investor for the Rhineland/NRW region and Euregio Meuse-Rhine; has financed 40+ startups since 2007 across biotech, software, semiconductors, mechanical engineering, deeptech, medtech and new materials."
+    },
+    "track_record": {
+      "portfolio_count": "40+",
+      "notable_investments": [
+        { "company": "Black Semiconductor", "sector": "graphene chip connectivity", "outcome": "active" },
+        { "company": "IonKraft", "sector": "plasma coating/advanced manufacturing", "outcome": "active" }
+      ],
+      "co_investors": ["NRW.BANK", "Sparkasse Aachen", "Helaba"]
+    },
+    "people": [
+      { "name": "Ansgar Schleicher", "role": "Managing Partner" },
+      { "name": "Bernhard Kugel", "role": "Managing Partner" },
+      { "name": "Peter Boymans", "role": "Partner" },
+      { "name": "Björn Lang", "role": "Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Via tvf.vc",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["semiconductor", "deeptech", "regional", "rhineland", "germany"],
+    "summary": {
+      "en": "Aachen-based TechVision Fonds (TVF) is a regional pre-seed/seed deeptech investor for the Rhineland and Euregio Meuse-Rhine. Its fourth-generation fund TVF II closed at over €50M in 2025; since 2007 it has backed 40+ startups including semiconductor names such as Black Semiconductor.",
+      "local": "Der Aachener TechVision Fonds (TVF) investiert in der Pre-Seed- und Seed-Phase in DeepTech-Startups im Rheinland und in der Euregio Maas-Rhein; TVF II schloss mit über 50 Mio. Euro."
+    },
+    "sources": [
+      {
+        "url": "https://tvf.vc/tvf-ii-final-closing-with-over-50-million-e/",
+        "title": "TVF II: Final Closing with Over 50 Million €",
+        "publisher": "TechVision Fonds",
+        "accessed": "2026-06-03",
+        "supports": "TVF II €50M+ final close, fourth-generation fund, Aachen base",
+        "quote": "TVF II: Final Closing with Over 50 Million €"
+      },
+      {
+        "url": "https://www.eu-startups.com/2025/07/german-vc-fund-techvision-fund-ii-closes-e50-million-to-boost-deeptech-startups/",
+        "title": "German VC fund TechVision Fund II closes €50 million+ to boost DeepTech startups",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-03",
+        "supports": "Semiconductor/deeptech focus, 40+ startups since 2007, managing partners, Black Semiconductor / IonKraft portfolio, regional NRW/Euregio focus",
+        "quote": "financed and developed over 40 innovative startups in fields such as biotech, software, semiconductors, mechanical engineering, deep and medtech ... Black Semiconductor GmbH, IonKraft GmbH"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "TVF II is the 4th-generation fund; team active since 2007 (founding year). Regional focus on Rhineland/NRW + Euregio Meuse-Rhine (NL/BE border).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "eu-quantonation",
+    "name": { "en": "Quantonation" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://www.quantonation.com/",
+    "links": {
+      "other": [
+        "https://www.quantonation.com/2026/02/18/quantonation-closes-e220-million-second-fund-to-back-the-industrialisation-of-quantum-and-physics-based-technologies/",
+        "https://www.eu-startups.com/2026/02/french-vc-quantonation-raises-e220-million-for-flagship-quantum-and-deep-physics-fund/"
+      ]
+    },
+    "offices": [
+      { "country": "France", "city": "Paris" },
+      { "country": "United States", "city": "Boston" }
+    ],
+    "capital": {
+      "current_fund": { "raw": "€220M (Quantonation II)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Quantonation I", "vintage_year": 2022, "size": { "raw": "€91M", "usd": null, "currency": "EUR" } },
+        { "name": "Quantonation II", "vintage_year": 2026, "size": { "raw": "€220M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United States", "Global"],
+      "sector_focus": ["deeptech", "hardware-semiconductor"],
+      "thesis": "World's first VC dedicated exclusively to quantum technologies and deep-physics innovation; invests pre-seed to Series A in quantum computing, sensing, communications, error correction and enabling hardware, targeting ~25 portfolio companies per fund."
+    },
+    "track_record": {
+      "portfolio_count": "~25 target (12 invested from Fund II)",
+      "co_investors": ["European Investment Fund", "Bpifrance", "Vertex Holdings (Temasek)", "Novo Holdings", "Toshiba", "Grupo ACS"]
+    },
+    "people": [
+      { "name": "Christophe Jurczak", "role": "Managing Partner & Co-founder" },
+      { "name": "Olivier Tonneau", "role": "Partner" },
+      { "name": "Will Zeng", "role": "Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Via quantonation.com",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["quantum", "deep-physics", "quantum-hardware", "deeptech", "france"],
+    "summary": {
+      "en": "Paris- and Boston-based Quantonation (founded 2018) is the world's first VC dedicated to quantum technologies and deep physics. Its second fund closed at €220M in 2026 (Fund I was €91M in 2022), investing pre-seed to Series A in quantum computing, sensing and communications hardware. LPs include the EIF, Bpifrance, Temasek's Vertex and Novo Holdings.",
+      "local": "Quantonation, basé à Paris et Boston, est le premier fonds de capital-risque dédié aux technologies quantiques; son second fonds a clôturé à 220 M€."
+    },
+    "sources": [
+      {
+        "url": "https://www.quantonation.com/2026/02/18/quantonation-closes-e220-million-second-fund-to-back-the-industrialisation-of-quantum-and-physics-based-technologies/",
+        "title": "Quantonation Closes €220 Million Second Fund",
+        "publisher": "Quantonation",
+        "accessed": "2026-06-03",
+        "supports": "Fund II €220M, quantum/deep-physics focus, partners, LPs",
+        "quote": "Quantonation Closes €220 Million Second Fund to Back the Industrialisation of Quantum and Physics-Based Technologies"
+      },
+      {
+        "url": "https://www.eu-startups.com/2026/02/french-vc-quantonation-raises-e220-million-for-flagship-quantum-and-deep-physics-fund/",
+        "title": "French VC Quantonation raises €220 million for flagship quantum and deep-physics fund",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2018, Fund I €91M (2022), pre-seed to Series A, ~25 portfolio target, LP list",
+        "quote": "founded in 2018 by Christophe Jurczak ... its first vehicle, which closed in 2022 at €91m ... invest from pre-seed to Series A in quantum computing, sensing, communications"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Quantum-hardware/deep-physics focused, qualifying under hardware/semiconductor + deeptech. Paris HQ with Boston office.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "eu-iron-wolf-capital",
+    "name": { "en": "Iron Wolf Capital" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "europe",
+    "country": "Lithuania",
+    "hq_city": "Vilnius",
+    "website": "https://www.ironwolfcapital.com/",
+    "links": {
+      "other": [
+        "https://www.eu-startups.com/2025/06/lithuanian-vc-fund-iron-wolf-capital-launches-e100-million-fund-to-target-25-early-stage-companies-across-the-baltics/",
+        "https://sifted.eu/articles/baltic-deeptech-vc-fund-100m"
+      ]
+    },
+    "capital": {
+      "current_fund": { "raw": "€100M (Fund II)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Baltic Deep Tech & AI Fund (Fund II)", "vintage_year": 2025, "size": { "raw": "€100M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€500K–€2M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Lithuania", "Estonia", "Latvia", "Baltics"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "spacetech", "robotics", "ai-ml"],
+      "thesis": "Baltic deeptech seed fund targeting ~25 early-stage companies across Estonia, Latvia, Lithuania and the Baltic diaspora; strong on photonics and laser technologies (a Lithuanian specialty) spilling into spacetech, plus AI and robotics."
+    },
+    "track_record": {
+      "portfolio_count": "25 target (Fund II)",
+      "co_investors": ["ILTE", "NATO Innovation Fund"]
+    },
+    "people": [
+      { "name": "Kasparas Jurgelionis", "role": "Co-founder & Partner" },
+      { "name": "Viktoras Jucikas", "role": "Co-founder & Partner" },
+      { "name": "Zygimantas Susnys", "role": "Co-founder & Partner" },
+      { "name": "Kadi-Ingrid Lilles", "role": "Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Via ironwolfcapital.com",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["photonics", "lasers", "deeptech", "baltics", "spacetech", "lithuania"],
+    "summary": {
+      "en": "Vilnius-based Iron Wolf Capital (founded 2017) raised a €100M second fund — the largest seed-stage deeptech fund in Baltic history — to back ~25 early-stage companies across the Baltics in photonics, lasers, spacetech, AI and robotics, writing €500K–€2M tickets. Anchor LP ILTE; backed by the NATO Innovation Fund.",
+      "local": "Vilniuje įsikūręs Iron Wolf Capital pritraukė 100 mln. eurų antrąjį fondą Baltijos šalių gilios technologijos startuoliams — ypač fotonikos ir lazerių srityse."
+    },
+    "sources": [
+      {
+        "url": "https://www.eu-startups.com/2025/06/lithuanian-vc-fund-iron-wolf-capital-launches-e100-million-fund-to-target-25-early-stage-companies-across-the-baltics/",
+        "title": "Lithuanian VC fund Iron Wolf Capital launches €100 million fund",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-03",
+        "supports": "€100M Fund II, ~25 companies, Baltics geo, photonics/spacetech/AI, €500K–€2M tickets, founders, ILTE/NATO Innovation Fund",
+        "quote": "€100 million fund to target 25 early-stage companies across the Baltics ... photonics, and space innovation ... initial investments range from €500,000 to €2 million"
+      },
+      {
+        "url": "https://sifted.eu/articles/baltic-deeptech-vc-fund-100m",
+        "title": "Lithuanian deeptech VC Iron Wolf Capital launches €100m seed fund",
+        "publisher": "Sifted",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2017, Baltic deeptech seed fund, photonics/laser strength",
+        "quote": "founded in 2017 by Kasparas Jurgelionis, Viktoras Jucikas and Zygimantas Susnys"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Generalist deeptech but with explicit photonics/laser/hardware emphasis (Lithuania's photonics strength), so qualifies. €100M Fund II reported as closed/largest Baltic seed deeptech fund.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "eu-apex-ventures",
+    "name": { "en": "APEX Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "Austria",
+    "hq_city": "Vienna",
+    "website": "https://www.apex.ventures/",
+    "links": {
+      "other": [
+        "https://www.eu-startups.com/2023/02/amadeus-capital-partners-and-apex-ventures-team-up-to-back-early-stage-deep-tech-startups/",
+        "https://tech.eu/2023/02/22/amadeus-capital-partners-and-apex-ventures-orchestrate-deeptech-support-with-joint-eur80-million-fund/"
+      ]
+    },
+    "capital": {
+      "current_fund": { "raw": "€80M (Amadeus APEX Technology Fund, €28M first close)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Amadeus APEX Technology Fund", "vintage_year": 2023, "size": { "raw": "€80M (€28M first close)", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "€1M–€1.5M (initial)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United States"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "robotics", "spacetech", "healthtech"],
+      "thesis": "Deep-tech VC backing startups with unique, defendable IP; focus areas include quantum technologies & photonics, autonomous systems & robotics, mobility & space, AI/ML and medical technology. Runs the joint Amadeus APEX Technology Fund with Amadeus Capital Partners."
+    },
+    "track_record": {
+      "co_investors": ["Amadeus Capital Partners"]
+    },
+    "people": [
+      { "name": "Andreas Riegler", "role": "Partner" },
+      { "name": "Wolfgang Neubert", "role": "Partner" }
+    ],
+    "team_size": 26,
+    "application": {
+      "how_to_apply": "Via apex.ventures",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["photonics", "quantum", "imaging", "deeptech", "austria"],
+    "summary": {
+      "en": "Vienna-based APEX Ventures (founded 2016) is a deep-tech VC backing startups with defendable IP in quantum technologies & photonics, autonomous systems/robotics, mobility & space, AI and medtech. It co-runs the €80M Amadeus APEX Technology Fund (€28M first close) with Amadeus Capital Partners, writing €1M–€1.5M initial tickets.",
+      "local": "Das in Wien ansässige APEX Ventures investiert in Deep-Tech-Startups mit verteidigbarem geistigem Eigentum, u. a. in Quanten- und Photonik-Technologien."
+    },
+    "sources": [
+      {
+        "url": "https://www.eu-startups.com/2023/02/amadeus-capital-partners-and-apex-ventures-team-up-to-back-early-stage-deep-tech-startups/",
+        "title": "Amadeus Capital Partners and APEX Ventures team up to back early stage deep tech startups",
+        "publisher": "EU-Startups",
+        "accessed": "2026-06-03",
+        "supports": "Vienna deep-tech VC, quantum/photonics focus, €80M fund, €28M first close, €1M–€1.5M tickets, partners",
+        "quote": "Amadeus APEX Technology Fund ... €80M fund has had a first close of €28M ... range from €1 million to €1.5 million"
+      },
+      {
+        "url": "https://www.apex.ventures/",
+        "title": "Apex Ventures",
+        "publisher": "APEX Ventures",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2016, Vienna base, deep-tech/quantum/photonics/robotics/space sector focus, ~26-person team",
+        "quote": "founded in 2016 and based in Vienna, Austria ... quantum technologies & photonics, mobility & space innovation"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Broad deeptech mandate but with explicit photonics/quantum-hardware and imaging focus, so qualifies for hardware/deeptech. The €80M flagship is a joint fund with Amadeus Capital Partners (UK); APEX itself is Vienna-based.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  }
+]

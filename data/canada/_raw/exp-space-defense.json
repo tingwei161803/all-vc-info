@@ -1,0 +1,1237 @@
+[
+  {
+    "id": "ca-one9",
+    "name": { "en": "ONE9" },
+    "aka": ["ONE9 Investments", "One9 Ventures"],
+    "type": "vc",
+    "subtypes": ["venture-studio"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Ottawa",
+    "offices": [{ "country": "Canada", "city": "Ottawa" }],
+    "website": "https://www.one9.ca/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/one-9-investments",
+      "crunchbase": "https://www.cbinsights.com/investor/one9-ventures",
+      "other": ["https://www.one9.ca/venture"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$10M CAD (Special Mission Fund I)", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Special Mission Fund I", "vintage_year": null, "size": { "raw": "raised ~$10M CAD against a $50M CAD target", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States", "Five Eyes"],
+      "sector_focus": ["spacetech", "deeptech", "cybersecurity", "robotics", "ai-ml"],
+      "thesis": "Finds, funds, and scales the next generation of disruptive security and defence technology companies; Canada's leading dual-use technology innovation ecosystem for critical infrastructure and national security, with proprietary deal flow from Five-Eyes defence, security, and intelligence communities. Investment themes include advanced manufacturing, aerospace, autonomous systems & robotics, AI/ML, critical infrastructure protection, cybersecurity, connectivity/communications, and quantum computing."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Tomahawk Robotics", "sector": "defence-robotics", "outcome": "acquired" },
+        { "company": "Strider Technologies", "sector": "national-security-ai", "outcome": "active" },
+        { "company": "Slingshot Aerospace", "sector": "spacetech", "outcome": "active" },
+        { "company": "Hidden Level", "sector": "drone-detection", "outcome": "active" },
+        { "company": "Ventus Respiratory Technologies", "sector": "defence", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Tomahawk Robotics", "type": "M&A", "year": 2023, "value": { "raw": "$120M USD in cash and stock (acquired by AeroVironment)", "usd": 120000000, "currency": "USD" } }
+      ],
+      "co_investors": ["Kensington Capital Partners"]
+    },
+    "people": [
+      { "name": "Glenn Cowan", "role": "Founder & Managing Partner (retired Canadian Armed Forces / Joint Task Force 2)" },
+      { "name": "Daniel Weinand", "role": "General Partner / co-founder (Shopify co-founder)" }
+    ],
+    "application": {
+      "how_to_apply": "Via 'Get Started' / contact on one9.ca; VC investment activities now conducted within Kensington Capital Partners following April 2025 acquisition",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.one9.ca/"
+    },
+    "tags": ["defence", "national-security", "dual-use", "ottawa", "five-eyes", "spacetech"],
+    "summary": {
+      "en": "Ottawa-based defence, intelligence and national security venture firm launched in October 2020 by retired JTF2 commander Glenn Cowan with Shopify co-founder Daniel Weinand. Anchored by Special Mission Fund I — described as Canada's first security-focused VC fund. Its VC business was acquired by Toronto's Kensington Capital Partners in April 2025."
+    },
+    "sources": [
+      {
+        "url": "https://www.one9.ca/",
+        "title": "ONE9 — official site",
+        "publisher": "ONE9",
+        "accessed": "2026-06-03",
+        "supports": "thesis, sector themes, portfolio, dual-use national security focus",
+        "quote": "ONE9 finds, funds, and scales the next generation of disruptive security and defence technology companies."
+      },
+      {
+        "url": "https://betakit.com/kensington-acquires-one9-to-establish-a-defence-tech-vc-platform/",
+        "title": "Kensington acquires One9 to establish a defence tech VC platform",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-03",
+        "supports": "founder, fund size ($10M raised vs $50M target), founding, Tomahawk exit value, deployment, Ottawa HQ",
+        "quote": "One9's Special Mission Fund ... had an initial target of $50 million CAD ... actually raised $10 million CAD ... Tomahawk Robotics: Sold to AeroVironment in 2023 for $120 million USD in cash and stock."
+      },
+      {
+        "url": "https://www.businesswire.com/news/home/20250402014143/en/Kensington-Acquires-ONE9-Venture-Capital-Business",
+        "title": "Kensington Acquires ONE9 Venture Capital Business",
+        "publisher": "BusinessWire",
+        "accessed": "2026-06-03",
+        "supports": "Ottawa HQ, Glenn Cowan, acquisition date April 2025",
+        "quote": "Kensington Capital Partners Limited announced the acquisition of the venture capital investment business of ONE9, the Ottawa-based team led by founder and Managing Partner Glenn Cowan."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Special Mission Fund and existing portfolio were NOT part of the Kensington acquisition; future ONE9 funds/direct investments now run within Kensington. Founding year (Oct 2020) per BetaKit reporting.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "ca-kensington-capital-partners-sentinel",
+    "name": { "en": "Kensington Capital Partners — Sentinel Strategy" },
+    "aka": ["Kensington Capital Partners", "KCP", "Sentinel Strategy"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 1996,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "offices": [{ "country": "Canada", "city": "Toronto" }],
+    "website": "https://kcpl.ca/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/kensington-capital-partners-limited/",
+      "other": ["https://kcpl.ca/venture-capital/", "https://kcpl.ca/kensington-acquires-one9-venture-capital-business/"]
+    },
+    "capital": {
+      "aum": { "raw": "~$2.6B of assets managed", "usd": null, "currency": "CAD" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["cybersecurity", "spacetech", "deeptech", "robotics", "ai-ml"],
+      "thesis": "The Sentinel Strategy is Kensington's national security investment platform, launched through its 2025 acquisition of ONE9, positioning the firm as a market leader for investments in national security technologies including cybersecurity, as well as dual-use and defence-first technologies (robotics, drones, AI, space technologies)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Tomahawk Robotics", "sector": "defence-robotics", "outcome": "acquired" },
+        { "company": "Strider Technologies", "sector": "national-security-ai", "outcome": "active" }
+      ],
+      "co_investors": ["ONE9"]
+    },
+    "people": [
+      { "name": "Rick Nathan", "role": "Senior Managing Director" },
+      { "name": "Glenn Cowan", "role": "Partner (via ONE9 acquisition)" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via kcpl.ca",
+      "accepts_cold_inbound": null,
+      "contact": "https://kcpl.ca/"
+    },
+    "tags": ["defence", "national-security", "dual-use", "cybersecurity", "toronto", "spacetech"],
+    "summary": {
+      "en": "Toronto private equity and venture firm managing ~$2.6B that built a national-security/defence VC platform (the Sentinel Strategy) by acquiring Ottawa's ONE9 in April 2025, investing in cybersecurity, dual-use and defence-first technologies including robotics, drones, AI and space."
+    },
+    "sources": [
+      {
+        "url": "https://www.theglobeandmail.com/business/article-torontos-kensington-capital-acquires-defence-focused-venture-capital/",
+        "title": "Toronto's Kensington Capital acquires defence-focused venture capital firm ONE9",
+        "publisher": "The Globe and Mail",
+        "accessed": "2026-06-03",
+        "supports": "AUM ~$2.6B, Toronto base, acquisition of ONE9, Glenn Cowan",
+        "quote": "Kensington, a private equity and venture capital firm that manages $2.6-billion of assets, took over new funds and direct investments by ONE9."
+      },
+      {
+        "url": "https://kcpl.ca/kensington-acquires-one9-venture-capital-business/",
+        "title": "Kensington Acquires ONE9 Venture Capital Business",
+        "publisher": "Kensington Capital Partners",
+        "accessed": "2026-06-03",
+        "supports": "Sentinel Strategy national security platform, dual-use and defence-first focus",
+        "quote": "The Sentinel Strategy is Kensington's national security investment platform ... establishes Kensington as a market leader for investments in National Security technologies, including cybersecurity, as well as dual use and defense first technologies."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Kensington founding year (1996) is the firm-level founding; Sentinel Strategy launched 2025. AUM figure as of 2025 reporting.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "ca-bdc-strongnorth-fund",
+    "name": { "en": "BDC StrongNorth Fund" },
+    "aka": ["StrongNorth Fund", "BDC Capital Defence", "Strong North Fund"],
+    "type": "vc",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2026,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "offices": [{ "country": "Canada", "city": "Montreal" }],
+    "website": "https://www.bdc.ca/en/bdc-capital/venture-capital/funds/defence-sector-solutions",
+    "links": {
+      "other": [
+        "https://www.bdc.ca/en/about/mediaroom/news-releases/bdc-introduces-platform-to-provide-4b-to-boost-canada-defence-security-ecosystem",
+        "https://www.bdc.ca/en/about/mediaroom/news-releases/landing-zones-canada-secures-first-investment-from-bdc-new-strongnorth-defence-fund"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$300M CAD", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "StrongNorth Fund", "vintage_year": 2026, "size": { "raw": "$300 million CAD", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "$1 million to $20 million per cheque", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["deeptech", "spacetech", "robotics", "ai-ml", "hardware-semiconductor", "cybersecurity"],
+      "thesis": "A dedicated venture capital fund supporting Canadian early-stage startups developing deep technologies with defence-focused or dual-use applications or strategies, to promote national sovereignty and position Canada as a global leader in defence innovation. Expected to back 30 to 40 startups over four years, leading rounds."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Landing Zones Canada", "sector": "stratospheric-UAS", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Peter Suma", "role": "Managing Partner (StrongNorth Fund)" },
+      { "name": "Julien Letartre", "role": "Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via BDC Capital defence sector solutions web form",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.bdc.ca/en/bdc-capital/venture-capital/funds/defence-sector-solutions"
+    },
+    "tags": ["defence", "dual-use", "deeptech", "government-backed", "bdc", "spacetech"],
+    "summary": {
+      "en": "BDC Capital's $300M CAD venture fund (part of a multi-billion-dollar Defence Platform) backing Canadian early-stage deep-tech startups with defence or dual-use applications. Led by Managing Partner Peter Suma; cheques of $1M-$20M; expected to back 30-40 startups over four years. First investment: stratospheric-drone firm Landing Zones Canada (April 2026)."
+    },
+    "sources": [
+      {
+        "url": "https://www.bdc.ca/en/about/mediaroom/news-releases/landing-zones-canada-secures-first-investment-from-bdc-new-strongnorth-defence-fund",
+        "title": "Landing Zones Canada Secures First Investment from BDC's New StrongNorth Fund",
+        "publisher": "BDC",
+        "accessed": "2026-06-03",
+        "supports": "fund size $300M, dual-use focus, Peter Suma leadership, first investment Landing Zones Canada",
+        "quote": "The StrongNorth Fund is BDC's dedicated $300-million venture capital vehicle designed to back early-stage Canadian startups developing deep technologies with defence-focused or dual-use applications."
+      },
+      {
+        "url": "https://betakit.com/bdc-expands-defence-platform-to-6-billion-and-names-a-strongnorth-fund-leader/",
+        "title": "BDC expands Defence Platform to $6 billion and names a StrongNorth Fund leader",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-03",
+        "supports": "check size $1M-$20M, 30-40 startups over four years, Peter Suma",
+        "quote": "The fund is expected to back 30 to 40 startups over the next four years, leading rounds and cutting cheques of between $1 million and $20 million."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "StrongNorth is part of BDC's broader Defence Platform (announced 2026, expanded up to $6B). HQ city listed as Montreal (BDC head office); fund operates nationally.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "ca-bdc-catalyst-innovation-fund",
+    "name": { "en": "BDC Catalyst Innovation Fund" },
+    "aka": ["Catalyst Innovation Fund"],
+    "type": "vc",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2026,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "offices": [{ "country": "Canada", "city": "Montreal" }],
+    "website": "https://www.bdc.ca/en/bdc-capital/venture-capital/funds/defence-sector-solutions",
+    "links": {
+      "other": ["https://www.bdc.ca/en/about/mediaroom/news-releases/bdc-introduces-platform-to-provide-4b-to-boost-canada-defence-security-ecosystem"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": "CAD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["deeptech", "spacetech", "robotics", "cybersecurity", "ai-ml"],
+      "thesis": "A second BDC Capital equity vehicle intended to serve as an innovation catalyst for the defence startup ecosystem, providing financing to businesses just starting out selling in the defence and dual-use world — from early-stage to established companies."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": ["BDC StrongNorth Fund"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Contact via BDC Capital defence sector solutions web form",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.bdc.ca/en/bdc-capital/venture-capital/funds/defence-sector-solutions"
+    },
+    "tags": ["defence", "dual-use", "early-stage", "government-backed", "bdc"],
+    "summary": {
+      "en": "One of two new BDC Capital equity vehicles under its Defence Platform, the Catalyst Innovation Fund is designed to catalyse Canada's defence/dual-use startup ecosystem, financing companies from early-stage to established as they begin selling into defence markets. Part of a $500M CAD direct-investment envelope alongside the $300M StrongNorth Fund."
+    },
+    "sources": [
+      {
+        "url": "https://www.bdc.ca/en/about/mediaroom/news-releases/bdc-introduces-platform-to-provide-4b-to-boost-canada-defence-security-ecosystem",
+        "title": "BDC introduces platform to provide $4B to boost Canada's defence and security ecosystem",
+        "publisher": "BDC",
+        "accessed": "2026-06-03",
+        "supports": "Catalyst Innovation Fund as second fund, innovation catalyst role, $500M envelope split with StrongNorth",
+        "quote": "The Catalyst Innovation Fund is a second fund intended to serve as an innovation catalyst for the sector's start up ecosystem."
+      },
+      {
+        "url": "https://www.theglobeandmail.com/business/article-bdc-defence-funding-irreversible-inc-canada-rocket-company/",
+        "title": "BDC targets rockets, semiconductors as first investments under new defence strategy",
+        "publisher": "The Globe and Mail",
+        "accessed": "2026-06-03",
+        "supports": "Catalyst supports early-stage to established defence/dual-use companies",
+        "quote": "The Catalyst Innovation Fund will provide financing to businesses just starting out selling in the defence and dual-use world, from early-stage to established companies."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Exact fund size not separately disclosed (part of $500M direct-investment envelope; StrongNorth allocated $300M of that). Fund still being structured as of mid-2026.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "ca-nordspace-ventures",
+    "name": { "en": "NordSpace Ventures" },
+    "aka": ["NordSpace Ventures (CVC)"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2026,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Markham",
+    "offices": [{ "country": "Canada", "city": "Markham" }],
+    "website": "https://www.nordspace.ca/",
+    "links": {
+      "other": [
+        "https://payloadspace.com/canadas-nordspace-opens-vc-arm-for-sovereign-space-investments/",
+        "https://www.truenorthstrategicreview.ca/p/nordspace-launches-nordspace-ventures"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["spacetech", "deeptech"],
+      "thesis": "Corporate venture arm of launch company NordSpace, funding Canadian space, defence and dual-use technology startups that can support its parent's satellite launch activities and boost Canada's spacetech ecosystem — keeping Canadian space/defence companies funded domestically rather than looking abroad for capital."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Wyvern", "sector": "earth-observation", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Rahul Goel", "role": "Founder & CEO, NordSpace (parent)" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via NordSpace",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.nordspace.ca/"
+    },
+    "tags": ["spacetech", "defence", "dual-use", "cvc", "sovereign-space", "markham"],
+    "summary": {
+      "en": "Corporate venture arm (launched Feb 2026) of Markham, Ontario-based sovereign launch startup NordSpace (founded 2022 by Rahul Goel). Invests in Canadian space, defence and dual-use technologies, offering portfolio companies access to NordSpace's advanced manufacturing and space-systems testing facilities. First investment: Edmonton Earth-observation firm Wyvern."
+    },
+    "sources": [
+      {
+        "url": "https://payloadspace.com/canadas-nordspace-opens-vc-arm-for-sovereign-space-investments/",
+        "title": "Canada's NordSpace Opens VC Arm for Sovereign Space Investments",
+        "publisher": "Payload",
+        "accessed": "2026-06-03",
+        "supports": "launch date Feb 26 2026, sector focus space/defence/dual-use, first investment Wyvern, facilities access",
+        "quote": "NordSpace Ventures ... Sector Focus: Canadian space, defense, and dual-use technologies ... First Investment: Wyvern."
+      },
+      {
+        "url": "https://globalventuring.com/corporate/industrial/nordspace-launches-spacetech-first-cvc-fund/",
+        "title": "Space launch company NordSpace forms corporate venture fund",
+        "publisher": "Global Venturing",
+        "accessed": "2026-06-03",
+        "supports": "CVC structure of NordSpace Ventures, space-tech focus",
+        "quote": "NordSpace launched NordSpace Ventures, which will fund startups that can support its parent company's satellite launch activities and boost Canada's spacetech ecosystem."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size/check sizes not disclosed. Parent NordSpace founded 2022, Markham ON, founder Rahul Goel (per BetaKit/SpaceNews); NordSpace Ventures launched Feb 26, 2026.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "ca-thrust-capital-partners",
+    "name": { "en": "Thrust Capital Partners", "local": "Partenaires Thrust Capital" },
+    "aka": ["Partenaires Thrust Capital", "TCP", "Thrust Capital Partners Fund I"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "offices": [{ "country": "Canada", "city": "Montreal" }],
+    "website": "https://www.tcp.aero/english",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/thrust-capital-partners1",
+      "crunchbase": "https://www.crunchbase.com/organization/thrust-capital-partners",
+      "other": ["https://www.tcp.aero/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$77M CAD firm commitments at initial close; target ~$100M CAD", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Thrust Capital Partners Fund I L.P.", "vintage_year": 2021, "size": { "raw": "$77 million CAD initial close; $100M CAD target", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth"],
+      "check_size": { "raw": "targets companies with sales above $20M and EBITDA up to $20M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada", "Quebec"],
+      "sector_focus": ["spacetech", "deeptech", "hardware-semiconductor"],
+      "thesis": "Canada's first private investment fund fully dedicated to the consolidation and development of the aerospace supply chain. Buyout/growth equity backing Quebec and Canadian SMEs in commercial and business aviation, defence, helicopters, drones and the space domain to become global supply-chain leaders. Invests via recapitalizations, management buyouts, corporate divestitures and industry consolidations."
+    },
+    "track_record": {
+      "portfolio_count": 2,
+      "notable_investments": [
+        { "company": "Dishon (Dishon CNC)", "sector": "aerospace-manufacturing", "outcome": "active" },
+        { "company": "DCM Group (DCM Aero)", "sector": "aerospace-manufacturing", "outcome": "active" }
+      ],
+      "co_investors": ["Fonds de solidarité FTQ", "Mouvement Desjardins", "Investissement Québec"]
+    },
+    "people": [
+      { "name": "Benoit Brossoit", "role": "Co-Founder & Partner" },
+      { "name": "Frederic Loiselle", "role": "Co-Founder & Partner" },
+      { "name": "Milad Jawabra", "role": "Co-Founder & Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via tcp.aero",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.tcp.aero/"
+    },
+    "tags": ["aerospace", "defence", "space", "drones", "private-equity", "quebec", "montreal", "supply-chain"],
+    "summary": {
+      "en": "Montreal-based private equity / growth fund (founded 2021), described as the first Quebec fund specialised in aerospace, with $77M CAD at initial close (target ~$100M) backed by Investissement Québec ($30M), Fonds de solidarité FTQ and Desjardins. Consolidates the aerospace supply chain across commercial/business aviation, defence, helicopters, drones and the space domain.",
+      "local": "Fonds de capital privé montréalais (fondé en 2021), premier fonds québécois spécialisé en aérospatiale, avec une capitalisation initiale de 77 M$ (cible de 100 M$), appuyé par Investissement Québec (30 M$), le Fonds de solidarité FTQ et Desjardins."
+    },
+    "sources": [
+      {
+        "url": "https://www.investquebec.com/quebec/fr/salle-de-presse/communiques/fonds-d-investissement-en-aerospatial-Quebec-investit-30-Millions-de-dollars-dans-Partenaires-Thrust-Capital.html",
+        "title": "Premier fonds d'investissement spécialisé dans le secteur aérospatial - Québec investit 30 M$ dans le fonds Partenaires Thrust Capital",
+        "publisher": "Investissement Québec",
+        "accessed": "2026-06-03",
+        "supports": "Quebec $30M investment, initial $77M / target $100M, FTQ + Desjardins backers, sector focus drones/space/defence",
+        "quote": "Québec investit une somme maximale de 30 millions de dollars ... dans le nouveau fonds Partenaires Thrust Capital ... capitalisation initiale de 77 millions de dollars et d'une capitalisation cible de 100 millions de dollars ... industries à fort potentiel de croissance comme celles liées aux drones et au domaine spatial."
+      },
+      {
+        "url": "https://www.tcp.aero/english",
+        "title": "Thrust Capital Partners — official site",
+        "publisher": "Thrust Capital Partners",
+        "accessed": "2026-06-03",
+        "supports": "buyout strategy, sales >$20M, EBITDA up to $20M, co-founders, portfolio (Dishon, DCM)",
+        "quote": "Sales above $20M and cash flow positive ... EBITDA up to $20M ... Co-Founders Benoit Brossoit, Frederic Loiselle, Milad Jawabra."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Primarily an aerospace-supply-chain buyout/PE fund (not a typical early-stage VC), but its mandate explicitly covers defence, drones and the space domain, so included as a relevant sector investor. Founding 2021 per Crunchbase.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "ca-cdl-defence",
+    "name": { "en": "CDL Defence (Creative Destruction Lab — Defence Stream)" },
+    "aka": ["CDL Defence", "Creative Destruction Lab Defence Stream"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2026,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "offices": [
+      { "country": "Canada", "city": "Toronto" },
+      { "country": "Canada", "city": "Halifax" },
+      { "country": "Canada", "city": "Calgary" },
+      { "country": "Canada", "city": "Vancouver" },
+      { "country": "Germany", "city": "Berlin" },
+      { "country": "Estonia", "city": "Tallinn" }
+    ],
+    "website": "https://creativedestructionlab.com/streams/defence/",
+    "links": {
+      "other": [
+        "https://creativedestructionlab.com/blog/government-of-canada-defence/",
+        "https://spaceq.ca/federal-funding-fuels-cdl-defence-accelerator-program/"
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Canada", "Europe"],
+      "sector_focus": ["deeptech", "spacetech", "robotics", "cybersecurity", "ai-ml"],
+      "thesis": "A global program supporting science-based ventures developing dual-use technologies that address operational needs in defence, national security and critical infrastructure across autonomy, space and ISR, advanced materials, energy, sensors/electronic warfare, logistics and medtech."
+    },
+    "program": {
+      "length_weeks": 39,
+      "cohort_size": "up to 25 ventures per year",
+      "batches_per_year": 1,
+      "equity_taken_pct": "0",
+      "investment": { "raw": "no fee; CDL takes no equity", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "CDL-Toronto, CDL-Atlantic (Halifax), CDL-Rockies (Calgary), CDL-Vancouver, CDL-Berlin, CDL-Estonia",
+      "demo_day": null,
+      "perks": ["mentorship from defence operators and investors", "procurement and deployment navigation", "access to CDL investor network"],
+      "application_url": "https://creativedestructionlab.com/streams/defence/",
+      "application_cycles": ["Applications open until June 15, 2026 (early deadline May 10, 2026)"],
+      "acceptance_rate": null,
+      "eligibility": "Ventures developing dual-use defence technologies at TRL 4-7; net new applicants and alumni companies"
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [], "co_investors": ["BDC"] },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via CDL Defence stream page; no fees, no equity",
+      "accepts_cold_inbound": true,
+      "contact": "https://creativedestructionlab.com/streams/defence/"
+    },
+    "tags": ["defence", "dual-use", "accelerator", "no-equity", "space-systems", "isr", "autonomy"],
+    "summary": {
+      "en": "Nine-month, equity-free defence/dual-use accelerator from Creative Destruction Lab launched in 2026 with nearly $7M of FedDev Ontario funding. Runs across six CDL sites in Canada and Europe, supporting up to 25 science-based ventures per year in autonomy, space & ISR, sensors/EW, energy and medtech."
+    },
+    "sources": [
+      {
+        "url": "https://creativedestructionlab.com/streams/defence/",
+        "title": "Defence — Creative Destruction Lab",
+        "publisher": "Creative Destruction Lab",
+        "accessed": "2026-06-03",
+        "supports": "nine-month length, no equity, sites, TRL 4-7 eligibility, focus areas incl. space/ISR, application deadline",
+        "quote": "Nine months (June–May cycle) ... CDL does not take any equity ... Space and ISR (Earth observation, positioning/navigation, satellite communications) ... Application Deadline: June 15, 2026."
+      },
+      {
+        "url": "https://spaceq.ca/federal-funding-fuels-cdl-defence-accelerator-program/",
+        "title": "Federal funding fuels CDL Defence accelerator program",
+        "publisher": "SpaceQ",
+        "accessed": "2026-06-03",
+        "supports": "up to 25 ventures/year, ~$7M FedDev Ontario funding, 2026 launch",
+        "quote": "The program will identify and support up to 25 science-based ventures each year ... Canada awarded nearly $7M to Creative Destruction Lab for its new CDL Defence program."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "length_weeks=39 approximates the nine-month program. CDL itself founded 2012; the Defence stream launched 2026.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "ca-cdl-space",
+    "name": { "en": "CDL Space (Creative Destruction Lab — Space Stream)" },
+    "aka": ["CDL Space", "Creative Destruction Lab Space Stream"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "offices": [
+      { "country": "Canada", "city": "Toronto" },
+      { "country": "United States", "city": "Atlanta" },
+      { "country": "France", "city": "Paris" }
+    ],
+    "website": "https://creativedestructionlab.com/streams/space/",
+    "links": {
+      "other": [
+        "https://creativedestructionlab.com/blog/global-space-stream/",
+        "https://spaceq.ca/creative-destruction-lab-launches-new-space-stream-for-entrepreneurs/"
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Canada", "Global"],
+      "sector_focus": ["spacetech", "ai-ml", "deeptech"],
+      "thesis": "An equity-free accelerator for coachable startups applying AI and other advanced technologies to commercial opportunities in space and space-based services, supporting both space and Earth-based technology ventures from pre-incorporation through pre-Series A."
+    },
+    "program": {
+      "length_weeks": 39,
+      "cohort_size": null,
+      "batches_per_year": 1,
+      "equity_taken_pct": "0",
+      "investment": { "raw": "no equity taken", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "CDL-Toronto, CDL-Atlanta (Georgia Tech), CDL-Paris (HEC Paris)",
+      "demo_day": null,
+      "perks": ["mentorship every eight weeks", "access to space-investor network", "objective-setting sessions"],
+      "application_url": "https://creativedestructionlab.com/streams/space/",
+      "application_cycles": ["annual cohort, applications via CDL"],
+      "acceptance_rate": null,
+      "eligibility": "Early-stage (early venture or growth) or pre-incorporation projects applying AI/advanced tech to space; startups at all maturity levels considered"
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [], "co_investors": [] },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via CDL Space stream page; no equity taken",
+      "accepts_cold_inbound": true,
+      "contact": "https://creativedestructionlab.com/streams/space/"
+    },
+    "tags": ["spacetech", "accelerator", "no-equity", "ai", "toronto"],
+    "summary": {
+      "en": "Nine-month, equity-free space accelerator from Creative Destruction Lab, launched in 2021 and made global in 2022 (Toronto, Atlanta, Paris). Backs pre-seed to pre-Series A startups applying AI and advanced tech to space and space-based services; partnered with Space Canada on investor roadshows."
+    },
+    "sources": [
+      {
+        "url": "https://creativedestructionlab.com/blog/global-space-stream/",
+        "title": "Launch of global CDL Space stream will unlock new worlds of possibility for founders",
+        "publisher": "Creative Destruction Lab",
+        "accessed": "2026-06-03",
+        "supports": "global expansion to Toronto/Atlanta/Paris, space focus, nine-month duration",
+        "quote": "CDL Space is an international program based out of three CDL locations — CDL-Toronto, CDL-Atlanta, and CDL-Paris — for pre-Seed to pre-Series A technology startups."
+      },
+      {
+        "url": "https://spaceq.ca/creative-destruction-lab-launches-new-space-stream-for-entrepreneurs/",
+        "title": "Creative Destruction Lab Launches New Space Stream for Entrepreneurs",
+        "publisher": "SpaceQ",
+        "accessed": "2026-06-03",
+        "supports": "space stream launch, AI/advanced-tech focus, no equity",
+        "quote": "CDL Space is particularly suited to coachable startup companies who are applying artificial intelligence and other advanced technologies to exploit commercial opportunities related to space and space-based services."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Space stream launched ~2021, went global 2022. length_weeks=39 approximates the nine-month program.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "ca-centech-starburst-aerospace-accelerator",
+    "name": { "en": "Centech × Starburst Montréal Aerospace Accelerator" },
+    "aka": ["Centech Aerospace Accelerator", "Starburst Centech Montreal"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "offices": [{ "country": "Canada", "city": "Montreal" }],
+    "website": "https://centech.co/en/",
+    "links": {
+      "other": ["https://betakit.com/centech-and-starburst-launch-montreal-accelerator-for-aerospace-entrepreneurs/"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Canada", "Quebec"],
+      "sector_focus": ["spacetech", "deeptech"],
+      "thesis": "A Montreal accelerator dedicated to aerospace technologies — aeronautics, space and defence — helping entrepreneurs verify commercial potential, develop business models and access Starburst's global aerospace ecosystem, capitalising on Montreal's aerospace cluster."
+    },
+    "program": {
+      "length_weeks": 12,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "Starburst establishes a seed capital fund to support the most promising program companies (amount undisclosed)", "usd": null, "currency": null },
+      "format": "in-person",
+      "location": "Montreal (Centech, École de technologie supérieure)",
+      "demo_day": null,
+      "perks": ["access to aerospace industry experts", "Starburst global aerospace/defence network", "seed capital fund for top companies"],
+      "application_url": "https://centech.co/en/",
+      "application_cycles": ["rolling / cohort-based"],
+      "acceptance_rate": null,
+      "eligibility": "Aerospace, aeronautics, space and defence technology entrepreneurs"
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [], "co_investors": ["Starburst Aerospace"] },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via Centech",
+      "accepts_cold_inbound": true,
+      "contact": "https://centech.co/en/"
+    },
+    "tags": ["aerospace", "space", "defence", "accelerator", "montreal", "starburst", "centech"],
+    "summary": {
+      "en": "Montreal aerospace accelerator (launched 2018) jointly run by incubator Centech and global aeronautics/space/defence accelerator Starburst. A 12-week program leveraging Montreal's aerospace cluster, with Starburst providing a seed capital fund for the most promising participating companies."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/centech-and-starburst-launch-montreal-accelerator-for-aerospace-entrepreneurs/",
+        "title": "Centech and Starburst launch Montreal accelerator for aerospace entrepreneurs",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-03",
+        "supports": "12-week program, aeronautics/space/defence focus, Montreal, Starburst seed fund, Centech partnership",
+        "quote": "Montreal-based incubator Centech and the Starburst aeronautics accelerator launched an accelerator program dedicated to aerospace technologies ... 12 weeks ... Starburst will establish a seed capital fund to support the most promising companies."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Original launch announcement dates to 2018 (application deadline Aug 3, 2018). Current cohort cadence and whether the program is still running annually not fully confirmed from a single source.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "ca-accelerator-centre-aerospace-accelerator",
+    "name": { "en": "Aerospace Accelerator (Accelerator Centre)" },
+    "aka": ["AC Aerospace Accelerator", "Accelerator Centre Aerospace Accelerator"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Waterloo",
+    "offices": [{ "country": "Canada", "city": "Waterloo" }],
+    "website": "https://www.acceleratorcentre.com/aerospace-accelerator/",
+    "links": {
+      "other": ["https://www.acceleratorcentre.com/aerospace-accelerator/"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Canada", "Waterloo Region"],
+      "sector_focus": ["spacetech", "deeptech", "robotics", "ai-ml"],
+      "thesis": "Helps founders develop technologies that push the boundaries of flight, space and advanced mobility — advanced air mobility, space systems, sustainable aviation, unmanned traffic management and supporting infrastructure, prioritising startups integrating AI, robotics and/or advanced materials/manufacturing."
+    },
+    "program": {
+      "length_weeks": 26,
+      "cohort_size": 10,
+      "batches_per_year": null,
+      "equity_taken_pct": "0",
+      "investment": { "raw": "up to $600,000 of in-kind perks and discounts (AWS, Google for Startups, HubSpot, etc.); no equity", "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Waterloo Region, Ontario (295 Hagey Blvd.)",
+      "demo_day": null,
+      "perks": ["up to $600,000 in-kind perks", "one-to-one mentorship", "investor network access"],
+      "application_url": "https://www.acceleratorcentre.com/aerospace-accelerator/",
+      "application_cycles": ["cohort-based; register for future cohort notifications"],
+      "acceptance_rate": null,
+      "eligibility": "Based in Waterloo Region; incorporated in Canada; in-market or near-in-market solution"
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [], "co_investors": [] },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply / register interest via Accelerator Centre",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.acceleratorcentre.com/aerospace-accelerator/"
+    },
+    "tags": ["aerospace", "space-systems", "advanced-mobility", "accelerator", "no-equity", "waterloo"],
+    "summary": {
+      "en": "Equity-free aerospace accelerator run by Waterloo's Accelerator Centre (with partners Skywise/Airbus, Region of Waterloo International Airport and Aero WR). A six-month, 10-company hybrid program for advanced air mobility, space systems, sustainable aviation and UTM startups, offering up to $600K in in-kind perks."
+    },
+    "sources": [
+      {
+        "url": "https://www.acceleratorcentre.com/aerospace-accelerator/",
+        "title": "Aerospace Accelerator — Accelerator Centre",
+        "publisher": "Accelerator Centre",
+        "accessed": "2026-06-03",
+        "supports": "6-month length, 10 companies, no equity, $600K in-kind, Waterloo location, space systems focus, partners",
+        "quote": "10 companies are accepted into each program cohort ... The AC doesn't take any equity. You keep 100% ownership ... Leverage up to $600,000 of in-kind perks and discounts ... Advanced air mobility, space systems, sustainable aviation, unmanned traffic management."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year of the aerospace stream not stated. length_weeks=26 reflects the 6-month program.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "ca-innovate-calgary-aerospace-accelerator",
+    "name": { "en": "Aerospace Accelerator Program (Innovate Calgary)" },
+    "aka": ["AAP", "Innovate Calgary Aerospace Accelerator Program"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2025,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Calgary",
+    "offices": [{ "country": "Canada", "city": "Calgary" }],
+    "website": "https://innovatecalgary.com/programs-funding/aerospace-accelerator-program/",
+    "links": {
+      "other": ["https://innovatecalgary.com/aerospace-innovation/"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Canada", "Alberta"],
+      "sector_focus": ["spacetech", "deeptech", "mobility"],
+      "thesis": "Takes early-stage startups with technology-driven solutions addressing challenges faced by the aerospace sector and adds funding, technology-development resources, professional-development training and expert support; provides access to the Aerospace Innovation Hub."
+    },
+    "program": {
+      "length_weeks": 104,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "up to $200,000 in grant funding, including salary support for one founder", "usd": null, "currency": "CAD" },
+      "format": "in-person",
+      "location": "Calgary (Aerospace Innovation Hub)",
+      "demo_day": null,
+      "perks": ["up to $200,000 grant funding", "expert mentoring", "access to Aerospace Innovation Hub"],
+      "application_url": "https://innovatecalgary.com/programs-funding/aerospace-accelerator-program/",
+      "application_cycles": ["Applications closed Sept 30, 2025; program onboarding Jan 2026"],
+      "acceptance_rate": null,
+      "eligibility": "Founders with legal right to work in Canada owning >=25% or simple majority of shares; startup incorporated in Alberta or nationally less than 2 years ago and has not raised more than $500,000 in dilutive funding"
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [], "co_investors": ["Chapter AI Ventures"] },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via Innovate Calgary AAP page",
+      "accepts_cold_inbound": true,
+      "contact": "https://innovatecalgary.com/programs-funding/aerospace-accelerator-program/"
+    },
+    "tags": ["aerospace", "space", "accelerator", "grant-funding", "calgary", "alberta"],
+    "summary": {
+      "en": "Calgary's Aerospace Accelerator Program (inaugural cohort onboarding Jan 2026) provides early-stage aerospace startups up to $200,000 in grant funding plus salary support, mentoring and access to the Aerospace Innovation Hub. Funded by Calgary Economic Development's OCIF and Prairies Economic Development Canada; partners include WestJet, Calgary Airport Authority and Chapter AI Ventures."
+    },
+    "sources": [
+      {
+        "url": "https://innovatecalgary.com/programs-funding/aerospace-accelerator-program/",
+        "title": "Aerospace Accelerator Program — Innovate Calgary",
+        "publisher": "Innovate Calgary",
+        "accessed": "2026-06-03",
+        "supports": "up to $200K grant, 2-year/full-time, eligibility, partners, Jan 2026 start",
+        "quote": "Applicants receive up to $200,000 in grant funding, Including salary support for one founder ... incorporated in Alberta or nationally less than 2 years ago or has not raised more than $500,000 in dilutive funding ... inaugural partners include WestJet, Calgary Airport Authority, and Chapter AI Ventures."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Program described as 2-year, full-time commitment; length_weeks=104 approximates this. Inaugural cohort applications closed Sept 30, 2025, onboarding Jan 2026.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "ca-aerospace-innovation-hub-calgary",
+    "name": { "en": "Aerospace Innovation Hub (Calgary)" },
+    "aka": ["AIH", "Aerospace Innovation Hub"],
+    "type": "incubator",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Calgary",
+    "offices": [{ "country": "Canada", "city": "Calgary" }],
+    "website": "https://innovatecalgary.com/aerospace-innovation/",
+    "links": {
+      "other": ["https://www.calgaryeconomicdevelopment.com/newsroom/calgarys-aerospace-innovation-hub-propels-forward-with-3-9-million-investment-from-ocif/"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Canada", "Alberta"],
+      "sector_focus": ["spacetech", "deeptech", "robotics"],
+      "thesis": "Provides incubation space, equipment, accelerator programming and community for companies developing next-generation aerospace and advanced-manufacturing technologies, spanning aerodynamics and propulsion, space systems, computing, UAVs, commercial aviation and aerospace software."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": "0",
+      "investment": { "raw": "non-dilutive and seed funding support; access to over $3 million in equipment; backed by $3.9M from OCIF over four years", "usd": null, "currency": "CAD" },
+      "format": "in-person",
+      "location": "Calgary International Airport (2000 Airport Road NE), in partnership with University of Calgary",
+      "demo_day": null,
+      "perks": ["over $3M in prototyping equipment", "advisor mentorship", "ElevateIP IP support", "co-working space"],
+      "application_url": "https://innovatecalgary.com/aerospace-innovation/",
+      "application_cycles": ["membership-based"],
+      "acceptance_rate": null,
+      "eligibility": "Companies developing aerospace or advanced-manufacturing technologies"
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [], "co_investors": ["Chapter AI Ventures"] },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply for membership via Innovate Calgary",
+      "accepts_cold_inbound": true,
+      "contact": "https://innovatecalgary.com/aerospace-innovation/"
+    },
+    "tags": ["aerospace", "space-systems", "incubator", "advanced-manufacturing", "calgary", "university-of-calgary"],
+    "summary": {
+      "en": "Calgary aerospace incubator (launched 2024 with a $3.9M OCIF investment over four years) operated by Innovate Calgary with the University of Calgary, providing incubation space, $3M+ of prototyping equipment, accelerator programming and IP support across space systems, UAVs, propulsion and aerospace software. Industry partners include WestJet, Calgary Airport Authority and Chapter AI Ventures."
+    },
+    "sources": [
+      {
+        "url": "https://innovatecalgary.com/aerospace-innovation/",
+        "title": "Aerospace Innovation Hub | Innovate Calgary",
+        "publisher": "Innovate Calgary",
+        "accessed": "2026-06-03",
+        "supports": "incubation/equipment/programming, $3M+ equipment, space systems focus, location, partners",
+        "quote": "Incubation space, equipment, accelerator programming, and a community ... over $3 million in equipment ... aerodynamics and propulsion, space systems, numerical methods and computing, unmanned aerial vehicles, commercial aviation."
+      },
+      {
+        "url": "https://www.calgaryeconomicdevelopment.com/newsroom/calgarys-aerospace-innovation-hub-propels-forward-with-3-9-million-investment-from-ocif/",
+        "title": "Calgary's Aerospace Innovation Hub propels forward with $3.9 million investment from OCIF",
+        "publisher": "Calgary Economic Development",
+        "accessed": "2026-06-03",
+        "supports": "$3.9M OCIF investment over four years, Chapter AI Ventures / WestJet / Calgary Airport partners",
+        "quote": "an investment of $3.9 million over four years by the Opportunity Calgary Investment Fund (OCIF) ... Chapter.ai Ventures, alongside WestJet and the Calgary Airport Authority."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Launch/funding announcement March 2024 (OCIF $3.9M). Operates membership/incubation model rather than fixed-length cohorts.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "ca-chapter-ai-ventures",
+    "name": { "en": "Chapter AI Ventures" },
+    "aka": ["Chapter.ai Ventures", "Chapter AI"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Calgary",
+    "offices": [{ "country": "Canada", "city": "Calgary" }],
+    "website": "https://www.chapter.ai/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/chapter-ai",
+      "other": ["https://innovatecalgary.com/aerospace-innovation/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "Global"],
+      "sector_focus": ["deeptech", "spacetech", "ai-ml", "robotics", "hardware-semiconductor"],
+      "thesis": "A global investment and business-consulting firm focused on early-to-mid-stage deep-technology startups and scaleups in AI, ML, robotics, IoT, quantum computing and semiconductors; a founding industry partner of Calgary's Aerospace Innovation Hub providing capital and investment support to aerospace innovators."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": ["Innovate Calgary / Aerospace Innovation Hub"]
+    },
+    "people": [
+      { "name": "Neeraj Gupta", "role": "Co-Founder" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via chapter.ai",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.chapter.ai/"
+    },
+    "tags": ["deeptech", "aerospace", "ai", "robotics", "quantum", "calgary"],
+    "summary": {
+      "en": "Calgary-connected deep-tech investment and consulting firm investing in early-to-mid-stage AI, robotics, IoT, quantum and semiconductor startups. A founding industry partner of Calgary's Aerospace Innovation Hub, where it provides capital and investment support and plans to significantly invest in aerospace startups."
+    },
+    "sources": [
+      {
+        "url": "https://www.calgaryeconomicdevelopment.com/newsroom/calgarys-aerospace-innovation-hub-propels-forward-with-3-9-million-investment-from-ocif/",
+        "title": "Calgary's Aerospace Innovation Hub propels forward with $3.9 million investment from OCIF",
+        "publisher": "Calgary Economic Development",
+        "accessed": "2026-06-03",
+        "supports": "Chapter AI Ventures as founding aerospace hub partner, capital/investment support, plans to invest in aerospace",
+        "quote": "Chapter.ai Ventures is very excited to be part of the Aerospace Hub and plans to significantly invest in aerospace startups."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Deep-tech investor with explicit aerospace focus via Calgary's AIH; founding year and fund size not verified from a primary source. Website inferred as chapter.ai.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "ca-accelerate-fund-iii",
+    "name": { "en": "Accelerate Fund III" },
+    "aka": ["Accelerate Fund"],
+    "type": "micro-vc",
+    "subtypes": ["angel-syndicate"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Edmonton",
+    "offices": [{ "country": "Canada", "city": "Edmonton" }],
+    "website": "https://acceleratefund.ca/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/the-accelerate-fund",
+      "other": ["https://acceleratefund.ca/news/accelerate-fund-iii-invests-in-wyvern/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$23M CAD (grew from initial $10M)", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Accelerate Fund III", "vintage_year": 2020, "size": { "raw": "$23 million CAD (initial $10M from AEC + $5M AEC + $6M OCIF + $2M private)", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "typically $250,000 (up to $500,000), co-investing on same terms as private investors", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Canada", "Alberta"],
+      "sector_focus": ["spacetech", "deeptech", "ai-ml", "agritech", "climate-energy", "biotech"],
+      "thesis": "An early-stage (pre-Series A) angel co-investment fund for Alberta technology companies in knowledge-based industries, co-investing alongside angels managed in partnership with the A100. Notably backed Edmonton space-data startup Wyvern."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Wyvern", "sector": "spacetech", "outcome": "active" }
+      ],
+      "co_investors": ["Squadra Ventures", "University of Alberta Innovation Fund", "Uncork Capital", "Y Combinator"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via acceleratefund.ca (co-invests with angel rounds)",
+      "accepts_cold_inbound": true,
+      "contact": "https://acceleratefund.ca/"
+    },
+    "tags": ["seed", "alberta", "angel-co-investment", "spacetech", "deeptech", "wyvern"],
+    "summary": {
+      "en": "Alberta early-stage angel co-investment fund ($23M CAD, managed with the A100), investing typically $250K alongside angels in pre-Series A Alberta tech companies. Included in the syndicate that backed Edmonton hyperspectral satellite-imaging startup Wyvern, giving it direct spacetech exposure."
+    },
+    "sources": [
+      {
+        "url": "https://acceleratefund.ca/news/accelerate-fund-iii-invests-in-wyvern/",
+        "title": "Accelerate Fund III invests in Wyvern",
+        "publisher": "Accelerate Fund",
+        "accessed": "2026-06-03",
+        "supports": "investment in spacetech company Wyvern",
+        "quote": "Accelerate Fund III invests in Wyvern"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/university-of-alberta-innovation-fund",
+        "title": "Wyvern seed extension round participants",
+        "publisher": "Fasken / Crunchbase",
+        "accessed": "2026-06-03",
+        "supports": "Accelerate Fund III as Wyvern co-investor with Squadra, U of A Innovation Fund, Uncork, YC",
+        "quote": "Squadra Ventures successfully closed a US$6 million seed extension financing round for Wyvern, which also included participation from the University of Alberta Innovation Fund, along with Accelerate Fund III, Uncork Capital, Y Combinator."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Generalist Alberta seed fund, not space-dedicated, but included for verified spacetech exposure (Wyvern). Fund size ($23M) and check size ($250K) from AEC/secondary reporting. Managed in partnership with A100 (and historically Yaletown Partners).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "ca-university-of-alberta-innovation-fund",
+    "name": { "en": "University of Alberta Innovation Fund" },
+    "aka": ["U of A Innovation Fund", "UA Innovation Fund"],
+    "type": "micro-vc",
+    "subtypes": ["university-incubator"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Edmonton",
+    "offices": [{ "country": "Canada", "city": "Edmonton" }],
+    "website": "https://uafund.ca/",
+    "links": {
+      "other": [
+        "https://www.ualberta.ca/en/folio/2024/10/investing-in-next-generation-of-entrepreneurs-innovators.html",
+        "https://pitchbook.com/profiles/fund/24603-49F"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "starting at $5M; targeting CA$50M via donor contributions over time", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "University of Alberta Innovation Fund", "vintage_year": 2024, "size": { "raw": "starting ~$5M, target CA$50M", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Canada", "Alberta"],
+      "sector_focus": ["spacetech", "ai-ml", "healthtech", "climate-energy", "agritech"],
+      "thesis": "An early-stage venture fund managed by the University of Alberta investing in research-driven startups in AI, health, energy and agriculture. Within its first year it invested in five startups including Wyvern, the U of A-founded hyperspectral satellite-imaging company, giving it space-sector exposure."
+    },
+    "track_record": {
+      "portfolio_count": 5,
+      "notable_investments": [
+        { "company": "Wyvern", "sector": "spacetech", "outcome": "active" },
+        { "company": "PulseMedica", "sector": "healthtech", "outcome": "active" },
+        { "company": "Areto Labs", "sector": "ai-ml", "outcome": "active" }
+      ],
+      "co_investors": ["Squadra Ventures", "Accelerate Fund III", "Uncork Capital", "Y Combinator"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via uafund.ca (focus on U of A-linked research startups)",
+      "accepts_cold_inbound": null,
+      "contact": "https://uafund.ca/"
+    },
+    "tags": ["spacetech", "university-fund", "alberta", "deeptech", "wyvern", "edmonton"],
+    "summary": {
+      "en": "University of Alberta's early-stage venture fund (launched 2024, starting ~$5M with a CA$50M target) backing research-driven startups in AI, health, energy and agriculture. Among its first five investments was Wyvern, the U of A-founded hyperspectral satellite-imaging company, giving the fund direct spacetech exposure."
+    },
+    "sources": [
+      {
+        "url": "https://www.ualberta.ca/en/folio/2024/10/investing-in-next-generation-of-entrepreneurs-innovators.html",
+        "title": "Investing in the next generation of entrepreneurs and innovators",
+        "publisher": "University of Alberta (Folio)",
+        "accessed": "2026-06-03",
+        "supports": "fund launch, Wyvern investment, space-data focus, U of A founders",
+        "quote": "Wyvern, whose industry-leading satellite technology is putting Alberta at the global forefront of space data ... received funding and support from the U of A Innovation Fund."
+      },
+      {
+        "url": "https://thetechfactor.ca/new-ca50m-university-of-alberta-fund-to-invest-in-startups/",
+        "title": "New CA$50M University of Alberta fund to invest in startups",
+        "publisher": "The Tech Factor",
+        "accessed": "2026-06-03",
+        "supports": "target CA$50M size, 2024 vintage, AI/health/energy/agriculture focus",
+        "quote": "The fund is targeting to reach CA$50 million size through donor contributions over time."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Generalist university fund (AI/health/energy/agriculture), not space-dedicated, but verified spacetech investment in Wyvern. Size ranges from $5M starting to $50M target per differing reports.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "ca-garage-capital",
+    "name": { "en": "Garage Capital" },
+    "aka": ["Garage VC"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Waterloo",
+    "offices": [{ "country": "Canada", "city": "Waterloo" }],
+    "website": "https://www.garage.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/garage-capital",
+      "other": ["https://www.bdc.ca/en/bdc-capital/venture-capital/portfolio/garage-capital", "https://www.theglobeandmail.com/business/article-bdc-defence-funding-irreversible-inc-canada-rocket-company/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "Garage Capital (VCCI-supported fund)", "vintage_year": null, "size": { "raw": "$50M from federal VCCI, matched 1:1 with private money", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "deals typically in the $1-5 million range", "usd_min": 1000000, "usd_max": 5000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "North America"],
+      "sector_focus": ["spacetech", "saas-enterprise", "deeptech", "ai-ml", "hardware-semiconductor"],
+      "thesis": "A Waterloo-based early-stage fund run by Waterloo Engineering operators who have built, scaled and sold venture-backed companies. Primarily enterprise software but with hardware, aerospace and defence exposure — backed Toronto-based Canada Rocket Company (alongside BDC) and holds space/aerospace portfolio companies such as GRU Space."
+    },
+    "track_record": {
+      "portfolio_count": "233 investments",
+      "notable_investments": [
+        { "company": "Canada Rocket Company", "sector": "spacetech", "outcome": "active" },
+        { "company": "GRU Space", "sector": "spacetech", "outcome": "active" }
+      ],
+      "co_investors": ["BDC Capital"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Contact via garage.vc",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.garage.vc/"
+    },
+    "tags": ["seed", "spacetech", "deeptech", "waterloo", "canada-rocket-company"],
+    "summary": {
+      "en": "Waterloo early-stage VC (founded 2013, run by Waterloo Engineering operators) with 233 investments and typical $1-5M deals, supported by a $50M federal VCCI commitment. Mainly enterprise software but with verified aerospace/space exposure — an early backer of Toronto's Canada Rocket Company and holder of space companies such as GRU Space."
+    },
+    "sources": [
+      {
+        "url": "https://www.theglobeandmail.com/business/article-bdc-defence-funding-irreversible-inc-canada-rocket-company/",
+        "title": "BDC targets rockets, semiconductors as first investments under new defence strategy",
+        "publisher": "The Globe and Mail",
+        "accessed": "2026-06-03",
+        "supports": "Garage Capital backed Canada Rocket Company alongside BDC",
+        "quote": "Garage Capital is identified as a Canadian venture capital fund supporting aerospace companies, having backed Canada Rocket Company alongside BDC."
+      },
+      {
+        "url": "https://pitchbook.com/profiles/investor/460044-37",
+        "title": "Garage Capital investment portfolio",
+        "publisher": "PitchBook",
+        "accessed": "2026-06-03",
+        "supports": "233 investments, Waterloo base, 2013 founding, Aerospace and Defense portfolio (GRU Space)",
+        "quote": "Garage Capital has made 233 investments ... within the Hardware, Commercial Services, and Aerospace and Defense industries."
+      },
+      {
+        "url": "https://communitech.ca/technews/garage-capital-taps-50-million-federal-fund-for-vcs.html",
+        "title": "Garage Capital taps $50 million federal fund for VCs",
+        "publisher": "Communitech",
+        "accessed": "2026-06-03",
+        "supports": "$50M VCCI commitment matched 1:1",
+        "quote": "Garage Capital received $50 million from a federal fund (VCCI application), with a condition that it had to be matched on a 1:1 basis with private money."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Generalist/enterprise seed VC, not space-dedicated, but included for verified aerospace/space portfolio (Canada Rocket Company, GRU Space). Portfolio count from PitchBook.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "ca-deep-tech-canada",
+    "name": { "en": "Deep Tech Canada" },
+    "aka": ["DTC"],
+    "type": "government-program",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "offices": [{ "country": "Canada", "city": "Toronto" }],
+    "website": "https://deeptechcanada.ca/",
+    "links": {
+      "other": ["https://deeptechcanada.ca/news/defence/", "https://www.venturelab.ca/partners/deep-tech-canada-dtc"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "geo_focus": ["Canada", "Global"],
+      "sector_focus": ["deeptech", "spacetech", "cybersecurity", "ai-ml", "robotics"],
+      "thesis": "A national nonprofit accelerating the commercialization and global growth of Canadian deep tech, connecting companies to international markets, capital and strategic opportunities, with a significant focus on defence and space — linking government funders, defence-tech investors and companies scaling for defence markets."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": "0",
+      "investment": { "raw": "non-equity; facilitates trade missions, ecosystem coordination and investor connections; ~$670M in facilitated economic impact", "usd": null, "currency": "CAD" },
+      "format": "hybrid",
+      "location": "Canada (national)",
+      "demo_day": null,
+      "perks": ["trade missions (with travel-cost support)", "global collaborations", "investor and capital connections", "defence-market scaling support"],
+      "application_url": "https://deeptechcanada.ca/",
+      "application_cycles": ["rolling / program-based"],
+      "acceptance_rate": null,
+      "eligibility": "Canadian deep-tech companies, including defence and space ventures"
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [], "co_investors": [] },
+    "people": [],
+    "application": {
+      "how_to_apply": "Engage via deeptechcanada.ca",
+      "accepts_cold_inbound": true,
+      "contact": "https://deeptechcanada.ca/"
+    },
+    "tags": ["deeptech", "defence", "spacetech", "nonprofit", "ecosystem", "investor-connector"],
+    "summary": {
+      "en": "National nonprofit accelerating commercialization and global growth of Canadian deep tech, with a strong defence and space focus. It connects companies to capital, defence-tech investors and international markets via trade missions and ecosystem coordination, reporting over $670M in facilitated economic impact."
+    },
+    "sources": [
+      {
+        "url": "https://deeptechcanada.ca/",
+        "title": "Deep Tech Canada — Accelerating Canadian Deep Tech to Global Scale",
+        "publisher": "Deep Tech Canada",
+        "accessed": "2026-06-03",
+        "supports": "national nonprofit, deep-tech commercialization, $670M facilitated impact, capital connections",
+        "quote": "Deep Tech Canada is a national nonprofit accelerating the commercialization and global growth of Canadian deep tech ... facilitated over $670M in economic impact."
+      },
+      {
+        "url": "https://deeptechcanada.ca/news/defence/",
+        "title": "Defence — Deep Tech Canada",
+        "publisher": "Deep Tech Canada",
+        "accessed": "2026-06-03",
+        "supports": "defence focus, connecting investors and companies for defence markets",
+        "quote": "Deep Tech Canada connects investment to impact whether you're a government agency funding national priorities, an investor seeking defence-tech opportunities, or a company ready to scale your solutions for defence markets."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Ecosystem connector / accelerator-style nonprofit rather than a capital allocator; included as a defence/space investor-connector. Not a direct-investment fund. Founding year not stated.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  }
+]

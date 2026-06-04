@@ -1,0 +1,580 @@
+[
+  {
+    "id": "kr-a-ventures",
+    "name": { "en": "A Ventures", "local": "에이벤처스" },
+    "aka": ["Aven", "에이벤처스 주식회사"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://aven.vc/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/aventures", "https://aven.vc/team", "https://www.facebook.com/avenvc/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "deeptech", "generalist"],
+      "thesis": "Technology-focused early-stage VC backing startups from inception through IPO. Notably led the Pre-A and Series A rounds of MLOps/AI-infrastructure startup VESSL AI; its team blends venture veterans with CPAs, patent attorneys, doctors and lawyers."
+    },
+    "track_record": {
+      "portfolio_count": 45,
+      "notable_investments": [
+        { "company": "VESSL AI (베슬에이아이)", "sector": "MLOps / AI infrastructure", "outcome": "active" },
+        { "company": "Wadiz (와디즈)", "sector": "crowdfunding platform", "outcome": "active" }
+      ],
+      "co_investors": ["Ubiquoss Investment", "Sirius Investment", "SJ Investment Partners", "Wooshin Venture Investment", "Shinhan Venture Investment", "Mirae Asset Securities"]
+    },
+    "people": [
+      { "name": "Cho Chang-rae (조창래)", "role": "CEO / Representative Director" },
+      { "name": "Kim Tae-gyu (김태규)", "role": "Executive Vice President" }
+    ],
+    "team_size": null,
+    "application": { "how_to_apply": "Inbound via website / referral", "accepts_cold_inbound": null },
+    "tags": ["early-stage", "ai-infrastructure", "mlops", "deeptech", "developer-tools"],
+    "summary": {
+      "en": "Seoul early-stage tech VC (founded 2018) that led MLOps/AI-infrastructure startup VESSL AI's Pre-A and Series A. Reported 45 portfolio companies on THE VC; invests across the lifecycle from early stage to scale-up.",
+      "local": "2018년 설립된 서울 소재 기술 중심 초기 VC. AI 인프라(ML옵스) 스타트업 베슬에이아이의 프리A·시리즈A를 주관. 더브이씨 기준 포트폴리오 45개사."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/aventures",
+        "title": "에이벤처스(투자조합) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founding year, HQ, CEO, portfolio count, stages",
+        "quote": "에이벤처스(A Ventures)는 2018년 8월에 설립된 한국계·벤처캐피탈입니다 ... 현재 대표자는 조창래입니다 ... 투자한 45개의 포트폴리오 기업"
+      },
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=164008",
+        "title": "베슬AI, 시리즈A 158억 투자 유치...누적 투자 220억 달해",
+        "publisher": "AI Times",
+        "accessed": "2026-06-03",
+        "supports": "A Ventures led VESSL AI Pre-A and Series A; co-investors",
+        "quote": "투자에는 에이벤처스를 비롯해 유비쿼스 인베스트먼트, 미래에셋증권, 시리우스인베스트먼트, 에스제이투자파트너스, 우신벤처투자, 신한벤처투자가 참여 ... 주관사인 에이벤처스는 프리 A 라운드에 이어 후속 투자사로 참여"
+      },
+      {
+        "url": "https://aven.vc/",
+        "title": "에이벤처스 | A Ventures",
+        "publisher": "A Ventures",
+        "accessed": "2026-06-03",
+        "supports": "HQ, early-stage technology focus, leadership",
+        "quote": "기술중심의 창업초기기업 ... 조창래 대표이사 ... 서울특별시 강남구 삼성로 86길7, 7층"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Not a dedicated dev-tools fund, but a clear AI-infrastructure/deeptech-leaning early-stage VC and lead of VESSL AI (MLOps). AUM and check size not disclosed (null).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "kr-sirius-investment",
+    "name": { "en": "Sirius Investment", "local": "시리우스인베스트먼트" },
+    "aka": ["Sirius Inv", "시리우스"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://www.siriusinv.com/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://pitchbook.com/profiles/investor/509041-54", "https://platum.kr/archives/218244"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "deeptech", "robotics"],
+      "thesis": "New-technology finance company (신기술사업금융전문회사) established by machine-tool group Hwacheon; invests in B2B, software, big data and robotics companies in the US and South Korea, and accelerates Korean deeptech startups expanding to Silicon Valley."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "VESSL AI (베슬에이아이)", "sector": "MLOps / AI infrastructure", "outcome": "active" },
+        { "company": "Landing AI", "sector": "AI / computer vision (US)", "outcome": "active" }
+      ],
+      "co_investors": ["A Ventures", "Ubiquoss Investment", "SJ Investment Partners", "Wooshin Venture Investment"]
+    },
+    "people": [
+      { "name": "Kim Ki-tae (김기태)", "role": "CEO / Representative" }
+    ],
+    "team_size": null,
+    "application": { "how_to_apply": "Inbound / referral", "accepts_cold_inbound": null },
+    "tags": ["cvc", "b2b-software", "big-data", "robotics", "ai-infrastructure", "us-korea"],
+    "summary": {
+      "en": "Corporate VC (new-tech finance company) set up by machine-tool maker Hwacheon, registered with Korea's FSS in Nov 2021. Invests in B2B software, big data and robotics across the US and Korea; backed VESSL AI (MLOps) and Andrew Ng's Landing AI.",
+      "local": "공작기계 전문기업 화천이 설립한 신기술사업금융전문회사. 2021년 11월 금감원 등록. B2B·소프트웨어·빅데이터·로보틱스에 미국·한국에서 투자하며, 베슬에이아이·랜딩AI에 투자."
+    },
+    "sources": [
+      {
+        "url": "https://platum.kr/archives/218244",
+        "title": "시리우스인베스트먼트, 실리콘밸리 AI 스타트업 '랜딩AI'에 투자",
+        "publisher": "Platum",
+        "accessed": "2026-06-03",
+        "supports": "parent company Hwacheon, FSS registration date, CEO background, Landing AI investment, US deeptech strategy",
+        "quote": "시리우스인베스트먼트는 공작기계 전문기업 화천에서 설립한 신기술사업금융전문회사로 2021년 11월 금융감독원에 등록 ... 바클레이즈, 삼성증권 및 SK 증권에서 근무했던 금융전문가 김기태 대표가 이끌고 있다 ... 앤드류 응 ... '랜딩 AI(Landing AI)'에 신규 투자"
+      },
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=164008",
+        "title": "베슬AI, 시리즈A 158억 투자 유치...누적 투자 220억 달해",
+        "publisher": "AI Times",
+        "accessed": "2026-06-03",
+        "supports": "Sirius participation in VESSL AI (MLOps) Series A",
+        "quote": "투자에는 에이벤처스를 비롯해 ... 시리우스인베스트먼트 ... 가 참여"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Sector focus (B2B/software/big data/robotics, US+Korea) from secondary sources (PitchBook descriptor + Platum). Official site siriusinv.com returned TLS cert errors on fetch. AUM/fund sizes not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "kr-ubiquoss-investment",
+    "name": { "en": "Ubiquoss Investment", "local": "유비쿼스인베스트먼트" },
+    "aka": ["ubiQuoss Investment", "유비쿼스인베스트먼트(사모투자조합)"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://www.ubinv.com/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/ubiquossinvestment", "https://www.cbinsights.com/investor/ubiquoss-investment"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "ai-ml", "saas-enterprise"],
+      "thesis": "Investment arm of network-equipment maker Ubiquoss Holdings; invests in SMEs and ventures with core technical competitiveness from early to growth stage, with an ICT/network/infrastructure tilt. Backed AI-infrastructure (MLOps) startup VESSL AI."
+    },
+    "track_record": {
+      "portfolio_count": 26,
+      "notable_investments": [
+        { "company": "VESSL AI (베슬에이아이)", "sector": "MLOps / AI infrastructure", "outcome": "active" }
+      ],
+      "co_investors": ["A Ventures", "Sirius Investment", "SJ Investment Partners", "Wooshin Venture Investment", "Shinhan Venture Investment"]
+    },
+    "people": [],
+    "team_size": null,
+    "application": { "how_to_apply": "Inbound / referral", "accepts_cold_inbound": null },
+    "tags": ["cvc", "ict", "network-infrastructure", "ai-infrastructure", "deeptech"],
+    "summary": {
+      "en": "Corporate VC arm of Korean network-equipment firm Ubiquoss, established March 2014. Invests in technically differentiated SMEs/ventures; THE VC lists 26 portfolio companies. Participated in AI-infra/MLOps startup VESSL AI's Series A.",
+      "local": "네트워크 장비기업 유비쿼스의 CVC. 2014년 3월 설립. 핵심 기술 경쟁력을 가진 중소·벤처에 초기~성장기 투자. 더브이씨 기준 포트폴리오 26개사. AI 인프라(ML옵스) 스타트업 베슬에이아이 시리즈A 참여."
+    },
+    "sources": [
+      {
+        "url": "https://www.cbinsights.com/investor/ubiquoss-investment",
+        "title": "ubiQuoss Investment Portfolio, Funds, Exits",
+        "publisher": "CB Insights",
+        "accessed": "2026-06-03",
+        "supports": "founding year, parent company, portfolio count, strategy",
+        "quote": "Ubiquoss Investment is a Korean venture capital firm established in March 2014 ... the venture capital arm of Ubiquoss Holdings ... 26 portfolio companies"
+      },
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=164008",
+        "title": "베슬AI, 시리즈A 158억 투자 유치...누적 투자 220억 달해",
+        "publisher": "AI Times",
+        "accessed": "2026-06-03",
+        "supports": "Ubiquoss participation in VESSL AI (MLOps) Series A",
+        "quote": "투자에는 에이벤처스를 비롯해 유비쿼스 인베스트먼트 ... 가 참여"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Sector tilt inferred from parent (network/ICT) and VESSL AI participation. Official site ubinv.com returned a self-signed-certificate error on fetch. AUM/fund sizes not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "kr-sj-investment-partners",
+    "name": { "en": "SJ Investment Partners", "local": "에스제이투자파트너스" },
+    "aka": ["SJ Investment Partners", "에스제이투자파트너스(주)"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.sjinvest.co.kr/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/sjinvestmentpartners", "https://pitchbook.com/profiles/investor/431671-42"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "biotech", "deeptech"],
+      "thesis": "Early-stage VC investing in ICT, biotech, materials/parts/equipment and tourism, with a notable cluster of business/productivity software deals; backs challenging, innovative early-stage companies and supports them with value-up programs. Participated in MLOps startup VESSL AI."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "VESSL AI (베슬에이아이)", "sector": "MLOps / AI infrastructure", "outcome": "active" }
+      ],
+      "co_investors": ["A Ventures", "Ubiquoss Investment", "Sirius Investment", "Wooshin Venture Investment", "Shinhan Venture Investment"]
+    },
+    "people": [],
+    "team_size": null,
+    "application": { "how_to_apply": "Inbound / referral; contact sjinvest12@gmail.com", "accepts_cold_inbound": null, "contact": "sjinvest12@gmail.com" },
+    "tags": ["ict", "enterprise-software", "ai-infrastructure", "early-stage"],
+    "summary": {
+      "en": "Seoul VC established August 2010 investing in ICT/software, biotech and materials; has a meaningful set of business/productivity software investments and ~181 total deals (PitchBook). Participated in AI-infra/MLOps startup VESSL AI's Series A.",
+      "local": "2010년 8월 설립된 서울 소재 VC. ICT·소프트웨어·바이오·소재부품장비 등에 투자하며 업무·생산성 소프트웨어 포트폴리오 보유. AI 인프라(ML옵스) 스타트업 베슬에이아이 시리즈A 참여."
+    },
+    "sources": [
+      {
+        "url": "https://pitchbook.com/profiles/investor/431671-42",
+        "title": "SJ Investment Partners investment portfolio",
+        "publisher": "PitchBook",
+        "accessed": "2026-06-03",
+        "supports": "founding year, sector focus, software deals, deal count",
+        "quote": "SJ Investment Partners ... established in August 2010 ... prefers to invest in companies operating in information and communication technology, biotechnology, materials parts equipment, and tourism sectors ... has made 181 investments ... companies like Eleven O'Clock ... within the Business/Productivity Software industry"
+      },
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=164008",
+        "title": "베슬AI, 시리즈A 158억 투자 유치...누적 투자 220억 달해",
+        "publisher": "AI Times",
+        "accessed": "2026-06-03",
+        "supports": "SJ participation in VESSL AI (MLOps) Series A",
+        "quote": "투자에는 에이벤처스를 비롯해 ... 에스제이투자파트너스 ... 가 참여"
+      },
+      {
+        "url": "https://www.sjinvest.co.kr/",
+        "title": "HOME | 에스제이투자파트너스",
+        "publisher": "SJ Investment Partners",
+        "accessed": "2026-06-03",
+        "supports": "HQ, early-stage focus, contact",
+        "quote": "We invest in innovation, passion and people with devotion ... Samsung Building, 11th Floor, 7 Samseong-ro 86-gil, Gangnam-gu, Seoul"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Generalist VC with strong ICT/enterprise-software tilt rather than a pure dev-tools fund; included for its software/AI-infra activity (VESSL AI). Deal count 181 per PitchBook; AUM not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "kr-wooshin-venture-investment",
+    "name": { "en": "Wooshin Venture Investment", "local": "우신벤처투자" },
+    "aka": ["Woosin Venture Investment", "우신벤처투자(주)"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 1986,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://www.wooshinvc.com/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/wooshinventureinvestment", "https://www.nextunicorn.kr/investment-company/018f950051da7d23"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["biotech", "healthtech", "ai-ml", "saas-enterprise"],
+      "thesis": "Long-established Korean VC (subsidiary of Asea Cement) backing early- and growth-stage SMEs/ventures; historically bio-healthcare-heavy but increasingly active in AI-infrastructure, having co-invested in MLOps startup VESSL AI's Series A."
+    },
+    "track_record": {
+      "portfolio_count": 30,
+      "notable_investments": [
+        { "company": "VESSL AI (베슬에이아이)", "sector": "MLOps / AI infrastructure", "outcome": "active" }
+      ],
+      "co_investors": ["A Ventures", "Ubiquoss Investment", "Sirius Investment", "SJ Investment Partners", "Shinhan Venture Investment"]
+    },
+    "people": [],
+    "team_size": null,
+    "application": { "how_to_apply": "Inbound / referral", "accepts_cold_inbound": null },
+    "tags": ["bio-healthcare", "ai-infrastructure", "growth", "legacy-vc"],
+    "summary": {
+      "en": "Veteran Korean VC founded November 1986, a subsidiary of Asea Cement. Historically concentrated in bio-healthcare but participated in AI-infra/MLOps startup VESSL AI's Series A; THE VC lists 30 portfolio companies.",
+      "local": "1986년 11월 설립된 한국의 오래된 VC로 아세아시멘트 계열. 바이오헬스케어 투자 비중이 높았으나 AI 인프라(ML옵스) 스타트업 베슬에이아이 시리즈A에 공동 투자. 더브이씨 기준 포트폴리오 30개사."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/wooshinventureinvestment",
+        "title": "우신벤처투자(투자조합) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founding date, parent, portfolio count, sector tilt",
+        "quote": "Wooshin Venture Investment ... established in November 1986 ... subsidiary of Asea Cement (아세아시멘트) ... concentrated many investments in 'bio healthcare' startups ... 30 portfolio companies"
+      },
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=164008",
+        "title": "베슬AI, 시리즈A 158억 투자 유치...누적 투자 220억 달해",
+        "publisher": "AI Times",
+        "accessed": "2026-06-03",
+        "supports": "Wooshin participation in VESSL AI (MLOps) Series A",
+        "quote": "투자에는 에이벤처스를 비롯해 ... 우신벤처투자 ... 가 참여"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Primarily a bio-healthcare-tilted legacy generalist VC; included for its AI-infrastructure activity (VESSL AI) rather than a dedicated dev-tools thesis. AUM/check size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "kr-k2-investment-partners",
+    "name": { "en": "K2 Investment Partners", "local": "케이투인베스트먼트파트너스" },
+    "aka": ["K2 Investment", "K2인베스트먼트", "케이투인베스트먼트파트너스(유)"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://k2investment.co.kr/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/k2investmentpartners", "https://www.cbinsights.com/investor/k2-investment-partners", "https://ko.wikipedia.org/wiki/K2%EC%9D%B8%EB%B2%A0%EC%8A%A4%ED%8A%B8%EB%A8%BC%ED%8A%B8"]
+    },
+    "capital": {
+      "aum": { "raw": "KRW 8 billion (THE VC figure)", "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "hardware-semiconductor", "biotech", "deeptech"],
+      "thesis": "Growth-stage Korean VC investing across electronics, software, chemicals, biotech and medical devices; active in AI-infrastructure / dev-platform deals, having co-invested in Lablup (Backend.AI GPU/AI-orchestration platform)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Lablup (래블업 / Backend.AI)", "sector": "AI infrastructure / GPU orchestration", "outcome": "active" }
+      ],
+      "co_investors": ["LB Investment", "IBK Industrial Bank", "Daesung Private Equity"]
+    },
+    "people": [],
+    "team_size": null,
+    "application": { "how_to_apply": "Inbound / referral", "accepts_cold_inbound": null },
+    "tags": ["electronics", "software", "ai-infrastructure", "growth", "developer-tools"],
+    "summary": {
+      "en": "Seoul growth-stage VC founded July 2011 investing in electronics, software, chemicals, biotech and medical devices. Co-invested in Lablup's KRW 10.5bn Series A — Lablup builds Backend.AI, a GPU/AI-semiconductor orchestration and MLOps platform for developers.",
+      "local": "2011년 7월 설립된 서울 소재 성장기 VC. 전자·소프트웨어·화학·바이오·의료기기에 투자. AI 인프라 개발 플랫폼 'Backend.AI'를 만드는 래블업의 105억원 시리즈A에 공동 투자."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/k2investmentpartners",
+        "title": "케이투인베스트먼트파트너스(투자조합) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founding year, sector focus, AUM, deal/exit counts",
+        "quote": "K2 Investment Partners ... established in July 2011 ... invests in the electronics, software, chemicals, biotechnology, and medical devices sectors ... total assets under management (AUM) of 8 billion won ... made 73 investments"
+      },
+      {
+        "url": "https://zdnet.co.kr/view/?no=20230420111833",
+        "title": "AI 개발 플랫폼 기업 래블업, 105억원 규모 투자 유치",
+        "publisher": "ZDNet Korea",
+        "accessed": "2026-06-03",
+        "supports": "K2 co-investment in Lablup (Backend.AI) Series A and round size",
+        "quote": "105억원 규모의 시리즈A 투자 ... LB인베스트먼트, IBK기업은행, K2인베스트먼트파트너스, 대성창업투자가 참여"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Multi-sector VC with electronics/software focus; included for Lablup (AI-infra/dev-platform) deal. THE VC's KRW 8bn AUM figure looks low for 73 deals and may reflect a single vehicle rather than total managed capital — treat as the reported figure only.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "kr-daesung-private-equity",
+    "name": { "en": "Daesung Private Equity", "local": "대성창업투자" },
+    "aka": ["Daesung Venture Capital", "대성창업투자(주)", "Daesung PE"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 1987,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://www.daesungpe.com/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/daesungprivateequity", "https://thevc.kr/daesungventurecapital/portfolios", "https://ko.wikipedia.org/wiki/%EB%8C%80%EC%84%B1%EC%B0%BD%EC%97%85%ED%88%AC%EC%9E%90"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Smart CJ-Daesung Metaverse Investment Combination (with CJ ENM)", "vintage_year": null, "size": { "raw": "KRW 15 billion", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["ai-ml", "hardware-semiconductor", "saas-enterprise", "gaming", "deeptech"],
+      "thesis": "One of Korea's oldest VCs (Daesung Group, est. 1987), investing across ICT, beauty, games and content. Active in AI/data-infrastructure hardware, having backed CXL/AI-infra fabless Panmnesia and AI-infra dev-platform Lablup (Backend.AI)."
+    },
+    "track_record": {
+      "portfolio_count": 83,
+      "notable_investments": [
+        { "company": "Lablup (래블업 / Backend.AI)", "sector": "AI infrastructure / GPU orchestration", "outcome": "active" },
+        { "company": "Panmnesia (파네시아)", "sector": "CXL / AI-infrastructure semiconductor", "outcome": "active" }
+      ],
+      "co_investors": ["LB Investment", "IBK Industrial Bank", "K2 Investment Partners", "CJ ENM"]
+    },
+    "people": [],
+    "team_size": null,
+    "application": { "how_to_apply": "Inbound / referral", "accepts_cold_inbound": null },
+    "tags": ["legacy-vc", "ict", "ai-infrastructure", "semiconductor", "developer-tools"],
+    "summary": {
+      "en": "Veteran Korean VC (Daesung Group) founded August 1987, with 83 portfolio companies on THE VC. Invests across ICT, games and content; notably backed AI/data-infra players Lablup (Backend.AI dev platform) and CXL semiconductor startup Panmnesia.",
+      "local": "1987년 8월 설립된 대성그룹 계열의 오래된 VC. 더브이씨 기준 포트폴리오 83개사. ICT·게임·콘텐츠에 투자하며, AI 인프라 개발 플랫폼 래블업(Backend.AI)과 CXL 반도체 스타트업 파네시아에 투자."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/daesungventurecapital/portfolios",
+        "title": "대성창업투자 - 투자 포트폴리오 기업 83개사",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founding year, parent group, sector focus, portfolio count, Panmnesia, CJ ENM fund",
+        "quote": "Daesung Private Equity was established in August 1987 ... part of the Daesung Group ... invests in ... ICT, beauty, and games ... invested in 83 portfolio companies ... recent investments in companies like Panmnesia (AI infrastructure) ... CJ ENM formed a 15 billion won 'Smart CJ-Daesung Metaverse Investment Combination'"
+      },
+      {
+        "url": "https://zdnet.co.kr/view/?no=20230420111833",
+        "title": "AI 개발 플랫폼 기업 래블업, 105억원 규모 투자 유치",
+        "publisher": "ZDNet Korea",
+        "accessed": "2026-06-03",
+        "supports": "Daesung co-investment in Lablup (Backend.AI) Series A",
+        "quote": "105억원 규모의 시리즈A 투자 ... LB인베스트먼트, IBK기업은행, K2인베스트먼트파트너스, 대성창업투자가 참여"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Multi-sector legacy VC; included for clear AI/data-infrastructure activity (Lablup, Panmnesia). Total AUM not disclosed; only the KRW 15bn CJ-ENM metaverse vehicle is sized.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "kr-channel-ventures",
+    "name": { "en": "Channel Ventures", "local": "채널벤처스" },
+    "aka": ["Channel Talk Ventures", "Channel Corporation 채널벤처스"],
+    "type": "accelerator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://channel.io/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://platum.kr/archives/203166", "https://www.datanet.co.kr/news/articleView.html?idxno=181463", "https://wowtale.net/2023/03/06/53853/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["saas-enterprise"],
+      "thesis": "Venture/accelerator arm launched by Channel Corporation (maker of the all-in-one business messenger Channel Talk) to back and accelerate early-stage B2B SaaS startups (Series A and below) with capital plus SaaS playbooks, PMF and go-to-market expertise."
+    },
+    "program": {
+      "length_weeks": 4,
+      "cohort_size": "~10",
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "format": "hybrid",
+      "location": "Seoul",
+      "demo_day": null,
+      "perks": ["SaaS playbook (KPIs, sales process, team building)", "mentoring", "market/competitor analysis", "fundraising prep", "Storm Ventures mentoring via AWS ASAP"],
+      "application_url": "https://channel.io/",
+      "application_cycles": ["program ran Mar 24 – Apr 28 2023 (initial AWS ASAP cohort)"],
+      "eligibility": "Early-stage B2B SaaS startups, Series A or below"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": ["AWS (SaaS Accelerator Program / ASAP)", "Storm Ventures (mentor)"]
+    },
+    "people": [
+      { "name": "Choi Si-won (최시원)", "role": "Co-CEO, Channel Corporation" },
+      { "name": "Kim Jae-hong (김재홍)", "role": "Co-CEO, Channel Corporation" },
+      { "name": "Lee Kyung-hoon (이경훈)", "role": "Lead, Channel Ventures" }
+    ],
+    "team_size": null,
+    "application": { "how_to_apply": "Apply via Channel Corporation / program cycles", "accepts_cold_inbound": true },
+    "tags": ["b2b-saas", "accelerator", "cvc", "developer-tools", "enterprise-software"],
+    "summary": {
+      "en": "Accelerator/venture arm launched March 2023 by Channel Corporation (Channel Talk) to grow early-stage B2B SaaS startups. Provides capital, SaaS playbooks and GTM support; ran a 4-week program (~10 startups) tied to AWS's SaaS Accelerator Program (ASAP) with Storm Ventures mentoring.",
+      "local": "채널톡 운영사 채널코퍼레이션이 2023년 3월 설립한 액셀러레이팅/벤처 조직. 시리즈A 이하 초기 B2B SaaS 스타트업에 자본·SaaS 플레이북·GTM 노하우 지원. AWS SaaS 액셀러레이터(ASAP)와 연계해 4주 프로그램으로 약 10곳 선정, 스톰벤처스 멘토링 제공."
+    },
+    "sources": [
+      {
+        "url": "https://www.datanet.co.kr/news/articleView.html?idxno=181463",
+        "title": "채널코퍼레이션, '채널벤처스' 설립…B2B SaaS 초기 스타트업 지원",
+        "publisher": "Datanet",
+        "accessed": "2026-06-03",
+        "supports": "launch date, parent, B2B SaaS focus, AWS ASAP, cohort size, program length, leadership",
+        "quote": "채널코퍼레이션 ... 2023년 3월 ... '채널벤처스' ... 초기 단계의 B2B SaaS 스타트업 ... 시리즈 A 이하의 SaaS 스타트업 10여 곳을 선정 ... AWS SaaS 액셀러레이터 프로그램(ASAP) ... 스톰벤처스 ... 이경훈"
+      },
+      {
+        "url": "https://platum.kr/archives/203166",
+        "title": "채널코퍼레이션, '채널벤처스' 설립…B2B SaaS 초기 스타트업 액셀러레이팅 나선다",
+        "publisher": "Platum",
+        "accessed": "2026-06-03",
+        "supports": "co-CEOs, capital + SaaS playbook + PMF/GTM support, B2B SaaS focus",
+        "quote": "채널코퍼레이션(공동대표 최시원·김재홍)은 초기 SaaS 스타트업이 더 건강하고 빠르게 성장할 수 있도록 ... 자본 투자, SaaS 플레이북, PMF ... GTM 노하우 전수"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "A corporate venture/accelerator program rather than an independent fund; classified accelerator with cvc subtype. Investment amounts and ongoing batch cadence not disclosed (null); 4-week length and ~10-startup cohort are specific to the 2023 AWS ASAP cohort.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  }
+]
