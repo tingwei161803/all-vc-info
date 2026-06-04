@@ -1,0 +1,745 @@
+[
+  {
+    "id": "sea-wv-fund",
+    "name": { "en": "WV Fund (iSeed SEA / WV Fund II)" },
+    "aka": ["WV Fund II", "iSeed SEA", "Wing Vasiksiri Fund"],
+    "type": "micro-vc",
+    "subtypes": ["angel-syndicate"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.wingvasiksiri.com",
+    "links": {
+      "other": ["https://www.wingvasiksiri.com/post/wv-fund-ii"]
+    },
+    "capital": {
+      "aum": { "raw": "$14M (across iSeed SEA + WV Fund II)", "usd": 14000000, "currency": "USD" },
+      "funds": [
+        { "name": "WV Fund II", "vintage_year": 2023, "size": { "raw": null, "usd": null, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$100,000–$500,000", "usd_min": 100000, "usd_max": 500000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Southeast Asia"],
+      "sector_focus": ["generalist"],
+      "thesis": "Solo-GP seed fund closing the gap between Southeast Asia and Silicon Valley; backs founders at the earliest stages and connects them to a US-heavy LP/operator network, enabling decisions within days."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Dat Bike", "sector": "mobility", "outcome": "active" },
+        { "company": "Skuad", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Upmesh", "sector": "ecommerce", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Wing Vasiksiri", "role": "Solo General Partner / Founder" }
+    ],
+    "team_size": 1,
+    "application": {
+      "how_to_apply": "Direct outreach to Wing Vasiksiri; solo decision-maker.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["solo-gp", "emerging-manager", "seed", "us-sea-bridge"],
+    "summary": {
+      "en": "Solo-GP early-stage fund for Southeast Asia run by ex-AngelList investor Wing Vasiksiri. WV Fund II launched in February 2023, bringing total AUM across both funds to $14M, with checks of $100K–$500K and a thesis of bridging SEA founders to Silicon Valley LPs and operators."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2023/02/05/wing-vasiksiri/",
+        "title": "The solo GP behind iSeed SEA launches his second fund for Southeast Asia",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-03",
+        "supports": "Solo GP, WV Fund II, AUM, check size, thesis, portfolio",
+        "quote": "The second fund brings his total assets under management across both funds to $14M ... Vasiksiri typically writes checks between $100,000 to $500,000"
+      },
+      {
+        "url": "https://www.dealstreetasia.com/stories/wing-vasiksiri-launches-2nd-solo-gp-fund-for-seasia-328378",
+        "title": "Former AngelList investor Wing Vasiksiri launches 2nd solo GP fund for SE Asia",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-03",
+        "supports": "Solo GP status and 2023 launch of WV Fund II"
+      },
+      {
+        "url": "https://www.wingvasiksiri.com/post/wv-fund-ii",
+        "title": "WV Fund II",
+        "publisher": "Wing Vasiksiri (official)",
+        "accessed": "2026-06-03",
+        "supports": "2023 launch, $14M AUM, SEA focus, 40+ founders",
+        "quote": "I am now managing $14M in AUM"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "WV Fund II launched Feb 2023; iSeed SEA (2020) is the predecessor fund. AUM figure ($14M) is combined across both funds. WV Fund II individual size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "sea-a2d-ventures",
+    "name": { "en": "A2D Ventures" },
+    "aka": ["A2D"],
+    "type": "angel-syndicate",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "southeast-asia",
+    "country": "Thailand",
+    "hq_city": "Bangkok",
+    "website": "https://www.a2dventures.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/a2d-ventures",
+      "other": [
+        "https://www.facebook.com/a2dventures2023/",
+        "https://www.digfingroup.com/a2d/"
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "Low check sizes (syndicate / SPV model)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Thailand", "Singapore", "Indonesia", "Philippines", "Malaysia", "Vietnam", "India"],
+      "sector_focus": ["generalist", "fintech", "ai-ml", "robotics", "logistics", "healthtech"],
+      "thesis": "Digital angel-investing / syndicate platform ('AngelList of Asia') giving angels, family offices and VCs low-minimum access to curated early-stage SEA deals via SPVs, co-investing alongside regional and global VCs."
+    },
+    "track_record": {
+      "portfolio_count": "17+",
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Ankit Upadhyay", "role": "Co-founder & CEO" },
+      { "name": "Sivach Sornchaitanasuk", "role": "Co-founder" },
+      { "name": "Ted Thetnaungsoe", "role": "Co-founder" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via a2dventures.com; startups pitch for syndicate backing, investors join syndicate.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["syndicate", "spv-platform", "angel-network", "emerging-2023", "venture-spark-accelerator"],
+    "summary": {
+      "en": "Bangkok-based angel-investing/syndicate platform founded 2023 by Ankit Upadhyay and Thai co-founders, billed as Southeast Asia's fastest-growing angel platform. Assembled 2,000+ investors and channelled USD 20M+ into 17+ AI, robotics, fintech, EV-logistics and healthtech startups; won Investor of the Year at Thailand's PM National Startup Award 2025. Runs the Venture Spark accelerator."
+    },
+    "sources": [
+      {
+        "url": "https://www.digfingroup.com/a2d/",
+        "title": "How this Thai VC is creating a pan-Asia 'AngelList'",
+        "publisher": "Digital Finance (DigFin)",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2023 Bangkok, founders, syndicate model, 17 portfolio companies, Venture Spark accelerator",
+        "quote": "Founded in 2023 in Bangkok ... Co-founders: Ankit Upadhyay, Sivach Sornchaitanasuk, and Ted Thetnaungsoe"
+      },
+      {
+        "url": "https://www.way2world.in/a2d-ventures-bags-thailands-top-startup-award-how-one-indian-led-platform-redefined-angel-investing-in-southeast-asia",
+        "title": "A2D Ventures Bags Thailand's Top Startup Award",
+        "publisher": "WAY2WORLD",
+        "accessed": "2026-06-03",
+        "supports": "2,000+ investors, USD 20M+ deployed, sectors, PM Award 2025",
+        "quote": "A2D assembled a global community of 2,000+ investors, with over USD 20 million funneled into a portfolio spanning AI, robotics, fintech, EV logistics, healthtech and precision fermentation"
+      },
+      {
+        "url": "https://www.a2dventures.com/",
+        "title": "A2D Ventures | Angel Investing. Simplified.",
+        "publisher": "A2D Ventures (official)",
+        "accessed": "2026-06-03",
+        "supports": "Geo focus, low check sizes, syndicate model, co-invest with VCs"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "A2D itself has not raised institutional VC funding; it operates as a syndicate/SPV platform, deploying angel capital. Portfolio count of 17+ and $20M deployed are as reported in 2025.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "sea-first-move",
+    "name": { "en": "First Move" },
+    "aka": ["First Move Fund"],
+    "type": "micro-vc",
+    "status": "active",
+    "founded_year": 2023,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.crunchbase.com/organization/first-move",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/first-move"
+    },
+    "capital": {
+      "current_fund": { "raw": "~$3M–$4M (estimated)", "usd": null, "currency": "USD" },
+      "funds": [
+        { "name": "First Move Fund I", "vintage_year": 2023, "size": { "raw": "$3M–$4M (estimated)", "usd": null, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "Up to $100,000", "usd_min": null, "usd_max": 100000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Singapore", "Malaysia", "Indonesia", "Southeast Asia"],
+      "sector_focus": ["consumer", "ecommerce", "ai-ml"],
+      "thesis": "Founder-led pre-seed fund backing consumer-focused startups across Southeast Asia, partnering with second-time founders and domain experts and providing hands-on guidance, mentorship and network access."
+    },
+    "track_record": {
+      "portfolio_count": "16",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Joel Neoh", "role": "Founding Partner (ex-Fave / KFit)" },
+      { "name": "Audra Pakalnyte", "role": "Partner (ex-Fave)" }
+    ],
+    "application": {
+      "how_to_apply": "Founder-led; reach out to partners directly.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["emerging-manager", "pre-seed", "consumer", "founder-led", "khazanah-emp"],
+    "summary": {
+      "en": "Pre-seed fund launched in 2023 by former Fave executives Joel Neoh and Audra Pakalnyte to back consumer-focused startups across Southeast Asia. Estimated $3M–$4M in size, investing up to $100K per company. Selected in 2025 as an Emerging Fund Manager under Khazanah's Jelawang Capital EMP, and developing an AI co-building platform."
+    },
+    "sources": [
+      {
+        "url": "https://technode.global/2023/07/04/former-fave-execs-launches-pre-seed-fund-to-support-consumer-focused-startups-in-southeast-asia/",
+        "title": "Former Fave Execs launch pre-seed fund to support consumer-focused startups in Southeast Asia",
+        "publisher": "TNGlobal",
+        "accessed": "2026-06-03",
+        "supports": "Founders, 2023 launch, fund size, check size, sector and geo focus",
+        "quote": "estimated size of between US$3 million to US$4 million and provides pre-seed funding of up to US$100,000"
+      },
+      {
+        "url": "https://www.digitalnewsasia.com/startups/jelawang-capital-selects-first-round-emp-and-rmi-fund-managers-boost-malaysias-vc-ecosystem",
+        "title": "Jelawang Capital selects first round of EMP and RMI fund managers",
+        "publisher": "Digital News Asia",
+        "accessed": "2026-06-03",
+        "supports": "Selected as EMP emerging fund manager (2025); pre-seed across SEA; AI co-building platform",
+        "quote": "First Move – a founder-led venture capital firm backing pre-seed stage across Southeast Asia"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size ($3M–$4M) is an estimate reported in 2023 press; not officially confirmed. Portfolio count of 16 as of late 2025 per Tracxn-sourced reporting.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "sea-creative-gorilla-capital",
+    "name": { "en": "Creative Gorilla Capital" },
+    "aka": ["CGC", "Gorilla Silverback Fund"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2023,
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "hq_city": "Jakarta",
+    "website": "https://www.crunchbase.com/organization/creative-gorilla-capital",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/creative-gorilla-capital"
+    },
+    "capital": {
+      "current_fund": { "raw": "$20M", "usd": 20000000, "currency": "USD" },
+      "funds": [
+        { "name": "Gorilla Silverback Fund", "vintage_year": 2023, "size": { "raw": "$20M", "usd": 20000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Indonesia"],
+      "sector_focus": ["consumer", "ecommerce", "impact"],
+      "thesis": "Debut $20M fund backing direct-to-consumer (D2C) and consumer-focused early-stage startups in Indonesia, leveraging creative and marketing expertise (via FCN and Pomona) to help brands achieve hypergrowth; emphasis on sustainability and responsible consumerism."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Offmeat", "sector": "agritech", "outcome": "active" },
+        { "company": "Ringkas", "sector": "fintech", "outcome": "active" },
+        { "company": "Kynd", "sector": "consumer", "outcome": "active" },
+        { "company": "Allura", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to Creative Gorilla Capital directly.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["debut-fund-2023", "d2c", "consumer", "indonesia"],
+    "summary": {
+      "en": "Indonesia-focused debut VC fund launched January 2023 by Future Creative Network (FCN), Malaysia's Vynn Capital, and adtech firm Pomona. Its $20M Gorilla Silverback Fund backs D2C/consumer-focused early-stage startups (Offmeat, Ringkas, Kynd, Allura). One of only two SEA debut funds to reach final close in 2023."
+    },
+    "sources": [
+      {
+        "url": "https://www.dealstreetasia.com/stories/creative-gorilla-capital-launches-20m-debut-fund-to-back-d2c-startups-325629",
+        "title": "Creative Gorilla Capital launches $20m debut fund to back D2C startups",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-03",
+        "supports": "Founders/backers, $20M fund size, D2C/consumer focus, Jan 2023 launch, portfolio",
+        "quote": "a venture capital firm formed by Future Creative Network (FCN), Malaysia-based Vynn Capital and advertising technology company Pomona, launched a $20 million debut fund to back consumer-focused startups in Indonesia"
+      },
+      {
+        "url": "https://www.dealstreetasia.com/stories/charticle-first-time-vc-fund-managers-2023-388008",
+        "title": "Charticle: First-time VC fund managers in SE Asia had one of their toughest years in 2023",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-03",
+        "supports": "Only two debut funds reached final close in 2023; CGC was one of them ($20M)",
+        "quote": "The two maiden VC funds that closed last year were by the Indonesia-centric Creative Gorilla Capital and the corporate venture fund of aelf ... They secured $20 million and $50 million in 2023 respectively."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund name and $20M size are well documented. Specific partner/people names and per-deal check sizes not disclosed in fetched sources.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "sea-blueprint-ventures",
+    "name": { "en": "Blueprint Ventures" },
+    "aka": ["Blueprint VC", "Blueprint"],
+    "type": "micro-vc",
+    "status": "active",
+    "founded_year": 2023,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.blueprint.vc",
+    "links": {
+      "other": ["https://www.blueprint.vc/team"]
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Singapore", "Thailand", "Vietnam", "Southeast Asia"],
+      "sector_focus": ["consumer", "edtech", "healthtech", "ecommerce", "impact"],
+      "thesis": "Consumer-first regional seed fund investing in next-generation consumer and consumer-tech businesses for SEA's new economies — focused on Women and Youth (Millennials, Gen Z, Gen Alpha)."
+    },
+    "track_record": {
+      "portfolio_count": "4+",
+      "notable_investments": [
+        { "company": "AYA", "sector": "consumer", "outcome": "active" },
+        { "company": "NativeX", "sector": "edtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Huiting Koh", "role": "Founding Managing Partner", "linkedin": "https://sg.linkedin.com/in/huiting-koh" }
+    ],
+    "application": {
+      "how_to_apply": "Contact Blueprint Ventures via blueprint.vc.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["solo-female-gp", "emerging-2023", "consumer", "women-led"],
+    "summary": {
+      "en": "Singapore-based regional seed VC founded by Huiting Koh in January 2023, investing in consumer and consumer-tech businesses targeting women and youth in Southeast Asia. Began deploying in January 2024; early portfolio includes AYA (turmeric drink) and NativeX (English learning, Vietnam). Koh participated in the 2XI women-GP sprint."
+    },
+    "sources": [
+      {
+        "url": "https://www.thepeakmagazine.com.sg/people/koh-huiting-vc-blueprint-ventures-interview",
+        "title": "How Blueprint Ventures's Huiting Koh is redefining roles in VC",
+        "publisher": "The Peak Magazine Singapore",
+        "accessed": "2026-06-03",
+        "supports": "Founder, Jan 2023 founding, consumer-first thesis, women/youth focus, portfolio",
+        "quote": "Blueprint Ventures is an early-stage consumer-first VC fund started by Huiting Koh in January 2023"
+      },
+      {
+        "url": "https://impactalpha.com/in-the-asia-pacific-region-girls-just-want-to-have-funds/",
+        "title": "In the Asia-Pacific region, girls just want to have funds",
+        "publisher": "ImpactAlpha",
+        "accessed": "2026-06-03",
+        "supports": "Blueprint VC among women-GP-led SEA consumer-tech funds; 2XI GP Sprint context"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size not publicly disclosed in fetched sources. Portfolio count of ~4 as of early 2025 (Tracxn-derived). Began investing Jan 2024.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "sea-the-radical-fund",
+    "name": { "en": "The Radical Fund" },
+    "aka": ["Radical Fund"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.theradicalfund.com",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/the-radical-fund",
+      "other": ["https://e27.co/investor/the-radical-fund/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "~$40M (target)", "usd": 40000000, "currency": "USD" },
+      "funds": [
+        { "name": "The Radical Fund I", "vintage_year": 2023, "size": { "raw": "~$40M target; first close July 2023", "usd": 40000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$250,000–$800,000", "usd_min": 250000, "usd_max": 800000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Southeast Asia"],
+      "sector_focus": ["climate-energy", "impact", "agritech", "mobility"],
+      "thesis": "Early-stage climate-focused VC backing founders delivering climate resilience (adaptation and mitigation) for Southeast Asia; part of the Utopia Capital Management group."
+    },
+    "track_record": {
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Alina Truhina", "role": "Co-founder & CEO" },
+      { "name": "Roo Rogers", "role": "Co-founder" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via theradicalfund.com.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["climate", "emerging-manager", "first-close-2023", "impact"],
+    "summary": {
+      "en": "Bangkok/Singapore-based early-stage climate VC founded 2022, raising a debut ~$40M Southeast Asia fund that hit first close in July 2023. Invests $250K–$800K at pre-seed to pre-Series A in climate adaptation and mitigation founders. Backed by regional family offices (Philippines, Singapore, Thailand); part of Utopia Capital Management."
+    },
+    "sources": [
+      {
+        "url": "https://fintech.global/2023/07/10/the-radical-funds-40m-climate-tech-fund-targets-early-stage-sea-startups/",
+        "title": "The Radical Fund's $40m climate tech fund targets early-stage SEA startups",
+        "publisher": "FinTech Global",
+        "accessed": "2026-06-03",
+        "supports": "$40M fund, climate focus, July 2023 first close, check size, founders",
+        "quote": "allocates between US$250,000-US$800,000 in pre-seed, seed and pre-series A founders ... working in adaptation and mitigation solutions"
+      },
+      {
+        "url": "https://www.digitalnewsasia.com/sustainability-matters/radical-fund-secures-first-close-investments-climate-solutions-southeast-asia",
+        "title": "The Radical Fund secures first close for climate solutions in Southeast Asia",
+        "publisher": "Digital News Asia",
+        "accessed": "2026-06-03",
+        "supports": "First close, climate SEA mandate, co-founders Alina Truhina and Roo Rogers"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Firm founded 2022 but debut fund first close was July 2023, placing fundraising squarely in the 2023+ window. $40M is the target/announced size at first close, not necessarily final close.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "sea-kayella-consumer-partners",
+    "name": { "en": "Kayella Consumer Partners" },
+    "aka": ["Kayella"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "hq_city": "Jakarta",
+    "website": "https://www.kayellacp.com",
+    "links": {
+      "other": ["https://www.dealstreetasia.com/stories/melvin-hade-kayella-consumer-partners-446036"]
+    },
+    "capital": {
+      "current_fund": { "raw": "double-digit million USD (maiden fund, final close May 2025)", "usd": null, "currency": "USD" },
+      "funds": [
+        { "name": "Kayella Fund I", "vintage_year": 2025, "size": { "raw": "double-digit millions USD", "usd": null, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Indonesia", "Southeast Asia"],
+      "sector_focus": ["consumer", "ecommerce"],
+      "thesis": "Consumer- and retail-focused VC backing Indonesian and regional consumer businesses; an against-the-grain consumer thesis at a time when most SEA capital chased B2B/AI."
+    },
+    "people": [
+      { "name": "Melvin Hade", "role": "Founder & Managing Partner (ex-MD, Northstar Group)", "linkedin": "https://id.linkedin.com/in/melvinhade" }
+    ],
+    "application": {
+      "how_to_apply": "Contact Kayella Consumer Partners via kayellacp.com.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["debut-fund-2025", "consumer", "indonesia", "emerging-manager"],
+    "summary": {
+      "en": "South Jakarta-based consumer-and-retail VC founded in 2025 by former Northstar managing director Melvin Hade. Its maiden fund reached final close in May 2025 in the double-digit-million-dollar range, backed by Hade's own capital and undisclosed angels — the only debut SEA fund reported to reach final close in 2025."
+    },
+    "sources": [
+      {
+        "url": "https://www.dealstreetasia.com/stories/melvin-hade-kayella-consumer-partners-446036",
+        "title": "Ex-Northstar MD Melvin Hade launches consumer-focused investment fund",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-03",
+        "supports": "Founder, 2025 founding, consumer/retail focus, South Jakarta HQ",
+        "quote": "Founded in 2025, Kayella Consumer Partners is a venture capital firm based in South Jakarta, Indonesia. The firm seeks to invest in the consumer and retail sectors."
+      },
+      {
+        "url": "https://www.dealstreetasia.com/stories/se-asia-venture-funds-h2-2025-review-summary-473997",
+        "title": "LP pullback drives SE Asia VC fundraising to historic low",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-03",
+        "supports": "Maiden fund final close May 2025; only debut fund to reach final close in 2025",
+        "quote": "Kayella Consumer Partners announced the final close of its maiden vehicle in May 2025 in the double-digit million-dollar range"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Exact fund size disclosed only as 'double-digit million-dollar range'; left null. Backed by founder's own capital plus undisclosed angels.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "sea-kaya-founders",
+    "name": { "en": "Kaya Founders" },
+    "aka": ["Kaya"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "southeast-asia",
+    "country": "Philippines",
+    "hq_city": "Manila",
+    "website": "https://kayafounders.com",
+    "links": {
+      "other": ["https://www.dealstreetasia.com/stories/kaya-founders-latest-fund-462839"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$25M (Fund II, final close Nov 2025)", "usd": 25000000, "currency": "USD" },
+      "funds": [
+        { "name": "Kaya Founders Fund II (Zero-to-One Pre-seed + One-to-Ten Seed–Series A)", "vintage_year": 2025, "size": { "raw": "$25M (PHP ~1.47B)", "usd": 25000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Philippines", "Southeast Asia"],
+      "sector_focus": ["generalist", "consumer", "fintech"],
+      "thesis": "Operator-led early-stage VC backing Filipino and regional founders building tech-driven solutions, via a stapled two-fund structure: a 'Zero to One' pre-seed fund and a 'One to Ten' seed-to-Series-A fund."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Kumu", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Paulo Campos", "role": "Co-founder & Managing Partner (ex-CEO Zalora Philippines)" },
+      { "name": "Lisa Gokongwei-Cheng", "role": "Co-founder (CEO, Summit Media)" },
+      { "name": "Ray Alimurung", "role": "Co-founder (ex-CEO Lazada Philippines)" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via kayafounders.com.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["fund-ii-2025", "philippines", "pre-seed", "operator-led"],
+    "summary": {
+      "en": "Manila-based operator-led early-stage VC. Raised $25M (≈PHP 1.47B) for Fund II at final close in November 2025 (above an original $20M target), via a stapled Zero-to-One pre-seed plus One-to-Ten seed–Series A structure, to back 10–20 more startups across the Philippines and Southeast Asia."
+    },
+    "sources": [
+      {
+        "url": "https://www.dealstreetasia.com/stories/kaya-founders-latest-fund-462839",
+        "title": "Kaya Founders raises $25m for Fund II to back more Filipino founders",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-03",
+        "supports": "$25M Fund II, Nov 2025 close, hard cap raise, stapled structure, founders, investors",
+        "quote": "The firm initially targeted $20m for the second fund but expanded the hard cap to $25m ... follows a stapled fund structure and includes the firm's 'Zero to One' Pre-seed Fund and its 'One to Ten' Seed to Series A Fund."
+      },
+      {
+        "url": "https://www.philstar.com/business/2025/11/11/2486427/kaya-founders-raises-p147-billion-fund-back-more-filipino-founders",
+        "title": "Kaya Founders raises P1.47-billion fund to back more Filipino founders",
+        "publisher": "Philstar",
+        "accessed": "2026-06-03",
+        "supports": "PHP 1.47 billion (~$25M) Fund II for Filipino founders"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Firm itself founded 2021; included for its 2025 emerging-manager Fund II final close ($25M), one of the only SEA debut/sophomore closes of 2025. Per-deal check sizes not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "sea-vinventures",
+    "name": { "en": "VinVentures" },
+    "aka": ["VinVentures Capital Fund"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "southeast-asia",
+    "country": "Vietnam",
+    "hq_city": "Hanoi",
+    "website": "https://vinventures.vn",
+    "links": {
+      "other": ["https://technode.global/2024/10/28/vietnams-vingroup-launches-vinventures-capital-fund-with-aum-of-150m/"]
+    },
+    "capital": {
+      "aum": { "raw": "$150M", "usd": 150000000, "currency": "USD" },
+      "funds": [
+        { "name": "VinVentures Capital Fund", "vintage_year": 2024, "size": { "raw": "$150M ($100M inherited portfolio + $50M to be disbursed over 3–5 years)", "usd": 150000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Vietnam", "Singapore", "Indonesia", "Philippines"],
+      "sector_focus": ["ai-ml", "hardware-semiconductor", "deeptech"],
+      "thesis": "Vingroup's corporate venture fund backing early-stage (seed and Series A) tech startups with transformative potential, focused on AI, semiconductors and cloud computing, initially with Vietnamese founding teams; leverages Vingroup's ecosystem for product testing and market entry."
+    },
+    "track_record": {},
+    "people": [
+      { "name": "Le Han Tue Lam", "role": "Managing Director" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via VinVentures; ~2–3 month process (up to 6 months for larger deals).",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["cvc-2024", "vietnam", "ai", "semiconductors", "vingroup"],
+    "summary": {
+      "en": "Corporate venture fund launched October 28, 2024 by Vietnam's Vingroup (sponsored by Pham Nhat Vuong) with $150M AUM — $100M inherited from Vingroup's portfolio plus $50M to deploy over 3–5 years. Targets seed/Series A startups in AI, semiconductors and cloud computing, starting with Vietnamese teams and later expanding to Singapore, Indonesia and the Philippines."
+    },
+    "sources": [
+      {
+        "url": "https://technode.global/2024/10/28/vietnams-vingroup-launches-vinventures-capital-fund-with-aum-of-150m/",
+        "title": "Vietnam's Vingroup launches VinVentures capital fund with AUM of $150M",
+        "publisher": "TNGlobal",
+        "accessed": "2026-06-03",
+        "supports": "Launch date, $150M AUM, fund composition, sectors, stage, MD, geo expansion",
+        "quote": "$150 million total—comprising $100 million from an inherited Vingroup investment portfolio plus $50 million expected to be disbursed over the next three to five years ... Seed and Series A rounds"
+      },
+      {
+        "url": "https://vir.com.vn/vingroup-establishes-150-million-venture-capital-fund-116762.html",
+        "title": "Vingroup establishes $150 million venture capital fund",
+        "publisher": "Vietnam Investment Review",
+        "accessed": "2026-06-03",
+        "supports": "Vingroup $150M fund, AI/semiconductor/cloud focus, Vietnamese startups"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Launched Oct 2024. HQ city inferred as Hanoi (Vingroup HQ); website domain inferred. Portfolio companies for VinVentures itself not yet disclosed at launch.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "sea-antler-sea-fund-ii",
+    "name": { "en": "Antler (Southeast Asia Fund II)" },
+    "aka": ["Antler SEA Fund II", "Antler Southeast Asia"],
+    "type": "venture-studio",
+    "subtypes": ["accelerator", "micro-vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.antler.co",
+    "links": {
+      "other": ["https://techcrunch.com/2024/08/12/antler-closes-72m-second-sea-fund-to-ramp-up-startup-investment-in-southeast-asia/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$72M (SEA Fund II)", "usd": 72000000, "currency": "USD" },
+      "funds": [
+        { "name": "Antler SEA Fund II", "vintage_year": 2024, "size": { "raw": "$72M", "usd": 72000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Singapore", "Indonesia", "Vietnam", "Malaysia"],
+      "sector_focus": ["generalist", "ai-ml"],
+      "thesis": "Day-zero venture builder and pre-seed/seed investor backing founders from pre-launch via a residency model, then funding the strongest teams; SEA Fund II targets ~45 early-stage startups."
+    },
+    "program": {
+      "format": "in-person",
+      "location": "Singapore, Indonesia, Vietnam, Malaysia",
+      "demo_day": true,
+      "eligibility": "Early-stage founders and aspiring founders; residency-based."
+    },
+    "track_record": {},
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to an Antler residency cohort via antler.co.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["fund-ii-2024", "venture-builder", "residency", "pre-seed", "ai"],
+    "summary": {
+      "en": "Antler closed its second Southeast Asia fund at $72M in August 2024 to back startups across Singapore, Indonesia, Vietnam and Malaysia from day zero. Plans to allocate ~$27M to ~45 early-stage startups within 6–9 months via its residency model; later launched an 'AI Disrupt' residency in Singapore (2025)."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2024/08/12/antler-closes-72m-second-sea-fund-to-ramp-up-startup-investment-in-southeast-asia/",
+        "title": "Antler doubles down on Southeast Asia with $72M second startup fund",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-03",
+        "supports": "$72M SEA Fund II, Aug 2024 close, geo focus, ~45 startups, $27M allocation",
+        "quote": "closed its second Southeast Asia fund with $72 million ... will focus on the pre-launch, pre-seed, and seed money stages, with the VC planning to allocate $27 million in funding to 45 early-stage startups within six to nine months"
+      },
+      {
+        "url": "https://www.digitalnewsasia.com/startups/antler-closes-us72m-sea-fund-ii-sea-startups-day-zero-growth-stage",
+        "title": "Antler closes US$72m SEA Fund II",
+        "publisher": "Digital News Asia",
+        "accessed": "2026-06-03",
+        "supports": "$72M SEA Fund II, day-zero-to-growth strategy"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Antler globally predates 2023; entity captured here is specifically the 2024 SEA Fund II vehicle/raise. Classified as venture-studio given its day-zero builder model.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "sea-motion-ventures-fund-ii",
+    "name": { "en": "Motion Ventures (Fund II)" },
+    "aka": ["Motion Ventures Fund II", "Motion.VC"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.motion.vc",
+    "links": {
+      "other": ["https://www.motion.vc/content-hub/announcing-fund-ii"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$100M (Fund II)", "usd": 100000000, "currency": "USD" },
+      "funds": [
+        { "name": "Motion Ventures Fund II", "vintage_year": 2025, "size": { "raw": "$100M", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "$250,000–$10,000,000", "usd_min": 250000, "usd_max": 10000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Singapore", "Southeast Asia", "Global"],
+      "sector_focus": ["logistics", "deeptech", "climate-energy", "saas-enterprise"],
+      "thesis": "Maritime-tech specialist fund deploying capital into startups that digitise and decarbonise the global maritime supply chain; backed by a consortium of 17+ maritime industry corporations."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "OceanScore", "sector": "logistics", "outcome": "active" },
+        { "company": "Fernride", "sector": "robotics", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via motion.vc.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["fund-ii-2025", "maritime-tech", "corporate-consortium", "logistics"],
+    "summary": {
+      "en": "Singapore-based maritime-tech VC that launched a $100M Fund II in March 2025 — the largest maritime-focused tech fund to date — to deploy $250K–$10M into 25+ startups digitising and decarbonising the maritime supply chain, backed by a consortium of 17+ industry corporations. Fund I (2021) had two profitable exits."
+    },
+    "sources": [
+      {
+        "url": "https://www.motion.vc/content-hub/announcing-fund-ii",
+        "title": "Motion Ventures launches largest-ever maritime tech fund at $100M",
+        "publisher": "Motion Ventures (official)",
+        "accessed": "2026-06-03",
+        "supports": "$100M Fund II, March 2025, check size, 25+ companies, 17+ corporates, portfolio",
+        "quote": "Fund II aims to deploy cheques of US$250,000 to US$10,000,000 into at least 25 companies ... grows its strategic backing to more than 17 industry corporations"
+      },
+      {
+        "url": "https://technode.global/2025/03/20/singapores-motion-ventures-launches-100m-maritime-tech-fund/",
+        "title": "Singapore's Motion Ventures launches $100M maritime tech fund",
+        "publisher": "TNGlobal",
+        "accessed": "2026-06-03",
+        "supports": "$100M maritime tech Fund II, Singapore HQ, 2025"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Firm founded 2021; entity captured is the 2025 Fund II raise/vehicle. Maritime supply-chain mandate is global but Singapore-headquartered and SEA-anchored.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  }
+]

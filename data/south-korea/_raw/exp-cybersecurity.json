@@ -1,0 +1,571 @@
+[
+  {
+    "id": "kr-lf-investment",
+    "name": { "en": "LF Investment", "local": "엘에프인베스트먼트" },
+    "aka": ["LF인베스트먼트", "LFI"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.lfinvestment.co.kr/",
+    "links": {
+      "other": ["https://thevc.kr/lfinvestment", "https://dealboard.k-springboard.com/s/vc/a0F2u00000SbibwEAB"]
+    },
+    "capital": {
+      "aum": { "raw": "targeting KRW 150 billion AUM", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Cyber Security Fund (사이버보안 펀드, Co-GP with Axis Investment)", "vintage_year": 2024, "size": { "raw": "KRW 20 billion (KRW 10bn from mother fund)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["cybersecurity", "consumer", "ecommerce", "agritech"],
+      "thesis": "CVC subsidiary (100% owned) of fashion/lifestyle group LF. While its core thesis is lifestyle/consumer/platform, in 2024 it was selected (in a Co-GP consortium with security-affiliated Axis Investment) as a delegated operator of MSIT's first dedicated Cyber Security Fund, mandating ≥50% into AI/zero-trust/convergence-security startups and security-company M&A."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Aromatica (아로마티카)", "sector": "consumer", "outcome": "active" },
+        { "company": "AELUX (에이럭스)", "sector": "edtech/robotics", "outcome": "IPO" },
+        { "company": "Theraview (테라뷰)", "sector": "deeptech", "outcome": "active" }
+      ],
+      "co_investors": ["Axis Investment"]
+    },
+    "people": [
+      { "name": "Cho Dong-gun (조동건)", "role": "CEO / Representative" }
+    ],
+    "application": { "how_to_apply": "Inbound via website / referral", "accepts_cold_inbound": null, "contact": null },
+    "tags": ["cybersecurity", "cvc", "lifestyle", "k-cybersecurity-fund", "msit-fund"],
+    "summary": {
+      "en": "Venture capital subsidiary established in 2022 by fashion/lifestyle group LF. Primarily a consumer/lifestyle/platform investor, but notable for cybersecurity because in 2024 the LF Investment–Axis Investment consortium was picked as a Co-GP of MSIT's first KRW 20bn dedicated Cyber Security Fund, with KISIA partnering to source security startups.",
+      "local": "패션·라이프스타일 기업 LF가 2022년 100% 자회사로 설립한 벤처캐피탈. 소비·라이프스타일·플랫폼 중심이지만, 2024년 액시스인베스트먼트와 컨소시엄(Co-GP)으로 과기정통부 첫 '사이버보안 펀드'(200억원 규모) 위탁운용사로 선정돼 사이버보안 투자에 참여."
+    },
+    "sources": [
+      {
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=540207",
+        "title": "KISIA, 사이버보안 모태펀드 운용사 'LF인베스트먼트·액시스인베스트먼트'와 제휴",
+        "publisher": "Digital Today",
+        "accessed": "2026-06-03",
+        "supports": "Cyber Security Fund Co-GP selection, KISIA MOU, fund size",
+        "quote": "LF인베스트먼트·액시스인베스트먼트 컨소시엄은 올해 신설된 과학기술정보통신부 출자 모태펀드인 '사이버보안 펀드' 위탁운용사(GP)로 선정됐다 ... 각각 모태펀드로부터 100억원을 출자 받아 200억원 규모 펀드를 결성할 계획"
+      },
+      {
+        "url": "https://biz.heraldcorp.com/view.php?ud=20220719000315",
+        "title": "LF, 자회사 'LF인베스트먼트' 설립…혁신기술 스타트업 육성한다",
+        "publisher": "Herald Economy",
+        "accessed": "2026-06-03",
+        "supports": "founding year, parent LF, CEO Cho Dong-gun, founding capital",
+        "quote": "LF는 100% 자회사(설립자본금 110억원)로 'LF인베스트먼트'를 설립했다 ... 대표이사로는 조동건 전 디티앤인베스트먼트 부사장이 발탁"
+      },
+      {
+        "url": "https://www.etnews.com/20231109000238",
+        "title": "초격차 펀드 GP, 보안 투자 고작 1.6%…힘 실리는 '사이버보안 전용 펀드'",
+        "publisher": "Electronic Times (etnews)",
+        "accessed": "2026-06-03",
+        "supports": "context of dedicated cybersecurity fund mandate (AI, zero-trust, M&A, 50%)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM target of KRW 150bn reported by Herald; exact current AUM not officially disclosed. Cybersecurity exposure is via the Co-GP Cyber Security Fund, not a firm-wide specialism.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "kr-axis-investment",
+    "name": { "en": "Axis Investment", "local": "액시스인베스트먼트" },
+    "aka": ["액시스인베스트먼트", "Axis Investment Co., Ltd."],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://www.axisinvestment.co.kr/",
+    "links": {
+      "other": ["http://www.axisinvestment.co.kr/aboutus/overview"]
+    },
+    "capital": {
+      "aum": { "raw": "approx. KRW 184.5 billion across 18 funds", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Cyber Security Fund (사이버보안 펀드, Co-GP with LF Investment)", "vintage_year": 2024, "size": { "raw": "KRW 20 billion (KRW 10bn from mother fund)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["cybersecurity", "saas-enterprise", "deeptech", "fintech"],
+      "thesis": "New-technology-finance company and CVC of KOSDAQ-listed integrated-security firm SGA Solutions. Leverages the SGA group's accumulated IT and information-security domain expertise to invest in ICT-convergence and ICT-convergence-security startups; selected (with LF Investment) as Co-GP of MSIT's first dedicated Cyber Security Fund in 2024."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Aromatica (아로마티카)", "sector": "consumer", "outcome": "exited (cash return)" },
+        { "company": "Graphy (그래피)", "sector": "deeptech/3D printing", "outcome": "exited (cash return)" }
+      ],
+      "co_investors": ["LF Investment", "IBK Venture Investment"]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Inbound via website / referral", "accepts_cold_inbound": null, "contact": null },
+    "tags": ["cybersecurity", "cvc", "sga-solutions", "new-tech-finance", "k-cybersecurity-fund", "ict-convergence-security"],
+    "summary": {
+      "en": "New-technology-business-finance company registered in 2016 as a subsidiary of KOSDAQ-listed integrated-security company SGA Solutions. Invests in ICT-convergence and ICT-convergence-security ventures, drawing on SGA's information-security expertise; manages ~18 funds (~KRW 184.5bn) and was Co-GP (with LF Investment) of MSIT's first dedicated Cyber Security Fund (2024).",
+      "local": "코스닥 상장 통합보안기업 SGA솔루션즈의 자회사로 2016년 등록된 신기술사업금융회사. SGA그룹의 정보보안 역량을 바탕으로 ICT융합·ICT융합보안 기업에 투자하며, 약 18개 펀드(약 1,845억원)를 운용. 2024년 LF인베스트먼트와 컨소시엄으로 과기정통부 첫 '사이버보안 펀드' Co-GP로 선정."
+    },
+    "sources": [
+      {
+        "url": "https://www.newsis.com/view/NISX20241106_0002948477",
+        "title": "KISIA, 보안모태펀드 운용사 LF인베스트먼트·액시스인베스트먼트와 '맞손'",
+        "publisher": "Newsis",
+        "accessed": "2026-06-03",
+        "supports": "SGA Solutions parent, AUM ~184.5bn across 18 funds, Cyber Security Fund Co-GP, ICT-security focus",
+        "quote": "액시스인베스트먼트는 코스닥 상장 통합보안 솔루션 기업 SGA솔루션즈의 자회사로 18개 펀드 약 1845억원을 운용 ... 기술력이 우수한 기업을 우선적으로 투자해 왔다"
+      },
+      {
+        "url": "http://www.axisinvestment.co.kr/aboutus/overview",
+        "title": "Over View - Axis Investment",
+        "publisher": "Axis Investment",
+        "accessed": "2026-06-03",
+        "supports": "founding/registration 2016 as new-tech finance company, ICT-convergence-security focus, SGA Alliance ties",
+        "quote": "신기술사업금융 전문회사 ... ICT 융합 산업 및 ICT 융합 보안 분야 ... SGA Alliance"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM figure (KRW 184.5bn / 18 funds) from Newsis Nov 2024; will have grown since. Founding year 2016 corresponds to financial-business registration date (Nov 4, 2016).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "kr-lean-ventures",
+    "name": { "en": "Lean Ventures", "local": "린벤처스" },
+    "aka": ["린벤처스", "Lean Ventures Co., Ltd."],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Gwangju",
+    "offices": [
+      { "country": "South Korea", "city": "Gwangju" },
+      { "country": "South Korea", "city": "Seoul" }
+    ],
+    "website": "http://leanventures.co.kr/",
+    "links": {
+      "other": ["https://thevc.kr/leanventures", "http://leanventures.co.kr/Portfolio"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Cyber Security Fund (사이버보안 자펀드)", "vintage_year": 2024, "size": { "raw": "KRW 20 billion (KRW 10bn from mother fund)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["cybersecurity", "generalist"],
+      "thesis": "Lean 10-person exit-focused emerging VC (registered as a venture investment company Jan 2022). Selected as the 'rookie-league' GP of MSIT's first dedicated Cyber Security Fund in 2024 after >10 prior mother-fund applications; fund must put ≥50% into AI/zero-trust/convergence-security startups and security-company M&A. Partners with KISIA to source security startups."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Kim Young-il (김영일)", "role": "CEO / Representative fund manager" }
+    ],
+    "team_size": 10,
+    "application": { "how_to_apply": "Inbound via website / referral", "accepts_cold_inbound": null, "contact": null },
+    "tags": ["cybersecurity", "micro-vc", "rookie-gp", "k-cybersecurity-fund", "msit-fund", "gwangju"],
+    "summary": {
+      "en": "Gwangju/Seoul-based emerging micro-VC (registered Jan 2022) that styles itself as a lean, exit-focused 10-person firm. In the 2024 mother-fund 2nd regular round it was chosen as the rookie-league GP of MSIT's first dedicated Cyber Security Fund (KRW 20bn), having applied >10 times before; it works with KISIA to back domestic information-security startups.",
+      "local": "광주·서울 기반 신생 마이크로 VC(2022년 1월 벤처투자회사 등록). 10명 안팎의 소수 정예·EXIT 전문을 표방. 2024년 모태펀드 2차 정시출자에서 과기정통부 첫 '사이버보안 펀드' 루키리그 GP로 선정(200억원 규모)됐으며, KISIA와 협력해 국내 정보보호 스타트업에 투자."
+    },
+    "sources": [
+      {
+        "url": "http://leanventures.co.kr/25/?bmode=view&idx=31195013",
+        "title": "[모태 2024 2차 정시출자] '무혈입성' 사이버보안, '루키' 린벤처스·LF인베 GP 낙점",
+        "publisher": "Lean Ventures (reposted news)",
+        "accessed": "2026-06-03",
+        "supports": "rookie GP selection, fund size KRW 20bn / KRW 10bn mother fund, registration Jan 2022, >10 prior applications, CEO Kim Young-il",
+        "quote": "린벤처스는 2022년 1월 벤처투자회사 등록 ... 모태펀드 10여 차례 지원 ... 각 운용사는 200억원 규모 펀드를 결성, 모태펀드에서 100억원 출자"
+      },
+      {
+        "url": "https://www.newsis.com/view/NISX20240925_0002899174",
+        "title": "KISIA, 사이버보안 모태펀드 운용사 린벤처스와 MOU",
+        "publisher": "Newsis",
+        "accessed": "2026-06-03",
+        "supports": "KISIA MOU, Cyber Security Fund GP status, cybersecurity startup sourcing"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Detailed portfolio and AUM not officially disclosed; team_size '10' is the firm's own positioning ('소수 10명'). HQ in Gwangju with a Seoul (Gangnam) office.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "kr-aon-investment",
+    "name": { "en": "Aon Investment", "local": "에이온인베스트먼트" },
+    "aka": ["에이온인베스트먼트", "AON Investment"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://aoninvest.co.kr/",
+    "links": {
+      "other": ["https://thevc.kr/aoninvestment", "https://thevc.kr/aoninvestment/products"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Aon Sprint Venture Fund (에이온 스프린트 벤처펀드, rookie league)", "vintage_year": 2024, "size": { "raw": null, "usd": null, "currency": "KRW" } },
+        { "name": "Cyber Security Fund (사이버보안 자펀드)", "vintage_year": 2025, "size": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["cybersecurity", "saas-enterprise", "healthtech"],
+      "thesis": "Emerging VC founded Oct 2021 focused on ICT and healthcare. Selected in 2025 as a GP of MSIT's dedicated Cyber Security Fund (the third sub-fund of the program), deploying capital into AI/zero-trust/convergence-security startups; the cybersecurity fund recently completed formation and entered registration."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Lee Jong-hyun (이종현)", "role": "CEO / Representative" },
+      { "name": "Ahn Byung-gyu (안병규)", "role": "Director / Partner" }
+    ],
+    "application": { "how_to_apply": "Inbound via website / referral", "accepts_cold_inbound": null, "contact": null },
+    "tags": ["cybersecurity", "micro-vc", "k-cybersecurity-fund", "msit-fund", "rookie-gp"],
+    "summary": {
+      "en": "Emerging VC founded in October 2021 (ICT/healthcare focus, led by Lee Jong-hyun, ex-Synergy IB Investment). In 2025 it was selected as a GP of MSIT's dedicated Cyber Security Fund — the program's third sub-fund — investing in AI, zero-trust and convergence-security startups; its cybersecurity fund recently finished formation and entered registration.",
+      "local": "2021년 10월 설립된 신생 VC(ICT·헬스케어 중심, 시너지IB투자 출신 이종현 대표). 2025년 과기정통부 '사이버보안 펀드' 운용사(GP)로 선정돼 프로그램의 세 번째 자펀드를 맡아 AI·제로트러스트·융합보안 스타트업에 투자. 사이버보안 펀드는 최근 결성을 마치고 등록 절차 진행 중."
+    },
+    "sources": [
+      {
+        "url": "https://www.dailysecu.com/news/articleView.html?idxno=205871",
+        "title": "AI·제로트러스트 키울 사이버보안 펀드 확대…과기정통부, 운용사 공모",
+        "publisher": "DailySecu",
+        "accessed": "2026-06-03",
+        "supports": "Aon Investment selected as 2025 Cyber Security Fund GP; program structure",
+        "quote": "3개 자펀드는 2024년 선정 된 엘에프인베스트먼트와 린벤처스 두 곳, 2025년 선정한 에이온인베스트먼트 등이다"
+      },
+      {
+        "url": "https://www.numbers.co.kr/news/articleView.html?idxno=20211",
+        "title": "[모태펀드 2025 결산]② 루키에 1000억…신생 VC '무럭무럭'",
+        "publisher": "Numbers",
+        "accessed": "2026-06-03",
+        "supports": "Aon Sprint Venture Fund (rookie league) 2024, cybersecurity fund formation/registration status",
+        "quote": "에이온인베스트먼트는 지난해 8월 루키리그 자금을 통해 '에이온 스프린트 벤처펀드'를 조성했으며, 사이버보안 펀드는 최근 결성을 마무리하고 등록 절차를 진행"
+      },
+      {
+        "url": "http://aoninvest.co.kr/team",
+        "title": "AON Investment — Team",
+        "publisher": "Aon Investment",
+        "accessed": "2026-06-03",
+        "supports": "founding Oct 2021, CEO Lee Jong-hyun background, ICT/healthcare focus, director Ahn Byung-gyu"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Exact size of Aon's cybersecurity sub-fund not disclosed in sources (per the program, each sub-fund is ~KRW 20bn with KRW 10bn from the mother fund). AUM not officially published.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "kr-ahnlab-startup-program",
+    "name": { "en": "AhnLab Accelerating Program (Open Innovation)", "local": "안랩 액셀러레이팅 프로그램" },
+    "aka": ["안랩", "AhnLab", "안랩 오픈 이노베이션"],
+    "type": "cvc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seongnam",
+    "website": "https://company.ahnlab.com/kr/company/startup.do",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/ahnlab",
+      "other": ["https://thevc.kr/ahnlab", "https://www.ahnlab.com/kr/site/main.do"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["cybersecurity", "saas-enterprise", "ai-ml"],
+      "thesis": "Korea's first-generation, largest pure-play cybersecurity company (KOSPI-listed, V3 antivirus). Its Open Innovation / Accelerating Program makes seed-stage strategic investments into security and digital-technology startups, pairing capital with security-business mentoring, co-business, and provision of AhnLab security products and workspace."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "investment": { "raw": "seed-stage strategic investment (undisclosed)", "usd": null, "currency": "KRW" },
+      "format": "hybrid",
+      "location": "Seongnam (Pangyo), South Korea",
+      "perks": ["security-business mentoring", "co-business / strategic partnership", "AhnLab security products", "workspace"],
+      "eligibility": "Security and digital-technology startups",
+      "application_url": "https://company.ahnlab.com/kr/company/startup.do"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Tatum Security (테이텀)", "sector": "cybersecurity (CSPM/cloud security)", "outcome": "active" }
+      ],
+      "co_investors": ["Hana Ventures", "Korea Investment Partners", "Lighthouse Combined Investment", "Samsung Venture Investment"]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Contact via email for strategic collaboration and investment", "accepts_cold_inbound": true, "contact": "startup@ahnlab.com" },
+    "tags": ["cybersecurity", "cvc", "accelerator", "corporate-vc", "open-innovation", "ahnlab"],
+    "summary": {
+      "en": "The corporate-venturing / accelerating arm of AhnLab, Korea's first-generation flagship cybersecurity firm. Through its Open Innovation program it makes seed-stage strategic investments in security and digital-tech startups and supports them with security-business mentoring, co-business, products and workspace; partners with D.CAMP and Seoul Fintech Lab. Backed cloud-security startup Tatum Security at seed and Series A.",
+      "local": "국내 1세대 대표 사이버보안 기업 안랩의 기업주도형 투자·액셀러레이팅 조직. '오픈 이노베이션' 프로그램으로 보안·디지털 기술 스타트업에 시드 단계 전략적 투자를 집행하고, 보안 사업 멘토링·협업·자사 보안 제품·공간을 지원. 디캠프·서울핀테크랩과 협력하며, 클라우드 보안 스타트업 테이텀에 시드·시리즈A 투자."
+    },
+    "sources": [
+      {
+        "url": "https://company.ahnlab.com/kr/company/startup.do",
+        "title": "오픈 이노베이션 | AhnLab",
+        "publisher": "AhnLab",
+        "accessed": "2026-06-03",
+        "supports": "Accelerating Program: seed-stage strategic investment, mentoring, co-business, products & workspace, D.CAMP/Seoul Fintech Lab partners, contact email",
+        "quote": "기술 검토 및 보안 사업 수행에 필요한 멘토링 ... 시드 단계 전략적 투자 ... 보안 제품 및 공간 지원 ... startup@ahnlab.com"
+      },
+      {
+        "url": "https://thevc.kr/tatum",
+        "title": "테이텀(테이텀 CSPM) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "AhnLab seed (Jan 2021) and Series A investment in Tatum Security alongside Hana Ventures, KIP, Lighthouse",
+        "quote": "2021년 1월 하나벤처스와 안랩으로부터 시드 투자 ... 시리즈A 투자에는 안랩, 하나벤처스, 한국투자파트너스, 라이트하우스가 참여"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "AhnLab is primarily a cybersecurity operating company (KOSPI: 053800), not a standalone fund; the entity captured here is its investment/accelerating program. Program founding year, cohort size, ticket sizes and full portfolio not disclosed. Tatum investments confirmed via THE VC and press.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "kr-kisia-security-startup-global-challenge",
+    "name": { "en": "KISIA — K-security Startup Global Challenge", "local": "한국정보보호산업협회 K-시큐리티 스타트업 글로벌 챌린지" },
+    "aka": ["KISIA", "한국정보보호산업협회", "Korea Information Security Industry Association", "K-security 스타트업 글로벌 챌린지"],
+    "type": "accelerator",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": null,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.kisia.or.kr/",
+    "links": {
+      "other": ["https://www.kisia.or.kr/oversea_entry_support/startup_support/oversea", "https://www.kisia.or.kr/oversea_entry_support/cluster/"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["South Korea", "Global"],
+      "sector_focus": ["cybersecurity"],
+      "thesis": "Industry-association (KISIA) accelerator dedicated to information-security/cybersecurity startups. Provides company-tailored global accelerating — domestic capability-building, IR pitching and investment-attraction 1:1 mentoring, an overseas residency with global IR demo-day and investor/buyer networking, and follow-on investment connection. Also operates the Pangyo Information Protection Cluster and the security-startup IR-matching events with cybersecurity-fund GPs (LF/Axis, Lean Ventures)."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "investment": { "raw": "non-dilutive accelerating + investor matching (no direct equity ticket)", "usd": null, "currency": "KRW" },
+      "format": "hybrid",
+      "location": "South Korea + overseas residency",
+      "perks": ["global market-entry strategy", "IR pitching & investment-attraction 1:1 mentoring", "global IR demo-day", "investor/buyer networking", "follow-on investment connection", "Pangyo Information Protection Cluster space & security test-beds"],
+      "eligibility": "Information-security startups with innovative tech, ≤10 years in operation",
+      "application_url": "https://www.kisia.or.kr/oversea_entry_support/startup_support/oversea",
+      "demo_day": true
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": ["LF Investment", "Axis Investment", "Lean Ventures"]
+    },
+    "people": [
+      { "name": "Cho Young-chul (조영철)", "role": "KISIA Chairman" }
+    ],
+    "application": { "how_to_apply": "Apply via KISIA program announcements", "accepts_cold_inbound": true, "contact": "KISIA Growth Support Team, +82-2-6418-5662, mjmjjob@kisia.or.kr" },
+    "tags": ["cybersecurity", "accelerator", "kisia", "government-affiliated", "global-expansion", "information-protection-cluster"],
+    "summary": {
+      "en": "The Korea Information Security Industry Association (KISIA) runs a dedicated cybersecurity accelerator — the K-security Startup Global Challenge — offering tailored global accelerating (capability-building, IR/investment-attraction 1:1 mentoring, overseas IR demo-days, investor networking, follow-on investment connection) for security startups ≤10 years old. KISIA also operates the Pangyo Information Protection Cluster and matches startups with the MSIT Cyber Security Fund GPs.",
+      "local": "한국정보보호산업협회(KISIA)가 운영하는 사이버보안 전용 액셀러레이터 'K-시큐리티 스타트업 글로벌 챌린지'. 업력 10년 이내 정보보호 스타트업을 대상으로 국내 사전역량 강화, IR 피칭·투자유치 1:1 멘토링, 해외 IR 데모데이·투자자 네트워킹, 후속 투자 연계 등 맞춤형 글로벌 액셀러레이팅 제공. 판교 정보보호 클러스터 운영 및 사이버보안 펀드 운용사와의 IR 매칭도 수행."
+    },
+    "sources": [
+      {
+        "url": "https://www.kisia.or.kr/oversea_entry_support/startup_support/oversea",
+        "title": "K-security 스타트업 글로벌 챌린지 프로그램",
+        "publisher": "KISIA",
+        "accessed": "2026-06-03",
+        "supports": "program 3-stage structure, eligibility ≤10 years, IR/investment mentoring, overseas demo-day, follow-on connection, contact",
+        "quote": "업력 10년 이내 스타트업 ... 글로벌 역량 강화, IR 피칭 및 투자유치 전략 1:1 멘토링 ... 글로벌 IR 데모데이 및 투자자·바이어 네트워킹 ... 후속 투자 유치 및 비즈니스 연계 ... 권미진 주임 (02-6418-5662)"
+      },
+      {
+        "url": "https://www.newsis.com/view/NISX20241106_0002948477",
+        "title": "KISIA, 보안모태펀드 운용사 LF인베스트먼트·액시스인베스트먼트와 '맞손'",
+        "publisher": "Newsis",
+        "accessed": "2026-06-03",
+        "supports": "KISIA chairman Cho Young-chul; KISIA partners with Cyber Security Fund GPs to source startups and host closed IR events",
+        "quote": "조영철 KISIA 회장 ... 스타트업이 자생력을 갖출 때까지 투자 유치를 지속 지원 ... 비공개 IR 피칭"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "KISIA is an industry association/accelerator operator, not a fund — it provides accelerating and investor-matching rather than direct equity checks. Cohort sizes and batch counts vary by annual government budget and were not fixed in sources.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "kr-msit-cybersecurity-fund",
+    "name": { "en": "MSIT Cyber Security Fund", "local": "과기정통부 사이버보안 펀드" },
+    "aka": ["사이버보안 펀드", "Cyber Security Fund", "사이버보안 전용펀드", "K-Cybersecurity Fund"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.msit.go.kr/",
+    "links": {
+      "other": ["https://www.dailysecu.com/news/articleView.html?idxno=205871", "https://www.sedaily.com/NewsView/2GQDDT7XVD"]
+    },
+    "capital": {
+      "aum": { "raw": "KRW 30 billion government contribution across 3 sub-funds (as of 2026)", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "2024 sub-funds (LF/Axis Co-GP; Lean Ventures)", "vintage_year": 2024, "size": { "raw": "KRW 40 billion total (2 × KRW 20bn)", "usd": null, "currency": "KRW" } },
+        { "name": "2025 sub-fund (Aon Investment)", "vintage_year": 2025, "size": { "raw": "KRW 20 billion (KRW 10bn from mother fund)", "usd": null, "currency": "KRW" } },
+        { "name": "2026 sub-fund (operator recruitment)", "vintage_year": 2026, "size": { "raw": "KRW 16 billion (KRW 8bn government)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["cybersecurity"],
+      "thesis": "Korea's first dedicated cybersecurity fund-of-funds, launched in 2024 by the Ministry of Science and ICT (MSIT) via Korea Venture Investment (KVIC). Each sub-fund must invest ≥50% into companies with AI/zero-trust/convergence-security technologies, cybersecurity-company M&A, or overseas-subsidiary expansion. Offers downside protection (loss coverage up to 15%) and upside incentives (private investors up to 30% of excess returns) to crowd in capital."
+    },
+    "program": {
+      "investment": { "raw": "fund-of-funds (KRW 30bn government across 3 sub-funds; commitments ~KRW 61.2bn)", "usd": null, "currency": "KRW" },
+      "eligibility": "Cybersecurity innovation companies (AI/zero-trust/convergence security), cybersecurity M&A, overseas-expansion ventures",
+      "format": "fund-of-funds (8-year term: 4yr investment + 4yr recovery)"
+    },
+    "track_record": {
+      "portfolio_count": 8,
+      "notable_investments": [],
+      "co_investors": ["LF Investment", "Axis Investment", "Lean Ventures", "Aon Investment"]
+    },
+    "people": [],
+    "application": { "how_to_apply": "GPs apply via Korea Venture Investment (KVIC) public RFP; startups raise from selected GP sub-funds", "accepts_cold_inbound": null, "contact": null },
+    "tags": ["cybersecurity", "government-program", "fund-of-funds", "msit", "mother-fund", "zero-trust", "ai-security"],
+    "summary": {
+      "en": "South Korea's first dedicated cybersecurity fund-of-funds, created in 2024 by the Ministry of Science and ICT through Korea Venture Investment. As of 2026 it has committed KRW 30bn of government capital across three sub-funds (run by LF/Axis, Lean Ventures and Aon Investment) and invested KRW 12.7bn into 8 companies; ≥50% of each sub-fund must back AI/zero-trust/convergence-security startups, security-company M&A, or overseas expansion. A 2026 sub-fund (KRW 16bn) is under operator recruitment.",
+      "local": "과학기술정보통신부가 한국벤처투자(모태펀드)를 통해 2024년 조성한 국내 첫 사이버보안 전용 모(母)펀드. 2026년 기준 정부 출자 300억원으로 3개 자펀드(LF·액시스, 린벤처스, 에이온인베스트먼트 운용)를 운영하고 8개사에 127억원을 투자. 각 자펀드는 AI·제로트러스트·융합보안 기업, 보안기업 M&A, 해외진출 기업에 50% 이상을 투자해야 함. 2026년 신규 자펀드(160억원 규모, 정부 80억원)는 운용사 공모 중."
+    },
+    "sources": [
+      {
+        "url": "https://www.sedaily.com/NewsView/2GQDDT7XVD",
+        "title": "정부, 사이버보안 전용펀드 조성…투자 운용사 공식 모집",
+        "publisher": "Seoul Economic Daily",
+        "accessed": "2026-06-03",
+        "supports": "MSIT/KVIC operator, investment mandate (AI/zero-trust/M&A/overseas, ≥50%), incentive structure, 8-year term",
+        "quote": "과학기술정보통신부 ... AI·제로트러스트 등 사이버 보안 기술을 보유한 혁신 기업 ... M&A ... 해외 ... 50% ... 손실 보전 15% ... 초과수익 30%"
+      },
+      {
+        "url": "https://www.dailysecu.com/news/articleView.html?idxno=205871",
+        "title": "AI·제로트러스트 키울 사이버보안 펀드 확대…과기정통부, 운용사 공모",
+        "publisher": "DailySecu",
+        "accessed": "2026-06-03",
+        "supports": "3 sub-funds since 2024, KRW 30bn government, GPs (LF/Axis, Lean, Aon), KRW 12.7bn into 8 companies, 2026 new sub-fund",
+        "quote": "2024년 국내 첫 사이버보안 펀드를 조성한 이후 ... 300억원 정부 예산 출자를 통해 3개 자펀드를 운영 ... 8개 사에 127억원을 누적투자 ... 엘에프인베스트먼트와 린벤처스 두 곳, 2025년 ... 에이온인베스트먼트"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Some figures vary slightly between articles (e.g., 2024 deployment quoted as KRW 10.5bn/6 companies in one source vs cumulative KRW 12.7bn/8 companies across the program in another). 2026 sub-fund size reported as KRW 16bn (8bn gov't) in DailySecu; a separate 2025-budget article referenced a proposed KRW 20bn dedicated fund. Captured both as sub-fund vintages.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "kr-kisa-information-protection-cluster",
+    "name": { "en": "KISA Information Protection Cluster", "local": "정보보호 클러스터 (한국인터넷진흥원)" },
+    "aka": ["정보보호 클러스터", "Information Protection Cluster", "Pangyo Information Security Cluster", "KISA", "한국인터넷진흥원"],
+    "type": "incubator",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seongnam",
+    "website": "https://www.kisa.or.kr/business/infor/inforsec_1.jsp",
+    "links": {
+      "other": ["https://www.kisa.or.kr/1040202", "https://www.ksecurity.or.kr/kisis/subIndex/410.do"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["cybersecurity"],
+      "thesis": "Government information-security incubator/cluster opened in 2017 at the Pangyo Startup Campus (Business Support Hub) by MSIT and KISA to cluster security companies, universities and research institutes. Provides workspace, collaboration-support centre, security test-beds (IoT/ICS), commercialization support and direct connection of resident startups to market channels and investment — including lead security companies directly investing in promising tenants. Operation transferred to KISIA (public→private) in 2021."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "investment": { "raw": "non-equity incubation; facilitates investment by lead security firms", "usd": null, "currency": "KRW" },
+      "format": "in-person",
+      "location": "Pangyo 2nd Techno Valley Business Support Hub (4–5F), Seongnam, Gyeonggi",
+      "perks": ["workspace", "collaboration-support centre", "IoT/ICS security test-beds", "commercialization support", "investment matchmaking with lead security firms"],
+      "eligibility": "Information-security/convergence-security startups and pre-entrepreneurs",
+      "application_cycles": ["periodic open recruitment (수시모집)"]
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [],
+    "application": { "how_to_apply": "Apply to periodic resident-company recruitment via KISA/KISIA announcements", "accepts_cold_inbound": true, "contact": null },
+    "tags": ["cybersecurity", "incubator", "government-affiliated", "kisa", "pangyo", "information-protection-cluster", "test-bed"],
+    "summary": {
+      "en": "Government information-security incubator opened in 2017 at Pangyo by MSIT and KISA to cluster security firms, academia and research, and to incubate security startups with workspace, collaboration centre, IoT/ICS security test-beds and commercialization support. It explicitly links resident startups to market channels and investment, including direct investment by lead security companies; operation moved from KISA to industry body KISIA in 2021.",
+      "local": "과기정통부와 KISA가 2017년 판교 기업지원허브에 개소한 정부 정보보호 인큐베이터/클러스터. 정보보호 기업·대학·연구기관을 집적하고 보안 스타트업에 근무공간·협업지원센터·IoT/ICS 보안 테스트베드·사업화 지원을 제공. 입주 스타트업을 시장 판로 및 투자(선도 보안업체의 직접 투자 포함)로 직접 연결. 2017년 KISA 운영에서 2021년 KISIA(민간) 운영으로 전환."
+    },
+    "sources": [
+      {
+        "url": "https://www.kisa.or.kr/business/infor/inforsec_1.jsp",
+        "title": "정보보호 클러스터 운영 — 보안 기업 성장 지원",
+        "publisher": "KISA (Korea Internet & Security Agency)",
+        "accessed": "2026-06-03",
+        "supports": "2017 opening at Pangyo, clustering of industry/academia/research, startup incubation, test-beds",
+        "quote": "2017년 11월 30일 판교 ... 기업지원허브에 개소 ... 정보보호 관련 기업·대학·연구기관 집적 및 협업 ... 스타트업 육성 기반"
+      },
+      {
+        "url": "https://www.inews24.com/view/1332433",
+        "title": "판교 정보보호 클러스터 운영, 민간에 맡긴다…KISIA가 전담",
+        "publisher": "iNews24",
+        "accessed": "2026-06-03",
+        "supports": "operation transferred from KISA (public) to KISIA (private) in 2021; investment linkage incl. lead security firms",
+        "quote": "정보보호 클러스터의 운영 주체가 한국정보보호산업협회(KISIA)로 ... 선도 보안업체가 직접 투자하는 방식"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "This is a government/association-run incubator (space + test-beds + investment matchmaking), not a direct equity investor. Specific tenant counts and any direct investment amounts not disclosed in sources.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  }
+]

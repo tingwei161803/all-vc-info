@@ -1,0 +1,922 @@
+[
+  {
+    "id": "ca-espresso-capital",
+    "name": { "en": "Espresso Capital" },
+    "type": "vc",
+    "subtypes": ["venture-debt"],
+    "status": "active",
+    "founded_year": 2009,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://espressocapital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/espresso-capital",
+      "other": [
+        "https://espressocapital.com/about/",
+        "https://central.cvca.ca/data-analysis/a-deep-dive-into-canadas-burgeoning-venture-debt-market/"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "Espresso Fund V LP", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": null } },
+        { "name": "Espresso Capital Partners Investment Fund IV", "vintage_year": 2013, "size": { "raw": null, "usd": null, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": "avg venture debt round ~$8.85M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["saas-enterprise", "healthtech", "generalist"],
+      "thesis": "Non-dilutive venture debt and growth financing for technology, healthcare and other high-growth companies in Canada and the US. Started in tax-credit (SR&ED) financing in 2009 and shifted fully to venture lending in 2016."
+    },
+    "track_record": {
+      "portfolio_count": "260+ companies across 825+ loans",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via espressocapital.com/borrow",
+      "accepts_cold_inbound": true,
+      "contact": "https://espressocapital.com/"
+    },
+    "tags": ["venture-debt", "growth-financing", "non-dilutive"],
+    "summary": {
+      "en": "Toronto-based venture debt and growth financing provider operating across Canada and the US; one of the largest independent (non-bank) venture lenders to Canadian companies."
+    },
+    "sources": [
+      {
+        "url": "https://espressocapital.com/about/",
+        "title": "About Espresso Capital",
+        "publisher": "Espresso Capital",
+        "accessed": "2026-06-03",
+        "supports": "founded year, HQ, products, companies funded",
+        "quote": "Espresso has funded more than 260 companies across over 825 loans with exceptionally low default and loan loss rates."
+      },
+      {
+        "url": "https://central.cvca.ca/data-analysis/a-deep-dive-into-canadas-burgeoning-venture-debt-market/",
+        "title": "A Deep Dive into Canada's Burgeoning Venture Debt Market",
+        "publisher": "CVCA Central",
+        "accessed": "2026-06-03",
+        "supports": "ranking among Canadian venture debt lenders",
+        "quote": "Espresso Capital came in second at $220 million."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2009 per multiple sources; began in SR&ED/tax-credit financing and shifted fully to venture lending in 2016. Fund sizes and AUM not disclosed publicly; left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "ca-venbridge",
+    "name": { "en": "Venbridge" },
+    "aka": ["Venbridge Capital Ltd."],
+    "type": "vc",
+    "subtypes": ["venture-debt"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://venbridge.com",
+    "links": {
+      "other": [
+        "https://betakit.com/venbridge-latest-lender-to-add-sred-financing-advances-to-venture-debt-offerings/",
+        "https://venbridge.com/sred-financing/"
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "$100,000 to $2,000,000", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["saas-enterprise", "biotech", "gaming", "generalist"],
+      "thesis": "Non-dilutive venture debt, SR&ED tax-credit financing and interactive digital media tax-credit bridge financing for Canadian tech companies; conditional approval within two business days."
+    },
+    "track_record": {
+      "portfolio_count": "hundreds of Canadian tech companies",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply online at venbridge.com; conditional approval within two business days",
+      "accepts_cold_inbound": true,
+      "contact": "https://venbridge.com"
+    },
+    "tags": ["sred-financing", "venture-debt", "non-dilutive", "tax-credit-financing"],
+    "summary": {
+      "en": "Canadian non-dilutive lender providing SR&ED tax-credit financing, IDM tax-credit advances and venture debt of $100K–$2M to tech companies, typically funding within days."
+    },
+    "sources": [
+      {
+        "url": "https://venbridge.com",
+        "title": "SR&ED Financing & Venture Debt Financing - Venbridge",
+        "publisher": "Venbridge",
+        "accessed": "2026-06-03",
+        "supports": "products, loan size range",
+        "quote": "$100,000 to $2,000,000 of funding"
+      },
+      {
+        "url": "https://betakit.com/venbridge-latest-lender-to-add-sred-financing-advances-to-venture-debt-offerings/",
+        "title": "Venbridge latest lender to add SR&ED financing advances to venture debt offerings",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-03",
+        "supports": "founded 2017, SR&ED + venture debt focus",
+        "quote": "Founded in 2017, Venbridge has become Canada's leading venture debt provider."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2017 per BetaKit. Self-described as 'Canada's leading venture debt provider'; that ranking claim is marketing and not independently verified.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "ca-flow-capital",
+    "name": { "en": "Flow Capital Corp." },
+    "aka": ["Grenville Strategic Royalty Corp."],
+    "type": "vc",
+    "subtypes": ["venture-debt"],
+    "status": "active",
+    "founded_year": 1993,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.flowcap.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/grenville-strategic-royalty",
+      "linkedin": "https://ca.linkedin.com/company/flowcapital",
+      "other": ["https://www.marketscreener.com/quote/stock/FLOW-CAPITAL-CORP-59241460/"]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": "$2-10 million", "usd_min": 2000000, "usd_max": 10000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada", "United States", "United Kingdom"],
+      "sector_focus": ["saas-enterprise", "generalist"],
+      "thesis": "Publicly listed provider of founder-friendly growth capital via venture debt and revenue-linked royalty financing, structured as senior secured loans with a small tranche of warrants, for companies with at least $3M in revenue."
+    },
+    "track_record": {
+      "portfolio_count": "66+ companies (over $156M deployed as of 2024)",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via flowcap.com/for-founders",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.flowcap.com/"
+    },
+    "tags": ["venture-debt", "revenue-based-financing", "royalty-financing", "public-company"],
+    "summary": {
+      "en": "Toronto-based, publicly listed (TSXV: FW) provider of venture debt and revenue-linked royalty financing for revenue-generating tech companies in North America and the UK; formerly Grenville Strategic Royalty Corp."
+    },
+    "sources": [
+      {
+        "url": "https://www.flowcap.com/",
+        "title": "Flow Capital - Founder-Friendly Growth Capital",
+        "publisher": "Flow Capital",
+        "accessed": "2026-06-03",
+        "supports": "venture debt + revenue financing, structure, revenue threshold",
+        "quote": "at least $3M in revenue, strong proven growth, and capital-efficient business models"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/grenville-strategic-royalty",
+        "title": "Flow Capital - Crunchbase Company Profile",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-03",
+        "supports": "founded year, former name, HQ, capital deployed",
+        "quote": "Flow Capital has deployed over $156M in growth capital to 66+ companies"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Public company (TSXV: FW). Founding year 1993 reflects the listed corporate entity (formerly Grenville Strategic Royalty Corp.); the Flow Capital strategy is more recent. Capital-deployed figure dated 'as of 2024'.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "ca-easly",
+    "name": { "en": "Easly" },
+    "type": "vc",
+    "subtypes": ["venture-debt"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://fundeasly.com/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/easly-ca",
+      "other": ["https://fundeasly.com/platform/sred/"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "$50,000 to $25,000,000", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["generalist", "deeptech", "saas-enterprise"],
+      "thesis": "Capital-as-a-Service platform providing on-demand, non-dilutive advances on up to 75% of a company's accrued SR&ED tax-credit refund, so innovators access working capital instead of waiting for the CRA refund."
+    },
+    "track_record": {
+      "portfolio_count": "hundreds of Canadian companies",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via fundeasly.com; first advance in as little as two weeks",
+      "accepts_cold_inbound": true,
+      "contact": "https://fundeasly.com/"
+    },
+    "tags": ["sred-financing", "non-dilutive", "tax-credit-financing"],
+    "summary": {
+      "en": "Toronto-based non-dilutive lender providing recurring SR&ED tax-credit advances ($50K–$25M) to Canadian R&D companies via a Capital-as-a-Service platform."
+    },
+    "sources": [
+      {
+        "url": "https://fundeasly.com/",
+        "title": "Easly | SR&ED Tax Credit Financing for Innovators",
+        "publisher": "Easly",
+        "accessed": "2026-06-03",
+        "supports": "products, advance range, advance percentage, since 2019",
+        "quote": "Easly Advances can range from $50,000 to $25,000,000."
+      },
+      {
+        "url": "https://fundeasly.com/platform/how-it-works/",
+        "title": "Non-Dilutive Funding with Easly Advances",
+        "publisher": "Easly",
+        "accessed": "2026-06-03",
+        "supports": "75% of accrued SR&ED refund, lending since 2019",
+        "quote": "Easly provides on-demand, non-dilutive advances on 75% of your accrued SR&ED refund"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Lending since 2019 per company site; exact incorporation year not separately confirmed. Number of companies stated as 'hundreds' (qualitative).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "ca-fundsquire-canada",
+    "name": { "en": "Fundsquire Canada" },
+    "type": "vc",
+    "subtypes": ["venture-debt"],
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://fundsquire.ca/",
+    "links": {
+      "other": ["https://grantcompass.ca/non-dilutive-funding-canada.html"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["generalist", "saas-enterprise", "deeptech"],
+      "thesis": "Provides non-dilutive growth funding to startups and SMEs by advancing against future SR&ED refundable tax credits and recurring revenue; repaid from the CRA's SR&ED refund."
+    },
+    "track_record": { "notable_investments": [] },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via fundsquire.ca",
+      "accepts_cold_inbound": true,
+      "contact": "https://fundsquire.ca/"
+    },
+    "tags": ["sred-financing", "revenue-based-financing", "non-dilutive"],
+    "summary": {
+      "en": "Provider of non-dilutive SR&ED and revenue-based financing to Canadian startups and SMEs; part of an international Fundsquire group operating in Canada, the UK and Australia."
+    },
+    "sources": [
+      {
+        "url": "https://fundsquire.ca/",
+        "title": "Growth Funding & SR&ED Financing | Fundsquire",
+        "publisher": "Fundsquire",
+        "accessed": "2026-06-03",
+        "supports": "products, SR&ED advance model, Canadian focus",
+        "quote": "Fundsquire offers alternative and innovative cashflow financing to startups and small and medium enterprises in Canada"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Official site returned a connection error on direct fetch; details drawn from search snippet of fundsquire.ca. Founding year and check-size range not confirmed; left null. Fundsquire is an international group (UK/Australia/Canada).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "ca-clearco",
+    "name": { "en": "Clearco" },
+    "aka": ["Clearbanc", "CommerceHero"],
+    "type": "vc",
+    "subtypes": ["revenue-based-financing"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.clear.co/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/clearbanc",
+      "other": ["https://en.wikipedia.org/wiki/Clearco"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "check_size": { "raw": "$10,000 to $10 million", "usd_min": 10000, "usd_max": 10000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada", "United States", "United Kingdom"],
+      "sector_focus": ["ecommerce", "consumer"],
+      "thesis": "Non-dilutive revenue-based financing for e-commerce and DTC brands; capital advances repaid as a fixed percentage of weekly sales with flat fees, no equity, board seats or personal guarantees."
+    },
+    "track_record": {
+      "portfolio_count": "10,000+ brands financed",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Andrew D'Souza", "role": "Co-founder" },
+      { "name": "Michele Romanow", "role": "Co-founder" }
+    ],
+    "application": {
+      "how_to_apply": "Apply online at clear.co; reviews typically within 24 hours",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.clear.co/"
+    },
+    "tags": ["revenue-based-financing", "ecommerce-funding", "non-dilutive"],
+    "summary": {
+      "en": "Toronto-based fintech providing non-dilutive revenue-based financing ($10K–$10M) to e-commerce and DTC brands; has deployed over $3B to 10,000+ brands. Formerly Clearbanc."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Clearco",
+        "title": "Clearco - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-03",
+        "supports": "founded 2015, founders, HQ, model",
+        "quote": "Founded in 2015 by Andrew D'Souza and Michele Romanow, this Toronto-based financial technology company"
+      },
+      {
+        "url": "https://www.clear.co/",
+        "title": "Flexible Ecommerce Funding for DTC Brands | Clearco",
+        "publisher": "Clearco",
+        "accessed": "2026-06-03",
+        "supports": "advance range, capital deployed, number of brands",
+        "quote": "deployed more than $3 billion in capital to finance over 10,000 distinct brands"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Headquartered Toronto; operates across Canada/US/UK. Formerly Clearbanc. The $3B / 10,000-brand figures are company-reported cumulative totals.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "ca-bond-capital",
+    "name": { "en": "Bond Capital" },
+    "aka": ["Bond Capital Mezzanine Inc.", "Bond Capital Partners Ltd."],
+    "type": "vc",
+    "subtypes": ["venture-debt", "growth-equity"],
+    "status": "active",
+    "founded_year": 2002,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Vancouver",
+    "website": "https://www.bondcapital.ca/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/bond-capital",
+      "other": ["https://intelligence.cvca.ca/company/1544", "https://www.pehub.com/bond-capitals-fund-v-secures-north-of-80-mln-in-final-close/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Bond Capital Fund V", "vintage_year": null, "size": { "raw": "north of $80M", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth"],
+      "check_size": { "raw": "$2 million to $30 million (direct)", "usd_min": 2000000, "usd_max": 30000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["generalist"],
+      "thesis": "Institutional provider of mezzanine financing and private debt to small and medium-sized enterprises in Western Canada and the US Northwest; typically current-pay debt paired with an equity kicker (warrants), letting owners keep control."
+    },
+    "track_record": { "notable_investments": [] },
+    "people": [],
+    "application": {
+      "how_to_apply": "Contact via bondcapital.ca",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.bondcapital.ca/about-us/"
+    },
+    "tags": ["mezzanine", "private-debt", "venture-debt", "growth-financing"],
+    "summary": {
+      "en": "Vancouver-based private credit / mezzanine fund (founded 2002) financing SMEs in Western Canada and the US Northwest with $2M–$30M structured debt plus equity kickers."
+    },
+    "sources": [
+      {
+        "url": "https://www.bondcapital.ca/about-us/",
+        "title": "We are a Preferred Supplier of Debt and Equity Capital | Bond Capital",
+        "publisher": "Bond Capital",
+        "accessed": "2026-06-03",
+        "supports": "founded 2002, HQ, focus, check size",
+        "quote": "Bond Capital's direct investments range from $2 million to $30 million"
+      },
+      {
+        "url": "https://www.pehub.com/bond-capitals-fund-v-secures-north-of-80-mln-in-final-close/",
+        "title": "Bond Capital's Fund V secures north of $80 mln in final close",
+        "publisher": "PE Hub",
+        "accessed": "2026-06-03",
+        "supports": "Fund V close size",
+        "quote": "Bond Capital's Fund V secures north of $80 mln in final close"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2002, Vancouver HQ. More a private-credit/mezzanine fund than a pure venture lender but operates in the venture-debt/growth-lending space for SMEs.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "ca-penfund",
+    "name": { "en": "Penfund" },
+    "type": "vc",
+    "subtypes": ["venture-debt", "growth-equity"],
+    "status": "active",
+    "founded_year": 1979,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://penfund.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/penfund",
+      "other": ["https://penfund.com/penfund-closes-1-6-billion-seventh-fund/"]
+    },
+    "capital": {
+      "aum": { "raw": "approximately $2.9 billion", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Penfund Capital Fund VII", "vintage_year": null, "size": { "raw": "approximately $1.6 billion (CDN)", "usd": null, "currency": "CAD" } },
+        { "name": "Penfund Capital Fund VI", "vintage_year": null, "size": { "raw": "$1.15 billion", "usd": null, "currency": "CAD" } },
+        { "name": "Penfund Capital Fund V", "vintage_year": null, "size": { "raw": "$724 million", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada", "United States"],
+      "sector_focus": ["generalist"],
+      "thesis": "Junior-capital specialist providing second-lien, high-yield and mezzanine debt, control and minority equity, and bridge facilities to middle-market companies across North America."
+    },
+    "track_record": {
+      "portfolio_count": "225+ companies; $3B+ invested since inception",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Contact via penfund.com",
+      "accepts_cold_inbound": false,
+      "contact": "https://penfund.com/"
+    },
+    "tags": ["junior-capital", "mezzanine", "private-debt", "growth-equity"],
+    "summary": {
+      "en": "Toronto-based junior-capital / mezzanine fund (founded 1979) with ~$2.9B AUM, providing second-lien, mezzanine and bridge financing plus equity to North American middle-market companies."
+    },
+    "sources": [
+      {
+        "url": "https://penfund.com/penfund-closes-1-6-billion-seventh-fund/",
+        "title": "Penfund Closes $1.6 Billion Seventh Fund",
+        "publisher": "Penfund",
+        "accessed": "2026-06-03",
+        "supports": "Fund VII size",
+        "quote": "Penfund Capital Fund VII, with committed capital of approximately $1.6 billion (CDN)"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/penfund",
+        "title": "Penfund - Crunchbase Company Profile",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-03",
+        "supports": "founded 1979, AUM, companies invested",
+        "quote": "Assets under management are approximately $2.9 billion"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 1979. More private-credit/junior-capital than venture lending but adjacent (provides growth/mezzanine debt to scaling companies). AUM ~$2.9B per Crunchbase.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "ca-cibc-innovation-banking",
+    "name": { "en": "CIBC Innovation Banking" },
+    "aka": ["Wellington Financial"],
+    "type": "cvc",
+    "subtypes": ["venture-debt"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://innovationbanking.cibc.com/en",
+    "links": {
+      "other": [
+        "https://www.innovationbanking.cibc.com/our-solutions",
+        "https://betakit.com/cibc-acquires-wellington-financial-to-support-launch-of-cibc-innovation-banking/"
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "$250,000 to syndication needs of $150 million and more", "usd_min": 250000, "usd_max": 150000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Canada", "United States", "United Kingdom"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "biotech", "healthtech"],
+      "thesis": "Bank-backed innovation lender providing startup lending, venture debt and fund-finance solutions to tech and life-sciences companies and their VC investors at every growth stage. Launched in 2018 on CIBC's acquisition of Wellington Financial (founded 2000)."
+    },
+    "track_record": {
+      "portfolio_count": "700+ early- and late-stage companies; $11.2B deployed to date",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Contact via innovationbanking.cibc.com",
+      "accepts_cold_inbound": true,
+      "contact": "https://innovationbanking.cibc.com/en"
+    },
+    "tags": ["venture-debt", "fund-finance", "innovation-banking", "growth-capital"],
+    "summary": {
+      "en": "CIBC's venture-lending arm, launched 2018 via the acquisition of Wellington Financial; provides venture debt, startup lending and fund finance ($250K to $150M+) across Canada, the US and UK."
+    },
+    "sources": [
+      {
+        "url": "https://innovationbanking.cibc.com/en",
+        "title": "Financing for Startups & Venture Funds | CIBC Innovation Banking",
+        "publisher": "CIBC Innovation Banking",
+        "accessed": "2026-06-03",
+        "supports": "capital deployed, companies, check range",
+        "quote": "CIBC Innovation Banking has deployed $11.2 billion in growth capital to 700+ early- and late-stage startup companies"
+      },
+      {
+        "url": "https://betakit.com/cibc-acquires-wellington-financial-to-support-launch-of-cibc-innovation-banking/",
+        "title": "CIBC acquires Wellington Financial to support launch of CIBC Innovation Banking",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-03",
+        "supports": "2018 launch via Wellington Financial acquisition",
+        "quote": "In 2018, CIBC acquired Wellington Financial and launched CIBC Innovation Banking"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Modeled as CVC (bank-owned). Predecessor Wellington Financial (founded 2000 by Mark McQueen) was acquired by CIBC in January 2018; folded into CIBC Innovation Banking. Cumulative $11.2B/700+ figures are company-reported.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "ca-roynat-capital",
+    "name": { "en": "Roynat Capital" },
+    "type": "cvc",
+    "subtypes": ["venture-debt", "growth-equity"],
+    "status": "active",
+    "founded_year": null,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.roynat.com/ca/en/",
+    "links": {
+      "other": [
+        "https://www.roynat.com/ca/en/who-we-are/technology-innovation-banking.html",
+        "https://www.roynat.com/ca/en/who-we-are/equity-partners.html"
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-b", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["saas-enterprise", "generalist"],
+      "thesis": "Scotiabank subsidiary offering senior to subordinated financing structures for the tech sector, serving venture-backed or bootstrapped Canadian tech companies seeking flexible, non-dilutive capital, plus mezzanine and equity for mid-sized businesses."
+    },
+    "track_record": { "notable_investments": [] },
+    "people": [],
+    "application": {
+      "how_to_apply": "Contact via roynat.com technology & innovation banking team",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.roynat.com/ca/en/who-we-are/technology-innovation-banking.html"
+    },
+    "tags": ["venture-debt", "mezzanine", "innovation-banking", "non-dilutive"],
+    "summary": {
+      "en": "Scotiabank-owned long-term lender and mezzanine/equity investor with a dedicated technology & innovation banking team providing non-dilutive growth capital to Canadian tech companies."
+    },
+    "sources": [
+      {
+        "url": "https://www.roynat.com/ca/en/who-we-are/technology-innovation-banking.html",
+        "title": "Technology & Innovation banking for startups - Roynat Capital",
+        "publisher": "Roynat Capital",
+        "accessed": "2026-06-03",
+        "supports": "tech-sector lending, senior to subordinated structures, non-dilutive focus",
+        "quote": "Roynat is one of the only lending groups in Canada with product capability covering senior to subordinated financing structures specialized and focused on the Tech sector"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "A subsidiary of Scotiabank (hence cvc). Founding year of the broader Roynat entity not pinned to a single reliable figure; left null. Check-size range not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "ca-teralys-capital",
+    "name": { "en": "Teralys Capital" },
+    "type": "vc",
+    "subtypes": ["fund-of-funds"],
+    "status": "active",
+    "founded_year": 2009,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://www.teralyscapital.com/en/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/teralys-capital",
+      "other": ["https://www.teralyscapital.com/en/funds/", "https://reseaucapital.com/en/members/teralys-capital-inc-2/"]
+    },
+    "capital": {
+      "aum": { "raw": "$2.0 B", "usd": null, "currency": "CAD" }
+    },
+    "strategy": {
+      "stages": ["all"],
+      "geo_focus": ["Canada", "Quebec", "Global"],
+      "sector_focus": ["ai-ml", "biotech", "climate-energy", "cybersecurity", "deeptech"],
+      "thesis": "Largest innovation-focused fund-of-funds investor in Canada; finances private venture capital funds across the full spectrum from early-stage to growth and tech buyouts in IT, life sciences and clean/industrial innovation."
+    },
+    "track_record": {
+      "portfolio_count": "5 specialized VC fund-of-funds plus 2 legacy portfolios",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Fund managers contact via teralyscapital.com",
+      "accepts_cold_inbound": false,
+      "contact": "https://www.teralyscapital.com/en/"
+    },
+    "tags": ["fund-of-funds", "lp", "venture-capital", "limited-partner"],
+    "summary": {
+      "en": "Montreal-based fund-of-funds (founded 2009) and the largest innovation-focused VC investor in Canada, with ~$2B AUM; backed by CDPQ, Fonds de solidarité FTQ and Investissement Québec."
+    },
+    "sources": [
+      {
+        "url": "https://www.teralyscapital.com/en/",
+        "title": "Teralys Capital - Website",
+        "publisher": "Teralys Capital",
+        "accessed": "2026-06-03",
+        "supports": "HQ Montreal, AUM",
+        "quote": "$2.0 B Assets Under Management"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/teralys-capital",
+        "title": "Teralys Capital - Crunchbase Company Profile",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-03",
+        "supports": "founded 2009, fund-of-funds count, LPs",
+        "quote": "With $2B in assets under management across 5 specialized venture capital fund-of-funds and 2 additional legacy portfolios of funds, Teralys is the largest innovation-focused investor in Canada."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2009, Montreal HQ. AUM ~$2B (currency presented as CAD/USD ambiguous on site; recorded as CAD pending confirmation).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "ca-northleaf-capital-partners",
+    "name": { "en": "Northleaf Capital Partners" },
+    "type": "vc",
+    "subtypes": ["fund-of-funds", "secondaries"],
+    "status": "active",
+    "founded_year": 2009,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.northleafcapital.com/",
+    "links": {
+      "other": [
+        "https://www.northleafcapital.com/news/northleaf-hits-370-million-hard-cap-fourth-canadian-venture-capital-fund",
+        "https://www.northleafcapital.com/news/northleaf-hits-300-million-hard-cap-northleaf-venture-catalyst-fund-ii"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Northleaf Venture Catalyst Fund III (NVCF III)", "vintage_year": 2024, "size": { "raw": "$370 million", "usd": null, "currency": "CAD" } },
+        { "name": "Northleaf Venture Catalyst Fund II (NVCF II)", "vintage_year": null, "size": { "raw": "$300 million", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["all", "growth"],
+      "geo_focus": ["Canada"],
+      "sector_focus": ["generalist", "ai-ml", "healthtech"],
+      "thesis": "Global private-markets firm whose Venture Catalyst Funds (VCAP/VCCI-backed) operate as fund-of-funds into Canada's top VC funds plus direct/co-investments into later-stage high-growth Canadian companies; also runs PE secondaries and co-investment programs."
+    },
+    "track_record": {
+      "portfolio_count": "50+ Canadian VC funds and 30+ tech/healthcare companies",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Fund managers / co-investments via northleafcapital.com",
+      "accepts_cold_inbound": false,
+      "contact": "https://www.northleafcapital.com/"
+    },
+    "tags": ["fund-of-funds", "secondaries", "co-investment", "vcci", "private-markets"],
+    "summary": {
+      "en": "Toronto-headquartered global private-markets firm (founded 2009) running the VCAP/VCCI-backed Northleaf Venture Catalyst Funds as Canadian VC fund-of-funds plus direct co-investments; also active in PE secondaries."
+    },
+    "sources": [
+      {
+        "url": "https://www.northleafcapital.com/news/northleaf-hits-370-million-hard-cap-fourth-canadian-venture-capital-fund",
+        "title": "Northleaf Hits $370 Million Hard Cap with Fourth Canadian Venture Capital Fund",
+        "publisher": "Northleaf Capital",
+        "accessed": "2026-06-03",
+        "supports": "NVCF III size $370M, fund-of-funds + direct mandate, track record",
+        "quote": "Northleaf has delivered attractive returns through investments in more than 50 Canadian VC funds and more than 30 technology and health care companies."
+      },
+      {
+        "url": "https://www.northleafcapital.com/news/northleaf-hits-300-million-hard-cap-northleaf-venture-catalyst-fund-ii",
+        "title": "Northleaf hits $300 million hard cap for Northleaf Venture Catalyst Fund II",
+        "publisher": "Northleaf Capital",
+        "accessed": "2026-06-03",
+        "supports": "NVCF II size $300M",
+        "quote": "NVCF II recently held its final closing at its hard cap of $300 million."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Toronto HQ; founded ~2009 as an independent firm (spun out of TD). Runs venture fund-of-funds plus PE secondaries; subtype 'secondaries' reflects its broader private-markets secondaries program.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "ca-kensington-capital-partners",
+    "name": { "en": "Kensington Capital Partners" },
+    "aka": ["Kensington Capital Partners Limited", "KCPL"],
+    "type": "vc",
+    "subtypes": ["fund-of-funds"],
+    "status": "active",
+    "founded_year": 1996,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://kcpl.ca/",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/kensington-capital-partners",
+      "other": [
+        "https://kcpl.ca/kensington-capital-partners-announces-final-close-of-290-million-kensington-venture-fund-iii/",
+        "https://betakit.com/agf-private-capital-acquires-majority-stake-in-kensington-capital-partners-for-45-million/"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "$2.6 billion", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Kensington Venture Fund III (KVF III)", "vintage_year": 2024, "size": { "raw": "$290 million", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["all", "growth"],
+      "geo_focus": ["Canada", "Global"],
+      "sector_focus": ["generalist", "ai-ml", "saas-enterprise"],
+      "thesis": "Independent Canadian alternative-assets investor; the Kensington Venture Funds operate as VCCI-backed fund-of-funds into top-tier VC funds plus direct co-investments into high-potential tech companies, alongside private equity, infrastructure and hedge fund programs."
+    },
+    "track_record": { "notable_investments": [] },
+    "people": [],
+    "application": {
+      "how_to_apply": "Fund managers / investors via kcpl.ca",
+      "accepts_cold_inbound": false,
+      "contact": "https://kcpl.ca/"
+    },
+    "tags": ["fund-of-funds", "co-investment", "vcci", "alternative-assets"],
+    "summary": {
+      "en": "Toronto-based alternative-assets investor (founded 1996, ~$2.6B AUM) whose VCCI-backed Kensington Venture Funds act as VC fund-of-funds plus direct co-investors. AGF Private Capital acquired a 51% majority stake in 2024."
+    },
+    "sources": [
+      {
+        "url": "https://kcpl.ca/kensington-capital-partners-announces-final-close-of-290-million-kensington-venture-fund-iii/",
+        "title": "Kensington Capital Partners Announces Final Close of $290 Million Kensington Venture Fund III",
+        "publisher": "Kensington Capital Partners",
+        "accessed": "2026-06-03",
+        "supports": "KVF III size, fund-of-funds + direct mandate",
+        "quote": "KVF III will operate as a fund-of-funds, investing in top-tier venture capital funds, and as a direct investor in high-potential technology companies"
+      },
+      {
+        "url": "https://betakit.com/agf-private-capital-acquires-majority-stake-in-kensington-capital-partners-for-45-million/",
+        "title": "AGF Private Capital acquires majority stake in Kensington Capital Partners for $45 million",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-03",
+        "supports": "founded 1996, AUM, AGF majority stake",
+        "quote": "Kensington says it has $2.6 billion in assets under its management"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 1996, Toronto. AGF Private Capital acquired 51% majority interest for $45M (closing Q2 2024); Kensington retains 49% and operational independence.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "ca-harbourvest-canada",
+    "name": { "en": "HarbourVest Partners (Canada)" },
+    "type": "vc",
+    "subtypes": ["fund-of-funds", "secondaries"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.harbourvest.com/",
+    "links": {
+      "other": [
+        "https://www.businesswire.com/news/home/20191105005915/en/HarbourVest-Partners-Closes-Canada-Growth-Fund-II",
+        "https://privatecapitaljournal.com/harbourvest-partners-secures-189-7m-for-canada-growth-fund-iii/"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "HarbourVest Canada Growth Fund II", "vintage_year": 2019, "size": { "raw": "CAD $300 million", "usd": null, "currency": "CAD" } },
+        { "name": "HarbourVest Canada Growth Fund III", "vintage_year": null, "size": { "raw": "$189.7 million", "usd": null, "currency": "CAD" } },
+        { "name": "HarbourVest Canada Growth Fund", "vintage_year": null, "size": { "raw": "$197.2 million", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-c-plus"],
+      "geo_focus": ["Canada"],
+      "sector_focus": ["generalist"],
+      "thesis": "Toronto-based Canadian growth/fund-of-funds program of global private-markets firm HarbourVest; under the VCAP/VCCI mandate it invests in leading Canadian venture and growth managers, top-tier international managers active in Canada, and direct growth-stage co-investments. HarbourVest is also a major global secondaries buyer."
+    },
+    "track_record": { "notable_investments": [] },
+    "people": [
+      { "name": "Senia Rapisarda", "role": "Head of Canada (Toronto office lead)" }
+    ],
+    "application": {
+      "how_to_apply": "Fund managers / co-investments via harbourvest.com",
+      "accepts_cold_inbound": false,
+      "contact": "https://www.harbourvest.com/"
+    },
+    "tags": ["fund-of-funds", "secondaries", "co-investment", "vcci", "growth-equity"],
+    "summary": {
+      "en": "Toronto office (opened 2015) of global private-markets manager HarbourVest, running the VCAP/VCCI-backed Canada Growth Funds as VC/growth fund-of-funds plus direct co-investments; HarbourVest is also a leading global secondaries investor."
+    },
+    "sources": [
+      {
+        "url": "https://www.businesswire.com/news/home/20191105005915/en/HarbourVest-Partners-Closes-Canada-Growth-Fund-II",
+        "title": "HarbourVest Partners Closes Canada Growth Fund II",
+        "publisher": "Business Wire",
+        "accessed": "2026-06-03",
+        "supports": "Canada Growth Fund II CAD $300M close",
+        "quote": "HarbourVest Partners held final close for its second VCCI fund, HarbourVest Canada Growth Fund II, at CAD $300 million"
+      },
+      {
+        "url": "https://www.businesswire.com/news/home/20180712005123/en/HarbourVest-Partners-Selected-Participate-Canada%E2%80%99s-Venture-Capital",
+        "title": "HarbourVest Partners Selected to Participate in Canada's Venture Capital Catalyst Initiative",
+        "publisher": "Business Wire",
+        "accessed": "2026-06-03",
+        "supports": "VCCI mandate, Toronto office 2015, fund-of-funds + co-invest",
+        "quote": "The firm opened its office in Toronto in 2015, led by Senia Rapisarda"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "HarbourVest Partners is a US-headquartered global firm; this entity captures its Canadian fund-of-funds/secondaries presence (Toronto office opened 2015, founded_year reflects the Canadian office). Country set to Canada per the Canadian operating presence; parent is US. May overlap with a global-firm record elsewhere.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "ca-setter-capital",
+    "name": { "en": "Setter Capital" },
+    "aka": ["Setter Capital Inc."],
+    "type": "vc",
+    "subtypes": ["secondaries"],
+    "status": "active",
+    "founded_year": 2006,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://www.settercapital.com/",
+    "links": {
+      "other": ["https://pitchbook.com/profiles/advisor/65014-03"]
+    },
+    "strategy": {
+      "stages": ["all"],
+      "geo_focus": ["Global", "North America"],
+      "sector_focus": ["generalist"],
+      "thesis": "Specialist secondary-advisory firm providing liquidity solutions to private fund managers and institutional investors: portfolio sales, valuations and secondary lending across venture capital, private equity, infrastructure, real estate, real assets and hedge funds."
+    },
+    "track_record": {
+      "portfolio_count": "hundreds of transactions; $30B+ liquidity since 2006",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Contact via settercapital.com",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.settercapital.com/"
+    },
+    "tags": ["secondaries", "secondary-advisory", "liquidity", "lp-stakes"],
+    "summary": {
+      "en": "Toronto-based secondary-advisory firm (founded 2006) focused on liquidity solutions and portfolio sales in the private-fund secondary market, including venture capital; has facilitated $30B+ in liquidity."
+    },
+    "sources": [
+      {
+        "url": "https://www.settercapital.com/",
+        "title": "Private Equity Advisory - Secondary Market | Setter Capital",
+        "publisher": "Setter Capital",
+        "accessed": "2026-06-03",
+        "supports": "founded 2006, Toronto HQ, secondary advisory focus, $30B liquidity",
+        "quote": "Since their inception in 2006, they have completed hundreds of transactions, representing more than $30 billion in liquidity"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2006, Toronto HQ. An advisory/intermediary rather than a direct secondaries fund, but is a key Canadian player in VC/PE secondaries (portfolio sales, valuations, secondary lending). Included as the segment explicitly covers secondaries organizations.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  }
+]

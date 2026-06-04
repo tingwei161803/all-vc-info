@@ -1,0 +1,856 @@
+[
+  {
+    "id": "kr-breeze-investment",
+    "name": { "en": "Breeze Investment", "local": "브리즈인베스트먼트" },
+    "aka": ["Breeze", "PWF operator"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/breezeinvestment"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": "KRW 20 billion (Proptech Watering Fund)", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Proptech Watering Fund (PWF)", "vintage_year": 2020, "size": { "raw": "KRW 20 billion", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": "KRW 1bn–5.8bn", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["proptech"],
+      "thesis": "Korea's first dedicated proptech-specialist investment firm; backs IoT, big data, AI, VR, fintech and blockchain startups that digitize real estate. Established by the Zigbang real-estate platform with construction firm Woomi as co-LP."
+    },
+    "track_record": {
+      "portfolio_count": 10,
+      "notable_investments": [
+        { "company": "UrbanBase (어반베이스)", "sector": "proptech (3D space data)", "outcome": "active" }
+      ],
+      "co_investors": ["Woomi Construction", "Enlight Ventures", "Shinsegae I&C"]
+    },
+    "people": [
+      { "name": "Park Je-moo (박제무)", "role": "CEO / Representative" }
+    ],
+    "team_size": 3,
+    "application": { "how_to_apply": "Inbound via website / referral", "accepts_cold_inbound": null },
+    "tags": ["proptech", "cvc", "real-estate", "zigbang"],
+    "summary": {
+      "en": "Corporate VC founded in 2019 by real-estate platform Zigbang (with construction firm Woomi as co-LP) — described as Korea's first proptech-specialist investor. Runs the KRW 20bn Proptech Watering Fund investing in Series A/B proptech startups.",
+      "local": "직방이 2019년 설립한 국내 최초의 프롭테크 전문 투자사(CVC). 우미건설과 함께 200억원 규모 '프롭테크 워터링 펀드(PWF)'를 결성해 프롭테크 스타트업에 투자."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/breezeinvestment",
+        "title": "브리즈인베스트먼트(투자조합) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founding year, CEO, fund, portfolio count, stages, check size, staff",
+        "quote": "Founded: November 25, 2019 ... CEO/Representative: Park Je-moo (박제무) ... Total Portfolio Companies: 10건 ... Investment Range: 1-5.8 billion won ... Managed Fund: Proptech Watering Fund"
+      },
+      {
+        "url": "https://platum.kr/archives/134977",
+        "title": "직방, CVC 설립…프롭테크 스타트업에 투자, 200억 규모 펀드 조성",
+        "publisher": "Platum",
+        "accessed": "2026-06-03",
+        "supports": "CVC nature, fund size, LP structure",
+        "quote": "펀드의 이름은 'PWF'(Proptech Watering Fund) ... 투자금 200억원은 직방과 우미건설이 각각 100억원씩 출자"
+      },
+      {
+        "url": "https://www.ajunews.com/view/20201103013541234",
+        "title": "박제무 브리즈인베스트먼트 대표 \"프롭테크, 가장 유망한 투자처\"",
+        "publisher": "Aju Business Daily",
+        "accessed": "2026-06-03",
+        "supports": "proptech-specialist positioning",
+        "quote": "브리즈인베스트먼트(Breeze Investment)는 프롭테크 스타트업에 투자하기 위해 ... 설립된 벤처캐피탈"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "THE VC notes recent 자본잠식 (capital erosion) as of 2026; AUM not disclosed. Classified CVC given Zigbang parentage; effectively a proptech-dedicated blind fund.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "kr-xplor-investment",
+    "name": { "en": "XPLOR Investment", "local": "엑스플로인베스트먼트" },
+    "aka": ["XPLOR", "엑스플로"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.xivc.kr/",
+    "links": {
+      "other": ["https://www.xivc.kr/about", "https://thevc.kr/xplorinvestment"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": "KRW 13 billion initial capital", "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "PlanH-XPLOR Green Smart City Venture Investment Fund", "vintage_year": 2024, "size": { "raw": "KRW 38.5 billion (target KRW 40bn+)", "usd": null, "currency": "KRW" } },
+        { "name": "Startup Korea XPLOR Synergy Fund", "vintage_year": 2026, "size": { "raw": "KRW 20 billion", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "KRW 0.4bn–4.857bn", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["proptech", "ai-ml", "climate-energy", "robotics"],
+      "thesis": "100%-owned CVC of GS Engineering & Construction; discovers, invests in and nurtures construction-related contech / smart-city ventures that create synergies with GS E&C, plus non-construction new-tech companies. Runs the 'Camp XPLOR' co-growth program."
+    },
+    "program": {
+      "format": "in-person",
+      "location": "Seoul",
+      "eligibility": "Startups in construction-adjacent and new-tech fields via Camp XPLOR selection program"
+    },
+    "track_record": {
+      "portfolio_count": 20,
+      "co_investors": ["PlanH Ventures", "Korea Mother Fund (모태펀드)"]
+    },
+    "people": [
+      { "name": "Park Min-kyoo (박민규)", "role": "CEO" }
+    ],
+    "team_size": 7,
+    "application": { "how_to_apply": "Camp XPLOR program selection cycles", "accepts_cold_inbound": null, "contact": "admin@xplor.kr" },
+    "tags": ["contech", "smart-city", "cvc", "gs-construction"],
+    "summary": {
+      "en": "Corporate VC established 2022 as a wholly-owned subsidiary of GS E&C with KRW 13bn capital. Focuses on construction-tech / smart-city startups; co-runs a KRW 38.5bn green-smart-city fund with Hoban's PlanH Ventures and operates the Camp XPLOR program.",
+      "local": "GS건설이 2022년 130억원 자본금으로 설립한 100% 자회사 CVC. 스마트건설·스마트시티 스타트업에 투자하며, 호반 플랜에이치벤처스와 385억원 그린스마트시티 펀드를 공동 운용하고 'Camp XPLOR' 프로그램을 운영."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/xplorinvestment",
+        "title": "엑스플로인베스트먼트(투자조합) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founding, CEO, portfolio count, stages, check size, sector mix, staff",
+        "quote": "Founded: May 2022 ... CEO: Park Min-kyoo (박민규) ... Portfolio Companies: 20 investments ... Investment Range: 400 million to 4.857 billion won ... Key Sectors: Construction/Transportation (7 deals)"
+      },
+      {
+        "url": "https://economist.co.kr/article/view/ecn202205300086",
+        "title": "GS건설, CVC '엑스플로인베스트먼트' 설립…130억원 출자",
+        "publisher": "Economist (이코노미스트)",
+        "accessed": "2026-06-03",
+        "supports": "parent, capital",
+        "quote": "GS건설 ... 100% subsidiary corporate venture capital (CVC) with 13 billion won in capital"
+      },
+      {
+        "url": "https://www.newstof.com/news/articleView.html?idxno=24825",
+        "title": "플랜에이치-엑스플로 컨소시엄, 385억 펀드 결성 초읽기",
+        "publisher": "Newstof",
+        "accessed": "2026-06-03",
+        "supports": "Green Smart City fund size and thesis",
+        "quote": "385억원 규모의 신규 블라인드펀드를 결성 ... 드론, 공간정보, 스마트물류, 자율주행차, 스마트시티, 스마트건설 ... 60% 이상 투자"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Camp XPLOR program details (length/equity) not publicly disclosed; AUM not disclosed. 'Startup Korea XPLOR Synergy Fund' size noted by THE VC as KRW 20bn (some reports cite 200bn — figure conflicted, left as reported by primary directory).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "kr-planh-ventures",
+    "name": { "en": "PlanH Ventures", "local": "플랜에이치벤처스" },
+    "aka": ["Plan.H Ventures", "플랜H벤처스", "플랜에이치"],
+    "type": "cvc",
+    "subtypes": ["accelerator", "vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://planhventures.co.kr/",
+    "links": {
+      "other": ["https://thevc.kr/planhventures", "https://www.rocketpunch.com/companies/planhventures"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "PlanH-XPLOR Green Smart City Venture Investment Fund", "vintage_year": 2024, "size": { "raw": "KRW 38.5 billion (consortium with XPLOR)", "usd": null, "currency": "KRW" } },
+        { "name": "PlanH New Technology Value-up Venture Investment Fund 1", "vintage_year": 2023, "size": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "KRW 0.1bn–1.45bn", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["proptech", "ai-ml", "climate-energy", "healthtech"],
+      "thesis": "Full-cycle accelerator and CVC, 100%-owned by Hoban Construction. Backs smart-construction / proptech startups that create synergies with Hoban's projects, plus AI, renewable energy and healthcare. Operates incubation, TIPS R&D linkage and follow-on investment; also a registered SME startup-investment company."
+    },
+    "program": {
+      "format": "hybrid",
+      "location": "Seoul",
+      "demo_day": null,
+      "perks": ["TIPS R&D linkage", "open-innovation projects with Hoban", "follow-on investment"],
+      "eligibility": "Early-stage startups, esp. smart-construction / proptech"
+    },
+    "track_record": {
+      "portfolio_count": 45,
+      "notable_investments": [
+        { "company": "Ten Eleven (텐일레븐)", "sector": "proptech (AI architectural design)", "outcome": "active" },
+        { "company": "Fluxcity (플럭시티)", "sector": "proptech (digital twin / facility mgmt)", "outcome": "active" },
+        { "company": "Zinplus (지인플러스)", "sector": "proptech (apartment market analysis)", "outcome": "active" }
+      ],
+      "co_investors": ["XPLOR Investment", "Korea Development Bank", "IBK"]
+    },
+    "people": [
+      { "name": "Won Han-kyung (원한경)", "role": "Co-CEO" },
+      { "name": "Min Byung-gyu (민병규)", "role": "Co-CEO" }
+    ],
+    "application": { "how_to_apply": "Open-innovation / accelerator program calls", "accepts_cold_inbound": null },
+    "tags": ["contech", "proptech", "accelerator", "cvc", "hoban"],
+    "summary": {
+      "en": "Hoban Construction's wholly-owned accelerator/CVC, founded 2019. Full-cycle investor (incubation→TIPS→follow-on) with 45 portfolio companies, heavily weighted to construction/transportation and AI; backs proptech/contech names like Ten Eleven, Fluxcity and Zinplus.",
+      "local": "호반건설 100% 자회사 액셀러레이터 겸 CVC(2019년 설립). 보육→TIPS→후속투자 전주기 투자사로 45개 기업 포트폴리오 보유. 텐일레븐·플럭시티·지인플러스 등 콘테크·프롭테크 기업에 투자."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/planhventures",
+        "title": "플랜에이치벤처스(투자조합) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founding, co-CEOs, portfolio count, check size, sector mix",
+        "quote": "Founded: 2019 (February 12) ... Total portfolio companies: 45 ... Range: ₩100 million to ₩1.45 billion ... Construction/Transportation (15 deals) ... Co-CEOs: Won Han-kyung and Min Byung-gyu"
+      },
+      {
+        "url": "https://www.etnews.com/20220902000144",
+        "title": "호반건설 플랜에이치벤처스, 중소기업창업투자회사 신규 등록",
+        "publisher": "Electronic Times (전자신문)",
+        "accessed": "2026-06-03",
+        "supports": "accelerator + SME startup-investment company registration, Hoban ownership",
+        "quote": "호반건설이 설립한 액셀러레이터 법인 '플랜에이치'가 중소벤처기업부에 중소기업창업투자회사로 등록"
+      },
+      {
+        "url": "https://www.m-i.kr/news/articleView.html?idxno=780534",
+        "title": "포트폴리오 확대하는 건설사…프롭테크 투자",
+        "publisher": "Maeil Ilbo (매일일보)",
+        "accessed": "2026-06-03",
+        "supports": "proptech/contech portfolio examples",
+        "quote": "프롭테크 업체 '텐일레븐' 등에 투자해 호반건설 사업장에 활용 ... 프롭테크 기업인 '지인플러스'에 투자"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Two related Hoban vehicles exist — PlanH Ventures (accelerator/CVC) and Cornerstone Investment Partners (new-tech finance); kept distinct. Fund sizes mostly undisclosed except the 38.5bn consortium fund.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "kr-rising-s-ventures",
+    "name": { "en": "Rising S Ventures", "local": "라이징에스벤처스" },
+    "aka": ["RisingS Ventures"],
+    "type": "cvc",
+    "subtypes": ["vc", "accelerator"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Daejeon",
+    "links": {
+      "other": ["https://thevc.kr/risingsventures", "https://www.etnews.com/20220701000127"]
+    },
+    "capital": {
+      "aum": { "raw": "≥ KRW 165 billion across 4 funds", "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "pre-seed", "series-a"],
+      "check_size": { "raw": "avg KRW 0.843bn", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["proptech", "ai-ml", "biotech", "deeptech"],
+      "thesis": "Daejeon-based CVC set up by the Kumsung Baekjo (금성백조) housing/construction developer group. Founding mandate explicitly covers construction-related contech and proptech alongside AI, biotech, secondary batteries and fintech; reinvests development profits into early-stage tech and regional startups."
+    },
+    "track_record": {
+      "portfolio_count": 26,
+      "notable_investments": [
+        { "company": "OasisBusiness (오아시스비즈니스)", "sector": "proptech (commercial real-estate valuation)", "outcome": "active" },
+        { "company": "TeamWork (팀워크)", "sector": "contech (location-data smart blueprint)", "outcome": "active" }
+      ],
+      "co_investors": ["KB Investment", "Korea Investment Partners", "Sopoong Ventures", "CompanyK Partners"]
+    },
+    "people": [
+      { "name": "Jang Ji-young (장지영)", "role": "CEO" }
+    ],
+    "team_size": 6,
+    "application": { "how_to_apply": "Inbound / TIPS program", "accepts_cold_inbound": null },
+    "tags": ["proptech", "contech", "cvc", "kumsung-baekjo", "daejeon", "tips"],
+    "summary": {
+      "en": "Corporate VC founded 2021 by the Kumsung Baekjo construction/housing group in Daejeon; a TIPS operator. Among Daejeon's only startup-investment companies. Portfolio of 26 incl. proptech (OasisBusiness commercial RE valuation) and contech (TeamWork smart blueprints).",
+      "local": "금성백조(주택·건설) 그룹이 2021년 대전에 설립한 CVC이자 TIPS 운영사. 콘테크·프롭테크를 포함한 초기 기술기업에 투자하며, 오아시스비즈니스(상업용 부동산 가치평가)·팀워크(스마트 도면) 등 26개사 보유."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/risingsventures",
+        "title": "라이징에스벤처스(투자조합) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founding date, HQ, CEO, portfolio count, fund total, avg check",
+        "quote": "Founded: April 2, 2021 ... Headquarters: Daejeon ... Number of Investments: 26 portfolio companies ... Average Investment Size: 843 million won ... CEO: Jang Ji-young (장지영) ... 4 operating funds totaling at least 165 billion won"
+      },
+      {
+        "url": "https://www.etnews.com/20220701000127",
+        "title": "금성백조 설립 벤처투자사 라이징에스벤처스 VC 라이선스 취득",
+        "publisher": "Electronic Times (전자신문)",
+        "accessed": "2026-06-03",
+        "supports": "Kumsung Baekjo parentage, contech/proptech mandate, portfolio examples",
+        "quote": "건설 관련 콘테크와 프롭테크 ... OasisBusiness ... TeamWork ... 라이징에스벤처스는 ... 창업투자회사로 등록"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "THE VC sector mix is led by manufacturing/biomedical; proptech/contech is the founding-thesis differentiator (developer parent) and confirmed by named portfolio. Fund-total figure (165bn) from THE VC; not cross-checked against regulator filings.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "kr-woomi-global",
+    "name": { "en": "Woomi Global", "local": "우미글로벌" },
+    "aka": ["Woomi Group", "우미건설 (affiliate)", "우미글로벌"],
+    "type": "family-office",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2001,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Gwangju",
+    "links": {
+      "other": ["https://thevc.kr/woomiglobal", "https://dealsite.co.kr/articles/88838"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "KRW 0.5bn–2.45bn (direct deals)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["proptech", "ai-ml", "healthtech"],
+      "thesis": "Investment-holding arm of the Woomi (우미) construction/real-estate group. One of Korea's most active strategic real-estate investors in proptech — over KRW 100bn deployed via direct stakes and LP commitments to VC funds (incl. Breeze Investment's Proptech Watering Fund) seeking core-business synergy."
+    },
+    "track_record": {
+      "portfolio_count": "14 (holding-company direct); 24+ across group",
+      "notable_investments": [
+        { "company": "UrbanBase (어반베이스)", "sector": "proptech (3D space data)", "outcome": "active" }
+      ],
+      "co_investors": ["Breeze Investment", "Enlight Ventures", "Shinsegae I&C", "K-Clavis Investment"]
+    },
+    "people": [
+      { "name": "Lee Suk-jun (이석준)", "role": "Chairman, Woomi Group" },
+      { "name": "Jang Dong-seok (장동석)", "role": "CEO" }
+    ],
+    "team_size": 36,
+    "application": { "how_to_apply": "Strategic / referral; LP into proptech funds", "accepts_cold_inbound": null },
+    "tags": ["proptech", "real-estate", "construction", "strategic-investor", "lp"],
+    "summary": {
+      "en": "Investment-holding company of the Woomi construction group (est. 2001, Gwangju). A leading strategic real-estate investor in Korean proptech, deploying 100bn-won-plus via direct stakes and as LP in proptech VC funds (co-founded Breeze Investment's Proptech Watering Fund with Zigbang).",
+      "local": "우미건설 그룹의 투자지주회사(2001년 설립, 광주). 1000억원 이상을 직접투자·펀드 출자로 집행한 국내 대표 프롭테크 전략적 투자자. 직방과 함께 브리즈인베스트먼트의 프롭테크 워터링 펀드를 공동 출자."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/woomiglobal",
+        "title": "우미글로벌(사업지주회사) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founding, HQ, type, portfolio count, check range, CEO, staff",
+        "quote": "Founded: November 2001 ... Headquarters: Gwangju ... Total portfolio companies: 14 ... Investment range per deal: 500 million won to 2.45 billion won ... CEO: Jang Dong-seok (장동석)"
+      },
+      {
+        "url": "https://dealsite.co.kr/articles/88838",
+        "title": "우미글로벌, 스타트업 직·간접투자 1030억 집행",
+        "publisher": "Dealsite (딜사이트)",
+        "accessed": "2026-06-03",
+        "supports": "total deployed >100bn, direct + LP strategy, proptech focus",
+        "quote": "스타트업 직·간접투자 1030억 집행 ... 국내 주요 스타트업 24곳에 총 613억원 ... 벤처펀드를 포함한 각종 수익증권에 출자한 규모는 총 515억원"
+      },
+      {
+        "url": "https://www.topdaily.kr/articles/91131",
+        "title": "'벤처투자'에서 미래성장 동력 찾는 건설사",
+        "publisher": "Topdaily",
+        "accessed": "2026-06-03",
+        "supports": "co-LP of Breeze proptech fund",
+        "quote": "우미건설은 직방이 설립한 창업투자회사 브리즈인베스트먼트 ... '프롭테크 워터링 펀드'에 100억원을 출자"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Classified family-office/strategic-investor (holding company, not a licensed fund manager); it both invests directly and acts as LP. Exact AUM undisclosed; cumulative deployment figure from secondary reporting.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "kr-cornerstone-investment-partners",
+    "name": { "en": "Cornerstone Investment Partners", "local": "코너스톤투자파트너스" },
+    "aka": ["Cornerstone Partners"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://cornerstonepartners.co.kr/",
+    "links": {
+      "other": ["https://thevc.kr/CORNERSTONEInvestment"]
+    },
+    "capital": {
+      "aum": { "raw": "KRW 107.4 billion across 15 new-tech investment funds", "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["generalist", "hardware-semiconductor", "proptech"],
+      "thesis": "New-technology finance company (신기술사업금융) of the Hoban Group, focused on mid/late-stage growth deals. The Hoban venture engine alongside accelerator PlanH Ventures; invests across sectors with construction/proptech synergy a strategic theme, though its largest wins have been semiconductor (HPSP) and consumer (Kurly)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "HPSP (에이치피에스피)", "sector": "semiconductor", "outcome": "IPO" },
+        { "company": "Kurly (컬리)", "sector": "ecommerce", "outcome": "active" }
+      ],
+      "co_investors": ["PlanH Ventures"]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Referral / inbound", "accepts_cold_inbound": null },
+    "tags": ["hoban", "new-tech-finance", "growth", "cvc"],
+    "summary": {
+      "en": "Hoban Group's new-technology finance company (est. 2016), the late-stage counterpart to accelerator PlanH Ventures. Runs ~KRW 107bn across 15 new-tech funds. Generalist with construction/proptech as a strategic theme; biggest wins to date are semiconductor (HPSP) and consumer (Kurly).",
+      "local": "호반그룹의 신기술사업금융회사(2016년 설립)로, 중·후기 투자를 담당하며 액셀러레이터 플랜에이치벤처스와 양대 축. 신기술투자조합 15개·1074억원 운용. 건설·프롭테크 시너지를 전략 테마로 하나 대표 성과는 HPSP(반도체)·컬리."
+    },
+    "sources": [
+      {
+        "url": "https://www.thebell.co.kr/free/Content/ArticleView.asp?key=202101121432485400108243&svccode=04",
+        "title": "호반건설, 벤처투자 양대축 '코너스톤·플랜에이치'",
+        "publisher": "The Bell",
+        "accessed": "2026-06-03",
+        "supports": "founding, role as late-stage Hoban vehicle, AUM, portfolio",
+        "quote": "2017년 신기술사업금융전문회사로 설립 ... 중·후기기업에 투자하는 신기술사업금융회사와 극초기기업을 육성하는 액셀러레이터를 병행운영 ... 신기술투자조합 15개 1074억원 ... 빅히트, 컬리, 아데나소프트"
+      },
+      {
+        "url": "https://core.asiae.co.kr/article/deal/2022062311233918818",
+        "title": "호반 계열 VC 코너스톤, HPSP 상장으로 수백억 차익 기대감",
+        "publisher": "Asiae",
+        "accessed": "2026-06-03",
+        "supports": "HPSP semiconductor stake / IPO",
+        "quote": "코너스톤투자파트너스는 ... 에이치피에스피(HPSP)에 대한 보통주 151만3120주(9%)를 보유"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year conflicts across sources (2016 vs 2017 신기술사 registration); used 2016 per The Bell, registration completed 2017. Proptech relevance is strategic/indirect via Hoban rather than a dedicated thesis — included for completeness, lower-priority.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "kr-sk-dnd",
+    "name": { "en": "SK D&D", "local": "에스케이디앤디" },
+    "aka": ["SK D&D", "SKDND", "SK디앤디", "D&D Investment (subsidiary)"],
+    "type": "cvc",
+    "subtypes": ["family-office"],
+    "status": "active",
+    "founded_year": 2004,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.skdnd.com/",
+    "links": {
+      "other": ["https://www.fntimes.com/html/view.php?ud=2023042608525953855e6e69892f_18"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["proptech", "saas-enterprise", "climate-energy"],
+      "thesis": "Listed real-estate developer (offices, retail complexes, residential, solar/ESS, urban logistics) pursuing proptech startup discovery and investment to optimize space user-experience via IT/data/SaaS. Forming a joint proptech-ecosystem fund with parent SK Discovery and investing via subsidiary D&D Investment."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Connectfy Cloud (커넥트파이 클라우드)", "sector": "proptech JV", "outcome": "active" }
+      ],
+      "co_investors": ["SK Discovery", "Yanolja Cloud"]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Strategic / corporate partnership", "accepts_cold_inbound": null },
+    "tags": ["proptech", "real-estate-developer", "smart-space", "sk-group"],
+    "summary": {
+      "en": "Listed SK-group real-estate developer (est. 2004) that has expanded into proptech investing — discovering and backing proptech startups, forming a joint proptech-ecosystem fund with SK Discovery, and investing via subsidiary D&D Investment. Set up the proptech JV Connectfy Cloud with Yanolja Cloud in 2023.",
+      "local": "SK그룹 계열 상장 부동산 디벨로퍼(2004년 설립)로 프롭테크 투자에 진출. 프롭테크 스타트업 발굴·투자, SK디스커버리와 프롭테크 생태계 공동펀드 조성, 자회사 D&D인베스트먼트를 통한 투자를 진행. 2023년 야놀자클라우드와 프롭테크 합작사 '커넥트파이 클라우드' 설립."
+    },
+    "sources": [
+      {
+        "url": "https://www.fntimes.com/html/view.php?ud=2023042608525953855e6e69892f_18",
+        "title": "SK디앤디-야놀자클라우드, 프롭테크 합작법인 '커넥트파이 클라우드' 설립",
+        "publisher": "Korea Financial News (한국금융신문)",
+        "accessed": "2026-06-03",
+        "supports": "proptech JV, proptech investment strategy",
+        "quote": "SK디앤디 ... 프롭테크 합작법인 '커넥트파이 클라우드' 설립 ... 프롭테크 스타트업 발굴·투자"
+      },
+      {
+        "url": "https://www.skdnd.com/invest/irsearch.do",
+        "title": "SK D&D IR",
+        "publisher": "SK D&D",
+        "accessed": "2026-06-03",
+        "supports": "developer profile, founding, business lines, D&D Investment subsidiary",
+        "quote": "SK디앤디 was established in 2004 as a real estate developer ... expanded into ... office and retail complex development, solar power, ESS, and urban logistics ... fund operations through its subsidiary D&D Investment"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Primarily a real-estate developer rather than a fund; proptech-investment activity confirmed but specific fund sizes/portfolio counts undisclosed. Included as a corporate/strategic proptech investor.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "kr-signite-partners",
+    "name": { "en": "Signite Partners", "local": "시그나이트파트너스" },
+    "aka": ["Signite", "시그나이트"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://signite.co/",
+    "links": {
+      "other": ["https://thevc.kr/signitepartners", "https://signite.co/en"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Smart Shinsegae Signite Investment Partnership", "vintage_year": 2020, "size": { "raw": "KRW 50 billion", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": "KRW 0.325bn–13bn", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["consumer", "ecommerce", "proptech"],
+      "thesis": "Shinsegae Group's corporate VC focused on retail, beauty, fashion and lifestyle. Proptech exposure comes via retail/commercial-real-estate tech — notably backing Sweet Spot (pop-up-store & retail-tenant brokerage that maximizes commercial real-estate value)."
+    },
+    "track_record": {
+      "portfolio_count": 36,
+      "notable_investments": [
+        { "company": "Sweet Spot (스위트스팟)", "sector": "proptech (commercial RE / pop-up retail)", "outcome": "active" }
+      ],
+      "co_investors": ["Hanwha Investment & Securities", "Hana Securities", "Woomi Construction", "Tigris"]
+    },
+    "people": [
+      { "name": "Moon Sung-wook / Stanley S.W. Moon (문성욱)", "role": "CEO" }
+    ],
+    "team_size": 13,
+    "application": { "how_to_apply": "Inbound via website", "accepts_cold_inbound": null },
+    "tags": ["shinsegae", "retail-tech", "proptech", "cvc"],
+    "summary": {
+      "en": "Shinsegae Group's CVC (est. July 2020), primarily retail/lifestyle-focused with a KRW 50bn debut fund. Relevant to proptech via commercial-real-estate / retail-tech bets such as Sweet Spot (pop-up-store brokerage). 36 portfolio companies.",
+      "local": "신세계그룹 CVC(2020년 7월 설립). 유통·라이프스타일 중심이며 500억원 규모 1호 펀드 운용. 스위트스팟(팝업스토어·상업용 부동산 중개) 등 리테일·상업용 부동산 테크 투자로 프롭테크와 연결. 포트폴리오 36개사."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/signitepartners",
+        "title": "시그나이트(투자조합) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founding, CEO, portfolio count, check range, fund count",
+        "quote": "Founded: July 2020 ... CEO: Moon Sung-wook (문성욱) ... 36 portfolio companies across 40 investment executions ... Investment range: ₩325 million to ₩13 billion per deal"
+      },
+      {
+        "url": "https://www.koreatechdesk.com/sweet-spot-leading-in-pop-up-store-brokerage-in-korea-attracts-series-b-investment/",
+        "title": "Sweet Spot leading in pop-up store brokerage in Korea, attracts Series B investment",
+        "publisher": "KoreaTechDesk",
+        "accessed": "2026-06-03",
+        "supports": "Signite as investor in commercial-RE proptech Sweet Spot",
+        "quote": "Korean retail proptech startup Sweet Spot has attracted ... investment ... included participation from Shinsegae Group's venture capital firm Signite Partners"
+      },
+      {
+        "url": "https://test.narangdesign.com/mail/kvca/202103/e1_3.php",
+        "title": "신세계그룹의 CVC, 시그나이트파트너스",
+        "publisher": "KVCA Newsletter",
+        "accessed": "2026-06-03",
+        "supports": "Shinsegae parentage, debut fund size",
+        "quote": "Smart Shinsegae Signite Investment Partnership ... 50 billion won"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Primarily a retail/lifestyle CVC, not a proptech specialist; included because of a verifiable commercial-real-estate / retail-tech (Sweet Spot) thread. Sector_focus 'proptech' is secondary. THE VC 'average investment size' figure appeared garbled and was omitted.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "kr-enlight-ventures",
+    "name": { "en": "Enlight Ventures", "local": "인라이트벤처스" },
+    "aka": ["Enlight"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Daegu",
+    "website": "http://en.enlightvc.com/",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/enlight-ventures",
+      "other": ["https://thevc.kr/enlightventures"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "KRW 0.02bn–4bn", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["proptech", "ai-ml", "mobility", "agritech", "deeptech"],
+      "thesis": "Daegu-based generalist VC investing in early/mid-stage 4IR ventures including smart-city, AR/VR, AI, big data and autonomous mobility. Carries a real-estate/proptech thread — received a Minister of Land, Infrastructure & Transport commendation and co-invested in proptech firm UrbanBase."
+    },
+    "track_record": {
+      "portfolio_count": 150,
+      "notable_investments": [
+        { "company": "UrbanBase (어반베이스)", "sector": "proptech (3D space data)", "outcome": "active" }
+      ],
+      "co_investors": ["Breeze Investment", "Woomi Construction", "Shinsegae I&C"]
+    },
+    "people": [
+      { "name": "Yoo Dong-ki (유동기)", "role": "Co-founder" },
+      { "name": "Son Min-ho (손민호)", "role": "Co-founder" },
+      { "name": "Kim Yong-min (김용민)", "role": "Co-founder" }
+    ],
+    "team_size": 29,
+    "application": { "how_to_apply": "Inbound via website", "accepts_cold_inbound": null },
+    "tags": ["smart-city", "proptech", "4ir", "daegu"],
+    "summary": {
+      "en": "Daegu-based generalist VC (est. 2017) investing across 4IR sectors incl. smart city and proptech; 150 portfolio companies across 26 funds. Won a Land/Infrastructure/Transport ministry commendation and co-invested in proptech firm UrbanBase.",
+      "local": "대구 기반 제너럴리스트 VC(2017년 설립). 스마트시티·프롭테크 등 4차산업 분야에 투자하며 26개 펀드·150개 포트폴리오 보유. 국토교통부 장관 표창을 받았고 프롭테크 기업 어반베이스에 공동 투자."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/enlightventures",
+        "title": "인라이트벤처스(투자조합) - 기업정보",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "founding, HQ, founders, portfolio count, fund count, check range",
+        "quote": "Founded: July 10, 2017 ... Headquarters: Daegu ... Total Investments: 150 portfolio companies ... Number of Funds Managed: 26 funds ... ranging from 20 million to 4 billion KRW"
+      },
+      {
+        "url": "https://www.venturesquare.net/807497",
+        "title": "어반베이스, 신세계아이앤씨 등 4개사로부터 투자 유치",
+        "publisher": "VentureSquare",
+        "accessed": "2026-06-03",
+        "supports": "co-investment in proptech UrbanBase",
+        "quote": "신세계아이앤씨 외에도 기존 투자자인 우미건설과 인라이트벤처스, 브리즈인베스트먼트가 신규 투자사로 참여"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Generalist VC (manufacturing/biomedical lead per THE VC); proptech is a minority thread evidenced by a smart-city fund line, a Land Ministry commendation and the UrbanBase deal. Included as long-tail; not a proptech specialist.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "kr-black-pearl-ventures",
+    "name": { "en": "Black Pearl Ventures", "local": "블랙펄벤처스" },
+    "aka": ["BlackPearl Ventures", "블랙펄벤처스(투자조합)"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "offices": [{ "country": "South Korea", "city": "Seoul" }],
+    "website": "https://thevc.kr/blackpearlventures",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://thevc.kr/blackpearlventures"]
+    },
+    "capital": {
+      "aum": { "raw": "약 460억원 (cumulative, as of 2022)", "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Black Pearl Proptech Fund I (블랙펄 프롭테크 펀드 1호)", "vintage_year": 2022, "size": { "raw": null, "usd": null, "currency": "KRW" } },
+        { "name": "Black Pearl Proptech Fund II (블랙펄 프롭테크 펀드 2호)", "vintage_year": 2022, "size": { "raw": null, "usd": null, "currency": "KRW" } },
+        { "name": "Black Pearl High-Tech Fund I", "vintage_year": 2022, "size": { "raw": null, "usd": null, "currency": "KRW" } },
+        { "name": "Black Pearl Secondary Fund II", "vintage_year": 2022, "size": { "raw": null, "usd": null, "currency": "KRW" } },
+        { "name": "Black Pearl Secondary Fund III", "vintage_year": 2022, "size": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["proptech", "generalist"],
+      "thesis": "Emerging Seoul VC that runs dedicated proptech blind funds (Black Pearl Proptech Fund I & II) and invests in tech-based scale-ups and unicorns, including secondary purchases. Best known for its large secondary stake in proptech unicorn Zigbang."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Zigbang (직방)", "sector": "proptech", "outcome": "active (unicorn)" },
+        { "company": "RIDI (리디)", "sector": "consumer", "outcome": "active" },
+        { "company": "Greenlabs (그린랩스)", "sector": "agritech", "outcome": "active" },
+        { "company": "TEMC", "sector": "hardware-semiconductor", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": ["Shinhan Venture Investment", "MG Saemaul Geumgo"]
+    },
+    "people": [
+      { "name": "Hyun Dong-yeop (현동엽)", "role": "Co-founder", "linkedin": "" },
+      { "name": "Kim Hyo-seop (김효섭)", "role": "Co-founder / CEO", "linkedin": "" }
+    ],
+    "team_size": 4,
+    "application": {
+      "how_to_apply": "No public application portal; deal flow via networks and inbound to the firm.",
+      "accepts_cold_inbound": null,
+      "contact": ""
+    },
+    "tags": ["proptech", "secondary", "blind-fund", "emerging-vc", "seoul"],
+    "summary": {
+      "en": "Black Pearl Ventures is an emerging Seoul-based venture capital firm founded in 2021 that operates dedicated proptech blind funds (Black Pearl Proptech Fund I & II) alongside high-tech and secondary funds. It drew attention for acquiring a roughly 35 billion won secondary stake in proptech unicorn Zigbang in 2022, which pushed its cumulative AUM to about 46 billion won within a year.",
+      "local": "블랙펄벤처스는 2021년 설립된 서울 소재 신생 벤처캐피탈로, '블랙펄 프롭테크 펀드 1·2호' 등 프롭테크 전용 블라인드 펀드와 하이테크·세컨더리 펀드를 운용한다. 2022년 프롭테크 유니콘 직방의 구주를 약 350억원에 인수하며 1년 만에 누적 운용자산(AUM)을 약 460억원으로 끌어올려 주목받았다."
+    },
+    "sources": [
+      {
+        "url": "https://thevc.kr/blackpearlventures",
+        "title": "블랙펄벤처스(투자조합) - 기업정보 | 투자, 매출, 펀드 - THE VC",
+        "publisher": "THE VC",
+        "accessed": "2026-06-03",
+        "supports": "Founding date, Seoul HQ, fund list including Proptech Fund I & II, team size, CEO Kim Hyoseop and Hyun Dong-yeop, portfolio (Zigbang, Expencia, TEMC)",
+        "quote": "Founded October 28, 2021; Headquarters: Seoul, South Korea (용산구 한강대로 109); Black Pearl Proptech Fund I & II (May 27, 2022); CEO: Kim Hyoseop (김효섭); 4 employees"
+      },
+      {
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202206091043439240106571&lcode=00",
+        "title": "신생 블랙펄벤처스, 직방 350억 투자 '눈길'",
+        "publisher": "thebell (더벨)",
+        "accessed": "2026-06-03",
+        "supports": "Zigbang secondary investment of ~35 billion won; cumulative AUM ~46 billion won within a year; founders' backgrounds; RIDI and Greenlabs investments",
+        "quote": "블랙펄벤처스는 최근 350억원 규모로 직방 구주를 인수했습니다. 이번 직방 투자로 일년 만에 460억원의 누적운용자산(AUM)을 확보했습니다. ... 콘텐츠 플랫폼 스타트업 리디와 에그테크 스타트업 그린랩스에 각각 50억원, 60억원을 투자했습니다."
+      },
+      {
+        "url": "https://landvalueup.hankyung.com/wmlounge-20231012-0900/",
+        "title": "부동산 투자의 필수 '프롭테크' - 한경부동산밸류업센터",
+        "publisher": "Hankyung (한국경제)",
+        "accessed": "2026-06-03",
+        "supports": "Zigbang raised 100억원 and 350억원 from Shinhan Venture Investment and Black Pearl Ventures in June 2022; Zigbang valued at 2.5 trillion won; first proptech unicorn",
+        "quote": "직방은 2022년 6월에 신한벤처투자, 블랙펄벤처스로부터 100억원 및 350억원을 투자 유치했습니다. 직방의 기업가치는 2조5,000억원으로 평가받았으며, 프롭테크 분야 최초 유니콘 기업입니다."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Korean-language press reports the Zigbang deal as '350억원' (35 billion KRW) for a secondary stake; an English machine translation rendered this as '350 billion won', which is incorrect — the won figure is 35 billion KRW (~US$27M). AUM '460억원' = 46 billion KRW. Fund sizes for individual proptech funds not disclosed (null). USD conversions left null to avoid fabricated rates.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "kr-gs-futures",
+    "name": { "en": "GS Futures", "local": "지에스퓨처스" },
+    "aka": ["GS Futures, LLC", "지에스퓨처스(투자조합)"],
+    "type": "cvc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "offices": [
+      { "country": "United States", "city": "San Francisco Bay Area / California" },
+      { "country": "South Korea", "city": "Seoul" }
+    ],
+    "website": "https://www.gsfutures.vc/",
+    "links": {
+      "crunchbase": "",
+      "other": [
+        "https://www.gsfutures.vc/portfolio",
+        "https://builtworlds.com/companies/gs-futures/",
+        "https://thevc.kr/gsfutures"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "GS Collective Fund 1", "vintage_year": 2020, "size": { "raw": null, "usd": null, "currency": null } },
+        { "name": "GS Construction Fund", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "ownership_target_pct": null,
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "South Korea", "Global"],
+      "sector_focus": ["proptech", "climate-energy", "robotics", "consumer", "deeptech"],
+      "thesis": "Global early-stage corporate venture arm of GS Group investing across Built Environment & Construction tech, Physical AI & Robotics, Energy & Industrial Transition, and Digital Platforms — explicitly targeting technologies that modernize how the world designs, builds, and operates real assets, with strategic synergy to GS E&C."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Clearstory", "sector": "construction-tech / proptech", "outcome": "active" },
+        { "company": "Butlr", "sector": "proptech / smart building sensing", "outcome": "active" },
+        { "company": "Machina Labs", "sector": "robotics / manufacturing", "outcome": "active" },
+        { "company": "Skydio", "sector": "robotics / drones", "outcome": "active" },
+        { "company": "August Robotics", "sector": "construction-tech / robotics", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Taehong Huh (허태홍)", "role": "Managing Director", "linkedin": "" },
+      { "name": "Sang Yoon Choi", "role": "Director", "linkedin": "" },
+      { "name": "Jin Hong Huh", "role": "Senior Vice President", "linkedin": "" }
+    ],
+    "team_size": "1-10",
+    "application": {
+      "how_to_apply": "Inbound via firm website; deal flow through GS Group strategic interests and US/Korea venture networks.",
+      "accepts_cold_inbound": null,
+      "contact": ""
+    },
+    "tags": ["cvc", "gs-group", "built-environment", "construction-tech", "proptech", "climate", "robotics"],
+    "summary": {
+      "en": "GS Futures is the global early-stage corporate venture arm of South Korea's GS Group, established in 2020 with a California base and Korean ties to GS E&C. It invests across four themes — Built Environment & Construction, Physical AI & Robotics, Energy & Industrial Transition, and Digital Platforms — backing construction-tech and proptech companies such as Clearstory, Butlr and construction-site robot maker August Robotics, with strategic synergy to GS Group's construction and energy businesses.",
+      "local": "지에스퓨처스(GS Futures)는 GS그룹의 글로벌 초기단계 기업주도형 벤처캐피탈(CVC)로 2020년 설립됐다. 미국(캘리포니아)에 기반을 두면서 GS건설과 연계해 '건설·부동산테크(Built Environment & Construction)', '피지컬 AI·로보틱스', '에너지·산업 전환', '디지털 플랫폼' 등 4개 분야에 투자한다. 건설현장 자율주행 로봇 스타트업 어거스트로보틱스 등 콘테크·프롭테크 기업에 투자해 왔다."
+    },
+    "sources": [
+      {
+        "url": "https://www.gsfutures.vc/",
+        "title": "GS Futures | Global venture capital arm of GS Group",
+        "publisher": "GS Futures",
+        "accessed": "2026-06-03",
+        "supports": "Identity as global VC arm of GS Group; four investment themes including Built Environment & Construction; portfolio list (Clearstory, Butlr, Machina Labs, Skydio, etc.); operation of Collective Fund and Construction Fund",
+        "quote": "Built Environment & Construction — Technologies that modernize how the world designs, builds, and operates real assets ... Physical AI & Robotics ... Energy & Industrial Transition ... Digital Platforms & Infrastructure"
+      },
+      {
+        "url": "https://builtworlds.com/companies/gs-futures/",
+        "title": "GS Futures - BuiltWorlds",
+        "publisher": "BuiltWorlds",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2020; California HQ; CVC of GS Group; sector focus Climate & Energy Transition Tech, Construction & Real Estate Tech and Consumer Tech; team members and roles",
+        "quote": "Founding Year: 2020; Headquarters: California, United States ... Investment Focus: 'Climate & Energy Transition Tech, Construction & Real Estate Tech and Consumer Tech'; Taehong Huh (Managing Director)"
+      },
+      {
+        "url": "https://www.theguru.co.kr/news/article.html?no=102136",
+        "title": "GS퓨처스, 건설 현장용 자율주행 로봇 스타트업 투자…GS건설 시너지 포석",
+        "publisher": "The Guru (더구루)",
+        "accessed": "2026-06-03",
+        "supports": "GS Futures invested in construction-site autonomous-robot startup August Robotics to strengthen construction competitiveness with synergy to GS E&C; established GS Collective Fund 1 shortly after founding (Jan 2020)",
+        "quote": "GS퓨처스(지에스퓨처스)는 2020년 1월 설립된 기업주도형 벤처캐피탈(CVC)이며 ... '어거스트 로보틱스'(August Robotics)에 투자했다 ... 설립 직후 'GS 컬렉티브 펀드 1호'를 조성했다."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "GS Futures is the global (US-based, California) CVC arm of GS Group, distinct from GS Ventures and from GS E&C's domestic CVC XPLOR Investment. Classified region=south-korea (GS Group parent) per task scoping, country='South Korea' for the parent group though primary office is in California. Fund sizes, AUM, and check sizes not publicly disclosed (null). Some portfolio companies (e.g., August Robotics, Clearstory, Butlr) are construction/proptech-relevant; full portfolio also spans energy, biotech and consumer.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  }
+]

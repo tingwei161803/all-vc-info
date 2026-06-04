@@ -1,0 +1,639 @@
+[
+  {
+    "id": "sea-vynn-capital",
+    "name": { "en": "Vynn Capital" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "southeast-asia",
+    "country": "Malaysia",
+    "hq_city": "Kuala Lumpur",
+    "website": "https://vynncapital.com",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/vynn-capital",
+      "crunchbase": "https://www.crunchbase.com/organization/vynn-capital"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I (SEA fund)", "vintage_year": 2018, "size": { "raw": "US$40M (target)", "usd": 40000000, "currency": "USD" } },
+        { "name": "Mobility & Supply Chain Fund (Fund II)", "vintage_year": 2024, "size": { "raw": "US$30M (target)", "usd": 30000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Southeast Asia", "Malaysia", "Indonesia", "Singapore", "Thailand", "Vietnam"],
+      "sector_focus": ["mobility", "logistics", "ecommerce", "proptech", "fintech"],
+      "thesis": "Sector-focused early-stage VC investing in 'synergistic industries' — its second fund is a dedicated Mobility & Supply Chain Fund backing smart mobility, transportation, logistics and supply-chain optimisation startups across Southeast Asia."
+    },
+    "track_record": {
+      "portfolio_count": "16+",
+      "notable_investments": [
+        { "company": "Blitz Electric Mobility", "sector": "mobility (EV logistics)", "outcome": "active" },
+        { "company": "Carsome", "sector": "mobility (used-car marketplace)", "outcome": "active" },
+        { "company": "WYZauto", "sector": "mobility (online tyre/maintenance marketplace)", "outcome": "active" },
+        { "company": "DF Automation & Robotics", "sector": "robotics/logistics", "outcome": "active" },
+        { "company": "ServAuto", "sector": "mobility (auto services)", "outcome": "active" },
+        { "company": "Velotrade", "sector": "supply-chain finance", "outcome": "active" }
+      ],
+      "co_investors": ["MAVCAP", "KWAP", "Sime Darby", "AEI Capital"]
+    },
+    "people": [
+      { "name": "Victor Chua", "role": "Founding & Managing Partner" },
+      { "name": "Darren Chua", "role": "Co-Founder / Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["mobility", "supply-chain", "logistics", "sector-focused", "corporate-LP-backed"],
+    "summary": {
+      "en": "Kuala Lumpur-based, sector-focused early-stage VC founded in 2018 by ex-Gobi investor Victor Chua. Its first SEA fund targeted US$40M; its second is a dedicated US$30M-target Mobility & Supply Chain Fund (LPs include KWAP, Sime Darby, MAVCAP, AEI Capital) backing smart mobility, transportation, logistics and supply-chain startups across Southeast Asia. First deal from the new fund was Thailand's tyre marketplace WYZauto."
+    },
+    "sources": [
+      {
+        "url": "https://www.digitalnewsasia.com/startups/mavcap-invests-vynn-capitals-sea-focused-mobility-and-supply-chain-fund",
+        "title": "Mavcap invests in Vynn Capital's SEA focused mobility and supply chain fund",
+        "publisher": "Digital News Asia",
+        "accessed": "2026-06-03",
+        "supports": "Mobility & Supply Chain Fund US$30M target, stages seed-Series A, LPs, thesis",
+        "quote": "Vynn Capital's Mobility and Supply Chain Fund has a targeted fund size of US$30 million ... invest in Southeast Asia-focused early-stage startups that are raising Seed to Series A rounds."
+      },
+      {
+        "url": "https://techcrunch.com/2019/02/21/vynn-capital-mavcap/",
+        "title": "Vynn Capital snags investment from Malaysia's MAVCAP for its maiden Southeast Asia fund",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-03",
+        "supports": "founded 2018, founders Victor Chua & Darren Chua, US$40M first fund target, KL HQ",
+        "quote": "founded by former Gobi Ventures VC Victor Chua and Singaporean investor Darren Chua ... targeting a $40 million fund for Southeast Asia."
+      },
+      {
+        "url": "https://vynncapital.com/",
+        "title": "Vynn Capital — homepage / portfolio",
+        "publisher": "Vynn Capital",
+        "accessed": "2026-06-03",
+        "supports": "sector focus (mobility, supply chain, proptech, fintech, marketplace), geo focus, portfolio list",
+        "quote": "AI & Analytics, Embedded Finance ... Marketplace, Mobility, Proptech, Supply Chain"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Final close size of the Mobility & Supply Chain Fund not confirmed; US$30M is the stated target. First-fund figure (US$40M) is a target from 2019.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-mobility-logistics"
+  },
+  {
+    "id": "sea-motion-ventures",
+    "name": { "en": "Motion Ventures" },
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.motion.vc",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/motionventures",
+      "other": ["https://www.motion.vc/content-hub/announcing-fund-ii"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2021, "size": { "raw": "S$30M (target)", "usd": null, "currency": "SGD" } },
+        { "name": "Fund II", "vintage_year": 2025, "size": { "raw": "US$100M", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "US$250K–US$10M", "usd_min": 250000, "usd_max": 10000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Southeast Asia", "Singapore", "Global"],
+      "sector_focus": ["logistics", "mobility", "climate-energy"],
+      "thesis": "Consortium-backed, maritime-dedicated tech fund (powered by Rainmaking) investing in startups that digitise and decarbonise the global maritime supply chain. Fund II — the largest maritime-focused tech fund to date — targets at least 25 companies."
+    },
+    "track_record": {
+      "portfolio_count": "30+",
+      "notable_investments": [
+        { "company": "OceanScore", "sector": "maritime SaaS / emissions", "outcome": "active" },
+        { "company": "Fernride", "sector": "autonomous yard trucking", "outcome": "active" }
+      ],
+      "co_investors": ["Wilhelmsen Group", "HHLA", "MOL PLUS", "IMC Ventures", "Signal Ventures"]
+    },
+    "people": [
+      { "name": "Shaun Hon", "role": "Founder & General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["maritime", "shipping", "supply-chain", "decarbonization", "consortium-fund", "Rainmaking"],
+    "summary": {
+      "en": "Singapore-based, consortium-driven maritime tech fund launched February 2021 (powered by Rainmaking), with Wilhelmsen and HHLA as anchor LPs. Its US$100M Fund II (March 2025) is the largest maritime-focused tech fund to date, backed by 17+ maritime corporates, writing US$250K–US$10M cheques into at least 25 companies to digitise and decarbonise the maritime supply chain. 30+ investments across both funds."
+    },
+    "sources": [
+      {
+        "url": "https://www.motion.vc/content-hub/announcing-fund-ii",
+        "title": "Motion Ventures launches largest-ever maritime tech fund at $100M",
+        "publisher": "Motion Ventures",
+        "accessed": "2026-06-03",
+        "supports": "Fund II US$100M, check size US$250K-US$10M, 25+ companies, founder, 2025 launch",
+        "quote": "US$100 million second fund ... cheques of US$250,000 to US$10,000,000 into at least 25 companies, targeting solutions that digitise and decarbonise the global maritime supply chain."
+      },
+      {
+        "url": "https://www.wilhelmsen.com/media-news-and-events/press-releases/2021/motion-ventures-debuts-s$30m-fund-anchored-by-wilhelmsen-to-pioneer-innovations-tackling-maritime-value-chain-challenges/",
+        "title": "Motion Ventures debuts S$30M fund anchored by Wilhelmsen",
+        "publisher": "Wilhelmsen",
+        "accessed": "2026-06-03",
+        "supports": "Fund I S$30M target, 2021 launch, Wilhelmsen + HHLA anchors",
+        "quote": "Motion Ventures debuts S$30M fund anchored by Wilhelmsen to pioneer innovations tackling maritime value chain challenges"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund I close amount vs target not separately confirmed (S$30M was the target). Portfolio count '30+' aggregates Fund I and II.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-mobility-logistics"
+  },
+  {
+    "id": "sea-innoport",
+    "name": { "en": "Innoport" },
+    "aka": ["Bernhard Schulte Innoport", "INNOPORT"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://innoport.vc",
+    "links": {
+      "linkedin": "https://sg.linkedin.com/company/bernhard-schulte-innoport"
+    },
+    "offices": [
+      { "country": "Singapore", "city": "Singapore" },
+      { "country": "Germany", "city": "Hamburg" },
+      { "country": "Cyprus", "city": "Limassol" }
+    ],
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Asia", "Europe", "Singapore"],
+      "sector_focus": ["logistics", "mobility"],
+      "thesis": "The venture-capital arm of the Schulte Group (Bernhard Schulte, founded 1883), backing high-potential early-stage maritime and logistics startups predominantly in Europe and Asia, adding maritime domain expertise alongside capital."
+    },
+    "people": [
+      { "name": "Yiannis Sykas", "role": "Head of Innoport / Director of Strategy & Product Development, BSM" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["maritime", "logistics", "corporate-VC", "shipping"],
+    "summary": {
+      "en": "The corporate VC arm of the Schulte Group (the maritime/shipmanagement group around Bernhard Schulte, founded 1883), launched May 2019. Teams in Singapore, Hamburg and Limassol back early-stage maritime and logistics startups predominantly across Europe and Asia, positioning as a capital provider with in-house industry domain knowledge."
+    },
+    "sources": [
+      {
+        "url": "https://innoport.vc/",
+        "title": "Innoport",
+        "publisher": "Innoport / Schulte Group",
+        "accessed": "2026-06-03",
+        "supports": "maritime & logistics focus, offices Singapore/Hamburg, parent Schulte Group, early-stage",
+        "quote": "Singapore: 108 Middle Road, #09-00 Bernhard Schulte House ... Hamburg: Vorsetzen 54 ... Our vision is to see the maritime industry adopt new technology ... across the supply chain."
+      },
+      {
+        "url": "https://maritime-executive.com/corporate/schulte-group-launches-dedicated-vc-unit-for-maritime-startups",
+        "title": "Schulte Group Launches Dedicated VC Unit for Maritime Startups",
+        "publisher": "The Maritime Executive",
+        "accessed": "2026-06-03",
+        "supports": "2019 launch, Asia & Europe focus, early-stage maritime & logistics, head Yiannis Sykas",
+        "quote": "support high-potential early-stage maritime and logistics startups predominantly in Europe and Asia ... headed by Yiannis Sykas"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund size and check sizes not disclosed. Singapore is one of three operating bases (Hamburg is the German HQ); classified under Singapore for the SEA bucket given the Singapore office and Asia mandate.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-mobility-logistics"
+  },
+  {
+    "id": "sea-psa-ventures",
+    "name": { "en": "PSA Ventures" },
+    "aka": ["PSA unboXed", "PSA International Venture Capital"],
+    "type": "cvc",
+    "subtypes": ["venture-studio", "accelerator"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://psaventures.globalpsa.com",
+    "links": {
+      "other": ["https://www.globalpsa.com/psa-unboxed-evolves-into-psa-ventures-to-drive-sustainable-innovation-and-growth-in-global-supply-chains/"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Southeast Asia", "Singapore", "Global"],
+      "sector_focus": ["logistics", "climate-energy", "mobility"],
+      "thesis": "The venture-capital arm and venture builder of global port operator PSA International, investing across four themes — Terminal Technology, Green Energy Transition, Supply Chain & Logistics, and Data & Digital — to drive sustainable innovation in global supply chains."
+    },
+    "track_record": {
+      "portfolio_count": "8+",
+      "notable_investments": [
+        { "company": "Haulio", "sector": "logistics (container haulage)", "outcome": "active" },
+        { "company": "Deliveree", "sector": "logistics (on-demand trucking)", "outcome": "active" },
+        { "company": "Roambee", "sector": "supply-chain visibility / IoT", "outcome": "active" },
+        { "company": "Venti Technologies", "sector": "autonomous logistics vehicles", "outcome": "active" },
+        { "company": "Vflowtech", "sector": "energy storage", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "ClearMetal", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "application": { "accepts_cold_inbound": true, "contact": "psai-psaventures@globalpsa.com" },
+    "tags": ["ports", "supply-chain", "logistics", "corporate-VC", "venture-builder", "terminal-tech"],
+    "summary": {
+      "en": "The dedicated VC arm and venture builder of PSA International (operator of 70+ terminals across 45 countries), evolved in 2025 from the PSA unboXed accelerator. Invests across Terminal Technology, Green Energy Transition, Supply Chain & Logistics and Data & Digital, with a global emphasis and particular focus on Southeast Asia. Portfolio includes Haulio, Deliveree, Roambee and Venti Technologies."
+    },
+    "sources": [
+      {
+        "url": "https://psaventures.globalpsa.com/",
+        "title": "Home - PSA Ventures",
+        "publisher": "PSA Ventures",
+        "accessed": "2026-06-03",
+        "supports": "four investment themes, SEA focus, parent PSA, portfolio list, contact",
+        "quote": "dedicated venture capital arm of PSA International ... Terminal Technology ... Green Energy Transition ... Supply Chain & Logistics ... Data and Digital ... Clockwork, Deliveree, HAKOVO, Haulio, Roambee, Rippey, Vflowtech, and Venti Technologies"
+      },
+      {
+        "url": "https://www.globalpsa.com/psa-unboxed-evolves-into-psa-ventures-to-drive-sustainable-innovation-and-growth-in-global-supply-chains/",
+        "title": "PSA unboXed Evolves into PSA Ventures",
+        "publisher": "PSA International",
+        "accessed": "2026-06-03",
+        "supports": "2025 rebrand from PSA unboXed to a VC arm + venture builder, supply-chain scope",
+        "quote": "PSA International has unveiled the evolution of PSA unboXed ... into PSA Ventures, a dedicated venture capital arm and venture builder."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size and per-deal cheque ranges not publicly disclosed. Stages inferred from prior unboXed-stage portfolio; treat as approximate.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-mobility-logistics"
+  },
+  {
+    "id": "sea-shift4good",
+    "name": { "en": "Shift4Good" },
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://shift4good.com",
+    "links": {
+      "linkedin": "https://sg.linkedin.com/company/shift4good"
+    },
+    "offices": [
+      { "country": "Singapore", "city": "Singapore" },
+      { "country": "France", "city": "Paris" }
+    ],
+    "capital": {
+      "current_fund": { "raw": "€220M", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2022, "size": { "raw": "€220M (first close, vs €300M target)", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": "€4M–€20M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Southeast Asia", "Europe", "Singapore"],
+      "sector_focus": ["mobility", "climate-energy", "impact"],
+      "thesis": "Impact venture fund dedicated to decarbonising the transportation sector (transport of goods and people, ~20% of global CO2). Backs fleet electrification, micromobility, battery circularity, hydrogen technologies and AI-powered energy-saving software across Europe and Southeast Asia."
+    },
+    "track_record": {
+      "portfolio_count": "13+",
+      "notable_investments": [],
+      "co_investors": ["Renault Group", "BNP Paribas Group", "Bpifrance", "European Investment Fund", "PSA Ventures"]
+    },
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["mobility", "sustainable-transport", "decarbonization", "impact", "EV", "micromobility"],
+    "summary": {
+      "en": "Paris- and Singapore-headquartered impact venture fund dedicated to decarbonising transport, with a €220M first close (vs €300M target). Writes €4M–€20M Series A/B cheques across fleet electrification, micromobility, battery circularity and hydrogen in Europe and Southeast Asia. 13 portfolio companies across seven countries; LPs include Renault Group, BNP Paribas, Bpifrance and the European Investment Fund."
+    },
+    "sources": [
+      {
+        "url": "https://www.globenewswire.com/news-release/2025/01/27/3015300/0/en/Shift4Good-s-First-Fund-Closes-at-220m-to-Drive-Sustainable-Transportation-Solutions.html",
+        "title": "Shift4Good's First Fund Closes at €220m to Drive Sustainable Transportation Solutions",
+        "publisher": "GlobeNewswire",
+        "accessed": "2026-06-03",
+        "supports": "€220M fund, Paris+Singapore offices, €4M-€20M tickets, Series A/B, 13 companies, LPs, sectors",
+        "quote": "closed its first fund at €220 million ... offices in Paris and Singapore ... Series A and Series B investments with ticket sizes ranging from €4 million to €20 million ... 13 innovative companies originating from seven countries, spanning Europe and Southeast Asia ... Renault Group, BNP Paribas Group, Bpifrance, European Investment Fund (EIF)"
+      },
+      {
+        "url": "https://impactalpha.com/shift4good-clinches-230-million-for-sustainable-transportation-in-europe-and-southeast-asia/",
+        "title": "Shift4Good clinches $230 million for sustainable transportation in Europe and Southeast Asia",
+        "publisher": "ImpactAlpha",
+        "accessed": "2026-06-03",
+        "supports": "decarbonising transport thesis, Europe + SEA mandate",
+        "quote": "back startups in Europe and Southeast Asia that are decarbonizing mobility"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding/launch year reported variously as 2021 (search snippet) and 2022 (close press release context); used 2022. USD conversions left null. Singapore is one of two HQ offices (Paris is co-HQ); listed under Singapore for the SEA bucket.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-mobility-logistics"
+  },
+  {
+    "id": "sea-pier71",
+    "name": { "en": "PIER71" },
+    "aka": ["Port Innovation Ecosystem Reimagined @ Block71", "PIER71 Smart Port Challenge"],
+    "type": "accelerator",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://pier71.sg",
+    "links": {
+      "other": ["https://www.mpa.gov.sg/maritime-singapore/innovation-and-r-d/pier71/smart-port-challenge-(spc)"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Singapore", "Asia", "Global"],
+      "sector_focus": ["logistics", "mobility", "climate-energy"],
+      "thesis": "Maritime innovation ecosystem set up by the Maritime and Port Authority of Singapore (MPA) and NUS Enterprise to attract and accelerate maritime-tech startups, anchored by the annual Smart Port Challenge."
+    },
+    "program": {
+      "length_weeks": 26,
+      "batches_per_year": 1,
+      "format": "hybrid",
+      "location": "Singapore (BLOCK71)",
+      "demo_day": true,
+      "application_url": "https://pier71.sg/smart-port-challenge/",
+      "application_cycles": ["Smart Port Challenge 2026 applications close 15 June 2026; Grand Finale 11 November 2026"],
+      "eligibility": "Local and foreign startups with technology-driven maritime/port solutions"
+    },
+    "track_record": {
+      "portfolio_count": "190+ startups supported"
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true, "how_to_apply": "Apply to the annual Smart Port Challenge via pier71.sg" },
+    "tags": ["maritime", "port-tech", "accelerator", "government", "MPA", "NUS-Enterprise"],
+    "summary": {
+      "en": "Singapore's maritime innovation ecosystem (est. 2018), set up by the Maritime and Port Authority of Singapore (MPA) and NUS Enterprise. Its flagship 6-month Smart Port Challenge accelerates maritime/port-tech startups; over 190 startups have gained validation and market access, with about S$2.75M in grant funding awarded to 55 startups for pilot projects."
+    },
+    "sources": [
+      {
+        "url": "https://pier71.sg/",
+        "title": "PIER71 — Boosting Maritime Innovation",
+        "publisher": "PIER71 (MPA + NUS Enterprise)",
+        "accessed": "2026-06-03",
+        "supports": "founders MPA + NUS Enterprise, 190+ startups, S$2.75M grants to 55 startups, SPC 2026 dates",
+        "quote": "More than 190 start-ups globally have gained validation and market access through us ... About S$2.75m in grant funding that been awarded to 55 start-ups to embark on pilot projects ... SPC 2026 applications close June 15, 2026"
+      },
+      {
+        "url": "https://www.mpa.gov.sg/maritime-singapore/innovation-and-r-d/pier71/smart-port-challenge-(spc)",
+        "title": "Smart Port Challenge | Maritime & Port Authority of Singapore (MPA)",
+        "publisher": "Maritime and Port Authority of Singapore",
+        "accessed": "2026-06-03",
+        "supports": "6-month programme, annual innovation challenge, MPA + NUS Enterprise founders",
+        "quote": "The PIER71 Smart Port Challenge is an annual innovation challenge ... designed as a 6-month programme"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Not a fund — an accelerator/ecosystem that channels MPA grant funding; per-startup investment is grant-based, not equity. '2018' inferred from 'supported nearly 170 start-ups since 2018' phrasing.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-mobility-logistics"
+  },
+  {
+    "id": "sea-comfortdelgro-capital-partners",
+    "name": { "en": "ComfortDelGro Capital Partners" },
+    "aka": ["ComfortDelGro Ventures", "CDG Ventures", "CGP"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.comfortdelgro.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/comfortdelgro-capital-partners"
+    },
+    "capital": {
+      "current_fund": { "raw": "US$100M", "usd": 100000000, "currency": "USD" },
+      "funds": [
+        { "name": "ComfortDelGro Capital Partners Fund", "vintage_year": 2018, "size": { "raw": "US$100M", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Singapore", "Southeast Asia", "Global"],
+      "sector_focus": ["mobility", "logistics", "robotics", "ai-ml"],
+      "thesis": "The corporate VC arm of transport operator ComfortDelGro, investing in transport-related technology — vehicle fleet electrification, automotive engineering, autonomous-vehicle fleet management — plus adjacent smart logistics, AI, cybersecurity and robotics."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Haulio", "sector": "logistics (container haulage)", "outcome": "active" },
+        { "company": "SWAT Mobility", "sector": "mobility (on-demand bus / shared mobility)", "outcome": "active" },
+        { "company": "Foretellix", "sector": "autonomous-vehicle safety", "outcome": "active" }
+      ]
+    },
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["mobility", "transport", "corporate-VC", "fleet-electrification", "autonomous", "smart-logistics"],
+    "summary": {
+      "en": "The US$100M corporate venture capital fund of Singapore-listed transport operator ComfortDelGro, set up in late 2018. Targets transport-related tech — fleet electrification, automotive engineering, autonomous-vehicle fleet management — and adjacent smart logistics, AI, cybersecurity and robotics. Early deals include logistics platform Haulio, shared-mobility firm SWAT and AV-safety startup Foretellix."
+    },
+    "sources": [
+      {
+        "url": "https://www.dealstreetasia.com/stories/sgs-comfortdelgro-to-set-up-100m-vc-fund-to-invest-in-mobility-startups-110843",
+        "title": "SG's ComfortDelGro to set up $100m VC fund to invest in mobility startups",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-03",
+        "supports": "US$100M fund size, mobility focus, 2018 (article dated Nov 2018)",
+        "quote": "ComfortDelGro has launched a $100m corporate venture capital fund ... to invest in technology startups that complement its activities"
+      },
+      {
+        "url": "https://sg.finance.yahoo.com/news/comfortdelgro-makes-strategic-investments-tech-102026173.html",
+        "title": "ComfortDelGro makes strategic investments in tech start-ups through venture capital fund",
+        "publisher": "Yahoo Finance / ComfortDelGro",
+        "accessed": "2026-06-03",
+        "supports": "focus areas (electrification, autonomous, smart logistics), SWAT + Haulio investments",
+        "quote": "ComfortDelGro Ventures, a six-month-old US$100 million corporate venture capital fund, made three strategic investments ... on-demand bus technology, fleet management and autonomous vehicle safety testing"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Per-deal cheque sizes not disclosed; stages inferred from early-stage portfolio. Some reports cite an A$100M figure for the Australia arm; US$100M is the headline fund figure.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-mobility-logistics"
+  },
+  {
+    "id": "sea-orzon-ventures",
+    "name": { "en": "ORZON Ventures" },
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "southeast-asia",
+    "country": "Thailand",
+    "hq_city": "Bangkok",
+    "website": "https://www.orzon.ventures",
+    "links": {
+      "other": ["https://www.orzon.ventures/about"]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Thailand", "Southeast Asia"],
+      "sector_focus": ["mobility", "consumer", "ecommerce", "healthtech"],
+      "thesis": "Growth-stage CVC jointly launched by PTT Oil and Retail (OR) and 500 TukTuks (500 Global), creating new 'S-Curve' businesses in Mobility, Lifestyle, Smart Retail, Health & Wellness and Travel, with portfolio access to OR's PTT-station and retail ecosystem."
+    },
+    "track_record": {
+      "portfolio_count": "16",
+      "notable_investments": [
+        { "company": "SLEEK EV", "sector": "mobility (electric two-wheelers)", "outcome": "active" },
+        { "company": "Carsome", "sector": "mobility (used-car marketplace)", "outcome": "active" },
+        { "company": "Freshket", "sector": "agritech/logistics (food supply)", "outcome": "active" },
+        { "company": "Pomelo", "sector": "ecommerce/fashion", "outcome": "active" }
+      ],
+      "co_investors": ["500 Global", "PTT Oil and Retail (OR)"]
+    },
+    "people": [
+      { "name": "Krating Poonpol", "role": "General Partner (500 TukTuks / ORZON)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["mobility", "EV", "corporate-VC", "PTT", "500-Global", "smart-retail"],
+    "summary": {
+      "en": "Bangkok-based growth-stage CVC launched October 2021 jointly by PTT Oil and Retail (OR) and 500 TukTuks (500 Global). Invests Series A–B in Thailand and Southeast Asia across Mobility, Lifestyle, Smart Retail, Health & Wellness and Travel — notably electric-two-wheeler startup SLEEK EV — giving portfolio companies access to OR's PTT-station and retail network. 16 portfolio companies."
+    },
+    "sources": [
+      {
+        "url": "https://technode.global/2022/03/04/thai-venture-capital-firm-orzon-ventures-invests-in-sea-tech-firms-pomelo-carsome-freshket-gowabi-and-protomate/",
+        "title": "Thai VC firm ORZON Ventures invests in SEA tech firms Pomelo, Carsome, Freshket, GoWabi and Protomate",
+        "publisher": "TNGlobal",
+        "accessed": "2026-06-03",
+        "supports": "joint launch by OR + 500 TukTuks Oct 2021, Series A-B, sector focus, portfolio",
+        "quote": "ORZON Ventures was jointly launched by PTT Oil and Retail Public Company Limited (OR) and 500 TukTuks (500 Global) in October 2021 ... invests in Series A-to-B startups in Thailand and Southeast Asia ... Mobility, Lifestyle, Smart Retail, Health & Wellness, and Travel"
+      },
+      {
+        "url": "https://www.nationthailand.com/business/automobile/40030845",
+        "title": "ORZON Ventures Invests in SLEEK EV, Revolutionizing electric mobility in Asia",
+        "publisher": "The Nation Thailand",
+        "accessed": "2026-06-03",
+        "supports": "SLEEK EV investment, 16 portfolio companies, OR ecosystem access",
+        "quote": "SLEEK EV, which focuses on electric 2-wheelers ... The fund has invested in 16 founder-led tech companies"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size not publicly disclosed. Local-language name left blank (commonly written 'ORZON Ventures' in Thai media).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-mobility-logistics"
+  },
+  {
+    "id": "sea-addventures-scg",
+    "name": { "en": "AddVentures by SCG" },
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "southeast-asia",
+    "country": "Thailand",
+    "hq_city": "Bangkok",
+    "website": "https://addventures.co.th",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/addventuresbyscg/"
+    },
+    "capital": {
+      "funds": [
+        { "name": "AddVentures Fund", "vintage_year": 2017, "size": { "raw": "US$85M (Bt2.89bn)", "usd": 85000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Southeast Asia", "Thailand", "Global"],
+      "sector_focus": ["logistics", "saas-enterprise", "climate-energy", "robotics"],
+      "thesis": "Corporate venturing arm of Thai conglomerate SCG (Siam Cement). Focuses on B2B / industrial / enterprise verticals — including logistics and industrial-supply marketplaces, supply-chain, industrial automation, energy (solar/storage/EV) and net-zero — leveraging SCG's network across Southeast Asia."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Janio", "sector": "logistics (cross-border)", "outcome": "active" }
+      ]
+    },
+    "application": { "accepts_cold_inbound": true, "contact": "contact@addventures.co.th" },
+    "tags": ["logistics", "supply-chain", "industrial", "corporate-VC", "SCG", "B2B"],
+    "summary": {
+      "en": "The corporate venturing arm of Thai conglomerate SCG (Siam Cement), launched 2017 with an initial US$85M (Bt2.89bn) over 3–5 years. Invests in B2B/industrial/enterprise startups — including logistics and industrial-supply marketplaces, supply-chain, industrial automation and energy (solar, storage, EV) — leveraging SCG's regional network. Has backed cross-border logistics platform Janio."
+    },
+    "sources": [
+      {
+        "url": "https://addventures.co.th/",
+        "title": "AddVentures",
+        "publisher": "AddVentures by SCG",
+        "accessed": "2026-06-03",
+        "supports": "parent SCG, B2B/industrial focus incl. logistics, energy (solar/storage/EV), SEA focus",
+        "quote": "The Siam Cement PCL (SCG) ... Net Zero/carbon economy ... Energy (solar, storage, EV) ... Industrial automation and smart manufacturing"
+      },
+      {
+        "url": "https://www.nationthailand.com/tech/30320290",
+        "title": "AddVentures has ambitious local investment plans",
+        "publisher": "The Nation Thailand",
+        "accessed": "2026-06-03",
+        "supports": "US$85M (Bt2.89bn) fund, logistics among B2B marketplace targets, 2017 launch",
+        "quote": "AddVentures was launched with total funds of US$85 million (Bt2.89 billion) expected for three to five years ... marketplace platforms, including construction products, chemicals, packaging, industrial supply, and logistics"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Logistics/supply-chain is one of several B2B focus areas, not an exclusive mandate; included for its industrial-supply, supply-chain and logistics-marketplace thesis and Janio investment. Founded year (2017) from secondary sources.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-mobility-logistics"
+  },
+  {
+    "id": "sea-living-lab-ventures",
+    "name": { "en": "Living Lab Ventures" },
+    "aka": ["LLV"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "hq_city": "Tangerang (BSD City)",
+    "website": "https://livinglab.ventures",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/livinglabventures/",
+      "crunchbase": "https://www.crunchbase.com/organization/living-lab-ventures"
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Indonesia"],
+      "sector_focus": ["mobility", "proptech", "ai-ml", "climate-energy"],
+      "thesis": "The corporate VC arm of Indonesian property group Sinar Mas Land, taking an 'Indonesia-first' approach across Smart Technologies, Digital Life and Mobility. Co-anchors the Urban Gateway Fund (with East Ventures and others) targeting mobility & transportation, proptech, AI, omnichannel retail, sustainable resources and smart-city tech."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Swap Energi", "sector": "mobility (EV battery swapping)", "outcome": "active" }
+      ],
+      "co_investors": ["East Ventures", "Prasetia Dwidharma", "Redbadge Pacific", "New Energy Nexus", "Raksasa Capital"]
+    },
+    "people": [
+      { "name": "Mulyawan Gani", "role": "Managing Partner" },
+      { "name": "Bayu Seto", "role": "Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["mobility", "smart-city", "proptech", "corporate-VC", "Sinar-Mas", "Indonesia-first"],
+    "summary": {
+      "en": "The corporate VC arm of Indonesian property giant Sinar Mas Land, formed in 2022 and based in BSD City. Takes an 'Indonesia-first' approach across Smart Technologies, Digital Life and Mobility, and co-anchors the Urban Gateway Fund (with East Ventures and others) covering mobility & transportation, proptech, AI and smart-city tech. Backed EV battery-swap startup Swap Energi."
+    },
+    "sources": [
+      {
+        "url": "https://livinglab.ventures/",
+        "title": "Living Lab Ventures",
+        "publisher": "Living Lab Ventures",
+        "accessed": "2026-06-03",
+        "supports": "Sinar Mas Land CVC, Indonesia-first, Smart Technologies/Digital Life/Mobility focus",
+        "quote": "Living Lab Ventures is focused on three main technological aspects being Smart Technologies, Digital Life, and Mobility"
+      },
+      {
+        "url": "https://east.vc/east-ventures/east-ventures-sinar-mas-land-launches-urban-gateway-fund/",
+        "title": "Sinar Mas Land partners East Ventures, others to launch Urban Gateway Fund",
+        "publisher": "East Ventures",
+        "accessed": "2026-06-03",
+        "supports": "Urban Gateway Fund co-investors and six target sectors incl. mobility & transportation",
+        "quote": "Urban Gateway Fund (UGF) is a collaborative fund between Living Lab Ventures, East Ventures, Prasetia Dwidharma, Redbadge Pacific ... mobility and transportation, property technology ... smart city tech"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year reported as 2022 by secondary sources. Fund size and check sizes undisclosed. Mobility is one of three core themes, not exclusive.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-mobility-logistics"
+  }
+]

@@ -1,0 +1,616 @@
+[
+  {
+    "id": "in-yali-capital",
+    "name": { "en": "Yali Capital" },
+    "aka": ["Yali Deeptech"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "website": "https://yali.vc/",
+    "links": {
+      "other": ["https://yali.vc/investments/", "https://yali.vc/newsroom/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "INR 893 Crore (~$104M)", "usd": 104000000, "currency": "INR" },
+      "funds": [
+        { "name": "Yali Capital Fund (Category II AIF)", "vintage_year": 2025, "size": { "raw": "INR 893 Crore (~$104M)", "usd": 104000000, "currency": "INR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["hardware-semiconductor", "robotics", "deeptech", "ai-ml", "spacetech", "biotech"],
+      "thesis": "Early-stage deep tech fund backing fabless semiconductors, robotics, smart manufacturing, genomics, aerospace/defence and AI; aims to 'push India past its deep tech event horizon'."
+    },
+    "track_record": {
+      "portfolio_count": 6,
+      "notable_investments": [
+        { "company": "C2i Semiconductors", "sector": "fabless semiconductors", "outcome": "active" },
+        { "company": "DeepLase Technologies", "sector": "smart manufacturing / laser", "outcome": "active" },
+        { "company": "Perceptyne", "sector": "robotics", "outcome": "active" },
+        { "company": "4baseCare", "sector": "genomics / life sciences", "outcome": "active" }
+      ],
+      "co_investors": ["Peak XV Partners", "TDK Ventures", "MountTech Growth Fund - Kavachh"]
+    },
+    "people": [
+      { "name": "Ganapathy 'Gani' Subramaniam", "role": "Partner" },
+      { "name": "Mathew Cyriac", "role": "Partner" },
+      { "name": "Karthikeyan Madathil", "role": "Partner" },
+      { "name": "Lip-Bu Tan", "role": "Advisor (Intel CEO)" }
+    ],
+    "application": { "how_to_apply": "Initial conversation with investment professionals, then technical/financial/market due diligence and Investment Committee approval", "accepts_cold_inbound": true },
+    "tags": ["semiconductor", "fabless", "deeptech", "robotics", "smart-manufacturing"],
+    "summary": {
+      "en": "Bengaluru deep tech VC (Category II AIF) that closed a ~INR 893 Cr (~$104M) fund in July 2025 to back fabless semiconductors, robotics, smart manufacturing, genomics and aerospace; counts Intel CEO Lip-Bu Tan as advisor.",
+      "local": "बेंगलुरु स्थित डीप टेक वेंचर कैपिटल फंड जो फैबलेस सेमीकंडक्टर, रोबोटिक्स और स्मार्ट मैन्युफैक्चरिंग स्टार्टअप्स में निवेश करता है।"
+    },
+    "sources": [
+      { "url": "https://yali.vc/", "title": "Yali Capital | Deep Tech Venture Capital in Bangalore", "publisher": "Yali Capital", "accessed": "2026-06-03", "supports": "HQ, partners, fund size, sectors, stages, portfolio", "quote": "₹893 Crores ($104 million USD) raised in July 2025; We invest across Pre-Seed, Seed, Series A, and Late-Stage rounds" },
+      { "url": "https://evertiq.com/news/56764", "title": "Yali Capital invests $4 million in chip design startup C2i", "publisher": "Evertiq", "accessed": "2026-06-03", "supports": "C2i investment, Category II AIF target", "quote": "Yali Capital is a Category 2 AIF fund with a fundraising target of INR 5 billion, with an additional INR 3.1 billion greenshoe option" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded year inferred from 2024-2025 launch and first investments (C2i, Nov 2024); fund closed July 2025. Check size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "in-industrial47",
+    "name": { "en": "Industrial47" },
+    "type": "venture-studio",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "website": "https://www.industrial47.com/",
+    "links": {},
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "$500K–$1.5M", "usd_min": 500000, "usd_max": 1500000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "spacetech", "climate-energy", "cybersecurity"],
+      "thesis": "Venture builder for India's deep tech / hardware: space, energy (renewables, nuclear, green hydrogen) and national security / dual-use; 'when software meets steel, when bits meet atoms... the future is forged'."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Pixxel Space", "sector": "hyperspectral satellites", "outcome": "active" },
+        { "company": "Digantara", "sector": "space situational awareness", "outcome": "active" },
+        { "company": "Pranos Fusion", "sector": "small modular nuclear reactors", "outcome": "active" },
+        { "company": "PierSight Space", "sector": "maritime surveillance", "outcome": "active" },
+        { "company": "Nexstem", "sector": "brain-computer interfaces / hardware", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Maj Rahul Seth", "role": "Founder" }
+    ],
+    "application": { "how_to_apply": "Pre-seed venture builder; contact via website", "accepts_cold_inbound": null },
+    "tags": ["venture-builder", "deeptech", "hardware", "spacetech", "dual-use"],
+    "summary": {
+      "en": "Bengaluru deep tech venture builder writing $500K–$1.5M pre-seed cheques into hardware-heavy 'bits meet atoms' startups across space, energy and national security; portfolio includes Pixxel, Digantara and Nexstem.",
+      "local": "बेंगलुरु स्थित डीप टेक वेंचर बिल्डर जो स्पेस, ऊर्जा और राष्ट्रीय सुरक्षा में हार्डवेयर स्टार्टअप्स को प्री-सीड फंडिंग देता है।"
+    },
+    "sources": [
+      { "url": "https://www.industrial47.com/", "title": "Industrial47 | Venture Builder", "publisher": "Industrial47", "accessed": "2026-06-03", "supports": "type, HQ, founder, sectors, check size, portfolio", "quote": "Stage: Pre-seed; Ticket Size: $500K–$1.5M; When software meets steel, when code meets craft, when bits meet atoms - therein the future is forged" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year not found on site. Some portfolio companies (FamPay) are not hardware; classified as venture-studio given 'venture builder' self-description.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "in-golden-sparrow",
+    "name": { "en": "Golden Sparrow" },
+    "aka": ["Golden Sparrow Ventures", "GoldenSparrow"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "india",
+    "country": "United States",
+    "hq_city": "Bengaluru (team)",
+    "offices": [{ "country": "United States", "city": "Wilmington (domicile)" }, { "country": "India", "city": "Bengaluru" }],
+    "website": "https://goldensparrow.vc/",
+    "links": {
+      "linkedin": "https://in.linkedin.com/company/goldensparrowventures",
+      "crunchbase": "https://www.indianvcs.com/investor/golden-sparrow",
+      "other": ["https://goldensparrow.substack.com/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$20M (Fund II, first close Jan 2026)", "usd": 20000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2023, "size": { "raw": "$8M", "usd": 8000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2026, "size": { "raw": "$20M (target)", "usd": 20000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$400K–$1M", "usd_min": 400000, "usd_max": 1000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India", "United States"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "ai-ml", "robotics", "saas-enterprise"],
+      "thesis": "US-domiciled fund backing Indian-origin founders building Deep Tech / Hard Science and Enterprise AI for the world; committed to 'the decade it takes to build something real'."
+    },
+    "track_record": {
+      "portfolio_count": 19,
+      "notable_investments": [
+        { "company": "Morphing Machines", "sector": "semiconductors", "outcome": "active" },
+        { "company": "EtherealX", "sector": "space tech", "outcome": "active" },
+        { "company": "Cygenica", "sector": "molecular drug delivery", "outcome": "active" },
+        { "company": "Tectonic", "sector": "deeptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Rishaad Currimjee", "role": "General Partner" },
+      { "name": "Ritik Singh", "role": "Principal" },
+      { "name": "Venkat Raju", "role": "Operating Partner (Deep Tech)" },
+      { "name": "Michael Marmor", "role": "Operating Partner (AI)" }
+    ],
+    "application": { "how_to_apply": "Prefers warm introductions", "accepts_cold_inbound": false },
+    "tags": ["deeptech", "hard-science", "semiconductor", "diaspora", "cross-border"],
+    "summary": {
+      "en": "US-domiciled, Bengaluru-run micro-VC backing Indian-origin deep tech and hard-science founders (incl. semiconductor firm Morphing Machines). Fund I was an $8M 2023 vintage; Fund II targeting $20M held first close in Jan 2026.",
+      "local": "अमेरिका में पंजीकृत, बेंगलुरु से संचालित माइक्रो-वीसी जो भारतीय मूल के डीप टेक और हार्ड साइंस संस्थापकों में निवेश करता है।"
+    },
+    "sources": [
+      { "url": "https://goldensparrow.vc/", "title": "Home - Golden Sparrow", "publisher": "Golden Sparrow", "accessed": "2026-06-03", "supports": "domicile, team, fund sizes, check size, portfolio, people", "quote": "Golden Sparrow is US-domiciled with the team based in Bangalore... Fund I (2023 vintage): $8M... Fund II: Targeting $20M, held first close January 2026... Initial checks: $400K–$1M" },
+      { "url": "https://www.indianvcs.com/investor/golden-sparrow", "title": "Golden Sparrow", "publisher": "IndianVCs", "accessed": "2026-06-03", "supports": "founding year, sectors, portfolio count", "quote": "Founded in 2023, Golden Sparrow is a venture capital firm... has invested in around 19 companies" }
+    ],
+    "confidence": "high",
+    "verification_notes": "US-domiciled per official site, so country=United States though investing thesis is India-focused (Indian-origin founders).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "in-seafund",
+    "name": { "en": "Seafund" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "website": "https://seafund.in/",
+    "links": { "crunchbase": "https://tracxn.com/d/venture-capital/seafund/__viAzf24bt98Ds7LVHw4V_NNOc5SAjdMKIqnJ6dI8xSk" },
+    "capital": {
+      "funds": [
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "INR 250 Crore", "usd": null, "currency": "INR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "ai-ml", "robotics", "spacetech", "cybersecurity"],
+      "thesis": "Early institutional 'venture capital for mission-driven teams building disruptive scalable tech', covering semiconductors, AI/ML, space tech, robotics, medtech and EVs at pre-seed/seed/pre-Series A."
+    },
+    "track_record": {
+      "portfolio_count": "20+",
+      "notable_investments": [
+        { "company": "Calligo Technologies", "sector": "semiconductor", "outcome": "active" },
+        { "company": "Genrobotics", "sector": "robotics", "outcome": "active" },
+        { "company": "TM2Space", "sector": "space tech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Manoj Agarwal", "role": "Managing Partner" },
+      { "name": "Mayuresh Raut", "role": "Managing Partner" }
+    ],
+    "application": { "how_to_apply": "Apply via website; pre-seed/seed/pre-Series A", "accepts_cold_inbound": true },
+    "tags": ["deeptech", "semiconductor", "robotics", "spacetech"],
+    "summary": {
+      "en": "Bengaluru early-stage deep tech / deep science VC backing 20+ companies since 2018 across semiconductors (e.g. Calligo Technologies), robotics, space tech and AI; raising a INR 250 Cr Fund II to back 18-20 deeptech startups by FY27.",
+      "local": "बेंगलुरु स्थित अर्ली-स्टेज डीप टेक वीसी जो सेमीकंडक्टर, रोबोटिक्स और स्पेस टेक स्टार्टअप्स में निवेश करता है।"
+    },
+    "sources": [
+      { "url": "https://seafund.in/", "title": "Deep Tech Venture Capital Firm in Bangalore | Seafund India", "publisher": "Seafund", "accessed": "2026-06-03", "supports": "founding year, HQ, partners, stages, sectors, portfolio", "quote": "Since 2018, Seafund has backed over 20 companies across Deeptech, Enterprise Technology... Semiconductor... pre-seed, seed and pre-series A" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund II size (INR 250 Cr) from secondary reporting; check size not disclosed on site.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "in-java-capital",
+    "name": { "en": "Java Capital" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "website": "https://www.javacapital.co/",
+    "links": { "crunchbase": "https://www.indianvcs.com/investor/java-capital" },
+    "capital": {
+      "funds": [
+        { "name": "Fund III", "vintage_year": 2025, "size": { "raw": "INR 400 Crore (+ INR 150 Cr greenshoe)", "usd": null, "currency": "INR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "INR 6–8 Crore initial", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["India", "United States"],
+      "sector_focus": ["hardware-semiconductor", "deeptech", "spacetech", "robotics", "cybersecurity", "climate-energy"],
+      "thesis": "Seed-stage IP-led deep tech across semiconductors, aerospace & defence, cybersecurity, AI infrastructure, robotics, advanced manufacturing, energy and synthetic biology; cross-border India-US presence."
+    },
+    "track_record": {
+      "portfolio_count": "~35",
+      "notable_investments": [
+        { "company": "LightSpeed Photonics", "sector": "photonics / semiconductors", "outcome": "active" },
+        { "company": "CynLr (Cynapse)", "sector": "robotics / machine vision", "outcome": "active" },
+        { "company": "Agnikul Cosmos", "sector": "space tech", "outcome": "active" },
+        { "company": "The ePlane Company", "sector": "eVTOL / aerospace", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Vinod Shankar", "role": "Co-founder & Partner" },
+      { "name": "Bhargavi Vijayakumar", "role": "Co-founder & Partner" }
+    ],
+    "application": { "how_to_apply": "Seed-stage deeptech; contact via website", "accepts_cold_inbound": null },
+    "tags": ["deeptech", "semiconductor", "photonics", "spacetech", "robotics"],
+    "summary": {
+      "en": "Bengaluru cross-border (India-US) seed deep tech VC founded 2020. Launched a INR 400 Cr Fund III (+INR 150 Cr greenshoe) in 2025 to back 15-20 IP-led startups in semiconductors, photonics, robotics and aerospace at INR 6-8 Cr first cheques; portfolio includes LightSpeed Photonics and CynLr.",
+      "local": "बेंगलुरु स्थित सीड-स्टेज डीप टेक वीसी जो सेमीकंडक्टर, फोटोनिक्स और रोबोटिक्स में आईपी-आधारित स्टार्टअप्स को फंड करता है।"
+    },
+    "sources": [
+      { "url": "https://www.entrepreneurindia.com/blog/en/news/java-capital-launches-third-fund-with-inr-400-cr-target-for-deeptech-startups.59166", "title": "Java Capital Launches Third Fund with INR 400 Cr Target for Deeptech Startups", "publisher": "Entrepreneur India", "accessed": "2026-06-03", "supports": "Fund III size, founders, sectors, cheque size", "quote": "INR 400 crore vehicle... greenshoe option of INR 150 crore... Initial investments are expected to be in the range of INR 6–8 crore... Founded by Vinod Shankar and Bhargavi Vijayakumar" },
+      { "url": "https://www.javacapital.co/", "title": "Java Capital", "publisher": "Java Capital", "accessed": "2026-06-03", "supports": "portfolio companies, deeptech focus", "quote": "LightSpeed Photonics, CynLr, Okulo Aerospace, Oorja, The Eplane Company, AgniKul Cosmos" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2020 per IndianVCs/Tracxn; HQ Bengaluru with US presence.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "in-mounttech-growth-fund-kavachh",
+    "name": { "en": "MountTech Growth Fund - Kavachh", "local": "कवच" },
+    "aka": ["MGF Kavachh", "Mounttech Growth Fund", "Kavachh"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "india",
+    "country": "India",
+    "hq_city": "New Delhi",
+    "website": "https://www.mounttechindia.com/",
+    "links": { "twitter": "https://x.com/mkavachh", "linkedin": "https://www.linkedin.com/company/mgf-kavachh" },
+    "capital": {
+      "current_fund": { "raw": "INR 250 Crore (+ INR 250 Cr greenshoe)", "usd": 29900000, "currency": "INR" },
+      "funds": [
+        { "name": "MGF Kavachh (Category II AIF)", "vintage_year": 2024, "size": { "raw": "INR 250 Crore (~$29.9M)", "usd": 29900000, "currency": "INR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "spacetech", "cybersecurity", "robotics"],
+      "thesis": "Defence, space and national-security focused fund backing deep tech startups aligned with India's 'Atmanirbhar' (self-reliance) agenda across security, defence, aerospace and digital communications."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "DeepLase Technologies", "sector": "laser / smart manufacturing", "outcome": "active" }
+      ],
+      "co_investors": ["Yali Capital"]
+    },
+    "people": [
+      { "name": "Ajay Kumar", "role": "Founder (former Defence Secretary)" }
+    ],
+    "application": { "how_to_apply": "Contact via website; defence/deeptech focus", "accepts_cold_inbound": null },
+    "tags": ["defence", "deeptech", "hardware", "spacetech", "atmanirbhar"],
+    "summary": {
+      "en": "INR 250 Cr (~$29.9M) SEBI-approved Category II AIF founded 2024 by former Defence Secretary Ajay Kumar, backing defence, space and deep-tech / hardware startups (e.g. laser firm DeepLase); secured ~INR 280 Cr subscriptions with a INR 250 Cr greenshoe option.",
+      "local": "पूर्व रक्षा सचिव अजय कुमार द्वारा स्थापित 250 करोड़ रुपये का फंड जो रक्षा, अंतरिक्ष और डीप टेक स्टार्टअप्स में निवेश करता है।"
+    },
+    "sources": [
+      { "url": "https://inc42.com/buzz/former-defence-secretary-ajay-kumars-mounttech-growth-fund-marks-first-close/", "title": "Former Defence Secretary Ajay Kumar's MountTech Growth Fund Marks First Close", "publisher": "Inc42", "accessed": "2026-06-03", "supports": "fund size, founder, focus, subscriptions, greenshoe", "quote": "The INR 250 Cr (around $29.9 Mn) VC fund secured approval from SEBI and received subscriptions worth INR 280 Cr, with plans to invoke the green-shoe option for another INR 250 Cr" },
+      { "url": "https://www.businesstoday.in/technology/news/story/former-defence-secretary-ajay-kumar-enters-vc-play-with-kavachh-a-fund-for-defence-deeptech-startups-436741-2024-07-11", "title": "Former defence secretary Ajay Kumar enters VC play with Kavachh", "publisher": "Business Today", "accessed": "2026-06-03", "supports": "founder, defence/deeptech focus, 2024 launch", "quote": "Former defence secretary Ajay Kumar enters VC play with Kavachh, a fund for defence, deeptech startups" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Check size not disclosed. DeepLase co-investment with Yali confirmed via secondary reporting.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "in-capital-a",
+    "name": { "en": "Capital-A" },
+    "aka": ["Capital A", "Manjushree Capital Advisors"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Bengaluru",
+    "website": "https://capital-a.vc/",
+    "links": {},
+    "capital": {
+      "current_fund": { "raw": "$50M (Fund II) / INR 400 Crore", "usd": 50000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund II (Category II AIF, SEBI IN/AIF2/24-25/1686)", "vintage_year": null, "size": { "raw": "$50M / INR 400 Crore", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["hardware-semiconductor", "deeptech", "climate-energy", "agritech"],
+      "thesis": "Early-stage fund backing founders 'building from the ground up — from advanced hardware to other patient-capital businesses', combining a private-equity mindset with venture agility across manufacturing, deep tech and climate."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Tan90", "sector": "thermal energy storage / hardware", "outcome": "active" },
+        { "company": "Enerzi", "sector": "energy / supercapacitors", "outcome": "active" },
+        { "company": "Leumas", "sector": "hardware", "outcome": "active" },
+        { "company": "Manastu", "sector": "space propulsion", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Contact via website; early-stage manufacturing/deeptech/climate", "accepts_cold_inbound": null },
+    "tags": ["manufacturing", "deeptech", "climate", "advanced-hardware"],
+    "summary": {
+      "en": "Bengaluru early-stage VC (Manjushree Capital Advisors) deploying a $50M / INR 400 Cr Fund II into manufacturing, advanced hardware, deep tech and climate, blending a private-equity mindset with venture agility; portfolio includes Tan90 and Enerzi.",
+      "local": "बेंगलुरु स्थित अर्ली-स्टेज वीसी जो मैन्युफैक्चरिंग, एडवांस्ड हार्डवेयर, डीप टेक और क्लाइमेट में निवेश करता है।"
+    },
+    "sources": [
+      { "url": "https://capital-a.vc/", "title": "Home - Capital A", "publisher": "Capital-A", "accessed": "2026-06-03", "supports": "HQ, fund size, sectors, thesis, portfolio, SEBI reg", "quote": "Fund II: $50 million (Category II AIF)... Manufacturing, deep tech, and climate... from advanced hardware to other patient-capital businesses... SEBI Registration: IN/AIF2/24-25/1686 (Manjushree Capital Advisors LLP)" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year and partners not on homepage; founder Ankit Kedia (Manjushree group) per secondary sources but not confirmed in fetched content. Check size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "in-unicorn-india-ventures",
+    "name": { "en": "Unicorn India Ventures" },
+    "aka": ["UIV"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Mumbai",
+    "website": "https://unicornvc.in/",
+    "links": {},
+    "capital": {
+      "current_fund": { "raw": "INR 1,200 Crore (Fund III)", "usd": null, "currency": "INR" },
+      "funds": [
+        { "name": "Deeptech Fund III", "vintage_year": 2025, "size": { "raw": "INR 1,200 Crore", "usd": null, "currency": "INR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "INR 10–15 Crore average", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["hardware-semiconductor", "deeptech", "spacetech", "robotics", "climate-energy", "biotech"],
+      "thesis": "Fund III with 75-80% earmarked for deep tech — semiconductors, spacetech, robotics, hardware, medical diagnostics, quantum and AI — building a portfolio of 25+ IP-led, engineering-heavy companies."
+    },
+    "track_record": {
+      "portfolio_count": "25+ (Fund III target)",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Anil Joshi", "role": "Managing Partner" }
+    ],
+    "application": { "how_to_apply": "Contact via website", "accepts_cold_inbound": null },
+    "tags": ["deeptech", "semiconductor", "spacetech", "robotics", "hardware"],
+    "summary": {
+      "en": "Mumbai-founded VC (est. 2015) that closed a INR 1,200 Cr Deeptech Fund III in 2025 with 75-80% earmarked for hardware-heavy sectors — semiconductors, spacetech, robotics and medical diagnostics — at INR 10-15 Cr average cheques across 25+ companies.",
+      "local": "मुंबई स्थित वीसी जिसने 1,200 करोड़ रुपये का डीप टेक फंड III बंद किया, जिसका 75-80% सेमीकंडक्टर, स्पेस टेक और रोबोटिक्स के लिए है।"
+    },
+    "sources": [
+      { "url": "https://www.entrepreneur.com/en-in/news-and-trends/unicorn-india-ventures-closes-inr-1200-cr-deeptech-fund-iii/502425", "title": "Unicorn India Ventures Closes INR 1,200 Cr Deeptech Fund III", "publisher": "Entrepreneur India", "accessed": "2026-06-03", "supports": "Fund III size, deeptech %, sectors, cheque size, portfolio target", "quote": "closed its third fund at INR 1,200 crore... 75-80% of the fund is explicitly earmarked for deep-tech sectors, including semiconductors, spacetech... average ticket size of INR 10–15 crore" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year 2015 per multiple secondary sources. Website URL inferred; Fund III details well sourced.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "in-iitm-unicorn-frontier-fund",
+    "name": { "en": "IIT Madras Unicorn Frontier Fund I" },
+    "aka": ["IITMRP Unicorn Deeptech Fund"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2026,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Chennai",
+    "website": "https://respark.iitm.ac.in/iitm-unicorn-600cr-deeptech-fund",
+    "links": {},
+    "capital": {
+      "current_fund": { "raw": "INR 600 Crore (+ INR 400 Cr greenshoe)", "usd": null, "currency": "INR" },
+      "funds": [
+        { "name": "IIT Madras Unicorn Frontier Fund I", "vintage_year": 2026, "size": { "raw": "INR 600 Crore (target INR 1,000 Cr with greenshoe)", "usd": null, "currency": "INR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "INR 8–10 Crore first cheque", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["India"],
+      "sector_focus": ["hardware-semiconductor", "deeptech", "spacetech", "robotics"],
+      "thesis": "Patient-capital (10+2 year) deep tech fund — a partnership of IIT Madras Research Park and Unicorn India Ventures — for IP-led, engineering-heavy startups in robotics, spacetech, defencetech, semiconductors and medtech, sourced largely from the IITM ecosystem."
+    },
+    "track_record": {
+      "portfolio_count": "25+ (target)",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Anil Joshi", "role": "Managing Partner, Unicorn India Ventures" }
+    ],
+    "application": { "how_to_apply": "Significant portion sourced from IIT Madras ecosystem; balance from wider Indian deep tech ecosystem", "accepts_cold_inbound": null },
+    "tags": ["deeptech", "semiconductor", "university-fund", "spacetech", "robotics"],
+    "summary": {
+      "en": "INR 600 Cr (target INR 1,000 Cr with greenshoe) deep tech fund launched Feb 2026 as a partnership of IIT Madras Research Park and Unicorn India Ventures; a 10+2-year 'patient capital' vehicle for 25+ IP-led startups in robotics, spacetech, defencetech, semiconductors and medtech at INR 8-10 Cr first cheques.",
+      "local": "आईआईटी मद्रास रिसर्च पार्क और यूनिकॉर्न इंडिया वेंचर्स की साझेदारी में 600 करोड़ रुपये का डीप टेक फंड।"
+    },
+    "sources": [
+      { "url": "https://respark.iitm.ac.in/iitm-unicorn-600cr-deeptech-fund", "title": "IITM Unicorn 600cr Deeptech Fund", "publisher": "IIT Madras Research Park", "accessed": "2026-06-03", "supports": "fund size, partnership, structure, sectors, cheque size", "quote": "'IIT Madras Unicorn Frontier Fund I'... Rs 600 crore... Rs. 400 crore 'greenshoe option'... over 25 companies... robotics, spacetech, defencetech, semiconductors and medtech... Rs 8-10 crore... 10+2-year Fund" },
+      { "url": "https://www.iitm.ac.in/happenings/press-releases-and-coverages/iit-madras-research-park-unicorn-india-ventures-announce-rs", "title": "IIT Madras Research Park, Unicorn India Ventures announce Rs. 600 Crore deep tech fund at E-Summit 2026", "publisher": "IIT Madras", "accessed": "2026-06-03", "supports": "announcement date, sectors", "quote": "announcement during the Inauguration of Entrepreneurship Summit 2026 on the campus on 6th Feb 2026" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Distinct from UIV's own Fund III; this is a co-branded IITMRP+UIV vehicle announced Feb 2026.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "in-fabci-iit-hyderabad",
+    "name": { "en": "Fabless Chip Design Incubator (FabCI), IIT Hyderabad" },
+    "aka": ["FabCI", "FabCI IITH"],
+    "type": "incubator",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Hyderabad",
+    "website": "http://fabci.iith.ac.in/",
+    "links": { "linkedin": "https://in.linkedin.com/company/fabci-iit-hyderabad" },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["India"],
+      "sector_focus": ["hardware-semiconductor", "deeptech"],
+      "thesis": "India's first-of-its-kind incubator dedicated to fabless IC / chip design startups, run on the IIT Hyderabad campus with MeitY support and Cadence as EDA technology partner."
+    },
+    "program": {
+      "length_weeks": 104,
+      "cohort_size": "up to 5 per year",
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "hybrid (campus + remote Cadence tool access)",
+      "location": "IIT Hyderabad campus",
+      "eligibility": "Semiconductor chip design, IP design, design-services (IP-focused) and chip-design-tool startups"
+    },
+    "track_record": { "portfolio_count": null },
+    "people": [],
+    "application": { "how_to_apply": "Apply to FabCI / NXP-MeitY semiconductor incubation & acceleration program via fabci.iith.ac.in", "accepts_cold_inbound": true },
+    "tags": ["semiconductor", "fabless", "chip-design", "incubator", "government", "university"],
+    "summary": {
+      "en": "First-of-its-kind fabless chip design incubator at IIT Hyderabad, executed with MeitY support and Cadence as EDA technology partner. Through a joint NXP India–MeitY program it incubates up to five semiconductor/IP design startups per year for two years each.",
+      "local": "आईआईटी हैदराबाद का पहला फैबलेस चिप डिज़ाइन इनक्यूबेटर, जो MeitY और Cadence के सहयोग से सेमीकंडक्टर स्टार्टअप्स को इनक्यूबेट करता है।"
+    },
+    "sources": [
+      { "url": "https://indiaai.gov.in/news/nxp-india-meity-fabci-launch-semiconductor-incubation-acceleration-program", "title": "NXP India, MeitY & FabCI launch semiconductor incubation & acceleration program", "publisher": "IndiaAI (MeitY)", "accessed": "2026-06-03", "supports": "program, partners, cohort size, duration, eligibility", "quote": "Up to five startups will be incubated for a period of two years, every year... Semiconductor Chip Design, IP Design, Design Services startups with an IP focus and Chip Design Tool related startups" },
+      { "url": "https://www.prnewswire.com/in/news-releases/iit-hyderabad-launches-first-of-its-kind-incubator-in-chip-design-sector-675242083.html", "title": "IIT Hyderabad Launches First-of-its-kind Incubator in Chip Design Sector", "publisher": "PR Newswire India", "accessed": "2026-06-03", "supports": "first-of-its-kind incubator, Cadence partner, MeitY", "quote": "IIT Hyderabad launches First-of-its-kind Incubator in Chip Design Sector" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year ~2021 inferred from launch announcements; program length stated as two years per startup (converted to weeks). No direct equity investment confirmed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "in-stpi-electropreneur-park",
+    "name": { "en": "Electropreneur Park (STPI)" },
+    "aka": ["EP Delhi", "EP Bhubaneswar", "STPI Electropreneur Park"],
+    "type": "incubator",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "india",
+    "country": "India",
+    "hq_city": "New Delhi",
+    "offices": [{ "country": "India", "city": "New Delhi" }, { "country": "India", "city": "Bhubaneswar" }],
+    "website": "https://stpi.in/en/centre-of-entrepreneurship/ep-del",
+    "links": {},
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["India"],
+      "sector_focus": ["hardware-semiconductor", "deeptech"],
+      "thesis": "First ESDM (Electronic System Design & Manufacturing) incubator in India, run by STPI under MeitY, fostering R&D, IPR creation and indigenous electronics/hardware product development."
+    },
+    "program": {
+      "cohort_size": "50 startups (Bhubaneswar, over 5 years)",
+      "format": "in-person",
+      "location": "Delhi University (Delhi) and IIIT-Bhubaneswar",
+      "eligibility": "Electronics System Design & Manufacturing (ESDM) and hardware product startups"
+    },
+    "track_record": { "portfolio_count": null },
+    "people": [],
+    "application": { "how_to_apply": "Apply via STPI Centre of Entrepreneurship / SUCCESS Open Challenge programs", "accepts_cold_inbound": true },
+    "tags": ["esdm", "electronics", "hardware", "incubator", "government", "ipr"],
+    "summary": {
+      "en": "India's first ESDM (electronics hardware) incubator, established by Software Technology Parks of India (STPI) under MeitY with the first centre at Delhi University and a second at IIIT-Bhubaneswar (targeting 50 startups over five years), focused on indigenous electronics product development and IPR.",
+      "local": "भारत का पहला ESDM (इलेक्ट्रॉनिक्स हार्डवेयर) इनक्यूबेटर, जो STPI द्वारा MeitY के तहत स्थापित किया गया।"
+    },
+    "sources": [
+      { "url": "https://stpi.in/en/centre-of-entrepreneurship/ep-del", "title": "EP - Delhi | Software Technology Parks of India", "publisher": "STPI / MeitY", "accessed": "2026-06-03", "supports": "first ESDM incubator, MeitY, focus, IPR", "quote": "The first-of-its-kind Electronic System Design Manufacturing (ESDM) incubator in India, Electropreneur Park, Delhi" },
+      { "url": "https://inc42.com/buzz/stpi-launches-electropreneur-park-in-bhubaneswar-to-incubate-50-startups/", "title": "STPI's Electropreneur Park In Bhubaneswar To Incubate 50 Startups", "publisher": "Inc42", "accessed": "2026-06-03", "supports": "Bhubaneswar centre, 50 startups, partners", "quote": "The Electropreneur park in Bhubaneswar has decided to incubate 50 startups in the next five years" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Delhi centre launched ~2016; Bhubaneswar centre is a later second centre. No direct equity investment; government grant-backed incubator.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "in-endiya-partners",
+    "name": { "en": "Endiya Partners" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "india",
+    "country": "India",
+    "hq_city": "Hyderabad",
+    "website": "https://www.endiya.com/",
+    "links": { "crunchbase": "https://www.crunchbase.com/organization/endiya-partners" },
+    "capital": {
+      "aum": { "raw": "$100M", "usd": 100000000, "currency": "USD" },
+      "funds": [
+        { "name": "Endiya Fund I", "vintage_year": 2016, "size": { "raw": "INR 175 Crore", "usd": null, "currency": "INR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "up to $2M", "usd_min": null, "usd_max": 2000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["India"],
+      "sector_focus": ["hardware-semiconductor", "robotics", "ai-ml", "deeptech", "healthtech"],
+      "thesis": "First-cheque seed investor and 'co-founder VC' in globally relevant product startups; Industrial Tech & Intelligent Mobility theme covers edge AI, robotics, fabless semiconductors, electric mobility and autonomous driving."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Perceptyne", "sector": "robotics", "outcome": "active" },
+        { "company": "BluJ Aerospace", "sector": "aerospace / hardware", "outcome": "active" },
+        { "company": "SigTuple", "sector": "medical AI / imaging hardware", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Sateesh Andra", "role": "Managing Partner" },
+      { "name": "Dr. Ramesh Byrapaneni", "role": "Managing Director" },
+      { "name": "Abhishek Srivastava", "role": "Co-founder" }
+    ],
+    "application": { "how_to_apply": "Seed-stage product startups; contact via website", "accepts_cold_inbound": null },
+    "tags": ["deeptech", "fabless-semiconductor", "robotics", "edge-ai", "industrial-tech"],
+    "summary": {
+      "en": "Hyderabad seed / 'co-founder' VC (founded 2015, ~$100M AUM) that was an early backer of fabless semiconductors, industrial robotics, edge AI and electric mobility; first cheques up to $2M into product startups like Perceptyne (robotics) and BluJ Aerospace.",
+      "local": "हैदराबाद स्थित सीड-स्टेज वीसी जो फैबलेस सेमीकंडक्टर, औद्योगिक रोबोटिक्स और एज एआई स्टार्टअप्स में निवेश करता है।"
+    },
+    "sources": [
+      { "url": "https://www.endiya.com/", "title": "Co-founder VC for early-stage AI, Deep Tech & Healthcare Startups, Endiya", "publisher": "Endiya Partners", "accessed": "2026-06-03", "supports": "stages, check size, sector focus incl. fabless semiconductors, portfolio", "quote": "Industrial Tech & Intelligent Mobility: Edge AI, robotics, fabless semiconductors, electric mobility, autonomous driving... Check Size: Up to $2 million" },
+      { "url": "https://unicorn-nest.com/funds/endiya-partners/", "title": "Endiya Partners – Investors Database", "publisher": "Unicorn Nest", "accessed": "2026-06-03", "supports": "founding year, HQ, founders, AUM, Fund I size", "quote": "Endiya Partners was founded in 2015... Hyderabad-based... $100M under management... launched its maiden INR 175 Cr fund in 2016" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year reported as both 2015 (firm) and 2016 (maiden fund); used 2015 for firm. Endiya is a well-known name but its explicit fabless-semiconductor thesis makes it relevant to this niche segment.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  }
+]

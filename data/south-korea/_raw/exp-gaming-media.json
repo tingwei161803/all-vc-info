@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "kr-krit-ventures",
+    "name": { "en": "Krit Ventures", "local": "크릿벤처스" },
+    "aka": ["CRIT", "CRIT Ventures", "크릿"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://crit.vc",
+    "links": {
+      "other": ["https://thevc.kr/critventures"]
+    },
+    "capital": {
+      "aum": { "raw": "approx. ₩260 billion (KR ₩224B + Global ₩36B)", "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "KNET-CRIT Contents Fund", "vintage_year": null, "size": { "raw": "₩101.5 billion", "usd": null, "currency": "KRW" } },
+        { "name": "KIP x CRIT Global Interactive Contents Fund", "vintage_year": 2021, "size": { "raw": "₩80.0 billion", "usd": null, "currency": "KRW" } },
+        { "name": "YoungFRONT 1 CRIT Metaverse Fund", "vintage_year": null, "size": { "raw": "₩30.0 billion", "usd": null, "currency": "KRW" } },
+        { "name": "CRIT Ventures C Fund", "vintage_year": null, "size": { "raw": "USD 18 million", "usd": 18000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "₩1.75B–₩10B per THE VC profile", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Global"],
+      "sector_focus": ["gaming", "ai-ml", "web3-crypto"],
+      "thesis": "Game-company-founded VC (founded by former Com2uS president) investing in games, video/music content, blockchain, IT platforms and deeptech, with a strong interactive-content and K-content focus."
+    },
+    "track_record": {
+      "portfolio_count": 51,
+      "notable_investments": [
+        { "company": "Valofe (밸로프)", "sector": "gaming", "outcome": "IPO (KOSDAQ, 2022)" }
+      ]
+    },
+    "people": [
+      { "name": "Song Jae-jun (송재준)", "role": "CEO / Founder" },
+      { "name": "Jongwook Oh (오종욱)", "role": "President, CRIT Ventures USA" }
+    ],
+    "team_size": 12,
+    "application": { "how_to_apply": "Contact via website crit.vc", "accepts_cold_inbound": null },
+    "tags": ["gaming", "content", "blockchain", "game-cvc", "interactive-content"],
+    "summary": {
+      "en": "Seoul-based corporate VC founded in 2020 by former Com2uS president Song Jae-jun, focused on games, content, blockchain and deeptech, with ~₩260B AUM across 7 funds including dedicated global interactive-content and metaverse vehicles.",
+      "local": "컴투스 대표를 역임한 송재준이 2020년 설립한 게임·콘텐츠·블록체인·딥테크 전문 기업형 VC. 글로벌 인터랙티브 콘텐츠·메타버스 펀드 등 운용."
+    },
+    "sources": [
+      { "url": "https://crit.vc", "title": "CRIT Ventures official site", "publisher": "CRIT Ventures", "accessed": "2026-06-03", "supports": "Focus on gaming/AI/blockchain/contents; fund sizes; CEO; HQ", "quote": "KNET-CRIT Contents Fund: 101.5 Bn won; KIPxCRIT Global Interactive Contents Fund: 80.0Bn won; YoungFRONT 1 CRIT Metaverse Fund: 30.0Bn won; CRIT Ventures C Fund: USD 18 Mn" },
+      { "url": "https://thevc.kr/critventures", "title": "Krit Ventures company profile", "publisher": "THE VC", "accessed": "2026-06-03", "supports": "Founded 2020; CEO Song Jae-jun; 51 investments; parent Com2uS; HQ Gangnam Seoul; 12 employees", "quote": "Established: August 2020 ... Total portfolio companies: 51 investments ... Parent company: Com2us (컴투스)" },
+      { "url": "https://wowtale.net/2024/09/04/229127/", "title": "Krit Ventures cumulative ₩200B across 100 companies in 4 years", "publisher": "WOWTALE", "accessed": "2026-06-03", "supports": "AUM and content/game focus; Valofe IPO exit", "quote": "크릿벤처스의 운용자산(AUM)은 한국 2240억원과 글로벌 360억원을 합산한 총 2600억원 규모" }
+    ],
+    "confidence": "high",
+    "verification_notes": "THE VC lists 51 portfolio companies; press (WOWTALE) cites cumulative ~100 companies / ₩200B invested — different metrics (active portfolio vs cumulative deals). AUM ~₩260B per WOWTALE.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-kona-venture-partners",
+    "name": { "en": "Kona Venture Partners", "local": "코나벤처파트너스" },
+    "aka": ["Kona Venture Partners LLC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "links": {
+      "other": ["https://thevc.kr/konaventurepartnerslimitedliabilitycompany"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Gachi-gaja Kakao Games Sangsaeng (Win-Win) Fund (같이가자 카카오게임즈 상생펀드)", "vintage_year": 2022, "size": { "raw": "₩26 billion", "usd": null, "currency": "KRW" } },
+        { "name": "Krafton-Kona IP Investment Combination (크래프톤-코나 아이피 투자조합)", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "pre-seed", "series-a"],
+      "check_size": { "raw": "₩100M–₩6.67B (THE VC profile)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["gaming"],
+      "thesis": "LLC-form VC founded by ex-Capstone Partners CEO, concentrated on game development and content (incl. casual/indie/subculture games); operates the Kakao Games win-win indie fund and a Krafton-Kona IP fund."
+    },
+    "track_record": {
+      "portfolio_count": 27,
+      "notable_investments": [
+        { "company": "GPUN (지피유엔)", "sector": "gaming (subculture)", "outcome": "active" },
+        { "company": "VA Games (브이에이게임즈)", "sector": "gaming (mobile)", "outcome": "active" },
+        { "company": "Clover Games / Heaven Hells (헤븐헬즈)", "sector": "gaming", "outcome": "active" }
+      ],
+      "co_investors": ["Kakao Ventures", "Infinitum Partners", "LB Investment", "Devsisters Ventures"]
+    },
+    "people": [
+      { "name": "Choi Hwa-jin (최화진)", "role": "CEO / Founder" }
+    ],
+    "team_size": 9,
+    "application": { "how_to_apply": "Inbound via THE VC / portfolio referral", "accepts_cold_inbound": null },
+    "tags": ["gaming", "indie-games", "casual-games", "content", "kakao-games-fund", "krafton-ip-fund"],
+    "summary": {
+      "en": "Seoul LLC-form VC founded 2018 by former Capstone Partners CEO Choi Hwa-jin, focused on game development and content; ~20 of its investments are in games. Operates the ₩26B Kakao Games indie 'win-win' fund and a Krafton-Kona IP fund.",
+      "local": "캡스톤파트너스 대표를 지낸 최화진이 2018년 설립한 유한책임회사형 VC. 게임 개발·콘텐츠 중심으로 약 20건이 게임 투자. 카카오게임즈 상생펀드(260억원), 크래프톤-코나 IP 투자조합 운용."
+    },
+    "sources": [
+      { "url": "https://thevc.kr/konaventurepartnerslimitedliabilitycompany", "title": "Kona Venture Partners company profile", "publisher": "THE VC", "accessed": "2026-06-03", "supports": "Founded Jan 2018; CEO Choi Hwa-jin; 27 investments, ~20 in games; HQ Gangnam Seoul; 11 funds incl. Krafton-Kona IP fund; 9 employees", "quote": "Founded: January 2018 ... Total portfolio companies: 27 investments ... game development (20 investments) ... '크래프톤-코나 아이피 투자조합' (Krafton-Kona IP Investment Combination)" },
+      { "url": "https://www.kakaocorp.com/page/detail/10501", "title": "Kakao Games win-win indie fund operated by Kona Venture Partners", "publisher": "Kakao", "accessed": "2026-06-03", "supports": "₩26B Kakao Games win-win fund operated by Kona; supports small/indie devs", "quote": "총 260억 원 규모의 '같이가자 카카오게임즈 상생펀드'로 국내 인디게임 개발사를 지원" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founder name and 2018 founding consistent across THE VC and VentureSquare/WOWTALE. Kakao Games fund stated as 260억원 (₩26B).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-nexon-partners",
+    "name": { "en": "Nexon Partners", "local": "넥슨파트너스" },
+    "aka": [],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2026,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "links": {
+      "other": ["https://thevc.kr/nexonnpartnerscenter"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Game startup investment fund (Nexon + government + VC matching)", "vintage_year": 2026, "size": { "raw": "₩120 billion total (Nexon ₩60B; government ₩30B; VC ₩30B)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["gaming"],
+      "thesis": "100% Nexon Korea subsidiary established 2026 to activate Korea's early-stage game investment ecosystem, investing in early-stage game studios and promising IP rather than late-stage publishing deals."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Lee Jung-heon (이정헌)", "role": "CEO (former CEO of Nexon Japan)" },
+      { "name": "Kim Han-jun (김한준)", "role": "Director / CIO of Nexon Korea" },
+      { "name": "Piao Yanli / Kellis Park (피아오얀리)", "role": "Director (former Tencent VP / Tencent Korea CEO)" }
+    ],
+    "application": { "how_to_apply": "New entity; channels not yet public", "accepts_cold_inbound": null },
+    "tags": ["gaming", "game-cvc", "early-stage-games", "ip", "nexon"],
+    "summary": {
+      "en": "Nexon Korea's wholly-owned game investment subsidiary established in 2026 to invest in early-stage game studios and IP. Anchors a ~₩120B game-startup fund (Nexon ₩60B + government ₩30B + VC ₩30B). Led by ex-Nexon Japan CEO Lee Jung-heon with ex-Tencent VP on the board.",
+      "local": "2026년 설립된 넥슨코리아 100% 자회사. 초기 단계 게임사와 IP에 투자. 정부·VC와 매칭으로 총 1200억원 규모 게임 스타트업 펀드 조성(넥슨 600억, 정부 300억, VC 300억). 대표 이정헌(전 넥슨 일본법인 CEO)."
+    },
+    "sources": [
+      { "url": "https://www.issueon.co.kr/news/articleView.html?idxno=13383", "title": "Nexon establishes Nexon Partners targeting early-stage game investment", "publisher": "ISSUE ON", "accessed": "2026-06-03", "supports": "100% Nexon Korea subsidiary; purpose early-stage game/IP investment; CEO Lee Jung-heon; directors Kim Han-jun and Piao Yanli", "quote": "넥슨코리아의 100% 자회사인 넥슨파트너스를 설립하고, 한국 게임 초기투자 활성화를 목적 ... 대표에는 이정헌 ... 사내이사에는 김한준 ... 피아오얀리(켈리스 박) 전 텐센트 부사장" },
+      { "url": "https://dealsite.co.kr/articles/162832", "title": "Nexon and government to create ₩120B game-startup fund", "publisher": "DealSite", "accessed": "2026-06-03", "supports": "₩120B fund structure: Nexon ₩60B + government ₩30B + VC ₩30B matching", "quote": "총 1200억원 규모의 게임 스타트업 투자 펀드를 조성하며, 넥슨이 600억원을 출자하고 정부와 벤처캐피털(VC)이 각각 300억원씩 매칭" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded ~late May 2026 ('established last month'). Fund still being formed as of mid-2026; execution slated to begin August. Portfolio count null (newly launched).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-devsisters-ventures",
+    "name": { "en": "Devsisters Ventures", "local": "데브시스터즈벤처스" },
+    "aka": [],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.devsistersventures.com",
+    "links": {
+      "other": ["https://thevc.kr/devsistersventures"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Devsisters K-Beauty Investment Combination", "vintage_year": 2026, "size": { "raw": "₩4.2 billion", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": "₩200M–₩5B (THE VC profile)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["gaming", "biotech", "consumer"],
+      "thesis": "Corporate VC of game maker Devsisters (Cookie Run), investing in early-stage gaming, entertainment, biotech/healthcare and IT services; ~12 of its deals are in entertainment/gaming."
+    },
+    "track_record": {
+      "portfolio_count": 46,
+      "notable_investments": [
+        { "company": "Clover Games / Heaven Hells (헤븐헬즈)", "sector": "gaming", "outcome": "active" }
+      ],
+      "co_investors": ["LB Investment", "Kakao Games", "Kona Venture Partners"]
+    },
+    "people": [
+      { "name": "Choi Hyung-gyu (최형규)", "role": "CEO" }
+    ],
+    "team_size": 5,
+    "application": { "how_to_apply": "Contact via website devsistersventures.com", "accepts_cold_inbound": null },
+    "tags": ["gaming", "game-cvc", "entertainment", "biotech", "devsisters", "cookie-run"],
+    "summary": {
+      "en": "Corporate VC arm of Cookie Run maker Devsisters, established 2015 in Seoul. Has done 46 deals (~12 in entertainment/gaming, 15 in biotech) at Series A/B, with checks ₩200M–₩5B; operates 13 funds.",
+      "local": "쿠키런 개발사 데브시스터즈의 기업형 VC(2015년 설립, 서울). 게임·엔터테인먼트·바이오 등 46건 투자, 시리즈A/B 중심. 13개 펀드 운용."
+    },
+    "sources": [
+      { "url": "https://thevc.kr/devsistersventures", "title": "Devsisters Ventures company profile", "publisher": "THE VC", "accessed": "2026-06-03", "supports": "Established May 2015; CEO Choi Hyung-gyu; 46 investments; entertainment/gaming 12 deals; parent Devsisters; 5 employees; website", "quote": "Established May 11, 2015 ... Total portfolio investments: 46건 ... Entertainment/gaming (12 deals) ... Website: www.devsistersventures.com" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Sector breakdown (game dev 8, entertainment/gaming 12, biotech 15) and 46 deals from THE VC profile. Parent = Devsisters Co., Ltd.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-tap-angel-partners",
+    "name": { "en": "Tap Angel Partners", "local": "탭엔젤파트너스" },
+    "aka": ["TAP Angel Partners"],
+    "type": "accelerator",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Incheon",
+    "links": {
+      "other": ["https://thevc.kr/tapangelpartners"]
+    },
+    "capital": {
+      "aum": { "raw": "₩38 billion (operating funds)", "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["gaming", "deeptech", "ai-ml", "agritech"],
+      "thesis": "TIPS / Seed-TIPS operator accelerator that, alongside deeptech/AI/platform/agri-food, backs game and rhythm-game IP startups (e.g. SuperTurbine) solving music distribution/monetization technically."
+    },
+    "program": {
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "format": "in-person",
+      "location": "Incheon",
+      "perks": ["TIPS recommendation", "Seed-TIPS", "Scale-up TIPS", "follow-on investment linkage"],
+      "eligibility": "Early-stage / pre-founding startups; TIPS-eligible deeptech, AI, platform, agri-food, game/content ventures"
+    },
+    "track_record": {
+      "portfolio_count": 50,
+      "notable_investments": [
+        { "company": "SuperTurbine Technology (슈퍼터빈테크놀로지)", "sector": "gaming (rhythm-game IP / music tech)", "outcome": "active (TIPS-selected)" }
+      ]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Apply via TIPS / Tap Angel Partners channels", "accepts_cold_inbound": true },
+    "tags": ["accelerator", "tips-operator", "gaming", "rhythm-game", "music-tech", "creator-tooling"],
+    "summary": {
+      "en": "Incheon-based TIPS/Seed-TIPS operator accelerator founded 2018 (₩38B operating funds, ~50 portfolio companies). Among deeptech/AI/agri bets it invested in rhythm-game IP startup SuperTurbine, whose ~1,000-song catalog targets music promotion/distribution/monetization.",
+      "local": "2018년 설립, 인천 소재 팁스·시드팁스 운영사 액셀러레이터(운용조합 380억원, 포트폴리오 50개사). 딥테크·AI·농식품과 함께 리듬게임 IP 스타트업 슈퍼터빈에 투자."
+    },
+    "sources": [
+      { "url": "https://www.mt.co.kr/amp/future/2026/04/30/2026043008312224569", "title": "SuperTurbine raises from Tap Angel Partners, selected for TIPS", "publisher": "Money Today", "accessed": "2026-06-03", "supports": "Tap Angel invested in rhythm-game IP startup SuperTurbine; TIPS operator role; ~1,000-song catalog", "quote": "Tap Angel Partners invested in SuperTurbine Technology ... a software developer specializing in rhythm action games ... rhythm game IP portfolio containing approximately 1,000 songs" },
+      { "url": "https://www.ifez.go.kr/journal/now/view.do?jrnl_pst_sn=335", "title": "Resident company Tap Angel Partners profile", "publisher": "IFEZ Journal", "accessed": "2026-06-03", "supports": "Founded 2018, moved HQ to Incheon 2019; ₩38B operating funds, 50 portfolio companies; TIPS/Seed-TIPS operator", "quote": "현재 운용조합규모 380억 원, 투자 기업 50개 포트폴리오를 보유하고 있는 팁스 운영사" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Primary thesis is deeptech/AI/agri-food, but verifiably invests in game/rhythm-game IP and music-tech (SuperTurbine) — included as a niche gaming/creator-tooling investor. ₩38B = 380억 operating funds.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-smilegate-investment",
+    "name": { "en": "Smilegate Investment", "local": "스마일게이트인베스트먼트" },
+    "aka": ["MVP Capital (former)", "스마일게이트 인베스트먼트"],
+    "type": "cvc",
+    "subtypes": ["vc", "growth-equity"],
+    "status": "active",
+    "founded_year": 1999,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.smilegateinvestment.com",
+    "links": {
+      "other": ["https://thevc.kr/smilegateinvestment"]
+    },
+    "capital": {
+      "aum": { "raw": "₩1.2 trillion", "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Asia"],
+      "sector_focus": ["gaming", "ai-ml", "robotics", "biotech", "hardware-semiconductor"],
+      "thesis": "Investment arm of CrossFire maker Smilegate; a top-tier Korean VC investing across all stages from accelerating to PE, with longstanding game-sector expertise plus ICT, AI/robotics, VR/metaverse, content, bio and manufacturing."
+    },
+    "track_record": {
+      "portfolio_count": "~600 companies invested since founding"
+    },
+    "people": [],
+    "team_size": null,
+    "application": { "how_to_apply": "Contact via smilegateinvestment.com", "accepts_cold_inbound": null },
+    "tags": ["gaming", "game-cvc", "multi-stage", "top-tier-vc", "smilegate", "crossfire"],
+    "summary": {
+      "en": "Investment arm of game company Smilegate (CrossFire), founded 1999 (originally as MVP Capital). Manages ~₩1.2T AUM, has invested in ~600 companies, and is a top-tier multi-stage Korean VC with deep gaming-sector expertise plus AI/robotics, VR/metaverse, content and bio.",
+      "local": "크로스파이어 개발사 스마일게이트의 투자 부문(1999년 설립, 옛 MVP캐피탈). 운용자산 약 1.2조원, 누적 약 600개사 투자. 게임 전문성을 바탕으로 전 단계 투자하는 톱티어 VC."
+    },
+    "sources": [
+      { "url": "https://www.smilegateinvestment.com/ko/career.html?v=5", "title": "Smilegate Investment overview", "publisher": "Smilegate Investment", "accessed": "2026-06-03", "supports": "Founded 1999; HQ Gangnam Seoul; ₩1.2T AUM; ~600 companies; sectors incl. content/AI/robotics; parent Smilegate", "quote": "Founding Year: 1999 ... Assets Under Management: ₩1.2 trillion ... Approximately 600 companies invested since establishment" },
+      { "url": "https://newsroom.smilegate.com/bbs/board.php?bo_table=inpr&wr_id=147", "title": "Smilegate Investment ~₩100B/yr, top-10 Korean VC, game focus", "publisher": "Smilegate Newsroom", "accessed": "2026-06-03", "supports": "~₩100B annual new investment; top-10-scale Korean VC; targets include games, bio, AI/robotics, metaverse", "quote": "매년 약 1,000억원 규모의 신규 투자 ... 투자 대상은 게임을 비롯해 바이오·헬스케어, 인공지능(AI) 및 로봇, 메타버스" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Former name 'MVP Capital' noted by secondary sources (Shizune/Failory); not confirmed on official site, so flagged in aka. AUM ₩1.2T and ~600 companies per official page.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-orange-planet-foundation",
+    "name": { "en": "Orange Planet Foundation", "local": "오렌지플래닛창업재단" },
+    "aka": ["Smilegate Orange Farm", "스마일게이트오렌지팜", "오렌지플래닛"],
+    "type": "accelerator",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://orangeplanet.or.kr",
+    "links": {
+      "other": ["https://thevc.kr/orangeplanetfoundation", "https://m.smilegate.com/ko/business/orangeplanet.do"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["gaming", "generalist", "consumer"],
+      "thesis": "Smilegate's startup accelerator/foundation providing early-stage investment, mentoring, networking and incubation office space; spun out as an independent foundation in 2021 but tied to game company Smilegate."
+    },
+    "program": {
+      "format": "in-person",
+      "location": "Seoul (Gangnam) and other centers",
+      "perks": ["free office space", "mentoring", "network linkage", "Global Next Club (US entry)"],
+      "eligibility": "Early-stage startups"
+    },
+    "track_record": {
+      "portfolio_count": "~270 startups supported"
+    },
+    "people": [],
+    "team_size": 18,
+    "application": { "how_to_apply": "Apply via orangeplanet.or.kr program cycles", "accepts_cold_inbound": true },
+    "tags": ["accelerator", "incubator", "smilegate", "gaming-adjacent", "early-stage"],
+    "summary": {
+      "en": "Smilegate-affiliated startup accelerator/foundation (origin 2010; independent foundation since 2021) in Seoul offering investment, mentoring and free incubation space. Has supported ~270 startups, whose alumni have raised ₩470.8B and created ₩1.8T in enterprise value.",
+      "local": "스마일게이트 계열 창업 액셀러레이터/재단(2010년 기원, 2021년 독립 재단화). 투자·멘토링·무료 입주공간 제공. 약 270개 스타트업 지원, 동문사 누적 4,708억원 투자유치."
+    },
+    "sources": [
+      { "url": "https://thevc.kr/orangeplanetfoundation", "title": "Orange Planet Foundation profile", "publisher": "THE VC", "accessed": "2026-06-03", "supports": "Origin 2010; HQ Gangnam Seoul; parent Smilegate Holdings; incubating office space; 18 staff; website", "quote": "Founded in January 2010 ... parent company Smilegate Holdings ... Operates 'Smilegate Orange Farm' ... 18 staff members" },
+      { "url": "https://newsroom.smilegate.com/bbs/board.php?bo_table=inpr&wr_id=147", "title": "Orange Planet supported ~270 startups", "publisher": "Smilegate Newsroom", "accessed": "2026-06-03", "supports": "Independent foundation since Sept 2021; ~270 startups supported; alumni raised ₩470.8B", "quote": "2021년 9월 독립 창업 재단으로 출범 ... 더 나은 세상에 기여할 스타트업 270곳을 지원했으며, 동문사들은 4,708억원의 투자를 유치" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "THE VC lists origin year 2010; Smilegate newsroom says it became an independent foundation in 2021. Generalist accelerator but game-company-affiliated and a known launchpad for game/content founders. Included as gaming-adjacent.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-daesung-venture-capital",
+    "name": { "en": "Daesung Venture Capital", "local": "대성창업투자" },
+    "aka": ["Daesung Private Equity", "대성창투"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 1987,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://www.daesungpe.com",
+    "links": {
+      "other": ["https://thevc.kr/daesungventurecapital"]
+    },
+    "capital": {
+      "aum": { "raw": "₩397.6 billion", "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["gaming", "consumer", "biotech", "ecommerce"],
+      "thesis": "First-generation Korean VC (est. 1987) that grew on culture/content investing — film, drama, performance, IP, OTT and games — via equity and project funds, now diversifying into bio, ICT and commerce."
+    },
+    "track_record": {
+      "portfolio_count": 83,
+      "notable_investments": [
+        { "company": "Extreme Job / Space Sweepers (극한직업, 승리호)", "sector": "film/content", "outcome": "active" },
+        { "company": "Mystic Story (미스틱스토리)", "sector": "music/entertainment", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "team_size": null,
+    "application": { "how_to_apply": "Contact via daesungpe.com", "accepts_cold_inbound": null },
+    "tags": ["content", "film", "drama", "ip", "ott", "gaming", "first-gen-vc"],
+    "summary": {
+      "en": "First-generation Korean VC founded 1987, historically a culture/content specialist investing in film, drama, performance, music, IP, OTT and games via equity and project funds. AUM ~₩397.6B across 15 funds incl. dedicated content vehicles.",
+      "local": "1987년 출범한 1세대 VC. 영화·드라마·공연·음악·IP·OTT·게임 등 문화콘텐츠 투자로 성장. 운용자산 약 3,976억원, 콘텐츠 전문 펀드 다수 운용."
+    },
+    "sources": [
+      { "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202304031359073600104245", "title": "Content-IP / culture-game specialist VCs compete in mother-fund selection", "publisher": "The Bell", "accessed": "2026-06-03", "supports": "Daesung is a longstanding content-focused VC; culture/game specialist context", "quote": "Daesung Venture Capital, which was established in 1987, is the longest-running content-focused VC and is famous for growing through content investments" },
+      { "url": "https://news.mt.co.kr/mtview.php?no=2024011609505869671", "title": "First-gen VC Daesung Venture Capital profile", "publisher": "Money Today", "accessed": "2026-06-03", "supports": "1987 founding; content/culture investing roots; portfolio incl. film/drama/IP/OTT; AUM ₩397.6B; 83 portfolio companies", "quote": "1987년 출범한 ... 문화·콘텐츠 분야 투자를 기반으로 성장 ... 총 운용자산(AUM)은 3976억원" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM ₩397.6B and 83 portfolio companies per THE VC / Money Today. Content/film/IP focus strong; gaming included as part of culture-content mandate. Official site uses domain daesungpe.com (TLS cert name mismatch on HTTPS).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-gaia-venture-partners",
+    "name": { "en": "Gaia Venture Partners", "local": "가이아벤처파트너스" },
+    "aka": ["가이아벤처파트너스(유)"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "links": {
+      "other": ["https://thevc.kr/gaiaventurepartners", "https://knock.oopy.io/gaia_venturepartners"]
+    },
+    "capital": {
+      "aum": { "raw": "approx. ₩200 billion (investment combinations)", "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["gaming", "consumer", "biotech"],
+      "thesis": "Culture-content and general venture VC (est. 2015) investing in film, drama, IP, character/theme parks, K-musicals and other entertainment content, plus bio; runs multiple content blind funds and applies for K-content media funds."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Kimu Studio (키뮤스튜디오)", "sector": "content", "outcome": "active" }
+      ],
+      "co_investors": ["YG Investment", "SM Culture Partners"]
+    },
+    "people": [
+      { "name": "Kim Hak-yoon (김학윤)", "role": "CEO / Representative" }
+    ],
+    "team_size": null,
+    "application": { "how_to_apply": "Inbound via THE VC", "accepts_cold_inbound": null },
+    "tags": ["content", "culture", "ip", "film", "k-musical", "gaming"],
+    "summary": {
+      "en": "Seoul VC founded 2015 focused on culture-content and general venture, running ~₩200B of investment combinations (16 funds, 6 content blind funds). Invests in film, drama, IP, character/theme parks and K-musicals; co-bid on K-content media funds with YG Investment and SM Culture Partners.",
+      "local": "2015년 설립된 서울 VC. 문화콘텐츠·일반벤처 투자, 약 2,000억원 규모 투자조합(16개 펀드, 콘텐츠 블라인드 6개). 영화·드라마·IP·K뮤지컬 투자. YG인베스트먼트·SM컬처파트너스와 K-콘텐츠 펀드 공동 도전."
+    },
+    "sources": [
+      { "url": "https://www.newstof.com/news/articleView.html?idxno=22976", "title": "Gaia Venture Partners broadens into tourism investment", "publisher": "Newstof", "accessed": "2026-06-03", "supports": "Founded 2015; ~₩200B investment combinations; culture-content focus; CEO Kim Hak-yoon; content blind funds", "quote": "2015년 설립되어 문화콘텐츠와 일반벤처 분야에 투자하는 벤처캐피탈로 약 2,000억원 규모의 투자조합을 운영 ... 대표자는 김학윤" },
+      { "url": "https://m.thebell.co.kr/m/newsview.asp?svccode=&newskey=202503071413494120105191", "title": "Gaia consortium with YG/SM CVCs for K-content media fund", "publisher": "The Bell", "accessed": "2026-06-03", "supports": "Gaia co-bid ₩63B K-content media fund with YG Investment and SM Culture Partners", "quote": "SM컬처파트너스 ... YG인베스트먼트 ... 가이아벤처파트너스 ... 'K-콘텐츠 미디어 전략펀드' ... 630억" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Primarily culture-content/IP focus (film, drama, K-musical) which falls under media/entertainment; gaming exposure is secondary. AUM ~₩200B per Newstof. Portfolio count not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-yg-investment",
+    "name": { "en": "YG Investment", "local": "와이지인베스트먼트" },
+    "aka": ["YG Investment, Inc.", "YG인베스트먼트"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://www.yg-investment.com",
+    "links": {
+      "other": ["https://thevc.kr/yginvestment"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "YG-IBKC Education Content Value-Up Fund", "vintage_year": null, "size": { "raw": "₩10.4 billion", "usd": null, "currency": "KRW" } },
+        { "name": "YG-IBKC Lifestyle Value-Up Fund", "vintage_year": null, "size": { "raw": "₩16.6 billion", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": "~₩3.94B avg per deal (THE VC)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["gaming", "consumer", "ecommerce"],
+      "thesis": "Corporate VC of YG Entertainment (via YG Plus), founded 2016, leveraging YG's content and global network to invest in entertainment, content, lifestyle, games and commerce ventures with synergy potential."
+    },
+    "track_record": {
+      "portfolio_count": 27,
+      "notable_investments": [
+        { "company": "InnoSimulation (이노시뮬레이션)", "sector": "simulation/tech", "outcome": "IPO (₩17B recovered)" }
+      ]
+    },
+    "people": [
+      { "name": "Han Sang-bong (한상봉)", "role": "CEO" }
+    ],
+    "team_size": 8,
+    "application": { "how_to_apply": "Contact via yg-investment.com", "accepts_cold_inbound": null },
+    "tags": ["entertainment", "music", "content", "lifestyle", "gaming", "k-pop-cvc", "yg"],
+    "summary": {
+      "en": "Corporate VC of YG Entertainment (YG Plus), founded July 2016 in Seoul. Invests in entertainment, content, lifestyle, games and e-commerce (6 of its deals in game dev, 27 total) at Series A/B; co-runs K-content funds with SM Culture Partners and Gaia.",
+      "local": "YG엔터테인먼트(YG플러스) 기업형 VC(2016년 7월 설립, 서울). 엔터테인먼트·콘텐츠·라이프스타일·게임·커머스 투자. SM컬처파트너스·가이아와 K-콘텐츠 펀드 공동운용."
+    },
+    "sources": [
+      { "url": "https://thevc.kr/yginvestment", "title": "YG Investment company profile", "publisher": "THE VC", "accessed": "2026-06-03", "supports": "Founded July 2016; CEO Han Sang-bong; 27 investments (game dev 6); parent YG Plus; HQ Yeouido Seoul; fund sizes; 8 employees", "quote": "Established July 2016 as a corporate venture capital firm ... '총 투자 대상 수 27건' ... game development (6 investments) ... Parent Company: YG Plus" },
+      { "url": "https://www.bloter.net/news/articleView.html?idxno=606010", "title": "YG Investment recovers ₩17B from InnoSimulation IPO", "publisher": "Bloter", "accessed": "2026-06-03", "supports": "Exit: InnoSimulation IPO, ~₩17B recovered", "quote": "YG인베스트먼트, 상장한 이노시뮬레이션 팔아 170억원 회수" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Parent listed as 'YG Plus' on THE VC (YG Plus is the YG group's listed affiliate); broadly YG Entertainment group CVC. Game-dev exposure (6 deals) plus entertainment/content core.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-jyp-partners",
+    "name": { "en": "JYP Partners", "local": "JYP파트너스" },
+    "aka": [],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2023,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "links": {
+      "other": ["https://www.fnnews.com/news/202303030939076575"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["South Korea", "North America"],
+      "sector_focus": ["gaming", "consumer"],
+      "thesis": "JYP Entertainment's corporate VC (new technology finance business, est. Feb 2023) investing in startups with synergy to JYP's core business — metaverse, fandom platforms and media — and supporting JYP's North American expansion."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Byun Sang-bong (변상봉)", "role": "Representative Director / CFO & Vice President of JYP Entertainment" }
+    ],
+    "team_size": null,
+    "application": { "how_to_apply": "New CVC; channels not yet public", "accepts_cold_inbound": null },
+    "tags": ["entertainment", "music", "k-pop-cvc", "metaverse", "fandom-platform", "media", "jyp"],
+    "summary": {
+      "en": "Corporate VC of JYP Entertainment, established February 2023 as a new-technology-finance company. Invests in startups synergistic with JYP's business — metaverse, fandom platforms and media — and supports JYP's North American push. Led by JYP CFO/VP Byun Sang-bong.",
+      "local": "JYP엔터테인먼트 기업형 VC(2023년 2월 설립, 신기술사업금융업). 메타버스·팬덤플랫폼·미디어 등 본업 시너지 스타트업 투자. 대표 변상봉(JYP CFO·부사장)."
+    },
+    "sources": [
+      { "url": "https://www.fnnews.com/news/202303030939076575", "title": "JYP Entertainment sets up VC subsidiary JYP Partners", "publisher": "Financial News", "accessed": "2026-06-03", "supports": "Established Feb 23 2023; new-tech-finance/CVC; parent JYP Entertainment; led by CFO Byun Sang-bong; focus metaverse/fandom/media", "quote": "JYP엔터는 지난달 23일 'JYP파트너스' 설립등기를 마쳤으며, 이는 신기술사업금융업 회사 ... 메타버스, 팬덤플랫폼, 미디어 등 본업과 시너지를 이룰 수 있는 신사업" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Single strong secondary source (Financial News). Establishment date and leadership confirmed; specific fund size and portfolio not yet disclosed (new entity, 2023).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-sm-culture-partners",
+    "name": { "en": "SM Culture Partners", "local": "SM컬처파트너스" },
+    "aka": ["SMCP"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "links": {
+      "other": ["https://en.wikipedia.org/wiki/SM_Culture_Partners", "https://m.thebell.co.kr/m/newsview.asp?svccode=&newskey=202503071413494120105191"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": "₩50 billion capital base", "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["gaming", "consumer", "ai-ml"],
+      "thesis": "SM Entertainment's wholly-owned corporate VC (new-technology finance), investing in culture- and tech-related ventures synergistic with SM's music/entertainment business; co-bids on K-content media strategy funds."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Dalcomsoft (달콤소프트)", "sector": "music/rhythm games", "outcome": "active" },
+        { "company": "DeepFine (딥파인)", "sector": "AR/tech", "outcome": "active" },
+        { "company": "Mine-is (마인이스)", "sector": "consumer/tech", "outcome": "active" }
+      ],
+      "co_investors": ["YG Investment", "Gaia Venture Partners"]
+    },
+    "people": [],
+    "team_size": null,
+    "application": { "how_to_apply": "Inbound via SM Entertainment affiliate channels", "accepts_cold_inbound": null },
+    "tags": ["entertainment", "music", "k-pop-cvc", "content", "gaming", "rhythm-games", "sm"],
+    "summary": {
+      "en": "SM Entertainment's wholly-owned corporate VC, founded 2022, investing own capital in culture/tech ventures (incl. rhythm-game maker Dalcomsoft, AR firm DeepFine). Registered as a venture investment company in 2025; ~₩50B capital base; co-bid a ₩63B K-content media fund with YG Investment and Gaia.",
+      "local": "SM엔터테인먼트 100% 자회사 기업형 VC(2022년 설립). 달콤소프트(리듬게임)·딥파인(AR) 등 컬처·테크 기업 투자. 자본금 약 500억원, YG인베스트먼트·가이아와 K-콘텐츠 펀드(630억) 공동 도전."
+    },
+    "sources": [
+      { "url": "https://m.thebell.co.kr/m/newsview.asp?svccode=&newskey=202503071413494120105191", "title": "SM-YG CVCs join hands for IP synergy / K-content media fund", "publisher": "The Bell", "accessed": "2026-06-03", "supports": "SM CVC name SM Culture Partners; founded 2022; ₩50B capital; portfolio incl. Dalcomsoft/DeepFine; ₩63B K-content fund consortium with YG Investment and Gaia", "quote": "SM컬처파트너스 ... Founded: 2022 ... Portfolio companies include ... 달콤소프트, 딥파인 ... 500억 won in capital ... 'K-콘텐츠 미디어 전략펀드' ... 630억" },
+      { "url": "https://en.wikipedia.org/wiki/SM_Culture_Partners", "title": "SM Culture Partners", "publisher": "Wikipedia", "accessed": "2026-06-03", "supports": "Wholly owned by SM Entertainment; venture capital / new-technology business financier for culture & tech ventures", "quote": "SM Culture Partners (SMCP) is a South Korean venture capital company wholly owned by SM Entertainment ... technology business financier ... venture investment of culture- and tech-related companies" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year 2022 per The Bell; registered as venture investment company in 2025. AUM not disclosed; ₩50B is stated capital base. Portfolio company names from The Bell summary.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-nxvp",
+    "name": { "en": "NXVP", "local": "엔엑스브이피" },
+    "aka": ["Enxvp"],
+    "type": "vc",
+    "subtypes": ["accelerator", "family-office"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "links": {
+      "other": ["https://www.bizhankook.com/bk/article/32055"]
+    },
+    "capital": {
+      "aum": { "raw": "₩65.2 billion", "usd": null, "currency": "KRW" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "geo_focus": ["South Korea", "United States", "Global"],
+      "sector_focus": ["gaming", "consumer", "robotics", "ai-ml", "spacetech"],
+      "thesis": "Investment firm of the Nexon owner family (via holding company Wisekids), licensed as a specialized-technology finance company and accelerator; invests across K-beauty, AI, humanoid robots, space, semiconductors and future industries, plus game-adjacent ventures."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "HeyDealer (헤이딜러)", "sector": "consumer/marketplace", "outcome": "active" },
+        { "company": "Relativity Space", "sector": "spacetech", "outcome": "active" },
+        { "company": "Figure AI", "sector": "robotics/AI", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "team_size": null,
+    "application": { "how_to_apply": "Private investment firm; channels not public", "accepts_cold_inbound": null },
+    "tags": ["nexon-family", "wisekids", "accelerator", "private-equity", "ai", "robotics", "k-beauty", "gaming-adjacent"],
+    "summary": {
+      "en": "Investment firm of the Nexon owner family (95% held by family holding company Wisekids), founded Jan 2025. Licensed as a specialized-tech finance company (2025) and accelerator (2026), expanded into PE GP (2026). ~₩65.2B AUM; bets on AI, robots, space, beauty and game-adjacent ventures.",
+      "local": "넥슨 창업주 가문 투자사(가족 지주사 와이즈키즈 95% 보유, 2025년 1월 설립). 신기술금융사·액셀러레이터 등록, PE GP 진출. AUM 약 652억원. AI·로봇·우주·뷰티 등 투자."
+    },
+    "sources": [
+      { "url": "https://www.bizhankook.com/bk/article/32055", "title": "Nexon owner-family investor NXVP enters PE; full-cycle investment", "publisher": "BizHankook", "accessed": "2026-06-03", "supports": "Founded Jan 2025; 95% owned by Wisekids (Nexon owner family); specialized-tech finance + AC + PE GP; ₩65.2B AUM; focus AI/robots/space/beauty; portfolio HeyDealer/Relativity/Figure AI", "quote": "Establishment: January 2025 ... Wisekids holds 95% of NXVP shares ... Accumulated assets under management reached '652억 원' ... HeyDealer ... Relativity Space ... Figure AI" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Broad-mandate family investment firm rather than a game-only fund, but Nexon-family-linked and game-adjacent; included as a long-tail Nexon-ecosystem investor. Single strong secondary source.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-smartstudy-ventures",
+    "name": { "en": "Smartstudy Ventures", "local": "스마트스터디벤처스" },
+    "aka": ["The Pinkfong Company Ventures", "핑크퐁 CVC"],
+    "type": "cvc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Incheon",
+    "website": "https://thevc.kr/smartstudyventures",
+    "links": {
+      "other": ["https://www.thepinkfongcompany.com/", "https://thevc.kr/smartstudyventures/portfolios"]
+    },
+    "capital": {
+      "aum": { "raw": "~₩40B (2021); projected up to ₩150B with 2025 mother-fund win", "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Baby Shark Next Unicorn IP Fund (베이비샤크넥스트유니콘IP펀드)", "vintage_year": 2021, "size": { "raw": "₩38.5B (₩45B target)", "usd": null, "currency": "KRW" } },
+        { "name": "Baby Shark Next Wave Tour Fund (베이비샤크넥스트웨이브투어펀드)", "vintage_year": 2022, "size": { "raw": "₩36–37B", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Global"],
+      "sector_focus": ["gaming", "consumer", "ai-ml"],
+      "thesis": "CVC arm of The Pinkfong Company (creator of Pinkfong/Baby Shark), hunting the 'next Baby Shark' content IP. Invests in animation, webtoon, web novels, gaming, character IP, short-form video and metaverse content, plus AI/IoT/mobility startups, leveraging Pinkfong's global content distribution network."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": "KRW" },
+      "format": "in-person",
+      "location": "Incheon",
+      "demo_day": null,
+      "perks": ["TIPS operator", "Pinkfong content/distribution synergy", "overseas-expansion support"],
+      "application_url": "https://www.jointips.or.kr/bbs/board.php?bo_table=partner&wr_id=135",
+      "eligibility": "Early-stage content/IP and tech startups"
+    },
+    "track_record": {
+      "portfolio_count": 29,
+      "notable_investments": [
+        { "company": "Rideflux", "sector": "autonomous driving", "outcome": "active" },
+        { "company": "Red Dog Culture House", "sector": "animation/webtoon", "outcome": "active" },
+        { "company": "Mako Bill (마코빌)", "sector": "gaming/content IP", "outcome": "active" }
+      ],
+      "co_investors": ["Korea Venture Investment Corp (모태펀드)", "Seoul/Incheon municipal funds"]
+    },
+    "people": [
+      { "name": "Lee Hyun-song (이현송)", "role": "CEO / 대표", "linkedin": "" },
+      { "name": "Park Hyung-taek (박형택)", "role": "Executive Director", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Via TIPS operator program and mother-fund (모태펀드) GP vehicles; portfolio inbound.",
+      "accepts_cold_inbound": true,
+      "contact": ""
+    },
+    "tags": ["gaming", "content-ip", "animation", "webtoon", "cvc", "tips-operator", "pinkfong"],
+    "summary": {
+      "en": "CVC subsidiary of The Pinkfong Company (Baby Shark), founded July 2019 in Incheon. Runs the ₩38.5B Baby Shark Next Unicorn IP Fund and a ~₩37B tourism-content fund (~₩40B AUM, projected up to ₩150B), and is a TIPS operator. 29 portfolio companies across animation, webtoon, web novels, gaming, character IP and short-form video, seeking the next breakout content IP.",
+      "local": "글로벌 콘텐츠 기업 더핑크퐁컴퍼니(핑크퐁·아기상어)의 CVC로 2019년 7월 인천에서 설립. 385억원 규모 '베이비샤크넥스트유니콘IP펀드'와 약 370억원 규모 관광콘텐츠 펀드를 운용(AUM 약 400억원, 1500억원까지 확대 전망), TIPS 운영사. 애니메이션·웹툰·웹소설·게임·캐릭터 IP·숏폼 등 29개사에 투자."
+    },
+    "sources": [
+      { "url": "https://magazine.hankyung.com/job-joy/article/202112122778d", "title": "2021 인천창조경제혁신센터 차세대 유니콘 스마트스터디벤처스", "publisher": "매거진한경", "accessed": "2026-06-03", "supports": "founding year, Incheon HQ, parent, leadership, AUM, portfolio", "quote": "Established: July 2019; Parent: Smartstudy (Baby Shark/Pinkfong); AUM ~40 billion won; Lee Hyun-song CEO; Baby Shark Next Unicorn IP Fund (established September 2021)" },
+      { "url": "https://www.etnews.com/20230104000318", "title": "스마트스터디벤처스, 360억 규모 '베이비샤크 넥스트웨이브 투어' 펀드 결성", "publisher": "전자신문", "accessed": "2026-06-03", "supports": "tourism content fund size", "quote": "360억 규모 '베이비샤크 넥스트웨이브 투어'펀드 결성" },
+      { "url": "https://www.thebell.co.kr/free/Content/ArticleView.asp?key=202504250041433660101489&svccode=00", "title": "[모태 2025 1차 정시출자]'핑크퐁' 스마트스터디벤처스, 'IP 분야' 재도전 성공", "publisher": "thebell", "accessed": "2026-06-03", "supports": "2025 mother-fund IP win, AUM projection", "quote": "운용자산은 1500억원까지 확대될 전망" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded 2019 per Hankyung; THE VC profile also lists 2019. AUM figures span 2021 (~₩40B) to 2025 projection (₩150B); current exact AUM not confirmed. Portfolio count 29 per THE VC portfolios page.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-union-investment-partners",
+    "name": { "en": "Union Investment Partners", "local": "유니온투자파트너스" },
+    "aka": ["유니온투자", "Union Investment"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2000,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://thevc.kr/unioninvestmentpartners",
+    "links": { "other": ["https://thevc.kr/unioninvestmentpartners"] },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Union Content Plus (유니온 콘텐츠 플러스)", "vintage_year": null, "size": { "raw": "₩40.5B", "usd": null, "currency": "KRW" } },
+        { "name": "Hyundai-Union Adventure Content Investment Partnership (현대-유니온모험콘텐츠투자조합)", "vintage_year": null, "size": { "raw": "₩35B", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": "~₩1.8B average", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["gaming", "consumer", "biotech"],
+      "thesis": "Long-standing Seoul VC with a recognized strength in culture-content. Backed Korean films including Parasite (기생충), Extreme Job (극한직업) and Along with the Gods (신과함께), plus web-novel platforms and content studios; adventure-content funds target early-stage film, animation, performance, drama and games."
+    },
+    "track_record": {
+      "portfolio_count": 55,
+      "notable_investments": [
+        { "company": "Parasite (기생충, film)", "sector": "film/content", "outcome": "exit" },
+        { "company": "Extreme Job (극한직업, film)", "sector": "film/content", "outcome": "exit" }
+      ],
+      "co_investors": ["KB Investment", "Industrial Bank of Korea", "Smilegate Investment"]
+    },
+    "people": [
+      { "name": "Lee Jae-woo (이재우)", "role": "Co-CEO", "linkedin": "" },
+      { "name": "Kim Taek-gyun (김택균)", "role": "Co-CEO", "linkedin": "" }
+    ],
+    "team_size": 17,
+    "application": { "how_to_apply": "Inbound via THE VC / direct contact.", "accepts_cold_inbound": true, "contact": "" },
+    "tags": ["content", "film", "gaming", "culture-content", "drama"],
+    "summary": {
+      "en": "Seoul VC founded February 2000, one of Korea's recognized culture-content specialist investors. 55 portfolio companies across 79 deals (content 16, bio 14, tech 14), avg check ~₩1.8B at Series A/B. Runs dedicated adventure-content vehicles (e.g. ₩40.5B Union Content Plus) covering film, animation, drama, performance and games; backed films Parasite and Extreme Job.",
+      "local": "2000년 2월 설립된 서울 VC로 국내 대표 문화콘텐츠 전문 투자자 중 하나. 55개사·79건 투자(콘텐츠 16건), 평균 약 18억원, 시리즈 A/B 중심. 영화·애니메이션·공연·드라마·게임 등에 투자하는 모험콘텐츠 펀드 운용(예: 405억원 유니온 콘텐츠 플러스). 기생충·극한직업 등에 투자."
+    },
+    "sources": [
+      { "url": "https://thevc.kr/unioninvestmentpartners", "title": "유니온투자파트너스 - 기업정보", "publisher": "THE VC", "accessed": "2026-06-03", "supports": "founding year, HQ, portfolio count, deals, content focus, funds, team size", "quote": "Established February 2000; Seoul (Gangnam-gu); 55 portfolio companies across 79 investments; Content: 16 investments; Union Content Plus (405 billion won...); 17 employees" },
+      { "url": "https://paxnetnews.com/articles/77788", "title": "유니온투자파트너스, 콘텐츠 투자 펀드 결성", "publisher": "팍스넷뉴스", "accessed": "2026-06-03", "supports": "adventure content fund, film backing", "quote": "350억원 규모의 '현대-유니온모험콘텐츠투자조합'을 결성... 영화, 애니메이션, 공연, 드라마, 게임 등 제작 초기에 있는 콘텐츠... 기생충, 극한직업, 신과함께 등 여러 국내 영화" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "THE VC 'Union Content Plus' rendered as ₩405B which appears to be a unit artifact for ₩40.5B; treated cautiously. Founding Feb 2000 per THE VC.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-capital-one-vc",
+    "name": { "en": "Capital One (Korea VC)", "local": "캐피탈원" },
+    "aka": ["주식회사 캐피탈원"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2009,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://thevc.kr/capitalone",
+    "links": { "other": ["https://thevc.kr/capitalone"] },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Showbox-iMBC Content Fund (쇼박스-iMBC 콘텐츠 투자조합)", "vintage_year": 2021, "size": { "raw": null, "usd": null, "currency": "KRW" } },
+        { "name": "Low-to-Mid Budget Film Fund II (중저예산영화전문 투자조합 2호)", "vintage_year": 2017, "size": { "raw": null, "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-c-plus"],
+      "check_size": { "raw": "₩429M–₩2.75B (avg ~₩1.12B)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["gaming", "consumer"],
+      "thesis": "Seoul CVC with a pronounced concentration in culture and content, managing at least five entertainment vehicles including film-focused funds (low-to-mid-budget film, Showbox-iMBC content). Also active in maritime/manufacturing."
+    },
+    "track_record": {
+      "portfolio_count": 13,
+      "notable_investments": [],
+      "co_investors": ["IM Investment Partners", "Woori Venture Partners", "BNK Venture Capital"]
+    },
+    "people": [ { "name": "Kim Ji-hong (김지홍)", "role": "CEO / 대표", "linkedin": "" } ],
+    "team_size": 4,
+    "application": { "how_to_apply": "Inbound via THE VC / direct contact.", "accepts_cold_inbound": true, "contact": "" },
+    "tags": ["film", "content", "entertainment", "cvc"],
+    "summary": {
+      "en": "Seoul corporate VC founded July 2009, registered as a KOCCA content VC with a pronounced film/content tilt — managing at least five entertainment funds including a Showbox-iMBC content fund and low-to-mid-budget film funds. 13 portfolio companies, deals ₩429M–₩2.75B (avg ~₩1.12B). Small 4-person team led by Kim Ji-hong.",
+      "local": "2009년 7월 설립된 서울 기업벤처캐피탈로 한국콘텐츠진흥원 콘텐츠 VC로 등재. 영화·콘텐츠 색이 강해 쇼박스-iMBC 콘텐츠 투자조합, 중저예산영화전문 투자조합 등 최소 5개 엔터테인먼트 펀드 운용. 13개 포트폴리오, 투자 규모 4.29억~27.5억원(평균 약 11억원). 대표 김지홍."
+    },
+    "sources": [
+      { "url": "https://thevc.kr/capitalone", "title": "캐피탈원 - 기업정보", "publisher": "THE VC", "accessed": "2026-06-03", "supports": "founding year, HQ, content funds, portfolio, deal sizes, CEO, team size", "quote": "Founded: July 2009; Seoul; 13 investments; Average deal size: ₩1.12 billion; Showbox-iMBC Content Fund; 중저예산영화전문 투자조합 2호; CEO Kim Ji-hong; 4 employees" },
+      { "url": "http://www.kocca.kr/mportal/bbs/view/B0000204/1950593.do?categorys=3&subcate=121&cateCode=0&menuNo=200210", "title": "콘텐츠산업정보포털 - 콘텐츠 VC", "publisher": "한국콘텐츠진흥원", "accessed": "2026-06-03", "supports": "registered as KOCCA content VC", "quote": "캐피탈원과 유니온투자파트너스는 한국콘텐츠진흥원에서 지원하는 콘텐츠 벤처캐피탈 기관으로 등재" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Distinct from US bank 'Capital One'. Founded July 2009 per THE VC. Fund-level sizes not disclosed on source.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-cj-investment",
+    "name": { "en": "CJ Investment", "local": "씨제이인베스트먼트" },
+    "aka": ["TimeWise Investment", "타임와이즈인베스트먼트", "CJ창업투자", "Dream Discovery (드림디스커버리)"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2000,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://thevc.kr/cjinvestment",
+    "links": { "other": ["http://www.cjinvestment.net/", "https://thevc.kr/cjinvestment"] },
+    "capital": {
+      "aum": { "raw": "~₩500B (as of Aug 2025)", "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": [
+        { "name": "Global Innovation Growth Fund (글로벌 혁신성장펀드)", "vintage_year": null, "size": { "raw": "₩69.2B", "usd": null, "currency": "KRW" } },
+        { "name": "New Frontier Fund (뉴프론티어펀드)", "vintage_year": null, "size": { "raw": "₩40B (planned)", "usd": null, "currency": "KRW" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea", "Global"],
+      "sector_focus": ["gaming", "consumer", "agritech", "biotech"],
+      "thesis": "CJ Group's corporate VC (re-acquired by CJ in 2022, formerly TimeWise Investment). Invests around CJ's four growth engines — Culture, Platform, Wellness, Sustainability — with a deep film/entertainment heritage: backed 18 of the top-30 Korean box-office films of 2017–2019 (Extreme Job, Along with the Gods, Roaring Currents). Plans ₩400B of new commitments over five years."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Extreme Job (극한직업, film)", "sector": "film/entertainment", "outcome": "exit" },
+        { "company": "Along with the Gods (신과함께, film)", "sector": "film/entertainment", "outcome": "exit" }
+      ],
+      "co_investors": ["KT", "CJ ENM"]
+    },
+    "people": [],
+    "team_size": null,
+    "application": { "how_to_apply": "Via CJ open-innovation programs (O-Ventures, FrontierLabs, GloVentures) and inbound.", "accepts_cold_inbound": true, "contact": "" },
+    "tags": ["entertainment", "film", "content", "music", "cvc", "cj-group"],
+    "summary": {
+      "en": "CJ Group's corporate VC in Seoul, founded February 2000 (as Dream Discovery → CJ Venture → TimeWise Investment → CJ Investment after CJ's 2022 buyback for ~₩22.1B). ~₩500B AUM (Aug 2025). Strong film/entertainment heritage — invested in 18 of the top-30 Korean box-office hits of 2017–2019 — now investing around Culture/Platform/Wellness/Sustainability with KT and CJ ENM co-funding new-media/content funds.",
+      "local": "CJ그룹의 CVC로 서울 소재, 2000년 2월 설립(드림디스커버리→CJ창업투자→타임와이즈인베스트먼트→2022년 CJ가 약 221억원에 재인수 후 CJ인베스트먼트). AUM 약 5000억원(2025년 8월). 2017~2019년 박스오피스 상위 30편 중 18편(극한직업·신과함께·명량 등)에 투자한 영화·엔터 강자. 컬처·플랫폼·웰니스·지속가능성 중심 투자, KT·CJ ENM과 뉴미디어/콘텐츠 펀드 공동 조성."
+    },
+    "sources": [
+      { "url": "http://www.investchosun.com/site/data/html_dir/2022/08/05/2022080580173.html", "title": "CJ, 타임와이즈인베 지분 전량 인수…CVC 'CJ인베스트먼트' 설립", "publisher": "인베스트조선", "accessed": "2026-06-03", "supports": "history, rename, CJ buyback", "quote": "타임와이즈인베스트먼트는 2000년 '드림디스커버리'라는 이름으로 설립됐으며 2003년 CJ창업투자, 2014년 타임와이즈인베스트먼트로 사명을 바꿨다... CJ는 221억원 정도를 투입해... 사명도... CJ인베스트먼트로 변경" },
+      { "url": "https://news.nate.com/view/20250831n04054", "title": "5000억 굴리는 투자자의 조언", "publisher": "네이트/한경", "accessed": "2026-06-03", "supports": "AUM ~₩500B", "quote": "5000억 굴리는 투자자" },
+      { "url": "https://cjnews.cj.net/cj그룹-cvc-설립한다-cj인베스트먼트-출범/", "title": "CJ그룹 CVC 설립한다… 'CJ인베스트먼트' 출범", "publisher": "CJ 뉴스룸", "accessed": "2026-06-03", "supports": "growth engines, film box-office record, ₩400B plan", "quote": "2017년부터 2019년까지 국내 관객수 상위 10위 안에 꼽힌 영화 30편 가운데 18편은 CJ인베스트먼트가 투자... 향후 5년간 4천억원을 신규 출자" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Multiple historical names; CVC under CJ holding. AUM ~₩500B (2025). Box-office investment claim sourced to CJ newsroom (primary-affiliated).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-laguna-investment",
+    "name": { "en": "Laguna Investment", "local": "라구나인베스트먼트" },
+    "aka": ["Laguna I", "라구나인베스트"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "http://lagunai.com/",
+    "links": { "other": ["http://lagunai.com/", "https://thevc.kr/lagunainvestment", "http://lagunai.com/Team"] },
+    "capital": {
+      "aum": { "raw": "₩155B+ (rising past ₩250B with scale-up/secondary funds)", "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["gaming", "consumer", "deeptech"],
+      "thesis": "Seoul VC (founded 2018) split between content and deeptech: content investing led by CEO Park Young-ho — a former Naver game-development team lead and ex-Korea Investment Partners investor who backed Kakao, DoubleU Games and Action Square. Runs six partnerships across content (game/film/media) and deeptech/materials."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Mako Bill (마코빌)", "sector": "cross-media content IP / gaming", "outcome": "active" },
+        { "company": "SCON (스콘)", "sector": "virtual entertainment (VTuber)", "outcome": "active" }
+      ],
+      "co_investors": ["SM Culture Partners"]
+    },
+    "people": [
+      { "name": "Park Young-ho (박영호)", "role": "Co-CEO (content)", "linkedin": "" },
+      { "name": "Park Hyung-jun (박형준)", "role": "Co-CEO (deeptech/materials)", "linkedin": "" }
+    ],
+    "team_size": 4,
+    "application": { "how_to_apply": "Inbound via website/THE VC.", "accepts_cold_inbound": true, "contact": "" },
+    "tags": ["content", "gaming", "film", "deeptech", "virtual-entertainment"],
+    "summary": {
+      "en": "Seoul VC founded February 2018, running six partnerships split between culture-content (game/film/media) and deeptech/materials. AUM rose from ~₩41.3B to ₩155B and is projected past ₩250B with new scale-up/secondary funds. Content investing is led by CEO Park Young-ho, an ex-Naver game-dev lead and former Korea Investment Partners investor; backed cross-media IP startup Mako Bill and VTuber firm SCON.",
+      "local": "2018년 2월 설립된 서울 VC로 6개 조합 운용, 콘텐츠(게임·영화·미디어)와 딥테크·소부장으로 양분. AUM 413억원→1549억원, 스케일업·세컨더리 펀드로 2500억원 돌파 전망. 콘텐츠 투자는 네이버 게임개발 팀장·한국투자파트너스 출신 박영호 대표가 주도(카카오·더블유게임즈·액션스퀘어 투자 이력). 크로스미디어 IP 마코빌, 버추얼 엔터 스콘 등에 투자."
+    },
+    "sources": [
+      { "url": "https://www.newstopkorea.com/news/articleView.html?idxno=22813", "title": "[신흥강호 VC] 라구나인베스트, 민간 LP 마음 사로잡은 비결", "publisher": "뉴스톱/더비스타", "accessed": "2026-06-03", "supports": "founding year, content/deeptech split, CEO background", "quote": "박영호 대표가 콘텐츠 분야 투자를 주도하고, 박형준 대표가 딥테크(첨단기술)·소부장 부문을 맡는 구조... 박영호 대표는 네이버 게임개발 팀장 출신으로, 한국투자파트너스에서 카카오·더블유게임즈·액션스퀘어 등에 투자" },
+      { "url": "https://dealsite.co.kr/articles/108459", "title": "'겹경사' 라구나인베스트, 중형 VC 도약 채비", "publisher": "딜사이트", "accessed": "2026-06-03", "supports": "AUM growth, fund count, team size", "quote": "전체 인력은 4명으로 구성돼 있으며 6개 조합을 운용... AUM이 1549억원에 달했다... 2500억원을 돌파할 전망" },
+      { "url": "https://www.venturesquare.net/924403", "title": "버튜버 엔터 '스콘', 라구나인베스트먼트로부터 투자 유치", "publisher": "벤처스퀘어", "accessed": "2026-06-03", "supports": "content/VTuber portfolio", "quote": "버추얼 엔터테인먼트 기업 스콘... 라구나인베스트먼트 등이 참여" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founded Feb 2018 per THE VC. AUM figures from secondary press range ₩41.3B–₩155B+; exact current AUM not pinned. Park Young-ho's prior-firm deal history per press.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-neoplay",
+    "name": { "en": "Neoplay (Neoply)", "local": "네오플라이" },
+    "aka": ["NEOPLY", "Neoply", "네오플라이센터"],
+    "type": "accelerator",
+    "subtypes": ["incubator", "cvc"],
+    "status": "active",
+    "founded_year": 2007,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seongnam (Pangyo)",
+    "website": "https://www.neoply.com/",
+    "links": { "other": ["https://www.neoply.com/", "https://thevc.kr/neoply", "https://www.facebook.com/NEOPLY/"] },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["gaming", "web3-crypto", "generalist"],
+      "thesis": "Neowiz's startup accelerator/incubator in Pangyo, providing office space, angel capital and Neowiz-staff mentoring. Originating from a games company, it added blockchain/crypto acceleration and equity investment from 2018, offering both crypto acceleration and equity tracks."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": "~20 companies (~125-person capacity)",
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "angel-stage", "usd": null, "currency": "KRW" },
+      "format": "in-person",
+      "location": "Pangyo Techno Valley, Seongnam",
+      "demo_day": null,
+      "perks": ["office space (Neoplay Center)", "Neowiz mentoring", "crypto acceleration + equity tracks"],
+      "application_url": "https://www.neoply.com/",
+      "eligibility": "Early-stage startups, with a blockchain/crypto emphasis"
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [], "co_investors": [] },
+    "people": [
+      { "name": "Kwon Yong-gil (권용길)", "role": "Co-representative (startup discovery, blockchain)", "linkedin": "" },
+      { "name": "Oh Seung-heon (오승헌)", "role": "Co-representative (management consulting, new business)", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": { "how_to_apply": "Apply via neoply.com; Neoplay Center incubation in Pangyo.", "accepts_cold_inbound": true, "contact": "" },
+    "tags": ["gaming", "accelerator", "incubator", "blockchain", "neowiz", "pangyo"],
+    "summary": {
+      "en": "Neowiz's startup accelerator/incubator in Pangyo, established 2007 (as Neoplay/Neoply). Provides office space (Neoplay Center, ~20 companies / ~125 capacity), angel capital and Neowiz-employee mentoring; from 2018 added blockchain/crypto acceleration plus equity-investment tracks. Co-led by Kwon Yong-gil and Oh Seung-heon.",
+      "local": "네오위즈의 스타트업 액셀러레이터·인큐베이터로 판교 소재, 2007년 설립(네오플라이). 사무공간(네오플라이센터, 약 20개사·125명 규모)·엔젤투자·네오위즈 임직원 멘토링 제공. 2018년부터 블록체인·암호화폐 액셀러레이팅과 지분투자 트랙 추가. 공동대표 권용길·오승헌."
+    },
+    "sources": [
+      { "url": "http://www.newstomato.com/readNews.aspx?no=428800", "title": "네오위즈 스타트업 인큐베이터 '네오플라이센터'를 가다", "publisher": "뉴스토마토", "accessed": "2026-06-03", "supports": "Neowiz incubator, Pangyo, capacity", "quote": "네오플라이 센터는 네오위즈의 스타트업 인큐베이팅 공간... 약 125명, 약 20개 기업" },
+      { "url": "https://wiki1.kr/index.php/㈜네오플라이", "title": "㈜네오플라이 - 위키원", "publisher": "위키원", "accessed": "2026-06-03", "supports": "founding, blockchain focus, co-representatives", "quote": "2007년... 판교... 2018년부터 블록체인 및 가상화폐 부문 투자... 권용길, 오승헌" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding dates reported variously (THE VC ~Apr 2007; one source Apr 26 2007). Parent: Neowiz Holdings. Originally a games-company incubator; now blockchain-heavy.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-seoul-game-contents-center",
+    "name": { "en": "Seoul Game Contents Center", "local": "서울게임콘텐츠센터" },
+    "aka": ["SBA Game Contents Center"],
+    "type": "government-program",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://gamecontents.startup-plus.kr/",
+    "links": { "other": ["https://gamecontents.startup-plus.kr/"] },
+    "capital": { "aum": { "raw": null, "usd": null, "currency": "KRW" }, "current_fund": { "raw": null, "usd": null, "currency": "KRW" }, "funds": [] },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["gaming"],
+      "thesis": "Seoul city's game-startup support center operated by Seoul Business Agency (SBA), offering incubation/office tenancy, startup events and networking to accelerate game startups from development through marketing."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": 0,
+      "investment": { "raw": "non-equity support (incubation/marketing grants)", "usd": null, "currency": "KRW" },
+      "format": "in-person",
+      "location": "S.Plex Center Synergium, Sangam-dong, Mapo-gu, Seoul",
+      "demo_day": null,
+      "perks": ["office tenancy", "game development-to-marketing support", "startup events/networking"],
+      "application_url": "https://gamecontents.startup-plus.kr/",
+      "eligibility": "(Prospective) game startups and SMEs"
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [], "co_investors": [] },
+    "people": [],
+    "team_size": null,
+    "application": { "how_to_apply": "Apply via the center's tenancy/program calls.", "accepts_cold_inbound": true, "contact": "gamecenter@sba.seoul.kr / 02-6952-3125" },
+    "tags": ["gaming", "government-program", "incubator", "seoul", "sba"],
+    "summary": {
+      "en": "Seoul's game-startup support center operated by Seoul Business Agency (SBA), located in the S.Plex Center in Sangam-dong (Mapo-gu). Provides incubation/office tenancy plus game development-to-marketing support and startup events/networking. Non-equity public program.",
+      "local": "서울경제진흥원(SBA)이 운영하는 서울시 게임 스타트업 지원센터로, 상암동 S.Plex 센터에 위치. 입주(사무공간) 지원과 게임 개발부터 마케팅까지 성장 지원, 창업행사·네트워크 제공. 지분 미취득 공공 프로그램."
+    },
+    "sources": [
+      { "url": "https://gamecontents.startup-plus.kr/", "title": "서울게임콘텐츠센터", "publisher": "Seoul Business Agency (SBA)", "accessed": "2026-06-03", "supports": "operator, location, programs, contact", "quote": "Operating Body: Seoul Business Agency; Location: ...S.Plex Center... Mapo-gu, Seoul; 입주, 창업행사•네트워크; gamecenter@sba.seoul.kr | 02-6952-3125" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Public program under SBA; founding year and equity terms not stated on site (equity assumed 0 as a government incubation program).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-gyeonggi-global-game-center",
+    "name": { "en": "Gyeonggi Global Game Center", "local": "경기글로벌게임센터" },
+    "aka": ["Gyeonggi Content Agency (game division)", "경기콘텐츠진흥원 게임산업", "GCON Global Game Center", "GGC"],
+    "type": "government-program",
+    "subtypes": ["accelerator", "incubator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seongnam (Pangyo)",
+    "website": "http://www.gamehub.or.kr/",
+    "links": { "other": ["http://www.gamehub.or.kr/", "https://www.gcon.or.kr/gcon/main/contents.do?menuNo=200030", "https://www.facebook.com/gcon.ggc/"] },
+    "capital": { "aum": { "raw": null, "usd": null, "currency": "KRW" }, "current_fund": { "raw": null, "usd": null, "currency": "KRW" }, "funds": [] },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["gaming"],
+      "thesis": "Game-industry support brand funded by Gyeonggi Province and operated by Gyeonggi Content Agency (GCON). Combines office tenancy, accelerating, demo days (investment-linked), networking and e-sports promotion; partners with game-specialist investors (Kakao Ventures, Kona Venture Partners) and publishers via 'Gyeonggi Game Connect' to channel investment and distribution to SMEs/indies."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": 2,
+      "equity_taken_pct": 0,
+      "investment": { "raw": "grants + fund-linked investment via 'Gyeonggi Level-up' / content fund-of-funds", "usd": null, "currency": "KRW" },
+      "format": "in-person",
+      "location": "Pangyo 2nd Techno Valley, LH Business Growth Center 9F, Seongnam",
+      "demo_day": true,
+      "perks": ["office tenancy (resident companies)", "accelerating program", "investment-linked demo days", "networking", "Gyeonggi Game Connect (investors + publishers)"],
+      "application_url": "https://www.gcon.or.kr/gcon/business/gconNotice/list.do?menuNo=200061",
+      "eligibility": "(Prospective) game startups and SME game companies"
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [], "co_investors": ["Kakao Ventures", "Kona Venture Partners"] },
+    "people": [],
+    "team_size": null,
+    "application": { "how_to_apply": "Apply via GCON tenancy/program calls; Gyeonggi Game Connect matching.", "accepts_cold_inbound": true, "contact": "" },
+    "tags": ["gaming", "esports", "government-program", "accelerator", "incubator", "gyeonggi", "pangyo"],
+    "summary": {
+      "en": "Game-industry support brand of Gyeonggi Province, operated by Gyeonggi Content Agency (GCON) at Pangyo 2nd Techno Valley. Offers office tenancy, accelerating, investment-linked demo days, networking and e-sports programs, plus a content startup-opportunity fund. Its 'Gyeonggi Game Connect' brings ~13 game-focused investors (incl. Kakao Ventures, Kona Venture Partners) and publishers to back SME/indie studios.",
+      "local": "경기도가 지원하고 경기콘텐츠진흥원(GCON)이 운영하는 게임분야 전문 지원 브랜드로 판교 제2테크노밸리 소재. 입주·액셀러레이팅·투자연계 데모데이·네트워킹·e스포츠 프로그램과 콘텐츠창업기업기회펀드 운영. '경기 게임 커넥트'에 카카오벤처스·코나벤처파트너스 등 게임 전문 투자사와 퍼블리셔 13개사가 참여해 중소·인디 게임사에 투자·배급 기회 제공."
+    },
+    "sources": [
+      { "url": "https://www.gcon.or.kr/gcon/main/contents.do?menuNo=200030", "title": "게임산업육성 | 게임산업 | 사업소개 | 경기콘텐츠진흥원", "publisher": "경기콘텐츠진흥원", "accessed": "2026-06-03", "supports": "operator, programs (game promotion, esports, content fund)", "quote": "게임산업육성, 건전게임문화 조성, 경기e스포츠 육성... 콘텐츠창업기업기회펀드조성, G-유니콘패스" },
+      { "url": "http://www.gamehub.or.kr/gamehubnew/centerintro/resiCompany.do?menuNo=2", "title": "경기글로벌게임센터 - 입주기업현황", "publisher": "경기글로벌게임센터", "accessed": "2026-06-03", "supports": "Pangyo location, tenancy, accelerating/demo-day programs", "quote": "경기글로벌게임센터는 경기도가 지원하고 경기콘텐츠진흥원이 운영하는 게임분야 전문 지원사업... 판교 제2테크노밸리 LH기업성장센터 9층... 엑셀러레이팅 프로그램, 데모데이 프로그램(투자연계)" },
+      { "url": "https://www.gcon.or.kr/gcon/main/contents.do?menuNo=200030", "title": "경기 게임 커넥트", "publisher": "경기콘텐츠진흥원", "accessed": "2026-06-03", "supports": "Gyeonggi Game Connect investor/publisher matching", "quote": "카카오벤처스, 코나벤처파트너스 등 게임 분야 투자 전문회사와 대형 배급사(퍼블리셔) 13개사가 참여" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Public program (Gyeonggi Province / GCON). Founding year of the game center not stated; equity assumed 0. Two batches/year inferred from semi-annual (반기) tenant recruitment notices.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  },
+  {
+    "id": "kr-beyond-music",
+    "name": { "en": "Beyond Music", "local": "비욘드뮤직" },
+    "aka": ["Beyond Music Company", "비욘드뮤직컴퍼니"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "south-korea",
+    "country": "South Korea",
+    "hq_city": "Seoul",
+    "website": "https://beyondmusic.io/en/",
+    "links": { "other": ["https://beyondmusic.io/en/", "https://thevc.kr/beyondmusiccompany"] },
+    "capital": {
+      "aum": { "raw": "~₩500B music-IP AUM (cumulative)", "usd": null, "currency": "KRW" },
+      "current_fund": { "raw": null, "usd": null, "currency": "KRW" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["South Korea"],
+      "sector_focus": ["gaming"],
+      "thesis": "Music IP investment/management firm — acquires, invests in and manages music copyrights (songwriting/master rights), generating royalty income via remakes, sync, season/issue-based revival and SNS. Asia's largest single-owner music-IP manager, backed by PE firm Praxis Capital Partners."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": ["Praxis Capital Partners"]
+    },
+    "people": [
+      { "name": "Lee Jang-won (이장원)", "role": "CEO / Founder", "linkedin": "" },
+      { "name": "Park Geun-tae (박근태)", "role": "Co-founder (composer)", "linkedin": "" }
+    ],
+    "team_size": null,
+    "application": { "how_to_apply": "Catalog/IP acquisition inquiries via beyondmusic.io.", "accepts_cold_inbound": true, "contact": "" },
+    "tags": ["music", "music-ip", "royalties", "entertainment", "kpop", "ip-fund"],
+    "summary": {
+      "en": "Seoul music-IP investment/management firm founded April 2021 by composer Park Geun-tae and ex-Mafia Company founder Lee Jang-won, backed by PE firm Praxis Capital Partners (cumulative ~₩500B invested). It acquires, invests in and manages music copyrights — Asia's largest single-owner music-IP catalog — monetizing via royalties, remakes and sync. An IP-asset investor rather than a startup-equity VC.",
+      "local": "2021년 4월 작곡가 박근태와 마피아컴퍼니 창업자 출신 이장원 대표가 설립한 서울 음원 IP 투자·운용사로, PEF 프랙시스캐피탈파트너스가 누적 약 5000억원 투자. 음원 저작권을 인수·투자·관리하는 아시아 최대 단일 음원 IP 운용사로 저작권료·리메이크·싱크로 수익화. 스타트업 지분 VC라기보다 IP 자산 투자자."
+    },
+    "sources": [
+      { "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507181037169000109515", "title": "프랙시스의 선구안, 음원 IP 운용사 '비욘드뮤직' 실적 순항", "publisher": "thebell", "accessed": "2026-06-03", "supports": "founding, founders, Praxis backing, AUM", "quote": "비욘드뮤직은 박근태 작곡가와 디지털 악보 플랫폼 마피아컴퍼니 창업자 출신 이장원 대표가 2021년 설립... 누적 투자액을 5000억원으로 늘렸다... 아시아 최대 단일 음원 IP 운용사" },
+      { "url": "https://thevc.kr/beyondmusiccompany", "title": "비욘드뮤직컴퍼니 - 기업정보", "publisher": "THE VC", "accessed": "2026-06-03", "supports": "Seoul HQ, April 2021 founding, music-IP business", "quote": "Beyond Music Company was established in April 2021... music copyright investment, acquisition, and management... Seoul, Gangnam-gu" }
+    ],
+    "confidence": "low",
+    "verification_notes": "Classified 'vc' as the closest taxonomy type, but Beyond Music is primarily a music-IP asset acquirer/manager (royalty fund), not a startup-equity VC. Included for the music/creator-investor remit; ₩500B is cumulative capital raised from Praxis, not assets-under-management in the VC sense.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-gaming-media"
+  }
+]

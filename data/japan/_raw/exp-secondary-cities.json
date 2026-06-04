@@ -1,0 +1,835 @@
+[
+  {
+    "id": "jp-gxpartners",
+    "name": { "en": "GxPartners", "local": "GxPartners有限責任事業組合" },
+    "aka": ["GxPartners LLP", "ジー・クロス・パートナーズ"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Fukuoka",
+    "website": "https://gxpartners.vc/",
+    "links": {
+      "other": [
+        "https://gxpartners.vc/en.html",
+        "https://initial.inc/investors/V12701",
+        "https://startup-db.com/investment-companies/bzgwJ67UQWjGrjY6"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "九州オープンイノベーション1号投資事業有限責任組合 (Kyushu Open Innovation Fund 1)", "vintage_year": 2019, "size": { "raw": "最大20億円 (up to ¥2.0B target)", "usd": null, "currency": "JPY" } },
+        { "name": "九州オープンイノベーション2号投資事業有限責任組合 (Kyushu Open Innovation Fund 2)", "vintage_year": 2022, "size": { "raw": "30億円目標 (¥3.0B target)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Kyushu", "Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Seed/early-stage VC spun out of the Fukuoka startup-support community Startup GoGo. Drives 'Open Innovation 2.0' by pairing startups with the resources of 15+ corporate partners (incl. FFG Venture Business Partners, Nishi-Nippon Railroad) across Kyushu."
+    },
+    "track_record": {
+      "portfolio_count": 39,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Toshihiro Kishihara (岸原稔泰)", "role": "Representative Partner" },
+      { "name": "Takeshi Nakahara (中原健)", "role": "Representative Partner" },
+      { "name": "Hiroshi Terai", "role": "Representative Partner" },
+      { "name": "Shunsuke Omagari", "role": "Principal" }
+    ],
+    "application": { "how_to_apply": "Contact via website / participate in StartupGoGo The Pitch and UPDRAFT accelerator", "accepts_cold_inbound": true },
+    "tags": ["fukuoka", "kyushu", "open-innovation", "regional"],
+    "summary": {
+      "en": "Fukuoka-based seed/early-stage independent VC born out of the Startup GoGo community, running Kyushu Open Innovation funds and the UPDRAFT accelerator. Fund 1 invested in 26 companies; portfolio now ~39.",
+      "local": "福岡発、Startup GoGoから生まれたシード・アーリー特化の独立系VC。九州オープンイノベーション1号・2号ファンドを運営。"
+    },
+    "sources": [
+      { "url": "https://gxpartners.vc/en.html", "title": "GxPartners — Venture Capital in Fukuoka City", "publisher": "GxPartners", "accessed": "2026-06-03", "supports": "HQ Fukuoka, seed/early stage, portfolio count, partners list", "quote": "Venture capital for seed and early stages." },
+      { "url": "https://prtimes.jp/main/html/rd/p/000000023.000044036.html", "title": "GxPartners、30億円規模を目指す九州オープンイノベーション2号 ファーストクローズ", "publisher": "PR TIMES", "accessed": "2026-06-03", "supports": "Fund 2 size ¥3.0B target, established Aug 2022; Fund 1 invested 26 companies", "quote": "「九州オープンイノベーション２号投資事業有限責任組合」を２０２２年８月に設立し、ファンド規模は３０億円を目指します" },
+      { "url": "https://startup-gogo.com/archives/4280", "title": "StartupGoGoが新VC GxPartnersを設立", "publisher": "Startup Go!Go!", "accessed": "2026-06-03", "supports": "Founded 2019, spun out of Startup GoGo community", "quote": "福岡を拠点に活動しているスタートアップ支援組織、一般社団法人Startup GoGoが新たなベンチャーキャピタル、GxPartners LLPを立ち上げました" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year 2019 per Startup GoGo announcement; check size not disclosed. Portfolio count 39 per official site (Jun 2026).",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "jp-dogan-beta",
+    "name": { "en": "DOGAN beta (Beta Venture Capital)", "local": "ベータ・ベンチャーキャピタル株式会社 (旧 ドーガン・ベータ)" },
+    "aka": ["DOGAN β", "ドーガン・ベータ", "Beta Venture Capital", "β Venture Capital"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Fukuoka",
+    "website": "https://betavc.jp/",
+    "links": {
+      "other": [
+        "https://dogan.vc/",
+        "https://initial.inc/investors/V09920",
+        "https://startup-db.com/companies/6323/investments"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "ベータ2020ファンド (Beta 2020 Fund, 4th fund)", "vintage_year": 2020, "size": { "raw": "最大25億円 (up to ¥2.5B)", "usd": null, "currency": "JPY" } }
+      ],
+      "aum": { "raw": "累計5本・約50億円 (cumulative 5 funds, ~¥5.0B)", "usd": null, "currency": "JPY" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "1社当たり3千万〜5千万円 (¥30M–¥50M per company)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Kyushu", "Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Region-rooted seed VC operating on a '金融の地産地消' (financial localization) thesis — raising capital from Kyushu corporates and regional banks to fund local pre-seed/seed ventures, with hands-on CFO-level pre-investment support."
+    },
+    "track_record": {
+      "portfolio_count": 97,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Ryohei Hayashi (林龍平)", "role": "Representative Director & Partner; former JVCA Regional Revitalization Division Chair" }
+    ],
+    "application": { "how_to_apply": "Contact via betavc.jp; active in Fukuoka startup community", "accepts_cold_inbound": true },
+    "tags": ["fukuoka", "kyushu", "seed", "regional", "financial-localization"],
+    "summary": {
+      "en": "One of Fukuoka/Kyushu's oldest independent regional VCs (first fund 2006 under DOGAN, incorporated as Beta VC in 2017). Cumulative ~5 funds / ~¥5B, ~97 portfolio companies, seed focus with ¥30-50M checks.",
+      "local": "福岡・九州最古参の独立系地域VC。2006年に初号ファンド、2017年にベータ・ベンチャーキャピタルとして法人化。累計約5本・約50億円、シード特化。"
+    },
+    "sources": [
+      { "url": "https://betavc.jp/column/291/", "title": "福岡にスタートアップ・エコシステムの土壌を作る──ドーガン・ベータ15年間の道のり", "publisher": "Beta Venture Capital", "accessed": "2026-06-03", "supports": "First fund 2006, incorporated 2017, cumulative 5 funds ~¥5B, 97 portfolio companies, founder Ryohei Hayashi, financial localization thesis", "quote": "First fund launched in 2006 ... Spun off from Dogan Group and incorporated as Beta Venture Capital in 2017 ... Cumulative: 5 funds totaling approximately ¥5 billion ... Portfolio companies: 97" },
+      { "url": "https://thebridge.jp/2020/05/dogan-beta-2020-fund", "title": "ドーガン・ベータ、4本目となる九州特化ファンド「ベータ2020」を組成", "publisher": "THE BRIDGE", "accessed": "2026-06-03", "supports": "Beta 2020 Fund 4th, up to ¥2.5B, Kyushu-focused, local LPs", "quote": "4本目のファンドとして「ベータ2020ファンド」を組成し、25億円規模を目指しています" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Legal entity Beta Venture Capital Co. founded 2017; VC activity traces to 2006. Check size ¥30-50M per Nikkei/InitialL.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "jp-hokkaido-venture-capital",
+    "name": { "en": "Hokkaido Venture Capital", "local": "北海道ベンチャーキャピタル株式会社" },
+    "aka": ["HVC", "北海道VC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Sapporo",
+    "website": "https://www.hokkaido-vc.com/",
+    "links": {
+      "other": ["https://www.hokkaido-vc.com/pages/20/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "ほっかいどう事業承継投資事業有限責任組合", "vintage_year": 2022, "size": { "raw": null, "usd": null, "currency": "JPY" } },
+        { "name": "北海道グロース1号投資事業有限責任組合", "vintage_year": 2021, "size": { "raw": null, "usd": null, "currency": "JPY" } },
+        { "name": "どさんこ地域活性化投資事業有限責任組合", "vintage_year": 2019, "size": { "raw": null, "usd": null, "currency": "JPY" } },
+        { "name": "ほっかいどう地方創生投資事業有限責任組合", "vintage_year": 2015, "size": { "raw": null, "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Hokkaido", "Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Sapporo-based sector-agnostic VC investing from seed through later-stage and mid-sized enterprises across Hokkaido, partnering with Hokkaido Bank, regional shinkin banks and credit unions on regional-revitalization funds."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "FiberGate", "sector": "telecom", "outcome": "IPO" },
+        { "company": "Gene Techno Science", "sector": "biotech", "outcome": "IPO" }
+      ]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Contact via hokkaido-vc.com", "accepts_cold_inbound": true },
+    "tags": ["hokkaido", "sapporo", "regional-revitalization"],
+    "summary": {
+      "en": "Sapporo-based independent VC running multiple Hokkaido regional-revitalization and growth funds (sector-agnostic, seed-to-later). Co-invests with Hokkaido Bank and local shinkin/credit unions; IPO exits include FiberGate and Gene Techno Science.",
+      "local": "札幌拠点の独立系VC。複数の北海道地方創生・グロースファンドを運営、業種問わずシード〜レイターに投資。"
+    },
+    "sources": [
+      { "url": "https://www.hokkaido-vc.com/pages/20/", "title": "運営ファンド｜北海道ベンチャーキャピタル", "publisher": "Hokkaido Venture Capital", "accessed": "2026-06-03", "supports": "5 active funds with vintage years, seed-to-later, no sector restriction, Sapporo HQ", "quote": "投資ステージ：シード～レイター、中堅企業 ... 業種：問わない" },
+      { "url": "https://www.hokkaidobank.co.jp/business/news/detail.php?id=1206", "title": "「ほっかいどう地方創生ファンド」の設立について", "publisher": "Hokkaido Bank", "accessed": "2026-06-03", "supports": "2015 Hokkaido regional-revitalization fund co-formed with HVC and local financial institutions", "quote": "道内の14信金、3信用組合および北海道ベンチャーキャピタル株式会社と共同で、2015年9月に「ほっかいどう地方創生投資事業有限責任組合」を設立" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year not stated on official fund page; fund vintages confirmed. IPO names (FiberGate, Gene Techno Science) from secondary list (accelainc).",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "jp-niigata-venture-capital",
+    "name": { "en": "Niigata Venture Capital", "local": "新潟ベンチャーキャピタル株式会社" },
+    "aka": ["NVC", "新潟VC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2010,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Niigata",
+    "website": "https://niigata-vc.co.jp/",
+    "links": {
+      "other": [
+        "https://niigata-vc.co.jp/company/",
+        "https://niigata-vc.co.jp/fund/",
+        "https://startup-db.com/investment-companies/0QVwG3zU0WgJ6Eye"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "資本金7,900万円 (capital ¥79M incl. reserve)", "usd": null, "currency": "JPY" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Niigata", "Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Niigata-rooted VC established as the operator of a venture fund created by Niigata Prefecture for regional revitalization; hands-on seed/early-stage support (capital, personnel, business development, alliances) for local ventures."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [
+      { "name": "Toshihiko Nagase (永瀬俊彦)", "role": "Representative Director & President" }
+    ],
+    "application": { "how_to_apply": "Contact via niigata-vc.co.jp", "accepts_cold_inbound": true },
+    "tags": ["niigata", "regional-revitalization", "prefecture-backed"],
+    "summary": {
+      "en": "Niigata-based hands-on VC founded 2010 to operate a Niigata Prefecture regional-revitalization venture fund; capital ¥79M, seed/early-stage focus on local companies.",
+      "local": "2010年設立、新潟県の地域活性化ベンチャーファンド運営会社として誕生。資本金7,900万円、シード・アーリー特化。"
+    },
+    "sources": [
+      { "url": "https://niigata-vc.co.jp/company/", "title": "企業情報｜新潟ベンチャーキャピタル", "publisher": "Niigata Venture Capital", "accessed": "2026-06-03", "supports": "Founded 2010-03-03, capital ¥79M, CEO Nagase, seed/early hands-on", "quote": "資本金 7,900万円（資本準備金含む）" },
+      { "url": "https://www.pref.niigata.lg.jp/site/sangyorodo/venture-fund.html", "title": "新潟ベンチャーキャピタル(株)が新たに設立するスタートアップファンドに出資します", "publisher": "Niigata Prefecture", "accessed": "2026-06-03", "supports": "Prefecture co-invests in NVC startup fund; regional-revitalization mandate", "quote": "新潟ベンチャーキャピタル(株)が新たに設立するスタートアップファンドに出資します" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2010-03-03 and capital ¥79M from official company page; portfolio count and check size not disclosed.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "jp-jigyo-sozo-capital",
+    "name": { "en": "Business Creation Capital (Jigyo Sozo Capital)", "local": "事業創造キャピタル株式会社" },
+    "aka": ["Jigyo Sozo Capital", "JS Capital", "事業創造キャピタル"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Niigata",
+    "offices": [{ "country": "Japan", "city": "Tokyo" }],
+    "website": "https://js-capital.co.jp/",
+    "links": {
+      "other": [
+        "https://js-capital.co.jp/about/",
+        "https://www.nsg.gr.jp/list/064.html"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "エンジェル投資ファンド約4億円 (angel fund ~¥400M)", "usd": null, "currency": "JPY" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Niigata", "Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Niigata-headquartered (with Tokyo office) VC within the NSG Group, supporting venture investment, management support, entrepreneur development and new-business creation; linked to Tokyo's Institute for Entrepreneurial Studies (Jigyo Sozo Daigakuin Daigaku)."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [],
+    "application": { "how_to_apply": "Contact via js-capital.co.jp", "accepts_cold_inbound": true },
+    "tags": ["niigata", "nsg-group", "entrepreneur-development"],
+    "summary": {
+      "en": "Niigata/Tokyo VC inside the NSG Group, managing an angel investment fund (~¥400M) and tied to the NSG-affiliated entrepreneurial graduate school; invests in and supports early-stage ventures.",
+      "local": "NSGグループの新潟・東京拠点VC。約4億円のエンジェル投資ファンドを運営、事業創造大学院大学と連携。"
+    },
+    "sources": [
+      { "url": "https://js-capital.co.jp/about/", "title": "会社概要・スタッフ紹介｜事業創造キャピタル", "publisher": "Jigyo Sozo Capital", "accessed": "2026-06-03", "supports": "Niigata HQ + Tokyo office, NSG Group, venture investment + entrepreneur development", "quote": "新潟本社と東京オフィス ... ベンチャー企業への投資活動、経営支援、起業家育成、新規事業開発" },
+      { "url": "https://www.nsg.gr.jp/list/064.html", "title": "事業創造キャピタル株式会社｜NSGグループ", "publisher": "NSG Group", "accessed": "2026-06-03", "supports": "Part of NSG Group, manages angel investment fund ~¥400M", "quote": "事業創造キャピタル株式会社" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year not located on official pages; ~¥400M angel fund figure from secondary regional VC list (accelainc).",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "jp-shizuoka-capital",
+    "name": { "en": "Shizuoka Capital", "local": "静岡キャピタル株式会社" },
+    "aka": ["静岡キャピタル", "Shizuoka Capital Co."],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 1984,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Shizuoka",
+    "website": "https://scc.shizuoka-fg.co.jp/",
+    "links": {
+      "other": [
+        "https://scc.shizuoka-fg.co.jp/feature/",
+        "https://scc.shizuoka-fg.co.jp/achievement/",
+        "https://initial.inc/investors/2519"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "しずおかビジョン共創1号投資事業有限責任組合 (VC fund)", "vintage_year": 2026, "size": { "raw": "20億円 (¥2.0B)", "usd": null, "currency": "JPY" } },
+        { "name": "富士山・アルプス アライアンス投資事業有限責任組合 (PE fund)", "vintage_year": 2025, "size": { "raw": "30億円 (¥3.0B)", "usd": null, "currency": "JPY" } },
+        { "name": "静岡中小企業支援6号投資事業有限責任組合 (SME support fund)", "vintage_year": 2021, "size": { "raw": "50億円 (¥5.0B)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Shizuoka", "Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Shizuoka Financial Group's (Shizuoka Bank) investment arm, investing across all growth stages from seed to pre-IPO plus business succession and management support, anchored in the Shizuoka/Hamamatsu economy."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [],
+    "application": { "how_to_apply": "Contact via Shizuoka Bank / scc.shizuoka-fg.co.jp", "accepts_cold_inbound": true },
+    "tags": ["shizuoka", "hamamatsu", "bank-affiliated", "tokai"],
+    "summary": {
+      "en": "Shizuoka Bank / Shizuoka Financial Group VC (est. 1984), investing across all stages plus business succession. Runs a ¥2.0B VC fund (Shizuoka Vision Co-creation Fund 1, 2026), a ¥3.0B PE alliance fund and a ¥5.0B SME-support fund.",
+      "local": "静岡銀行（しずおかフィナンシャルグループ）系VC。1984年設立、全成長ステージ＋事業承継に投資。"
+    },
+    "sources": [
+      { "url": "https://scc.shizuoka-fg.co.jp/feature/", "title": "当社の特徴｜静岡キャピタル", "publisher": "Shizuoka Capital", "accessed": "2026-06-03", "supports": "Founded Aug 1984, Shizuoka FG parent, all-stage VC + succession + management support, three current funds with sizes", "quote": "しずおかビジョン共創1号投資事業有限責任組合 ... 20億円 ... 静岡中小企業支援6号投資事業有限責任組合 ... 50億円" },
+      { "url": "https://scc.shizuoka-fg.co.jp/achievement/", "title": "投資実績｜静岡キャピタル", "publisher": "Shizuoka Capital", "accessed": "2026-06-03", "supports": "Investing since 1996 first fund across all stages seed to late", "quote": "1996年の第1号ファンド設立以降、ベンチャー・スタートアップ企業に対し継続して投資" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Company established Aug 1984; first VC fund 1996. 20億円 = ¥2.0B, 30億円 = ¥3.0B, 50億円 = ¥5.0B. Classified as cvc (bank-affiliated); also functions as a generalist VC.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "jp-mtg-ventures",
+    "name": { "en": "MTG Ventures", "local": "株式会社MTG Ventures" },
+    "aka": ["MTGベンチャーズ", "MTG Ventures"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Nagoya",
+    "website": "https://mtgv.vc/",
+    "links": {
+      "other": [
+        "https://www.mtg.gr.jp/news/detail/2018/10/article_1691.html",
+        "https://initial.inc/investors/V11941",
+        "https://startup-db.com/investment-companies/VYa2pRDUjYLJ3R6D"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "VITAL LIFE Investment Fund (initial investment frame)", "vintage_year": 2018, "size": { "raw": "投資枠50億円 (¥5.0B investment frame)", "usd": null, "currency": "JPY" } },
+        { "name": "Central Japan Seed Fund (regional seed fund)", "vintage_year": 2022, "size": { "raw": null, "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Chubu/Tokai", "Japan"],
+      "sector_focus": ["consumer", "healthtech", "agritech"],
+      "thesis": "Nagoya-based CVC of MTG (the SIXPAD/beauty-device maker), investing under a 'VITAL LIFE' vision in Beauty & Wellness, Food and Sports tech, while building a Tokai/Chubu startup ecosystem (incubation facility, accelerator). Co-runs the regional Central Japan Seed Fund (>=30% Chubu startups)."
+    },
+    "track_record": {
+      "portfolio_count": 31,
+      "exits": [],
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Gō Fujita (藤田豪)", "role": "Representative Director" }
+    ],
+    "application": { "how_to_apply": "Contact via mtgv.vc; apply to MTG accelerator", "accepts_cold_inbound": true },
+    "tags": ["nagoya", "tokai", "chubu", "wellness", "cvc"],
+    "summary": {
+      "en": "Nagoya CVC of MTG (SIXPAD) founded Oct 2018 with a ¥5B investment frame, focused on Beauty/Wellness/Food/Sports tech and building the Tokai startup ecosystem. ~31 portfolio companies, 4 IPOs; co-runs the regional Central Japan Seed Fund.",
+      "local": "名古屋のMTG（シックスパッド）系CVC。2018年10月設立、投資枠50億円。BEAUTY&WELLNESS/FOOD/SPORTS-TECHに投資、東海エコシステム構築。"
+    },
+    "sources": [
+      { "url": "https://www.mtg.gr.jp/news/detail/2018/10/article_1691.html", "title": "株式会社MTG Ventures設立のお知らせ", "publisher": "MTG", "accessed": "2026-06-03", "supports": "Founded 2018-10-01, ¥5B investment frame, Beauty/Wellness/Food/Sports tech, rep Gō Fujita", "quote": "2018年10月1日 ... 投資枠は50億円 ... BEAUTY & WELLNESS TECH、FOOD-TECH、SPORTS-TECH" },
+      { "url": "https://mtgv.vc/", "title": "MTG-Ventures", "publisher": "MTG Ventures", "accessed": "2026-06-03", "supports": "Nagoya HQ, 31 invested companies, 4 IPOs as of Sep 2024", "quote": "31 invested companies as of September 2024; 4 IPO exits" },
+      { "url": "https://prtimes.jp/main/html/rd/p/000000003.000104023.html", "title": "中部発、地域課題解決型ファンド「Central Japan Seed Fund」組成のお知らせ", "publisher": "PR TIMES / MTG Ventures", "accessed": "2026-06-03", "supports": "Central Japan Seed Fund targets >=30% Chubu-region seed startups", "quote": "最低30%は中部地域に拠点を置くスタートアップに投資する方針" }
+    ],
+    "confidence": "high",
+    "verification_notes": "¥5.0B is an investment frame, not a single LPS size. Portfolio 31 / 4 IPOs as of Sep 2024.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "jp-hiroshima-venture-capital",
+    "name": { "en": "Hiroshima Venture Capital", "local": "株式会社広島ベンチャーキャピタル" },
+    "aka": ["HVC", "広島VC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 1995,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Hiroshima",
+    "website": "https://www.h-vc.co.jp/",
+    "links": {
+      "other": [
+        "https://www.h-vc.co.jp/company/",
+        "https://initial.inc/investors/V00270",
+        "https://startup-db.com/companies/6553/investments"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "ファンド総額累計383億円 (cumulative funds ¥38.3B)", "usd": null, "currency": "JPY" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Chugoku", "Japan"],
+      "sector_focus": ["generalist", "biotech"],
+      "thesis": "Hiroshima's long-standing independent VC (est. 1995, capital ¥100M), investing in regional companies under a 'growing value' vision with long-term support; venture and private-equity investing across the Chugoku region."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "exits": [
+        { "company": "PhoenixBio (フェニックスバイオ)", "type": "IPO", "year": null, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Capital Asset Planning", "type": "IPO", "year": null, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Data Horizon", "type": "IPO", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ],
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Masaru Nishioka (西岡賢)", "role": "Representative" }
+    ],
+    "application": { "how_to_apply": "Contact via h-vc.co.jp", "accepts_cold_inbound": true },
+    "tags": ["hiroshima", "chugoku", "independent", "ipo-track-record"],
+    "summary": {
+      "en": "One of the Chugoku region's oldest independent VCs (Hiroshima, est. 1995, capital ¥100M). Cumulative funds ¥38.3B and 34 portfolio IPOs (incl. PhoenixBio, Capital Asset Planning, Data Horizon).",
+      "local": "中国地方最古参の独立系VC。広島、1995年設立、資本金1億円。ファンド総額累計383億円、投資先IPO34社。"
+    },
+    "sources": [
+      { "url": "https://www.h-vc.co.jp/company/", "title": "企業情報｜株式会社広島ベンチャーキャピタル", "publisher": "Hiroshima Venture Capital", "accessed": "2026-06-03", "supports": "Founded Aug 1995, capital ¥100M, rep Nishioka, cumulative funds ¥38.3B, 34 IPOs", "quote": "ファンド総額累計 383 億 ... IPO社数 34 社 ... 設立 1995年8月 ... 資本金 1億円" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Official company page states 設立1995年8月 (one secondary source said 1996; primary used). 383億円 = ¥38.3B cumulative across funds, not current single fund.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "jp-hiroggin-capital-partners",
+    "name": { "en": "Hiroggin Capital Partners", "local": "ひろぎんキャピタルパートナーズ株式会社" },
+    "aka": ["HiCAP", "ひろぎんキャピタルパートナーズ", "Hirogin Capital Partners"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Hiroshima",
+    "website": "https://www.hicap.co.jp/",
+    "links": {
+      "other": [
+        "https://www.hicap.co.jp/news/",
+        "https://initial.inc/investors/V14482",
+        "https://www.hirogin.co.jp/corporation/service/management/management/venture/"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "HiCAP1 (事業再生 / Business Revitalization Fund)", "vintage_year": 2020, "size": { "raw": "20億円 (¥2.0B)", "usd": null, "currency": "JPY" } },
+        { "name": "HiCAP2 (事業承継 / Business Succession Fund)", "vintage_year": 2020, "size": { "raw": "20億円 (¥2.0B)", "usd": null, "currency": "JPY" } },
+        { "name": "HiCAP3 (ベンチャー / Venture Fund)", "vintage_year": 2020, "size": { "raw": "10億円 (¥1.0B)", "usd": null, "currency": "JPY" } },
+        { "name": "ひろぎんInnovation投資事業有限責任組合", "vintage_year": 2024, "size": { "raw": "20億円 (¥2.0B)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Chugoku", "Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Wholly-owned investment subsidiary of Hiroshima Bank (Hirogin Holdings), established April 2020. Runs regional-activation, venture, business-succession and revitalization funds, combining equity with hands-on personnel-dispatch management support for the Hiroshima economy."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [],
+    "application": { "how_to_apply": "Contact via hicap.co.jp / Hiroshima Bank", "accepts_cold_inbound": true },
+    "tags": ["hiroshima", "chugoku", "bank-affiliated", "regional-activation"],
+    "summary": {
+      "en": "Hiroshima Bank's investment subsidiary (est. Apr 2020) running the HiCAP fund family — revitalization (¥2.0B), succession (¥2.0B), venture (¥1.0B) and the 2024 Hirogin Innovation venture fund (¥2.0B) — for the Chugoku region.",
+      "local": "広島銀行100%出資の投資子会社（2020年4月設立）。HiCAPファンド群（再生・承継・ベンチャー）とひろぎんInnovationファンドを運営。"
+    },
+    "sources": [
+      { "url": "https://www.hicap.co.jp/", "title": "ひろぎんキャピタルパートナーズ", "publisher": "Hiroggin Capital Partners", "accessed": "2026-06-03", "supports": "Hiroshima Bank subsidiary established April 2020; revitalization/succession/venture funds", "quote": "established in April 2020 as an investment subsidiary of the Hirogin Group" },
+      { "url": "https://www.jpubb.com/press/2437350/", "title": "ひろぎんキャピタルパートナーズが組成するファンドへの出資決定について", "publisher": "Hiroshima Bank / JPubb", "accessed": "2026-06-03", "supports": "HiCAP1 ¥2.0B, HiCAP2 ¥2.0B, HiCAP3 venture ¥1.0B (Jul 2020)", "quote": "HiCAP 1 (Business Revitalization, 2 billion yen), HiCAP 2 (Business Succession, 2 billion yen), and HiCAP 3 (Venture, 1 billion yen), established July 2020" }
+    ],
+    "confidence": "high",
+    "verification_notes": "20億円 = ¥2.0B, 10億円 = ¥1.0B. HiCAP5 succession fund later increased to ¥20B per Nikkei (succession PE, not venture). Distinct from Hiroshima Venture Capital (independent).",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "jp-setouchi-startups",
+    "name": { "en": "Setouchi Startups", "local": "瀬戸内と株式会社 (Setouchi Startups)" },
+    "aka": ["SetouchiStartups", "Setouchi VC", "瀬戸内スタートアップス"],
+    "type": "micro-vc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Okayama",
+    "website": "https://setouchi.vc/",
+    "links": {
+      "other": [
+        "https://setouchi.vc/about",
+        "https://setouchi.vc/member",
+        "https://prtimes.jp/main/html/rd/p/000000027.000091117.html"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "SetouchiStartups1号投資事業有限責任組合 (Setouchi VC Fund 1)", "vintage_year": 2021, "size": { "raw": "1億円 (¥100M)", "usd": null, "currency": "JPY" } },
+        { "name": "SetouchiStartups2号投資事業有限責任組合 (Fund 2)", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "300万〜1000万円 (¥3M–¥10M per company)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Setouchi (Okayama/Chugoku-Shikoku)", "Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "The first independent VC fund dedicated to the Setouchi area (Okayama-centered). Backs pre-seed/seed founders based in or from Setouchi with ¥3-10M checks to seed a regional startup ecosystem; business domain need not be region-specific."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [
+      { "name": "Keiichiro Fujita (藤田圭一郎)", "role": "Co-Representative" },
+      { "name": "Kuniaki Yamada (山田邦明)", "role": "Co-Representative" }
+    ],
+    "application": { "how_to_apply": "Contact via setouchi.vc", "accepts_cold_inbound": true },
+    "tags": ["okayama", "setouchi", "chugoku-shikoku", "micro-vc", "pre-seed"],
+    "summary": {
+      "en": "Okayama-based micro-VC, the first independent fund dedicated to the Setouchi region (Fund 1 ¥100M, est. Nov 2021). Pre-seed/seed checks of ¥3-10M for founders rooted in Setouchi; Fund 2 since launched.",
+      "local": "岡山拠点のマイクロVC。瀬戸内エリア初の独立系ベンチャーファンド（1号1億円、2021年11月）。プレシード・シードに300万〜1000万円。"
+    },
+    "sources": [
+      { "url": "https://setouchi.vc/news/39", "title": "瀬戸内エリア初の独立系ベンチャーファンドを設立", "publisher": "Setouchi Startups", "accessed": "2026-06-03", "supports": "Fund 1 ¥100M, ¥3-10M checks, pre-seed/seed, est Nov 2021, co-reps Fujita & Yamada", "quote": "SetouchiStartups1号投資事業有限責任組合 ... 1億円 ... 300万〜1000万 ... November 2021" },
+      { "url": "https://prtimes.jp/main/html/rd/p/000000027.000091117.html", "title": "「SetouchiStartups2号投資事業有限責任組合」組成のお知らせ", "publisher": "PR TIMES / Setouchi to Co.", "accessed": "2026-06-03", "supports": "Fund 2 organized to continue Setouchi co-creation", "quote": "SetouchiStartups 2nd Investment Partnership (2nd Fund)" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund 1 ¥100M / ¥3-10M checks / Nov 2021 confirmed via official news. Fund 2 size not disclosed.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "jp-tottori-capital",
+    "name": { "en": "Tottori Capital", "local": "とっとりキャピタル株式会社" },
+    "aka": ["Tottori Capital Co.", "とっとりキャピタル"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 1997,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tottori",
+    "website": "https://www.tottoricap.com/",
+    "links": {
+      "other": [
+        "https://initial.inc/investors/V00793",
+        "https://www.tottoribank.co.jp/torigin/info/group/"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "とっとり共創フロンティアファンド投資事業有限責任組合", "vintage_year": 2025, "size": { "raw": "3億円 (¥300M)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Tottori", "Sanin", "Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Tottori-based regional VC (est. June 1997) backed by Tottori Bank, local shinkin/credit unions, JAFCO Group and major insurers. Runs regional-revitalization and co-creation funds for the Sanin/Tottori economy."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [],
+    "application": { "how_to_apply": "Contact via tottoricap.com / Tottori Bank", "accepts_cold_inbound": true },
+    "tags": ["tottori", "sanin", "chugoku", "regional-revitalization"],
+    "summary": {
+      "en": "Tottori-city regional VC founded June 1997, backed by Tottori Bank, local shinkin/credit unions and JAFCO Group. Runs the ¥300M Tottori Co-creation Frontier Fund (2025) for regional revitalization.",
+      "local": "鳥取市拠点の地域VC、1997年6月設立。鳥取銀行・地元信金・ジャフコ等が株主。とっとり共創フロンティアファンド（3億円、2025年）を運営。"
+    },
+    "sources": [
+      { "url": "https://initial.inc/investors/V00793", "title": "とっとりキャピタル株式会社｜INITIAL", "publisher": "INITIAL (Speeda)", "accessed": "2026-06-03", "supports": "Founded June 1997, Tottori City HQ, shareholders incl. Tottori Bank, JAFCO Group", "quote": "とっとりキャピタル株式会社は1997年6月に設立されたベンチャーキャピタルで、鳥取県鳥取市扇町に本社" },
+      { "url": "https://www.tottoribank.co.jp/torigin/news/2025/2025-06-26.pdf", "title": "とっとり共創フロンティアファンドの設立について", "publisher": "Tottori Bank", "accessed": "2026-06-03", "supports": "Tottori Co-creation Frontier Fund established 2025-06-02, ¥300M, GP Tottori Capital", "quote": "設立日は2025年6月2日で、ファンド総額は3億円 ... 無限責任組合員（ファンド運営者）はとっとりキャピタル株式会社" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded June 1997; 3億円 = ¥300M for the 2025 co-creation fund. Classified cvc (bank-led consortium) with vc subtype.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "jp-shikoku-alliance-capital",
+    "name": { "en": "Shikoku Alliance Capital", "local": "四国アライアンスキャピタル株式会社" },
+    "aka": ["SAC", "四国アライアンスキャピタル"],
+    "type": "cvc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Matsuyama",
+    "offices": [{ "country": "Japan", "city": "Takamatsu" }],
+    "website": "https://sacapital.co.jp/",
+    "links": {
+      "other": [
+        "https://sacapital.co.jp/corporate/",
+        "https://sacapital.co.jp/fund/",
+        "https://initial.inc/investors/V10151"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "しこく創生3号ファンド (Shikoku Sosei Fund 3)", "vintage_year": 2025, "size": { "raw": "40億円 (¥4.0B)", "usd": null, "currency": "JPY" } },
+        { "name": "しこく創生ファンド / しこく中小企業支援ファンド", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Shikoku", "Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Joint fund-management company of the four Shikoku regional banks (Awa, Hyakujushi, Iyo, Shikoku), each holding 25%. Provides private-equity investment for socially significant mid-sized/SME companies across Shikoku via business-creation, growth and revitalization funds."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [],
+    "application": { "how_to_apply": "Contact via sacapital.co.jp / four Shikoku banks", "accepts_cold_inbound": true },
+    "tags": ["matsuyama", "takamatsu", "shikoku", "bank-consortium", "private-equity"],
+    "summary": {
+      "en": "Matsuyama-headquartered fund manager jointly established in Jan 2018 by Shikoku's four regional banks (25% each). Runs the Shikoku Sosei growth/succession funds and the ¥4.0B Shikoku Sosei Fund 3 (2025) for regional companies.",
+      "local": "松山本社の四国4地銀（阿波・百十四・伊予・四国）共同設立（2018年1月、各25%出資）のファンド運営会社。しこく創生3号ファンド（40億円、2025年）等を運営。"
+    },
+    "sources": [
+      { "url": "https://initial.inc/investors/V10151", "title": "四国アライアンスキャピタル株式会社｜INITIAL", "publisher": "INITIAL (Speeda)", "accessed": "2026-06-03", "supports": "Founded Jan 2018 by four Shikoku banks at 25% each, Matsuyama HQ + Takamatsu office", "quote": "2018年1月に4行が25％ずつ出資して設立 ... 本社は愛媛県松山市三番町" },
+      { "url": "https://www.awabank.co.jp/about/news/2025/news20250327a/index.html", "title": "しこく創生3号ファンドの組成について", "publisher": "Awa Bank", "accessed": "2026-06-03", "supports": "Shikoku Sosei Fund 3 established Mar 2025, ¥4.0B", "quote": "2025年3月に「しこく創生３号ファンド」（総額40億円）を設立" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Four-bank consortium; PE-leaning (mid-size/SME) though some funds support growth ventures. 40億円 = ¥4.0B.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "jp-tohoku-innovation-capital",
+    "name": { "en": "Tohoku Innovation Capital", "local": "東北イノベーションキャピタル株式会社" },
+    "aka": ["TICC", "東北イノベーションキャピタル", "Tohoku Innovation Capital Corporation"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2003,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Sendai",
+    "website": "https://www.tohoku-innocapital.co.jp/",
+    "links": {
+      "other": ["https://initial.inc/investors/V00148"]
+    },
+    "capital": {
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Tohoku", "Japan"],
+      "sector_focus": ["deeptech", "biotech", "generalist"],
+      "thesis": "Sendai-based independent VC (est. Oct 2003) investing in early-stage Tohoku ventures, with roughly 60% of its portfolio being Tohoku University spin-offs; first fund launched 2004, multiple successor funds since."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [],
+    "application": { "how_to_apply": "Contact via tohoku-innocapital.co.jp", "accepts_cold_inbound": true },
+    "tags": ["sendai", "tohoku", "university-spinout", "deeptech"],
+    "summary": {
+      "en": "Sendai-based independent VC founded Oct 2003 (first fund 2004), backing early-stage Tohoku ventures — about 60% of its portfolio are Tohoku University spin-offs.",
+      "local": "仙台拠点の独立系VC、2003年10月設立（1号ファンド2004年）。投資先の約6割が東北大学発ベンチャー。"
+    },
+    "sources": [
+      { "url": "https://initial.inc/investors/V00148", "title": "東北イノベーションキャピタル株式会社｜INITIAL", "publisher": "INITIAL (Speeda)", "accessed": "2026-06-03", "supports": "Founded Oct 2003 in Sendai, first fund Mar 2004, ~60% Tohoku University spin-offs", "quote": "2003年10月に設立 ... 2004年3月には第1号のファンドを立ち上げ ... 投資先の約6割は東北大学発のベンチャー" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Official site had encoding issues; details (2003 founding, 2004 first fund, ~60% Tohoku University ventures) from INITIAL-sourced summary. Fund sizes not located.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "jp-iwagin-mirai-investment",
+    "name": { "en": "Iwagin Mirai Investment", "local": "いわぎん未来投資株式会社" },
+    "aka": ["Iwagin Mirai Toushi", "いわぎん未来投資"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2023,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Morioka",
+    "website": "https://www.iwatebank.co.jp/company/group/mirai_investment/",
+    "links": {
+      "other": [
+        "https://www.iwatebank.co.jp/assets/pdf/20241031_cvc.pdf",
+        "https://www.nikkei.com/article/DGXZQOCC1374J0T10C23A9000000/"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "いわぎんCVC1号投資事業有限責任組合 (Iwagin CVC Fund 1)", "vintage_year": 2023, "size": { "raw": "30億円 (¥3.0B)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Iwate", "Tohoku", "Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "100%-owned investment subsidiary of Iwate Bank (est. July 2023), operating the first CVC fund by a Tohoku regional bank — the ¥3.0B Iwagin CVC Fund 1 (Oct 2023, 15-year term) targeting partners that expand Iwate Bank group's business domains; part of the bank's 'regional investment bank' ambition."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [],
+    "application": { "how_to_apply": "Contact via Iwate Bank group", "accepts_cold_inbound": null },
+    "tags": ["morioka", "iwate", "tohoku", "cvc", "first-in-tohoku"],
+    "summary": {
+      "en": "Morioka-based 100% subsidiary of Iwate Bank (est. Jul 2023) running the ¥3.0B Iwagin CVC Fund 1 (Oct 2023, 15-yr) — the first CVC fund organized by a Tohoku regional bank.",
+      "local": "盛岡拠点、岩手銀行100%子会社（2023年7月設立）。東北の地銀初のCVCファンド「いわぎんCVC1号」（30億円、2023年10月、15年）を運営。"
+    },
+    "sources": [
+      { "url": "https://www.nikkei.com/article/DGXZQOCC1374J0T10C23A9000000/", "title": "岩手銀行、東北地銀初のCVCファンド組成", "publisher": "Nikkei", "accessed": "2026-06-03", "supports": "First CVC fund by a Tohoku regional bank, ¥3.0B Fund 1", "quote": "岩手銀行、東北地銀初のCVCファンド組成" },
+      { "url": "https://www.iwatebank.co.jp/company/group/mirai_investment/", "title": "いわぎん未来投資", "publisher": "Iwate Bank", "accessed": "2026-06-03", "supports": "Iwagin Mirai Investment est. 2023-07-03, 100% Iwate Bank, ¥3.0B CVC fund operation", "quote": "いわぎん未来投資株式会社は2023年7月3日に設立 ... 30億円規模のCVCファンドの運営" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Distinct from older 'いわぎん事業創造キャピタル' (2015). Iwagin CVC Fund 1: ¥3.0B, established 2023-10-02, 15-yr term.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "jp-ryukyu-capital",
+    "name": { "en": "Ryukyu Capital", "local": "株式会社琉球キャピタル" },
+    "aka": ["Ryukyu Capital Co.", "琉球キャピタル"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Naha",
+    "website": "https://www.ryukyu-c.com/",
+    "links": {
+      "other": [
+        "https://initial.inc/investors/V14809",
+        "https://startup-db.com/investment-companies/O24mpqBUv2bZnx3a",
+        "https://www.ryugin.co.jp/corporate/news/88015/"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "BORベンチャーファンド3号投資事業有限責任組合", "vintage_year": 2025, "size": { "raw": "20億円 (¥2.0B)", "usd": null, "currency": "JPY" } },
+        { "name": "BORベンチャーファンド2号投資事業有限責任組合", "vintage_year": 2023, "size": { "raw": "2億円 (¥200M)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Okinawa", "Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Naha-based fund manager launched in 2020 under the lead of the Bank of the Ryukyus (Ryugin) with local-company capital. As GP of the BOR Venture Funds it backs unlisted Okinawa-area startups with growth potential or regional-revitalization impact; Fund 3 (2025) scaled to ¥2.0B covering all stages."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [],
+    "application": { "how_to_apply": "Contact via ryukyu-c.com / Bank of the Ryukyus", "accepts_cold_inbound": true },
+    "tags": ["okinawa", "naha", "bank-affiliated", "ryugin"],
+    "summary": {
+      "en": "Naha-based fund manager (est. 2020, led by Bank of the Ryukyus) and GP of the BOR Venture Funds for Okinawa startups. Fund 3 (2025) is ¥2.0B and covers all stages — 10x the size of Funds 1-2.",
+      "local": "那覇拠点のファンド運営会社（2020年、琉球銀行主導で設立）。BORベンチャーファンドのGPとして沖縄のスタートアップに投資。3号（2025年）は20億円・全ステージ対象。"
+    },
+    "sources": [
+      { "url": "https://www.okinawatimes.co.jp/articles/-/1651595", "title": "琉球銀行がファンド3号設立 BORベンチャーファンド 総額20億円に規模拡大し全ステージ対象に", "publisher": "Okinawa Times", "accessed": "2026-06-03", "supports": "Fund 3 ¥2.0B, all stages, 10x Funds 1-2, GP Ryukyu Capital; Ryukyu Capital established 2020 led by Ryugin", "quote": "「BORベンチャーファンド3号」 総額20億円 ... 規模は1〜2号ファンドの10倍 ... 琉球キャピタルは2020年に琉球銀行が主導して県内企業の出資で立ち上げ" },
+      { "url": "https://www.ryugin.co.jp/corporate/news/61092/", "title": "「BORベンチャーファンド2号投資事業有限責任組合」の設立について", "publisher": "Bank of the Ryukyus", "accessed": "2026-06-03", "supports": "Fund 2 total ¥200M, Ryukyu Capital as operator", "quote": "2号ファンドのファンド総額は2億円" }
+    ],
+    "confidence": "high",
+    "verification_notes": "20億円 = ¥2.0B (Fund 3, 2025), 2億円 = ¥200M (Fund 2, 2023). Naha HQ. Classified cvc (bank-led) with vc subtype.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "jp-shinyo-fund-fourseeds",
+    "name": { "en": "Shinyo Fund (Fourseeds)", "local": "津梁ファンド / フォーシーズ株式会社" },
+    "aka": ["Shinyo Fund", "津梁1号ファンド", "Fourseeds", "フォーシーズ"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Okinawa City",
+    "website": "https://prtimes.jp/main/html/rd/p/000000016.000098718.html",
+    "links": {
+      "other": [
+        "https://storium.jp/organization/634e59773aa7891c9388910d78203443",
+        "https://www.okinawatimes.co.jp/articles/-/1557801"
+      ]
+    },
+    "capital": {
+      "funds": [
+        { "name": "津梁1号投資事業有限責任組合 (Shinyo Fund 1)", "vintage_year": 2024, "size": { "raw": "10億円規模 (~¥1.0B)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Okinawa", "Kyushu", "Asia (Taiwan)"],
+      "sector_focus": ["consumer", "climate-energy", "healthtech", "mobility"],
+      "thesis": "Okinawa-originated independent VC managed by Fourseeds, aiming to be a 'bridge between Japan/Kyushu-Okinawa and Asia'. The ~¥1.0B Shinyo Fund 1 backs seed/early tech startups in Okinawa's next-gen growth sectors (tourism, transport, energy, circular economy, GX, healthcare) that target larger out-of-prefecture and overseas markets."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "EF Polymer", "sector": "agritech/materials", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Kenichiro Toyozato (豊里健一郎)", "role": "Representative" }
+    ],
+    "application": { "how_to_apply": "Contact via Fourseeds; KOZAROCKS / Koza Startup Shotengai community", "accepts_cold_inbound": true },
+    "tags": ["okinawa", "koza", "asia-bridge", "cross-border", "seed"],
+    "summary": {
+      "en": "Okinawa City independent VC run by Fourseeds (est. 2017), operating the ~¥1.0B Shinyo Fund 1 (2024) to back seed/early tech startups bridging Okinawa-Kyushu and Asia; first deal was EF Polymer. Also runs the Koza Startup Shotengai hub and KOZAROCKS conference.",
+      "local": "沖縄市の独立系VC、フォーシーズ運営（2017年設立）。約10億円の津梁1号ファンド（2024年）で沖縄とアジアを繋ぐシード期テックに投資。1号案件はEF Polymer。"
+    },
+    "sources": [
+      { "url": "https://prtimes.jp/main/html/rd/p/000000016.000098718.html", "title": "アジアと日本の「架け橋」となる沖縄発のベンチャーキャピタル「津梁ファンド」設立およびファーストクローズ", "publisher": "PR TIMES / Fourseeds", "accessed": "2026-06-03", "supports": "Shinyo Fund seed-stage Okinawa startups, Asia bridge thesis, Fourseeds operator", "quote": "シード期のスタートアップを主な投資・支援対象とする新ファンド「津梁ファンド」（津梁1号投資事業有限責任組合）を設立" },
+      { "url": "https://www.okinawatimes.co.jp/articles/-/1557801", "title": "10億円規模の「津梁ファンド」設立 フォーシーズ", "publisher": "Okinawa Times", "accessed": "2026-06-03", "supports": "Shinyo Fund ~¥1.0B scale; Fourseeds est. 2017", "quote": "10億円規模の「津梁ファンド」設立 フォーシーズ" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fourseeds founded 2017 (current entity); Shinyo Fund 1 (~¥1.0B) first close 2024. Representative Toyozato per Ryukyu Shimpo interview. EF Polymer first deal per PR TIMES.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  }
+]

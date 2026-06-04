@@ -1,0 +1,807 @@
+[
+  {
+    "id": "tw-mesh-ventures",
+    "name": { "en": "MESH", "local": "MESH" },
+    "aka": ["MESH Ventures", "MESH NETWORK"],
+    "type": "vc",
+    "subtypes": ["family-office"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" },
+      { "country": "United States", "city": "Portland" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "website": "https://mesh.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/mesh-ventures",
+      "crunchbase": "https://www.cbinsights.com/investor/mesh-ventures",
+      "other": ["https://startup.taiwanarena.tech/investors/mesh_ventures"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "Thematic Funds $500K–$2M per company; Syndicates $10–30M; Partner Pocket Fund $100K–$1M", "usd_min": 100000, "usd_max": 30000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "United States", "Asia", "Global"],
+      "sector_focus": ["hardware-semiconductor", "robotics", "ai-ml", "spacetech", "deeptech"],
+      "thesis": "Electronics-focused venture firm that leverages a proprietary 'MESH NETWORK' connecting Taiwan's entire electronics value chain — foundries, IC design, and ODMs — to cut time-to-market for hardware startups."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Tenstorrent", "sector": "AI chips", "outcome": "active" },
+        { "company": "Navitas Semiconductor", "sector": "GaN power chips", "outcome": "active" },
+        { "company": "Tenstorrent / Quantinuum", "sector": "compute / quantum", "outcome": "active" },
+        { "company": "CesiumAstro", "sector": "satellite comms", "outcome": "acquired" },
+        { "company": "DeepMap", "sector": "autonomous mapping", "outcome": "acquired" },
+        { "company": "Oculii", "sector": "radar sensing", "outcome": "acquired" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Edward Chyau", "role": "Managing Partner (Portland)" },
+      { "name": "Sam Lam", "role": "Managing Partner (Taipei)" },
+      { "name": "Tony Yu", "role": "Partner (Taipei)" },
+      { "name": "Bob Cheng", "role": "Partner (Taipei)" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact form on mesh.vc; team reachable by office location",
+      "accepts_cold_inbound": true,
+      "contact": "https://mesh.vc/"
+    },
+    "tags": ["electronics", "semiconductor", "supply-chain", "family-office", "deep-tech"],
+    "summary": {
+      "en": "Electronics-focused venture firm founded 2015 with a Taipei office, investing across semiconductors, robotics, AI chips, sensing and spacetech, and using its 'MESH NETWORK' ties to Taiwan's foundries and ODMs to support portfolio companies.",
+      "local": "2015年成立、設有台北辦公室的電子產業創投，投資半導體、機器人、AI晶片、感測與太空科技，透過串聯台灣晶圓代工與ODM的『MESH NETWORK』協助新創加速量產。"
+    },
+    "sources": [
+      {
+        "url": "https://mesh.vc/",
+        "title": "MESH Ventures — official site",
+        "publisher": "MESH",
+        "accessed": "2026-06-03",
+        "supports": "Offices (Taipei, Portland, SF), sector focus, check sizes, partners, portfolio",
+        "quote": "MESH Syndicates: $10-30M per company; Thematic Funds: $500k-2M per company; Partner Pocket Fund: $100k-$1M. Edward Chyau - Managing Partner (Portland); Sam Lam - Managing Partner (Taipei)."
+      },
+      {
+        "url": "https://www.prnewswire.com/apac/news-releases/mesh-celebrates-10th-anniversary-as-a-driving-force-behind-investment-in-global-electronics-innovation-302494291.html",
+        "title": "MESH Celebrates 10th Anniversary as a Driving Force Behind Investment in Global Electronics Innovation",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2015 (10th anniversary 2025), annual investment range, MESH NETWORK, portfolio (Tenstorrent, Navitas, CesiumAstro)",
+        "quote": "MESH is a venture capital firm founded in 2015 focused on innovation in the electronics industry, with annual investments ranging from USD 50 million to 100 million."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "HQ ambiguous between Portland and Taipei; firm operates dual managing partners. Listed region=taiwan given strong Taipei office and Taiwan-supply-chain thesis. AUM/fund sizes undisclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "tw-jc-capital-taiwan",
+    "name": { "en": "JC Capital Taiwan", "local": "集誠資本台灣" },
+    "aka": ["JC Capital", "集誠資本", "Wisdom Capital"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.jccapital-taiwan.com/en/home-en/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/jccapitaltaiwan",
+      "other": ["https://www.jccapital-taiwan.com/en/fund-introduction-en/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "Wisdom Capital L.P. (璿明半導體基金)", "vintage_year": 2020, "size": { "raw": null, "usd": null, "currency": null } },
+        { "name": "JC Nexus Fund", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": null } },
+        { "name": "JC Venture II", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": null } },
+        { "name": "JC Venture III", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": null } },
+        { "name": "JC Venture V", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "United States", "Japan", "Asia-Pacific"],
+      "sector_focus": ["hardware-semiconductor", "ai-ml", "climate-energy", "healthtech", "mobility"],
+      "thesis": "Backs forefront and essential technologies in semiconductor, AI, healthcare, clean tech and renewable energy, connecting startups to Taiwan's world-class semiconductor and EMS ecosystems with corporate LPs across the US, Japan, Taiwan and the Indo-Pacific."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": ["Taiwan Cooperative Venture Capital", "Nichia", "Pentamaster"]
+    },
+    "people": [],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via jccapital-taiwan.com",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.jccapital-taiwan.com/en/home-en/"
+    },
+    "tags": ["semiconductor", "supply-chain", "fund-of-funds-LP", "cross-border", "ndf-backed"],
+    "summary": {
+      "en": "Semiconductor-focused VC that, with Taiwan Cooperative Venture Capital, manages Wisdom Capital L.P. — the first Ministry of Finance-backed semiconductor fund (2020) — investing in materials, chemicals, equipment, fabless IC, compound semiconductors, EV/AIoT and green tech.",
+      "local": "聚焦半導體的創投，與合庫創投共同管理由財政部於2020年支持的首檔半導體基金『璿明半導體有限合夥』，投資材料、化學品、設備、IC設計、化合物半導體、電動車/AIoT與綠能。"
+    },
+    "sources": [
+      {
+        "url": "https://www.jccapital-taiwan.com/en/fund-introduction-en/",
+        "title": "Funds — JC Capital Taiwan",
+        "publisher": "JC Capital Taiwan",
+        "accessed": "2026-06-03",
+        "supports": "Fund list (Wisdom Capital, JC Nexus, JC Venture II/III/V), sector focus, corporate LPs",
+        "quote": "Wisdom Capital L.P.; JC Nexus Fund; JC Venture II; JC Venture III; JC Venture V ... corporate LPs across countries from US, Japan, Taiwan and Indo-pacific region."
+      },
+      {
+        "url": "https://www.ctee.com.tw/news/20200803700115-430301",
+        "title": "合庫率公股 集資百億半導體基金",
+        "publisher": "工商時報 (CTEE)",
+        "accessed": "2026-06-03",
+        "supports": "Wisdom Capital is the first MOF-backed semiconductor fund (2020); semiconductor supply-chain focus; strategic investors",
+        "quote": "Wisdom Capital Limited Partnership is the first semiconductor-focused fund supported by the Ministry of Finance in 2020, investing in the semiconductor supply chain, such as materials, chemicals, equipment, IC fabless, III-V compound semiconductors, SaaS, AIoT, electric vehicles, and clean technologies."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year and fund sizes not disclosed on official site; the '百億' (NT$10bn) headline target reported by CTEE was a fundraising goal, not confirmed close — left null. Relationship between JC Capital (GP) and Taiwan Cooperative Venture Capital confirmed across two sources.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "tw-avitic",
+    "name": { "en": "AVITIC Innovation Fund", "local": "AVITIC 創新基金" },
+    "aka": ["AVITIC", "Applied Ventures + ITIC"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Hsinchu",
+    "website": "https://www.av-itic.com/",
+    "links": {
+      "other": ["https://www.eetasia.com/applied-ventures-and-itic-taiwan-joins-series-b-funding-for-wise-integrations-disruptive-technology/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Taiwan", "Global"],
+      "sector_focus": ["hardware-semiconductor", "robotics", "deeptech", "climate-energy", "biotech", "ai-ml"],
+      "thesis": "Joint deep-tech fund of Applied Ventures (the corporate VC of Applied Materials) and ITIC-Taiwan (the VC arm of ITRI), funding hardware/'deep tech with radical innovation' across advanced manufacturing, semiconductors, sustainability, life sciences, AI/big-data and 'More than Moore' photonics/sensors/power electronics, leveraging Taiwan's semiconductor manufacturing leadership."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Wise-integration", "sector": "GaN power IC", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": ["Applied Ventures", "ITIC Taiwan"]
+    },
+    "people": [],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via av-itic.com",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.av-itic.com/"
+    },
+    "tags": ["corporate-vc", "applied-materials", "itri", "deep-tech", "more-than-moore"],
+    "summary": {
+      "en": "Deep-tech joint fund created in 2019 by Applied Ventures (Applied Materials' CVC) and ITIC-Taiwan (ITRI's VC arm) to support hardware innovation across semiconductors, advanced manufacturing, photonics, sensors and power electronics, leveraging Taiwan's manufacturing base.",
+      "local": "由應材創投（Applied Ventures，應用材料企業創投）與工研院創投ITIC於2019年共同成立的深科技基金，投資半導體、先進製造、光電、感測與功率電子等硬體創新，善用台灣製造優勢。"
+    },
+    "sources": [
+      {
+        "url": "https://www.av-itic.com/",
+        "title": "AVITIC — official site",
+        "publisher": "AVITIC",
+        "accessed": "2026-06-03",
+        "supports": "Six sector focus areas (advanced manufacturing, semiconductors, sustainability, life sciences, AI/big data, More than Moore); deep-tech thesis",
+        "quote": "Advanced Manufacturing (robotics, automation, 3D printing, industry 4.0); Semiconductors (advanced memory, logic, packaging, equipment); ... More than Moore (photonics, sensors, power electronics) ... deep tech with radical innovation."
+      },
+      {
+        "url": "https://www.eetasia.com/applied-ventures-and-itic-taiwan-joins-series-b-funding-for-wise-integrations-disruptive-technology/",
+        "title": "Applied Ventures and ITIC Taiwan Joins Series B Funding for Wise-integration's Disruptive Technology",
+        "publisher": "EE Times Asia",
+        "accessed": "2026-06-03",
+        "supports": "AVITIC is joint venture of Applied Ventures and ITIC-Taiwan; established 2019; Wise-integration (GaN) Series B participation",
+        "quote": "AVITIC is a joint venture fund of Applied Ventures LLC (the corporate venture arm of Applied Materials Inc) and ITIC-Taiwan ... In 2019, the firm partnered with the Industrial Technology Investment Corporation (ITIC) to establish the AVITIC Innovation Fund."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size and check sizes undisclosed. HQ city inferred as Hsinchu via ITIC/ITRI affiliation; not explicitly stated on AVITIC site.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "tw-itic",
+    "name": { "en": "Industrial Technology Investment Corporation", "local": "創新工業技術移轉股份有限公司" },
+    "aka": ["ITIC", "ITIC-Taiwan", "ITRI Ventures"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 1979,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Hsinchu",
+    "website": "https://itic.com.tw/?lang=zh-hant",
+    "links": {
+      "other": ["https://itic.com.tw/about/?lang=zh-hant", "https://www.facebook.com/IndustrialTechnologyInvestmentCorporation/"]
+    },
+    "capital": {
+      "aum": { "raw": "over NT$12 billion invested cumulatively", "usd": null, "currency": "TWD" },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "Taiwan-Japan Fund", "vintage_year": 2011, "size": { "raw": null, "usd": null, "currency": null } },
+        { "name": "Digital Economy Fund", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": null } },
+        { "name": "ITRI Alumni Fund", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "Japan", "Global"],
+      "sector_focus": ["hardware-semiconductor", "deeptech", "biotech", "ai-ml", "climate-energy"],
+      "thesis": "Taiwan's first venture capital company and the VC arm of ITRI, bringing ITRI's 6,000+ technical experts and 25,000+ patents to back hardware, advanced materials, semiconductor, biotech and digital-tech startups across all stages."
+    },
+    "track_record": {
+      "portfolio_count": "over 120 startups and enterprises worldwide",
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": ["MediaTek", "AU Optronics", "UMC", "Mitsubishi UFJ Financial Group"]
+    },
+    "people": [],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via itic.com.tw",
+      "accepts_cold_inbound": null,
+      "contact": "https://itic.com.tw/?lang=zh-hant"
+    },
+    "tags": ["itri", "oldest-vc-taiwan", "deep-tech", "advanced-materials", "semiconductor"],
+    "summary": {
+      "en": "Founded in 1979 as Taiwan's first VC and the venture arm of ITRI, ITIC has invested over NT$12 billion in 120+ startups, channeling ITRI's deep R&D (6,000+ experts, 25,000+ patents) into hardware, semiconductor, advanced-materials and biotech ventures; it co-founded the AVITIC deep-tech fund with Applied Ventures.",
+      "local": "1979年成立，是台灣第一家創投、工研院旗下創投。ITIC累計投資逾新台幣120億元、120多家新創，將工研院龐大研發能量（6,000多位專家、25,000多項專利）導入硬體、半導體、先進材料與生技；並與應材創投共同成立AVITIC深科技基金。"
+    },
+    "sources": [
+      {
+        "url": "https://itic.com.tw/about/?lang=zh-hant",
+        "title": "關於 ITIC — official site",
+        "publisher": "ITIC",
+        "accessed": "2026-06-03",
+        "supports": "Founded 1979; ITRI VC arm; over NT$12bn invested; 120+ portfolio; ITRI 6,000 experts / 25,000 patents; Taiwan-Japan Fund 2011",
+        "quote": "Total invested: over 12 billion Taiwan dollars in startups globally; Portfolio: Over 120 startups and enterprises worldwide; ITRI employs over 6000 technical experts and maintains 25000 patents; Founded: 1979."
+      },
+      {
+        "url": "https://www.eetasia.com/applied-ventures-and-itic-taiwan-joins-series-b-funding-for-wise-integrations-disruptive-technology/",
+        "title": "Applied Ventures and ITIC Taiwan Joins Series B Funding ...",
+        "publisher": "EE Times Asia",
+        "accessed": "2026-06-03",
+        "supports": "ITIC-Taiwan is the VC arm of ITRI; co-founder of AVITIC",
+        "quote": "ITIC-Taiwan (Industrial Technology Investment Corp, the venture capital arm of Taiwan's R&D consortium Industrial Technology Research Institute)."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Conflicting cumulative figures across sources (official site: NT$12bn / 120+ startups; an English secondary cited US$400M / 500+ over 44 years) — used the official ITIC figures and noted the discrepancy. Check sizes undisclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "tw-ipic",
+    "name": { "en": "Intellectual Property Innovation Corporation", "local": "創智智權管理顧問股份有限公司" },
+    "aka": ["IPIC", "創智"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Hsinchu",
+    "website": "https://www.ipic.tw/",
+    "links": {
+      "other": ["https://www.ipic.tw/about"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "Global"],
+      "sector_focus": ["hardware-semiconductor", "deeptech", "ai-ml"],
+      "thesis": "Diversified IP-value-creation investment vehicle jointly held by ITRI, MediaTek and Winbond, operating an IP Bank of 2,000+ patents in globally in-demand technologies to back semiconductor and hardware ventures via patent licensing and equity."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": ["ITRI", "MediaTek", "Winbond"]
+    },
+    "people": [
+      { "name": "Wang Peng-yu (王鵬瑜)", "role": "Chairman (post-2021 restructuring)" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via ipic.tw",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.ipic.tw/"
+    },
+    "tags": ["ip-bank", "semiconductor", "mediatek", "winbond", "itri", "patent-licensing"],
+    "summary": {
+      "en": "Hsinchu-based IP-and-venture firm established December 2011 and restructured December 2021 to be jointly held by ITRI, MediaTek and Winbond; runs an IP Bank of 2,000+ patents and invests in semiconductor/hardware startups blending patent licensing with equity.",
+      "local": "位於新竹的智財暨創投公司，2011年12月成立、2021年12月改組由工研院、聯發科與華邦共同持股；經營逾2,000件專利的IP Bank，以智財授權結合股權投資半導體與硬體新創。"
+    },
+    "sources": [
+      {
+        "url": "https://www.ipic.tw/about",
+        "title": "關於 IPIC (創智)",
+        "publisher": "IPIC",
+        "accessed": "2026-06-03",
+        "supports": "Founded Dec 2011; Hsinchu (竹東鎮); jointly held by ITRI, MediaTek, Winbond; IP Bank 2,000+ patents; chairman Wang Peng-yu",
+        "quote": "由工研院、聯發科及華邦共同持股 ... 超過 2,000 件全球熱門技術之優質專利 ... 民國100年12月 ... 王鵬瑜 (Wang Peng-yu)."
+      },
+      {
+        "url": "https://itic.com.tw/about/?lang=zh-hant",
+        "title": "關於 ITIC",
+        "publisher": "ITIC",
+        "accessed": "2026-06-03",
+        "supports": "IPIC originally a subsidiary of ITIC, reorganized Dec 2021 with ITRI/MediaTek/Winbond joint holding",
+        "quote": "IPIC (Intellectual Property Innovation Corporation) was originally a wholly-owned subsidiary of ITIC, established in December 2011, and was reorganized in December 2021 with joint holdings by ITRI, MediaTek, and Winbond."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Portfolio companies and fund sizes not disclosed. English/Chinese legal name varies (Intellectual Property Innovation Corporation / 創智); stages inferred from IP-licensing+early-equity model.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "tw-taiwania-buffalo-iot-fund",
+    "name": { "en": "Taiwania Capital Buffalo Funds", "local": "台杉水牛科技創投基金" },
+    "aka": ["Buffalo No.1 Tech Fund", "Taiwania IoT Fund", "台杉水牛五號"],
+    "type": "vc",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "website": "https://www.taiwaniacapital.com/tw/funds",
+    "links": {
+      "other": [
+        "https://www.taiwaniacapital.com/tw/portfolios/category",
+        "https://www.angelinvestment.org.tw/investor/view/6",
+        "https://www.startupterrace.com/post/taiwania-capital-raise-a-us-50-million-iot-fund-target-taiwanese-startups-and-help-them-go-global"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "NT$1.5 billion (Buffalo V, 2021)", "usd": null, "currency": "TWD" },
+      "funds": [
+        { "name": "Buffalo No.1 Tech (IoT) Fund", "vintage_year": 2017, "size": { "raw": "NT$4.65 billion", "usd": null, "currency": "TWD" } },
+        { "name": "Buffalo V Tech Fund", "vintage_year": 2021, "size": { "raw": "NT$1.5 billion (~US$50M)", "usd": 50000000, "currency": "TWD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "United States"],
+      "sector_focus": ["hardware-semiconductor", "robotics", "ai-ml", "saas-enterprise", "healthtech", "cybersecurity", "mobility"],
+      "thesis": "Government-anchored 'Buffalo' technology funds making Pre-A and seed bets bridging Taiwan and the US, targeting IoT, next-generation semiconductor, sensors, smart manufacturing, robots/drones, autonomous vehicles and AI — helping Taiwanese hardware startups go global."
+    },
+    "track_record": {
+      "portfolio_count": "22 companies (IoT Fund, as of Dec 2022)",
+      "notable_investments": [
+        { "company": "Ambiq Micro", "sector": "low-power SoC", "outcome": "active" },
+        { "company": "DSP Concepts", "sector": "audio processing", "outcome": "active" },
+        { "company": "Kneron (耐能)", "sector": "edge AI chips", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "David Weng", "role": "CEO, Taiwania Capital" },
+      { "name": "Cheng Wu", "role": "General Partner" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via taiwaniacapital.com",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.taiwaniacapital.com/tw/"
+    },
+    "tags": ["ndf-backed", "iot", "semiconductor", "buffalo-fund", "cross-border-us"],
+    "summary": {
+      "en": "The hardware-focused 'Buffalo' technology funds of Taiwania Capital (national-level VC founded 2017 with NDC, ITRI's ITIC and Bank of Taiwan). The first IoT fund raised NT$4.65bn (2017) and Buffalo V raised NT$1.5bn (~US$50M, 2021), investing in IoT, next-gen semiconductor, sensors, robots/drones and AI across Taiwan and the US.",
+      "local": "台杉投資（2017年由國發會、工研院ITIC與台灣銀行共同成立的國家級創投）旗下聚焦硬體的『水牛』科技基金。首檔IoT基金2017年募得新台幣46.5億元，水牛五號2021年募得15億元（約5,000萬美元），投資物聯網、次世代半導體、感測器、機器人/無人機與AI，橫跨台灣與美國。"
+    },
+    "sources": [
+      {
+        "url": "https://www.startupterrace.com/post/taiwania-capital-raise-a-us-50-million-iot-fund-target-taiwanese-startups-and-help-them-go-global",
+        "title": "Taiwania Capital raise a US$50 million IoT fund",
+        "publisher": "Startup Terrace",
+        "accessed": "2026-06-03",
+        "supports": "Buffalo V NT$1.5bn (~US$50M); first IoT fund NT$4.65bn (2017); Taiwania founded 2017; co-founders NDC/ITIC/Bank of Taiwan; CEO David Weng, GP Cheng Wu; portfolio Ambiq, DSP Concepts",
+        "quote": "Buffalo V fund: 1.5 billion NTD ... Original IoT fund (first fund): 4.65 billion NTD, raised in 2017 ... Taiwania Capital founded: 2017 ... Co-founders: National Development Council, ITRI Innovative Industrial Technology Transfer Company, Bank of Taiwan ... David Weng (CEO); Cheng Wu (General Partner)."
+      },
+      {
+        "url": "https://www.angelinvestment.org.tw/investor/view/6",
+        "title": "台杉水牛五號科技創投有限合夥 — 天使投資機構",
+        "publisher": "國發基金創業天使投資方案",
+        "accessed": "2026-06-03",
+        "supports": "Buffalo V registered as an NDF angel-program investor (government-backed status)",
+        "quote": "台杉水牛五號科技創投有限合夥 — 天使投資機構 — 行政院國家發展基金創業天使投資方案."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Entity captures the Buffalo/IoT/tech sub-funds of Taiwania Capital specifically (the hardware/semiconductor line), distinct from Taiwania's biotech and digital-medicine funds. USD conversion of Buffalo V taken from source article title; per-deal check sizes undisclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "tw-starfab-accelerator",
+    "name": { "en": "StarFab Accelerator", "local": "StarFab 加速器" },
+    "aka": ["StarFab", "安創 StarFab"],
+    "type": "accelerator",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taipei",
+    "offices": [
+      { "country": "Taiwan", "city": "Taipei" },
+      { "country": "Taiwan", "city": "Hsinchu (Zhubei)" },
+      { "country": "Taiwan", "city": "Tainan" }
+    ],
+    "website": "https://zh.starfabx.com/",
+    "links": {
+      "other": ["https://zh.starfabx.com/about-us/", "https://zh.starfabx.com/the-advantech-starfab-wise-paas-program/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "TAI1 AI Accelerator: NT$3M investment per team", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan"],
+      "sector_focus": ["hardware-semiconductor", "robotics", "ai-ml", "cybersecurity", "healthtech", "mobility"],
+      "thesis": "Taiwan's largest industry accelerator running themed corporate programs (Advantech WISE-PaaS IoT, Hotai/Toyota MaaS, Hsinchu AIoT, TAI1 AI) that connect AIoT, smart-manufacturing and hardware startups with mature enterprises, government and supply-chain resources."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": null,
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": "TAI1 AI Accelerator: NT$3,000,000", "usd": null, "currency": "TWD" },
+      "format": "hybrid",
+      "location": "Taipei / Hsinchu / Tainan",
+      "demo_day": true,
+      "perks": ["Corporate mentor matching", "NVIDIA technical support (TAI1)", "Supply-chain & enterprise connections", "Government resource linkage"],
+      "application_url": "https://zh.starfabx.com/",
+      "application_cycles": ["rolling / per-program"],
+      "acceptance_rate": null,
+      "eligibility": "Hardware/AIoT/smart-manufacturing startups with product or prototype"
+    },
+    "track_record": {
+      "portfolio_count": "over 800 startups mentored",
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": ["Advantech (研華)", "Hotai Motor (和泰/Toyota)", "Hsinchu County Government", "NVIDIA"]
+    },
+    "people": [],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Apply per-program at starfabx.com",
+      "accepts_cold_inbound": true,
+      "contact": "apply@starfabx.com"
+    },
+    "tags": ["aiot", "smart-manufacturing", "corporate-accelerator", "itri-spinoff", "hardware"],
+    "summary": {
+      "en": "Founded 2016 (spun out of ITRI), StarFab is Taiwan's largest industry accelerator, having mentored 800+ startups and facilitated NT$5.4bn in funding at an 88% survival rate, running themed corporate programs (Advantech IoT, Hotai MaaS, Hsinchu AIoT, TAI1 AI with NT$3M checks) focused on AIoT, smart manufacturing and hardware.",
+      "local": "2016年自工研院獨立的StarFab是全台最大產業加速器，已輔導800多家新創、促成逾新台幣54億元募資、存活率達88%，營運多檔主題式企業加速器（研華IoT、和泰MaaS、新竹AIoT、提供300萬投資的TAI1 AI），聚焦AIoT、智慧製造與硬體。"
+    },
+    "sources": [
+      {
+        "url": "https://zh.starfabx.com/",
+        "title": "StarFab Accelerator — 全台最大產業加速器",
+        "publisher": "StarFab",
+        "accessed": "2026-06-03",
+        "supports": "800+ startups, NT$5.4bn funding, 88% survival; sector focus AIoT/5G/XR/cyber; TAI1 NT$3M; offices Taipei/Hsinchu/Tainan; apply@starfabx.com",
+        "quote": "超過800家新創 ... 超過新台幣54億元的資金 ... 存活率高達88% ... TAI1 AI Accelerator ... 台幣300萬投資資金."
+      },
+      {
+        "url": "https://zh.starfabx.com/about-us/",
+        "title": "About — StarFab Accelerator",
+        "publisher": "StarFab (via web search summary)",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2016, spun out of ITRI, six themed verticals",
+        "quote": "StarFab Accelerator 成立於 2016 年 ... 從工研院獨立營運的創新加速器 ... 六大主題領域."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Program-level length/cohort/equity vary by partner program and are not centrally disclosed; only TAI1's NT$3M investment was sourced. Founding year (2016) and ITRI-spinout from secondary search summary of the About page.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "tw-plug-and-play-taiwan",
+    "name": { "en": "Plug and Play Taiwan", "local": "Plug and Play 台灣" },
+    "aka": ["PNP Taiwan", "Plug and Play Tech Center Taiwan"],
+    "type": "accelerator",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "taiwan",
+    "country": "Taiwan",
+    "hq_city": "Taoyuan",
+    "website": "https://www.plugandplaytechcenter.com/",
+    "links": {
+      "other": [
+        "https://www.inside.com.tw/article/37861-plug-and-play-taoyuan",
+        "https://www.cna.com.tw/news/ait/202503240261.aspx",
+        "https://www.digitimes.com/news/a20260505VL213/taiwan-silicon-valley-startup-software-venture-capital.html"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Taiwan", "United States", "Asia"],
+      "sector_focus": ["hardware-semiconductor", "robotics", "ai-ml", "spacetech", "biotech", "deeptech"],
+      "thesis": "Taiwan arm of the Silicon Valley accelerator, focused on deep-tech verticals — smart manufacturing and software-hardware integration, advanced semiconductor and thermal materials, aerospace/defense and frontier biotech — bridging Taiwanese deep-tech startups to Silicon Valley capital."
+    },
+    "program": {
+      "length_weeks": null,
+      "cohort_size": "10–15 startups per cohort",
+      "batches_per_year": 2,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Tiger Head Mountain Innovation Park, Taoyuan",
+      "demo_day": true,
+      "perks": ["Silicon Valley corporate & investor network", "Global enterprise matching", "Asia ecosystem access"],
+      "application_url": "https://www.plugandplaytechcenter.com/",
+      "application_cycles": ["per-batch"],
+      "acceptance_rate": null,
+      "eligibility": "Early and growth-stage deep-tech / advanced-manufacturing / AIoT startups"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "MetAI", "sector": "AI 3D digital twin / virtual factory", "outcome": "active" },
+        { "company": "Moldintel", "sector": "AI mold-manufacturing optimization", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": ["Taoyuan City Government"]
+    },
+    "people": [],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Apply per batch at plugandplaytechcenter.com",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.plugandplaytechcenter.com/"
+    },
+    "tags": ["deep-tech", "advanced-manufacturing", "semiconductor", "silicon-valley-bridge", "taoyuan"],
+    "summary": {
+      "en": "Plug and Play opened its first Taiwan office in Taoyuan in February 2025, running two cohorts/year of 10–15 deep-tech startups focused on smart manufacturing, software-hardware integration, advanced semiconductor and thermal materials, aerospace/defense and biotech — bridging them to Silicon Valley capital.",
+      "local": "Plug and Play於2025年2月在桃園設立首座台灣辦公室，每年兩梯次、每梯10–15家深科技新創，聚焦智慧製造、軟硬整合、先進半導體與散熱材料、航太國防與生技，並串接矽谷資金。"
+    },
+    "sources": [
+      {
+        "url": "https://www.cna.com.tw/news/ait/202503240261.aspx",
+        "title": "創投加速器Plug and Play落腳桃園助企業接軌國際",
+        "publisher": "中央社 CNA",
+        "accessed": "2026-06-03",
+        "supports": "Taoyuan office, deep-tech / advanced manufacturing / IoT focus, Silicon Valley bridge",
+        "quote": "Plug and Play has officially opened its first office in Taoyuan City ... focuses on artificial intelligence, advanced manufacturing, IoT, and deep tech startups."
+      },
+      {
+        "url": "https://www.digitimes.com/news/a20260505VL213/taiwan-silicon-valley-startup-software-venture-capital.html",
+        "title": "How Plug and Play is bridging Taiwan's deep tech startups with Silicon Valley capital",
+        "publisher": "DIGITIMES",
+        "accessed": "2026-06-03",
+        "supports": "Established Taoyuan office Feb 2025; deep-tech verticals (smart manufacturing, software-hardware integration, advanced semiconductor & thermal materials, aerospace/defense, biotech); two cohorts of 10-15/year",
+        "quote": "Plug and Play ... officially established its Taiwan office in Taoyuan in February 2025 ... focuses on deep tech verticals including smart manufacturing and software-hardware integration, advanced semiconductor and thermal materials, aerospace and defense technology, and frontier biotech ... two cohorts per year, with 10-15 new startup teams per cohort."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Global Plug and Play (HQ Sunnyvale, US) — this entity is the Taiwan office (region=taiwan, country=Taiwan). Program length and investment/equity terms not disclosed; cohort size and 2 batches/year sourced.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "tw-tesoro-vc",
+    "name": { "en": "Tesoro VC", "local": "Tesoro 創投" },
+    "aka": ["Tesoro Venture Capital", "Global AI + Semiconductor Startup Hub"],
+    "type": "accelerator",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "taiwan",
+    "country": "United States",
+    "hq_city": "Phoenix",
+    "offices": [
+      { "country": "United States", "city": "Phoenix" }
+    ],
+    "website": "https://tesoro.vc/",
+    "links": {
+      "other": [
+        "https://tesoro.vc/f/tesoro-vc-launches-global-ai-and-semiconductor-accelerator",
+        "https://www.gpec.org/news/press-releases/tesoro-vc-startup-island-taiwan-sign-mou/",
+        "https://meet-global.bnext.com.tw/articles/view/48381"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States", "Taiwan"],
+      "sector_focus": ["hardware-semiconductor", "ai-ml", "deeptech"],
+      "thesis": "Arizona-based AI + semiconductor fund and accelerator building a two-way Arizona–Taiwan bridge; its Global AI + Semiconductor Startup Hub is a purpose-built accelerator designed to launch and scale 40–60 deep-tech startups annually with TSMC, Cadence and Amkor as partners."
+    },
+    "program": {
+      "length_weeks": 12,
+      "cohort_size": "40–60 startups annually",
+      "batches_per_year": null,
+      "equity_taken_pct": null,
+      "investment": { "raw": null, "usd": null, "currency": null },
+      "format": "hybrid",
+      "location": "Phoenix, Arizona (with Taiwan bridge)",
+      "demo_day": null,
+      "perks": ["Access to TSMC, Cadence, Amkor", "EDA tools & prototyping", "US + Taiwan market entry"],
+      "application_url": "https://tesoro.vc/",
+      "application_cycles": ["First cohort began February 2026"],
+      "acceptance_rate": null,
+      "eligibility": "Early-stage AI and semiconductor deep-tech startups"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": ["TSMC", "Cadence", "Amkor", "City of Phoenix"]
+    },
+    "people": [],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Apply at tesoro.vc",
+      "accepts_cold_inbound": true,
+      "contact": "https://tesoro.vc/"
+    },
+    "tags": ["ai-semiconductor", "accelerator", "arizona-taiwan", "startup-island-taiwan", "tsmc-partner"],
+    "summary": {
+      "en": "Arizona (Phoenix)-based AI + semiconductor venture fund and accelerator that signed an MOU with Startup Island Taiwan (NDC) to build a two-way US–Taiwan bridge; its 12-week hybrid accelerator, partnered with TSMC, Cadence and Amkor, is designed to launch 40–60 deep-tech startups a year, first cohort February 2026.",
+      "local": "位於亞利桑那州鳳凰城的AI與半導體創投暨加速器，與創業之島台灣（國發會）簽署MOU打造美台雙向橋樑；其12週混合式加速器與台積電、Cadence、Amkor合作，目標每年培育40–60家深科技新創，首梯次於2026年2月開始。"
+    },
+    "sources": [
+      {
+        "url": "https://tesoro.vc/f/tesoro-vc-launches-global-ai-and-semiconductor-accelerator",
+        "title": "Tesoro VC launches global AI and semiconductor accelerator",
+        "publisher": "Tesoro VC",
+        "accessed": "2026-06-03",
+        "supports": "Phoenix HQ; 12-week hybrid program; partners TSMC, Cadence, Amkor, City of Phoenix; Taiwan bridge",
+        "quote": "12-week hybrid launchpad for AI startups and semiconductor technology innovation ... TSMC, Cadence, Amkor, and the City of Phoenix ... bridging to Taiwan ecosystems."
+      },
+      {
+        "url": "https://www.gpec.org/news/press-releases/tesoro-vc-startup-island-taiwan-sign-mou/",
+        "title": "Tesoro VC, Startup Island Taiwan sign MOU for startup growth",
+        "publisher": "GPEC",
+        "accessed": "2026-06-03",
+        "supports": "MOU with Startup Island Taiwan (NDC); 40-60 startups/year; first cohort Feb 2026",
+        "quote": "Tesoro Venture Capital and Startup Island TAIWAN (SIT), the national startup brand powered by Taiwan's National Development Council, signed a Memorandum of Understanding ... 40–60 deep-tech startups annually ... first cohort of startups, set to begin in February 2026."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "HQ is Phoenix, Arizona (country=United States), included under region=taiwan because of its formal Startup Island Taiwan / NDC MOU and explicit Taiwan-bridge accelerator mandate. Founding year, fund size and per-startup investment/equity not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  },
+  {
+    "id": "tw-two-small-fish-ventures",
+    "name": { "en": "Two Small Fish Ventures", "local": "Two Small Fish Ventures" },
+    "aka": ["TSF"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "taiwan",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "offices": [
+      { "country": "Canada", "city": "Toronto" }
+    ],
+    "website": "https://twosmallfish.com/",
+    "links": {
+      "other": ["https://techsoda.substack.com/p/canadian-early-stage-venture-tsf"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "Fund III: US$30 million", "usd": 30000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund III", "vintage_year": null, "size": { "raw": "US$30 million", "usd": 30000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Taiwan", "North America", "Global"],
+      "sector_focus": ["hardware-semiconductor", "robotics", "deeptech", "ai-ml"],
+      "thesis": "Early-stage deep-tech firm prioritizing defensible hardware-plus-software technologies (semiconductors, neuromorphic systems, AI chips, robotics, quantum) over hype-driven AI, explicitly leveraging Taiwan's supply chain and seeking to channel Taiwanese capital into its portfolio."
+    },
+    "track_record": {
+      "portfolio_count": "59 companies",
+      "notable_investments": [
+        { "company": "Blumind", "sector": "analog AI chips", "outcome": "active" },
+        { "company": "Applied Brain Research (ABR)", "sector": "neuromorphic / edge AI", "outcome": "active" },
+        { "company": "Zinite", "sector": "deep tech", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Eva Lau", "role": "Co-founder & Managing Partner" },
+      { "name": "Allen Lau", "role": "Co-founder (former Wattpad co-founder)" },
+      { "name": "Albert Chen", "role": "Venture Partner (robotics/semiconductor)" },
+      { "name": "Brandon Zhao", "role": "Partner" }
+    ],
+    "team_size": null,
+    "application": {
+      "how_to_apply": "Contact via twosmallfish.com",
+      "accepts_cold_inbound": null,
+      "contact": "https://twosmallfish.com/"
+    },
+    "tags": ["deep-tech", "semiconductor", "neuromorphic", "taiwan-supply-chain", "cross-border-canada"],
+    "summary": {
+      "en": "Toronto-based early-stage deep-tech VC (Fund III: US$30M, 59-company portfolio) founded by ex-Wattpad's Eva and Allen Lau, betting on hardware-software deep tech — semiconductors, neuromorphic systems, AI chips and robotics — and explicitly leveraging Taiwan's supply chain and capital for its portfolio.",
+      "local": "位於多倫多的早期深科技創投（第三期基金3,000萬美元、59家投資組合），由Wattpad共同創辦人劉欣（Eva Lau）與劉允（Allen Lau）創立，專注軟硬整合深科技——半導體、神經型態系統、AI晶片與機器人，並明確善用台灣供應鏈與資金支持其投資組合。"
+    },
+    "sources": [
+      {
+        "url": "https://techsoda.substack.com/p/canadian-early-stage-venture-tsf",
+        "title": "Canadian Early-Stage Venture TSF Leverages Taiwan to Make Big Splash in Deep Tech Investments",
+        "publisher": "TechSoda",
+        "accessed": "2026-06-03",
+        "supports": "Toronto HQ; Fund III US$30M; 59-company portfolio; deep-tech/semiconductor/robotics focus; Taiwan supply-chain thesis; partners Eva Lau, Allen Lau, Albert Chen, Brandon Zhao; portfolio Blumind, ABR, Zinite",
+        "quote": "Third fund closed at US$30 million ... 59 companies across various sectors ... Everything we touch these days—hardware companies working on semiconductors, neuromorphic systems, AI chips—requires Taiwan's supply ch[ain] ... Eva Lau (Co-founder); Allen Lau (Co-founder, former Wattpad co-founder)."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "HQ Toronto (country=Canada); placed under region=taiwan due to explicit Taiwan-centric thesis and supply-chain strategy. Founding year and per-deal check sizes not disclosed; only one source (single secondary article) — confidence medium.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-hardware-deep"
+  }
+]

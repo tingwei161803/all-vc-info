@@ -51,21 +51,21 @@ cat reports/validation.md    # schema 違規 / 資料品質
 
 ---
 
-## 資料狀態 — ✅ 9 區全部完成
+## 資料狀態 — ✅ 9 區全部完成(兩輪蒐集)
 
-**2,454 筆機構 · 9 區 · 0 schema 違規**(信心度:high 1,701 / medium 708 / low 45)
+**4,055 筆機構 · 9 區 · 0 schema 違規**(信心度:high 2,731 / medium 1,233 / low 91)
 
 | 地區 | 筆數 | 地區 | 筆數 |
 | --- | ---: | --- | ---: |
-| 🇪🇺 歐洲 europe | 492 | 🇮🇱 以色列 israel | 225 |
-| 🇺🇸 美國 united-states | 416 | 🇸🇬 東南亞 southeast-asia | 211 |
-| 🇮🇳 印度 india | 284 | 🇰🇷 南韓 south-korea | 207 |
-| 🇨🇦 加拿大 canada | 248 | 🇹🇼 台灣 taiwan | 142 |
-| 🇯🇵 日本 japan | 229 | **合計** | **2,454** |
+| 🇪🇺 歐洲 europe | 822 | 🇨🇦 加拿大 canada | 371 |
+| 🇺🇸 美國 united-states | 695 | 🇸🇬 東南亞 southeast-asia | 368 |
+| 🇮🇳 印度 india | 447 | 🇰🇷 南韓 south-korea | 352 |
+| 🇮🇱 以色列 israel | 373 | 🇹🇼 台灣 taiwan | 255 |
+| 🇯🇵 日本 japan | 372 | **合計** | **4,055** |
 
-**依類型**:VC 963 · 加速器 313 · CVC 254 · 育成 184 · 政府計畫 183 · 天使網絡 117 · Micro-VC 116 · 創業工作室 116 · growth-equity 101 · 家族辦公室 74 · 天使 syndicate 28 · 股權群募 5
+**依類型**:VC 1,766 · 加速器 515 · CVC 404 · 育成 274 · 政府計畫 264 · Micro-VC 193 · growth-equity 179 · 創業工作室 158 · 天使網絡 153 · 家族辦公室 89 · 天使 syndicate 46 · 股權群募 14
 
-> 各 `data/<region>/_raw/` 內為 agent 分切片產出的原始檔(每區 24–31 段);`entities.json` 為去重合併 + schema 驗證後成品。最新統計見 `data/stats.json`,資料品質報告見 `reports/validation.md`。
+> 兩輪蒐集:第一輪每區 24–31 個切片(主流機構),第二輪深層擴充(利基產業 / 二線城市 / 新興管理人 / 創投債 / 大市場地理細分)。各 `data/<region>/_raw/` 為 agent 切片原始檔;`entities.json` 為去重合併 + schema 驗證後成品。共 **9,602 條來源**(97% 帶原文 quote)。
 
 ---
 

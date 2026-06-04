@@ -1,0 +1,573 @@
+[
+  {
+    "id": "il-tau-ventures",
+    "name": { "en": "TAU Ventures", "local": "טא\"ו ונצ'רס" },
+    "aka": ["TAU Ventures (Tel Aviv University VC)", "TAUV"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.tauventures.co.il/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/tau-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/tau-ventures",
+      "other": ["https://english.tau.ac.il/news/tau_venture_fund", "https://finder.startupnationcentral.org/investor_page/tau-ventures"]
+    },
+    "capital": {
+      "aum": { "raw": "~$70M across two funds", "usd": null, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2018, "size": { "raw": "$20M", "usd": 20000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2021, "size": { "raw": "$50M (up to $70M)", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "Initial check $1M (initial capital ~$500K with follow-on)", "usd_min": 500000, "usd_max": 1000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist", "fintech", "agritech", "robotics"],
+      "thesis": "The venture capital fund of Tel Aviv University, the first university-affiliated VC in Israel; invests pre-seed/seed in startups founded mainly by TAU students, faculty and alumni, modeled on US university funds (MIT, Stanford, UC Berkeley)."
+    },
+    "track_record": {
+      "portfolio_count": 26,
+      "notable_investments": [
+        { "company": "Cyabra", "sector": "ai-ml", "outcome": "active" },
+        { "company": "XTEND", "sector": "robotics", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Nimrod Cohen", "role": "Founder & Managing Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via website; also runs The Xcelerator (with Israel Security Agency, founded 2018) and ReCombinate (with AB InBev) innovation programs.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["university-affiliated", "alumni", "tel-aviv-university", "academic-vc"],
+    "summary": {
+      "en": "TAU Ventures is Tel Aviv University's venture capital fund, the first university-affiliated VC in Israel. Launched in 2018 with a $20M first fund and a $50M (up to $70M) second fund in 2021, it makes pre-seed/seed investments of up to $1M, primarily in startups by TAU students, alumni and faculty.",
+      "local": "טא\"ו ונצ'רס היא קרן ההון סיכון של אוניברסיטת תל אביב, הקרן הראשונה בישראל המסונפת לאוניברסיטה."
+    },
+    "sources": [
+      { "url": "https://english.tau.ac.il/news/tau_venture_fund", "title": "TAU announces early-stage venture fund for students and graduates", "publisher": "Tel Aviv University", "accessed": "2026-06-03", "supports": "first university VC in Israel, $20M Fund I, founded 2018", "quote": "TAU Ventures fund has already raised some $20 million in commitments... modeled after ones at a number of universities in the US, including MIT, UC Berkeley and Stanford" },
+      { "url": "https://english.tau.ac.il/news/tau_ventures_2021", "title": "TAU Ventures Raises $50M to Boost Israeli Startups", "publisher": "Tel Aviv University", "accessed": "2026-06-03", "supports": "$50M second fund 2021, Nimrod Cohen MP, Chartered Group LP, 15-25 target", "quote": "Fund Size: $50 million, with the potential to top-up to $70 million... Managing Partner: Nimrod Cohen... announced December 12, 2021" },
+      { "url": "https://www.tauventures.co.il/", "title": "Home - TAU Ventures", "publisher": "TAU Ventures", "accessed": "2026-06-03", "supports": "initial check $1M, pre-seed/seed, generalist, 26 companies, Tel Aviv HQ", "quote": "Initial Check Size $1M... Pre-Seed, Seed... George Wise 20, Tel Aviv... Cyabra... XTEND" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM ~$70M is the sum of both disclosed funds; not an officially stated single AUM figure. Distinct from the TAU Ventures-run 'Xcelerator' accelerator captured elsewhere.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "il-fresh-fund",
+    "name": { "en": "Fresh Fund", "local": "פרש פאנד" },
+    "aka": ["fresh.fund", "FreshFund"],
+    "type": "micro-vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.fresh.fund/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/freshfund",
+      "crunchbase": "https://www.crunchbase.com/organization/fresh-fund",
+      "other": ["https://www.fresh.fund/who-are-we", "https://medium.com/freshfund/the-freshest-vc-in-israel-2-0-b90807fb6e8d", "https://www.cbinsights.com/investor/freshfund"]
+    },
+    "capital": {
+      "aum": { "raw": "$70M AUM (also reported $15M as of ~2021)", "usd": null, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "First checks ~$300,000", "usd_min": null, "usd_max": 300000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist"],
+      "thesis": "Israel's first university-focused venture fund (2016), originating as a network of student analysts with chapters at Hebrew University, Tel Aviv University, IDC Herzliya, Technion and Lev Academic College; now one of the country's largest dedicated pre-seed funds, the 'founding friends' of first-time and non-traditional founders."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Zaki Djemal", "role": "Founder & Managing Partner (d. 2026)" },
+      { "name": "Hidai Goldsmith", "role": "Founding Partner" },
+      { "name": "Daniel Keyes", "role": "Co-founder / Managing Student Partner (early)" },
+      { "name": "Yoav Anaki", "role": "Venture Partner" },
+      { "name": "Naor Caspi", "role": "Partner, Defense" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via website (hi@fresh.fund); reviews ~100 applications/month.",
+      "accepts_cold_inbound": true,
+      "contact": "hi@fresh.fund"
+    },
+    "tags": ["university-affiliated", "student-analyst-network", "pre-seed", "alumni"],
+    "summary": {
+      "en": "Fresh Fund (fresh.fund) is Israel's first university-focused venture fund, founded in 2016 by Zaki Djemal as a student-analyst network with chapters at Hebrew University, TAU, IDC Herzliya, Technion and Lev Academic College. It has since become one of Israel's largest dedicated pre-seed funds, writing first checks of roughly $300K to ambitious (often first-time) Israeli founders.",
+      "local": "פרש פאנד היא קרן ההון סיכון הראשונה בישראל הממוקדת באוניברסיטאות, שהוקמה ב-2016 כרשת אנליסטים סטודנטים."
+    },
+    "sources": [
+      { "url": "https://www.fresh.fund/who-are-we", "title": "FreshFund | Who We Are", "publisher": "Fresh Fund", "accessed": "2026-06-03", "supports": "first university-focused fund 2016, evolution to pre-seed, team", "quote": "With roots as Israel's first university-focused venture fund in 2016, we've evolved to become one of the largest and most active pre-seed investors in the country." },
+      { "url": "https://medium.com/freshfund/the-freshest-vc-in-israel-2-0-b90807fb6e8d", "title": "The Freshest VC in Israel — 2.0", "publisher": "Fresh Fund / Medium", "accessed": "2026-06-03", "supports": "university chapters, 3-month bootcamp, student analysts", "quote": "Operating chapters at Hebrew University, Tel Aviv University, The Interdisciplinary Center in Herzliya (IDC), Technion, and Lev Academic College... complete a 3-month extensive Investing Bootcamp" },
+      { "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3929980,00.html", "title": "The VC aiming to be the 'family and friends' of early-stage founders", "publisher": "CTech / Calcalist", "accessed": "2026-06-03", "supports": "check size ~$300K, $15M AUM (~2021), pivot from university-only, Djemal", "quote": "Initial check size: approximately $300,000... Assets under management: $15 million... initially established itself as Israel's first fund exclusively investing in pre-Seed companies emerging from the university ecosystem" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM figures conflict across sources ($15M reported ~2021 by Calcalist; $70M reported by CB Insights/startupintros more recently) — both retained, single number left null. Founder Zaki Djemal reported deceased March 2026; fund continues. Daniel Keyes was an early co-founder/student partner; current core team led by Djemal/Goldsmith.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "il-maayan-fund",
+    "name": { "en": "MAAYAN Fund", "local": "קרן מעיין" },
+    "aka": ["Maayan Fund (Hebrew University)", "MAAYAN Tech-Impact Fund"],
+    "type": "micro-vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Jerusalem",
+    "website": "https://asper.huji.ac.il/home",
+    "links": {
+      "other": ["https://asper.huji.ac.il/home"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Israel"],
+      "sector_focus": ["impact", "agritech", "healthtech", "biotech", "edtech"],
+      "thesis": "Student-led tech-impact venture fund of the Hebrew University community, managed by HUJI Business School students; invests in early-stage impact startups operating in Jerusalem and/or founded by HUJI alumni, aligned with UN SDGs."
+    },
+    "people": [
+      { "name": "Tom Yariv", "role": "Manager (2025)" },
+      { "name": "Dr. Dan Marom", "role": "Academic Lead" },
+      { "name": "Prof. Yigal Newman", "role": "Academic Lead" }
+    ],
+    "application": {
+      "how_to_apply": "Through the Asper Center for Entrepreneurship at the Hebrew University Business School.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["university-affiliated", "student-led", "hebrew-university", "impact", "alumni"],
+    "summary": {
+      "en": "MAAYAN Fund is a student-led tech-impact venture capital fund of the Hebrew University of Jerusalem community, described as a first-of-its-kind fund in Israel. Managed by Hebrew University Business School students and affiliated with the Asper Center, it invests in early-stage impact startups operating in Jerusalem and/or founded by HUJI alumni, across FoodTech, AgTech, MedTech, BioTech, Industry 4.0 and EdTech.",
+      "local": "קרן מעיין היא קרן הון סיכון אימפקט-טק בהובלת סטודנטים של קהילת האוניברסיטה העברית בירושלים."
+    },
+    "sources": [
+      { "url": "https://asper.huji.ac.il/home", "title": "Maayan Fund — Asper Center, Hebrew University", "publisher": "Hebrew University Business School (Asper Center)", "accessed": "2026-06-03", "supports": "student-led impact fund, HUJI community, sectors, target startups, team", "quote": "A Student-Led Tech-Impact Fund - The venture capital impact investment platform of The Hebrew University community... start-ups that aim to produce a measurable impact, operate in Jerusalem, and/or were established by HUJI alumni... FoodTech, AgTech, MedTech, BioTech, industry 4.0, EdTech" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year and check/fund size not disclosed on the official page. Related but separate vehicles surfaced on the same site: RHODIUM Ventures Award ($100K from Rhodium Ventures) and Earth & Beyond Ventures (up to NIS 6.5M) for deep-tech startups with HUJI/Jerusalem connections.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "il-amit-alfred-mann-institute-technion",
+    "name": { "en": "AMIT - Alfred Mann Institute at the Technion", "local": "מכון אלפרד מאן בטכניון (AMIT)" },
+    "aka": ["Alfred Mann Institute for Biomedical Development at the Technion", "AMIT Technion"],
+    "type": "incubator",
+    "subtypes": ["venture-studio"],
+    "status": "active",
+    "founded_year": 2006,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Haifa",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/amit-technion",
+      "other": ["https://www.facebook.com/AmitTechnion/", "https://www.technion.ac.il/en/blog/the-technion-and-amit-established-a-new-company-to-commercialize-stem-cell-technologies/"]
+    },
+    "capital": {
+      "aum": { "raw": "$100M endowment from Alfred Mann", "usd": 100000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel"],
+      "sector_focus": ["biotech", "healthtech", "deeptech"],
+      "thesis": "Technion's hub for biomedical innovation: accelerates the development and commercialization of biomedical technologies, medical devices and life-sciences inventions conceived by Technion researchers, students, faculty and alumni, and spins them out as companies."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Accellta", "sector": "biotech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Dr. Alfred Mann", "role": "Founder & Chairman (founding donor, d. 2016)" }
+    ],
+    "tags": ["university-affiliated", "technion", "endowment", "biomedical", "commercialization", "alumni"],
+    "summary": {
+      "en": "AMIT (Alfred Mann Institute at the Technion) is the Technion's biomedical innovation hub, established in 2006 with a landmark $100M endowment from American billionaire Dr. Alfred Mann. It accelerates the development and commercialization of biomedical, medical-device and life-science inventions by Technion researchers, students and alumni, spinning out companies such as Accellta.",
+      "local": "מכון אלפרד מאן בטכניון (AMIT) הוא מרכז החדשנות הביו-רפואית של הטכניון, שהוקם ב-2006 בתרומה של 100 מיליון דולר."
+    },
+    "sources": [
+      { "url": "https://www.biospace.com/alfred-mann-institute-for-biomedical-development-at-the-technion-israel-institute-of-technology-amit-opens-doors-of-the-100-million-institute", "title": "Alfred Mann Institute at the Technion Opens Doors of the $100 Million Institute", "publisher": "BioSpace", "accessed": "2026-06-03", "supports": "$100M endowment, opened 2006, biomedical commercialization, Alfred Mann founder/chairman", "quote": "Alfred Mann made an unprecedented donation of $100 million to focus on developing knowledge created at the Technion in the fields of biomedicine, medical devices and life sciences... operating since 2006... Alfred Mann... serves as Chairman of the Board of Directors" },
+      { "url": "https://t3.technion.ac.il/research-funding-and-investment-opportunities/", "title": "Research funding and investment opportunities - T3", "publisher": "Technion T3", "accessed": "2026-06-03", "supports": "AMIT listed among Technion Seed/Round-A designated funds", "quote": "continued investments through Seed/Round A designated funds such as AMIT, the Technion R&D foundation (TRDF) or the Technion Investment Opportunities Fund (TIOF)" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Check/fund-size per deal not disclosed; the $100M figure is the founding endowment from Alfred Mann, not current AUM. AMIT functions as a biomedical venture-creation/commercialization institute rather than a conventional VC fund.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "il-technion-seed",
+    "name": { "en": "Technion Seed", "local": "טכניון סיד" },
+    "aka": ["Technion Seed Ltd"],
+    "type": "incubator",
+    "subtypes": ["micro-vc"],
+    "status": "inactive",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Haifa",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/technion-seed",
+      "other": ["https://www.cbinsights.com/investor/technion-seed", "https://pitchbook.com/profiles/investor/53334-46"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "Initial investments up to ~$1,000,000", "usd_min": null, "usd_max": 1000000 },
+      "geo_focus": ["Israel"],
+      "sector_focus": ["deeptech", "healthtech", "climate-energy", "hardware-semiconductor", "saas-enterprise"],
+      "thesis": "A seed-stage incubator/investment vehicle jointly owned by four top-tier venture capital funds (Battery Ventures, Vertex, SCP-Vitalife, ProSeed) and the Technion R&D Foundation, providing initial financing to early-stage Technion-linked ventures that then graduate to larger rounds from its parent funds."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "VineSight", "sector": "ai-ml", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "ENvizion Medical", "type": "M&A", "year": 2025, "value": { "raw": null, "usd": null, "currency": null } }
+      ],
+      "co_investors": ["Battery Ventures", "Vertex Ventures", "SCP-Vitalife", "ProSeed"]
+    },
+    "tags": ["university-affiliated", "technion", "trdf", "seed", "incubator"],
+    "summary": {
+      "en": "Technion Seed is a seed-stage incubator/investment vehicle jointly owned by four venture capital funds (Battery Ventures, Vertex, SCP-Vitalife, ProSeed) together with the Technion R&D Foundation. It made initial investments of up to roughly $1M in early-stage Technion-linked ventures across deep tech, medical devices, energy and materials. The vehicle is now permanently closed; its last investment was in 2022 and last exit (ENvizion Medical) in 2025.",
+      "local": "טכניון סיד היה גוף השקעות בשלב הזרע בבעלות משותפת של ארבע קרנות הון סיכון וקרן המחקר של הטכניון."
+    },
+    "sources": [
+      { "url": "https://www.cbinsights.com/investor/technion-seed", "title": "Technion Seed Portfolio Investments", "publisher": "CB Insights", "accessed": "2026-06-03", "supports": "four VC funds + TRDF ownership, up to ~$1M, closed, last deal VineSight 2022, exit ENvizion 2025", "quote": "grown from a partnership of four venture capital funds (Battery Ventures, Vertex, SCP-Vitalife, ProSeed) and the Technion R&D Foundation... initial investments up to about $1,000,000... permanently closed... latest investment was in VineSight... on September 15, 2022... latest portfolio exit was ENvizion Medical on February 14, 2025" },
+      { "url": "https://t3.technion.ac.il/research-funding-and-investment-opportunities/", "title": "Research funding and investment opportunities - T3", "publisher": "Technion T3", "accessed": "2026-06-03", "supports": "Technion investment vehicles ecosystem", "quote": "investments in existing or new start-up companies from early stages to Round B, through various Technion funds" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Status marked inactive/closed per CB Insights ('permanently closed'). Founding year not confirmed in sources. Sector list inferred from CB Insights ('communications, IT, internet, medical devices, renewable energy, new materials') mapped to taxonomy slugs.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "il-trdf-technion-rd-foundation",
+    "name": { "en": "Technion Research & Development Foundation (TRDF)", "local": "מוסד הטכניון למחקר ופיתוח (תרפ\"ת)" },
+    "aka": ["TRDF", "Technion R&D Foundation"],
+    "type": "incubator",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Haifa",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/technion-research-development-foundation",
+      "other": ["https://trdf.technion.ac.il/en/t3/", "https://t3.technion.ac.il/research-funding-and-investment-opportunities/"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel"],
+      "sector_focus": ["deeptech", "biotech", "healthtech", "hardware-semiconductor", "ai-ml"],
+      "thesis": "The Technion's non-profit research, development and commercialization foundation; parent of the T3 tech-transfer arm and a backer of Technion-linked investment vehicles, supporting spinouts and startups built on Technion IP from early stages through Round B."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "tags": ["university-affiliated", "technion", "commercialization", "foundation", "spinouts"],
+    "summary": {
+      "en": "The Technion Research & Development Foundation (TRDF) is the non-profit foundation of the Technion that manages its research, development and commercialization activity. It is the parent of the T3 technology-transfer arm and a co-owner/backer of Technion investment vehicles (e.g. Technion Seed), supporting spinouts and startups built on Technion IP. In 2017 TRDF and UG Capital Management announced a $200M venture fund (later reported cancelled).",
+      "local": "מוסד הטכניון למחקר ופיתוח (תרפ\"ת) הוא הגוף ללא מטרות רווח המנהל את פעילות המחקר, הפיתוח והמסחור של הטכניון."
+    },
+    "sources": [
+      { "url": "https://t3.technion.ac.il/research-funding-and-investment-opportunities/", "title": "Research funding and investment opportunities - T3", "publisher": "Technion T3 / TRDF", "accessed": "2026-06-03", "supports": "TRDF as Technion seed/Round-A funder, early-to-Round-B investments", "quote": "continued investments through Seed/Round A designated funds such as AMIT, the Technion R&D foundation (TRDF)... investments in existing or new start-up companies from early stages to Round B" },
+      { "url": "https://globalventuring.com/university/technion-institutes-200m-fund", "title": "Technion institutes $200m fund", "publisher": "Global University Venturing", "accessed": "2026-06-03", "supports": "$200M TRDF+UG Capital fund for spinouts/startups/alumni (later cancelled)", "quote": "Technion unveiled a $200m venture capital fund... a joint venture between the university's non-profit subsidiary Technion Research and Development Foundation (TRDF) and UG Capital Management... Faculty, students and alumni are set to benefit" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "The $200M TRDF–UG Capital Management fund (TIOF / UGC-TRDF) was reported by secondary sources to have been later cancelled, so it is described here as a TRDF initiative rather than given its own active entity. T3 (Technion Technology Transfer) is captured separately in the existing dataset; TRDF is its parent foundation and a distinct investment-backing entity.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "il-win-weizmann-innovation-nest",
+    "name": { "en": "WIN - Weizmann Innovation Nest", "local": "WIN - מאיץ החדשנות של מכון ויצמן" },
+    "aka": ["Weizmann Innovation Nest", "WIN"],
+    "type": "incubator",
+    "status": "active",
+    "founded_year": 2023,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Rehovot",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/win-weizmann-institute-startup-hub"
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel"],
+      "sector_focus": ["biotech", "agritech", "climate-energy", "deeptech", "healthtech"],
+      "thesis": "Startup hub of the Weizmann Institute innovation ecosystem, backed by Yeda (Weizmann's tech-transfer company); provides early-stage funding, mentoring, lab/office space and investor networking to incubate Weizmann inventions through the venture-creation stage."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Fani David-Melnik", "role": "Team (publicly listed)" }
+    ],
+    "application": {
+      "how_to_apply": "Through the Weizmann/Yeda innovation ecosystem.",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["research-institution", "weizmann", "yeda", "incubator", "deeptech"],
+    "summary": {
+      "en": "WIN (Weizmann Innovation Nest) is the startup hub of the Weizmann Institute of Science, launched in 2023 and backed by Yeda, Weizmann's technology-transfer company. Based in Rehovot, it provides early-stage funding, mentoring, lab and office space and investor networking to incubate Weizmann inventions (in pharma/biotech, agtech, foodtech, cleantech and materials) through the venture-creation stage.",
+      "local": "WIN הוא מאיץ הסטארטאפים של מכון ויצמן למדע, שהושק ב-2023 ונתמך על ידי ידע, חברת מסחר הידע של המכון."
+    },
+    "sources": [
+      { "url": "https://il.linkedin.com/company/win-weizmann-institute-startup-hub", "title": "WIN - Weizmann Innovation Nest", "publisher": "LinkedIn / WIN", "accessed": "2026-06-03", "supports": "founded 2023, backed by Yeda, Rehovot location, early-stage funding/incubation, sectors", "quote": "WIN is the startup hub of the Weizmann innovation ecosystem. Backed by Yeda, Weizmann's tech transfer company... incubate promising and applicative Weizmann inventions through the venture creation stage... Founding Year: 2023... Location: Rehovot, Israel" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Early-stage funding amounts not disclosed. Distinct from Yeda (the parent tech-transfer company, captured elsewhere); WIN is the newer (2023) incubation hub.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "il-embarc-ventures",
+    "name": { "en": "embARC Ventures", "local": "embARC ונצ'רס" },
+    "aka": ["embARC Ventures (Sheba ARC)"],
+    "type": "accelerator",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Ramat Gan",
+    "website": "https://www.embarcventures.com/",
+    "links": {
+      "other": ["https://www.embarcventures.com/program", "https://www.embarcventures.com/faq", "https://nocamels.com/2024/09/israels-top-hospital-unveils-program-to-promote-healthtech-startups/", "https://sheba-global.com/sheba-medical-center-launches-embarc-ventures-launchpad-for-israeli-and-global-healthtech-startups/"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$250,000 per company", "usd_min": 250000, "usd_max": 250000 },
+      "geo_focus": ["Israel", "Global"],
+      "sector_focus": ["healthtech", "biotech"],
+      "thesis": "Healthtech accelerator/fund of Sheba Medical Center's ARC Innovation Center; guarantees $250K investment on standardized terms (7% equity for the first $125K, remainder convertible) to early-stage Israeli and global healthtech startups, with clinical access to Israel's largest hospital."
+    },
+    "program": {
+      "length_weeks": 12,
+      "cohort_size": "5-10",
+      "batches_per_year": null,
+      "equity_taken_pct": "7% for the initial $125K (remaining $125K convertible)",
+      "investment": { "raw": "$250,000", "usd": 250000, "currency": "USD" },
+      "format": "in-person",
+      "location": "Sheba Medical Center (Tel HaShomer), Ramat Gan",
+      "perks": ["Up to 1 year dedicated office space at Sheba", "US roadshow", "Clinical pilots and data access at Sheba", "Global partner network"],
+      "application_url": "https://www.embarcventures.com/",
+      "eligibility": "Early-stage Israeli and global healthtech / medical innovation startups"
+    },
+    "people": [
+      { "name": "Dan Shwarzman", "role": "Manager / Lead" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via embarcventures.com.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["research-institution", "hospital", "sheba", "arc", "healthtech", "guaranteed-terms"],
+    "summary": {
+      "en": "embARC Ventures is the healthtech accelerator/fund of Sheba Medical Center's ARC Innovation Center, launched September 2024 and backed by Ilex Medical. It guarantees a $250K investment per startup (for the first time in Israel on predetermined terms: 7% equity for the initial $125K, the remaining $125K convertible) to cohorts of 5-10 early-stage Israeli and global healthtech startups over a ~3-month program, with clinical access at Sheba and a US roadshow. Managed by Dan Shwarzman.",
+      "local": "embARC ונצ'רס הוא מאיץ/קרן הבריאות הדיגיטלית של מרכז החדשנות ARC במרכז הרפואי שיבא, שהושק בספטמבר 2024."
+    },
+    "sources": [
+      { "url": "https://nocamels.com/2024/09/israels-top-hospital-unveils-program-to-promote-healthtech-startups/", "title": "Israel's top hospital unveils program to promote healthtech startups", "publisher": "NoCamels", "accessed": "2026-06-03", "supports": "launch Sept 2024, $250K, 5-10 startups, 3-month, Dan Shwarzman, Ilex Medical, US roadshow", "quote": "Launch Date: September 2024... Investment Amount: $250,000 for each selected company... Cohort Size: 5 to 10 startups per three-month cohort... Manager: Dan Shwarzman... Funding Partners: Sheba Medical Center's ARC Innovation Center and Ilex Medical" },
+      { "url": "https://sheba-global.com/sheba-medical-center-launches-embarc-ventures-launchpad-for-israeli-and-global-healthtech-startups/", "title": "Sheba Launches embARC Ventures to fund Global HealthTech Startups", "publisher": "Sheba Global", "accessed": "2026-06-03", "supports": "7% equity for first $125K, remaining $125K convertible, guaranteed terms", "quote": "7% equity in exchange for the initial $125,000 investment, with the remaining $125,000 convertible in the next round, based on the round's valuation" },
+      { "url": "https://www.embarcventures.com/", "title": "Healthcare Startup Accelerator | embARC Ventures", "publisher": "embARC Ventures", "accessed": "2026-06-03", "supports": "$250K investment, healthcare-only, Sheba/ARC/Ilex partnership, office space", "quote": "$250K INVESTMENT... In partnership with Sheba Hospital (Tel HaShomer), ARC Innovation Center, and Ilex Medical" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Equity terms confirmed by Sheba Global; the official site lists $250K but does not restate equity %. Sheba Medical Center is in Tel HaShomer, Ramat Gan.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "il-triventures-arc",
+    "name": { "en": "Triventures ARC", "local": "טריוונצ'רס ARC" },
+    "aka": ["Triventures ARC by Sheba", "Triventures-ARC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Herzliya",
+    "website": "https://www.triventures.vc/arc/",
+    "links": {
+      "other": ["https://www.triventures.vc/arc/", "https://www.calcalistech.com/ctech/articles/0,7340,L-3770592,00.html", "https://objective.finance/en/analysis/triventures-arc/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$45M seed fund", "usd": 45000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel"],
+      "sector_focus": ["healthtech", "biotech", "ai-ml"],
+      "thesis": "A seed-stage digital-health venture fund in exclusive collaboration with ARC, the innovation arm of Sheba Medical Center — the first partnership of its kind between an Israeli healthcare system and a VC fund; invests in data-driven health solutions emerging from ARC, with Sheba entitled to 20% of future profits."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "tags": ["research-institution", "hospital", "sheba", "arc", "digital-health", "seed"],
+    "summary": {
+      "en": "Triventures ARC is a $45M seed-stage digital-health fund run by Herzliya-based VC Triventures in exclusive partnership with ARC, the innovation arm of Sheba Medical Center — the first such partnership between an Israeli healthcare system and a VC fund. It invests in data-driven health solutions coming out of ARC, with Sheba entitled to 20% of future profits, and ARC startups gain direct access to Sheba's data and medical teams.",
+      "local": "טריוונצ'רס ARC היא קרן זרע בתחום הבריאות הדיגיטלית בשיתוף בלעדי עם ARC, זרוע החדשנות של המרכז הרפואי שיבא."
+    },
+    "sources": [
+      { "url": "https://www.triventures.vc/arc/", "title": "ARC - Triventures", "publisher": "Triventures", "accessed": "2026-06-03", "supports": "seed-stage fund, exclusive ARC/Sheba collaboration, first of its kind", "quote": "Triventures ARC is a seed stage fund with an exclusive collaboration with ARC, the innovation arm of the Sheba Medical Center... the first partnership of its kind between an Israeli healthcare system and a venture capital fund" },
+      { "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3770592,00.html", "title": "Triventures, Sheba Medical Center Launch Seed-Stage Digital Healthcare Fund", "publisher": "CTech / Calcalist", "accessed": "2026-06-03", "supports": "$45M seed fund, Sheba 20% of future profits", "quote": "Triventures-ARC raised a $45 million seed fund to invest in promising data-driven health solutions coming out of ARC, with Sheba entitled to 20% of any future profits" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Triventures is an independent VC; this entity captures the Sheba/ARC-affiliated fund specifically (institution-affiliated by exclusive partnership and profit share). Founding year of the fund not pinned to a specific calendar year in sources.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "il-kidum-volcani",
+    "name": { "en": "Kidum - Volcani Institute Technology Transfer", "local": "קידום - יחידת מסחור הידע של מכון וולקני" },
+    "aka": ["Kidum", "Volcani Knowledge & Technology Transfer Unit", "ARO Kidum"],
+    "type": "incubator",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Rishon LeZion",
+    "website": "https://www.agri.gov.il/en/research-center/department/business-unit-kidum",
+    "links": {
+      "other": ["https://www.agri.gov.il/en/research-center/department/business-unit-kidum", "https://finder.startupnationcentral.org/tto_page/kidum"]
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel"],
+      "sector_focus": ["agritech", "biotech", "climate-energy"],
+      "thesis": "Technology-transfer and commercialization unit of the Agricultural Research Organization (Volcani Institute), Israel's largest agricultural research institute; protects and licenses IP and forms partnerships, joint ventures and spinoffs to commercialize Volcani agri-food research."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "tags": ["research-institution", "government", "volcani", "aro", "agritech", "tech-transfer"],
+    "summary": {
+      "en": "Kidum is the technology-transfer and commercialization unit of the Agricultural Research Organization (Volcani Institute), Israel's largest agricultural research institute and an affiliate of the Ministry of Agriculture. It registers and commercializes IP from Volcani's agriculture and food research, establishing partnerships, joint ventures and spinoffs to bring innovations to market while retaining Volcani's and the State of Israel's IP rights.",
+      "local": "קידום היא יחידת מסחור הידע וההעברה הטכנולוגית של מנהל המחקר החקלאי (מכון וולקני), מכון המחקר החקלאי הגדול בישראל."
+    },
+    "sources": [
+      { "url": "https://finder.startupnationcentral.org/tto_page/kidum", "title": "Kidum | Start-Up Nation Finder", "publisher": "Start-Up Nation Central", "accessed": "2026-06-03", "supports": "Kidum is the TTO of the Volcani Agriculture Institute, IP commercialization, partnerships/JVs", "quote": "Kidum is the Technology Transfer Organization of the Volcani Agriculture Institute and is responsible for the IP registration and commercialization of research applications in Agriculture and for the establishment of partnerships, joint ventures and other business enterprises" },
+      { "url": "https://en.wikipedia.org/wiki/Agricultural_Research_Organization,_Volcani_Center", "title": "Agricultural Research Organization, Volcani Center", "publisher": "Wikipedia", "accessed": "2026-06-03", "supports": "Volcani is Israel's largest agricultural research institute, affiliate of Ministry of Agriculture", "quote": "The Agricultural Research Organization – Volcani Institute is the largest agricultural research institute in Israel... an independent affiliate unit of the Ministry of Agriculture and Rural Development" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year and any direct investment/check figures not disclosed; Kidum operates primarily as a TTO/commercialization unit (licensing, JVs, spinoffs) rather than a capital-deploying fund. The Finder page (startupnationcentral) was not directly fetchable (403) but its content is corroborated by search-result snippets and the official ARO site.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "il-gavish-galilee-bio-applications",
+    "name": { "en": "Gavish - Galilee Bio Applications (MIGAL TTO)", "local": "גביש - יישומי גליל ביו" },
+    "aka": ["Galilee Bio Applications Ltd", "Gavish Galilee Bioapplications", "Galileo Tech Transfer Unit", "MIGAL technology transfer"],
+    "type": "incubator",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Kiryat Shmona",
+    "website": "https://www.migal.org.il/en/Technology-Transfer-GAVISH",
+    "links": {
+      "other": ["https://www.migal.org.il/en/Technology-Transfer-GAVISH", "https://www.migal.org.il/en/about", "https://ipib.ci.moez.fraunhofer.de/companies/gavish-galilee-bio-applications-ltd"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel"],
+      "sector_focus": ["agritech", "biotech", "climate-energy", "deeptech"],
+      "thesis": "Technology-transfer and business-development arm of MIGAL - Galilee Research Institute (now part of Tel-Hai University's ecosystem); controls MIGAL's IP and advances commercialization via subsidiaries, strategic partnerships, licensing and spinoffs, with startup incubation, lab access and investor networking in agri-tech, food and biotech."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "tags": ["research-institution", "migal", "tel-hai", "galilee", "agritech", "tech-transfer"],
+    "summary": {
+      "en": "Gavish - Galilee Bio Applications (operating as the Galileo tech-transfer unit) is the technology-transfer and business-development arm of MIGAL - Galilee Research Institute in Kiryat Shmona, now a subsidiary within Tel-Hai University's ecosystem. It controls MIGAL's intellectual assets and advances commercialization through subsidiaries, partnerships, licensing and spinoffs, plus startup incubation, lab access and investor networking across agri-tech, food and biotech. It is a member of the Israel Tech Transfer Network.",
+      "local": "גביש - יישומי גליל ביו היא זרוע מסחור הידע של מיג\"ל - מכון המחקר של הגליל בקריית שמונה, כיום במסגרת מערכת האקולוגית של אוניברסיטת תל-חי."
+    },
+    "sources": [
+      { "url": "https://www.migal.org.il/en/Technology-Transfer-GAVISH", "title": "Galileo Tech Transfer Unit | MIGAL", "publisher": "MIGAL - Galilee Research Institute", "accessed": "2026-06-03", "supports": "tech-transfer/business-development arm of MIGAL, subsidiary of Tel-Hai University, incubation/licensing/JVs", "quote": "As a subsidiary of MIGAL – now part of Tel-Hai University's expanding ecosystem – Galileo manages the commercialization and industry engagement activities of both institutions... startup incubation, mentoring, laboratory access, pilot testing facilities, licensing agreements, joint R&D projects" },
+      { "url": "https://ipib.ci.moez.fraunhofer.de/companies/gavish-galilee-bio-applications-ltd", "title": "Gavish – Galilee Bio applications Ltd", "publisher": "IP Industry Base (Fraunhofer)", "accessed": "2026-06-03", "supports": "Gavish/Galilee Bio Applications is MIGAL's tech-transfer entity in Kiryat Shmona", "quote": "Galilee Bio Applications Ltd is the technology transfer arm of MIGAL... a technology transfer office in Kiryat Shmona" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year and any direct investment figures not disclosed. Naming overlaps: legal entity 'Gavish – Galilee Bio Applications Ltd'; the unit is currently branded 'Galileo'. Operates as a TTO/incubation arm rather than a capital fund.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "il-ariel-scientific-innovations",
+    "name": { "en": "Ariel Scientific Innovations (Ariel University R&D Company)", "local": "אריאל - חברת המו\"פ של אוניברסיטת אריאל" },
+    "aka": ["Ariel Scientific Innovations Ltd", "Ariel - University R&D Company Ltd", "ASI", "Ariel RnD"],
+    "type": "incubator",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Ariel",
+    "website": "http://www.arielrnd.com",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/ariel---university-r&d-company-ltd.",
+      "other": ["https://israelagri.com/agrotech-index/ariel-scientific-innovations-ltd/"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel"],
+      "sector_focus": ["agritech", "biotech", "deeptech", "hardware-semiconductor"],
+      "thesis": "Technology-transfer and commercialization company of Ariel University; identifies commercially viable innovations from university research and seeks appropriate outlets for IP commercialization, supporting entrepreneurial activity, industry collaborations and spinoffs."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "people": [
+      { "name": "Matan Peer", "role": "Team (publicly listed)" }
+    ],
+    "team_size": "11-50",
+    "tags": ["university-affiliated", "ariel-university", "tech-transfer", "commercialization"],
+    "summary": {
+      "en": "Ariel Scientific Innovations (Ariel - University R&D Company) is the technology-transfer and commercialization arm of Ariel University. It identifies commercially viable innovations from university research and seeks appropriate outlets for IP commercialization, serving as a central hub for technology development, entrepreneurial activity, industry collaborations and spinoffs.",
+      "local": "אריאל - חברת המו\"פ של אוניברסיטת אריאל היא זרוע מסחור הידע של האוניברסיטה, האחראית על זיהוי חידושים בעלי פוטנציאל מסחרי ומסחורם."
+    },
+    "sources": [
+      { "url": "https://il.linkedin.com/company/ariel---university-r&d-company-ltd.", "title": "Ariel - University R&D Company Ltd.", "publisher": "LinkedIn", "accessed": "2026-06-03", "supports": "tech-transfer company of Ariel University, IP commercialization, 11-50 employees", "quote": "Ariel University Research and Development Company Ltd. is the technology transfer company of Ariel University Center. Ariel Ltd. is responsible for the identification of commercially viable innovations and the seeking out of appropriate outlets for IP commercialization... Company Size: 11-50 employees" },
+      { "url": "https://israelagri.com/agrotech-index/ariel-scientific-innovations-ltd/", "title": "Ariel Scientific Innovations Ltd", "publisher": "Israel Agri", "accessed": "2026-06-03", "supports": "ASI is the TTO of Ariel University, hub for entrepreneurial/industry/commercial innovation", "quote": "ASI is a central location for the technology development initiatives, entrepreneurial activities, industry collaborations and commercially-oriented innovations... the technology transfer office for Ariel University" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year and direct investment/check figures not disclosed. 'Ariel Scientific Innovations' and 'Ariel - University R&D Company Ltd' appear to be the same tech-transfer function under Ariel University. Operates as a TTO rather than a capital-deploying fund.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  }
+]

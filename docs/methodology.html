@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>方法論 · All-VC-Info</title>
+  <meta name="description" content="這份名錄怎麼做的:平行研究 agent 分切片蒐集、逐筆附來源 quote、信心度評級、schema 驗證與去重,以及名詞表與免責。" />
+  <link rel="canonical" href="https://tingwei161803.github.io/all-vc-info/methodology.html" />
+  <meta name="theme-color" content="#6750A4" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='88'%3E%F0%9F%8F%A6%3C/text%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,400..700&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <header class="appbar"><div class="appbar__inner">
+    <a class="brand" href="index.html"><span class="material-symbols-rounded brand__logo">account_balance</span><span class="brand__name" id="brandName">All-VC-Info</span></a>
+    <div class="appbar__actions">
+      <a class="gh-star" id="ghStar" href="https://github.com/tingwei161803/all-vc-info" data-repo="tingwei161803/all-vc-info" target="_blank" rel="noopener" aria-label="GitHub"><span class="material-symbols-rounded">star</span><span class="gh-star__count" id="ghStarCount">★</span></a>
+      <button class="icon-btn" id="langToggle" type="button" aria-label="Toggle language / 切換語言"><span class="material-symbols-rounded">translate</span><span class="icon-btn__txt" id="langLabel">中</span></button>
+      <button class="icon-btn" id="themeToggle" type="button" aria-label="Toggle theme / 切換主題"><span class="material-symbols-rounded" id="themeIcon">dark_mode</span></button>
+    </div>
+  </div></header>
+  <nav class="siterail" id="siteRail" aria-label="Site navigation"></nav>
+  <nav class="sectionnav" id="sectionNav" aria-label="Section navigation"><div class="sectionnav__inner" id="sectionNavInner"></div></nav>
+  <span id="top"></span>
+  <main id="sections" aria-live="polite"></main>
+  <dialog class="dialog" id="dialog" aria-labelledby="dialogTitle">
+    <div class="dialog__bar"><span class="dialog__spacer"></span>
+      <button class="icon-btn" id="dialogClose" type="button" aria-label="Close / 關閉"><span class="material-symbols-rounded">close</span></button>
+    </div>
+    <div class="dialog__body" id="dialogBody"></div>
+  </dialog>
+  <footer class="footer"><p id="footerText"></p></footer>
+  <script>
+  window.SITE_PAGE = {
+    id:"methodology", kind:"page",
+    title:{en:"Methodology", zh:"方法論"},
+    sections:[
+      {type:"prose", id:"about", title:{en:"About & methodology", zh:"關於與方法論"}, blocks:[
+        {type:"p", text:{en:"All-VC-Info is an open, unofficial directory of investment organizations across nine regions: Taiwan, the United States, Japan, Europe, South Korea, Southeast Asia, Israel, India and Canada. It covers twelve organization types — VC firms, accelerators, incubators, corporate VCs, angel networks and syndicates, government programs, venture studios, micro-VCs, family offices, growth-equity and equity-crowdfunding.",
+                          zh:"All-VC-Info 是一份開放、非官方的投資機構名錄,橫跨九大地區:台灣、美國、日本、歐洲、南韓、東南亞、以色列、印度、加拿大。涵蓋十二種機構類型 — 創投、加速器、育成中心、企業創投、天使網絡與 syndicate、政府計畫、創業工作室、Micro-VC、家族辦公室、成長期股權與股權群募。"}},
+        {type:"h3", text:{en:"How it was built", zh:"怎麼做的"}},
+        {type:"p", text:{en:"The dataset was assembled by hundreds of parallel research agents. Each region was sliced into 24–31 segments (by stage, sector, type and geography), and one agent researched each slice with live web search, writing structured, sourced records. A deterministic Python pipeline then deduped the slices, validated every record against a JSON Schema, and merged them — keeping the highest-confidence value and unioning sources on any duplicate.",
+                          zh:"這份資料由數百個平行研究 agent 組裝而成。每個地區切成 24–31 個切片(依階段、產業、類型與地理),每個 agent 用即時網路搜尋研究一塊切片,產出結構化且附來源的資料。接著用一支確定性的 Python pipeline 去重、以 JSON Schema 驗證每筆、再合併 — 重複者保留最高信心值並聯集來源。"}},
+        {type:"h3", text:{en:"Provenance & confidence", zh:"溯源與信心度"}},
+        {type:"p", text:{en:"Every quantitative claim — fund size, check size, equity %, acceptance rate, founding year — is tied to a source with a verbatim quote; figures that could not be verified are left blank rather than guessed. Each entry carries a confidence rating: high (official / primary source), medium (reputable secondary), or low (a single weak or dated source). Open any organization to read its sources.",
+                          zh:"每個量化數字 — 基金規模、單筆金額、股權 %、錄取率、成立年 — 都綁定一個附原文 quote 的來源;查不到的數字寧可留白,不猜。每筆並標示信心度:高(官方/一手)、中(可靠二手)、低(單一弱來源或過時)。點開任一機構即可閱讀其來源。"}},
+        {type:"h3", text:{en:"Disclaimer", zh:"免責"}},
+        {type:"p", html:true, text:{en:"This is an unofficial research compilation for reference only. Figures may be out of date — verify against each entry's sources before citing. Code and data live on <a href='https://github.com/tingwei161803/all-vc-info' target='_blank' rel='noopener'>GitHub: tingwei161803/all-vc-info →</a>",
+                          zh:"非官方整理,僅供參考。數字可能過時,引用前請依各筆來源自行查證。程式碼與資料在 <a href='https://github.com/tingwei161803/all-vc-info' target='_blank' rel='noopener'>GitHub: tingwei161803/all-vc-info →</a>"}}
+      ]},
+      {type:"provenance", id:"prov", title:{en:"Data provenance in numbers", zh:"資料溯源(數字)"}, sub:{en:"How well-sourced the dataset is.", zh:"這份資料的來源紮實程度。"}},
+      {type:"glossary", id:"gloss-types", kind:"types", title:{en:"Glossary · organization types", zh:"名詞表 · 機構類型"}},
+      {type:"glossary", id:"gloss-sectors", kind:"sectors", title:{en:"Glossary · sectors", zh:"名詞表 · 產業"}}
+    ]
+  };
+  </script>
+  <script src="data/meta.js"></script>
+  <script src="data/index.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,720 @@
+[
+  {
+    "id": "jp-astart",
+    "name": { "en": "Astart Co., Ltd.", "local": "株式会社エースタート" },
+    "aka": ["A.STAR", "エースタート", "SpaceTech Fund"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo (Minato)",
+    "website": "https://www.astart.co.jp/",
+    "links": {
+      "other": ["https://www.astart.co.jp/fund/"]
+    },
+    "capital": {
+      "aum": { "raw": "17.5 billion yen (累計運用総額175億円)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "SpaceTech Fund 1号 (Japan's first space-venture-focused fund)", "vintage_year": 2019, "size": { "raw": null, "usd": null, "currency": "JPY" } },
+        { "name": "SpaceTech Fund 3号", "vintage_year": 2024, "size": { "raw": "40億円 (4 billion yen)", "usd": null, "currency": "JPY" } },
+        { "name": "@Tech Fund 3号", "vintage_year": 2024, "size": { "raw": "20億円 (2 billion yen)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["spacetech", "deeptech"],
+      "thesis": "Independent VC running Japan's first dedicated space-venture fund (since 2019); backs Japanese space ventures from an 'entrepreneur-oriented' position, accompanying them toward IPO."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Synspective", "sector": "spacetech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Kazumasa Watanabe (渡邊一正)", "role": "Representative / Founder" }
+    ],
+    "application": {
+      "accepts_cold_inbound": null,
+      "contact": "https://www.astart.co.jp/"
+    },
+    "tags": ["space", "spacetech", "dedicated-space-fund", "deeptech"],
+    "summary": {
+      "en": "Tokyo-based independent VC that launched Japan's first space-venture-focused fund (SpaceTech Fund) in 2019. In 2024 it launched SpaceTech Fund 3 (4 billion yen) and @Tech Fund 3 (2 billion yen), bringing cumulative AUM to 17.5 billion yen. Backer of SAR-satellite maker Synspective.",
+      "local": "2019年に日本初の宇宙ベンチャー特化型ファンド「スペーステック1号ファンド」を組成した独立系VC。2024年にスペーステック3号ファンド(40億円)等をローンチし累計運用総額175億円。Synspectiveなどに出資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.astart.co.jp/fund/",
+        "title": "SPACE TECH FUND スペーステックファンド",
+        "publisher": "Astart Co., Ltd.",
+        "accessed": "2026-06-03",
+        "supports": "Firm is a dedicated space VC; SpaceTech Fund product",
+        "quote": "SPACE TECH FUND スペーステックファンド"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000008.000045007.html",
+        "title": "独立系ＶＣのエースタート、宇宙ベンチャーに特化した「スペーステック3号ファンド」など計60億円の新規ファンドをローンチ。累計運用総額は175億円に。",
+        "publisher": "PR TIMES / Astart",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2015; HQ Tokyo Minato; Fund 1 (2019, Japan's first space fund); Fund 3 size; cumulative AUM; Synspective portfolio; founder",
+        "quote": "累計運用総額は175億円に … スペーステック3号ファンド … ファンド総額：40億円 … 2019年 … 日本初となる宇宙ベンチャー特化型投資ファンド"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund 1 (2019) and Fund 2 exact sizes not disclosed in fetched sources; only Fund 3 size (40億円) and cumulative AUM (175億円) are sourced. USD conversions left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "jp-sparx-innovation-for-future-space-frontier",
+    "name": { "en": "SPARX Innovation for Future / Space Frontier Fund", "local": "スパークス・イノベーション・フォー・フューチャー（宇宙フロンティアファンド）" },
+    "aka": ["SIF", "Space Frontiers Fund", "宇宙フロンティアファンド", "宇宙フロンティア2号ファンド", "SPARX Asset Management Space Frontiers Fund"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://space.sparx.co.jp/",
+    "links": {
+      "other": ["https://www.sparx.jp/group/private.html", "https://www.jaxa.jp/press/2020/06/20200629-1_j.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "宇宙フロンティアファンド (Space Frontier Fund 1)", "vintage_year": 2020, "size": { "raw": "92億円 (9.2 billion yen)", "usd": null, "currency": "JPY" } },
+        { "name": "宇宙フロンティア2号ファンド (Space Frontier Fund 2)", "vintage_year": 2024, "size": { "raw": "約110億円 (approx. 11 billion yen)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["spacetech", "deeptech"],
+      "thesis": "Dedicated space fund managed by SPARX Asset Management, positioning space-utilization-enabling technologies as core; partnered with JAXA to cultivate globally competitive Japanese space companies. LPs include Toyota, Mitsubishi UFJ Bank, SMBC, Mizuho Bank, Mitsubishi Heavy Industries, SMTB and DBJ."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "ispace", "sector": "spacetech", "outcome": "IPO" },
+        { "company": "Interstellar Technologies", "sector": "spacetech", "outcome": "active" },
+        { "company": "ArcEdge Space", "sector": "spacetech", "outcome": "active" },
+        { "company": "ElevationSpace", "sector": "spacetech", "outcome": "active" },
+        { "company": "Space Shift", "sector": "spacetech", "outcome": "active" },
+        { "company": "WARPSPACE", "sector": "spacetech", "outcome": "active" },
+        { "company": "Astranis (US)", "sector": "spacetech", "outcome": "active" },
+        { "company": "Spaceflux (UK)", "sector": "spacetech", "outcome": "active" }
+      ],
+      "co_investors": ["DBJ", "KSK Angel Fund", "SMBC Venture Capital"]
+    },
+    "application": {
+      "accepts_cold_inbound": null,
+      "contact": "https://space.sparx.co.jp/"
+    },
+    "tags": ["space", "spacetech", "dedicated-space-fund", "jaxa-partner", "deeptech"],
+    "summary": {
+      "en": "Dedicated space fund run by SPARX Asset Management (SPARX Group). Fund 1 (9.2 billion yen) started June 2020; Fund 2 (approx. 11 billion yen) started April 2024 with LPs including Toyota, Mitsubishi UFJ Bank, SMBC, Mizuho, Mitsubishi Heavy Industries and DBJ. Partnered with JAXA. Portfolio includes ispace, Interstellar Technologies, ElevationSpace and Astranis.",
+      "local": "スパークス・アセット・マネジメントが運営する宇宙特化ファンド。1号(92億円)は2020年6月開始、2号(約110億円)は2024年4月開始でトヨタ・三菱UFJ銀行・三菱重工・DBJ等が出資。JAXAと連携。ispace・インターステラ・ElevationSpace等に投資。"
+    },
+    "sources": [
+      {
+        "url": "https://space.sparx.co.jp/",
+        "title": "SPARX Asset Management Co., Ltd. Space Frontiers Fund",
+        "publisher": "SPARX Asset Management",
+        "accessed": "2026-06-03",
+        "supports": "Dedicated space fund; Fund 1 and Fund 2; portfolio (Space Shift, ArcEdge, ElevationSpace, Spaceflux, Astranis)",
+        "quote": "宇宙空間の活用の実現に資する技術を中核技術と位置づけ"
+      },
+      {
+        "url": "https://global.toyota/jp/newsroom/corporate/40768840.html",
+        "title": "スパークス・グループによる「宇宙フロンティア2号ファンド」の設立について",
+        "publisher": "Toyota Motor Corporation Newsroom",
+        "accessed": "2026-06-03",
+        "supports": "Fund 1 size 92億円 (2020/06); Fund 2 約110億円 (2024/04); LPs; portfolio ispace, Interstellar, LeoLabs, ElevationSpace",
+        "quote": "総額約110億円の出資により2024年4月より運用 … 1号ファンドは2020年6月に運用を開始し、ファンド規模は92億円 … トヨタ自動車 … 三菱UFJ銀行 … 三菱重工業 … 日本政策投資銀行"
+      },
+      {
+        "url": "https://www.jaxa.jp/press/2020/06/20200629-1_j.html",
+        "title": "JAXAとスパークス・イノベーション・フォー・フューチャーとの連携について",
+        "publisher": "JAXA",
+        "accessed": "2026-06-03",
+        "supports": "JAXA partnership with SPARX/SIF",
+        "quote": "国立研究開発法人宇宙航空研究開発機構とスパークス・イノベーション・フォー・フューチャー株式会社との連携"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Operated as a fund within SPARX Asset Management / SPARX Group; classified as VC with cvc-like corporate-LP structure. USD conversions null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "jp-frontier-innovations",
+    "name": { "en": "Frontier Innovations Inc.", "local": "Frontier Innovations株式会社（フロンティア イノベーションズ）" },
+    "aka": ["Frontier Innovations", "フロンティア・イノベーションズ"],
+    "type": "vc",
+    "subtypes": ["deeptech"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo (Chuo, Nihonbashi Muromachi)",
+    "website": "https://www.frontier-innovations.jp/",
+    "links": {
+      "crunchbase": "",
+      "other": ["https://startup-db.com/investment-companies/OlBVGEVUxv1p5WqM", "https://www.jaxa.jp/press/2024/06/20240614-1_j.html", "https://lab.ntvhd.co.jp/topics/2025/10/frontier-innovations.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Frontier Innovations 1号投資事業有限責任組合", "vintage_year": 2024, "size": { "raw": null, "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["spacetech", "deeptech", "ai-ml", "robotics", "climate-energy", "cybersecurity"],
+      "thesis": "Independent lead/hands-on VC for seed and early-stage deep-tech ventures spanning space, AI, robotics, climate tech, defense/security tech and hardware. First fund in Japan to take an anchor LP investment from JAXA (and first ever LP investment by a Japanese national R&D institution). 15-year fund life to suit long deep-tech timelines; targets ~20–30 portfolio companies."
+    },
+    "track_record": {
+      "portfolio_count": 6,
+      "co_investors": ["JAXA", "Sumitomo Mitsui Banking Corporation", "Mitsui Fudosan", "Development Bank of Japan", "Incubate Fund", "Nippon Television"]
+    },
+    "people": [
+      { "name": "Tatsuhiko Nishimura (西村竜彦)", "role": "Representative Director & General Partner" },
+      { "name": "Toyo Hamano (浜野豊)", "role": "General Partner" },
+      { "name": "Satoshi Yuda (湯田聡)", "role": "General Partner / Legal Officer" }
+    ],
+    "application": {
+      "accepts_cold_inbound": null,
+      "contact": "https://www.frontier-innovations.jp/"
+    },
+    "tags": ["space", "spacetech", "defense-tech", "dual-use", "deeptech", "jaxa-anchored"],
+    "summary": {
+      "en": "Independent Tokyo deep-tech VC founded in 2024 by a team from INCJ with lead-investment experience across five listed space startups. Its first fund (15-year life) is the first in Japan to receive an anchor LP investment from JAXA, and targets seed/early deep tech across space, AI, robotics, climate, defense/economic-security and hardware. Other LPs include SMBC, Mitsui Fudosan, DBJ, Incubate Fund and Nippon TV; plans ~20–30 investments.",
+      "local": "2024年設立の独立系ディープテックVC。INCJ出身チームが組成し、上場宇宙スタートアップ5社へのリード投資経験を持つ。1号ファンド(15年)はJAXAから国内研究開発法人として初のLP出資を受け、宇宙・AI・ロボティクス・気候・防衛/経済安全保障・ハードウェアのシード/アーリーに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.jaxa.jp/press/2024/06/20240614-1_j.html",
+        "title": "Frontier Innovations 1号ファンドへの出資",
+        "publisher": "JAXA",
+        "accessed": "2026-06-03",
+        "supports": "Fund operator, CEO Nishimura, Chuo Tokyo HQ, 15-year life, seed/early focus, LPs (SMBC, Mitsui Fudosan, DBJ, Incubate Fund), Japan-first national-R&D-institution LP",
+        "quote": "Frontier Innovations 1号投資事業有限責任組合 … 15年（最大3年間の延長期間を含む） … 研究開発法人として国内初の事例"
+      },
+      {
+        "url": "https://startup-db.com/investment-companies/OlBVGEVUxv1p5WqM",
+        "title": "Frontier Innovations | STARTUP DB",
+        "publisher": "STARTUP DB",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2024, HQ Nihonbashi Muromachi Chuo Tokyo, 6 portfolio companies, key people Nishimura/Hamano/Yuda, independent VC",
+        "quote": "2024 (3年目) … 東京都中央区日本橋室町 … 6 … 西村竜彦 … 浜野豊 … 湯田聡 … 独立系VC"
+      },
+      {
+        "url": "https://lab.ntvhd.co.jp/topics/2025/10/frontier-innovations.html",
+        "title": "Frontier Innovationsの「宇宙ファンド」への出資について",
+        "publisher": "Nippon Television (日テレ共創ラボ)",
+        "accessed": "2026-06-03",
+        "supports": "Nippon TV LP; space + non-space deep tech incl. defense/security; ~20-30 target companies; five listed space startups track record",
+        "quote": "宇宙、AI、ロボティクス、気候テック、防衛テック（安全保障・経済安全保障） … シード・アーリーステージ … 上場宇宙スタートアップ5社"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size and JAXA commitment amount not disclosed in public sources (set null). Portfolio count from StartupDB free view (6); target 20-30 from Nikkei/NTV coverage.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "jp-inclusion-japan",
+    "name": { "en": "Inclusion Japan, Inc. (ICJ)", "local": "インクルージョン・ジャパン株式会社" },
+    "aka": ["ICJ", "Inclusion Japan"],
+    "type": "vc",
+    "subtypes": ["deeptech"],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo (Shinagawa)",
+    "website": "https://inclusionjapan.com/",
+    "links": {
+      "other": ["https://startup-db.com/investment-companies/dYj8JyYUD4vJOxDr", "https://initial.inc/investors/V07916", "https://www.nikkei.com/article/DGXZQOUB2952B0Z20C23A9000000/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "ICJ 1号ファンド", "vintage_year": 2014, "size": { "raw": null, "usd": null, "currency": "JPY" } },
+        { "name": "ICJ 2号ファンド", "vintage_year": 2023, "size": { "raw": "66億円 (6.6 billion yen; >20x Fund 1)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["spacetech", "deeptech", "climate-energy", "ai-ml"],
+      "thesis": "Independent deep-tech VC investing in decarbonization and space; matches its domestic corporate LPs (Mitsubishi UFJ Bank/Trust, Tokyo Gas, Kansai Electric) with startups that can shape global rules. Lead investor in rocket startup AstroX; backs JAXA-certified satellite-data startup Tenchijin."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "AstroX", "sector": "spacetech", "outcome": "active" },
+        { "company": "Tenchijin (天地人)", "sector": "spacetech", "outcome": "active" }
+      ],
+      "co_investors": ["Nissay Capital", "ANOBAKA", "Mitsubishi UFJ Capital", "United", "G-STARTUP"]
+    },
+    "application": {
+      "accepts_cold_inbound": null,
+      "contact": "https://inclusionjapan.com/"
+    },
+    "tags": ["space", "spacetech", "deeptech", "decarbonization", "rocket"],
+    "summary": {
+      "en": "Tokyo independent deep-tech VC (founded 2011) focused on decarbonization and space. Its 2nd fund closed at 6.6 billion yen in 2023 (>20x Fund 1) with LPs including Mitsubishi UFJ Bank/Trust, Tokyo Gas and Kansai Electric. Lead investor in balloon-launch rocket startup AstroX and backer of JAXA-certified satellite-data startup Tenchijin.",
+      "local": "2011年設立の独立系ディープテックVC。脱炭素と宇宙開発に注力。2号ファンドは2023年に66億円(1号の20倍超)で組成、三菱UFJ銀行・東京ガス・関西電力等が出資。ロケットのAstroXにリード出資、衛星データの天地人にも投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.nikkei.com/article/DGXZQOUB2952B0Z20C23A9000000/",
+        "title": "独立系VC「ICJ」が2号ファンド、三菱UFJなど66億円出資",
+        "publisher": "Nikkei",
+        "accessed": "2026-06-03",
+        "supports": "Fund 2 size 66億円 (>20x Fund 1); LPs Mitsubishi UFJ Bank/Trust, Tokyo Gas, Kansai Electric; decarbonization + space focus",
+        "quote": "2号ファンドを総額66億円で組成 … 1号ファンドの20倍超 … 三菱UFJ銀行や三菱UFJ信託銀行、東京ガス、関西電力 … 脱炭素や宇宙開発などの分野に投資"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000014.000101722.html",
+        "title": "AstroX、プレシリーズAラウンドにて４億円の資金調達を実施",
+        "publisher": "PR TIMES / AstroX",
+        "accessed": "2026-06-03",
+        "supports": "Inclusion Japan is lead investor in rocket startup AstroX pre-Series A (4億円 round)",
+        "quote": "インクルージョン•ジャパン株式会社 … 本ラウンドにおける投資家一覧"
+      },
+      {
+        "url": "https://inclusionjapan.com/",
+        "title": "ICJ（インクルージョン・ジャパン）",
+        "publisher": "Inclusion Japan",
+        "accessed": "2026-06-03",
+        "supports": "Space portfolio Tenchijin (JAXA-certified); Kansai Electric LP",
+        "quote": "天地人 … 関西電力"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded-year 2011 from search-engine summary of corporate registry; HQ Shinagawa likewise. Fund 1 size not disclosed (null). USD null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "jp-mirai-sozo-investments",
+    "name": { "en": "Mirai Sozo Investments, Inc.", "local": "株式会社みらい創造インベストメンツ" },
+    "aka": ["Mirai Souzou Investments", "みらい創造機構", "Mirai Creation Organization"],
+    "type": "vc",
+    "subtypes": ["deeptech"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo (Minato)",
+    "website": "https://miraisozo.co.jp/",
+    "links": {
+      "other": ["https://miraisozo.co.jp/vc/miraisouzo3fund/", "https://www.nikkei.com/article/DGXZQOUC261GD0W5A221C2000000/", "https://www.jst.go.jp/program/startupkikin/files/deeptech/pr_miraisozo.pdf"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "みらい創造三号投資事業有限責任組合 (Fund 3)", "vintage_year": 2025, "size": { "raw": "総額60億円（最大80億円） (target 6 billion yen; up to 8 billion yen)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["deeptech", "spacetech", "hardware-semiconductor", "robotics", "biotech", "climate-energy"],
+      "thesis": "Academia-originated deep-tech VC affiliated with Institute of Science Tokyo (formerly Tokyo Tech). Invests in seed/early startups across GX, life sciences, space, semiconductors and robotics from research seeds. Fund 3 (2025) backed by Tokyo Metropolitan Government and regional financial institutions."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Synspective", "sector": "spacetech", "outcome": "IPO" },
+        { "company": "QD Laser", "sector": "hardware-semiconductor", "outcome": "IPO" }
+      ],
+      "co_investors": ["Tokyo Metropolitan Government"]
+    },
+    "people": [
+      { "name": "Yuki Okada (岡田祐之)", "role": "CEO" },
+      { "name": "Daisuke Kaneko (金子大輔)", "role": "Managing Director" }
+    ],
+    "application": {
+      "accepts_cold_inbound": null,
+      "contact": "https://miraisozo.co.jp/"
+    },
+    "tags": ["space", "spacetech", "deeptech", "university-origin", "semiconductor", "robotics"],
+    "summary": {
+      "en": "Academia-originated deep-tech VC (founded 2014) affiliated with Institute of Science Tokyo (former Tokyo Tech). Invests in seed/early startups across GX, life sciences, space, semiconductors and robotics. IPO track record includes SAR-satellite maker Synspective and laser maker QD Laser. Fund 3 (Dec 2025) targets 6 billion yen (up to 8 billion) with Tokyo Metropolitan Government and regional banks as LPs.",
+      "local": "2014年設立、東京科学大学(旧東工大)系のディープテックVC。GX・ライフサイエンス・宇宙・半導体・ロボティクスのシード/アーリーに投資。Synspective・QDレーザ等の上場実績。3号ファンド(2025年12月)は総額60億円(最大80億円)、東京都等が出資。"
+    },
+    "sources": [
+      {
+        "url": "https://miraisozo.co.jp/vc/miraisouzo3fund/",
+        "title": "みらい創造3号ファンドを設立",
+        "publisher": "Mirai Sozo Investments",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2014; HQ Minato Tokyo; Fund 3 size 60億円(max 80億円) Dec 2025; LP Tokyo Metropolitan Govt + shinkin banks; Synspective/QD Laser IPOs; people Okada/Kaneko; space/semiconductor/robotics focus",
+        "quote": "総額60億円（最大：80億円） … 2025年12月 … 宇宙、半導体、ロボティクス … Synspective、QDレーザ … 東京都 … 2014年の設立以来"
+      },
+      {
+        "url": "https://www.nikkei.com/article/DGXZQOUC261GD0W5A221C2000000/",
+        "title": "東京科学大系VCのみらい創造、3号ファンド設立 東京都が出資",
+        "publisher": "Nikkei",
+        "accessed": "2026-06-03",
+        "supports": "Tokyo Science University-affiliated VC; Tokyo Metropolitan Government LP",
+        "quote": "東京科学大系VCのみらい創造、3号ファンド設立 東京都が出資"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Space exposure is one of several deep-tech sectors (not space-exclusive); included for niche space/deep-tech relevance (Synspective lead). USD null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "jp-ksk-angel-fund",
+    "name": { "en": "KSK Angel Fund LLC", "local": "KSK Angel Fund合同会社" },
+    "aka": ["KSK Angel Fund", "X&KSK", "X& Management Japan"],
+    "type": "angel-syndicate",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo (Minato, Akasaka)",
+    "website": "https://keisuke-honda.com/investor",
+    "links": {
+      "other": ["https://initial.inc/investors/V10871", "https://startup-db.com/companies/5DOdGA1UYqeGR0eM", "https://prtimes.jp/main/html/rd/p/000000002.000151597.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "X&KSK (X& Management Japan)", "vintage_year": 2024, "size": { "raw": "約153億円 (approx. 15.3 billion yen raised)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "~5–10 million yen per company (early KSK Angel Fund checks)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["spacetech", "deeptech", "ai-ml", "fintech"],
+      "thesis": "Angel/early fund of footballer-entrepreneur Keisuke Honda investing broadly across AI, deep tech, fintech, sports tech and the space industry. Backed space optical-relay-satellite startup WARPSPACE; the larger X&KSK vehicle (~15.3 billion yen) continues frontier-tech investing."
+    },
+    "track_record": {
+      "portfolio_count": "180+ (3 IPOs as of Feb 2023)",
+      "notable_investments": [
+        { "company": "WARPSPACE", "sector": "spacetech", "outcome": "active" }
+      ],
+      "co_investors": ["SPARX Space Frontier Fund", "SMBC Venture Capital"]
+    },
+    "people": [
+      { "name": "Keisuke Honda (本田圭佑)", "role": "Founder / Co-Founder & General Partner" },
+      { "name": "Kohei Yamamoto", "role": "Managing Partner (X&KSK)" }
+    ],
+    "application": {
+      "accepts_cold_inbound": null,
+      "contact": "https://keisuke-honda.com/investor"
+    },
+    "tags": ["space", "spacetech", "angel", "deeptech", "sports-tech"],
+    "summary": {
+      "en": "Angel/early-stage fund founded by footballer Keisuke Honda in 2016, investing broadly across AI, deep tech, fintech, sports tech and space. Early checks ~5–10 million yen; 180+ portfolio companies with 3 IPOs as of Feb 2023. Backed space optical-relay-satellite maker WARPSPACE. The successor X&KSK vehicle (X& Management Japan) raised approximately 15.3 billion yen.",
+      "local": "サッカー選手・本田圭佑が2016年に設立したエンジェル/アーリーファンド。AI・ディープテック・フィンテック・スポーツテック・宇宙に幅広く投資。光中継衛星のワープスペースにも出資。後継のX&KSKは約153億円を調達。"
+    },
+    "sources": [
+      {
+        "url": "https://startup-db.com/companies/5DOdGA1UYqeGR0eM",
+        "title": "KSK Angel Fund | STARTUP DB",
+        "publisher": "STARTUP DB",
+        "accessed": "2026-06-03",
+        "supports": "Founded Aug 2016; ~5-10M yen checks; space among focus sectors; 180 investments / 3 IPOs by Feb 2023",
+        "quote": "2016年8月 … 5〜10百万円 … 宇宙産業 … 180 … 3 IPO"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000002.000151597.html",
+        "title": "本田圭佑が率いるベンチャーキャピタルX&KSK、総額約153億円の資金調達を完了",
+        "publisher": "PR TIMES / X& Management Japan",
+        "accessed": "2026-06-03",
+        "supports": "X&KSK ~15.3 billion yen; HQ Akasaka Minato; people Honda/Yamamoto; LPs SMBC, SBI, GMO",
+        "quote": "約153億円の資金調達を実施 … 東京都港区赤坂 … 本田圭佑 … 三井住友銀行 … SBI"
+      },
+      {
+        "url": "https://sorabatake.jp/19759/",
+        "title": "ワープスペースが本田圭佑氏が立ち上げたVCらから4億円を調達",
+        "publisher": "Sorabatake (宙畑)",
+        "accessed": "2026-06-03",
+        "supports": "KSK Angel Fund invested in space startup WARPSPACE (4億円 round)",
+        "quote": "本田圭佑氏が立ち上げたVCらから4億円を調達 … 小型光中継衛星"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Generalist angel fund with genuine space exposure (WARPSPACE). Relationship between KSK Angel Fund and X&KSK (X& Management Japan) is successor/affiliated vehicle; figures attributed to each as sourced. USD null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "jp-mol-plus",
+    "name": { "en": "MOL PLUS Co., Ltd.", "local": "株式会社MOL PLUS" },
+    "aka": ["MOL PLUS", "Mitsui O.S.K. Lines CVC"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://mol-plus.com/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000031.000080050.html", "https://space-connect.jp/mol-isc", "https://www.kaijipress.com/news/shipping/2025/04/192425/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["spacetech", "mobility", "logistics", "climate-energy"],
+      "thesis": "Corporate VC of shipping major Mitsui O.S.K. Lines, focused on the blue economy and ocean/marine adjacencies. Invests in space transportation startups pursuing offshore rocket launch and recovery, leveraging MOL's maritime operations."
+    },
+    "track_record": {
+      "portfolio_count": "27 (23 startups + 4 funds, as of Apr 2025)",
+      "notable_investments": [
+        { "company": "Future Space Transportation Systems (将来宇宙輸送システム)", "sector": "spacetech", "outcome": "active" }
+      ]
+    },
+    "application": {
+      "accepts_cold_inbound": null,
+      "contact": "https://mol-plus.com/"
+    },
+    "tags": ["space", "spacetech", "cvc", "space-transport", "blue-economy", "maritime"],
+    "summary": {
+      "en": "CVC of shipping giant Mitsui O.S.K. Lines (founded 2021), centered on the blue/ocean economy. By April 2025 it had backed 27 entities (23 startups + 4 funds). It invested in rocket startup Future Space Transportation Systems, collaborating on offshore rocket launch and recovery with demonstration targeted in the 2030s.",
+      "local": "商船三井のCVC(2021年設立)。ブルーエコノミー/海洋領域に注力し、2025年4月時点で27社(スタートアップ23社+ファンド4本)に出資。ロケットの将来宇宙輸送システムに出資し、ロケットの洋上発射・回収で連携。"
+    },
+    "sources": [
+      {
+        "url": "https://www.kaijipress.com/news/shipping/2025/04/192425/",
+        "title": "スタートアップ・ファンド27社に出資 商船三井CVC子会社MOL PLUS、設立から4年で",
+        "publisher": "Kaiji Press",
+        "accessed": "2026-06-03",
+        "supports": "27 portfolio (23 startups + 4 funds) as of Apr 2025; founded ~2021 (4 years)",
+        "quote": "スタートアップ・ファンド27社に出資 … 設立から4年で"
+      },
+      {
+        "url": "https://space-connect.jp/mol-isc",
+        "title": "商船三井グループ、将来宇宙輸送システムへ追加出資｜ロケット洋上発射・回収で連携",
+        "publisher": "SPACE CONNECT",
+        "accessed": "2026-06-03",
+        "supports": "MOL PLUS invested in rocket startup Future Space Transportation Systems; offshore launch/recovery collaboration; demo in 2030s",
+        "quote": "将来宇宙輸送システムへ … ロケット洋上発射・回収で連携"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Space is one of several MOL PLUS verticals (blue economy is core); included for verified space-transport investment. Fund size not disclosed; founded-year inferred from '設立から4年' as of 2025. USD null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "jp-geodesic-alliance-fund",
+    "name": { "en": "Geodesic Alliance Fund (Geodesic Capital)", "local": "ジオデシック・アライアンス・ファンド（ジオデシック・キャピタル）" },
+    "aka": ["Geodesic Alliance Fund", "Geodesic Capital", "ジオデシック・キャピタル"],
+    "type": "vc",
+    "subtypes": ["deeptech"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "japan",
+    "country": "United States",
+    "hq_city": "Foster City, California (with Japan operations)",
+    "website": "https://www.geodesiccap.com/ja/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000002.000128532.html", "https://jpn.nec.com/press/202504/20250424_01.html", "https://geodesicjapan.jp/about/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Geodesic Alliance Fund", "vintage_year": 2025, "size": { "raw": "$250 million (約387億円, initial close)", "usd": 250000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "United States"],
+      "sector_focus": ["spacetech", "cybersecurity", "ai-ml", "deeptech"],
+      "thesis": "Described as the first Japan-US security-focused fund: invests in dual-use deep tech that strengthens the Japan-US alliance — AI, space, cybersecurity, autonomous technology and other national-security tech. LPs include major Japanese enterprises and government-affiliated institutions (NEC; JBIC reported)."
+    },
+    "track_record": {
+      "co_investors": ["NEC", "JBIC"]
+    },
+    "people": [
+      { "name": "John V. Roos (ジョン・ルース)", "role": "Founding Partner (former US Ambassador to Japan)" },
+      { "name": "Tom Gillespie", "role": "Partner (former Managing Partner, In-Q-Tel)" },
+      { "name": "Raif Gaspar-Asaoka", "role": "Partner (former Canaan Partners)" }
+    ],
+    "application": {
+      "accepts_cold_inbound": null,
+      "contact": "https://www.geodesiccap.com/ja/"
+    },
+    "tags": ["defense-tech", "dual-use", "national-security", "space", "spacetech", "cybersecurity", "japan-us"],
+    "summary": {
+      "en": "Geodesic Capital (founded by former US Ambassador to Japan John Roos) launched the Geodesic Alliance Fund in June 2025 — reported as the first Japan-US security-focused fund — completing an initial $250 million (approx. 38.7 billion yen) close. It invests in dual-use deep tech (AI, space, cybersecurity, autonomous tech) strengthening Japan-US security, with LPs including NEC and (reported) JBIC. Led by ex-In-Q-Tel and ex-Canaan partners.",
+      "local": "元駐日米国大使ジョン・ルース氏のGeodesic Capitalが2025年6月に「Geodesic Alliance Fund」を組成。初回で2.5億ドル(約387億円)を調達した日米安保特化型ファンドで、AI・宇宙・サイバー・自律技術等のデュアルユース深技術に投資。NEC・JBIC等が出資。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000002.000128532.html",
+        "title": "Geodesic Capital、日米の技術・安全保障協力を深化させる新ファンド「Geodesic Alliance Fund」の初回資金調達の完了を発表",
+        "publisher": "PR TIMES / Geodesic Capital",
+        "accessed": "2026-06-03",
+        "supports": "Fund name; $250M initial close 2025; focus AI/space/cyber/autonomous dual-use national security; people Roos/Gillespie/Gaspar-Asaoka",
+        "quote": "Geodesic Alliance Fund … 2.5億ドル … AI、宇宙、サイバーセキュリティ、自律 … デュアルユース … ジョン・ルース … Tom Gillespie … In-Q-Tel"
+      },
+      {
+        "url": "https://jpn.nec.com/press/202504/20250424_01.html",
+        "title": "NEC、米ベンチャーファンド「Geodesic Alliance Fund」に出資",
+        "publisher": "NEC",
+        "accessed": "2026-06-03",
+        "supports": "NEC LP; economic-security focus incl. space, submarine cables, cyber, defense",
+        "quote": "Geodesic Alliance Fund … 宇宙、海底ケーブル、サイバーセキュリティ、防衛"
+      },
+      {
+        "url": "https://www.nikkei.com/article/DGXZQOGN0503I0V00C25A6000000/",
+        "title": "初の日米安保特化型ファンド、ジョン・ルース元駐日米国大使のVCが設立",
+        "publisher": "Nikkei",
+        "accessed": "2026-06-03",
+        "supports": "First Japan-US security-focused fund; ~36 billion yen raise; AI/space dual-use; JBIC and NEC LPs",
+        "quote": "初の日米安保特化型ファンド … 約360億円を調達 … 民生・軍事両用技術 … 国際協力銀行（JBIC）やNEC"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "GP Geodesic Capital is US-based (country=United States) but fund is explicitly Japan-focused with Japanese LPs; included as a Japan-relevant defense/dual-use investor. Reported raise figures vary: $250M (PR TIMES initial close) vs ~360億円 target (Nikkei) — both quoted. USD set to 250,000,000 for the sourced initial close.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "jp-jaxa-space-strategy-fund",
+    "name": { "en": "JAXA Space Strategy Fund", "local": "宇宙戦略基金（JAXA）" },
+    "aka": ["Space Strategy Fund", "SSF", "宇宙戦略基金"],
+    "type": "government-program",
+    "status": "active",
+    "founded_year": 2023,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo / Chofu",
+    "website": "https://fund.jaxa.jp/",
+    "links": {
+      "other": ["https://fund.jaxa.jp/about/", "https://sorabatake.jp/36530/", "https://fund.jaxa.jp/content/uploads/Overview_of_The_SpaceStrategy_Fund.pdf"]
+    },
+    "capital": {
+      "aum": { "raw": "10年で総額1兆円規模 (approx. 1 trillion yen over 10 years)", "usd": null, "currency": "JPY" }
+    },
+    "strategy": {
+      "stages": ["all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["spacetech", "deeptech"],
+      "thesis": "National 10-year, ~1 trillion yen fund operated by JAXA across three ministries (MEXT, MIC, METI) plus Cabinet Office. Provides non-dilutive grant funding (up to full project cost) to startups, companies and universities developing space technologies in transportation, satellites and exploration."
+    },
+    "program": {
+      "format": "Public calls (公募) by technology theme",
+      "investment": { "raw": "1兆円規模 over 10 years; Phase 1 totaled 3,000億円 (MIC 240億, MEXT 1,500億, METI 1,260億)", "usd": null, "currency": "JPY" },
+      "demo_day": null,
+      "application_url": "https://fund.jaxa.jp/",
+      "application_cycles": ["Rolling public calls by theme (第一期/第二期/第三期)"],
+      "eligibility": "Private companies (incl. startups), universities and research institutions developing space-related technologies"
+    },
+    "track_record": {
+      "portfolio_count": "Phase 1 ~50 adoptions (space startups centric); Phase 2 expanded to ~140",
+      "notable_investments": [
+        { "company": "Various (e.g. lunar landers, debris mitigation) – up to 388億円 to 16 startups in one call", "sector": "spacetech", "outcome": "active" }
+      ]
+    },
+    "application": {
+      "how_to_apply": "Respond to JAXA Space Strategy Fund public calls (公募) for specific technology development themes",
+      "accepts_cold_inbound": true,
+      "contact": "https://fund.jaxa.jp/"
+    },
+    "tags": ["space", "spacetech", "government", "grant", "non-dilutive", "jaxa"],
+    "summary": {
+      "en": "Japan's national Space Strategy Fund operated by JAXA: a 10-year, ~1 trillion yen pool (Phase 1 = 3,000 billion yen across MIC/MEXT/METI) providing non-dilutive grants (up to full project cost) to startups, companies and universities in space transportation, satellites and exploration. Phase 1 adopted ~50 themes (startup-centric); Phase 2 expanded to ~140 including large corporates.",
+      "local": "JAXAが運営する国家プロジェクト「宇宙戦略基金」。10年・総額1兆円規模(第1期は総務240億・文科1,500億・経産1,260億の計3,000億円)で、輸送・衛星・探査分野のスタートアップ・企業・大学に最大全額の非希薄化補助。第1期は約50件、第2期は約140件へ拡大。"
+    },
+    "sources": [
+      {
+        "url": "https://sorabatake.jp/36530/",
+        "title": "「10年で1兆円」宇宙戦略基金を知る",
+        "publisher": "Sorabatake (宙畑) / Cabinet Office interview",
+        "accessed": "2026-06-03",
+        "supports": "10-year ~1 trillion yen; Phase 1 = 3,000億円 (MIC 240, MEXT 1,500, METI 1,260); 4 government bodies; Phase 1 ~50 / Phase 2 ~140 adoptions; full-cost grants",
+        "quote": "10年・総額1兆円規模 … 総務省が240億円、文部科学省が1,500億円、経済産業省が1,260億円 … 合計3,000億円 … 第1期 … 約50件 … 第2期 … 約140件 … 事業費の全額補助"
+      },
+      {
+        "url": "https://fund.jaxa.jp/",
+        "title": "JAXA宇宙戦略基金",
+        "publisher": "JAXA",
+        "accessed": "2026-06-03",
+        "supports": "Three domains (transport/satellites/exploration); managed by MIC/MEXT/METI; public calls; eligibility startups+companies+universities",
+        "quote": "宇宙輸送 … 衛星等 … 探査等 … 公募"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Non-dilutive grant program (government-program), not an equity investor, but central to Japan's space-startup capital landscape. USD conversions null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "jp-deloitte-tohmatsu-venture-support-space-security",
+    "name": { "en": "Deloitte Tohmatsu Venture Support — Space & Security", "local": "デロイト トーマツ ベンチャーサポート（Space & Security）" },
+    "aka": ["DTVS", "Deloitte Tohmatsu Space & Security", "デロイト トーマツ ベンチャーサポート"],
+    "type": "accelerator",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www2.deloitte.com/jp/ja/pages/about-deloitte/articles/dtvs/dtvs.html",
+    "links": {
+      "other": ["https://morningpitch.com/innovation_trend/30033/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Japan"],
+      "sector_focus": ["spacetech", "deeptech", "cybersecurity"],
+      "thesis": "Open-innovation and startup-support arm of Deloitte Tohmatsu; established a dedicated Space & Security division in March 2023 to support deep-tech open innovation across the space and security/defense domains, connecting startups with corporates and government."
+    },
+    "track_record": {},
+    "program": {
+      "format": "Open-innovation / accelerator support (incl. Morning Pitch ecosystem)",
+      "demo_day": null
+    },
+    "application": {
+      "how_to_apply": "Engage via Deloitte Tohmatsu Venture Support open-innovation / Morning Pitch programs",
+      "accepts_cold_inbound": null,
+      "contact": "https://www2.deloitte.com/jp/ja/pages/about-deloitte/articles/dtvs/dtvs.html"
+    },
+    "tags": ["space", "spacetech", "security", "defense", "open-innovation", "accelerator"],
+    "summary": {
+      "en": "Startup-support / open-innovation arm of Deloitte Tohmatsu that set up a dedicated Space & Security division in March 2023, supporting deep-tech open innovation across space and security/defense and connecting startups with corporates and government (via the Morning Pitch ecosystem it co-runs).",
+      "local": "デロイト トーマツのスタートアップ支援組織。2023年3月に宇宙・安全保障領域専門の「Space & Security」部門を設立し、宇宙・セキュリティ/防衛分野のディープテック・オープンイノベーションを支援。Morning Pitch等を通じスタートアップと企業/政府をつなぐ。"
+    },
+    "sources": [
+      {
+        "url": "https://morningpitch.com/innovation_trend/30033/",
+        "title": "【防衛特集】政府がスタートアップとのマッチングを推進",
+        "publisher": "Morning Pitch / Nomura Securities",
+        "accessed": "2026-06-03",
+        "supports": "Deloitte Tohmatsu Space & Security division established March 2023; supports space & security open innovation / deep tech",
+        "quote": "デロイト トーマツ ベンチャーサポート … 2023年3月 … 宇宙・安全保障 … ディープテックのオープンイノベーションを支援"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Primarily an open-innovation/accelerator-style support organization rather than a fund; included for niche space+security focus. Single secondary source; no fund economics. Founded-year is the Space & Security division (2023), not the parent.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  }
+]

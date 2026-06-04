@@ -1,0 +1,786 @@
+[
+  {
+    "id": "sea-init-6",
+    "name": { "en": "Init-6", "local": "Init-6" },
+    "aka": ["Init 6", "init6"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "hq_city": "Jakarta",
+    "website": "https://init-6.fund/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/init-6",
+      "crunchbase": "https://www.crunchbase.com/organization/init-6",
+      "other": ["https://tracxn.com/d/venture-capital/init-6/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "~$1.8M avg seed round", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Indonesia", "Singapore"],
+      "sector_focus": ["saas-enterprise", "deeptech", "ai-ml"],
+      "thesis": "Early-stage fund founded by the technical co-founders of Bukalapak that backs technical founders with a passion to solve big problems; notable bet on Indonesian cloud-hosting infrastructure (IDCloudHost)."
+    },
+    "track_record": {
+      "portfolio_count": 14,
+      "notable_investments": [
+        { "company": "IDCloudHost", "sector": "cloud infrastructure / hosting", "outcome": "active" },
+        { "company": "Listee", "sector": "saas", "outcome": "active" },
+        { "company": "Skorlife", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Achmad Zaky", "role": "Founding Partner (ex-CEO Bukalapak)" },
+      { "name": "Nugroho Herucahyono (Xinuc)", "role": "Founding Partner (ex-CTO Bukalapak)" }
+    ],
+    "application": { "how_to_apply": "Via website / direct contact", "accepts_cold_inbound": null },
+    "tags": ["technical-founders", "cloud", "indonesia", "bukalapak-mafia"],
+    "summary": {
+      "en": "Indonesian early-stage VC launched in 2020 by Bukalapak's technical co-founders Achmad Zaky and Nugroho Herucahyono; backs technical founders, including a US$5M investment in cloud-hosting provider IDCloudHost.",
+      "local": "Dana ventura tahap awal asal Indonesia yang didirikan tahun 2020 oleh co-founder teknis Bukalapak; mendukung founder teknis termasuk investasi US$5 juta di penyedia cloud hosting IDCloudHost."
+    },
+    "sources": [
+      {
+        "url": "https://www.dealstreetasia.com/stories/indonesia-idcloudhost-init-6-233083",
+        "title": "Indonesia's IDCloudHost bags $5m funding from local VC Init 6",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-03",
+        "supports": "IDCloudHost US$5M investment; cloud-hosting focus",
+        "quote": "IDCloudHost has received US$5 million in funding from Init 6, a venture capital firm headed by founding partner Achmad Zaky."
+      },
+      {
+        "url": "https://tracxn.com/d/venture-capital/init-6/__jus83b8CbmE4yWN-_-E1777-vjZPAaf_xGNTInsfA6M",
+        "title": "init 6 - Investor Profile, Portfolio, Team",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-03",
+        "supports": "Founded early 2020 by Achmad Zaky and Nugroho Herucahyono; 14 portfolio companies; seed/Series A; IDCloudHost in portfolio",
+        "quote": "Init 6 has a portfolio of 14 companies and has invested in Enterprise Applications, Retail, Consumer ... Their most notable investments are in Listee and IDCloudHost."
+      },
+      {
+        "url": "https://init-6.fund/",
+        "title": "Init-6",
+        "publisher": "Init-6",
+        "accessed": "2026-06-03",
+        "supports": "Founders, thesis (technical founders), Jakarta/Indonesia base"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund size and check size not publicly disclosed; founding year (early 2020) per Tracxn. Cloud-infra nexus rests primarily on the IDCloudHost investment plus a technical-founder thesis.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "sea-qualgro",
+    "name": { "en": "Qualgro Partners", "local": "Qualgro Partners" },
+    "aka": ["Qualgro"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://qualgro.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/qualgro-partners",
+      "other": ["https://www.dealstreetasia.com/stories/singapore-qualgro-asean-focused-fund-spins-gordian-capital-platform-75773"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "Qualgro Fund I", "vintage_year": 2015, "size": { "raw": "$50M", "usd": 50000000, "currency": "USD" } },
+        { "name": "Qualgro Fund II", "vintage_year": 2019, "size": { "raw": "$100M (first close)", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Southeast Asia", "Australia", "New Zealand"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "cybersecurity"],
+      "thesis": "Series A/B specialist backing B2B companies in Data and SaaS with regional or global growth potential; explicit focus on AI, data security and analytics."
+    },
+    "track_record": {
+      "portfolio_count": "19+",
+      "notable_investments": [
+        { "company": "PatSnap", "sector": "R&D / data analytics", "outcome": "unicorn" },
+        { "company": "Appier", "sector": "AI / data", "outcome": "IPO" },
+        { "company": "ShopBack", "sector": "ecommerce / data", "outcome": "active" },
+        { "company": "Funding Societies", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Via website", "accepts_cold_inbound": null },
+    "tags": ["b2b", "data", "saas", "analytics", "series-a-b"],
+    "summary": {
+      "en": "Singapore-based Series A/B VC investing exclusively in B2B Data and SaaS companies across Southeast Asia, Australia and New Zealand; Fund I (2015, $50M) and Fund II (2019, $100M) targeting AI, data security and analytics.",
+      "local": "Pengurus dana modal teroka berpangkalan di Singapura yang melabur secara eksklusif dalam syarikat Data dan SaaS B2B di Asia Tenggara, Australia dan New Zealand."
+    },
+    "sources": [
+      {
+        "url": "https://qualgro.com/",
+        "title": "Venture Capital Firm In Singapore | VC Funds For Startups",
+        "publisher": "Qualgro",
+        "accessed": "2026-06-03",
+        "supports": "B2B Data & SaaS focus; Series A & B; Southeast Asia / ANZ geography; HQ Singapore",
+        "quote": "Qualgro is a venture capital firm based in Singapore, investing in B2B companies in Data and SaaS, with regional or global growth potential."
+      },
+      {
+        "url": "https://www.dealstreetasia.com/stories/singapore-qualgro-asean-focused-fund-spins-gordian-capital-platform-75773",
+        "title": "Singapore: Qualgro launches $50m+ ASEAN-focused venture capital fund",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-03",
+        "supports": "Fund I $50M; Fund II $100M; B2B focus in AI, data security and analytics, SaaS",
+        "quote": "Qualgro has completed the first close of its $100-million second fund. This fund follows its first fund of $50 million ... most of which were focused on the B2B segment in sectors such as AI, data security and analytics, and SaaS."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Current AUM and per-deal check size not disclosed on site; fund sizes per DealStreetAsia.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "sea-cocoon-capital",
+    "name": { "en": "Cocoon Capital", "local": "Cocoon Capital" },
+    "aka": ["Cocoon Cap"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://cocooncap.com/",
+    "links": {
+      "linkedin": "https://sg.linkedin.com/company/cocoon-capital",
+      "other": ["https://cocooncap.com/cocoon-capital-first-close-of-fund-iii/"]
+    },
+    "capital": {
+      "aum": { "raw": "more than US$90 million", "usd": 90000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund III", "vintage_year": 2025, "size": { "raw": "$50M target ($30M first close)", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "USD 500,000 to USD 1.5 million", "usd_min": 500000, "usd_max": 1500000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Southeast Asia"],
+      "sector_focus": ["saas-enterprise", "deeptech"],
+      "thesis": "Early-stage firm backing enterprise tech and deep tech startups across Southeast Asia from pre-seed/seed; leads every deal, takes a board seat and runs a 10-step technical diligence process."
+    },
+    "track_record": {
+      "portfolio_count": "30+",
+      "notable_investments": [
+        { "company": "TransTRACK", "sector": "logistics SaaS", "outcome": "active" },
+        { "company": "Augmentus", "sector": "robotics software", "outcome": "active" },
+        { "company": "Aprisium", "sector": "deep tech", "outcome": "active" },
+        { "company": "BuyMed", "sector": "healthtech", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Via website", "accepts_cold_inbound": null },
+    "tags": ["enterprise", "deeptech", "b2b", "seed", "lead-investor"],
+    "summary": {
+      "en": "Singapore early-stage VC (founded 2016) backing enterprise and deep tech B2B startups across Southeast Asia at pre-seed/seed with US$500K-1.5M checks; >US$90M AUM across three funds, Fund III targeting US$50M.",
+      "local": "Pemodal teroka peringkat awal di Singapura yang menyokong syarikat permulaan teknologi perusahaan dan deep tech B2B di seluruh Asia Tenggara."
+    },
+    "sources": [
+      {
+        "url": "https://cocooncap.com/",
+        "title": "Early-stage Investor in Southeast Asia | Cocoon Capital",
+        "publisher": "Cocoon Capital",
+        "accessed": "2026-06-03",
+        "supports": "Enterprise + deep tech focus; pre-seed/seed; Southeast Asia; HQ Singapore"
+      },
+      {
+        "url": "https://technode.global/2025/05/02/cocoon-capital-announces-first-close-of-50m-fund-iii-to-accelerate-southeast-asias-enterprise-and-deep-tech-startups/",
+        "title": "Cocoon Capital announces first close of $50M Fund III",
+        "publisher": "TNGlobal / TechNode",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2016; check size US$500K-1.5M; >US$90M AUM; Fund III $50M target, $30M first close; leads every deal",
+        "quote": "Cocoon Capital typically provides funding between USD 500,000 and USD 1.5 million at the pre-seed and seed stages ... Cocoon has more than USD 90 million assets under management across its three funds."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund III still raising toward $50M target as of 2025 first close.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "sea-forge-ventures",
+    "name": { "en": "Forge Ventures", "local": "Forge Ventures" },
+    "aka": ["Forge VC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.forge.vc/",
+    "links": {
+      "linkedin": "https://sg.linkedin.com/company/forgevc",
+      "other": ["https://www.dealstreetasia.com/stories/forge-ventures-debut-fund-2-319272"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "Forge Ventures Fund I", "vintage_year": null, "size": { "raw": "~$24M", "usd": 24000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Southeast Asia"],
+      "sector_focus": ["saas-enterprise", "fintech", "healthtech", "agritech"],
+      "thesis": "Pre-seed/seed lead investor in Southeast Asia with hands-on operational support; portfolio skews to enterprise applications and vertical SaaS."
+    },
+    "track_record": {
+      "portfolio_count": 11,
+      "notable_investments": [
+        { "company": "Baskit", "sector": "cloud-native B2B distribution SaaS", "outcome": "active" },
+        { "company": "Mito Health", "sector": "healthtech", "outcome": "active" },
+        { "company": "Prefer", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "team_size": 4,
+    "application": { "how_to_apply": "Via website", "accepts_cold_inbound": null },
+    "tags": ["seed", "vertical-saas", "enterprise", "lead-investor"],
+    "summary": {
+      "en": "Singapore pre-seed/seed VC that closed its ~US$24M debut fund (above a US$15-20M target), leading rounds across Southeast Asia with a portfolio weighted toward enterprise applications and vertical SaaS.",
+      "local": "Pemodal teroka peringkat pra-benih/benih di Singapura yang menutup dana sulungnya kira-kira US$24 juta, memimpin pusingan di seluruh Asia Tenggara."
+    },
+    "sources": [
+      {
+        "url": "https://www.dealstreetasia.com/stories/forge-ventures-debut-fund-2-319272",
+        "title": "Singapore's Forge Ventures closes debut fund above target at around $24m",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-03",
+        "supports": "Debut fund ~$24M, above $15-20M target; pre-seed/seed; Singapore; Southeast Asia",
+        "quote": "The firm closed its debut venture fund at $24 million, above the initial target of $15-20 million."
+      },
+      {
+        "url": "https://tracxn.com/d/venture-capital/forge-ventures/__zn0E6xS_5V5thSNOgaTm9E32guRJfUjuwCYaid30saw",
+        "title": "Forge Ventures - Investor Profile, Portfolio, Team",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-03",
+        "supports": "11 portfolio companies; Enterprise Applications and Vertical SaaS focus; 4-person team, 2 partners; Baskit/Mito Health/Prefer in portfolio",
+        "quote": "Forge Ventures has a diverse portfolio, with companies operating in Enterprise Applications, Consumer, Vertical SaaS, EdTech and Food and Agriculture."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year and per-deal check size not confirmed from primary sources; fund size per DealStreetAsia.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "sea-iterative",
+    "name": { "en": "Iterative", "local": "Iterative" },
+    "aka": ["Iterative Capital", "Iterative.vc"],
+    "type": "accelerator",
+    "subtypes": ["vc", "micro-vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.iterative.vc/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/iterative-capital-e970",
+      "other": ["https://www.iterative.vc/post/iterative-closes-55m-fund-ii-to-back-100-more-companies-with-up-to-500k-usd"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2020, "size": { "raw": "$10M", "usd": 10000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "$55M", "usd": 55000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "up to US$500K for 10-15% equity", "usd_min": 150000, "usd_max": 500000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Southeast Asia"],
+      "sector_focus": ["saas-enterprise", "fintech", "ai-ml", "generalist"],
+      "thesis": "YC-style accelerator for Southeast Asia run by Silicon Valley operators; strong B2B/SaaS lean, investing up to US$500K for 10-15% across two batches a year."
+    },
+    "program": {
+      "length_weeks": 12,
+      "batches_per_year": 2,
+      "equity_taken_pct": "10-15%",
+      "investment": { "raw": "up to $500K", "usd": 500000, "currency": "USD" },
+      "format": "hybrid",
+      "location": "Southeast Asia",
+      "demo_day": true,
+      "application_url": "https://www.iterative.vc/"
+    },
+    "track_record": {
+      "portfolio_count": "160+",
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Brian Ma", "role": "Co-founder (ex-Divvy Homes, Decide.com)" },
+      { "name": "Hsu Ken Ooi", "role": "Co-founder (ex-Workmate)" },
+      { "name": "Hsu Han Ooi", "role": "Co-founder" }
+    ],
+    "application": { "how_to_apply": "Apply to batch via website", "accepts_cold_inbound": true },
+    "tags": ["accelerator", "yc-style", "b2b", "saas", "founders-supporting-founders"],
+    "summary": {
+      "en": "YC-style Southeast Asia accelerator and early-stage VC founded in 2018 by Silicon Valley operators; invests up to US$500K for 10-15% across two batches per year, with a strong B2B/SaaS portfolio. Fund II is US$55M; 160+ companies backed.",
+      "local": "Pemecut gaya YC untuk Asia Tenggara yang diasaskan pada 2018 oleh operator Silicon Valley; melabur sehingga US$500K untuk 10-15% ekuiti."
+    },
+    "sources": [
+      {
+        "url": "https://www.iterative.vc/post/iterative-closes-55m-fund-ii-to-back-100-more-companies-with-up-to-500k-usd",
+        "title": "Iterative Closes $55M Fund II To Back 100+ More Companies With Up to $500K USD",
+        "publisher": "Iterative",
+        "accessed": "2026-06-03",
+        "supports": "Fund II $55M; up to $500K checks; 160+ companies; B2B/SaaS lean",
+        "quote": "Iterative Closes $55M Fund II To Back 100+ More Companies With Up to $500K USD"
+      },
+      {
+        "url": "https://techcrunch.com/2021/12/06/as-southeast-asia-start-to-boom-an-accelerator-backed-by-silicon-valley-execs-says-its-a-way-in/",
+        "title": "As Southeast Asia starts to boom, an accelerator backed by Silicon Valley execs jumps in",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2018; YC-style; up to US$500K for 10-15% equity; two batches/year; 3-month program",
+        "quote": "before the program begins, they invest in every selected company up to US$500K for 10-15% equity ... work with the founders closely on their idea for 3 months."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Classified as accelerator (primary) with VC subtype; sector lean is B2B/SaaS-heavy but generalist across batches.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "sea-january-capital",
+    "name": { "en": "January Capital", "local": "January Capital" },
+    "aka": [],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": null,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://www.january.capital/",
+    "links": {
+      "other": [
+        "https://www.january.capital/venturecapital",
+        "https://cfotech.asia/story/january-capital-closes-usd-130m-asia-pacific-tech-fund"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "Asia-Pacific tech fund", "vintage_year": null, "size": { "raw": "$130M", "usd": 130000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": "$0.5M-$2M initial, up to $25M from specialized pools", "usd_min": 500000, "usd_max": 25000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Asia-Pacific", "Southeast Asia"],
+      "sector_focus": ["saas-enterprise", "ecommerce"],
+      "thesis": "Multi-strategy firm combining early-stage venture equity with growth-stage credit for technology-enabled (largely B2B software) businesses across Asia-Pacific; >75% of investments are at the first institutional round."
+    },
+    "track_record": {
+      "portfolio_count": "60+",
+      "notable_investments": [
+        { "company": "Eezee", "sector": "B2B procurement SaaS", "outcome": "active" },
+        { "company": "aCommerce", "sector": "commerce enablement", "outcome": "active" },
+        { "company": "Desty", "sector": "ecommerce SaaS", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Via website", "accepts_cold_inbound": null },
+    "tags": ["b2b-software", "multi-strategy", "apac", "venture-credit"],
+    "summary": {
+      "en": "Singapore-based, Asia-Pacific multi-strategy firm pairing early-stage venture equity with growth-stage credit for technology-enabled (largely B2B software) companies; closed a US$130M APAC tech fund and has backed 60+ companies, writing $0.5M-$2M initial checks scaling up to $25M.",
+      "local": "Firma pelbagai strategi berpangkalan di Singapura yang menggabungkan ekuiti teroka peringkat awal dengan kredit peringkat pertumbuhan untuk syarikat berasaskan teknologi di Asia-Pasifik."
+    },
+    "sources": [
+      {
+        "url": "https://www.january.capital/venturecapital",
+        "title": "Venture Capital | January Capital",
+        "publisher": "January Capital",
+        "accessed": "2026-06-03",
+        "supports": "Multi-strategy (venture equity + growth credit); $0.5M-$2M initial, up to $25M; >75% first institutional round; 60+ companies; APAC/SEA focus",
+        "quote": "Their typical initial investment is from $0.5 million to $2 million, with the flexibility to deploy up to $25 million from specialized capital pools as companies scale."
+      },
+      {
+        "url": "https://cfotech.asia/story/january-capital-closes-usd-130m-asia-pacific-tech-fund",
+        "title": "January Capital closes USD $130m Asia-Pacific tech fund",
+        "publisher": "cfotech.asia",
+        "accessed": "2026-06-03",
+        "supports": "US$130M Asia-Pacific tech fund; Singapore base",
+        "quote": "January Capital closes USD $130m Asia-Pacific tech fund"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year and total AUM not confirmed; sector classification (B2B software / commerce SaaS) inferred from portfolio (Eezee, aCommerce, Desty, Ralali).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "sea-wavemaker-partners",
+    "name": { "en": "Wavemaker Partners", "local": "Wavemaker Partners" },
+    "aka": ["Wavemaker Ventures", "Wavemaker Group"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2003,
+    "region": "southeast-asia",
+    "country": "Singapore",
+    "hq_city": "Singapore",
+    "website": "https://wavemaker.vc/",
+    "offices": [
+      { "country": "Singapore", "city": "Singapore" },
+      { "country": "United States", "city": "Los Angeles" }
+    ],
+    "links": {
+      "linkedin": "https://sg.linkedin.com/company/wavemakerpartners",
+      "other": ["https://wavemakerpartners.com/", "https://wavemaker.vc/our-story/"]
+    },
+    "capital": {
+      "aum": { "raw": "over US$500 million committed capital (raised over $580M)", "usd": 500000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Southeast Asia"],
+      "sector_focus": ["saas-enterprise", "deeptech", "climate-energy"],
+      "thesis": "Southeast Asia's leading enterprise and deep-tech B2B VC, scanning the region for disruptive B2B companies and technologies; exits include cloud-comms (Wavecell) and cloud SaaS (TradeGecko)."
+    },
+    "track_record": {
+      "portfolio_count": "200+",
+      "notable_investments": [
+        { "company": "Silent Eight", "sector": "AI / regtech", "outcome": "active" },
+        { "company": "Growsari", "sector": "B2B commerce", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Wavecell", "type": "M&A", "year": null, "value": { "raw": "acquired by 8x8", "usd": null, "currency": null } },
+        { "company": "TradeGecko", "type": "M&A", "year": null, "value": { "raw": "acquired by Intuit", "usd": null, "currency": null } },
+        { "company": "Red Dot Payment", "type": "M&A", "year": null, "value": { "raw": "acquired by PayU/Naspers", "usd": null, "currency": null } }
+      ]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Via website", "accepts_cold_inbound": null },
+    "tags": ["enterprise", "deeptech", "b2b", "cloud", "sustainability"],
+    "summary": {
+      "en": "Cross-border VC founded in 2003 (dual HQ Singapore/Los Angeles) and Southeast Asia's leading Enterprise, Deep Tech and Sustainability B2B investor; over US$500M committed across funds, 200+ companies, with cloud-software exits including Wavecell (8x8) and TradeGecko (Intuit).",
+      "local": "Pemodal teroka rentas sempadan yang diasaskan pada 2003 dan pelabur B2B Perusahaan, Deep Tech dan Kelestarian terkemuka di Asia Tenggara."
+    },
+    "sources": [
+      {
+        "url": "https://wavemaker.vc/our-story/",
+        "title": "Our Story - Wavemaker",
+        "publisher": "Wavemaker Partners",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2003; dual HQ Singapore/LA; enterprise/deep tech/sustainability B2B focus; Southeast Asia"
+      },
+      {
+        "url": "https://wowsglobal.com/resources/blogs-insights/wavemaker-partners-backing-southeast-asia-s-boldest-builders/",
+        "title": "Wavemaker Partners: Backing Southeast Asia's Boldest Builders",
+        "publisher": "WOWS Global",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2003; raised over $580M / >$500M committed; 200+ companies; enterprise/deep tech/sustainability; cloud exits Wavecell and TradeGecko",
+        "quote": "Wavemaker Partners is Southeast Asia's leading venture capital firm investing in Enterprise, Deep Tech, and Sustainability startups ... cloud communications software company Wavecell (acquired by 8×8), inventory and order management platform TradeGecko (acquired by Intuit)."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Per-deal check size not standardized publicly; AUM figures (>$500M committed / >$580M raised) per secondary source.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "sea-seax-ventures",
+    "name": { "en": "SeaX Ventures", "local": "SeaX Ventures" },
+    "aka": ["SeaX"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "southeast-asia",
+    "country": "Thailand",
+    "hq_city": "Bangkok",
+    "website": "https://seaxventures.vc/",
+    "offices": [
+      { "country": "Thailand", "city": "Bangkok" },
+      { "country": "United States", "city": "San Francisco" }
+    ],
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/seax-ventures",
+      "crunchbase": "https://www.cbinsights.com/investor/seax-ventures",
+      "other": ["https://www.dealstreetasia.com/stories/seax-ventures-deep-tech-300242"]
+    },
+    "capital": {
+      "aum": { "raw": "~US$70 million", "usd": 70000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "$60M-$100M", "usd": 60000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$500,000 – $5 million", "usd_min": 500000, "usd_max": 5000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Southeast Asia", "United States", "Global"],
+      "sector_focus": ["deeptech", "ai-ml", "robotics", "biotech"],
+      "thesis": "Deep-tech fund backing 'exponential technologies' globally with a SEA expansion thesis; focus areas include AI, robotics, blockchain and quantum computing infrastructure, tied to the RISE corporate accelerator network."
+    },
+    "track_record": {
+      "portfolio_count": 45,
+      "notable_investments": [
+        { "company": "Empo Health", "sector": "healthtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Dr. Supachai Parchariyanon", "role": "Co-founder / Managing Partner (also runs RISE)" }
+    ],
+    "application": { "how_to_apply": "Via website", "accepts_cold_inbound": null },
+    "tags": ["deeptech", "ai", "quantum", "blockchain", "robotics", "rise"],
+    "summary": {
+      "en": "Bangkok/San Francisco deep-tech VC (founded 2018) investing US$500K-5M at pre-seed to Series A in exponential technologies (AI, robotics, blockchain, quantum) with a Southeast Asia expansion thesis; ~US$70M AUM and tied to the RISE corporate-innovation accelerator.",
+      "local": "กองทุนเวนเจอร์แคปิทัลด้านดีปเทคจากกรุงเทพฯ/ซานฟรานซิสโก (ก่อตั้งปี 2018) ลงทุน 500,000-5 ล้านดอลลาร์ในเทคโนโลยีเอ็กซ์โพเนนเชียล"
+    },
+    "sources": [
+      {
+        "url": "https://www.dealstreetasia.com/stories/seax-ventures-deep-tech-300242",
+        "title": "SeaX Ventures carves out a third of $60m fund for SE Asia's deep tech bets",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-03",
+        "supports": "$60M fund; deep tech focus; SEA carve-out; founded 2018; Bangkok base",
+        "quote": "SeaX Ventures carves out a third of $60m fund for SE Asia's deep tech bets"
+      },
+      {
+        "url": "https://www.vcsheet.com/fund/seax-ventures",
+        "title": "SeaX Ventures - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-03",
+        "supports": "Check size $500K-5M; focus AI, robotics, blockchain, quantum; pre-seed/seed/Series A; led by Dr. Supachai Parchariyanon (RISE)",
+        "quote": "SeaX Ventures makes investments of between $500,000 – $5 million in pre-seed, seed, and Series A financings."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size cited variously as $60M-$100M; AUM ~$70M per recent sources. Legal HQ sometimes listed San Francisco with operations in Bangkok.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "sea-vinventures",
+    "name": { "en": "VinVentures", "local": "VinVentures" },
+    "aka": ["Vingroup Ventures"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "southeast-asia",
+    "country": "Vietnam",
+    "hq_city": "Hanoi",
+    "website": "https://vinventures.vn/",
+    "links": {
+      "other": [
+        "https://technode.global/2024/10/28/vietnams-vingroup-launches-vinventures-capital-fund-with-aum-of-150m/",
+        "https://theinvestor.vn/vietnams-private-giant-vingroup-launches-vinventures-capital-fund-d13083.html"
+      ]
+    },
+    "capital": {
+      "aum": { "raw": "US$150 million", "usd": 150000000, "currency": "USD" },
+      "funds": [
+        { "name": "VinVentures", "vintage_year": 2024, "size": { "raw": "$150M ($100M inherited portfolio + $50M new)", "usd": 150000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "hundreds of thousands to low millions USD", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Vietnam", "Singapore", "Indonesia", "Philippines"],
+      "sector_focus": ["ai-ml", "hardware-semiconductor", "deeptech"],
+      "thesis": "Vingroup's corporate VC fund backing seed/Series A startups in AI, cloud computing and semiconductors, building bridges between Vietnamese innovation and the wider Southeast Asian ecosystem."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Filum AI", "sector": "AI / customer-experience data", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Le Han Tue Lam", "role": "Managing Director" }
+    ],
+    "application": { "how_to_apply": "Via website / direct contact", "accepts_cold_inbound": null },
+    "tags": ["cvc", "ai", "cloud", "semiconductor", "vingroup", "deeptech"],
+    "summary": {
+      "en": "Vingroup's US$150M corporate venture fund launched October 2024 (US$100M inherited portfolio plus US$50M new capital over 3-5 years), investing at seed/Series A in AI, cloud computing and semiconductors across Vietnam and the wider region.",
+      "local": "Quỹ đầu tư mạo hiểm doanh nghiệp 150 triệu USD của Vingroup ra mắt tháng 10/2024, đầu tư vào AI, điện toán đám mây và bán dẫn tại giai đoạn hạt giống/Series A."
+    },
+    "sources": [
+      {
+        "url": "https://technode.global/2024/10/28/vietnams-vingroup-launches-vinventures-capital-fund-with-aum-of-150m/",
+        "title": "Vietnam's Vingroup launches VinVentures capital fund with AUM of $150M",
+        "publisher": "TNGlobal / TechNode",
+        "accessed": "2026-06-03",
+        "supports": "US$150M AUM ($100M inherited + $50M new); launched Oct 28 2024; AI/cloud/semiconductor focus",
+        "quote": "The fund currently manages total assets of $150 million, of which $100 million is an inherited investment portfolio from Vingroup, with an additional $50 million expected to be disbursed over the next three to five years."
+      },
+      {
+        "url": "https://wowsglobal.com/resources/blogs-insights/vinventures-powering-vietnam-s-deep-tech-breakout-from-the-inside-out/",
+        "title": "VinVentures: Powering Vietnam's Deep Tech Breakout from the Inside Out",
+        "publisher": "WOWS Global",
+        "accessed": "2026-06-03",
+        "supports": "Seed/Series A; AI, cloud computing, semiconductors; regional ambitions (Singapore, Indonesia, Philippines); led by Le Han Tue Lam",
+        "quote": "VinVentures' portfolio focus lies squarely in the future: AI, cloud computing, and semiconductors ... The fund invests at Seed and Series A stages, typically writing checks in the hundreds of thousands to low millions."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Website URL inferred (vinventures.vn); leadership name romanization 'Le Han Tue Lam'. Portfolio count not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "sea-nextrans-vietnam",
+    "name": { "en": "Nextrans", "local": "Nextrans" },
+    "aka": ["Nextrans Vietnam", "Nextrans Inc."],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2012,
+    "region": "southeast-asia",
+    "country": "Vietnam",
+    "hq_city": "Hanoi",
+    "website": "https://www.nextransvn.com/",
+    "offices": [
+      { "country": "Vietnam", "city": "Hanoi" },
+      { "country": "South Korea", "city": "Seoul" },
+      { "country": "United States", "city": null }
+    ],
+    "links": {
+      "linkedin": "https://vn.linkedin.com/company/nextransvietnam",
+      "crunchbase": "https://www.crunchbase.com/organization/nextrans",
+      "other": ["https://www.dealstreetasia.com/stories/nextrans-base-131743"]
+    },
+    "capital": {
+      "aum": { "raw": "US$50 million", "usd": 50000000, "currency": "USD" },
+      "funds": [
+        { "name": "Vietnam Fund I", "vintage_year": null, "size": { "raw": "$35M", "usd": 35000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$1 million to $3 million", "usd_min": 1000000, "usd_max": 3000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Vietnam", "South Korea", "United States"],
+      "sector_focus": ["saas-enterprise", "fintech", "ecommerce"],
+      "thesis": "Korean-rooted early-stage VC, one of the most active foreign investors in Vietnam, with a strong enterprise/B2B software portfolio (e.g. business-management SaaS Base.vn)."
+    },
+    "track_record": {
+      "portfolio_count": 54,
+      "notable_investments": [
+        { "company": "Base.vn", "sector": "business-management SaaS", "outcome": "acquired" },
+        { "company": "Filum AI", "sector": "AI / customer data", "outcome": "active" },
+        { "company": "Tiki", "sector": "ecommerce", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Via website", "accepts_cold_inbound": null },
+    "tags": ["enterprise-saas", "b2b", "vietnam", "korea", "cross-border"],
+    "summary": {
+      "en": "Early-stage VC founded in 2012 (Seoul roots, Hanoi office) and one of Vietnam's most active foreign investors; ~US$50M AUM, US$1-3M checks at seed/Series A, with a strong enterprise/B2B SaaS portfolio including Base.vn and Filum AI.",
+      "local": "Quỹ đầu tư mạo hiểm giai đoạn đầu thành lập năm 2012, một trong những nhà đầu tư nước ngoài tích cực nhất tại Việt Nam, với danh mục SaaS doanh nghiệp mạnh."
+    },
+    "sources": [
+      {
+        "url": "https://www.dealstreetasia.com/stories/nextrans-base-131743",
+        "title": "Korean VC Nextrans joins investment round of Vietnamese enterprise SaaS firm Base",
+        "publisher": "DealStreetAsia",
+        "accessed": "2026-06-03",
+        "supports": "Enterprise SaaS focus; Base.vn investment; Korean VC active in Vietnam",
+        "quote": "Korean VC Nextrans joins investment round of Vietnamese enterprise SaaS firm Base"
+      },
+      {
+        "url": "https://tracxn.com/d/venture-capital/nextrans/__YZrcITAfIwiasj4i-t3_jgYWBDaCAYaBob9DNZxpQNQ",
+        "title": "Nextrans - Investor Profile, Portfolio, Team",
+        "publisher": "Tracxn",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2012; Seoul base + Hanoi; 54 companies; $1-3M checks; $50M AUM; $35M Vietnam fund; 30 B2B companies",
+        "quote": "Nextrans manages a total of $50 million in assets under management (AUM) ... The firm typically invests between $1 million and $3 million per company ... 30 Enterprise (B2B) companies."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2012 in Seoul; Vietnam operations from 2015. Base.vn was later acquired by FPT.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  },
+  {
+    "id": "sea-genesia-ventures",
+    "name": { "en": "Genesia Ventures", "local": "Genesia Ventures" },
+    "aka": ["Genesia Ventures, Inc."],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "hq_city": "Jakarta",
+    "website": "https://www.genesiaventures.com/en/top-en/",
+    "offices": [
+      { "country": "Japan", "city": "Tokyo" },
+      { "country": "Indonesia", "city": "Jakarta" },
+      { "country": "Vietnam", "city": "Ho Chi Minh City" },
+      { "country": "India", "city": "Bengaluru" }
+    ],
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/genesiaventures/",
+      "crunchbase": "https://www.crunchbase.com/organization/genesia-ventures",
+      "other": ["https://www.genesiaventures.com/en/3rdfund-1stclose-en/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "Third Fund", "vintage_year": null, "size": { "raw": "$110M ($90M first close)", "usd": 110000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Indonesia", "Vietnam", "Singapore", "Japan", "India"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "fintech"],
+      "thesis": "Japan-Asia 'co-creation' seed fund supporting Digital Transformation (DX) and the New Economy; actively backs enterprise SaaS and AI-agent / DX-software companies, with offices in Jakarta and Ho Chi Minh City for Southeast Asia."
+    },
+    "track_record": {
+      "portfolio_count": "161+",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": { "how_to_apply": "Via website", "accepts_cold_inbound": null },
+    "tags": ["seed", "dx", "enterprise-saas", "japan-asia", "ai-agent"],
+    "summary": {
+      "en": "Japan-Asia seed VC founded in 2016 with Southeast Asia offices in Jakarta and Ho Chi Minh City; supports Digital Transformation (DX), enterprise SaaS and AI-agent companies at pre-seed/seed. Third fund closed at US$110M; 161+ companies backed.",
+      "local": "Dana ventura tahap benih Jepang-Asia yang didirikan tahun 2016 dengan kantor di Jakarta dan Ho Chi Minh City; mendukung Transformasi Digital (DX), SaaS enterprise dan perusahaan AI-agent."
+    },
+    "sources": [
+      {
+        "url": "https://www.genesiaventures.com/en/about-en/",
+        "title": "ABOUT US | Genesia Ventures, Inc.",
+        "publisher": "Genesia Ventures",
+        "accessed": "2026-06-03",
+        "supports": "Founded 2016; co-creation Japan-Asia; offices Tokyo, Jakarta, Ho Chi Minh City, Bengaluru; DX focus"
+      },
+      {
+        "url": "https://www.genesiaventures.com/en/3rdfund-1stclose-en/",
+        "title": "Genesia Ventures Raises $90M in First Close of the Third Fund",
+        "publisher": "Genesia Ventures",
+        "accessed": "2026-06-03",
+        "supports": "Third fund $110M (first close $90M); pre-seed/seed; enterprise SaaS / AI-agent / DX focus; 161+ companies",
+        "quote": "Their third fund, which closed at $110 million, symbolizes their commitment, and has allowed them to support pioneers in the pre-seed and seed stages."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Parent firm is Tokyo-headquartered; entered as country=Indonesia (Jakarta) to reflect its primary SEA base. Per-deal check size not standardized publicly. Some sources note it under-invests in pure enterprise-SaaS in SEA vs Japan.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-devtools-data"
+  }
+]

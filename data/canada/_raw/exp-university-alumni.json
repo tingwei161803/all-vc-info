@@ -1,0 +1,690 @@
+[
+  {
+    "id": "ca-front-row-ventures",
+    "name": { "en": "Front Row Ventures" },
+    "aka": ["FRV"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://frontrow.ventures/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/front-row-ventures",
+      "other": ["https://realventures.com/recognizing-student-talent-with-front-row-ventures/", "https://www.inovia.vc/emerging-managers/front-row-ventures/"]
+    },
+    "capital": {
+      "aum": { "raw": "CAD$5.5M (FRV-CAN-22 fund)", "usd": null, "currency": "CAD" },
+      "current_fund": { "raw": "CAD$5.5M", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "Real Ventures seed (initial)", "vintage_year": 2017, "size": { "raw": "CAD$600,000", "usd": null, "currency": "CAD" } },
+        { "name": "FRV-CAN-22 (pan-Canadian fund)", "vintage_year": 2023, "size": { "raw": "CAD$5.5M", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "~$50,000 via SAFE", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["generalist", "deeptech", "biotech"],
+      "thesis": "Canada's first student-run venture capital fund: scout teams of student investors on 20+ university campuses source and back student-founded startups (at least one founder must be a student) with ~$50K SAFE checks, while training students to become VCs."
+    },
+    "track_record": {
+      "portfolio_count": "35+",
+      "notable_investments": [
+        { "company": "Valence Discovery", "sector": "ai-ml", "outcome": "acquired (by Recursion, ~CAD$63M)" },
+        { "company": "Puzzle Medical Devices", "sector": "healthtech", "outcome": "active" },
+        { "company": "Nomic Bio", "sector": "biotech", "outcome": "active" },
+        { "company": "Simmunome", "sector": "biotech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Valence Discovery", "type": "M&A", "year": 2023, "value": { "raw": "over CAD$63M", "usd": null, "currency": "CAD" } }
+      ],
+      "co_investors": ["Real Ventures", "Inovia Capital"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply online at frontrow.ventures/apply; at least one founder must be a current undergraduate or graduate student.",
+      "accepts_cold_inbound": true,
+      "contact": "https://frontrow.ventures/apply/"
+    },
+    "tags": ["student-run", "university-affiliated", "alumni", "campus"],
+    "summary": {
+      "en": "Front Row Ventures is Canada's first student-run venture capital fund, launched in 2017 by Real Ventures. It operates regional micro-funds (Quebec, Ontario, Western Canada) staffed by student investors across 20+ campuses, backing student-founded startups with ~$50K SAFEs. Its CAD$5.5M FRV-CAN-22 fund closed over-subscribed in 2023; over five years it invested in 35+ companies including Valence Discovery (acquired by Recursion)."
+    },
+    "sources": [
+      { "url": "https://frontrow.ventures/", "title": "Front Row Ventures", "publisher": "Front Row Ventures", "accessed": "2026-06-03", "supports": "student-run model, $50K check, 24+ campuses", "quote": "backs student founders with an early game-changing investment of $50,000, through a SAFE with extremely founder-friendly terms" },
+      { "url": "https://betakit.com/front-row-ventures-closes-over-subscribed-5-5-million-cad-pan-canadian-fund/", "title": "Front Row Ventures closes over-subscribed $5.5-million CAD pan-Canadian fund", "publisher": "BetaKit", "accessed": "2026-06-03", "supports": "fund size, year, LPs, exit", "quote": "New pan-Canadian fund (FRV-CAN-22): $5.5 million CAD ... Closed: July 28, 2023 ... over-subscribed ... institutional support from Inovia Capital and Quebec MEIE" },
+      { "url": "https://betakit.com/front-row-ventures-and-real-ventures-launch-600000-student-vc-fund/", "title": "Front Row Ventures and Real Ventures launch $600,000 student VC fund", "publisher": "BetaKit", "accessed": "2026-06-03", "supports": "founding year, Real Ventures seed, exit value", "quote": "In 2017, Front Row received $600,000 from Real Ventures to invest in 24 student-led startups over four years ... Valence Discovery, which exited ... for over CAD$63M" }
+    ],
+    "confidence": "high",
+    "verification_notes": "HQ listed as Montreal (Real Ventures' base and Quebec origin); fund explicitly pan-Canadian. Portfolio count of 35+ from a 5-year window cited by BetaKit; current cumulative count may be higher.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "ca-uceed-calgary",
+    "name": { "en": "UCeed" },
+    "aka": ["UCeed Investment Funds", "UCeed Startup Investment Fund"],
+    "type": "vc",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Calgary",
+    "website": "https://www.ucalgary.ca/uceed",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/showcase/uceed/",
+      "other": ["https://innovatecalgary.com/programs-funding/uceed/", "https://betakit.com/university-of-calgarys-venture-philanthropy-fund-uceed-aims-to-fill-ecosystems-pre-seed-funding-gap/"]
+    },
+    "capital": {
+      "aum": { "raw": "CAD$22M", "usd": null, "currency": "CAD" },
+      "current_fund": { "raw": "CAD$22M (across funds)", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "UCeed Health", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "CAD" } },
+        { "name": "UCeed Energy", "vintage_year": 2022, "size": { "raw": "CAD$3.75M", "usd": null, "currency": "CAD" } },
+        { "name": "UCeed Social Impact", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "CAD" } },
+        { "name": "UCeed Haskayne Student Fund", "vintage_year": null, "size": { "raw": "CAD$1.5M", "usd": null, "currency": "CAD" } },
+        { "name": "UCeed Child Health and Wellness", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "CAD" } },
+        { "name": "UCeed Neuro", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$50,000–$300,000", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Canada", "Alberta"],
+      "sector_focus": ["healthtech", "biotech", "climate-energy", "impact", "deeptech"],
+      "thesis": "Philanthropically funded, University of Calgary-based venture fund that bridges the gap between innovation demonstration and commercialization, investing $50K–$300K in pre-seed/seed startups connected to the university using a milestone investment methodology; returns are reinvested into the fund."
+    },
+    "track_record": {
+      "portfolio_count": 44,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via the UCeed Opportunity Fund application form (University of Calgary / Innovate Calgary); ventures must have a connection to the University of Calgary.",
+      "accepts_cold_inbound": true,
+      "contact": "https://ucalgary.ca/uceed/uceed-opportunity-fund-application"
+    },
+    "tags": ["university-affiliated", "venture-philanthropy", "commercialization", "endowment"],
+    "summary": {
+      "en": "UCeed is the largest philanthropically driven, university-based investment fund of its kind in Canada, run via Innovate Calgary at the University of Calgary since 2020. It deploys $50K–$300K into pre-seed/seed startups across six themed funds (Health, Energy, Social Impact, Haskayne Student Fund, Child Health & Wellness, Neuro). It has deployed CAD$8M into 44 startups and holds CAD$22M in AUM.",
+      "local": "UCeed est le plus important fonds d'investissement universitaire à vocation philanthropique de son genre au Canada."
+    },
+    "sources": [
+      { "url": "https://www.ucalgary.ca/uceed", "title": "UCeed | University of Calgary", "publisher": "University of Calgary", "accessed": "2026-06-03", "supports": "model, check size, AUM, startups", "quote": "Qualifying ventures can receive investment ranging from $50,000 to $300,000 ... deploying $8 million CAD into 44 startups and amassing $22 million in assets under management" },
+      { "url": "https://www.ucalgary.ca/news/ucalgary-celebrates-3rd-year-uceed-largest-university-based-investment-fund-its-kind-canada", "title": "UCalgary celebrates 3rd year of UCeed", "publisher": "University of Calgary", "accessed": "2026-06-03", "supports": "largest of its kind, founding 2020, funds list", "quote": "the largest university-based investment fund of its kind in Canada ... Since its launch in 2020, UCeed has introduced five funds including Health, Child Health and Wellness, Social Impact, the Haskayne Student Fund, and Energy ... a Neuro fund, bringing the total to six funds" },
+      { "url": "https://calgary.tech/2022/12/08/uceed-launches-venture-fund-to-advance-canadian-led-energy-innovations/", "title": "UCeed Launches $3.75 Million Venture Fund To Advance Canadian-led Energy Innovations", "publisher": "Calgary.Tech", "accessed": "2026-06-03", "supports": "UCeed Energy fund size and year", "quote": "UCeed Launches $3.75 Million Venture Fund To Advance Canadian-led Energy Innovations" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Operated through Innovate Calgary (the U of Calgary's commercialization arm). AUM $22M and 44 startups are cumulative figures as reported by the university; per-fund sizes mostly undisclosed except Energy ($3.75M) and the Haskayne Student Fund ($1.5M).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "ca-tricolour-venture-fund",
+    "name": { "en": "TriColour Venture Fund" },
+    "aka": ["TCVF", "Tri-Colour Venture Fund"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2006,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Kingston",
+    "website": "https://smith.queensu.ca/centres/ceisi/events/tricolour/index.php",
+    "links": {
+      "other": ["https://pitchbook.com/profiles/investor/56680-93", "https://smith.queensu.ca/news_blog/2025/TriColour-Venture-Fund-makes-a-Gr%C3%BCvi-investment.php"]
+    },
+    "capital": {
+      "aum": { "raw": "CAD$3M", "usd": null, "currency": "CAD" },
+      "current_fund": { "raw": "CAD$3M", "usd": null, "currency": "CAD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "up to $150,000 per company", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Canada"],
+      "sector_focus": ["generalist"],
+      "thesis": "Canada's first student-advised venture capital fund: full-time MBA and Commerce students at Queen's Smith School of Business source deals, conduct due diligence and recommend investments of up to $150K to an Investment Advisory Board of seasoned VCs and angels; deals are syndicated with leading Canadian VCs."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Grüvi", "sector": "consumer", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Ventures are sourced and contacted by the student fund team; due diligence runs August–December with recommendations to the Investment Advisory Board in December.",
+      "accepts_cold_inbound": null,
+      "contact": "https://smith.queensu.ca/centres/ceisi/events/tricolour/index.php"
+    },
+    "tags": ["student-advised", "university-affiliated", "alumni-seeded", "experiential"],
+    "summary": {
+      "en": "Launched in 2006 at Queen's University's Smith School of Business, the TriColour Venture Fund is Canada's first student-advised venture capital fund. Full-time MBA and Commerce students manage a multi-million-dollar (~CAD$3M) fund, investing up to $150,000 per company alongside an Investment Advisory Board of professional investors. Seeded by Queen's alumni, all returns are reinvested."
+    },
+    "sources": [
+      { "url": "https://smith.queensu.ca/centres/ceisi/events/tricolour/index.php", "title": "TriColour Venture Fund - Overview", "publisher": "Smith School of Business, Queen's University", "accessed": "2026-06-03", "supports": "first student-advised fund, 2006, $150K check", "quote": "Launched in 2006 as Canada's first student-advised VC fund ... TCVF invests up to $150,000 per company in high-potential ventures" },
+      { "url": "https://impactinvestinghub.ca/student-managed-funds/", "title": "Canadian student-managed funds", "publisher": "Impact Investing Hub", "accessed": "2026-06-03", "supports": "AUM ~$3M, Queen's, first student-advised VC fund", "quote": "TriColour Venture Fund (TCVF) – Queen's University, Ontario | $3M AUM | 'Canada's first student-advised venture capital fund'" },
+      { "url": "https://smith.queensu.ca/news_blog/2025/TriColour-Venture-Fund-makes-a-Gr%C3%BCvi-investment.php", "title": "TriColour Venture Fund makes a Grüvi investment", "publisher": "Smith School of Business, Queen's University", "accessed": "2026-06-03", "supports": "active portfolio investment (Grüvi)", "quote": "TriColour Venture Fund makes a Grüvi investment" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM ~$3M from Impact Investing Hub aggregation; Smith pages describe it as 'multi-million-dollar' without a precise current figure. Portfolio count not publicly enumerated.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "ca-venture-grade-smu",
+    "name": { "en": "Venture Grade" },
+    "aka": ["Venture Grade Student Investment Fund", "Sobey Venture Grade"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Halifax",
+    "website": "https://www.smu.ca/sobey/venturegrade/",
+    "links": {
+      "other": ["https://venturegrade.ca/", "https://news.smu.ca/news/2022/11/28/student-managed-venture-capital-fund-invests-in-quebec-based-online-insurance-distributor"]
+    },
+    "capital": {
+      "aum": { "raw": "CAD$200,000", "usd": null, "currency": "CAD" },
+      "current_fund": { "raw": "CAD$200,000", "usd": null, "currency": "CAD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "~$12,500 (e.g. Emma Labs)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Canada", "Atlantic Canada"],
+      "sector_focus": ["generalist", "fintech", "agritech"],
+      "thesis": "The only student venture investment fund in North America where students both raise and run the fund: graduate and undergraduate students at Saint Mary's Sobey School of Business raise capital, perform due diligence and invest donor funds into high-growth ventures, primarily in Atlantic Canada."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Ashored", "sector": "agritech", "outcome": "active" },
+        { "company": "Aurea's Shine", "sector": "consumer", "outcome": "active" },
+        { "company": "Bright Breaks", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Emma Labs", "sector": "fintech", "outcome": "active" },
+        { "company": "Trip Ninja", "sector": "consumer", "outcome": "acquired (2X exit, 26% return)" }
+      ],
+      "exits": [
+        { "company": "Trip Ninja", "type": "M&A", "year": null, "value": { "raw": "2X return (26% ROI)", "usd": null, "currency": null } }
+      ],
+      "co_investors": ["Innovacorp", "Build Ventures", "NBIF"]
+    },
+    "people": [
+      { "name": "Ellen Farrell", "role": "Co-founder / Faculty" }
+    ],
+    "application": {
+      "how_to_apply": "Ventures are sourced and evaluated by the student fund team over the fall and winter semesters; the fund focuses on Atlantic Canadian ventures and syndicates with regional VC funds.",
+      "accepts_cold_inbound": null,
+      "contact": "https://venturegrade.ca/"
+    },
+    "tags": ["student-raised", "student-run", "university-affiliated", "atlantic-canada"],
+    "summary": {
+      "en": "Founded in 2016 at Saint Mary's University's Sobey School of Business in Halifax, Venture Grade is Canada's first 'student-raised' VC fund and the only student venture fund in North America where students both raise and run the capital. It invests donor funds into high-growth ventures (mainly Atlantic Canada), with investments including Ashored, Emma Labs and a 2X exit on Trip Ninja."
+    },
+    "sources": [
+      { "url": "https://www.smu.ca/sobey/venturegrade/", "title": "Venture Grade | Saint Mary's University", "publisher": "Saint Mary's University", "accessed": "2026-06-03", "supports": "student-raised/run model, North America claim", "quote": "the only student ran venture investment fund in North America where students not only run the venture capital fund, they also raise the fund" },
+      { "url": "https://news.smu.ca/news/2022/11/28/student-managed-venture-capital-fund-invests-in-quebec-based-online-insurance-distributor", "title": "Student-managed venture capital fund invests in Quebec-based online insurance distributor", "publisher": "Saint Mary's University", "accessed": "2026-06-03", "supports": "founding year 2016, Emma Labs $12,500 check, portfolio", "quote": "Founding Year: 2016 ... one investment of \"$12,500\" in Emma Labs, described as \"The fund's first investment outside of Atlantic Canada\"" },
+      { "url": "https://impactinvestinghub.ca/student-managed-funds/", "title": "Canadian student-managed funds", "publisher": "Impact Investing Hub", "accessed": "2026-06-03", "supports": "AUM $200,000, private equity, North America claim", "quote": "Venture Grade Student Investment Fund – St Mary's University, Nova Scotia | $200,000 AUM | Private equity; 'only venture investment fund in North America where students both raise and run the fund'" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM ~$200K per Impact Investing Hub. Trip Ninja exit described by SMU as a 2X / 26% return; no dollar value disclosed. Check sizes small (~$12.5K example).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "ca-waterloo-student-venture-fund",
+    "name": { "en": "University of Waterloo Student Venture Fund" },
+    "aka": ["SVF", "Waterloo SVF"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Waterloo",
+    "website": "https://uwaterloo.ca/school-of-accounting-and-finance/students/student-opportunities/student-venture-fund",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/university-of-waterloo-student-venture-fund",
+      "other": ["https://app.dealroom.co/companies/university_of_waterloo_student_venture_fund"]
+    },
+    "capital": {
+      "aum": { "raw": "CAD$1M committed (goal CAD$2M)", "usd": null, "currency": "CAD" },
+      "current_fund": { "raw": "CAD$1M", "usd": null, "currency": "CAD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Canada"],
+      "sector_focus": ["generalist", "saas-enterprise", "deeptech"],
+      "thesis": "Student-led fund at the University of Waterloo's School of Accounting and Finance giving students hands-on VC experience: students value companies, conduct due diligence, syndicate with angels and institutional investors, and manage a portfolio of investments in early-stage startups."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Investment opportunities are sourced by the student fund teams; the fund works alongside other angel and institutional investors on early-stage rounds.",
+      "accepts_cold_inbound": null,
+      "contact": "https://uwaterloo.ca/school-of-accounting-and-finance/students/student-opportunities/student-venture-fund"
+    },
+    "tags": ["student-led", "university-affiliated", "experiential", "donor-funded"],
+    "summary": {
+      "en": "Launched in 2017 within the University of Waterloo's School of Accounting and Finance, the Student Venture Fund gives SAF students hands-on venture capital training—evaluating founders, conducting due diligence, and managing a portfolio of early-stage startup investments under faculty and industry supervision. It is backed by a CAD$1M commitment from an anonymous donor with a long-term goal of CAD$2M."
+    },
+    "sources": [
+      { "url": "https://uwaterloo.ca/school-of-accounting-and-finance/students/student-opportunities/student-venture-fund", "title": "The Student Venture Fund | School of Accounting and Finance", "publisher": "University of Waterloo", "accessed": "2026-06-03", "supports": "model, donor commitment, goal", "quote": "The SVF has a generous commitment of $1MM from an anonymous donor ... the fund's long-term goal is to raise $2MM capital" },
+      { "url": "https://impactinvestinghub.ca/student-managed-funds/", "title": "Canadian student-managed funds", "publisher": "Impact Investing Hub", "accessed": "2026-06-03", "supports": "AUM $1M, early-stage investment", "quote": "The Student Venture Fund (SVF) – University of Waterloo, Ontario | $1M AUM | Early-stage company investment and due diligence" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year 2017 from UWaterloo SAF (\"The launch of SVF in 2017\"). Individual check sizes and current portfolio count not publicly disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "ca-laurier-startup-fund",
+    "name": { "en": "Laurier Startup Fund" },
+    "aka": ["LSF", "Lazaridis Laurier Startup Fund"],
+    "type": "angel-network",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Waterloo",
+    "website": "https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/student-experience/laurier-startup-fund.html",
+    "links": {},
+    "capital": {
+      "aum": { "raw": "CAD$1.5M initial donations ($1M Stork + $500K Marsland)", "usd": null, "currency": "CAD" },
+      "current_fund": { "raw": "CAD$1.5M (initial)", "usd": null, "currency": "CAD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": "~$110,000–$200,000 (e.g. Nicoya $200K)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Canada", "Toronto-Waterloo Tech Corridor"],
+      "sector_focus": ["saas-enterprise", "healthtech", "robotics", "deeptech"],
+      "thesis": "Angel-investor-designed, student-run seed fund at Wilfrid Laurier's Lazaridis School: top undergraduate and MBA students paired with experienced early-stage investors syndicate capital and due diligence into seed-stage tech companies in the Toronto-Waterloo Tech Corridor."
+    },
+    "track_record": {
+      "portfolio_count": 28,
+      "notable_investments": [
+        { "company": "Nicoya", "sector": "biotech", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": ["Graphite Ventures"]
+    },
+    "people": [
+      { "name": "Mike Stork", "role": "Founder / Donor (BBA '77)" }
+    ],
+    "application": {
+      "how_to_apply": "The fund provides capital and due diligence support to seed-stage companies in the Toronto-Waterloo Tech Corridor, often syndicating alongside angels; students source and evaluate deals.",
+      "accepts_cold_inbound": null,
+      "contact": "https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/student-experience/laurier-startup-fund.html"
+    },
+    "tags": ["student-run", "angel", "university-affiliated", "alumni-funded"],
+    "summary": {
+      "en": "Established in 2014 at Wilfrid Laurier University's Lazaridis School by angel investor and alumnus Mike Stork (BBA '77), the Laurier Startup Fund pairs top undergraduate and MBA students with experienced investors to make seed-stage investments in Toronto-Waterloo Tech Corridor startups. Since 2014 it has invested in 28 companies, including Nicoya ($200K investment)."
+    },
+    "sources": [
+      { "url": "https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/student-experience/laurier-startup-fund.html", "title": "Laurier Startup Fund | Wilfrid Laurier University", "publisher": "Wilfrid Laurier University", "accessed": "2026-06-03", "supports": "founding, donations, 28 companies, Nicoya", "quote": "Established in 2014 by Mike Stork (BBA '77) ... initial donations of $1 million from Stork and his spouse, plus $500,000 from the Marsland family ... have invested in 28 companies within the Toronto-Waterloo Tech Corridor ... Nicoya: \"$200,000 investment\"" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Classified as angel-network with vc subtype: an angel-investor-designed, student-run seed fund that syndicates capital. 28 companies cumulative since 2014; ~14 active per source. Check sizes inferred from examples ($110K Graphite-related, $200K Nicoya).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "ca-ubc-catalyst-ventures-fund",
+    "name": { "en": "UBC Catalyst Ventures Fund" },
+    "aka": ["UBC Catalyst", "UBC-InBC Catalyst Ventures Fund"],
+    "type": "vc",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2026,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Vancouver",
+    "website": "https://news.ubc.ca/2026/03/ubc-inbc-catalyst-ventures-fund/",
+    "links": {
+      "other": ["https://news.gov.bc.ca/releases/2026JEG0020-000297"]
+    },
+    "capital": {
+      "aum": { "raw": "up to CAD$40M", "usd": null, "currency": "CAD" },
+      "current_fund": { "raw": "up to CAD$40M", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "UBC Catalyst Ventures Fund", "vintage_year": 2026, "size": { "raw": "$10M UBC + $10M InBC + up to $20M private = up to $40M", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "British Columbia"],
+      "sector_focus": ["biotech", "deeptech", "healthtech"],
+      "thesis": "Co-investment fund between the University of British Columbia and InBC Investment Corp. to commercialize UBC research: it backs spinoff companies created from licensed UBC discoveries and ventures founded by UBC faculty, staff, students and recent alumni, with initial focus on life sciences and deep tech."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": ["InBC Investment Corp."]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Eligible companies are UBC research spinoffs or ventures established by UBC faculty, staff, students and recent alumni; invested via the UBC-InBC co-investment vehicle.",
+      "accepts_cold_inbound": null,
+      "contact": "https://news.ubc.ca/2026/03/ubc-inbc-catalyst-ventures-fund/"
+    },
+    "tags": ["university-affiliated", "spinout", "commercialization", "government-co-invest"],
+    "summary": {
+      "en": "Launched in March 2026, the UBC Catalyst Ventures Fund is a co-investment partnership between the University of British Columbia and InBC Investment Corp. With up to CAD$40M ($10M UBC + $10M InBC + up to $20M private capital), it invests in life sciences and deep tech spinoffs from licensed UBC research and ventures founded by UBC faculty, staff, students and recent alumni. UBC research has spawned 280+ spinoffs generating an estimated $13B in sales."
+    },
+    "sources": [
+      { "url": "https://news.gov.bc.ca/releases/2026JEG0020-000297", "title": "Funding innovative B.C. businesses through InBC, UBC", "publisher": "Government of British Columbia", "accessed": "2026-06-03", "supports": "fund size, contributions, launch, sectors, spinoffs", "quote": "Total fund capacity: 'as much as $40 million' ... InBC contribution: $10 million ... UBC contribution: $10 million ... Private capital: 'up to $20 million' ... Monday, March 23, 2026 ... 'Initial investments will focus on life sciences and deep tech' ... 'more than 280 spinoff companies' ... 'estimated $13 billion in sales'" },
+      { "url": "https://news.ubc.ca/2026/03/ubc-inbc-catalyst-ventures-fund/", "title": "UBC and InBC partner via Catalyst Ventures Fund", "publisher": "University of British Columbia", "accessed": "2026-06-03", "supports": "partnership, eligibility (spinoffs, faculty/staff/students/alumni)", "quote": "spinoff companies created from licensed UBC research discoveries and other eligible companies established by UBC faculty, staff, students and recent alumni" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Newly announced (March 2026). $40M is target capacity ($20M committed by UBC+InBC, up to $20M private to be raised). Per-deal check sizes not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "ca-sfu-innovates-venture-fund",
+    "name": { "en": "SFU Innovates Venture Fund" },
+    "aka": ["SFU Venture Fund"],
+    "type": "vc",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2026,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Burnaby",
+    "website": "https://inbcinvestment.com/inbc-sfu-launching-fund/",
+    "links": {
+      "other": ["https://vantechjournal.com/p/20-million-sfu-innovates-venture-fund-launches-to-commercialize-university-research"]
+    },
+    "capital": {
+      "aum": { "raw": "$15M (target $20M)", "usd": null, "currency": "CAD" },
+      "current_fund": { "raw": "$15M (target $20M)", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "SFU Innovates Venture Fund", "vintage_year": 2026, "size": { "raw": "$7.5M SFU + $7.5M InBC (target $20M)", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Canada", "British Columbia"],
+      "sector_focus": ["biotech", "deeptech", "climate-energy"],
+      "thesis": "Co-investment fund between Simon Fraser University and InBC Investment Corp. to commercialize SFU research, backing early-stage life sciences, deep tech and cleantech companies built on technologies developed by SFU researchers, students and alumni, to retain B.C. IP and talent in the province."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Photonic Inc.", "sector": "deeptech", "outcome": "active (raised $375M)" },
+        { "company": "Moment Energy", "sector": "climate-energy", "outcome": "active (US$40M Series B)" },
+        { "company": "Ionomr Innovations", "sector": "climate-energy", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": ["InBC Investment Corp."]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Eligible companies are built on technologies developed by SFU researchers, students and alumni; contact sfu_innovates@sfu.ca.",
+      "accepts_cold_inbound": true,
+      "contact": "sfu_innovates@sfu.ca"
+    },
+    "tags": ["university-affiliated", "commercialization", "spinout", "government-co-invest"],
+    "summary": {
+      "en": "Announced in May 2026 at Web Summit Vancouver, the SFU Innovates Venture Fund is a co-investment partnership between Simon Fraser University and InBC Investment Corp. Seeded with $7.5M from SFU and a matching $7.5M from InBC (target $20M), it invests in early-stage life sciences, deep tech and cleantech companies built on SFU researcher, student and alumni technologies. SFU discoveries have created 500+ ventures generating over $120M in revenue since 2020."
+    },
+    "sources": [
+      { "url": "https://inbcinvestment.com/inbc-sfu-launching-fund/", "title": "InBC and SFU Launching Fund", "publisher": "InBC Investment Corp.", "accessed": "2026-06-03", "supports": "fund size, partners, sectors, eligibility, spinoffs", "quote": "$7.5 million from SFU, $7.5 million matched by InBC, with fundraising underway to potentially reach $20 million ... Life sciences, deep technology, and cleantech ... Over 500 ventures created from SFU discoveries to date ... over $120 million in revenue since 2020" },
+      { "url": "https://vantechjournal.com/p/20-million-sfu-innovates-venture-fund-launches-to-commercialize-university-research", "title": "$20 million SFU Innovates Venture Fund launches to commercialize university research", "publisher": "Vancouver Tech Journal", "accessed": "2026-06-03", "supports": "launch date, target size, notable companies", "quote": "announced May 13, 2026 at Web Summit Vancouver ... Photonic Inc. (raised '$375 million') and Moment Energy (closed 'a US$40 million Series B')" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Newly announced (May 2026); $15M committed with fundraising to reach $20M. Sources differ slightly on launch date (May 12 vs 13, 2026). Per-deal check sizes not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "ca-ualberta-innovation-fund",
+    "name": { "en": "University of Alberta Innovation Fund" },
+    "aka": ["U of A Innovation Fund", "UAlberta Innovation Fund"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Edmonton",
+    "website": "https://www.ualberta.ca/en/giving/where-to-give/projects/u-of-a-innovation-fund.html",
+    "links": {
+      "other": ["https://bmllp.ca/news-listings/expansion-in-albertas-startup-funding-ecosystem-university-of-alberta-creates-an-innovation-fund-starting-at-5m-with-a-focus-in-ai-health-energy-and-agriculture/"]
+    },
+    "capital": {
+      "aum": { "raw": "CAD$5M initial (projected CAD$50M)", "usd": null, "currency": "CAD" },
+      "current_fund": { "raw": "CAD$5M (initial)", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "U of A Innovation Fund", "vintage_year": 2024, "size": { "raw": "$5M initial, projected $50M", "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Canada", "Alberta"],
+      "sector_focus": ["ai-ml", "agritech", "climate-energy", "healthtech"],
+      "thesis": "For-profit, wholly owned University of Alberta subsidiary investing in early-stage technology ventures connected to the university (students, graduate students, faculty, staff and alumni) in AI, agriculture, energy and health, favouring diverse teams with large-market potential."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Sheetal Mehta Walsh", "role": "CEO" }
+    ],
+    "application": {
+      "how_to_apply": "Submit an expression of interest; ventures must have a connection to the University of Alberta (students, faculty, staff or alumni).",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.ualberta.ca/en/giving/where-to-give/projects/u-of-a-innovation-fund.html"
+    },
+    "tags": ["university-affiliated", "for-profit-subsidiary", "commercialization", "alumni"],
+    "summary": {
+      "en": "Created in 2024, the University of Alberta Innovation Fund is a for-profit, wholly owned subsidiary of the University of Alberta. Starting at CAD$5M and projected to reach CAD$50M, it invests in early-stage AI, agriculture, energy and health ventures connected to the university (students, faculty, staff and alumni). Over 150 businesses and ideas had been reviewed at announcement; CEO is Sheetal Mehta Walsh."
+    },
+    "sources": [
+      { "url": "https://bmllp.ca/news-listings/expansion-in-albertas-startup-funding-ecosystem-university-of-alberta-creates-an-innovation-fund-starting-at-5m-with-a-focus-in-ai-health-energy-and-agriculture/", "title": "University of Alberta creates an Innovation Fund starting at $5M", "publisher": "Bishop & McKenzie LLP", "accessed": "2026-06-03", "supports": "fund size, structure, sectors, eligibility, leadership", "quote": "Initial: '$5 million' ... Projected: '$50 million fund' ... 'Artificial Intelligence, Agriculture, Energy, and Health sectors' ... 'undergraduate students, graduate students, faculty, staff, and University of Alberta Alumni' ... 'over 150 different businesses and ideas have been reviewed' ... CEO: Sheetal Mehta Walsh" },
+      { "url": "https://www.ualberta.ca/en/giving/where-to-give/projects/u-of-a-innovation-fund.html", "title": "U of A Innovation Fund", "publisher": "University of Alberta", "accessed": "2026-06-03", "supports": "fund existence and university affiliation", "quote": "U of A Innovation Fund" }
+    ],
+    "confidence": "high",
+    "verification_notes": "For-profit subsidiary of U of A, philanthropically capitalized; $5M start, $50M projected target. Per-deal check sizes and current portfolio not disclosed at announcement (March 2024).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "ca-tiap-toronto-innovation-acceleration-partners",
+    "name": { "en": "Toronto Innovation Acceleration Partners" },
+    "aka": ["TIAP", "MaRS Innovation"],
+    "type": "venture-studio",
+    "subtypes": ["accelerator", "vc"],
+    "status": "active",
+    "founded_year": 2008,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://tiap.ca/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/toronto-innovation-acceleration-partners",
+      "other": ["https://lifesciencesontario.ca/member-directory/toronto-innovation-acceleration-partners-tiap/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "up to $200K (Critical Technologies); follow-on bridge up to $500K (1:1 match)", "usd_min": null, "usd_max": null },
+      "geo_focus": ["Canada", "Ontario"],
+      "sector_focus": ["healthtech", "biotech", "ai-ml"],
+      "thesis": "Health-science venture-building organization affiliated with the University of Toronto and 11+ partner teaching hospitals, commercializing therapeutics, medical devices and digital health/AI research from member institutions through programs like UTEST, LAB150 and follow-on bridge financing."
+    },
+    "program": {
+      "investment": { "raw": "up to $200K (Critical Technologies stream); follow-on up to $500K", "usd": null, "currency": "CAD" },
+      "eligibility": "Health-science innovations (therapeutics, medical devices, digital health/AI) from member universities, hospitals and research institutes"
+    },
+    "track_record": {
+      "portfolio_count": "70+",
+      "notable_investments": [
+        { "company": "Deep Genomics", "sector": "biotech", "outcome": "active" }
+      ],
+      "exits": [],
+      "co_investors": ["Evotec SE", "Amgen"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Innovators at member institutions (U of T, partner teaching hospitals and research institutes) are sourced through institutional commercialization channels; programs include UTEST, LAB150-NextGen and Critical Technologies.",
+      "accepts_cold_inbound": null,
+      "contact": "https://tiap.ca/"
+    },
+    "tags": ["university-affiliated", "hospital-affiliated", "venture-builder", "commercialization", "health-science"],
+    "summary": {
+      "en": "Founded in 2008 (formerly MaRS Innovation), Toronto Innovation Acceleration Partners is a venture-building organization affiliated with the University of Toronto and 11 partner teaching hospitals, focused exclusively on commercializing health-science research—therapeutics, medical devices and digital health/AI. Over its 15-year track record it has launched 70+ companies that raised over $1B in private investment and created 1,000+ jobs."
+    },
+    "sources": [
+      { "url": "https://lifesciencesontario.ca/member-directory/toronto-innovation-acceleration-partners-tiap/", "title": "Toronto Innovation Acceleration Partners (TIAP)", "publisher": "Life Sciences Ontario", "accessed": "2026-06-03", "supports": "founding 2008, track record, affiliation, programs", "quote": "Since 2008, TIAP has been building relationships with innovators ... at Toronto's top universities, hospitals and research institutes ... a 15-year track record that includes the launch of more than 70 new companies, the raising of over $1B in private investment, and the creation of more than 1,000 jobs ... affiliated with the University of Toronto and 11 partner teaching hospitals ... pre-seed investment through UTEST ... Critical Technologies stream providing up to $200K ... follow-on bridge financing of up to $500K with a 1:1 cash match" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Classified as venture-studio (venture-builder) with accelerator/vc subtypes. Was formerly MaRS Innovation. Investment amounts are program-level (UTEST up to $150K via SAFE handled separately; Critical Technologies up to $200K; follow-on up to $500K). UTEST itself is already covered in the existing university-incubator file; TIAP is the parent commercialization organization.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "ca-acet-capital-sherbrooke",
+    "name": { "en": "ACET Capital", "local": "ACET Capital (Accélérateur de création d'entreprises technologiques)" },
+    "aka": ["ACET", "ACET Banque Nationale", "Accélérateur de création d'entreprises technologiques"],
+    "type": "vc",
+    "subtypes": ["accelerator", "incubator"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Sherbrooke",
+    "website": "https://acet.ca/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/acet-acc%C3%A9l%C3%A9rateur-de-cr%C3%A9ation-d-entreprises-technologiques"
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "CAD$7.6M (ACET Capital 2)", "usd": null, "currency": "CAD" },
+      "funds": [
+        { "name": "ACET Capital 1", "vintage_year": 2013, "size": { "raw": null, "usd": null, "currency": "CAD" } },
+        { "name": "ACET Capital 2 S.E.C.", "vintage_year": null, "size": { "raw": "CAD$7.6M", "usd": null, "currency": "CAD" } },
+        { "name": "Quantacet (quantum technology fund)", "vintage_year": 2023, "size": { "raw": null, "usd": null, "currency": "CAD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Canada", "Quebec"],
+      "sector_focus": ["deeptech", "hardware-semiconductor", "healthtech"],
+      "thesis": "Venture capital funds attached to the Université de Sherbrooke's technology accelerator (ACET), financing Quebec technology companies at seed/startup stage; capitalized by private investors plus institutional backers (Investissement Québec, National Bank). Quantacet (2023) is described as Canada's first fund reserved exclusively for quantum technology."
+    },
+    "track_record": {
+      "portfolio_count": "35 active (80+ projects accompanied since 2011)",
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": ["Investissement Québec", "National Bank of Canada"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Promising companies in the ACET accelerator can obtain equity investment from the associated ACET Capital venture funds; apply via the accelerator at acet.ca.",
+      "accepts_cold_inbound": true,
+      "contact": "https://acet.ca/"
+    },
+    "tags": ["university-affiliated", "accelerator-fund", "quebec", "quantum", "deeptech"],
+    "summary": {
+      "en": "ACET (Accélérateur de création d'entreprises technologiques), founded in 2011 at the Université de Sherbrooke, runs the ACET Capital venture funds (Capital 1 launched 2013; Capital 2 capitalized at CAD$7.6M; Quantacet, launched 2023, billed as Canada's first quantum-only fund). The funds back Quebec seed/startup-stage tech companies, backed by private investors plus Investissement Québec and National Bank.",
+      "local": "L'ACET, accélérateur de l'Université de Sherbrooke, gère les fonds de capital de risque ACET Capital, qui financent des entreprises technologiques québécoises en amorçage."
+    },
+    "sources": [
+      { "url": "https://acet.ca/actualites/fonds-de-76-m-pour-les-entreprises-technologiques-de-lacet/", "title": "Fonds de 7,6 M$ pour les entreprises technologiques de l'ACET", "publisher": "ACET", "accessed": "2026-06-03", "supports": "ACET Capital 2 size, backers, ACET Capital 1 launch 2013, portfolio", "quote": "ACET CAPITAL 2 S.E.C.: CAD 7.6 million total capitalization ... Government of Quebec (via Investissement Québec): CAD 2 million ... National Bank: CAD 1.4 million ... 21 private investors: CAD 4.2 million ... ACET CAPITAL (First Fund): Launch Year: 2013 ... Current portfolio: 35 active companies" },
+      { "url": "https://acet.ca/", "title": "ACET | Un accélérateur technologique", "publisher": "ACET", "accessed": "2026-06-03", "supports": "Université de Sherbrooke affiliation, accelerator + VC fund model, Quantacet", "quote": "The ACET offers promising companies the opportunity to obtain equity investment from a venture capital fund associated with the accelerator ... in 2023 launched Quantacet, the first Canadian investment fund reserved exclusively for quantum technology" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Accelerator founded 2011 (Université de Sherbrooke); ACET Capital 1 launched 2013, recapitalized 2016; ACET Capital 2 capitalized at $7.6M; Quantacet (quantum) launched 2023. Entity classified as vc with accelerator/incubator subtypes since the fund is the investing arm of the accelerator. Per-deal check sizes not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  },
+  {
+    "id": "ca-fairlead-social-impact-fund",
+    "name": { "en": "Fairlead Social Impact Fund" },
+    "aka": ["Fairlead", "Memorial University Social Impact Fund"],
+    "type": "government-program",
+    "subtypes": ["angel-network"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "St. John's",
+    "website": "https://www.mun.ca/social-enterprise/community-engagement/fairlead/",
+    "links": {
+      "other": ["https://www.mun.ca/marcomm/news-articles/memorial-launches-canadas-first-university-housed-student-managed-social-impact-fund.php", "https://www.gov.nl.ca/releases/2025/iet/0723n02/"]
+    },
+    "capital": {
+      "aum": { "raw": "CAD$75,000", "usd": null, "currency": "CAD" },
+      "current_fund": { "raw": "CAD$75,000", "usd": null, "currency": "CAD" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Canada", "Newfoundland and Labrador"],
+      "sector_focus": ["impact"],
+      "thesis": "Canada's first university-housed, student-managed social impact fund: Memorial University students deploy capital (micro and general loans) into purpose-driven, social-purpose organizations across Newfoundland and Labrador, with wrap-around investment-readiness and impact-measurement support."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "exits": [],
+      "co_investors": ["Propel Impact"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Social-purpose organizations in Newfoundland and Labrador can apply; the fund is housed at Memorial's Centre for Social Enterprise and offers investment-readiness training and impact measurement support.",
+      "accepts_cold_inbound": true,
+      "contact": "https://www.mun.ca/social-enterprise/community-engagement/fairlead/"
+    },
+    "tags": ["student-managed", "university-affiliated", "impact-investing", "social-enterprise", "atlantic-canada"],
+    "summary": {
+      "en": "Launched June 2025 at Memorial University's Centre for Social Enterprise, Fairlead is Canada's first university-housed, student-managed social impact fund. Students deploy real capital (micro and general loans, ~CAD$75K) into purpose-driven organizations across Newfoundland and Labrador. It is part of CSE's Impact Investing Fellowship, developed with national nonprofit Propel Impact, and is backed by the Suncor Energy Foundation, the provincial government and private donors.",
+      "local": null
+    },
+    "sources": [
+      { "url": "https://www.mun.ca/marcomm/news-articles/memorial-launches-canadas-first-university-housed-student-managed-social-impact-fund.php", "title": "Memorial launches Canada's first university-housed, student-managed social impact fund", "publisher": "Memorial University of Newfoundland", "accessed": "2026-06-03", "supports": "first of its kind, launch date, model, partners", "quote": "Memorial University launched the Fairlead Social Impact Fund on June 26, 2025, as Canada's first university-housed, student-managed impact investing fund ... housed at Memorial's Centre for Social Enterprise (CSE) ... developed in partnership with national nonprofit Propel Impact ... Support for the fund came from the Suncor Energy Foundation" },
+      { "url": "https://impactinvestinghub.ca/student-managed-funds/", "title": "Canadian student-managed funds", "publisher": "Impact Investing Hub", "accessed": "2026-06-03", "supports": "AUM $75,000, micro and general loans, first social impact fund", "quote": "Fairlead Social Impact Fund – Memorial University, Newfoundland | $75,000 AUM | 'first student-managed social impact fund based at a Canadian university'; micro and general loans" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Classified as government-program (publicly-backed, social-purpose lending vehicle) with angel-network subtype; deploys loans rather than equity. ~$75K AUM per Impact Investing Hub. Portfolio investments not yet enumerated (fund launched mid-2025).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-university-alumni"
+  }
+]

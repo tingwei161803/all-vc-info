@@ -3,93 +3,68 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-
-  <title>All-VC-Info · 全球創投與加速器名錄</title>
-  <meta name="description" content="2,454 筆可溯源的創投、加速器、育成中心、企業創投、天使網絡、政府計畫等投資機構,橫跨台灣、美國、日本、歐洲、南韓、東南亞、以色列、印度、加拿大 9 大地區 — 可多軸篩選、全文搜尋、中英雙語。" />
+  <title>全球創投與加速器名錄 · All-VC-Info</title>
+  <meta name="description" content="2,400+ 筆可溯源的創投、加速器、育成、CVC、天使、政府計畫等投資機構,橫跨 9 大地區 — 多軸篩選、全文搜尋、統計分析、中英雙語。" />
   <link rel="canonical" href="https://tingwei161803.github.io/all-vc-info/" />
   <meta name="theme-color" content="#6750A4" />
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='88'%3E%F0%9F%8F%A6%3C/text%3E%3C/svg%3E" />
-
   <meta property="og:type" content="website" />
   <meta property="og:title" content="All-VC-Info · 全球創投與加速器名錄" />
-  <meta property="og:description" content="2,454 筆可溯源的投資機構,橫跨 9 大地區。可多軸篩選、全文搜尋、中英雙語。" />
+  <meta property="og:description" content="2,400+ 筆可溯源的投資機構,橫跨 9 大地區。多軸篩選 · 統計分析 · 中英雙語。" />
   <meta property="og:url" content="https://tingwei161803.github.io/all-vc-info/" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="All-VC-Info · 全球創投與加速器名錄" />
-  <meta name="twitter:description" content="2,454 筆可溯源的投資機構,橫跨 9 大地區。" />
-
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "All-VC-Info",
-    "description": "Cross-region directory of 2,454 sourced VC firms, accelerators, incubators, CVCs, angel networks and government programs across 9 regions.",
-    "url": "https://tingwei161803.github.io/all-vc-info/"
-  }
+  { "@context":"https://schema.org","@type":"WebSite","name":"All-VC-Info","url":"https://tingwei161803.github.io/all-vc-info/" }
   </script>
-
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Roboto+Flex:opsz,wght@8..144,400..700&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,400..700&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet" />
   <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0&display=swap" rel="stylesheet" />
-
   <link rel="stylesheet" href="assets/styles.css" />
 </head>
 <body>
-  <header class="appbar">
-    <div class="appbar__inner">
-      <a class="brand" href="#top">
-        <span class="material-symbols-rounded brand__logo">account_balance</span>
-        <span class="brand__name" id="brandName">All-VC-Info</span>
-      </a>
-      <div class="appbar__actions">
-        <a class="gh-star" id="ghStar" href="https://github.com/tingwei161803/all-vc-info"
-           data-repo="tingwei161803/all-vc-info" target="_blank" rel="noopener"
-           title="GitHub" aria-label="GitHub repository">
-          <span class="material-symbols-rounded">star</span>
-          <span class="gh-star__count" id="ghStarCount">★</span>
-        </a>
-        <button class="icon-btn" id="langToggle" type="button"
-                title="Language" aria-label="Toggle language / 切換語言">
-          <span class="material-symbols-rounded">translate</span>
-          <span class="icon-btn__txt" id="langLabel">中</span>
-        </button>
-        <button class="icon-btn" id="themeToggle" type="button"
-                title="Theme" aria-label="Toggle theme / 切換主題">
-          <span class="material-symbols-rounded" id="themeIcon">dark_mode</span>
-        </button>
-      </div>
+  <header class="appbar"><div class="appbar__inner">
+    <a class="brand" href="index.html"><span class="material-symbols-rounded brand__logo">account_balance</span><span class="brand__name" id="brandName">All-VC-Info</span></a>
+    <div class="appbar__actions">
+      <a class="gh-star" id="ghStar" href="https://github.com/tingwei161803/all-vc-info" data-repo="tingwei161803/all-vc-info" target="_blank" rel="noopener" aria-label="GitHub"><span class="material-symbols-rounded">star</span><span class="gh-star__count" id="ghStarCount">★</span></a>
+      <button class="icon-btn" id="langToggle" type="button" aria-label="Toggle language / 切換語言"><span class="material-symbols-rounded">translate</span><span class="icon-btn__txt" id="langLabel">中</span></button>
+      <button class="icon-btn" id="themeToggle" type="button" aria-label="Toggle theme / 切換主題"><span class="material-symbols-rounded" id="themeIcon">dark_mode</span></button>
     </div>
-  </header>
-
-  <nav class="sectionnav" id="sectionNav" aria-label="Section navigation">
-    <div class="sectionnav__inner" id="sectionNavInner"></div>
-  </nav>
-
+  </div></header>
+  <nav class="siterail" id="siteRail" aria-label="Site navigation"></nav>
+  <nav class="sectionnav" id="sectionNav" aria-label="Section navigation"><div class="sectionnav__inner" id="sectionNavInner"></div></nav>
   <span id="top"></span>
-
   <main id="sections" aria-live="polite"></main>
-
   <dialog class="dialog" id="dialog" aria-labelledby="dialogTitle">
     <div class="dialog__bar">
-      <button class="icon-btn" id="dialogPrev" type="button" aria-label="Previous / 上一個">
-        <span class="material-symbols-rounded">chevron_left</span>
-      </button>
-      <button class="icon-btn" id="dialogNext" type="button" aria-label="Next / 下一個">
-        <span class="material-symbols-rounded">chevron_right</span>
-      </button>
+      <button class="icon-btn" id="dialogPrev" type="button" aria-label="Previous / 上一個"><span class="material-symbols-rounded">chevron_left</span></button>
+      <button class="icon-btn" id="dialogNext" type="button" aria-label="Next / 下一個"><span class="material-symbols-rounded">chevron_right</span></button>
       <span class="dialog__spacer"></span>
-      <button class="icon-btn" id="dialogClose" type="button" aria-label="Close / 關閉">
-        <span class="material-symbols-rounded">close</span>
-      </button>
+      <button class="icon-btn" id="dialogClose" type="button" aria-label="Close / 關閉"><span class="material-symbols-rounded">close</span></button>
     </div>
     <div class="dialog__body" id="dialogBody"></div>
   </dialog>
-
-  <footer class="footer">
-    <p id="footerText"></p>
-  </footer>
-
+  <footer class="footer"><p id="footerText"></p></footer>
+  <script>
+  window.SITE_PAGE = {
+    id:"home", kind:"home",
+    title:{en:"Global VC & Accelerator Directory", zh:"全球創投與加速器名錄"},
+    sections:[
+      {type:"kpi", id:"overview", source:"overview",
+        title:{en:"Global VC & Accelerator Directory", zh:"全球創投與加速器名錄"},
+        sub:{en:"A cross-region, fully-sourced directory of investment organizations — VC firms, accelerators, incubators, corporate VCs, angel networks, government programs, venture studios, micro-VCs and family offices. Every figure is traceable to its source.",
+             zh:"跨地區、逐筆附來源的投資機構名錄 — 涵蓋創投、加速器、育成中心、企業創投、天使網絡、政府計畫、創業工作室、Micro-VC 與家族辦公室。每個數字都可回溯到出處。"}},
+      {type:"regioncards", id:"regions", title:{en:"By region", zh:"分地區"}, sub:{en:"Nine regions — click through to each region's full landscape.", zh:"九大地區,點進去看各地區完整樣貌與名錄。"}},
+      {type:"bars", id:"by-region", title:{en:"Organizations by region", zh:"各地區機構數"}, source:"axis:region"},
+      {type:"donut", id:"by-type", title:{en:"By organization type", zh:"依機構類型"}, source:"axis:type"},
+      {type:"freshness", id:"fresh", title:{en:"Freshness check · 2026", zh:"現況查核 · 2026"}, sub:{en:"Spot-checked 2025–26 developments for marquee firms.", zh:"旗艦機構 2025–26 最新動態抽查。"}},
+      {type:"cta", id:"cta", title:{en:"Dive deeper", zh:"看更多"}, sub:{en:"Explore the full directory, the statistical analysis, or how this was built.", zh:"瀏覽完整名錄、統計分析,或這份資料是怎麼做的。"},
+        links:[ {href:"directory.html", icon:"travel_explore", label:{en:"Full directory", zh:"完整名錄"}},
+                {href:"analysis.html", icon:"analytics", label:{en:"Analysis", zh:"統計分析"}},
+                {href:"methodology.html", icon:"menu_book", label:{en:"Methodology", zh:"方法論"}} ]}
+    ]
+  };
+  </script>
   <script src="data/meta.js"></script>
   <script src="data/index.js"></script>
   <script src="assets/app.js"></script>

@@ -1,0 +1,595 @@
+[
+  {
+    "id": "il-israel-secondary-fund",
+    "name": { "en": "Israel Secondary Fund", "local": "" },
+    "aka": ["ISF"],
+    "type": "vc",
+    "subtypes": ["secondaries"],
+    "status": "active",
+    "founded_year": 2008,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.israelsecondary.com/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/israel-secondary-fund",
+      "crunchbase": "https://www.crunchbase.com/organization/israel-secondary-fund-isf",
+      "other": ["https://finder.startupnationcentral.org/investor_page/israel-secondary-fund"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$312M", "usd": 312000000, "currency": "USD" },
+      "funds": [
+        { "name": "ISF (third fund, 2022)", "vintage_year": 2022, "size": { "raw": "$312M", "usd": 312000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-b", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist", "deeptech"],
+      "thesis": "Tech-focused secondary fund providing liquidity to Israel's technology ecosystem: buys shares in startups from investors, founders and employees; acquires LP interests in VC funds; and structures GP-led / creative liquidity solutions for funds."
+    },
+    "track_record": {
+      "portfolio_count": "220+ companies",
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Dror Glass", "role": "Co-Founder / Managing Partner", "linkedin": "" },
+      { "name": "Nir Linchevski", "role": "Partner", "linkedin": "" },
+      { "name": "Eva Hubsman", "role": "Partner", "linkedin": "" },
+      { "name": "Ophir Reshef", "role": "Partner", "linkedin": "" }
+    ],
+    "application": { "how_to_apply": "Contact via website for secondary liquidity transactions", "accepts_cold_inbound": true, "contact": "" },
+    "tags": ["secondaries", "lp-stakes", "gp-led", "direct-secondary", "liquidity"],
+    "summary": {
+      "en": "Israel's pioneering tech-focused secondary fund (est. 2008), providing liquidity to founders, employees, angels and LPs by buying private-company shares and VC fund interests, and structuring GP-led continuation/restructuring deals. Raised $312M for its 2022 fund.",
+      "local": "קרן משנית ישראלית מהוותיקות בתחום הטכנולוגיה, מספקת נזילות למייסדים, עובדים, אנג'לים ושותפים מוגבלים."
+    },
+    "sources": [
+      { "url": "https://www.israelsecondary.com/", "title": "Home | ISF", "publisher": "Israel Secondary Fund", "accessed": "2026-06-03", "supports": "founding year, Tel Aviv HQ, strategy, 80+ transactions", "quote": "Since 2008, ISF has completed over 80 transactions in private tech companies and venture funds." },
+      { "url": "https://nocamels.com/2022/06/israe-secondary-fund-market/", "title": "Israel Secondary Fund Raises $312M For Israeli High-Tech Market", "publisher": "NoCamels", "accessed": "2026-06-03", "supports": "$312M fund close 2022", "quote": "Israel Secondary Fund Raises $312M For Israeli High-Tech Market" },
+      { "url": "https://www.calcalistech.com/ctechnews/article/ryxjs3ljlg", "title": "Beyond employee secondaries: Why LP liquidity matters for Israel's tech ecosystem", "publisher": "Calcalist (CTech)", "accessed": "2026-06-03", "supports": "founders, partners, 220+ companies, LP liquidity strategy", "quote": "ISF has invested, directly and indirectly, in more than 220 companies through over 90 secondary transactions." }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founder names (Dror Glass, Shmuel Shilo) and current partners drawn from secondary press; site lists 'over 80 transactions' while CTech cites '220+ companies through 90+ secondary transactions'. AUM/total fund count not disclosed. Site homepage showed a likely-erroneous '1990' founding stat; 2008 is the consistently reported launch year.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "il-vintage-investment-partners",
+    "name": { "en": "Vintage Investment Partners", "local": "" },
+    "aka": ["Vintage IP", "Vintage Venture Partners"],
+    "type": "vc",
+    "subtypes": ["secondaries", "fund-of-funds", "growth-equity"],
+    "status": "active",
+    "founded_year": 2003,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Herzliya",
+    "website": "https://vintage-ip.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/vintage-investment-partners",
+      "crunchbase": "https://www.crunchbase.com/organization/vintage-investment-partners",
+      "other": ["https://vintage-ip.com/secondaries/", "https://finder.startupnationcentral.org/investor_page/Vintage-Investment-Partners"]
+    },
+    "capital": {
+      "aum": { "raw": "$4B", "usd": 4000000000, "currency": "USD" },
+      "current_fund": { "raw": "$500M (fund-of-funds) + $312M (secondary)", "usd": null, "currency": "USD" },
+      "funds": [
+        { "name": "Vintage Fund-of-Funds", "vintage_year": null, "size": { "raw": "$500M", "usd": 500000000, "currency": "USD" } },
+        { "name": "Vintage Secondary Fund", "vintage_year": null, "size": { "raw": "$312M", "usd": 312000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-b", "series-c-plus", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel", "United States", "Europe", "Global"],
+      "sector_focus": ["generalist", "deeptech", "saas-enterprise"],
+      "thesis": "Three strategic pillars — Secondaries, Fund-of-Funds, and Growth. Buys LP interests in venture funds, direct shares from founders/employees/angels, entire portfolios and tail-end fund positions; also a primary fund-of-funds and growth investor."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Alan Feld", "role": "Founder & Managing Partner", "linkedin": "" }
+    ],
+    "application": { "how_to_apply": "inquiries@vintage-ip.com for secondaries; contact via website", "accepts_cold_inbound": true, "contact": "inquiries@vintage-ip.com" },
+    "tags": ["secondaries", "fund-of-funds", "lp-stakes", "growth", "tail-end", "gp-led"],
+    "summary": {
+      "en": "Herzliya-based global manager founded 2003, started as a ~$63M Israel-centric secondary fund and now manages ~$4B across three pillars: Secondaries, Fund-of-Funds and Growth. Raised $812M across two new funds (a $500M FoF and a $312M secondary fund).",
+      "local": "מנהל השקעות גלובלי מהרצליה, פועל בשלושה אנכים: משניות, קרן של קרנות וצמיחה, מנהל כ-4 מיליארד דולר."
+    },
+    "sources": [
+      { "url": "https://www.timesofisrael.com/israels-vintage-investment-partners-raises-812m-for-two-new-funds/", "title": "Israel's Vintage Investment Partners raises $812m for two new funds", "publisher": "The Times of Israel", "accessed": "2026-06-03", "supports": "Herzliya HQ, $500M FoF, $312M secondary, $3B+ AUM, strategy", "quote": "The Herzliya-based firm is launching a $500 million fund that will invest in other funds, known as a fund-of-funds, with another $312 million being raised for a secondary fund." },
+      { "url": "https://vintage-ip.com/secondaries/", "title": "Secondaries - Vintage Investment Partners", "publisher": "Vintage Investment Partners", "accessed": "2026-06-03", "supports": "secondaries strategy: LP interests, direct shares, tail-end", "quote": "Vintage acquires individual company holdings, entire portfolios, LP interests, provides tail-end fund offers" },
+      { "url": "https://www.secondariesinvestor.com/three-questions-vintage-partners-alan-feld/", "title": "Three questions with Vintage Partners' Alan Feld", "publisher": "Secondaries Investor", "accessed": "2026-06-03", "supports": "founder Alan Feld, founded 2003, ~$63M first fund, ~$4B AUM", "quote": "Celebrating 20 years from inception as a modest $63M secondary fund centered on Israel" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AUM cited as '$3B+' (2022 ToI) and '~$4B' (Crunchbase/firm 20-year retrospective); used $4B with note. Founding year 2003 per firm retrospective.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "il-sgf-fund",
+    "name": { "en": "SGF Fund", "local": "" },
+    "aka": ["SGF Israel", "Secondary GP Fund"],
+    "type": "vc",
+    "subtypes": ["fund-of-funds", "secondaries"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Netanya",
+    "website": "https://www.sgfisrael.com/",
+    "links": { "other": [] },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist", "deeptech", "biotech", "agritech"],
+      "thesis": "Fund-of-funds with three components: primary investments in tier-1 Israel-focused VC and PE funds; secondary investments acquiring stakes at attractive valuations; and co-investments alongside reputable Israeli GPs. Targets managers with $300M+ AUM."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [], "co_investors": [] },
+    "people": [
+      { "name": "Mark Oigman", "role": "Founder & Managing General Partner", "linkedin": "" },
+      { "name": "Dean Pollack", "role": "General Partner / CFO", "linkedin": "" }
+    ],
+    "application": { "how_to_apply": "Contact via website", "accepts_cold_inbound": null, "contact": "" },
+    "tags": ["fund-of-funds", "secondaries", "co-investment", "lp-stakes"],
+    "summary": {
+      "en": "Netanya-based fund-of-funds investing alongside top Israel-focused GPs, combining primary fund commitments, secondaries, and co-investments. Selects managers with $300M+ AUM and may allocate up to 20% to special situations.",
+      "local": "קרן של קרנות מנתניה המשקיעה לצד מנהלים מובילים ממוקדי-ישראל, משלבת התחייבויות ראשוניות, משניות והשקעות משותפות."
+    },
+    "sources": [
+      { "url": "https://www.sgfisrael.com/", "title": "SGF Fund | Headquartered in Israel", "publisher": "SGF Fund", "accessed": "2026-06-03", "supports": "Netanya HQ, FoF/secondary/co-invest strategy, $300M+ AUM criterion, people", "quote": "invests alongside highly reputable GPs in Israel and locates and executes highly attractive secondary deals" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year and fund size not disclosed on site. Sector list ('IT, Automation, Transportation, Pharmaceutics, Medical Equipment, Agriculture') describes underlying portfolio breadth. Single primary source.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "il-viola-credit",
+    "name": { "en": "Viola Credit", "local": "" },
+    "aka": ["Plenus Venture Lending"],
+    "type": "vc",
+    "subtypes": ["venture-debt", "private-credit"],
+    "status": "active",
+    "founded_year": 2000,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Herzliya",
+    "website": "https://www.viola-group.com/fund/violacredit/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/viola-credit",
+      "other": ["https://finder.startupnationcentral.org/investor_page/viola-credit", "https://pitchbook.com/profiles/advisor/51204-16"]
+    },
+    "capital": {
+      "aum": { "raw": "$4B", "usd": 4000000000, "currency": "USD" },
+      "current_fund": { "raw": "$2B (ABL Fund III, 2025)", "usd": 2000000000, "currency": "USD" },
+      "funds": [
+        { "name": "Asset-Based Lending Fund III", "vintage_year": 2025, "size": { "raw": "$2B", "usd": 2000000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel", "United States", "United Kingdom", "Europe", "Australia", "New Zealand"],
+      "sector_focus": ["fintech", "proptech", "saas-enterprise"],
+      "thesis": "Global alternative credit asset manager offering two products: Growth Lending (minimal-dilution financing for operational growth) and Asset-Backed Lending for FinTech/PropTech lenders to fund loan-origination activity."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [], "co_investors": [] },
+    "people": [],
+    "application": { "how_to_apply": "Contact via Viola Group website", "accepts_cold_inbound": true, "contact": "" },
+    "tags": ["venture-debt", "growth-lending", "asset-based-lending", "private-credit", "non-dilutive"],
+    "summary": {
+      "en": "Herzliya-based credit arm of the Viola Group (formerly Plenus Venture Lending, founded 2000), with ~$4B AUM. Provides Growth Lending and Asset-Backed Lending across the US, UK, Europe, Israel and Australia/NZ. Closed an oversubscribed $2B third ABL fund in 2025.",
+      "local": "זרוע האשראי של קבוצת ויולה (לשעבר פלנוס), מהרצליה, מנהלת כ-4 מיליארד דולר, מספקת הלוואות צמיחה והלוואות מגובות נכסים."
+    },
+    "sources": [
+      { "url": "https://www.viola-group.com/fund/violacredit/", "title": "Viola Credit", "publisher": "Viola Group", "accessed": "2026-06-03", "supports": "strategy (Growth Lending + ABL), geographies, $4B AUM", "quote": "Viola Credit is a credit asset manager with $4 billion in AuM." },
+      { "url": "https://www.prnewswire.com/news-releases/viola-credit-announces-oversubscribed-2-billion-final-close-for-its-third-asset-based-lending-fund-302598247.html", "title": "Viola Credit Announces Oversubscribed $2 Billion Final Close for its Third Asset-Based Lending Fund", "publisher": "PR Newswire", "accessed": "2026-06-03", "supports": "$2B ABL Fund III final close 2025", "quote": "The Fund is oversubscribed at $2 billion of committed and investable capital ... surpassing its $1.5 billion target." }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2000 as Plenus Venture Lending per Crunchbase; AUM figure ($4B) and $2B Fund III close from firm and PR sources. Some sources cite '$3B+ of asset-based lending transactions' as cumulative deployment vs AUM.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "il-liquidity-group",
+    "name": { "en": "Liquidity Group", "local": "" },
+    "aka": ["Liquidity Capital", "LIQUiDITY"],
+    "type": "vc",
+    "subtypes": ["venture-debt", "revenue-based-financing", "private-credit"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.liquidity.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/liquidity-capital/",
+      "other": ["https://finder.startupnationcentral.org/investor_page/liquidity", "https://app.dealroom.co/companies/liquidity_capital"]
+    },
+    "capital": {
+      "aum": { "raw": "$2.7B", "usd": 2700000000, "currency": "USD" },
+      "current_fund": { "raw": "$200M (sixth debt fund, raising)", "usd": 200000000, "currency": "USD" },
+      "funds": [
+        { "name": "Debt + equity funds (7 vehicles)", "vintage_year": null, "size": { "raw": "$2.7B total", "usd": 2700000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-b", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel", "United States", "Asia-Pacific", "Europe", "Middle East"],
+      "sector_focus": ["fintech", "saas-enterprise", "generalist"],
+      "thesis": "AI/ML-driven non-dilutive growth capital: provides revenue-based financing and venture debt to mid-market, late-stage companies, automating the credit-assessment and lending cycle (term sheets in as little as 24 hours)."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [], "co_investors": ["MUFG", "Meitav Dash", "Apollo", "Spark"] },
+    "people": [
+      { "name": "Ron Daniel", "role": "Co-Founder & CEO", "linkedin": "" }
+    ],
+    "application": { "how_to_apply": "Apply via liquidity.com platform", "accepts_cold_inbound": true, "contact": "" },
+    "tags": ["revenue-based-financing", "venture-debt", "non-dilutive", "fintech-lender", "machine-learning"],
+    "summary": {
+      "en": "Tel Aviv-based fintech and debt asset manager (founded 2018 by Ron Daniel) offering machine-learning-driven, non-dilutive revenue-based financing and venture debt to late-stage/mid-market companies. Manages ~$2.7B across multiple debt and equity funds; backers include MUFG and Meitav Dash; reached unicorn status.",
+      "local": "מנהל אשראי ופינטק מתל אביב, מספק מימון מבוסס הכנסות וחוב סיכון ללא דילול באמצעות פלטפורמת למידת מכונה."
+    },
+    "sources": [
+      { "url": "https://www.calcalistech.com/ctechnews/article/s1v00mfqup", "title": "Liquidity Group raising $200 million for sixth debt fund", "publisher": "Calcalist (CTech)", "accessed": "2026-06-03", "supports": "fund structure, $2.7B AUM, $200M sixth fund, investors", "quote": "The company currently manages five debt funds and two dedicated investment vehicles ... and one equity fund ... the company's total raisings will reach $2.7 billion." },
+      { "url": "https://www.calcalistech.com/ctechnews/article/rjhmtaeco", "title": "Liquidity Group reaches unicorn status with new $40 million investment from Japan's MUFG", "publisher": "Calcalist (CTech)", "accessed": "2026-06-03", "supports": "founded 2018, Ron Daniel CEO, Tel Aviv, unicorn, RBF model", "quote": "founded in 2018 ... founded by Ron Daniel, who also serves as the CEO" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Liquidity Group (asset manager) and Liquidity Capital (fund-management vehicle) are related entities within the same group. AUM cited variously as $2.7B–$4B across years; used $2.7B from sixth-fund article with note.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "il-kreos-capital",
+    "name": { "en": "Kreos Capital", "local": "" },
+    "aka": ["Kreos", "BlackRock Kreos"],
+    "type": "vc",
+    "subtypes": ["venture-debt", "growth-debt", "private-credit"],
+    "status": "acquired",
+    "founded_year": 1998,
+    "region": "israel",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "offices": [
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "Israel", "city": "Herzliya" },
+      { "country": "Sweden", "city": "Stockholm" }
+    ],
+    "website": "https://www.kreoscapital.com/",
+    "links": {
+      "other": ["https://www.blackrock.com/institutions/en-global/kreoscapital", "https://tracxn.com/d/private-debt-fund/kreos-capital"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel", "Europe", "United Kingdom"],
+      "sector_focus": ["fintech", "cybersecurity", "hardware-semiconductor", "ai-ml", "biotech", "healthtech"],
+      "thesis": "Leading European/Israeli growth- and venture-debt provider, financing fast-growing technology and healthcare companies from entry-level growth through late-stage / pre-IPO. ~25% of activity is in Israel. Acquired by BlackRock in 2023."
+    },
+    "track_record": {
+      "portfolio_count": "570+ companies",
+      "notable_investments": [
+        { "company": "Gett", "sector": "mobility", "outcome": "active" },
+        { "company": "SolarEdge", "sector": "climate-energy", "outcome": "IPO" },
+        { "company": "BiolineRX", "sector": "biotech", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [],
+    "application": { "how_to_apply": "Contact via website / BlackRock Private Markets", "accepts_cold_inbound": true, "contact": "" },
+    "tags": ["venture-debt", "growth-debt", "private-credit", "pan-european", "blackrock", "israel-office"],
+    "summary": {
+      "en": "Pan-European and Israeli growth/venture-debt pioneer founded 1998, with an Israel office in Herzliya (~25% of activity in Israel). Has provided €5.7B+ of venture debt to 570+ tech and healthcare companies. Acquired by BlackRock in 2023 and folded into its Private Markets platform.",
+      "local": "ספק חוב צמיחה/חוב סיכון פאן-אירופי וישראלי, עם משרד בישראל; כ-25% מהפעילות בישראל; נרכש על ידי בלאקרוק ב-2023."
+    },
+    "sources": [
+      { "url": "https://www.timesofisrael.com/blackrock-snaps-up-provider-of-loans-to-israeli-and-european-startups/", "title": "BlackRock snaps up provider of loans to Israeli and European startups", "publisher": "The Times of Israel", "accessed": "2026-06-03", "supports": "founded 1998, €800M/yr lending, €5.7B / 570+ companies, Israel office, sectors, notable clients", "quote": "Founded in 1998, Kreos has provided €5.7 billion in venture debt financing to more than 570 pan-European and Israeli high-growth companies" },
+      { "url": "https://ir.blackrock.com/news-and-events/press-releases/press-releases-details/2023/BlackRock-Inc.-announces-the-closing-of-its-acquisition-of-private-debt-manager-Kreos-Capital/default.aspx", "title": "BlackRock announces the closing of its acquisition of private debt manager Kreos Capital", "publisher": "BlackRock", "accessed": "2026-06-03", "supports": "BlackRock acquisition closed 2023", "quote": "BlackRock, Inc. announces the closing of its acquisition of private debt manager Kreos Capital" }
+    ],
+    "confidence": "high",
+    "verification_notes": "HQ is London (UK) with a material Israel office in Herzliya; country set to United Kingdom per schema (org's specific country), but included as an Israel-active long-tail venture-debt provider. ~25% of operations in Israel per ToI. Status 'acquired' (by BlackRock, Aug 2023).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "il-iron-nation",
+    "name": { "en": "Iron Nation Fund", "local": "" },
+    "aka": ["Iron Nation"],
+    "type": "vc",
+    "subtypes": ["co-investment", "fund-of-funds"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.ironnation.org/",
+    "links": {
+      "linkedin": "https://il.linkedin.com/company/ironnation",
+      "other": ["https://finder.startupnationcentral.org/investor_page/iron-nation", "https://en.globes.co.il/en/article-israeli-vc-firm-iron-nation-launches-60m-fund-1001539972"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$60M (second fund)", "usd": 60000000, "currency": "USD" },
+      "funds": [
+        { "name": "Iron Nation Fund I (emergency)", "vintage_year": 2023, "size": { "raw": "$20.4M deployed", "usd": 20400000, "currency": "USD" } },
+        { "name": "Iron Nation Fund II", "vintage_year": 2025, "size": { "raw": "$60M target", "usd": 60000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist", "deeptech", "cybersecurity"],
+      "thesis": "Collaborative ecosystem fund that co-invests alongside premier venture funds, backed by Israeli institutions and pro-Israel LPs; founded post-October 7 as a rapid-response vehicle, now expanding into full-scale VC focused on scale-up-ready companies expanding to the US."
+    },
+    "track_record": { "portfolio_count": "24 companies (Fund I)", "notable_investments": [], "co_investors": [] },
+    "people": [
+      { "name": "Gil Friedlander", "role": "Co-Founder", "linkedin": "" },
+      { "name": "Chen Linchevski", "role": "Co-Founder", "linkedin": "" },
+      { "name": "Jason Wolf", "role": "Co-Founder", "linkedin": "" }
+    ],
+    "application": { "how_to_apply": "Contact via website", "accepts_cold_inbound": true, "contact": "" },
+    "tags": ["co-investment", "fund-of-funds", "pro-israel-lp", "rapid-response", "ecosystem-fund"],
+    "summary": {
+      "en": "Collaborative co-investment / ecosystem fund founded after October 7, 2023 to backstop Israeli startups facing halted rounds. Deployed a first $20.4M across 24 companies in 2024, then launched a $60M second fund (anchored by the State of Indiana, $15M) for scale-up-ready companies, co-investing alongside premier venture funds.",
+      "local": "קרן אקו-סיסטם המשקיעה לצד קרנות הון סיכון מובילות, הוקמה לאחר ה-7 באוקטובר לתמיכה בסטארטאפים ישראליים."
+    },
+    "sources": [
+      { "url": "https://www.calcalistech.com/ctechnews/article/rj4qpl5311g", "title": "Iron Nation launches $60 million second fund as it expands into full-scale VC", "publisher": "Calcalist (CTech)", "accessed": "2026-06-03", "supports": "$60M second fund, $20.4M Fund I across 24 companies, founders, co-invest strategy", "quote": "Iron Nation launches $60 million second fund as it expands into full-scale VC" },
+      { "url": "https://www.ironnation.org/", "title": "Iron Nation Fund | Israeli Startup Investments", "publisher": "Iron Nation", "accessed": "2026-06-03", "supports": "co-investment alongside premier funds, pro-Israel LPs", "quote": "co-investing alongside premier venture funds and backed by dedicated pro-Israel LPs" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Primarily a co-investment ecosystem fund (FoF-adjacent) rather than a pure secondaries/debt player; included for its fund-of-funds-style co-invest structure alongside premier VCs. Indiana ($15M) is anchor LP of Fund II.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "il-equitybee",
+    "name": { "en": "Equitybee", "local": "" },
+    "aka": ["EquityBee"],
+    "type": "crowdfunding",
+    "subtypes": ["secondaries", "stock-option-financing"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "offices": [
+      { "country": "United States", "city": "Palo Alto" },
+      { "country": "Israel", "city": "Tel Aviv" }
+    ],
+    "website": "https://equitybee.com/",
+    "links": {
+      "other": ["https://equitybee.com/investors", "https://finder.startupnationcentral.org/company_page/equitybee"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["growth", "series-b", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["United States", "Israel", "Global"],
+      "sector_focus": ["generalist", "saas-enterprise"],
+      "thesis": "Marketplace connecting startup employees with accredited investors who fund the exercise of employee stock options at pre-IPO companies — a secondary-adjacent route to private-company exposure (median ~70% discount to last share price)."
+    },
+    "track_record": { "portfolio_count": "890+ startups", "notable_investments": [], "co_investors": [] },
+    "people": [
+      { "name": "Oren Barzilai", "role": "Co-Founder & CEO", "linkedin": "https://www.linkedin.com/in/orenbarzilai/" },
+      { "name": "Oded Golan", "role": "Co-Founder", "linkedin": "" },
+      { "name": "Mody Radashkovich", "role": "Co-Founder", "linkedin": "" }
+    ],
+    "application": { "how_to_apply": "Register as investor or employee at equitybee.com", "accepts_cold_inbound": true, "contact": "" },
+    "tags": ["secondaries", "stock-option-financing", "employee-liquidity", "marketplace", "pre-ipo"],
+    "summary": {
+      "en": "Tel Aviv / Palo Alto marketplace (founded 2018 by Oren Barzilai, Oded Golan and Mody Radashkovich) that lets accredited investors fund employees' stock-option exercises at pre-IPO startups — a secondaries-adjacent liquidity tool. Over $317M transacted across 890+ venture-backed startups, with 298 liquidity events.",
+      "local": "פלטפורמת שוק מתל אביב המחברת בין עובדי סטארטאפ למשקיעים שממנים מימוש אופציות בחברות פרטיות לפני הנפקה."
+    },
+    "sources": [
+      { "url": "https://equitybee.com/investors", "title": "Equitybee | Investors", "publisher": "Equitybee", "accessed": "2026-06-03", "supports": "founded 2018, $317M volume, 890+ startups, 298 liquidity events, 70% discount", "quote": "over $317 million in total transaction volume ... 890+ venture-backed startups" },
+      { "url": "https://www.timesofisrael.com/israeli-fintech-startup-helps-tech-workers-crunch-value-of-stock-options/", "title": "Israeli fintech startup helps tech workers crunch value of stock options", "publisher": "The Times of Israel", "accessed": "2026-06-03", "supports": "Israeli founding, founders, model", "quote": "Equitybee was founded in Tel Aviv, Israel, in 2018 by ... Oren Barzilai, Oded Golan and Mody Radashkovich" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Funds stock-option exercises rather than buying shares outright, so it is secondaries-adjacent rather than a classic secondary buyer; included as a long-tail private-market liquidity player. Transaction-volume figures vary by date ($235M–$317M); used current site figure with note.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "il-manor-evergreen",
+    "name": { "en": "Manor Evergreen Investment Fund", "local": "" },
+    "aka": ["Manor EG", "Manor"],
+    "type": "growth-equity",
+    "subtypes": ["evergreen", "secondaries"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.manoreg.com/en",
+    "links": { "other": [] },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist", "proptech", "hardware-semiconductor", "healthtech"],
+      "thesis": "Described as Israel's first evergreen fund: a broad, opportunistic private-equity mandate partnering with promising Israeli private companies across industry, infrastructure, technology and real estate, with an open-ended structure that supports secondary / liquidity transactions."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [], "co_investors": [] },
+    "people": [
+      { "name": "Dr. Avi Ortal", "role": "Co-Founder (former CEO, Leumi Partners)", "linkedin": "" },
+      { "name": "Lilach Katz", "role": "Co-Founder (former CFO, Leumi Partners)", "linkedin": "" },
+      { "name": "Yuval Zehira", "role": "Co-Founder (former CIO, Leumi Partners)", "linkedin": "" }
+    ],
+    "application": { "how_to_apply": "Limited to qualified investors (max 35 investors) per Israeli Securities Law", "accepts_cold_inbound": null, "contact": "" },
+    "tags": ["evergreen", "private-equity", "secondaries", "open-ended", "qualified-investors"],
+    "summary": {
+      "en": "Tel Aviv evergreen private-equity fund founded June 2023 by three former Leumi Partners executives, marketed as Israel's first evergreen fund. Broad opportunistic mandate across Israeli private companies (industry, infrastructure, tech, real estate); backers include Menora Mivtachim, Migdal, IBI and Bank Leumi.",
+      "local": "קרן אברגרין ישראלית מתל אביב, הוקמה ב-2023 על ידי בכירים לשעבר מלאומי פרטנרס, מתוארת כקרן האברגרין הראשונה בישראל."
+    },
+    "sources": [
+      { "url": "https://www.manoreg.com/en", "title": "Manor Evergreen Investment Fund | Israel", "publisher": "Manor Evergreen", "accessed": "2026-06-03", "supports": "founded June 2023, Tel Aviv, evergreen PE mandate, founders, institutional backers", "quote": "Israel's first Evergreen fund ... partnering with promising Israeli private companies" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Primarily an evergreen direct-PE vehicle; its open-ended structure makes it relevant to secondaries/liquidity but it is not a dedicated secondary buyer. Fund size/AUM not disclosed. Single primary source.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "il-leumitech",
+    "name": { "en": "LeumiTech", "local": "לאומיטק" },
+    "aka": ["Leumi Tech"],
+    "type": "cvc",
+    "subtypes": ["venture-debt", "tech-banking"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.leumitech.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/leumitech",
+      "other": ["https://www.leumitech.com/about/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel", "United States"],
+      "sector_focus": ["generalist", "saas-enterprise", "fintech"],
+      "thesis": "Tech-banking arm of Bank Leumi providing financial products and venture lending to Israeli startups (seed to pre-IPO) and VC funds; a domestic alternative to SVB-style venture lending, with US activity supported via Valley National Bank."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [], "co_investors": [] },
+    "people": [],
+    "application": { "how_to_apply": "Contact via leumitech.com", "accepts_cold_inbound": true, "contact": "" },
+    "tags": ["venture-debt", "venture-lending", "tech-banking", "bank-arm", "svb-alternative"],
+    "summary": {
+      "en": "Tech-banking division of Bank Leumi (launched 2014), the pioneer of Israeli tech banking, providing venture lending and financial services to startups across all stages and to VC funds. Benefited from SVB's 2023 collapse; US business supported through Bank Leumi's stake in Valley National Bank.",
+      "local": "זרוע הבנקאות הטכנולוגית של בנק לאומי, מספקת הלוואות סיכון ושירותים פיננסיים לסטארטאפים ולקרנות הון סיכון."
+    },
+    "sources": [
+      { "url": "https://www.leumitech.com/about/", "title": "About Us - Tech Banking for Startups and VCs | LeumiTech", "publisher": "LeumiTech / Bank Leumi", "accessed": "2026-06-03", "supports": "tech-banking and venture-lending arm of Bank Leumi, stages, Valley National Bank stake", "quote": "the pioneer of Israeli tech banking and financial services ... Bank Leumi owns 14% of Valley National Bank" },
+      { "url": "https://www.jpost.com/business-and-innovation/opinion/article-735125", "title": "SVB crash and the future of venture lending in Israel", "publisher": "The Jerusalem Post", "accessed": "2026-06-03", "supports": "LeumiTech / Discount Tech / Poalim Hi-Tech as local venture-lending competitors to SVB", "quote": "Local SVB competitors such as Leumi Tech, Discount Tech and Poalim Hi-Tech are likely to benefit" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year 2014 is widely reported for LeumiTech's establishment but not explicitly on the 'about' page (which says 'over a decade'). It is a bank tech-banking/venture-lending arm rather than a fund; classified as cvc (bank-affiliated). AUM/loan-book size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "il-poalim-tech",
+    "name": { "en": "Poalim Tech", "local": "פועלים הייטק" },
+    "aka": ["Poalim Hi-Tech", "Poalim High-Tech"],
+    "type": "cvc",
+    "subtypes": ["venture-debt", "tech-banking"],
+    "status": "active",
+    "founded_year": null,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "https://www.poalimtech.com/en",
+    "links": {
+      "other": ["https://www.poalimtech.com/en/early-stage", "https://www.ivc-online.com/Google-Card?id=b7ffcb5c-207a-e111-ac59-00155d32a403"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel"],
+      "sector_focus": ["generalist", "saas-enterprise", "fintech"],
+      "thesis": "Tech-banking arm of Bank Hapoalim offering venture lending and structured debt to startups and VCs: venture lending, working capital, AR/PO and ARR term loans, guarantees, acquisition financing, revolving credit and syndicated loans."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [], "co_investors": [] },
+    "people": [],
+    "application": { "how_to_apply": "Contact via poalimtech.com; accounts via Bank Hapoalim", "accepts_cold_inbound": true, "contact": "" },
+    "tags": ["venture-debt", "venture-lending", "tech-banking", "bank-arm", "arr-loans", "svb-alternative"],
+    "summary": {
+      "en": "Tech-banking division of Bank Hapoalim providing venture lending and structured debt (working capital, ARR term loans, acquisition financing, syndicated and revolving facilities) to Israeli startups and VCs from inception to revenue. A domestic SVB-alternative venture lender.",
+      "local": "זרוע הבנקאות הטכנולוגית של בנק הפועלים, מספקת הלוואות סיכון וחוב מובנה לסטארטאפים ולקרנות הון סיכון."
+    },
+    "sources": [
+      { "url": "https://www.poalimtech.com/en/early-stage", "title": "Early Stage Banking for Startups | Poalim Tech", "publisher": "Poalim Tech / Bank Hapoalim", "accessed": "2026-06-03", "supports": "venture lending and financing products, Bank Hapoalim parent", "quote": "Venture Lending, Working Capital AR, PO, ARR, Term Loans, Guarantees ... accounts ... opened with Bank Hapoalim Ltd." },
+      { "url": "https://www.jpost.com/business-and-innovation/opinion/article-735125", "title": "SVB crash and the future of venture lending in Israel", "publisher": "The Jerusalem Post", "accessed": "2026-06-03", "supports": "Poalim Hi-Tech as local SVB venture-lending competitor", "quote": "Local SVB competitors such as Leumi Tech, Discount Tech and Poalim Hi-Tech are likely to benefit" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Bank-affiliated tech-banking / venture-lending arm rather than an independent fund; classified cvc. Founding year and loan-book size not disclosed. Brand appears as both 'Poalim Tech' and 'Poalim Hi-Tech'.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  },
+  {
+    "id": "il-capital-point",
+    "name": { "en": "Capital Point Ltd.", "local": "קפיטל פוינט" },
+    "aka": ["Capital Point", "CPTP"],
+    "type": "vc",
+    "subtypes": ["venture-finance", "holding-company"],
+    "status": "active",
+    "founded_year": 2000,
+    "region": "israel",
+    "country": "Israel",
+    "hq_city": "Tel Aviv",
+    "website": "http://www.capitalpoint.co.il/",
+    "links": {
+      "other": ["https://market.tase.co.il/he/market_data/company/1325", "https://www.globes.co.il/portal/instrument.aspx?instrumentid=19504&mode=company"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "pre-seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Israel"],
+      "sector_focus": ["deeptech", "healthtech", "generalist"],
+      "thesis": "Publicly-listed (TASE: CPTP) holding/venture-finance company financing and investing in early-stage Israeli technology companies; controls technology incubators (Migu and Ofakim) under the Chief Scientist's incubator program."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [], "co_investors": [] },
+    "people": [],
+    "application": { "how_to_apply": "Via portfolio incubators / contact company", "accepts_cold_inbound": null, "contact": "" },
+    "tags": ["venture-finance", "listed-company", "incubator-holding", "early-stage"],
+    "summary": {
+      "en": "Tel Aviv-based, Tel Aviv Stock Exchange-listed (CPTP) venture-finance and holding company incorporated in 2000, financing and investing in early-stage Israeli tech, and holding majority stakes in the Migu and Ofakim peripheral high-tech incubators under the Chief Scientist program.",
+      "local": "חברת מימון והחזקות הון-סיכון ציבורית הנסחרת בבורסה בתל אביב (CPTP), משקיעה בחברות טכנולוגיה ישראליות בשלב מוקדם."
+    },
+    "sources": [
+      { "url": "https://www.investing.com/equities/capital-point-company-profile", "title": "Capital Point Company Profile", "publisher": "Investing.com", "accessed": "2026-06-03", "supports": "incorporated 2000, Tel Aviv, early-stage venture finance, TASE listing, incubator holdings", "quote": "Capital Point Ltd. operates as a venture capital firm specializing in financing and investments in early stage companies and was incorporated in 2000, based in Tel Aviv, Israel." },
+      { "url": "https://market.tase.co.il/he/market_data/company/1325", "title": "CAPITAL POINT LTD - Company details", "publisher": "Tel Aviv Stock Exchange", "accessed": "2026-06-03", "supports": "TASE-listed company", "quote": "CAPITAL POINT LTD" }
+    ],
+    "confidence": "low",
+    "verification_notes": "Primarily an early-stage venture-finance / incubator holding company rather than a classic venture-debt or secondaries player; included as a long-tail listed venture-finance vehicle. Its lending/debt angle is limited; segment fit is loose. Financials are quarterly TASE figures, not fund AUM.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-debt-secondaries"
+  }
+]

@@ -1,0 +1,823 @@
+[
+  {
+    "id": "eu-ada-ventures",
+    "name": { "en": "Ada Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.adaventures.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/ada-ventures",
+      "other": ["https://sifted.eu/articles/ada-ventures-63m-second-fund"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Ada Ventures Fund I", "vintage_year": 2020, "size": { "raw": "$34M", "usd": 34000000, "currency": "USD" } },
+        { "name": "Ada Ventures Fund II", "vintage_year": 2024, "size": { "raw": "£63M", "usd": null, "currency": "GBP" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "£250k–£1M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United Kingdom", "Northern Europe"],
+      "sector_focus": ["impact", "climate-energy", "healthtech", "fintech"],
+      "thesis": "Pre-seed 'Inclusive Alpha' VC that backs overlooked founders — women, ethnic minorities and people from non-traditional backgrounds — across Climate Equity, Economic Empowerment and Healthy Ageing."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Francesca Warner", "role": "Co-founder & General Partner" },
+      { "name": "Matt Penneycard", "role": "Co-founder & General Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Apply / pitch via website; runs a Scout community to widen dealflow.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["diverse-founders", "inclusive", "underrepresented", "impact"],
+    "summary": {
+      "en": "London-based pre-seed inclusive VC (founded 2019 by Francesca Warner and Matt Penneycard). Closed an oversubscribed £63M Fund II in 2024 (after a ~$34M Fund I), leading >70% of deals with £250k–£1M cheques. 74% of portfolio founders are from an underrepresented background, 48% have a female founder and 44% are led by ethnic-minority founders."
+    },
+    "sources": [
+      { "url": "https://www.adaventures.com/", "title": "Ada Ventures", "publisher": "Ada Ventures", "accessed": "2026-06-03", "supports": "stage, check size, geo, thesis, lead rate", "quote": "£250k to £1mn in your first funding round ... lead >70% of the investments we make ... 10 to 12 companies per year" },
+      { "url": "https://sifted.eu/articles/ada-ventures-63m-second-fund", "title": "Ada Ventures closes £63m second fund to back diverse founders", "publisher": "Sifted", "accessed": "2026-06-03", "supports": "Fund II size, diversity stats", "quote": "74% of Ada Ventures' portfolio founders are from an underrepresented background, and 48% have a female founder. 44% of companies are led by ethnic minority founders." },
+      { "url": "https://tech.eu/2024/03/12/inclusion-in-practice-ada-ventures-closes-oversubscribed-ps63m-fund-ii/", "title": "Ada Ventures closes oversubscribed £63M Fund II", "publisher": "Tech.eu", "accessed": "2026-06-03", "supports": "Fund I and Fund II sizes" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "eu-black-seed-ventures",
+    "name": { "en": "Black Seed Ventures" },
+    "aka": ["Black Seed", "Black Seed VC"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.blackseedvc.co.uk/",
+    "links": {
+      "linkedin": "https://uk.linkedin.com/company/blackseedvc",
+      "other": ["https://www.blackseed.ventures/", "https://sifted.eu/articles/black-seed-raises-5m-news"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Black Seed Fund I", "vintage_year": 2023, "size": { "raw": "£5M first close (£10M target)", "usd": null, "currency": "GBP" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "£100k–£400k", "usd_min": null, "usd_max": null },
+      "geo_focus": ["United Kingdom"],
+      "sector_focus": ["impact", "deeptech", "healthtech", "fintech", "saas-enterprise"],
+      "thesis": "Claims to be the first VC firm in Europe investing exclusively in Black-founded tech startups, led by Black investors; at least one co-founder must identify as Black."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [
+      { "name": "Karl Lokko", "role": "Co-founder & Chairman" },
+      { "name": "Cyril Lutterodt", "role": "Co-founder & President" },
+      { "name": "Yvonne Nagawa", "role": "Co-founder / Chief of Staff" }
+    ],
+    "application": {
+      "how_to_apply": "Pitch via website; at least one co-founder must identify as Black.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["black-founders", "diverse-founders", "underrepresented", "impact"],
+    "summary": {
+      "en": "Brixton (London)-based pre-seed VC founded 2021 by Karl Lokko, Cyril Lutterodt and Yvonne Nagawa — described as Europe's first VC investing exclusively in Black-founded tech startups, led by Black investors. Reached a £5M first close in 2023 toward a £10M target, with backers including Atomico, M&G and Saul Klein. Writes ~£100k–£400k cheques into tech in deeptech, healthtech, B2B SaaS and fintech."
+    },
+    "sources": [
+      { "url": "https://www.blackseedvc.co.uk/", "title": "Black Seed VC | Investing in Black-led Startups", "publisher": "Black Seed VC", "accessed": "2026-06-03", "supports": "mission, focus on Black founders" },
+      { "url": "https://sifted.eu/articles/black-seed-raises-5m-news", "title": "London's Black Seed raises £5m fund", "publisher": "Sifted", "accessed": "2026-06-03", "supports": "fund size, founders, focus", "quote": "the first venture capital firm in Europe to invest exclusively in black-owned businesses ... targeting a final close of £10m" },
+      { "url": "https://techcrunch.com/2023/06/12/venture-firm-black-seed-5m-fund/", "title": "Black Seed raises £5M inaugural fund to invest in Black founders", "publisher": "TechCrunch", "accessed": "2026-06-03", "supports": "check size", "quote": "their initial funding commitment typically falls within the £100,000 to £400,000 range ... at least one member of the co-founding team must identify as Black" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "eu-no-label-ventures",
+    "name": { "en": "No Label Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://nolabel.ventures/",
+    "links": {
+      "linkedin": "https://uk.linkedin.com/company/nolabelvc",
+      "other": ["https://tech.eu/2023/03/29/no-label-ventures-the-new-vc-firm-for-immigrant-founders/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "No Label Ventures Fund I", "vintage_year": 2023, "size": { "raw": "$15M", "usd": 15000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$150k–$250k", "usd_min": 150000, "usd_max": 250000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United Kingdom", "Europe"],
+      "sector_focus": ["generalist", "ai-ml", "biotech", "fintech"],
+      "thesis": "Sector-agnostic early-stage fund backing immigrant founders across Europe, with hands-on visa/relocation support; at least one founder must be a first- or second-generation immigrant from outside Western Europe."
+    },
+    "track_record": {
+      "portfolio_count": "~17",
+      "notable_investments": [
+        { "company": "11x", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Spore Bio", "sector": "biotech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Ramzi Rafih", "role": "Founder & General Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Pitch via website; at least one founder must be a first/second-generation immigrant from outside Western Europe.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["immigrant-founders", "diverse-founders", "underrepresented", "visa-support"],
+    "summary": {
+      "en": "London-based pre-seed VC founded 2022 by Ramzi Rafih (ex-J.P. Morgan, KKR, Silver Lake; Lebanese immigrant parents) with a ~$15M first fund. Invests $150k–$250k into early-stage immigrant-founded startups across Europe and supports founders with visa requirements; portfolio of ~17 companies including 11x and Spore Bio."
+    },
+    "sources": [
+      { "url": "https://nolabel.ventures/", "title": "No Label Ventures", "publisher": "No Label Ventures", "accessed": "2026-06-03", "supports": "check size, immigrant-founder focus, portfolio count", "quote": "invests between $150k-$250k per round ... Portfolio Companies (17)" },
+      { "url": "https://tech.eu/2023/03/29/no-label-ventures-the-new-vc-firm-for-immigrant-founders/", "title": "No Label Ventures - the new VC Firm for immigrant founders", "publisher": "Tech.eu", "accessed": "2026-06-03", "supports": "founding, GP, fund size, focus", "quote": "founded in 2022 by Ramzi Rafih, a Lebanese immigrant ... supporting with visa requirements" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size of ~$15M reported by Impact Shakers (2023); website does not disclose fund size, so treated as medium-confidence on that single figure.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "eu-goddess-gaia-ventures",
+    "name": { "en": "Goddess Gaia Ventures" },
+    "aka": ["GG Ventures"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.ggventuresgroup.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/goddess-gaia-ventures",
+      "other": ["https://femtechinsider.com/goddess-gaia-ventures-priya-oberoi-womens-health/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Goddess Gaia Ventures Fund", "vintage_year": null, "size": { "raw": "£100M / $100M target", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["United Kingdom", "Europe", "Israel"],
+      "sector_focus": ["healthtech", "biotech", "impact"],
+      "thesis": "Self-described as Europe's first and only dedicated women's health and performance (femtech) VC platform, investing seed-to-Series-A across female cancers, fertility, female lifestyle diseases, female wellness and femtech."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [
+      { "name": "Priya Oberoi", "role": "Founder & Managing Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Pitch via website / Oberoi Capital channels.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["femtech", "womens-health", "women-focused", "impact", "diverse-founders"],
+    "summary": {
+      "en": "London-based women's-health/femtech VC founded 2021 by Priya Oberoi (a vulvar-cancer survivor) under Oberoi Capital, raising a £100M fund — billed as Europe's first dedicated women's-health-and-performance platform. Invests seed-to-Series-A across five verticals (female cancers, fertility, female lifestyle diseases, wellness, femtech) in the UK, Europe and Israel."
+    },
+    "sources": [
+      { "url": "https://femtechinsider.com/goddess-gaia-ventures-priya-oberoi-womens-health/", "title": "Why the UK Needs a £100M Venture Fund Dedicated to Women's Health", "publisher": "Femtech Insider", "accessed": "2026-06-03", "supports": "fund size, focus, founder", "quote": "Europe's first and only dedicated women's health and performance platform ... raise a new £100M Venture Fund to invest exclusively in women's health startups" },
+      { "url": "https://www.maddyness.com/uk/2023/11/20/revolutionising-womens-healthcare-with-innovation-and-investment-a-profile-of-goddess-gaia-ventures/", "title": "A profile of Goddess Gaia Ventures", "publisher": "Maddyness UK", "accessed": "2026-06-03", "supports": "verticals, stage, geography" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "£100M is a target fund size reported in media; close status and check size not confirmed from a primary source.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "eu-the-case-for-her",
+    "name": { "en": "The Case for Her" },
+    "type": "family-office",
+    "subtypes": ["angel-syndicate"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "europe",
+    "country": "Sweden",
+    "hq_city": "Stockholm",
+    "website": "https://thecaseforher.com/",
+    "links": {
+      "other": ["https://thecaseforher.com/our-portfolios/", "https://femtechinsider.com/the-overlooked-investment-opportunity-menstrual-health/"]
+    },
+    "capital": {},
+    "strategy": {
+      "stages": ["pre-seed", "seed", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Global", "Europe"],
+      "sector_focus": ["healthtech", "impact", "consumer"],
+      "thesis": "Philanthropic impact investment portfolio focused on two overlooked women's-health issues — menstruation and female sexual health — deploying grants, direct investments and LP commitments into femtech funds."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Mauj", "sector": "healthtech", "outcome": "active" },
+        { "company": "Egal Pads", "sector": "consumer", "outcome": "active" }
+      ],
+      "co_investors": ["Amboy Street Ventures", "Rhia Ventures", "The Helm"]
+    },
+    "people": [
+      { "name": "Cristina Ljungberg", "role": "Co-founder" },
+      { "name": "Wendy Anderson", "role": "Co-founder" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via website; flexible across grants, investments and fund commitments.",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["womens-health", "menstrual-health", "women-focused", "impact", "femtech"],
+    "summary": {
+      "en": "Stockholm-based philanthropic impact investment portfolio founded 2017 by Cristina Ljungberg and Wendy Anderson, targeting two neglected women's-health areas — menstruation and female sexual health — through grants, direct investments (Mauj, Egal Pads) and LP stakes in femtech funds such as Amboy Street Ventures and Rhia Ventures."
+    },
+    "sources": [
+      { "url": "https://thecaseforher.com/", "title": "The Case for Her | Investing in Key Women's Health Issues", "publisher": "The Case for Her", "accessed": "2026-06-03", "supports": "focus areas, founding", "quote": "addressing the key women's health issues of menstruation and female sexual health through grants, investments, convenings, and advocacy" },
+      { "url": "https://femtechinsider.com/the-overlooked-investment-opportunity-menstrual-health/", "title": "The Overlooked Investment Opportunity: Menstrual Health", "publisher": "Femtech Insider", "accessed": "2026-06-03", "supports": "founders, strategy, fund-of-funds approach" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Operates as a blended philanthropic/impact portfolio rather than a traditional closed-end fund; fund/AUM size not disclosed. Classified as family-office given its structure.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "eu-zubi-capital-diversity-catalyst",
+    "name": { "en": "Zubi Capital — Diversity Catalyst", "local": "Zubi Capital" },
+    "aka": ["Zubi Capital Diversity Catalyst", "Zubi Capital Asset Management"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "europe",
+    "country": "Spain",
+    "hq_city": "Madrid",
+    "website": "https://zubicapital.com/",
+    "links": {
+      "crunchbase": "https://pitchbook.com/profiles/fund/24499-00F",
+      "other": ["https://zubi.group/en/angels-invests-in-zubi-capitals-new-fund-the-first-venture-capital-fund-for-diversity-and-inclusion-impact-venture-capital-fund-in-spain/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Zubi Capital Diversity Catalyst", "vintage_year": 2023, "size": { "raw": "€20M target", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Spain", "Europe"],
+      "sector_focus": ["impact", "fintech", "edtech", "climate-energy"],
+      "thesis": "Described as the first impact VC fund in Spain focused on diversity and inclusion — backing early-stage startups that apply diversity, equity and inclusion (DEI) principles through their teams or business models."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [
+      { "name": "Iker Marcaide", "role": "Founder, Zubi Group / Zubi Capital" },
+      { "name": "Carmen Pumariño", "role": "Investment Director, Diversity Catalyst" },
+      { "name": "José Nistal", "role": "Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Pitch via Zubi Capital website.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["diversity", "inclusion", "DEI", "impact", "spain"],
+    "summary": {
+      "en": "Madrid-based impact VC fund (part of Iker Marcaide's Zubi Group, founder of Nasdaq-listed Flywire) — described as Spain's first impact VC fund focused on diversity and inclusion. The €20M Diversity Catalyst vehicle backs early-stage startups that embed DEI principles in their teams or models; Zubi Capital received an €8M commitment from Spain's SETT and Next Generation EU funding."
+    },
+    "sources": [
+      { "url": "https://zubi.group/en/angels-invests-in-zubi-capitals-new-fund-the-first-venture-capital-fund-for-diversity-and-inclusion-impact-venture-capital-fund-in-spain/", "title": "Angels invests in Zubi Capital's new fund — the first VC fund for diversity and inclusion in Spain", "publisher": "Zubi Group", "accessed": "2026-06-03", "supports": "first diversity/inclusion impact fund in Spain, DEI focus, team", "quote": "the first impact-driven venture capital fund in Spain focused on diversity and inclusion" },
+      { "url": "https://zubi.group/en/blog/zubi-capital-becomes-the-first-spanish-impact-investment-manager-to-receive-funding-from-sett-e8-million-committed-to-purpose-led-technology/", "title": "Zubi Capital receives €8 million from SETT", "publisher": "Zubi Group", "accessed": "2026-06-03", "supports": "SETT €8M commitment", "quote": "€8 million committed to purpose-led technology" },
+      { "url": "https://zubicapital.com/", "title": "Zubi Capital", "publisher": "Zubi Capital", "accessed": "2026-06-03", "supports": "location, strategy", "quote": "early-stage (pre-Seed/Seed) investments emphasizing diversity, equity, and inclusion from their inception" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "€20M is the reported Diversity Catalyst target (Impact Shakers, Oct 2023); final close not confirmed. €8M SETT commitment is at the manager level (IB/Zubi Capital), not necessarily the Diversity Catalyst fund alone.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "eu-impact-bridge",
+    "name": { "en": "Impact Bridge", "local": "Impact Bridge Asset Management" },
+    "aka": ["IB Deuda Impacto España"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "europe",
+    "country": "Spain",
+    "hq_city": "Madrid",
+    "website": "https://www.impactbridge.com/en/home",
+    "links": {
+      "other": ["https://www.eif.org/InvestEU/news/2023/investeu-impact-bridge-launches-eur-150-million-impact-fund-with-the-support-of-the-eif-and-microbank.htm"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "IB Deuda Impacto España", "vintage_year": 2023, "size": { "raw": "€150M target (>€147M committed)", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Spain", "Portugal"],
+      "sector_focus": ["impact", "agritech", "climate-energy", "fintech"],
+      "thesis": "Article 9 (SFDR) private-debt impact manager financing Spanish companies with high social impact — rural development in depopulated areas, inclusive labour markets, women's empowerment/gender equality, financial inclusion and climate."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": ["European Investment Fund", "MicroBank", "COFIDES", "Axis (ICO)"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Contact via website; finances Spanish companies with measurable social/environmental impact.",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["impact", "gender-equality", "rural-inclusion", "article-9", "spain"],
+    "summary": {
+      "en": "Madrid-based impact asset manager whose IB Deuda Impacto España fund (target €150M, >€147M committed) is described as the largest impact debt fund focused on Spain. An Article 9 / EuSEF vehicle, it finances ~40 projects across rural development in depopulated areas, inclusive labour markets, women's empowerment and gender equality, financial inclusion, sustainable agriculture and climate. Backed by the EIF, MicroBank, COFIDES and Axis (ICO)."
+    },
+    "sources": [
+      { "url": "https://www.eif.org/InvestEU/news/2023/investeu-impact-bridge-launches-eur-150-million-impact-fund-with-the-support-of-the-eif-and-microbank.htm", "title": "Impact Bridge launches €150 million impact fund", "publisher": "European Investment Fund", "accessed": "2026-06-03", "supports": "fund size, focus, backers", "quote": "target volume of €150 million ... finance 40 social and environmental projects in the country" },
+      { "url": "https://capital-riesgo.es/en/articles/impact-bridge-surpasses-147-million-in-commitments-for-the-ib-deuda-impacto-espa-a-fund-the-largest-impact-debt-fund-in-spain-backed-by-the-eif-and-microbank/", "title": "Impact Bridge surpasses €147 million in commitments", "publisher": "Capital-Riesgo.es", "accessed": "2026-06-03", "supports": "commitments, Article 9, focus areas", "quote": "over €147 million committed ... rural development, inclusive labour markets ... women's empowerment ... Article 9 of the SFDR regulation" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Primarily a private-debt impact fund rather than equity VC; included for its gender-equality / rural-inclusion impact mandate. Typed as 'vc' with growth-equity subtype as the closest taxonomy fit.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "eu-encomenda-capital-partners",
+    "name": { "en": "Encomenda Capital Partners", "local": "Encomenda Capital Partners SGEIC" },
+    "aka": ["Encomenda"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "Spain",
+    "hq_city": "Barcelona",
+    "website": "https://encomenda.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/encomenda-vc/"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Encomenda Fund II", "vintage_year": 2024, "size": { "raw": "€15M first close (€40–50M target)", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€100k–€500k (follow-on up to €3M)", "usd_min": 100000, "usd_max": 500000 },
+      "geo_focus": ["Spain", "Southern Europe", "Latin America"],
+      "sector_focus": ["generalist", "saas-enterprise", "consumer"],
+      "thesis": "Barcelona women-led, entrepreneur-run early-stage fund; GP Mercè Tell leads the Iberian chapter of Diversity VC, pushing for more equitable access to funding for underrepresented founders."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [
+      { "name": "Mercè Tell", "role": "Co-founder & General Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Pitch via website.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["women-led", "diversity-vc", "underrepresented", "southern-europe"],
+    "summary": {
+      "en": "Barcelona-based, women-led early-stage VC ('for entrepreneurs by entrepreneurs'). Fund II secured a €15M first close in 2024 (target €40–50M), investing €100k–€500k (follow-on up to €3M) into pre-seed/seed startups in Southern Europe and Latin America. GP Mercè Tell leads Diversity VC's Iberian chapter, advocating equitable access to funding for underrepresented founders."
+    },
+    "sources": [
+      { "url": "https://encomenda.com/team/", "title": "Team — Encomenda", "publisher": "Encomenda", "accessed": "2026-06-03", "supports": "GP, diversity advocacy", "quote": "A firm advocate for diversity and inclusion in the startup ecosystem, Mercè leads the Iberian Chapter of Diversity VC" },
+      { "url": "https://encomenda.com/", "title": "Encomenda: For entrepreneurs by entrepreneurs", "publisher": "Encomenda", "accessed": "2026-06-03", "supports": "check size, stage", "quote": "they initially invest from 100K€ to 500K€, and can make follow-on investments of up to 3M€ per company" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Encomenda is a generalist fund; included as a women-led / diversity-advocacy entry rather than a diversity-mandated fund. Fund II €15M first close reported in 2024 media; final size not confirmed.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "eu-si3-fund-shaping-impact-group",
+    "name": { "en": "SI3 Fund (Shaping Impact Group)" },
+    "aka": ["SI3", "Shaping Impact Group"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "Belgium",
+    "hq_city": "Brussels",
+    "website": "https://privatecapital.be/member/si3-fund/",
+    "links": {
+      "crunchbase": "https://pitchbook.com/profiles/fund/21119-41F",
+      "other": ["https://www.bva.be/si3-e20m-for-impact-investing/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "SI3 Fund", "vintage_year": 2022, "size": { "raw": "€20M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "€250k–€1.5M", "usd_min": 250000, "usd_max": 1500000 },
+      "geo_focus": ["Belgium", "Netherlands", "Luxembourg", "Western Europe"],
+      "sector_focus": ["impact", "edtech", "fintech"],
+      "thesis": "Impact-first Benelux fund investing in equal opportunities — startups tackling education gaps, debt and poverty, income inequality, polarisation and access to work, including gender-equality and inclusion ventures."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Contact Shaping Impact Group; backs early-growth companies with demonstrable equal-opportunity impact.",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["equal-opportunities", "inclusion", "impact", "gender-equality", "benelux"],
+    "summary": {
+      "en": "Brussels-based impact fund (third vehicle of Shaping Impact Group), closed at €20M to invest in 'equal opportunities' — startups and scale-ups in Belgium and the Netherlands reducing inequality through education, debt relief, poverty alleviation, gender equality and access to work. Tickets of €250k–€1.5M; targets reaching 1,000,000 people and a 300% social return on investment."
+    },
+    "sources": [
+      { "url": "https://www.bva.be/si3-e20m-for-impact-investing/", "title": "SI3: €20M for Impact Investing", "publisher": "BVA", "accessed": "2026-06-03", "supports": "fund size, focus, ticket size, social targets", "quote": "closed its 3rd fund SI3 with €20 million ... tickets ranging from €250k to €1,5m ... aims to reach 1.000.000 people ... realize a 300% Social Return on Investment" },
+      { "url": "https://www.impacteurope.net/insights/investing-equal-opportunities-si3-fund-shaping-impact-group", "title": "Investing for equal opportunities: SI3 fund", "publisher": "Impact Europe", "accessed": "2026-06-03", "supports": "equal-opportunities thesis, focus areas" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "eu-tilia-impact-ventures",
+    "name": { "en": "Tilia Impact Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "europe",
+    "country": "Czech Republic",
+    "hq_city": "Prague",
+    "website": "https://tilia.vc/",
+    "links": {
+      "other": ["https://www.eu-startups.com/investor/tilia-impact-ventures/", "https://therecursive.com/inside-tilia-the-e32m-czech-impact-fund-that-empowers-cee-companies-with-esg-solutions/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Tilia Impact Ventures Fund II", "vintage_year": 2023, "size": { "raw": "€32M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Czech Republic", "CEE", "Balkans"],
+      "sector_focus": ["impact", "climate-energy", "edtech", "healthtech"],
+      "thesis": "Seed-stage impact VC organised around People & Planet — climate plus social inclusion, employment for disadvantaged groups, education, healthcare and civic empowerment/transparency across CEE."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": ["European Investment Fund", "Česká spořitelna"]
+    },
+    "people": [
+      { "name": "Silke Horáková", "role": "Co-founder & Partner" },
+      { "name": "Petr Vítek", "role": "Co-founder & Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Pitch via website; backs purpose-driven CEE founders with measurable social/environmental impact.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["impact", "social-inclusion", "climate", "cee", "esg"],
+    "summary": {
+      "en": "Prague-based seed-stage impact VC founded 2018 by Silke Horáková and Petr Vítek (co-founder of Impact Hub Czechia). Its €32M second fund (2023, backed by the EIF via InvestEU and Česká spořitelna) invests around 'People & Planet' — climate, plus social inclusion, employment for disadvantaged groups, education, healthcare and civic transparency. Half is invested in Czechia and half across wider CEE and the Balkans."
+    },
+    "sources": [
+      { "url": "https://therecursive.com/inside-tilia-the-e32m-czech-impact-fund-that-empowers-cee-companies-with-esg-solutions/", "title": "Inside Tilia, the €32M Czech Impact Fund", "publisher": "The Recursive", "accessed": "2026-06-03", "supports": "fund size, People & Planet verticals, social inclusion focus", "quote": "the people part is wider than just EdTech ... social inclusion and employment opportunities for disadvantaged groups ... civic empowerment and transparency" },
+      { "url": "https://en.ain.ua/2023/09/21/czech-tilia-impact-ventures-launches-32m-second-fund/", "title": "Czech Tilia Impact Ventures launches €32M second fund", "publisher": "AIN", "accessed": "2026-06-03", "supports": "fund size, EIF/Česká spořitelna backing, CEE/Balkans geography", "quote": "€32 million second fund ... financed by the European Investment Fund (EIF) ... and Česká spořitelna Bank" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "eu-purposetech",
+    "name": { "en": "PurposeTech" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "europe",
+    "country": "Czech Republic",
+    "hq_city": "Prague",
+    "website": "https://www.purposetech.vc/",
+    "links": {
+      "other": ["https://www.vestbee.com/insights/articles/purpose-tech-closes-its-first-fund", "https://impacthub.cz/en/investicni-fond-purpose-tech/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "PurposeTech Fund I", "vintage_year": 2024, "size": { "raw": "€2.3M (oversubscribed)", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Czech Republic", "CEE"],
+      "sector_focus": ["impact", "healthtech", "climate-energy", "edtech"],
+      "thesis": "Angel-to-pre-seed impact fund for purpose-driven CEE founders in health, sustainability/climate and education — positioned as the only fund in the region focused on angel and pre-seed rounds in those three verticals."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [
+      { "name": "Zdeněk Fred Fous", "role": "Founder / Managing Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Pitch via website; backs angel/pre-seed CEE founders in health, climate and education.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["impact", "pre-seed", "cee", "healthtech", "climate", "edtech"],
+    "summary": {
+      "en": "Prague-based angel/pre-seed impact fund founded 2023 by Zdeněk Fred Fous with Impact Hub. Closed an oversubscribed first fund of €2.3M in 2024 to back early-stage HealthTech, GreenTech and EdTech founders across seven CEE countries — billed as the only regional fund focused on angel and pre-seed rounds in health, sustainability and education."
+    },
+    "sources": [
+      { "url": "https://www.vestbee.com/insights/articles/purpose-tech-closes-its-first-fund", "title": "Prague-based PurposeTech closes its first fund", "publisher": "Vestbee", "accessed": "2026-06-03", "supports": "fund size, focus, geography, founder", "quote": "founded in 2023 by Zdenek Fred Fous and Impact Hub ... totaling €2.3 million ... HealthTech, GreenTech, and EdTech startups from Central and Eastern Europe" },
+      { "url": "https://startup-in-europe.com/purposetech-a-pre-seed-fund-dedicated-to-health-sustainability-and-education-in-central-and-eastern-europe/", "title": "PurposeTech: A Pre-Seed Fund Dedicated to Health, Sustainability and Education", "publisher": "Startup in Europe", "accessed": "2026-06-03", "supports": "pre-seed stage, three verticals, CEE focus" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "eu-impact-ventures-hungary",
+    "name": { "en": "Impact Ventures", "local": "Impact Ventures" },
+    "aka": ["Impact Ventures Hungary"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "europe",
+    "country": "Hungary",
+    "hq_city": "Budapest",
+    "website": "https://en.impactventures.hu/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/impact-ventures-hungary",
+      "other": ["https://www.globenewswire.com/news-release/2024/09/26/2953501/0/en/The-European-Investment-Fund-EIF-and-the-Hungarian-National-Capital-Holding-NCH-Launch-a-40-Million-VC-Fund-to-Strengthen-Enterprises-with-Social-and-Environmental-Impact.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Impact Ventures III", "vintage_year": 2024, "size": { "raw": "€40M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "€0.1M–€2M", "usd_min": 100000, "usd_max": 2000000 },
+      "geo_focus": ["Hungary", "CEE"],
+      "sector_focus": ["impact", "edtech", "healthtech", "climate-energy"],
+      "thesis": "Specialist impact fund manager backing social SMEs and startups with a special focus on social inclusion, education and employment, the underserved needs of disadvantaged groups, health and environmental sustainability."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": ["European Investment Fund", "Hungarian National Capital Holding (NCH)"]
+    },
+    "people": [
+      { "name": "Gergely Ivancsics", "role": "Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Apply via website; backs Hungarian/European social-impact SMEs and startups.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["impact", "social-inclusion", "disadvantaged-groups", "cee", "hungary"],
+    "summary": {
+      "en": "Budapest-based specialist impact fund manager backing social SMEs and startups across social inclusion, education and employment, the underserved needs of disadvantaged groups, health and environmental sustainability. Its latest fund, Impact Ventures III (2024, €40M), is backed by the EIF and Hungary's National Capital Holding to support early-stage impact ventures in Hungary and CEE; check sizes range roughly €0.1M–€2M."
+    },
+    "sources": [
+      { "url": "https://www.globenewswire.com/news-release/2024/09/26/2953501/0/en/The-European-Investment-Fund-EIF-and-the-Hungarian-National-Capital-Holding-NCH-Launch-a-40-Million-VC-Fund-to-Strengthen-Enterprises-with-Social-and-Environmental-Impact.html", "title": "EIF and NCH Launch a €40 Million VC Fund (Impact Ventures III)", "publisher": "GlobeNewswire", "accessed": "2026-06-03", "supports": "Fund III size, EIF/NCH backing, impact focus", "quote": "Impact Ventures III, a €40 million venture capital fund aimed at supporting early-stage, innovative SMEs and startups with positive social and environmental impacts" },
+      { "url": "https://www.vestbee.com/vc-list/impact-ventures", "title": "Impact Ventures", "publisher": "Vestbee", "accessed": "2026-06-03", "supports": "check sizes, focus on social inclusion/disadvantaged groups", "quote": "social inclusion, education and employment, underserved needs of the disadvantaged and environmental sustainability" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "eu-feelsgood-capital",
+    "name": { "en": "Feelsgood Capital Partners", "local": "Feelsgood" },
+    "aka": ["Feelsgood Social Impact Investment Fund"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "europe",
+    "country": "Croatia",
+    "hq_city": "Zagreb",
+    "website": "https://www.feelsgoodcapital.com/about",
+    "links": {
+      "crunchbase": "https://pitchbook.com/profiles/fund/19162-81F",
+      "other": ["https://www.eif.org/what_we_do/guarantees/news/2019/efsi-feelsgood.htm"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Feelsgood Social Impact Investment Fund", "vintage_year": 2019, "size": { "raw": "€30M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Croatia", "Slovenia"],
+      "sector_focus": ["impact", "fintech", "agritech", "edtech", "healthtech"],
+      "thesis": "Croatia's first social impact fund — backs Croatian and Slovenian SMEs delivering measurable social impact against the UN SDGs across financial inclusion, agriculture/farming, circular economy, education and healthcare."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": ["European Investment Fund"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Contact via website; backs scalable Croatian/Slovenian SMEs with measurable SDG impact.",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["impact", "social-impact", "sdg", "financial-inclusion", "croatia"],
+    "summary": {
+      "en": "Zagreb-based €30M Feelsgood fund (established 2019) — the first social impact fund in Croatia and the first Croatian-managed VC fund. Backed by the EIF (InnovFin Equity / EFSI), it invests in Croatian and Slovenian SMEs delivering measurable social impact aligned to the UN SDGs across financial inclusion, agriculture/farming, circular economy, education and healthcare."
+    },
+    "sources": [
+      { "url": "https://www.eif.org/what_we_do/guarantees/news/2019/efsi-feelsgood.htm", "title": "EIF makes history in Croatia with country's first social impact fund worth EUR 30 million", "publisher": "European Investment Fund", "accessed": "2026-06-03", "supports": "fund size, first social impact fund in Croatia, EIF backing", "quote": "Croatia's first social impact fund worth EUR 30 million ... invest in Croatian and Slovenian SMEs committed to provide environmental and social impact" },
+      { "url": "https://www.feelsgoodcapital.com/about", "title": "Feelsgood — About", "publisher": "Feelsgood Capital", "accessed": "2026-06-03", "supports": "sectors, SDG alignment, geography" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "eu-simpact-ventures",
+    "name": { "en": "Simpact Ventures", "local": "Simpact Ventures" },
+    "aka": ["Simpact VC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "Poland",
+    "hq_city": "Warsaw",
+    "website": "https://www.simpact.vc/en/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/simpact-vc",
+      "other": ["https://www.impactinvestor.io/companies/simpact-vc", "https://thegiin.org/member/simpact-ventures/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Simpact 2.0", "vintage_year": null, "size": { "raw": "PLN 100M", "usd": null, "currency": "PLN" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "€500k–€2M (~€1M typical)", "usd_min": 500000, "usd_max": 2000000 },
+      "geo_focus": ["Poland", "CEE"],
+      "sector_focus": ["impact", "healthtech", "climate-energy", "edtech"],
+      "thesis": "Described as the first VC fund in Poland built on the idea of impact investing — backs tech-driven startups that combine high business potential with positive social or environmental impact, defining 2–3 social KPIs per company."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": ["European Investment Fund"]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Pitch via website ('Pitch us'); favours seed deals with measurable social/environmental impact.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["impact", "social-impact", "environmental", "poland", "cee"],
+    "summary": {
+      "en": "Warsaw-based impact VC founded 2016 — the first Polish VC fund built on impact investing. Its current Simpact 2.0 vehicle (PLN 100M, anchored by the EIF) writes €500k–€2M cheques (typically ~€1M) from pre-seed to Series A into tech startups combining commercial potential with positive social or environmental impact, working with each company to define 2–3 social KPIs."
+    },
+    "sources": [
+      { "url": "https://www.impactinvestor.io/companies/simpact-vc", "title": "Simpact VC", "publisher": "Impact Investor", "accessed": "2026-06-03", "supports": "founding, first Polish impact VC, ticket size, EIF backing, fund size", "quote": "the first VC investment fund in Poland based on the idea of Impact Investing ... Their ticket ranges from EUR 500k to EUR 2M ... Simpact 2.0 fund has a total capitalization of PLN 100 million" },
+      { "url": "https://thegiin.org/member/simpact-ventures/", "title": "Simpact Ventures — GIIN member", "publisher": "GIIN", "accessed": "2026-06-03", "supports": "impact-investing membership/focus" }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "eu-vastpoint",
+    "name": { "en": "Vastpoint", "local": "vastpoint" },
+    "aka": ["Vastpoint Ventures"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "europe",
+    "country": "Poland",
+    "hq_city": "Warsaw",
+    "website": "https://vastpoint.vc/",
+    "links": {
+      "other": ["https://www.eu-startups.com/2025/09/the-new-e18-million-polish-fund-vastpoint-has-just-launched-led-by-ex-entrepreneurs-from-elevenlabs-and-y-combinator/", "https://impact-investor.com/female-led-vastpoint-on-adding-real-value-to-polands-tech-founders/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Vastpoint I", "vintage_year": 2025, "size": { "raw": "€18M (~$22M)", "usd": 22000000, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€500k–€750k", "usd_min": 500000, "usd_max": 750000 },
+      "geo_focus": ["Poland"],
+      "sector_focus": ["ai-ml", "saas-enterprise", "healthtech", "biotech"],
+      "thesis": "Female-led Polish fund (three women founding partners) backing early-stage B2B software, AI, healthtech and techbio founders, bridging local innovation with global investors via Warsaw and New York offices."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": ["PFR Ventures"]
+    },
+    "people": [
+      { "name": "Aleksandra Pedraszewska", "role": "Founding Partner (ex-ElevenLabs)" },
+      { "name": "Karolina Kukiełka", "role": "Founding Partner" },
+      { "name": "Zuzanna Brzosko", "role": "Founding Partner (ex-Y Combinator / Sixfold Bioscience)" }
+    ],
+    "application": {
+      "how_to_apply": "Pitch via website; backs early-stage Polish B2B software, AI and techbio founders.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["women-led", "female-partners", "poland", "ai", "techbio"],
+    "summary": {
+      "en": "Warsaw- and New York-based, female-led Polish fund launched in 2025 by three women founding partners (Aleksandra Pedraszewska of ElevenLabs, Karolina Kukiełka, and Cambridge-trained neuroscientist Zuzanna Brzosko). Its €18M (~$22M) debut fund, anchored by PFR Ventures, writes €500k–€750k cheques into early-stage AI, B2B SaaS, healthtech and techbio founders."
+    },
+    "sources": [
+      { "url": "https://www.eu-startups.com/2025/09/the-new-e18-million-polish-fund-vastpoint-has-just-launched-led-by-ex-entrepreneurs-from-elevenlabs-and-y-combinator/", "title": "The new €18 million Polish fund vastpoint has just launched", "publisher": "EU-Startups", "accessed": "2026-06-03", "supports": "fund size, female founding partners, check size, sectors, PFR anchor", "quote": "€18 million debut fund ... three founding partners – Aleksandra Pedraszewska, Karolina Kukiełka, and Zuzanna Brzosko ... initial checks of €500K to €750K ... anchored by PFR Ventures" },
+      { "url": "https://impact-investor.com/female-led-vastpoint-on-adding-real-value-to-polands-tech-founders/", "title": "Female-led Vastpoint on adding real value to Poland's tech founders", "publisher": "Impact Investor", "accessed": "2026-06-03", "supports": "female-led positioning" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Female-led GP team rather than a female-founder-only mandate; included as a diverse-led emerging fund.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "eu-puzzle-ventures",
+    "name": { "en": "Puzzle Ventures" },
+    "aka": ["Beyond Capital (former name)"],
+    "type": "micro-vc",
+    "subtypes": ["angel-syndicate"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Berlin",
+    "website": "https://www.puzzle.vc/",
+    "links": {
+      "other": ["https://sifted.eu/articles/europe-first-female-solo-gp-fund-news", "https://robincap.com/blog/puzzle-ventures-gloria-b%C3%A4uerlein-on-navigating-the-world-of-venture-capital-solo"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "Puzzle Ventures Fund I", "vintage_year": 2023, "size": { "raw": "€21.5M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["Europe"],
+      "sector_focus": ["saas-enterprise", "generalist"],
+      "thesis": "One of Europe's first female solo-GP funds — an angel/operator vehicle partnering with European pre-seed and seed founders building transformational B2B companies."
+    },
+    "track_record": { "portfolio_count": null, "notable_investments": [] },
+    "people": [
+      { "name": "Gloria Bäuerlein", "role": "Founder & Solo General Partner" }
+    ],
+    "application": {
+      "how_to_apply": "Pitch via website; backs European pre-seed/seed B2B founders.",
+      "accepts_cold_inbound": true
+    },
+    "tags": ["solo-gp", "female-gp", "women-led", "b2b", "pre-seed"],
+    "summary": {
+      "en": "Berlin-based angel/operator fund led by Gloria Bäuerlein (ex-Index Ventures principal) — one of the first female solo-GP funds in Europe. Renamed from Beyond Capital, it reached a final close of €21.5M in March 2023 (nearly double the original target), backing European pre-seed and seed founders building transformational B2B companies; 95 of 100 LPs approached committed."
+    },
+    "sources": [
+      { "url": "https://sifted.eu/articles/europe-first-female-solo-gp-fund-news", "title": "Gloria Bäuerlein closes one of Europe's first female solo GP funds", "publisher": "Sifted", "accessed": "2026-06-03", "supports": "fund size, female solo GP, focus", "quote": "has closed a €21.5m fund; one of the first female solo GP funds in Europe" },
+      { "url": "https://robincap.com/blog/puzzle-ventures-gloria-b%C3%A4uerlein-on-navigating-the-world-of-venture-capital-solo", "title": "Puzzle Ventures — Gloria Bäuerlein on navigating VC solo", "publisher": "Robin Capital", "accessed": "2026-06-03", "supports": "rename from Beyond Capital, B2B pre-seed/seed focus, LP base", "quote": "€21.5M angel-operator fund dedicated to partnering with exceptional European pre-seed and seed founders ... build transformational B2B companies" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Female solo-GP fund (women-led) rather than a female-founder-only mandate; included as a diverse-led emerging manager.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  }
+]

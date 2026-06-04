@@ -1,0 +1,688 @@
+[
+  {
+    "id": "jp-kusabi",
+    "name": { "en": "KUSABI", "local": "KUSABI（クサビ）" },
+    "aka": ["KUSABI Fund", "クサビ"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://kusabi.fund/",
+    "links": {
+      "other": ["https://thebridge.jp/2023/02/kusabi-unveils-1st-fund-close"]
+    },
+    "capital": {
+      "aum": { "raw": "¥10.6B (106億円)", "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "¥10.6B (106億円, final close)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "KUSABI 1号ファンド", "vintage_year": 2023, "size": { "raw": "¥10.6B (106億円)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "¥20M–¥500M (2,000万〜5億円)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "ai-ml", "saas-enterprise"],
+      "thesis": "Independent seed/early-stage lead investor founded by three veteran capitalists from Nissay Capital, JAFCO and Globis. Aims to invest in up to ~60 startups by 2028 and to help create trillion-yen companies."
+    },
+    "track_record": {
+      "portfolio_count": "21+ at fund launch",
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Kengyo Nagai (永井研行)", "role": "Representative Partner (ex-Nissay Capital)" },
+      { "name": "Junya Yoshida (吉田淳也)", "role": "Representative Partner (ex-JAFCO)" },
+      { "name": "Yuki Watanabe (渡邉佑規)", "role": "Representative Partner (ex-Globis Capital Partners)" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["independent-vc", "seed", "lead-investor", "emerging-manager"],
+    "summary": {
+      "en": "Tokyo independent seed/early-stage VC launched by three veteran capitalists; its debut KUSABI 1 fund reached ¥10.6B (final close) in 2023, investing ¥20M–¥500M as lead.",
+      "local": "ニッセイ・キャピタル、ジャフコ、グロービス出身の実力派3名が2023年に組成した独立系シードVC。KUSABI1号ファンドは総額106億円。1社あたり2,000万〜5億円をリード投資。"
+    },
+    "sources": [
+      {
+        "url": "https://kusabi.fund/independent-venture-capital-firm-kusabi-launches-its-first-fund-with-total-assets-under-management-of-10-billion-yen-230207/",
+        "title": "独立系ベンチャーキャピタルKUSABI、1号ファンド設立 運用総額100億円",
+        "publisher": "KUSABI",
+        "accessed": "2026-06-03",
+        "supports": "founding, AUM, check size, stage, founders",
+        "quote": "運用総額が、100億円に達した … 1社あたりの投資金額は2000万～5億円"
+      },
+      {
+        "url": "https://thebridge.jp/2023/02/kusabi-unveils-1st-fund-close",
+        "title": "スタートアップ投資界のツワモノ3人が創設した「KUSABI」、新生100億円ファンドが目指すものとは",
+        "publisher": "BRIDGE",
+        "accessed": "2026-06-03",
+        "supports": "founders, final close, target portfolio",
+        "quote": "代表パートナーは永井研行、吉田淳也、渡邉佑規 … 2028年までに最大60社に投資 … ファイナルクローズで総額106億円"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Company entity reportedly incorporated 2022; debut fund 1st/final close announced Feb 2023, so treated as a 2023-vintage emerging manager. Romanization of partner surnames approximate.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "jp-bigbull",
+    "name": { "en": "BigBull", "local": "ビッグブル株式会社" },
+    "aka": ["ビッグブル", "BigBull Fund 1"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://bigbull.co.jp/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000001.000148190.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "ビッグブル1号投資事業有限責任組合", "vintage_year": 2024, "size": { "raw": null, "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "¥5M–¥50M (500万〜5,000万円)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["gaming", "consumer", "fintech"],
+      "thesis": "Independent VC focused on entertainment and toC (B2C) startups, from founding/seed to around Series A, also considering later/pre-IPO stages. Founded by ex-i-nest capital principal Yuji Hojoe."
+    },
+    "track_record": {
+      "portfolio_count": "8 companies / 10 deals (as of Feb 2026)",
+      "notable_investments": [
+        { "company": "Anaguma (穴熊 / Jiffcy)", "sector": "consumer", "outcome": "active" }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Yuji Hojoe (放生會雄地)", "role": "Representative Director / GP (ex-i-nest capital principal)" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["independent-vc", "entertainment", "toC", "emerging-manager", "solo-led"],
+    "summary": {
+      "en": "Independent VC launched Sept 2024 by ex-i-nest capital principal Yuji Hojoe, investing ¥5M–¥50M in entertainment and toC startups from seed to ~Series A.",
+      "local": "i-nest capital出身の放生會雄地氏が2024年9月に設立した独立系VC。エンタメ・toCスタートアップに500万〜5,000万円を投資。2026年2月末時点で8社10件に投資。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000001.000148190.html",
+        "title": "エンタメ・toCスタートアップへ投資を行う、独立系VCファンド「ビッグブル1号投資事業有限責任組合」設立、投資開始",
+        "publisher": "BigBull (PR TIMES)",
+        "accessed": "2026-06-03",
+        "supports": "founding date, founder, sector, stage, check size",
+        "quote": "エンタメ・toCスタートアップへ投資を行う、独立系VCファンド「ビッグブル1号投資事業有限責任組合」を2024年9月30日に設立 … 投資額は500万円から5,000万円の範囲"
+      },
+      {
+        "url": "https://bigbull.co.jp/20250930-2/",
+        "title": "ビッグブル1号投資事業有限責任組合のファーストクローズを致しました。",
+        "publisher": "BigBull",
+        "accessed": "2026-06-03",
+        "supports": "first close, portfolio company Anaguma/Jiffcy",
+        "quote": "ビッグブル1号投資事業有限責任組合 … 穴熊（Jiffcy）"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Total fund size not disclosed (left null). Portfolio count of 8 companies/10 deals from secondary aggregation as of Feb 2026.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "jp-taliki-fund",
+    "name": { "en": "taliki", "local": "株式会社taliki" },
+    "aka": ["taliki Fund", "taliki 2号ファンド"],
+    "type": "vc",
+    "subtypes": ["impact"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Kyoto",
+    "website": "https://taliki.vc/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000026.000036295.html", "https://www.taliki.co.jp/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "taliki 1号ファンド", "vintage_year": 2021, "size": { "raw": null, "usd": null, "currency": "JPY" } },
+        { "name": "taliki 2号投資事業有限責任組合", "vintage_year": 2024, "size": { "raw": "target ¥2B (20億円)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "¥1M–¥50M (100万〜5,000万円)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["impact", "healthtech", "agritech"],
+      "thesis": "Social-impact VC pursuing both social impact and financial return, investing in startups tackling aging society, regional revitalization, minority support, poverty/violence and public-health safety-net themes."
+    },
+    "track_record": {
+      "portfolio_count": "17 (Fund 1)",
+      "notable_investments": [],
+      "co_investors": ["Seibu Shinkumi Bank", "Daiko Corporation", "JANPIA"]
+    },
+    "people": [
+      { "name": "Taka Nakamura (中村多伽)", "role": "Representative Director & CEO / GP" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["impact-vc", "social-impact", "kyoto", "emerging-manager", "second-fund-2024"],
+    "summary": {
+      "en": "Kyoto-based social-impact VC led by founder Taka Nakamura; its 2nd fund (Sept 2024, target ¥2B) backs safety-net/social-issue startups with ¥1M–¥50M checks. Fund 1 invested in 17 companies at ~1.3x TVPI.",
+      "local": "京都拠点の社会課題解決型VC。代表は中村多伽氏。2024年9月に総額20億円規模を目指す2号ファンドを設立。1社あたり100万〜5,000万円を投資。1号は17社投資・TVPI1.3倍。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000026.000036295.html",
+        "title": "社会課題解決型VCのtaliki、2号ファンドを設立。総額20億円規模を目指し…",
+        "publisher": "taliki (PR TIMES)",
+        "accessed": "2026-06-03",
+        "supports": "fund 2 vintage, target size, check size, founder, LPs, fund 1 results",
+        "quote": "taliki 2号投資事業有限責任組合 … 総額20億円規模を目指します … 1社あたり100万円～5,000万円 … 17社への投資を実行し、TVPIは1.3倍に達しています"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Firm founded 2017; included on basis of 2nd fund raised 2024 (a 2023+ fund). Fund 2 target ¥2B; final close expected within 2025.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "jp-vision-incubate",
+    "name": { "en": "Vision Incubate", "local": "株式会社ビジョンインキュベイト" },
+    "aka": ["ビジョンインキュベイト", "VI-1号ファンド", "Kanazawa University VC"],
+    "type": "vc",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Kanazawa",
+    "website": "https://o-fsi.w3.kanazawa-u.ac.jp/venture/vc.html",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000002.000133125.html", "https://www.kanazawa-u.ac.jp/en/news/128859"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "VI-1号投資事業有限責任組合", "vintage_year": 2023, "size": { "raw": "target ¥3B (30億円)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Hokuriku region"],
+      "sector_focus": ["biotech", "healthtech", "deeptech", "hardware-semiconductor", "spacetech"],
+      "thesis": "First 100% self-funded national-university VC in Japan (wholly owned by Kanazawa University). Backs national-university-originated startups, especially from the Hokuriku region; expected mix ~50% life science, 20% IT, 20% materials, 10% space."
+    },
+    "track_record": {
+      "portfolio_count": "target 15–20 companies",
+      "notable_investments": [],
+      "co_investors": ["QR Investment (Hokkoku FHD)", "Hokuriku Bank", "Imamura Securities"]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "national-university", "kanazawa", "deeptech", "regional", "emerging-manager"],
+    "summary": {
+      "en": "Kanazawa University's wholly-owned VC (founded Aug 2023) — Japan's first 100% self-funded national-university VC. Its VI-1 fund (1st close Dec 2023) targets ¥3B for university-originated deeptech/life-science startups, aiming for 15–20 companies.",
+      "local": "金沢大学が100%出資する国内初の自己財源100%国立大学発VC（2023年8月設立）。VI-1号ファンドは30億円規模を目標（2023年12月ファーストクローズ）。ライフサイエンス・IT・材料・宇宙領域の大学発スタートアップ15〜20社に投資予定。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000002.000133125.html",
+        "title": "ビジョンインキュベイトが１号ファンドを設立し、ファーストクローズ",
+        "publisher": "Vision Incubate (PR TIMES)",
+        "accessed": "2026-06-03",
+        "supports": "founding date, fund name, first close, LPs, parent university",
+        "quote": "ビジョンインキュベイト … 2023年8月10日 … VI-１号投資事業有限責任組合 … ファーストクローズでは、株式会社QRインベストメント（北國FHD）、株式会社北陸銀行、今村証券株式会社など"
+      },
+      {
+        "url": "https://www.nikkei.com/article/DGKKZO76694420V01C23A2LB0000/",
+        "title": "金沢大VC、1号ファンド 30億円規模 国立大発新興に投資",
+        "publisher": "Nikkei",
+        "accessed": "2026-06-03",
+        "supports": "target size, sector mix, target companies",
+        "quote": "30億円規模 … 投資目標は15～20社"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Sector percentages (≈50% life science / 20% IT / 20% materials / 10% space) reported by Nikkei/secondary; per-company check size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "jp-kobe-university-capital",
+    "name": { "en": "Kobe University Capital", "local": "神戸大学キャピタル株式会社" },
+    "aka": ["KUC", "神戸大学キャピタル", "KUC1号ファンド"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Kobe",
+    "website": "https://kuc.vc/",
+    "links": {
+      "other": ["https://kuc.vc/fund/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "KUC1号投資事業有限責任組合", "vintage_year": 2023, "size": { "raw": "¥2.2B (22億円, 神戸大学ファンド total)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Kansai region"],
+      "sector_focus": ["deeptech", "biotech", "healthtech", "generalist"],
+      "thesis": "University VC wholly owned by Kobe University — described as the first national-university-origin fund using only private capital. Backs Kobe University and other startups contributing to regional revitalization."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "VC Gene Therapy", "sector": "biotech", "outcome": "active" }
+      ],
+      "co_investors": ["SBI Investment"]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "national-university", "kobe", "regional", "emerging-manager"],
+    "summary": {
+      "en": "Kobe University's wholly-owned VC, operating the ¥2.2B 'Kobe University Fund' (KUC1, 2023) jointly with SBI — billed as the first national-university-origin fund using only private capital. Backs university deeptech/biotech startups.",
+      "local": "神戸大学が100%株主のVC。SBIと共同で総額22億円の「神戸大学ファンド」（KUC1号、2023年）を組成。民間資金のみを活用した国立大学発ファンドとしては国内初。大学発のディープテック・バイオを支援。"
+    },
+    "sources": [
+      {
+        "url": "https://kuc.vc/fund/",
+        "title": "FUND - 神戸大学キャピタル | KUC",
+        "publisher": "Kobe University Capital",
+        "accessed": "2026-06-03",
+        "supports": "fund name, positioning, focus, HQ",
+        "quote": "KUC1号投資事業有限責任組合 … 民間資金のみを活用した国立大学としては初めての大学発ファンド"
+      },
+      {
+        "url": "https://www.nikkei.com/article/DGXZQOUC253IT0V20C24A4000000/",
+        "title": "地方の大学発ベンチャーキャピタルを促進",
+        "publisher": "Nikkei",
+        "accessed": "2026-06-03",
+        "supports": "fund total size / SBI co-formation",
+        "quote": "神戸大学100％株主の神戸大学キャピタルがSBI大学発ベンチャー育成支援と総額22億円の「神戸大学ファンド」を共同設立"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund total of ¥2.2B and SBI co-formation from secondary reporting; per-company check size and founding-individual names not confirmed on official page. Fund set up early 2023.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "jp-bp-capital-tuat-fund",
+    "name": { "en": "BP Capital (TUAT Fund)", "local": "BPキャピタル株式会社" },
+    "aka": ["BPキャピタル", "TUAT1号ファンド", "Tokyo University of Agriculture and Technology Fund"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2023,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://bpcapital.co.jp/",
+    "links": {
+      "other": ["https://www.tuat.ac.jp/english/outline/disclosure/pressrelease/2022/20230119_01.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "TUAT1号投資事業有限責任組合", "vintage_year": 2023, "size": { "raw": "target ¥3B (30億円)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["agritech", "biotech", "deeptech"],
+      "thesis": "Operated the TUAT 1 Fund — Japan's first government-certified university fund after deregulation — in partnership with Tokyo University of Agriculture and Technology, focusing on agriculture (livestock, smart agriculture, food production) and national-university research-derived startups."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": ["Keio Corporation (京王電鉄)", "Japan Finance Corporation (日本政策金融公庫)"]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["university-vc", "agritech", "first-certified-fund", "emerging-manager"],
+    "summary": {
+      "en": "BP Capital operates the TUAT 1 Fund (Jan 2023, target ¥3B), Japan's first government-certified university fund post-deregulation, partnered with Tokyo Univ. of Agriculture & Technology and focused on agritech/agriculture-derived startups.",
+      "local": "BPキャピタルは、東京農工大学と連携した国内初の認定ファンド「TUAT1号ファンド」（2023年1月設立、30億円規模目標）を運営。農学分野（畜産・スマート農業・食料生産）の大学発スタートアップに注力。"
+    },
+    "sources": [
+      {
+        "url": "https://www.tuat.ac.jp/english/outline/disclosure/pressrelease/2022/20230119_01.html",
+        "title": "国立大学法人と民間VCの連携による「初の認定ファンド」組成",
+        "publisher": "Tokyo University of Agriculture and Technology",
+        "accessed": "2026-06-03",
+        "supports": "fund name, first certified fund, founding date, agriculture focus",
+        "quote": "TUAT1号投資事業有限責任組合（TUATファンド） … 2023年1月18日 … ファンド組成に係る認定 … 国内初 … 農学分野（畜産分野、スマート農業、食料生産…）"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000988.000022856.html",
+        "title": "東京農工大学などの研究成果の社会実装を図るスタートアップを支援するＢＰキャピタル株式会社の「ＴＵＡＴ１号ファンド」へ出資！",
+        "publisher": "Keio Corporation (PR TIMES)",
+        "accessed": "2026-06-03",
+        "supports": "operator BP Capital, LP Keio, fund target size",
+        "quote": "ＢＰキャピタル株式会社の「ＴＵＡＴ１号ファンド」 … 30億円"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Target fund size ¥3B per multiple secondary sources. Check size not disclosed. BP Capital is a regional VC (Hachioji/Tokyo area) certified to operate the fund.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "jp-igpvp",
+    "name": { "en": "Ignition Point Venture Partners", "local": "イグニション・ポイント ベンチャーパートナーズ株式会社" },
+    "aka": ["IGPVP", "IGPVP1号ファンド", "Center of Synergy Fund"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.vp.ignitionpoint-inc.com/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000061.000097774.html"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "IGPVP1号投資事業有限責任組合（CENTER OF SYNERGYファンド）", "vintage_year": 2024, "size": { "raw": "target ¥5B–¥10B (50〜100億円)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "overseas"],
+      "sector_focus": ["saas-enterprise", "ai-ml", "deeptech"],
+      "thesis": "After running five corporate CVC funds since 2021, IGPVP launched its first independent fund in 2024 to drive 'N-to-N co-creation' between startups and incumbents, focusing on DX, AI, data, SaaS and industrial tech."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Tomoki Tashiro (田代友樹)", "role": "Representative Director / CEO" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["independent-vc", "n-to-n-cocreation", "dx-ai", "emerging-fund", "ex-cvc-operator"],
+    "summary": {
+      "en": "Ignition Point Venture Partners, run by Tomoki Tashiro, launched its first independent fund (IGPVP 1 / Center of Synergy, July 2024, target ¥5–10B) for seed-to-early DX/AI/SaaS/industrial-tech startups after operating five CVC funds since 2021.",
+      "local": "イグニション・ポイント ベンチャーパートナーズ（代表：田代友樹）が2021年以来5本のCVCを運用した後、2024年7月に初の独立系ファンド「IGPVP1号（CENTER OF SYNERGY）」を設立。想定規模50〜100億円、DX・AI・SaaS・産業テックのシード〜アーリーに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000061.000097774.html",
+        "title": "「IGPVP1号ファンド」ファーストクローズ発表",
+        "publisher": "IGPVP (PR TIMES)",
+        "accessed": "2026-06-03",
+        "supports": "fund name, vintage, target size, stage, sector, rep, CVC history",
+        "quote": "IGPVP1号投資事業有限責任組合（CENTER OF SYNERGYファンド）… 運用期間は2024年7月〜2034年6月 … 想定ファンド規模は50〜100億円 … DX・AI・データ・SaaS・産業テック … 2021年の設立以来、5つのCVCファンドを運用"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Firm incorporated 2021 (CVC operator); included on basis of first independent LPS fund raised 2024. Romanization of rep name approximate.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "jp-mpower-wpower-fund",
+    "name": { "en": "MPower Partners (WPower Fund I)", "local": "MPowerパートナーズ（WPower Fund I）" },
+    "aka": ["MPower Partners", "WPower Fund I", "エムパワー・パートナーズ"],
+    "type": "vc",
+    "subtypes": ["impact"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.mpower-partners.com/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000005690.000052467.html", "https://www.nikkei.com/article/DGXZQOUC0722P0X00C25A3000000/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "WPower Fund I 投資事業有限責任組合", "vintage_year": 2025, "size": { "raw": "¥6B target, up to ¥8B (60億円、最大80億円; 都出資30億円)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "¥10s of millions to several hundred million (数千万〜数億円)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["impact", "healthtech", "saas-enterprise"],
+      "thesis": "ESG-focused VC (led by Cathy Matsui). WPower Fund I, selected/co-funded by Tokyo Metropolitan Government, is described as Japan's first fund 100% dedicated to female-founded startups and companies advancing women's participation."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [],
+      "co_investors": ["Tokyo Metropolitan Government", "MUFG Bank", "Mitsubishi Estate", "Shionogi"]
+    },
+    "people": [
+      { "name": "Cathy Matsui (キャシー松井)", "role": "General Partner / Founder" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["impact-vc", "women-founders", "diversity", "esg", "tokyo-backed", "new-fund-2025"],
+    "summary": {
+      "en": "MPower Partners (Cathy Matsui) launched WPower Fund I in 2025 — Japan's first fund 100% dedicated to female-founder / women-advancement startups. Target ¥6B (max ¥8B), with ¥3B from the Tokyo Metropolitan Government.",
+      "local": "MPowerパートナーズ（代表：キャシー松井）が2025年に「WPower Fund I」を設立。女性起業家・女性活躍推進スタートアップに100%特化した国内初のファンド。規模60億円（最大80億円、うち都出資30億円）。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000005690.000052467.html",
+        "title": "国内初 女性活躍推進に特化した「スタートアップ支援ファンド」を設立",
+        "publisher": "Tokyo Metropolitan Government (PR TIMES)",
+        "accessed": "2026-06-03",
+        "supports": "fund name, size, Tokyo contribution, first-of-kind, rep",
+        "quote": "WPower Fund I投資事業有限責任組合 … 60億円（うち都出資額：30億円）※ファンド規模は最大80億円までを想定 … MPower（代表者：キャシー松井）"
+      },
+      {
+        "url": "https://www.nikkei.com/article/DGXZQOUC0722P0X00C25A3000000/",
+        "title": "VCのMPower Partners、女性活躍特化のファンド 東京都や三菱UFJ銀行など出資",
+        "publisher": "Nikkei",
+        "accessed": "2026-06-03",
+        "supports": "LPs, check size, stage",
+        "quote": "東京都、三菱UFJ銀行、三菱地所、塩野義製薬がファンドに出資 … 1社あたり数千万〜数億円を投資"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "MPower Partners firm founded 2021; included on basis of dedicated WPower Fund I raised 2025. Check size described qualitatively (数千万〜数億円).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "jp-nextblue-tokyo-fund",
+    "name": { "en": "NEXTBLUE (NEXTBLUE TOKYO Fund)", "local": "NEXTBLUE（NEXTBLUE TOKYO投資事業有限責任組合）" },
+    "aka": ["NEXTBLUE", "NEXTBLUE TOKYO Fund", "NEXTBLUE有限責任事業組合"],
+    "type": "vc",
+    "subtypes": ["impact"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://nextblue.vc/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000005690.000052467.html", "https://www.metro.tokyo.lg.jp/information/press/2025/03/2025030705"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "NEXTBLUE2号投資事業有限責任組合", "vintage_year": 2023, "size": { "raw": "target ¥5B (50億円)", "usd": null, "currency": "JPY" } },
+        { "name": "NEXTBLUE TOKYO投資事業有限責任組合", "vintage_year": 2025, "size": { "raw": "¥2B target, up to ¥5B (20億円、最大50億円; 都出資10億円)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "¥100M–¥200M (1億〜2億円, Fund 2 initial)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Europe"],
+      "sector_focus": ["impact", "healthtech", "consumer"],
+      "thesis": "VC specialized in women's wellbeing and female entrepreneurs (described as Asia's first such fund), also supporting Japan-Europe market expansion. The Tokyo-backed NEXTBLUE TOKYO fund (2025) is 100% dedicated to women-advancement startups."
+    },
+    "track_record": {
+      "portfolio_count": "14+ (Fund 1)",
+      "notable_investments": [],
+      "co_investors": ["Tokyo Metropolitan Government"]
+    },
+    "people": [
+      { "name": "Kanako Inoue (井上加奈子)", "role": "General Partner / Representative" },
+      { "name": "Yuichi Kori (郡裕一)", "role": "General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["impact-vc", "women-wellbeing", "femtech", "japan-europe", "tokyo-backed", "new-fund-2025"],
+    "summary": {
+      "en": "NEXTBLUE (Kanako Inoue, Yuichi Kori) specializes in women's-wellbeing/female-founder investing and Japan-Europe expansion. Its women-focused 2nd fund (2023, target ¥5B) and Tokyo-backed NEXTBLUE TOKYO fund (2025, ¥2B/up to ¥5B) target the female-advancement segment.",
+      "local": "NEXTBLUE（代表：井上加奈子、郡裕一）は女性のウェルビーイング・女性起業家に特化（アジア初）し、日欧の市場展開も支援。女性特化2号ファンド（2023年、50億円目標）と東京都選定のNEXTBLUE TOKYOファンド（2025年、20億円・最大50億円）を運営。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000005690.000052467.html",
+        "title": "国内初 女性活躍推進に特化した「スタートアップ支援ファンド」を設立",
+        "publisher": "Tokyo Metropolitan Government (PR TIMES)",
+        "accessed": "2026-06-03",
+        "supports": "NEXTBLUE TOKYO fund name, size, Tokyo contribution, rep",
+        "quote": "NEXTBLUE TOKYO投資事業有限責任組合 … 20億円（うち都出資額：10億円）※ファンド規模は最大50億円までを想定 … NEXTBLUE（代表者：井上加奈子）"
+      },
+      {
+        "url": "https://www.nikkei.com/article/DGXZQOUC200L80Q3A021C2000000/",
+        "title": "NEXTBLUE、女性の健康支える新興企業に投資",
+        "publisher": "Nikkei",
+        "accessed": "2026-06-03",
+        "supports": "Fund 2 size, check size, women's health focus",
+        "quote": "NEXTBLUE2号投資事業有限責任組合 … 2024年12月までに運用額50億円 … 初回投資額は1億〜2億円"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "NEXTBLUE LLP formed 2020; included on basis of women-focused Fund 2 (2023) and Tokyo fund (2025). Website URL inferred; primary facts from Tokyo gov PR + Nikkei.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "jp-atlas-capital",
+    "name": { "en": "Atlas Capital", "local": "株式会社アトラスキャピタル" },
+    "aka": ["アトラスキャピタル", "Atlas Capital Fund 1"],
+    "type": "vc",
+    "subtypes": ["growth-equity"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.atlascapital.jp/",
+    "links": {
+      "other": ["https://www.atlascapital.jp/news_release/202407061132/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "アトラスキャピタル1号投資事業有限責任組合", "vintage_year": 2024, "size": { "raw": null, "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["growth", "series-b", "series-c-plus"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist", "consumer", "saas-enterprise"],
+      "thesis": "Independent firm whose 1st fund (first close July 2024) provides growth and IPO support across diversified sectors including IT, manufacturing, retail, construction and consumer goods."
+    },
+    "track_record": {
+      "portfolio_count": "7+",
+      "notable_investments": [],
+      "co_investors": []
+    },
+    "people": [
+      { "name": "Shuri Murayama (村山脩利)", "role": "Representative" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["independent-vc", "growth", "diversified", "new-fund-2024"],
+    "summary": {
+      "en": "Tokyo independent firm whose Atlas Capital 1 fund first-closed in July 2024, providing growth/IPO support across diversified sectors (IT, manufacturing, retail, construction, consumer). 7+ portfolio companies.",
+      "local": "東京の独立系。アトラスキャピタル1号ファンドが2024年7月にファーストクローズ。IT・製造・小売・建設・消費財など多様な業種でグロース／IPO支援を行う。投資先7社以上。"
+    },
+    "sources": [
+      {
+        "url": "https://www.atlascapital.jp/news_release/202407061132/",
+        "title": "アトラス1号ファンドのファースト・クローズと株式譲受に関するお知らせ",
+        "publisher": "Atlas Capital",
+        "accessed": "2026-06-03",
+        "supports": "fund name, first close date, strategy, HQ, rep",
+        "quote": "アトラスキャピタル1号投資事業有限責任組合 … 2024年7月6日 … 成長支援 … IPO支援"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund size and check size not disclosed (null). Stage classification (growth/late) inferred from 'growth support / IPO support' positioning and steel-distribution/established-company portfolio. Rep name romanization approximate.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  },
+  {
+    "id": "jp-icj-fund-of-search-funds",
+    "name": { "en": "Inclusion Japan (ICJ Fund of Search Funds)", "local": "インクルージョン・ジャパン（ICJ1号ファンド・オブ・サーチファンド）" },
+    "aka": ["ICJ", "Inclusion Japan", "ICJ1号FSF", "Fund of Search Funds"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://inclusionjapan.com/",
+    "links": {
+      "other": ["https://inclusionjapan.com/icj1fsf/"]
+    },
+    "capital": {
+      "funds": [
+        { "name": "ICJ1号ファンド・オブ・サーチファンド（ICJ1号FSF）", "vintage_year": 2025, "size": { "raw": "target ¥1B (10億円)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "pre-seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["generalist"],
+      "thesis": "Japan's first VC fund dedicated to search funds (entrepreneurship-through-acquisition). The ICJ 1 Fund of Search Funds (Feb 2025, target ¥1B) plans initial investments into ~30 search funds, backed by Mitsubishi UFJ Trust and Takashimaya."
+    },
+    "track_record": {
+      "portfolio_count": "target ~30 search funds",
+      "notable_investments": [],
+      "co_investors": ["Mitsubishi UFJ Trust and Banking", "Takashimaya"]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["search-fund", "first-of-kind", "etA", "new-fund-2025"],
+    "summary": {
+      "en": "Inclusion Japan launched the ICJ 1 Fund of Search Funds in Feb 2025 — Japan's first VC fund dedicated to search funds — targeting ¥1B and initial investment into ~30 search funds, backed by Mitsubishi UFJ Trust and Takashimaya.",
+      "local": "インクルージョン・ジャパンが2025年2月に国内初のサーチファンド専用VCファンド「ICJ1号ファンド・オブ・サーチファンド」を設立。総額10億円規模を目指し、約30件のサーチファンドへ初期投資。三菱UFJ信託銀行・高島屋が出資。"
+    },
+    "sources": [
+      {
+        "url": "https://inclusionjapan.com/icj1fsf/",
+        "title": "国内初のサーチファンド専用VCファンド - ICJ",
+        "publisher": "Inclusion Japan (ICJ)",
+        "accessed": "2026-06-03",
+        "supports": "fund name, vintage, target size, target search funds, LPs, first-of-kind",
+        "quote": "2025年2月28日 … ICJ1号ファンド・オブ・サーチファンド（ICJ1号FSF）… 総額10億円規模 … 約30件のサーチファンドに対して初期投資 … 三菱UFJ信託銀行と高島屋"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Inclusion Japan (parent VC) founded 2013; the relevant Fund of Search Funds is a 2025 first-of-kind vehicle. Per-search-fund check size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-emerging-2023plus"
+  }
+]

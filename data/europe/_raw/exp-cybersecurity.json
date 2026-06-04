@@ -1,0 +1,824 @@
+[
+  {
+    "id": "eu-tin-capital",
+    "name": { "en": "TIN Capital" },
+    "aka": ["TIN Capital B.V.", "Technology Investment Network"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 1998,
+    "region": "europe",
+    "country": "Netherlands",
+    "hq_city": "Amsterdam",
+    "website": "https://www.tincapital.vc/",
+    "links": {
+      "other": ["https://www.tincapital.vc/ectf", "https://thecyberhive.eu/investors/tin-capital"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "€80M+", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "European Cyber Tech Fund V", "vintage_year": 2023, "size": { "raw": "€80M+", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["cybersecurity", "deeptech"],
+      "thesis": "One of Europe's longest-running dedicated cybersecurity VC firms, backing security-tech startups and scale-ups in cloud security, software supply-chain security, IoT security and privacy technologies to 'keep Europe safe and resilient'."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Eye Security", "sector": "cybersecurity", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["cybersecurity-specialist", "iot-security", "EIF-backed"],
+    "summary": {
+      "en": "Amsterdam-based VC founded in 1998 focused exclusively on European cybersecurity and security-tech. Its European Cyber Tech Fund V (2023) reached over €80M with backing from the European Investment Fund and Invest-NL.",
+      "local": "In 1998 opgerichte Amsterdamse VC die zich exclusief richt op Europese cybersecurity; European Cyber Tech Fund V (2023) haalde ruim €80 miljoen op."
+    },
+    "sources": [
+      { "url": "https://www.tincapital.vc/", "title": "TIN Capital", "publisher": "TIN Capital", "accessed": "2026-06-03", "supports": "founded year, HQ, cyber focus, fund name", "quote": "A Dutch venture capital firm founded in 1998 ... keep Europe safe and resilient with security tech." },
+      { "url": "https://www.vestbee.com/insights/articles/vc-funds-investing-in-cybersecurity-startups-in-europe", "title": "VC funds investing in cybersecurity startups in Europe", "publisher": "Vestbee", "accessed": "2026-06-03", "supports": "fund size, stages, EIF/Invest-NL backing", "quote": "launched its latest vehicle, European Cyber Tech Fund V, in 2023, reaching over €80 million in total commitments, with backing from investors including the European Investment Fund and Invest-NL." }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund-size figures vary across secondary sources (€80M reported by Vestbee/EIF; some sources cite a €100M target). Per-deal check size not disclosed publicly.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "eu-33n-ventures",
+    "name": { "en": "33N Ventures" },
+    "aka": ["33N"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "Portugal",
+    "hq_city": "Porto",
+    "website": "https://www.33n.vc/",
+    "links": {
+      "other": ["https://thecyberhive.eu/investors/33n-ventures"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "€50M first close (target €150M)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "33N Cybersecurity & Infrastructure Fund", "vintage_year": 2024, "size": { "raw": "€50M first close, €150M target", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": "€4M–€12M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Europe", "Israel", "United States", "Middle East"],
+      "sector_focus": ["cybersecurity", "saas-enterprise", "deeptech"],
+      "thesis": "Invests globally in B2B cybersecurity and infrastructure-software companies (dev tools, cloud/data infrastructure, AI/ML tooling) at Series A/B with proven technology and existing revenues, preferring to lead or co-lead."
+    },
+    "track_record": {
+      "portfolio_count": "30+",
+      "notable_investments": [
+        { "company": "Exein", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Hackuity", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Cybersixgill", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "SafeBreach", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Apono", "sector": "cybersecurity", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["cybersecurity-specialist", "infrastructure-software", "EIF-backed"],
+    "summary": {
+      "en": "Porto-based specialist VC (founded 2022) investing in B2B cybersecurity and infrastructure software at Series A/B with €4M–€12M tickets. First closed its dedicated fund at €50M in Jan 2024, targeting €150M.",
+      "local": "VC sediada no Porto (fundada em 2022) especializada em cibersegurança B2B e software de infraestrutura, com cheques de €4M–€12M em Série A/B."
+    },
+    "sources": [
+      { "url": "https://thecyberhive.eu/investors/33n-ventures", "title": "33N Ventures", "publisher": "Cyberhive Europe", "accessed": "2026-06-03", "supports": "founded year, HQ, geo focus, sector", "quote": "Founded: 2022 ... Praça do Sucesso 123, 4050-145 Porto, Portugal ... Europe, Israel, and the US ... cybersecurity and infrastructure software" },
+      { "url": "https://www.33n.vc/", "title": "33N Ventures", "publisher": "33N Ventures", "accessed": "2026-06-03", "supports": "ticket size, sector, portfolio", "quote": "33N invests globally in B2B Cybersecurity and Infrastructure software technology companies ... 4 to 12 million €" },
+      { "url": "https://www.vestbee.com/insights/articles/vc-funds-investing-in-cybersecurity-startups-in-europe", "title": "VC funds investing in cybersecurity startups in Europe", "publisher": "Vestbee", "accessed": "2026-06-03", "supports": "fund first close", "quote": "In January 2024, 33N Ventures announced the first closing of its dedicated cybersecurity and infrastructure software fund at €50 million, with a target size of €150 million." }
+    ],
+    "confidence": "high",
+    "verification_notes": "Total final fund size not yet confirmed; €50M first close / €150M target reported Jan 2024.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "eu-auriga-cyber-ventures",
+    "name": { "en": "Auriga Cyber Ventures", "local": "Auriga Cyber Ventures" },
+    "aka": ["Auriga Partners (cyber fund)"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://www.aurigacyberventures.com/",
+    "links": {
+      "other": ["https://thecyberhive.eu/investors/auriga-cyber-ventures", "https://www.aurigapartners.com/en/about/"]
+    },
+    "capital": {
+      "aum": { "raw": "€55M", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": "€55M", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Auriga Cyber Ventures", "vintage_year": 2022, "size": { "raw": "€55M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "€500K–€1M initial (with follow-on)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["France", "Europe"],
+      "sector_focus": ["cybersecurity"],
+      "thesis": "Backs early-stage European founders in cybersecurity and digital trust — 'Nothing else.' Founded by leading French cyber entrepreneurs alongside management company Auriga Partners."
+    },
+    "track_record": {
+      "portfolio_count": "25+",
+      "notable_investments": [
+        { "company": "Patrowl", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Tenacy", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Cryptr", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Sensity", "sector": "cybersecurity", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Geoffroy Rosset", "role": "Managing Partner" },
+      { "name": "William Lecat", "role": "Partner" },
+      { "name": "Thierry Rouquet", "role": "Operating Partner" },
+      { "name": "Jean-Noël de Galzain", "role": "Venture Partner (Wallix)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["cybersecurity-specialist", "digital-trust", "founder-backed"],
+    "summary": {
+      "en": "Paris-based €55M early-stage fund (launched 2022) dedicated exclusively to European cybersecurity and digital trust startups, founded by French cyber entrepreneurs (Wallix, Oodrive, Vade) with Auriga Partners.",
+      "local": "Fonds parisien de 55 M€ (lancé en 2022) dédié exclusivement aux startups européennes de la cybersécurité et de la confiance numérique."
+    },
+    "sources": [
+      { "url": "https://www.aurigacyberventures.com/", "title": "Auriga Cyber Ventures", "publisher": "Auriga Cyber Ventures", "accessed": "2026-06-03", "supports": "HQ, exclusive cyber focus, portfolio, people", "quote": "We back early-stage European founders in cybersecurity and digital trust. Nothing else. ... 250 Bis Rue du Faubourg Saint-Honoré, 75008 Paris" },
+      { "url": "https://thecyberhive.eu/investors/auriga-cyber-ventures", "title": "Auriga Cyber Ventures", "publisher": "Cyberhive Europe", "accessed": "2026-06-03", "supports": "founded year, fund size", "quote": "Launched in 2022, it is a 55M€ early-stage venture capital fund dedicated to European cybersecurity and digital trust technologies' startups." },
+      { "url": "https://www.vestbee.com/insights/articles/vc-funds-investing-in-cybersecurity-startups-in-europe", "title": "VC funds investing in cybersecurity startups in Europe", "publisher": "Vestbee", "accessed": "2026-06-03", "supports": "ticket size", "quote": "invests seed tickets ranging from €500,000 to €1 million in French and European cybersecurity startups, with capacity for follow-on rounds." }
+    ],
+    "confidence": "high",
+    "verification_notes": "Operates under management company Auriga Partners; founding partners include Jean-Noël de Galzain (Wallix), Edouard de Rémur (Oodrive), Georges Lotigier (Vade) and Thierry Rouquet.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "eu-cybica-cyber-integrity-capital",
+    "name": { "en": "Cybica (Cyber Integrity Capital)", "local": "CYBICA" },
+    "aka": ["Cyber Integrity Capital", "CYBICA Primer Fund"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": null,
+    "region": "europe",
+    "country": "France",
+    "hq_city": "Paris",
+    "website": "https://cybica.fr/",
+    "links": {
+      "other": ["https://www.cyber-integrity-capital.com/visions2.html", "https://thecyberhive.eu/investors"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "€100M (to deploy over 3–5 years)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "CYBICA Primer Fund", "vintage_year": null, "size": { "raw": "€100M planned deployment", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": "€1.5M–€5M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "Switzerland", "Canada"],
+      "sector_focus": ["cybersecurity", "web3-crypto", "fintech"],
+      "thesis": "Positioned as 'the first Cyber Impact Fund in Europe', investing in teams strengthening the integrity of cyber and financial infrastructures — cybersecurity, digital identity/privacy, data governance, traceability and Web3."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["cybersecurity-specialist", "cyber-impact", "digital-identity", "web3-security"],
+    "summary": {
+      "en": "Paris-headquartered (with Brussels and Geneva presence) cyber-impact VC planning to deploy €100M over 3–5 years in 15–20 Series A/B companies (€1.5M–€5M each) across cybersecurity, digital identity, privacy and Web3 in Europe, Switzerland and Canada.",
+      "local": "Fonds parisien d'impact cyber prévoyant de déployer 100 M€ sur 3 à 5 ans dans 15 à 20 sociétés en Série A/B (1,5–5 M€ chacune)."
+    },
+    "sources": [
+      { "url": "https://cybica.fr/", "title": "Cybica - Cyber Integrity Capital", "publisher": "Cybica", "accessed": "2026-06-03", "supports": "HQ cities, focus, founders' backgrounds", "quote": "a European venture capital firm that selectively invests in unique teams and emerging paradigms strengthening the integrity of our cyber and financial infrastructures ... Paris, Brussels, Geneva" },
+      { "url": "https://www.vestbee.com/insights/articles/vc-funds-investing-in-cybersecurity-startups-in-europe", "title": "VC funds investing in cybersecurity startups in Europe", "publisher": "Vestbee", "accessed": "2026-06-03", "supports": "fund size, ticket, geo, deal count", "quote": "the fund plans to deploy €100 million over three to five years, making 15–20 minority investments of €1.5–5 million in Series A and B companies. Its geographic focus includes Europe, Switzerland, and Canada." }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year not disclosed on official site; fund described as still deploying. Founders described as an ex-French senior military officer and a senior banking/insurance executive; names not published.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "eu-fnx-ventures",
+    "name": { "en": "FNX Ventures" },
+    "aka": ["FNX"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "europe",
+    "country": "Belgium",
+    "hq_city": "Liège",
+    "website": "https://fnx.vc/",
+    "links": {
+      "linkedin": "https://be.linkedin.com/company/fnxvc",
+      "other": ["https://www.thecyberhive.eu/investors/fnx-ventures", "https://fnherstal.com/en/news/fnx-ventures-an-investment-fund-launched-by-wallonie-entreprendre-and-the-herstal-group/"]
+    },
+    "capital": {
+      "aum": { "raw": "€20M", "usd": null, "currency": "EUR" },
+      "current_fund": { "raw": "€20M", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "FNX Ventures Fund", "vintage_year": 2024, "size": { "raw": "€20M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "€200K initial, up to €500K seed, up to €2M total per company", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Belgium", "Benelux", "France", "Germany"],
+      "sector_focus": ["cybersecurity", "deeptech", "robotics"],
+      "thesis": "Backed by the Herstal Group (defence) and Wallonie Entreprendre, FNX partners at (pre)seed with founders in (cyber)security, protection tech, dual-use technologies and new materials in Benelux, France and Germany."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["cybersecurity", "dual-use", "defence-adjacent", "Herstal-Group"],
+    "summary": {
+      "en": "Liège-based €20M (pre)seed fund launched in 2024 by the Herstal Group and Wallonie Entreprendre, investing in cybersecurity, protection tech, dual-use technologies and new materials across Benelux, France and Germany.",
+      "local": "Fonds (pré)amorçage de 20 M€ basé à Liège, lancé en 2024 par le Groupe Herstal et Wallonie Entreprendre, investissant dans la cybersécurité et les technologies duales."
+    },
+    "sources": [
+      { "url": "https://fnherstal.com/en/news/fnx-ventures-an-investment-fund-launched-by-wallonie-entreprendre-and-the-herstal-group/", "title": "FNX Ventures: an investment fund launched", "publisher": "FN Herstal", "accessed": "2026-06-03", "supports": "founders, capital, geo, sector", "quote": "FNX Ventures aims to support young innovative companies active in the Benelux, France and Germany ... cybersecurity, dual technologies and new materials ... a capital of 20 million euros" },
+      { "url": "https://www.eu-startups.com/investor/fnx-ventures/", "title": "FNX Ventures", "publisher": "EU-Startups", "accessed": "2026-06-03", "supports": "founded year, HQ, ticket sizes, stage", "quote": "based in Liège, Belgium, founded in 2024 ... initial commitment of at least 200,000 euros for pre-seed ... up to 500,000 euros ... could reach up to 2 million euros per company" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Strongly defence/dual-use oriented; cybersecurity is a core named vertical alongside protection tech and new materials.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "eu-gd-ventures",
+    "name": { "en": "G+D Ventures", "local": "Giesecke+Devrient Ventures" },
+    "aka": ["Giesecke+Devrient Ventures", "GD Ventures"],
+    "type": "cvc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "europe",
+    "country": "Germany",
+    "hq_city": "Munich",
+    "website": "https://www.gi-de.com/en/ventures",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/Giesecke-Devrient-ventures",
+      "other": ["https://www.eib.org/en/press/all/2022-279-eib-and-gd-ventures-to-invest-in-cybersecurity-and-trust-tech-startups"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "€50M co-investment vehicle (with EIB)", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "G+D Ventures / EIB TrustTech co-investment platform", "vintage_year": 2022, "size": { "raw": "€50M (€25M G+D + €25M EIB)", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "€200K–€2M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["cybersecurity", "fintech", "deeptech"],
+      "thesis": "Corporate VC of security group Giesecke+Devrient investing in early-stage European 'TrustTech' — cybersecurity, privacy-protection, digital identity, secure authentication/payments and anti-fraud — that builds trust across the digital ecosystem."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["cybersecurity", "trusttech", "digital-identity", "EIB-backed", "corporate-vc"],
+    "summary": {
+      "en": "Munich-based corporate VC (2018) of Giesecke+Devrient. In 2022 it set up a €50M co-investment vehicle with the European Investment Bank to back early-stage EU TrustTech: cybersecurity, privacy, digital identity and secure authentication.",
+      "local": "Münchner Corporate-VC (2018) von Giesecke+Devrient; 2022 €50-Mio.-Co-Investmentvehikel mit der EIB für europäische TrustTech-Startups (Cybersecurity, Privacy, digitale Identität)."
+    },
+    "sources": [
+      { "url": "https://www.eib.org/en/press/all/2022-279-eib-and-gd-ventures-to-invest-in-cybersecurity-and-trust-tech-startups", "title": "EIB and G+D Ventures to invest in cybersecurity and trust tech startups", "publisher": "European Investment Bank", "accessed": "2026-06-03", "supports": "€50M vehicle, €25M each, focus", "quote": "The European Investment Bank (EIB) and G+D Ventures ... will invest €25 million each into a new investment platform." },
+      { "url": "https://www.munich-startup.de/en/83591/gd-ventures-and-eib-invest-in-cybersecurity-and-trusttech-startups/", "title": "G+D Ventures and EIB invest in TrustTech startups", "publisher": "Munich Startup", "accessed": "2026-06-03", "supports": "founded year, HQ, focus", "quote": "G+D Ventures is the corporate venture capital arm of the Giesecke+Devrient Group, founded in 2018 and based in Munich, Germany." },
+      { "url": "https://www.vestbee.com/insights/articles/vc-funds-investing-in-cybersecurity-startups-in-europe", "title": "VC funds investing in cybersecurity startups in Europe", "publisher": "Vestbee", "accessed": "2026-06-03", "supports": "ticket size, stages", "quote": "Giesecke+Devrient Ventures, Munich | seed–Series A | €200K–€2M | TrustTech and cybersecurity" }
+    ],
+    "confidence": "high",
+    "verification_notes": "G+D founded year (2018) per Munich Startup; the €50M figure refers to the EIB co-investment vehicle, not total AUM.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "eu-osney-capital",
+    "name": { "en": "Osney Capital" },
+    "aka": [],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.osneycapital.com/",
+    "links": {
+      "other": ["https://www.osneycapital.com/about", "https://sifted.eu/articles/osney-capital-cyber-security-startup-vc"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "£50M (oversubscribed first close)", "usd": null, "currency": "GBP" },
+      "funds": [
+        { "name": "Osney Capital Fund I", "vintage_year": 2025, "size": { "raw": "£50M", "usd": null, "currency": "GBP" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "rounds typically under £5M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United Kingdom"],
+      "sector_focus": ["cybersecurity"],
+      "thesis": "Described as the UK's first specialist cybersecurity seed fund, investing exclusively in early-stage UK cyber startups to strengthen national cyber resilience."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Joshua Walter", "role": "Co-founder" },
+      { "name": "Paul Wilkes", "role": "Co-founder" },
+      { "name": "Adam Cragg", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["cybersecurity-specialist", "uk-cyber", "seed", "British-Business-Bank"],
+    "summary": {
+      "en": "London-based VC focused exclusively on early-stage UK cyber startups. In April 2025 it launched what it calls the UK's first specialist cybersecurity seed fund, oversubscribed from a £50M target, backed by the British Business Bank.",
+      "local": "Londoner VC, der sich ausschließlich auf britische Cyber-Startups in der Frühphase konzentriert; 2025 erster spezialisierter Cyber-Seed-Fonds Großbritanniens (£50 Mio.)."
+    },
+    "sources": [
+      { "url": "https://www.osneycapital.com/about", "title": "About — Sector Specialist Cyber Security VC", "publisher": "Osney Capital", "accessed": "2026-06-03", "supports": "exclusive cyber focus, UK, round size", "quote": "exclusively on the early-stage Cyber sector ... UK-based companies ... typically investing where the round size is less than £5m" },
+      { "url": "https://sifted.eu/articles/osney-capital-cyber-security-startup-vc", "title": "Osney Capital launches debut £50m fund for cyber security startups", "publisher": "Sifted", "accessed": "2026-06-03", "supports": "£50M fund, founders, BBB backing", "quote": "Founded in 2020 by Joshua Walter, Paul Wilkes, and Adam Cragg ... the UK's first specialist cyber security seed fund ... oversubscribed from its original target of £50 million ... backing of the British Business Bank" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Firm founded 2020; debut fund first close in April 2025. HQ London (firm operates UK-wide).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "eu-ten-eleven-ventures-uk",
+    "name": { "en": "Ten Eleven Ventures (UK)" },
+    "aka": ["Ten Eleven Ventures UK, Ltd", "1011 Ventures"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.1011vc.com/",
+    "links": {
+      "other": ["https://www.1011vc.com/company/", "https://find-and-update.company-information.service.gov.uk/company/14288913"]
+    },
+    "capital": {
+      "aum": { "raw": "$1B+ total", "usd": 1000000000, "currency": "USD" },
+      "current_fund": { "raw": "$600M (third-generation fund)", "usd": 600000000, "currency": "USD" },
+      "funds": [
+        { "name": "Ten Eleven Ventures III", "vintage_year": 2022, "size": { "raw": "$600M", "usd": 600000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United Kingdom", "United States", "Global"],
+      "sector_focus": ["cybersecurity"],
+      "thesis": "The original VC firm dedicated to global, stage-agnostic cybersecurity investing; its European office (Cheltenham, plus a London Mayfair office) is led by Darktrace co-founder and General Partner Dave Palmer."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Alex Doll", "role": "Founder & Managing General Partner" },
+      { "name": "Mark Hatfield", "role": "Founding General Partner" },
+      { "name": "Dave Palmer", "role": "General Partner (Europe, ex-Darktrace)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["cybersecurity-specialist", "stage-agnostic", "darktrace"],
+    "summary": {
+      "en": "Cybersecurity-only VC (founded 2014) with a UK/European office in Cheltenham and London led by Darktrace co-founder Dave Palmer. Raised a $600M third fund, taking total AUM over $1B.",
+      "local": "Auf Cybersicherheit spezialisierte VC (2014) mit britisch-europäischem Büro in Cheltenham/London unter Dave Palmer (Darktrace-Mitgründer)."
+    },
+    "sources": [
+      { "url": "https://www.prnewswire.com/news-releases/cybersecurity-investment-specialist-ten-eleven-ventures-opens-uk-office-led-by-newly-appointed-general-partner-and-darktrace-co-founder-dave-palmer-301636151.html", "title": "Ten Eleven Ventures Opens UK Office Led By Dave Palmer", "publisher": "PR Newswire", "accessed": "2026-06-03", "supports": "UK/Europe office, Dave Palmer", "quote": "Ten Eleven Ventures Opens UK Office Led By Newly Appointed General Partner and Darktrace Co-Founder Dave Palmer" },
+      { "url": "https://www.prnewswire.com/news-releases/ten-eleven-ventures-raises-third-generation-fund-bringing-total-aum-to-over-1bn-301559858.html", "title": "Ten Eleven Ventures Raises Third Generation Fund", "publisher": "PR Newswire", "accessed": "2026-06-03", "supports": "founded year, founders, $600M fund, $1B AUM", "quote": "founded in 2014 by Alex Doll and Mark Hatfield ... raised $600 million for its third generation fund ... total assets under management to over $1 billion" }
+    ],
+    "confidence": "high",
+    "verification_notes": "US-origin firm (HQ San Francisco) but with a substantial registered UK/European office (Ten Eleven Ventures UK, Ltd, Companies House 14288913) and a Europe-dedicated General Partner; included for its European cyber investing presence. May overlap with US lists.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "eu-paladin-capital-group-london",
+    "name": { "en": "Paladin Capital Group (London)" },
+    "aka": ["Paladin Capital Group"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2001,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.paladincapgroup.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/paladin-capital-group",
+      "other": ["https://www.paladincapgroup.com/about-paladin-capital-group/", "https://www.paladincapgroup.com/cyber-fund-ii/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$372M (Cyber Fund II)", "usd": 372000000, "currency": "USD" },
+      "funds": [
+        { "name": "Paladin Cyber Fund II", "vintage_year": 2022, "size": { "raw": "$372M", "usd": 372000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "United States", "Australia", "Middle East"],
+      "sector_focus": ["cybersecurity", "deeptech"],
+      "thesis": "Multi-stage cyber VC focused on 'Digital Infrastructure Resilience' — technologies that enable, monitor, manage and defend critical infrastructure dependent on cyberspace; runs European/Luxembourg operations from London and Luxembourg."
+    },
+    "track_record": {
+      "portfolio_count": "60+",
+      "notable_investments": []
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["cybersecurity-specialist", "critical-infrastructure", "multi-stage"],
+    "summary": {
+      "en": "Cyber-focused VC (founded 2001) with offices including London and Luxembourg. Its $372M Cyber Fund II (2022) backs technologies defending critical digital infrastructure; the firm has invested in 60+ companies across North America, Europe, Australia and the Middle East.",
+      "local": "Auf Cybersicherheit fokussierter VC (2001) mit Büros u.a. in London und Luxemburg; Cyber Fund II (2022) mit $372 Mio. für den Schutz kritischer digitaler Infrastruktur."
+    },
+    "sources": [
+      { "url": "https://www.paladincapgroup.com/about-paladin-capital-group/", "title": "About Us", "publisher": "Paladin Capital Group", "accessed": "2026-06-03", "supports": "founded year, offices, portfolio count, geo", "quote": "founded in 2001 ... offices in Washington DC, New York, London, Luxembourg, and Silicon Valley ... invested in more than 60 companies across North America, Australia, Europe, and the Middle East" },
+      { "url": "https://www.privateequitywire.co.uk/paladin-capital-group-closes-372m-cyber-fund-ii/", "title": "Paladin Capital Group closes $372m Cyber Fund II", "publisher": "Private Equity Wire", "accessed": "2026-06-03", "supports": "Cyber Fund II size, focus", "quote": "Paladin Cyber Fund II is a $372 million multi-stage fund that invests in cybersecurity startups" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "US-headquartered (Washington DC) but with a long-standing London and Luxembourg presence covering European cyber investments; included for European activity. May overlap with US lists.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "eu-keen-venture-partners",
+    "name": { "en": "Keen Venture Partners" },
+    "aka": ["Keen VP"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "europe",
+    "country": "Netherlands",
+    "hq_city": "Amsterdam",
+    "website": "https://www.keenventurepartners.com/",
+    "links": {
+      "other": ["https://www.eu-startups.com/2025/11/as-modern-battlefield-needs-evolve-keen-venture-partners-raises-europes-largest-dedicated-defencetech-fund/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "€150M defence & security tech fund", "usd": null, "currency": "EUR" },
+      "funds": [
+        { "name": "Keen Defence & Security Tech Fund", "vintage_year": 2025, "size": { "raw": "€150M", "usd": null, "currency": "EUR" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "€1M–€10M", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "NATO countries"],
+      "sector_focus": ["cybersecurity", "deeptech", "spacetech"],
+      "thesis": "Amsterdam VC running Europe's largest dedicated defence-tech fund; invests €1M–€10M (Seed–Series B, emphasis Series A) in dual-use and defence-first technologies including cybersecurity, autonomous systems, deterrence and space."
+    },
+    "track_record": {
+      "portfolio_count": "25+ (target)",
+      "notable_investments": [
+        { "company": "EclecticIQ", "sector": "cybersecurity", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Alexander Ribbink", "role": "Co-founder / Partner" },
+      { "name": "Giuseppe Lacerenza", "role": "Co-founder / Partner" },
+      { "name": "Ties Klinkhamer", "role": "Co-founder / Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["cybersecurity", "defence-tech", "dual-use", "EIF-backed"],
+    "summary": {
+      "en": "Amsterdam VC (founded 2016) that raised a €150M defence & security tech fund — Europe's largest dedicated defence-tech vehicle — investing €1M–€10M in cybersecurity, autonomous systems, deterrence and space across NATO Europe. First VC EIF-backed under the new Defence Investment Programme.",
+      "local": "Amsterdamse VC (2016) met een €150 miljoen defensie- en security-techfonds — Europa's grootste — met investeringen van €1–10 miljoen in o.a. cybersecurity."
+    },
+    "sources": [
+      { "url": "https://www.eu-startups.com/2025/11/as-modern-battlefield-needs-evolve-keen-venture-partners-raises-europes-largest-dedicated-defencetech-fund/", "title": "Keen Venture Partners raises Europe's largest dedicated DefenceTech fund", "publisher": "EU-Startups", "accessed": "2026-06-03", "supports": "founders, fund size, ticket, sectors, EIF", "quote": "launched in 2016 by Giuseppe Lacerenza, Alexander Ribbink, and Ties Klinkhamer ... €150 million European defence tech fund ... invest €1 million to €10 million ... cybersecurity, autonomous systems, deterrence technologies, and space applications" },
+      { "url": "https://www.vestbee.com/insights/articles/vc-funds-investing-in-cybersecurity-startups-in-europe", "title": "VC funds investing in cybersecurity startups in Europe", "publisher": "Vestbee", "accessed": "2026-06-03", "supports": "cyber focus, stages, ticket", "quote": "Keen Venture Partners, Amsterdam | seed–Series B | €1M–€10M | Defence tech and cybersecurity" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Primarily a defence-tech fund where cybersecurity is a named core vertical. First-close figures vary (€40M EIF commitment, €150M total).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "eu-bright-pixel-capital",
+    "name": { "en": "Bright Pixel Capital" },
+    "aka": ["Sonae IM", "Sonae Investment Management"],
+    "type": "cvc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "europe",
+    "country": "Portugal",
+    "hq_city": "Maia",
+    "website": "https://brpx.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/sonae-im",
+      "other": ["https://brpx.com/about-us/", "https://thecyberhive.eu/investors/bright-pixel-capital"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "Global"],
+      "sector_focus": ["cybersecurity", "saas-enterprise", "ecommerce", "deeptech"],
+      "thesis": "Technology investment arm of Portuguese group Sonae (rebranded from Sonae IM in 2022), with special focus on cybersecurity, infrastructure software, retail technologies and emerging tech, from early to growth stages."
+    },
+    "track_record": {
+      "portfolio_count": "60+",
+      "notable_investments": [],
+      "exits": [
+        { "company": "(cyber portfolio company acquired by Snyk)", "type": "M&A", "year": 2024, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["cybersecurity", "infrastructure-software", "corporate-vc", "retail-tech"],
+    "summary": {
+      "en": "Portugal-based technology investment arm of Sonae (founded 2015 as Sonae IM, rebranded Bright Pixel Capital in 2022). Invests across cybersecurity, infrastructure software, retail tech and emerging tech with a 60+ company portfolio; invested over €250M in its first 5 years.",
+      "local": "Braço de investimento em tecnologia da Sonae (fundado em 2015 como Sonae IM, rebatizado Bright Pixel Capital em 2022), com foco em cibersegurança e software de infraestrutura; carteira de mais de 60 empresas."
+    },
+    "sources": [
+      { "url": "https://brpx.com/about-us/", "title": "Bright Pixel Capital | About Us", "publisher": "Bright Pixel Capital", "accessed": "2026-06-03", "supports": "cyber focus, portfolio size, investment total", "quote": "special focus on cybersecurity, infrastructure software, retail technologies, business applications and emerging tech ... portfolio of more than 60 companies ... invested over 250M€ in the first 5 years" },
+      { "url": "https://www.eu-startups.com/investor/bright-pixel/", "title": "Bright Pixel", "publisher": "EU-Startups", "accessed": "2026-06-03", "supports": "founded year, HQ, rebrand", "quote": "formerly known as Sonae IM and rebranded to Bright Pixel Capital in May 2022 ... founded in 2015 and is based in Maia, Portugal" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Corporate VC of Sonae; cybersecurity is a long-standing core vertical (notable cyber exit to Snyk in 2024 per secondary sources).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "eu-imagine-you-know",
+    "name": { "en": "Imagine You Know", "local": "Imagine You Know (IYK)" },
+    "aka": ["IYK"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": null,
+    "region": "europe",
+    "country": "Switzerland",
+    "hq_city": "Zurich",
+    "website": "https://www.imagineyouknow.com/about",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/imagine-you-know",
+      "other": ["https://www.thecyberhive.eu/investors/imagine-you-know"]
+    },
+    "capital": {
+      "aum": { "raw": "CHF 60M", "usd": null, "currency": "CHF" },
+      "current_fund": { "raw": "CHF 60M", "usd": null, "currency": "CHF" },
+      "funds": [
+        { "name": "Imagine You Know Fund", "vintage_year": null, "size": { "raw": "CHF 60M", "usd": null, "currency": "CHF" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe"],
+      "sector_focus": ["cybersecurity", "deeptech"],
+      "thesis": "Founder-led Zurich VC backing early-stage European cybersecurity and digital-infrastructure startups, aiming to strengthen Europe's technological sovereignty ('the digital backbone of Europe's future')."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": []
+    },
+    "people": [
+      { "name": "Linda Brunner", "role": "Founding Partner" },
+      { "name": "Claudio Marforio", "role": "Founding Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["cybersecurity", "digital-infrastructure", "seed", "founder-led"],
+    "summary": {
+      "en": "Zurich-based seed VC investing in European cybersecurity and digital-infrastructure startups, managing a CHF 60M fund focused on Europe's technological sovereignty.",
+      "local": "Zürcher Seed-VC, der in europäische Cybersicherheits- und digitale Infrastruktur-Startups investiert; CHF-60-Mio.-Fonds mit Fokus auf europäische technologische Souveränität."
+    },
+    "sources": [
+      { "url": "https://www.imagineyouknow.com/about", "title": "Early-Stage VC Backing EU Cybersecurity Founders", "publisher": "Imagine You Know", "accessed": "2026-06-03", "supports": "HQ, focus, partners", "quote": "cybersecurity and digital infrastructure ... Affolternstrasse 42, CH-8050 ... Linda Brunner ... Claudio Marforio" },
+      { "url": "https://www.vestbee.com/insights/articles/vc-funds-investing-in-cybersecurity-startups-in-europe", "title": "VC funds investing in cybersecurity startups in Europe", "publisher": "Vestbee", "accessed": "2026-06-03", "supports": "fund size, stage, focus", "quote": "The firm manages a CHF 60M fund backing early-stage teams building the digital backbone of Europe's future ... dedicated to cybersecurity and digital infrastructure" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year not published on official site; CHF 60M fund size per Vestbee secondary source. Founding-partner naming differs slightly between sources (Serena Bernasconi vs Claudio Marforio listed in different sources); official site lists Brunner and Marforio.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "eu-planven-entrepreneur-ventures",
+    "name": { "en": "Planven Entrepreneur Ventures" },
+    "aka": ["Planven"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "europe",
+    "country": "Switzerland",
+    "hq_city": "Zurich",
+    "website": "https://www.linkedin.com/company/planven-entrepreneur-ventures",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/planven-entrepreneur-ventures"
+    },
+    "capital": {
+      "aum": { "raw": "$300M+", "usd": 300000000, "currency": "USD" },
+      "current_fund": { "raw": "~$86M (Fund II, 2021)", "usd": 86000000, "currency": "USD" },
+      "funds": [
+        { "name": "Planven Fund II", "vintage_year": 2021, "size": { "raw": "~$86M", "usd": 86000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "series-c-plus"],
+      "check_size": { "raw": "$5M–$10M", "usd_min": 5000000, "usd_max": 10000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "Israel", "United States"],
+      "sector_focus": ["cybersecurity", "ai-ml", "healthtech", "saas-enterprise"],
+      "thesis": "Zurich VC (with a Tel Aviv office) investing in B2B SaaS across cybersecurity, AI/ML and health tech, typically leading or co-investing $5M–$10M with board seats from Seed to Series C."
+    },
+    "track_record": {
+      "portfolio_count": "24+",
+      "notable_investments": [
+        { "company": "Nozomi Networks", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "BlueVoyant", "sector": "cybersecurity", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["cybersecurity", "b2b-saas", "israel-europe"],
+    "summary": {
+      "en": "Zurich-based VC/growth firm (founded 2018, Tel Aviv office) investing in B2B SaaS including cybersecurity (Nozomi Networks, BlueVoyant), $5M–$10M tickets from Seed to Series C across Europe, Israel and the US; manages over $300M.",
+      "local": "Zürcher VC/Wachstumsfirma (2018, Büro Tel Aviv) mit B2B-SaaS-Fokus inkl. Cybersicherheit; Tickets von $5–10 Mio., über $300 Mio. verwaltet."
+    },
+    "sources": [
+      { "url": "https://tracxn.com/d/venture-capital/planven-entrepreneur-ventures/__mlpED98HWw0YB8sVJQPmQX1082eX3m7cTwp596ZvidU", "title": "Planven Entrepreneur Ventures - Investor Profile", "publisher": "Tracxn", "accessed": "2026-06-03", "supports": "founded year, HQ, sectors, ticket, AUM, portfolio", "quote": "headquartered in Zurich, Switzerland, with offices in Tel Aviv ... Established in 2018 ... Cybersecurity, Artificial Intelligence ... $5 million to $10 million ... over $300 million in assets ... Nozomi Networks" },
+      { "url": "https://www.webwire.com/ViewPressRel.asp?aId=306707", "title": "Enel, Planven Entrepreneur Ventures and Nozomi Networks launch a cybersecurity alliance", "publisher": "WebWire", "accessed": "2026-06-03", "supports": "cybersecurity activity, Nozomi", "quote": "Planven Entrepreneur Ventures and Nozomi Networks launch a cybersecurity alliance" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Multi-sector B2B SaaS investor where cybersecurity is a core named vertical and a major share of portfolio. AUM/fund figures from Tracxn secondary data.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "eu-cylon-ventures",
+    "name": { "en": "CyLon Ventures" },
+    "aka": ["CyLon", "Cyber London"],
+    "type": "angel-syndicate",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "Witney",
+    "website": "https://www.cylonventures.com/",
+    "links": {
+      "other": ["https://www.cybersecurityintelligence.com/cyber-london-cylon-4014.html", "https://techcrunch.com/2015/01/27/cylon/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "angel-sized early-stage checks", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["United Kingdom", "United States", "Israel"],
+      "sector_focus": ["cybersecurity", "deeptech"],
+      "thesis": "Describes itself as Europe's leading specialist early-stage investor in security and resilience; invests its own capital into very-early-stage cyber and resilience companies with hands-on portfolio support. Grew out of CyLon, Europe's first dedicated cybersecurity accelerator (2015)."
+    },
+    "program": {
+      "length_weeks": 12,
+      "cohort_size": null,
+      "equity_taken_pct": null,
+      "format": "in-person",
+      "location": "London / Oxfordshire",
+      "demo_day": true,
+      "eligibility": "Early-stage cybersecurity / security & resilience startups"
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Immersive Labs", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Tessian", "sector": "cybersecurity", "outcome": "acquired" },
+        { "company": "Cado Security", "sector": "cybersecurity", "outcome": "active" },
+        { "company": "Mondoo", "sector": "cybersecurity", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Grace Cassy", "role": "Co-founder" },
+      { "name": "Jonathan Luff", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["cybersecurity-specialist", "accelerator-origin", "security-and-resilience"],
+    "summary": {
+      "en": "UK specialist early-stage investor in cybersecurity and resilience, grown out of CyLon (2015) — Europe's first dedicated cyber accelerator. Invests its own capital at the earliest stages; alumni/portfolio include Immersive Labs, Tessian, Cado Security and Mondoo.",
+      "local": "Spezialisierter britischer Frühphasen-Investor für Cybersicherheit und Resilienz, hervorgegangen aus CyLon (2015), Europas erstem Cyber-Accelerator."
+    },
+    "sources": [
+      { "url": "https://www.cylonventures.com/", "title": "CyLon Ventures", "publisher": "CyLon Ventures", "accessed": "2026-06-03", "supports": "specialist positioning, geo, portfolio", "quote": "Europe's leading specialist early stage investors in security and resilience ... Immersive Labs ... Tessian ... Cado Security ... Mondoo" },
+      { "url": "https://techcrunch.com/2015/01/27/cylon/", "title": "Europe Gets A Cyber Security Incubator", "publisher": "TechCrunch", "accessed": "2026-06-03", "supports": "founding 2015, first cyber accelerator, co-founders, 12-week program", "quote": "CyLon is Europe's first business accelerator program and incubator space dedicated to ... cyber security startups ... 12-week program ... co-founded by Alex van Someren ... Jonathan Luff and Grace Cassy" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Originally launched as a not-for-profit accelerator in 2015 (no equity), now positioned as an early-stage specialist investor (CyLon Ventures) deploying its own capital. UK/US/Israel geo focus; included as a European-origin cyber specialist.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  },
+  {
+    "id": "eu-oxx-vc",
+    "name": { "en": "Oxx" },
+    "aka": ["Oxx VC", "Oxx Ventures"],
+    "type": "vc",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "europe",
+    "country": "United Kingdom",
+    "hq_city": "London",
+    "website": "https://www.oxx.vc/",
+    "offices": [
+      { "country": "United Kingdom", "city": "London" },
+      { "country": "Sweden", "city": "Stockholm" }
+    ],
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/oxx-vc",
+      "other": ["https://www.oxx.vc/about/", "https://www.oxx.vc/team/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$190M (Fund II)", "usd": 190000000, "currency": "USD" },
+      "funds": [
+        { "name": "Oxx Fund II", "vintage_year": null, "size": { "raw": "$190M", "usd": 190000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b"],
+      "check_size": { "raw": "$5M–$25M", "usd_min": 5000000, "usd_max": 25000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["Europe", "Sweden", "United Kingdom"],
+      "sector_focus": ["saas-enterprise", "cybersecurity", "ai-ml"],
+      "thesis": "Europe-focused B2B SaaS investor backing Series A/B software leaders, with cybersecurity among its core verticals (e.g., SOCRadar); writes $5M–$25M checks emphasising capital-efficient growth."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "SOCRadar", "sector": "cybersecurity", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Richard Anton", "role": "Co-founder / Partner" },
+      { "name": "Mikael Johnsson", "role": "Co-founder / Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["b2b-saas", "cybersecurity", "series-a-b"],
+    "summary": {
+      "en": "London/Stockholm B2B SaaS VC (founded 2017) backing Series A/B European software leaders including cybersecurity (SOCRadar), with $5M–$25M checks; raised $190M for its second fund.",
+      "local": "Londoner/Stockholmer B2B-SaaS-VC (2017), der europäische Software-Leader in Serie A/B unterstützt, inkl. Cybersicherheit (SOCRadar); $190 Mio. zweiter Fonds."
+    },
+    "sources": [
+      { "url": "https://www.oxx.vc/about/", "title": "About Oxx", "publisher": "Oxx", "accessed": "2026-06-03", "supports": "founded year, founders, HQ, B2B SaaS focus", "quote": "Oxx was founded by Richard Anton and Mikael Johnsson in 2017 and is headquartered in London and Stockholm." },
+      { "url": "https://vcmatch.ai/investors/oxx-ventures", "title": "Oxx Ventures Investor Profile", "publisher": "VCMatch", "accessed": "2026-06-03", "supports": "sector incl cybersecurity, stages, check size, fund II", "quote": "focused on Enterprise SaaS, AI/ML, and Cybersecurity companies, Series A and Series B rounds ... $5m to $25m check sizes ... raised $190 million for their second fund ... cybersecurity firm SOCRadar" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Primarily a B2B SaaS scale-up investor; cybersecurity is a named core vertical with portfolio examples (SOCRadar). Fund II size per secondary source.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-cybersecurity"
+  }
+]

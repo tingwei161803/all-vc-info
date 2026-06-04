@@ -1,0 +1,783 @@
+[
+  {
+    "id": "jp-digital-base-capital",
+    "name": { "en": "Digital Base Capital", "local": "株式会社デジタルベースキャピタル" },
+    "aka": ["DIGITAL BASE CAPITAL", "デジタルベースキャピタル"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://en.digitalbase.co.jp/",
+    "links": {
+      "other": ["https://initial.inc/investors/V12978", "https://note.com/shundbc"]
+    },
+    "capital": {
+      "current_fund": { "raw": "up to ¥1 billion (1号ファンド total, upper limit)", "usd": null, "currency": "JPY" },
+      "funds": [
+        {
+          "name": "デジタルベースキャピタル1号投資事業有限責任組合 (Digital Base Capital Fund I)",
+          "vintage_year": 2019,
+          "size": { "raw": "¥1 billion (upper limit)", "usd": null, "currency": "JPY" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "pre-seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["proptech", "fintech"],
+      "thesis": "Japan's first PropTech-specialized VC. Invests in seed/early-stage startups digitizing regulated industries (real estate, construction, finance) under a 'Life as a Service (LaaS)' thesis; combines investment with consulting and execution support."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "CLAS", "sector": "proptech / furniture subscription", "outcome": "active" },
+        { "company": "FUEL", "sector": "real estate crowdfunding", "outcome": "active" },
+        { "company": "Okomari (オコマリ)", "sector": "estate cleanup services", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Shun Sakurai (桜井駿)", "role": "Chief Partner / Representative Director" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via official website",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["proptech", "construction-tech", "real-estate-tech", "regulated-industries"],
+    "summary": {
+      "en": "Founded February 2019 by Shun Sakurai (founder of the PropTech JAPAN community), Digital Base Capital is widely cited as Japan's first PropTech-specialized venture capital firm, running a ¥1B (upper-limit) seed-stage Fund I focused on real estate, construction and finance tech.",
+      "local": "2019年2月に桜井駿氏（PropTech JAPAN設立者）が創業した、日本初のPropTech特化型VC。不動産・建設・金融領域のシード期スタートアップに投資する最大10億円規模の1号ファンドを運用。"
+    },
+    "sources": [
+      {
+        "url": "https://en.digitalbase.co.jp/about",
+        "title": "会社情報 | 株式会社デジタルベースキャピタル",
+        "publisher": "Digital Base Capital",
+        "accessed": "2026-06-03",
+        "supports": "founding date, CEO, regulated-industry focus (real estate/construction)",
+        "quote": "2019年2月1日"
+      },
+      {
+        "url": "https://thebridge.jp/2019/07/digital-base-capital-launches-proptech-focused-fund",
+        "title": "PropTech JAPANの桜井駿氏、PropTech特化VCのデジタルベースキャピタルを設立——最大10億円規模のファンドを組成",
+        "publisher": "THE BRIDGE",
+        "accessed": "2026-06-03",
+        "supports": "Japan's first PropTech-specialized VC, fund size up to ¥1B",
+        "quote": "最大10億円規模のファンドを組成"
+      },
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000072.000021066.html",
+        "title": "日本初のPropTech特化型VCの「デジタルベースキャピタル」が組成する第1号ファンドに出資",
+        "publisher": "GA technologies / PR TIMES",
+        "accessed": "2026-06-03",
+        "supports": "Fund I name and ¥1B upper-limit size, seed-stage proptech/finance focus",
+        "quote": "ファンド総額：10億円（上限額）"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Exact current fund count beyond Fund I and AUM not disclosed; portfolio_count left null.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "jp-japan-con-tech-fund",
+    "name": { "en": "JAPAN CON-TECH FUND (Kashiwabara Corporation)", "local": "JAPAN CON-TECH FUND（カシワバラ・コーポレーション）" },
+    "aka": ["JAPAN CONTECH FUND", "カシワバラ・コーポレーション", "Kashiwabara Corporation"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://fund.contech.jp/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000001.000041532.html"]
+    },
+    "capital": {
+      "current_fund": { "raw": "¥5 billion investment frame", "usd": null, "currency": "JPY" },
+      "funds": [
+        {
+          "name": "JAPAN CON-TECH FUND",
+          "vintage_year": 2019,
+          "size": { "raw": "¥5 billion (50億円 投資枠)", "usd": null, "currency": "JPY" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "tens of millions to hundreds of millions of yen per company", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["proptech"],
+      "thesis": "Construction-tech (Con-Tech) specialized corporate fund by renovation contractor Kashiwabara. Backs startups improving construction-site efficiency and safety, offering construction-site access for PoCs and ~70 years of industry know-how alongside capital."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Liberaware", "sector": "industrial drones / inspection", "outcome": "IPO (TSE Growth, 2024)" },
+        { "company": "Spacewasp", "sector": "plant-derived interior materials", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "K. Yamada (山田)", "role": "Project Manager" },
+      { "name": "S. Kashiwabara (柏原)", "role": "Kashiwabara Corporation" }
+    ],
+    "application": {
+      "how_to_apply": "Contact via fund.contech.jp",
+      "accepts_cold_inbound": null
+    },
+    "tags": ["construction-tech", "con-tech", "proptech", "drones"],
+    "summary": {
+      "en": "Launched March 2019 by Kashiwabara Corporation (a ~70-year-old renovation/construction firm), JAPAN CON-TECH FUND is positioned as one of Japan's first construction-tech-specialized VC vehicles, with a ¥5B investment frame backing construction-site efficiency and safety startups (e.g., drone-inspection firm Liberaware, which IPO'd in 2024).",
+      "local": "2019年3月にカシワバラ・コーポレーション（約70年の建設業歴）が開始した日本初級の建設テック特化型ファンド。投資枠50億円で施工効率・安全に資するスタートアップ（ドローン点検のLiberaware等、2024年上場）を支援。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000001.000041532.html",
+        "title": "日本のCon-Tech（建設テック）推進のためカシワバラコーポレーションが『JAPAN CON-TECH FUND』プロジェクトを2019年3月より投資枠50億円で開始",
+        "publisher": "Kashiwabara Corporation / PR TIMES",
+        "accessed": "2026-06-03",
+        "supports": "launch date March 2019, ¥5B investment frame, construction-tech focus",
+        "quote": "2019年3月より投資枠50億円で開始"
+      },
+      {
+        "url": "https://fund.contech.jp/",
+        "title": "建設テックファンド JAPAN CON-TECH FUND",
+        "publisher": "Kashiwabara Corporation",
+        "accessed": "2026-06-03",
+        "supports": "construction-tech focus, portfolio (Liberaware, Spacewasp), HQ in Minato Tokyo, ~70-year history",
+        "quote": "建設業界のテクノロジー化を推進する"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund frame stated as ¥5B 'investment frame'; total committed capital / AUM not separately disclosed. Portfolio count not published.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "jp-directx-ventures",
+    "name": { "en": "directX Ventures", "local": "株式会社directX Ventures" },
+    "aka": ["directX Ventures 1号ファンド", "L is B CVC"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2025,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://directx-ventures.com/",
+    "links": {
+      "other": ["https://gazellecapital.vc/news/gc_lisb_cvcimage202506/", "https://prtimes.jp/main/html/rd/p/000000035.000049420.html"]
+    },
+    "capital": {
+      "current_fund": { "raw": "¥300 million", "usd": null, "currency": "JPY" },
+      "funds": [
+        {
+          "name": "directX Ventures 1号ファンド (directX Ventures Fund I)",
+          "vintage_year": 2025,
+          "size": { "raw": "¥300 million (3億円規模)", "usd": null, "currency": "JPY" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["proptech", "logistics", "saas-enterprise"],
+      "thesis": "CVC of TSE-listed L is B, co-managed with seed VC Gazelle Capital. Invests in B2B IT startups solving labor-shortage and on-site challenges in construction, manufacturing and logistics (the 'genba'/field industries)."
+    },
+    "track_record": { "portfolio_count": null },
+    "people": [],
+    "application": { "how_to_apply": "Contact via directx-ventures.com / Gazelle Capital", "accepts_cold_inbound": null },
+    "tags": ["construction-tech", "field-industries", "genba", "b2b-saas", "labor-shortage"],
+    "summary": {
+      "en": "Established April 2025 as the CVC of TSE Growth-listed L is B and co-managed with seed VC Gazelle Capital, directX Ventures runs a ¥300M Fund I (June 2025) investing seed-to-Series-A in B2B startups tackling labor shortages and on-site (genba) problems in construction, manufacturing and logistics.",
+      "local": "2025年4月設立、東証グロース上場L is BのCVCで、シード特化VCのGazelle Capitalと共同運用。3億円規模の1号ファンド（2025年6月）で建設・製造・物流の現場課題・人手不足を解決するB2Bスタートアップにシード〜シリーズA投資。"
+    },
+    "sources": [
+      {
+        "url": "https://gazellecapital.vc/news/gc_lisb_cvcimage202506/",
+        "title": "Gazelle Capital、L is B（東証グロース上場）と共同でCVCファンド「directX Ventures 1号ファンド」を組成",
+        "publisher": "Gazelle Capital",
+        "accessed": "2026-06-03",
+        "supports": "fund size ¥300M, construction/manufacturing/logistics focus, June 2025 formation, seed-Series A",
+        "quote": "directX Ventures 1号ファンド"
+      },
+      {
+        "url": "https://www.nikkei.com/article/DGXZQOUC252VC0V20C25A6000000/",
+        "title": "ガゼルキャピタルとL is BがCVCファンド 3億円規模",
+        "publisher": "Nikkei",
+        "accessed": "2026-06-03",
+        "supports": "¥300M fund size, investing in startups solving construction and other on-site problems",
+        "quote": "3億円規模"
+      },
+      {
+        "url": "https://online.logi-biz.com/127496/",
+        "title": "ベンチャーキャピタルのGazelle Capitalと東証グロース上場のL is B、建設・製造・物流などの業界課題解決支援するスタートアップ対象CVCファンド組成",
+        "publisher": "LOGISTICS TODAY",
+        "accessed": "2026-06-03",
+        "supports": "targets construction, manufacturing, logistics labor-shortage; directX Ventures founded April 2025 as L is B CVC",
+        "quote": "建設・製造・物流などの業界課題解決支援するスタートアップ対象CVCファンド"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "directX Ventures is the L is B subsidiary; Gazelle Capital is co-GP. Construction is the lead sector among the three named field industries.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "jp-tokyu-cnst-gb-innovation-fund",
+    "name": { "en": "TOKYU-CNST GB Innovation Fund (Tokyu Construction)", "local": "TOKYU-CNST GB Innovation Fund L.P.（東急建設）" },
+    "aka": ["TCIF", "東急建設－GBイノベーション投資事業有限責任組合", "Tokyu Construction CVC"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.tokyu-cnst.co.jp/tcif/",
+    "links": {
+      "other": ["https://globalbrains.com/en/posts/global-brain-partners-with-tokyu-construction-on-its-corporate-venture-capital-fund-tcif", "https://prtimes.jp/main/html/rd/p/000000154.000047342.html"]
+    },
+    "capital": {
+      "current_fund": { "raw": "¥5 billion", "usd": null, "currency": "JPY" },
+      "funds": [
+        {
+          "name": "TOKYU-CNST GB Innovation Fund L.P. (東急建設－GBイノベーション投資事業有限責任組合)",
+          "vintage_year": 2022,
+          "size": { "raw": "¥5 billion (50億円)", "usd": null, "currency": "JPY" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "United States", "Global"],
+      "sector_focus": ["proptech", "climate-energy", "deeptech"],
+      "thesis": "Construction-industry CVC co-formed by general contractor Tokyu Construction and VC Global Brain (industry-first 'two-party LP' format). Invests around decarbonization, zero-waste, and disaster prevention/mitigation, plus talent and digital-technology themes for construction transformation."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "Branch Technology", "sector": "construction 3D printing", "outcome": "active" },
+        { "company": "Twelve", "sector": "synthetic fuel / climate (US)", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Contact via Tokyu Construction / Global Brain", "accepts_cold_inbound": null },
+    "tags": ["construction-tech", "decarbonization", "3d-printing", "two-party-lp"],
+    "summary": {
+      "en": "Set up in 2022 by general contractor Tokyu Construction with VC Global Brain as a ¥5B 'two-party LP' CVC (an industry first), TOKYU-CNST GB Innovation Fund invests in construction-transformation startups across decarbonization, zero-waste and disaster-prevention themes (e.g., 3D-printing firm Branch Technology).",
+      "local": "2022年に東急建設がグローバル・ブレインと組成した総額50億円の二人組合形式CVC（建設業界初）。脱炭素・廃棄物ゼロ・防災減災や人材・デジタル領域で建設変革に資するスタートアップに投資（建設3DプリンターのBranch Technology等）。"
+    },
+    "sources": [
+      {
+        "url": "https://www.tokyu-cnst.co.jp/topics/2069.html",
+        "title": "業界初、二人組合形式のCVCファンドを総額50億円で設立",
+        "publisher": "Tokyu Construction",
+        "accessed": "2026-06-03",
+        "supports": "¥5B fund, two-party LP industry-first, construction transformation focus",
+        "quote": "二人組合形式のCVCファンドを総額50億円で設立"
+      },
+      {
+        "url": "https://thebridge.jp/2022/02/tokyu-const-gb-innovation-fund",
+        "title": "東急建設、グローバル・ブレインと50億円規模のCVCを設立",
+        "publisher": "THE BRIDGE",
+        "accessed": "2026-06-03",
+        "supports": "2022 formation, ¥5B, Global Brain partnership, construction focus",
+        "quote": "50億円規模のCVCを設立"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund operated jointly with Global Brain as GP. Portfolio count not published; named investments confirmed from official fund news pages.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "jp-toda-corporation-cvc",
+    "name": { "en": "Toda Corporation CVC", "local": "戸田建設 コーポレートベンチャーキャピタル" },
+    "aka": ["TODA CVC", "戸田建設"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.toda.co.jp/business/cvc/",
+    "links": {},
+    "capital": {
+      "current_fund": { "raw": "up to ¥3 billion over Apr 2024–Mar 2027 (Phase 2)", "usd": null, "currency": "JPY" },
+      "funds": [
+        {
+          "name": "Toda Corporation CVC Phase 2",
+          "vintage_year": 2024,
+          "size": { "raw": "up to ¥3 billion (3年間で最大30億円)", "usd": null, "currency": "JPY" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["proptech", "climate-energy", "robotics"],
+      "thesis": "Construction-major CVC investing in PropTech and Con-Tech plus IoT/AI/SaaS/XR/DX, smart city, wellness, climate and mobility, to co-create value with its construction business."
+    },
+    "track_record": {
+      "portfolio_count": "Phase 1: 10 companies + 4 funds; Phase 2: ~13 direct + 6 funds",
+      "co_investors": ["Great Wave Ventures", "15th Rock Ventures", "Global Brain"]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Email toda.innovation_m@toda.co.jp (Innovation Promotion Division)", "accepts_cold_inbound": true, "contact": "toda.innovation_m@toda.co.jp" },
+    "tags": ["construction-tech", "proptech", "smart-city", "climate-tech"],
+    "summary": {
+      "en": "General contractor Toda Corporation has run CVC investing since 2020 (Phase 1: 10 companies + 4 funds), and set a fresh up-to-¥3B frame for Phase 2 (Apr 2024–Mar 2027). It targets PropTech/Con-Tech, IoT/AI/SaaS/XR/DX, smart city, climate and mobility startups for construction-business synergy.",
+      "local": "戸田建設は2020年からCVC投資を実施（第1期：10社4ファンド）、第2期（2024年4月〜2027年3月）に最大30億円の投資枠を設定。PropTech・建設テック、IoT/AI/SaaS/XR/DX、スマートシティ、気候・モビリティ領域に投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.toda.co.jp/business/cvc/",
+        "title": "スタートアップ企業への投資活動について | 価値共創 | 戸田建設",
+        "publisher": "Toda Corporation",
+        "accessed": "2026-06-03",
+        "supports": "Phase 2 up to ¥3B 2024-2027, Phase 1 10 companies + 4 funds, proptech/contech focus, contact email",
+        "quote": "3年間で最大30億円を投資（2024年4月～2027年3月）"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Phase 1 amount not stated; Phase 2 frame is up to ¥3B. Co-investor funds (Great Wave, 15th Rock, Global Brain) named on official page.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "jp-sekisui-house-cvc",
+    "name": { "en": "Sekisui House CVC (Sekisui House Innovation & Communication)", "local": "積水ハウス投資事業有限責任組合（積水ハウス イノベーション＆コミュニケーション）" },
+    "aka": ["積水ハウス イノコム", "Sekisui House Innocom", "Sekisui House Investment Business LP"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Osaka",
+    "website": "https://www.innocom.co.jp/",
+    "links": {
+      "other": ["https://www.sekisuihouse.co.jp/company/topics/topics_2024/20240401/", "https://www.innocom.co.jp/topics/20240731/"]
+    },
+    "capital": {
+      "funds": [
+        {
+          "name": "積水ハウス投資事業有限責任組合 (Sekisui House Investment Business LP)",
+          "vintage_year": 2024,
+          "size": { "raw": null, "usd": null, "currency": "JPY" }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["proptech", "climate-energy"],
+      "thesis": "Housing-major CVC fund operated by Sekisui House Innocom under an 'LX (Living/Lifestyle/Learning Transformation)' concept; backs startups supporting process innovation in construction and real estate (customer acquisition, site DX) plus housing-related social-issue solutions."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "log build", "sector": "construction DX / remote site management SaaS", "outcome": "active" },
+        { "company": "Atomis", "sector": "materials / energy", "outcome": "active" },
+        { "company": "RePlayce", "sector": "talent development", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Contact via Sekisui House Innocom", "accepts_cold_inbound": null },
+    "tags": ["proptech", "construction-tech", "housing", "construction-dx"],
+    "summary": {
+      "en": "Established April 1, 2024 and operated by Sekisui House Innovation & Communication, the 'Sekisui House Investment Business LP' is a housing/construction-focused CVC; its first investments (July 2024) included construction-DX SaaS firm log build, Atomis, and RePlayce.",
+      "local": "2024年4月1日に本格運用開始、積水ハウス イノコムが運用するCVCファンド。住まい・建設領域に注力し、第一弾投資（2024年7月）として建設DXのlog build、Atomis、RePlayceに出資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.sekisuihouse.co.jp/company/topics/topics_2024/20240401/",
+        "title": "コーポレート・ベンチャー・キャピタル・ファンドを設立",
+        "publisher": "Sekisui House",
+        "accessed": "2026-06-03",
+        "supports": "CVC fund established 2024, housing social-issue / open innovation focus",
+        "quote": "コーポレート・ベンチャー・キャピタル・ファンドを設立"
+      },
+      {
+        "url": "https://www.innocom.co.jp/topics/20240731/",
+        "title": "CVCファンドによる第一弾案件としてスタートアップ企業3社に出資",
+        "publisher": "Sekisui House Innovation & Communication",
+        "accessed": "2026-06-03",
+        "supports": "fund name, operator Innocom, April 1 2024 operation start, first 3 investments (log build, Atomis, RePlayce)",
+        "quote": "積水ハウス投資事業有限責任組合"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund total size not publicly disclosed (left null). HQ city Osaka per Sekisui House parent; Innocom operates the fund.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "jp-daiwa-house-ventures",
+    "name": { "en": "Daiwa House Ventures", "local": "大和ハウスベンチャーズ株式会社" },
+    "aka": ["大和ハウスグループ \"将来の夢\" ファンド", "Daiwa House Group Future Fund", "Daiwa House Ventures"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2023,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.daiwahouseventures.co.jp/",
+    "links": {
+      "other": ["https://www.dhgfuturefund.co.jp/", "https://www.itmedia.co.jp/news/articles/2403/01/news158.html"]
+    },
+    "capital": {
+      "current_fund": { "raw": "up to ¥30 billion (max, through 2055)", "usd": null, "currency": "JPY" },
+      "funds": [
+        {
+          "name": "大和ハウスグループ投資事業有限責任組合（\"将来の夢\"ファンド / FUTURE FUND）",
+          "vintage_year": 2024,
+          "size": { "raw": "up to ¥30 billion total over fund life", "usd": null, "currency": "JPY" }
+        },
+        { "name": "SYNERGY FUND", "vintage_year": 2024, "size": { "raw": null, "usd": null, "currency": "JPY" } },
+        { "name": "GROWTH FUND", "vintage_year": 2024, "size": { "raw": null, "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["proptech", "ai-ml", "fintech", "climate-energy"],
+      "thesis": "CVC arm of housing/real-estate major Daiwa House Industry. Invests across construction-tech, PropTech, building-materials platforms and infrastructure-maintenance themes (alongside fintech, LLM/generative AI, blockchain, sustainability) without stage constraints, for business co-creation."
+    },
+    "track_record": { "portfolio_count": null },
+    "people": [],
+    "application": { "how_to_apply": "Contact via Daiwa House Ventures", "accepts_cold_inbound": null },
+    "tags": ["proptech", "construction-tech", "building-materials", "infrastructure-maintenance"],
+    "summary": {
+      "en": "Daiwa House Ventures (established Nov 2023, full operation Mar 2024) is the CVC subsidiary of housing major Daiwa House Industry, running the 'Future Fund' plus Synergy and Growth funds with up to ¥30B to invest through 2055 in construction-tech, PropTech, building-materials and infrastructure-maintenance startups.",
+      "local": "大和ハウスベンチャーズ（2023年11月設立、2024年3月本格運用）は大和ハウス工業のCVC子会社。\"将来の夢\"ファンド等を運用し、2055年まで最大300億円規模で建設テック・PropTech・建材プラットフォーム・インフラ維持管理などに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://www.daiwahouseventures.co.jp/",
+        "title": "大和ハウスベンチャーズ株式会社",
+        "publisher": "Daiwa House Ventures",
+        "accessed": "2026-06-03",
+        "supports": "company established Nov 2023, parent Daiwa House Industry, construction-tech/proptech/building-materials/infrastructure focus, three funds",
+        "quote": "2023年11月20日"
+      },
+      {
+        "url": "https://www.itmedia.co.jp/news/articles/2403/01/news158.html",
+        "title": "大和ハウス、最大300億円規模のベンチャーキャピタル組成 LLMなど6領域に投資 運用は2055年まで",
+        "publisher": "ITmedia NEWS",
+        "accessed": "2026-06-03",
+        "supports": "up to ¥30B, operation through 2055, six investment domains",
+        "quote": "最大300億円規模のベンチャーキャピタル組成 … 運用は2055年まで"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "¥30B is the maximum over the full fund life across vehicles. Individual fund sizes for Synergy/Growth not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "jp-31ventures-mitsui-fudosan",
+    "name": { "en": "31VENTURES (Mitsui Fudosan)", "local": "31VENTURES（三井不動産 ベンチャー共創事業部）" },
+    "aka": ["31 VENTURES", "三井不動産", "Mitsui Fudosan CVC"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.31ventures.jp/fund/",
+    "links": {
+      "other": ["https://globalbrains.com/funds/mitsui-fudosan", "https://initial.inc/investors/V12228"]
+    },
+    "capital": {
+      "current_fund": { "raw": "¥15 billion (Mitsui Fudosan & Innovation Fund); ¥435B cumulative CVC platform", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "Mitsui Fudosan & Innovation Fund", "vintage_year": 2025, "size": { "raw": "¥15 billion (150億円)", "usd": null, "currency": "JPY" } },
+        { "name": "Mitsui Fudosan & Frontier Fund", "vintage_year": null, "size": { "raw": "¥5 billion (50億円)", "usd": null, "currency": "JPY" } },
+        { "name": "31VENTURES Global Innovation Fund 2号", "vintage_year": 2020, "size": { "raw": "¥8.5 billion (85億円)", "usd": null, "currency": "JPY" } },
+        { "name": "31VENTURES Global Innovation Fund 1号", "vintage_year": 2015, "size": { "raw": "¥5 billion (50億円)", "usd": null, "currency": "JPY" } },
+        { "name": "31VENTURES-Global Brain-Growth I", "vintage_year": 2018, "size": { "raw": "¥30 billion (300億円)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["proptech", "saas-enterprise", "climate-energy", "mobility"],
+      "thesis": "Mitsui Fudosan's CVC platform (run with Global Brain), among Japan's largest corporate startup-investment programs (~¥435B cumulative). Real Estate as a Service, DX and smart-city are core proptech themes, alongside construction-cost reduction, energy, mobility, space and food."
+    },
+    "track_record": {
+      "portfolio_count": "~60 startups (as of Mar 2024)",
+      "co_investors": ["Global Brain"]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Contact via 31ventures.jp", "accepts_cold_inbound": null },
+    "tags": ["proptech", "real-estate-as-a-service", "smart-city", "construction-tech"],
+    "summary": {
+      "en": "31VENTURES is Mitsui Fudosan's CVC platform (started 2015, run with Global Brain) and one of Japan's largest corporate startup-investment programs (~¥435B cumulative, ~60 startups by Mar 2024). Its 'Real Estate as a Service', DX and smart-city focus makes it a core proptech investor; it also targets construction-cost reduction.",
+      "local": "31VENTURESは三井不動産のCVCプラットフォーム（2015年開始、グローバル・ブレインと運用）。累計約435億円、2024年3月時点で約60社に投資の国内最大級の事業会社ベンチャー投資。Real Estate as a Service・DX・スマートシティを中核とするPropTech投資家。"
+    },
+    "sources": [
+      {
+        "url": "https://www.31ventures.jp/fund/",
+        "title": "31 VENTURES｜三井不動産株式会社 ベンチャー共創事業部",
+        "publisher": "Mitsui Fudosan",
+        "accessed": "2026-06-03",
+        "supports": "fund line-up and sizes (¥15B Innovation, ¥5B Frontier, ¥8.5B GIF2, ¥5B GIF1, ¥30B Growth), Real Estate as a Service / DX / smart-city focus",
+        "quote": "150億円 … 85億円 … 300億円"
+      },
+      {
+        "url": "https://www.mitsuifudosan.co.jp/corporate/news/2020/0916/",
+        "title": "「31VENTURES Global Innovation Fund 2号」85億円で設立",
+        "publisher": "Mitsui Fudosan",
+        "accessed": "2026-06-03",
+        "supports": "GIF2 ¥8.5B size, 2020 establishment, Real Estate as a Service / smart city focus",
+        "quote": "総額85億円のコーポレートベンチャーキャピタル（CVC）ファンド「31VENTURES Global Innovation Fund 2号」を設立"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Cumulative ¥435B spans CVC funds + growth business; vintage of newest Innovation Fund (¥15B) per Oct 2025 Nikkei coverage. Portfolio count ~60 as of Mar 2024.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "jp-tokyu-land-tsvf",
+    "name": { "en": "Tokyu Land CVC (TSVF Funds)", "local": "東急不動産ホールディングス CVC（TSVF）" },
+    "aka": ["TSVF1", "TSVF2", "Tokyu Fudosan Holdings CVC", "東急不動産ホールディングス"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://tlc-shibuya-innovation.net/cvc",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000411.000006953.html", "https://startup-db.com/funds/xY4QRl71sJWnG1oj"]
+    },
+    "capital": {
+      "current_fund": { "raw": "¥5 billion (TSVF2)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "TSVF1投資事業有限責任組合", "vintage_year": 2017, "size": { "raw": "¥5 billion (50億円)", "usd": null, "currency": "JPY" } },
+        { "name": "TSVF2投資事業有限責任組合", "vintage_year": 2025, "size": { "raw": "¥5 billion (50億円)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["proptech", "climate-energy", "saas-enterprise"],
+      "thesis": "Real-estate-major CVC by Tokyu Fudosan Holdings. TSVF1 (2017, ¥5B, ~37 investments) and TSVF2 (2025, ¥5B, with SBI Investment) focus on environmental management and DX to strengthen the real-estate value chain across the 'Greater Shibuya' area and beyond."
+    },
+    "track_record": {
+      "portfolio_count": "TSVF1: 37 cumulative investments",
+      "co_investors": ["SBI Investment"]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Contact via Tokyu Fudosan Holdings open-innovation portal", "accepts_cold_inbound": null },
+    "tags": ["proptech", "real-estate-tech", "smart-city", "shibuya"],
+    "summary": {
+      "en": "Tokyu Fudosan Holdings has run CVC investing since its 2017 ¥5B TSVF1 fund (~37 cumulative investments), and in January 2025 formed the ¥5B TSVF2 fund with SBI Investment, focused on environmental-management and DX startups that strengthen the real-estate value chain.",
+      "local": "東急不動産ホールディングスは2017年の総額50億円TSVF1（累計37件投資）以来CVC投資を実施し、2025年1月にSBIインベストメントと総額50億円のTSVF2を組成。環境経営・DX領域で不動産バリューチェーンを強化するスタートアップに投資。"
+    },
+    "sources": [
+      {
+        "url": "https://prtimes.jp/main/html/rd/p/000000411.000006953.html",
+        "title": "コーポレートベンチャーキャピタル2号ファンドの共同組成のお知らせ",
+        "publisher": "Tokyu Land / PR TIMES",
+        "accessed": "2026-06-03",
+        "supports": "TSVF1 2017 ¥5B with 37 investments, TSVF2 2025 ¥5B with SBI Investment, environmental/DX focus",
+        "quote": "TSVF2 投資事業有限責任組合"
+      },
+      {
+        "url": "https://www.nikkei.com/article/DGXZRSP684710_W5A100C2000000/",
+        "title": "東急不動産HD、SBIインベストメントと共同でCVCファンド「TSVF2 投資事業有限責任組合」を組成",
+        "publisher": "Nikkei",
+        "accessed": "2026-06-03",
+        "supports": "TSVF2 formation Jan 2025 with SBI Investment, ¥5B total",
+        "quote": "TSVF2 投資事業有限責任組合"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "TSVF1 partner/operator and TSVF2 partner SBI Investment confirmed; TSVF1 cumulative 37 investments per official press. Fund sizes ¥5B each.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "jp-toggle-holdings",
+    "name": { "en": "Toggle Holdings", "local": "トグルホールディングス株式会社" },
+    "aka": ["toggle", "トグル", "Toggle"],
+    "type": "venture-studio",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://toggle.co.jp/company",
+    "links": {
+      "other": ["https://startup-db.com/officers/PAqrYl0TdRLY1dpL", "https://www.fastgrow.jp/articles/finance-sideview-toggleholdings"]
+    },
+    "capital": {
+      "current_fund": { "raw": null, "usd": null, "currency": "JPY" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["proptech", "fintech", "ai-ml"],
+      "thesis": "Real-estate-tech-focused company builder / incubation business founded by serial entrepreneur Yoshimori Ito (founder of Itanji). Aims to merge real estate, construction and finance into a single AI-driven digital infrastructure, running an incubation arm that actively invests in and builds proptech startups."
+    },
+    "track_record": { "portfolio_count": null },
+    "people": [
+      { "name": "Yoshimori Ito (伊藤嘉盛)", "role": "Representative Director / CEO" }
+    ],
+    "application": { "how_to_apply": "Contact via toggle.co.jp", "accepts_cold_inbound": null },
+    "tags": ["proptech", "construction-tech", "venture-studio", "incubation", "ai"],
+    "summary": {
+      "en": "Toggle Holdings (founded 2020 by Itanji founder Yoshimori Ito) is a real-estate-tech-focused company builder unifying real estate, construction and finance into one AI digital infrastructure. Alongside its own real-estate investment business it runs an incubation arm that actively invests in and builds proptech startups.",
+      "local": "トグルホールディングス（2020年、イタンジ創業者の伊藤嘉盛氏が設立）は不動産テック特化のスタートアップスタジオ/カンパニービルダー。不動産・建設・金融を一つのAIデジタルインフラに統合する構想で、不動産投資事業に加え、PropTechスタートアップに積極投資するインキュベーション事業を運営。"
+    },
+    "sources": [
+      {
+        "url": "https://thebridge.jp/2020/03/toggle-appoints-coo-cfo",
+        "title": "イタンジ創業者の伊藤嘉盛氏率いるトグル、不動産テック特化のスタートアップスタジオ事業を強化",
+        "publisher": "THE BRIDGE",
+        "accessed": "2026-06-03",
+        "supports": "real-estate-tech-focused startup studio, founder Yoshimori Ito (ex-Itanji)",
+        "quote": "不動産テック特化のスタートアップスタジオ事業を強化"
+      },
+      {
+        "url": "https://www.fastgrow.jp/articles/finance-sideview-toggleholdings",
+        "title": "不動産・建築・金融を統合的にDX──総額38億円調達。イタンジ創業者がAIインフラ事業で挑む",
+        "publisher": "FastGrow",
+        "accessed": "2026-06-03",
+        "supports": "real estate / construction / finance integrated DX, incubation business investing in startups",
+        "quote": "不動産・建築・金融を統合的にDX"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Toggle is primarily an operating proptech company with an incubation/investment arm (venture-studio model) rather than a pure fund; founding-year given as 2020 for Toggle Holdings (earlier 'toggle' activity from 2018). Investment volumes of incubation arm not separately disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "jp-shimizu-corporation-ventures",
+    "name": { "en": "Shimizu Corporation (Venture Investment / CVC)", "local": "清水建設（ベンチャー投資・CVC）" },
+    "aka": ["清水建設", "Shimizu Corp CVC"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.shimz.co.jp/",
+    "links": {
+      "other": ["https://xtech.nikkei.com/atcl/nxt/column/18/00142/00803/"]
+    },
+    "capital": {
+      "current_fund": { "raw": "¥10 billion investment frame", "usd": null, "currency": "JPY" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["proptech", "robotics", "climate-energy"],
+      "thesis": "General-contractor venture investor with a ¥10B framework. Invested 2 billion-plus yen into domestic and overseas funds since 2015 while seeking collaboration partners, and is expanding into direct CVC investing in construction-tech ventures with synergy to its core business (first direct deal: PicoCELA)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "notable_investments": [
+        { "company": "PicoCELA", "sector": "wireless mesh networking / construction-site connectivity", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Contact via Shimizu Corporation", "accepts_cold_inbound": null },
+    "tags": ["construction-tech", "proptech", "robotics", "general-contractor"],
+    "summary": {
+      "en": "General contractor Shimizu Corporation set a ¥10B venture-investment framework, having invested over ¥2B into domestic/overseas funds since 2015 and now expanding into direct CVC investment in construction-tech ventures with business synergy (first direct deal: wireless networking firm PicoCELA).",
+      "local": "清水建設は100億円の出資枠を設定。2015年以降、国内外ファンドに20億円超を投資して協業先を探索し、自社事業とシナジーのある建設テックベンチャーへ直接投資するCVCへ拡大（初の直接出資：無線のPicoCELA）。"
+    },
+    "sources": [
+      {
+        "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/00803/",
+        "title": "清水建設がベンチャー投資に100億円の出資枠、初弾はPicoCELA",
+        "publisher": "Nikkei xTECH",
+        "accessed": "2026-06-03",
+        "supports": "¥10B investment frame, >¥2B into funds since 2015, expanding into CVC, first direct deal PicoCELA",
+        "quote": "同社は2015年以降、国内外のファンドに20億円超を投資し、協業相手となるベンチャー企業を探してきた"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "¥10B is an investment framework, not a single named fund. Direct-CVC activity confirmed via PicoCELA; full portfolio not enumerated in the source.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  },
+  {
+    "id": "jp-nomura-real-estate-proptech",
+    "name": { "en": "Nomura Real Estate (PropTech fund investor)", "local": "野村不動産（不動産テックファンド出資）" },
+    "aka": ["野村不動産", "Nomura Real Estate Development"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.nomura-re.co.jp/",
+    "links": {
+      "other": ["https://www.nikkei.com/article/DGXLRSP611377_R30C21A5000000/"]
+    },
+    "capital": {
+      "current_fund": { "raw": null, "usd": null, "currency": "JPY" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "follow",
+      "geo_focus": ["Japan", "Asia", "Global"],
+      "sector_focus": ["proptech", "climate-energy", "mobility"],
+      "thesis": "Real-estate major that invests in proptech via LP commitments to dedicated real-estate-tech funds — notably Australian VC Taronga Ventures' 'RealTech Ventures I', which invests specifically in companies with real-estate-related technologies (environmental, living, mobility, building services, construction)."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": ["Mitsubishi Corporation", "CBRE", "Dexus", "Grosvenor", "Patrizia AG", "PGIM Real Estate", "Taronga Ventures"]
+    },
+    "people": [],
+    "application": { "how_to_apply": "Strategic / corporate development; not a public fund", "accepts_cold_inbound": false },
+    "tags": ["proptech", "real-estate-tech", "lp-investor", "smart-city"],
+    "summary": {
+      "en": "Nomura Real Estate is a real-estate major that gains proptech exposure as a strategic LP in dedicated real-estate-tech funds — notably committing to Australian VC Taronga Ventures' 'RealTech Ventures I', which invests specifically in real-estate-related technology startups (environmental, living, mobility, building, construction), to apply smart-city tech to its township developments.",
+      "local": "野村不動産は不動産テック特化ファンドへのLP出資を通じてPropTechに関与する不動産大手。豪Taronga Venturesが運営する不動産テック特化ファンド「RealTech Ventures I」に出資し、スマートシティ技術を大規模街づくりに活用。"
+    },
+    "sources": [
+      {
+        "url": "https://www.nikkei.com/article/DGXLRSP611377_R30C21A5000000/",
+        "title": "野村不動産、豪 ベンチャーキャピタルが組成・運営する不動産テック企業に特化したファンドに出資",
+        "publisher": "Nikkei",
+        "accessed": "2026-06-03",
+        "supports": "Nomura Real Estate invests in Taronga Ventures' real-estate-tech-specialized fund RealTech Ventures I; co-investors; sector coverage incl. construction",
+        "quote": "不動産に関係する技術・サービスを有するベンチャー企業への出資に特化"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Nomura participates as an LP/strategic investor in a third-party proptech fund (Taronga) rather than operating its own named fund; founding_year of a dedicated program left null. Classified as cvc to reflect corporate strategic-investment role.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-proptech"
+  }
+]

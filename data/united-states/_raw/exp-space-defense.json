@@ -1,0 +1,1401 @@
+[
+  {
+    "id": "us-space-vc",
+    "name": { "en": "Space VC" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "united-states",
+    "country": "United States",
+    "website": "https://www.spacevc.com/",
+    "links": {
+      "twitter": "https://x.com/spacevc_",
+      "linkedin": "https://www.linkedin.com/company/spacevc",
+      "other": ["https://medium.com/@spacevc"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null }
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "$750K-$2M", "usd_min": 750000, "usd_max": 2000000 },
+      "lead_or_follow": "both",
+      "geo_focus": ["United States"],
+      "sector_focus": ["spacetech", "deeptech", "ai-ml", "cybersecurity", "hardware-semiconductor", "robotics"],
+      "thesis": "Pre-seed fund investing in space tech, defense tech, manufacturing/industrials, AI, semiconductors, autonomy and next-gen communications, framed around US national security, economic resilience and global leadership."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "True Anomaly", "sector": "spacetech", "outcome": "active" },
+        { "company": "Loft Orbital", "sector": "spacetech", "outcome": "active" },
+        { "company": "Castelion", "sector": "spacetech", "outcome": "active" },
+        { "company": "Neros", "sector": "robotics", "outcome": "active" },
+        { "company": "Pixxel", "sector": "spacetech", "outcome": "active" }
+      ]
+    },
+    "application": { "how_to_apply": "Connect via website / social channels", "accepts_cold_inbound": true },
+    "summary": {
+      "en": "US-focused pre-seed fund (check size $750K-$2M) investing in space tech, defense tech, manufacturing, AI and autonomy, with a national-security thesis. Portfolio includes True Anomaly, Loft Orbital, Castelion and Neros.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.spacevc.com/",
+        "title": "Space VC",
+        "publisher": "Space VC",
+        "accessed": "2026-06-03",
+        "supports": "stage, check size, sector focus, thesis, portfolio",
+        "quote": "Pre-Seed ... $750K-$2M ... Space Tech, Defense Tech, Manufacturing & Industrials, Artificial Intelligence, Semiconductors & Microelectronics, Software, Cybersecurity, Next-Gen Communications, Autonomy ... US-Focused"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founders, founding year and HQ not disclosed on the firm site; check size and sector focus taken verbatim from homepage.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-spacefund",
+    "name": { "en": "SpaceFund" },
+    "aka": ["SpaceFund, Inc."],
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Houston",
+    "website": "https://spacefund.com/",
+    "links": {
+      "other": ["https://spacefund.com/investors/", "https://spacefund.com/submit/"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["spacetech"],
+      "thesis": "Early-stage venture fund dedicated to the space industry, targeting visionary but practical startups in multi-billion-dollar space markets; explicitly avoids traditional aerospace, satellite swarms and drones but considers space transportation."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Axiom Space", "sector": "spacetech", "outcome": "active" },
+        { "company": "Orbit Fab", "sector": "spacetech", "outcome": "active" },
+        { "company": "Radian Aerospace", "sector": "spacetech", "outcome": "active" },
+        { "company": "SpaceX", "sector": "spacetech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Made in Space (Redwire)", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Voyager Space Holdings", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "application": { "how_to_apply": "Submit company via spacefund.com/submit/", "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Early-stage venture fund dedicated exclusively to the space industry, with portfolio companies including Axiom Space, Orbit Fab, Radian Aerospace and SpaceX, and exits in Made in Space (Redwire) and Voyager Space.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://spacefund.com/",
+        "title": "SpaceFund | Venture Capital Space Start Up Funding",
+        "publisher": "SpaceFund",
+        "accessed": "2026-06-03",
+        "supports": "stage, sector focus, thesis, portfolio, exits",
+        "quote": "early-stage venture capital investment fund, dedicated to supporting the most promising entrepreneurs in the most exciting high-growth industry of this century ... avoiding traditional aerospace, satellite swarms, and drones but consider space transportation"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Houston HQ widely reported but not on the fetched homepage; founding year and check size not disclosed.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-silent-ventures",
+    "name": { "en": "Silent Ventures" },
+    "aka": ["Silent Ventures Management, LLC"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Dallas",
+    "website": "https://silentvc.com/",
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["spacetech", "deeptech", "robotics"],
+      "thesis": "Primarily concept-stage pre-seed and seed investor in exceptional founders building aerospace, defense and national-security companies, viewing the sector as a generational opportunity."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Anduril", "sector": "deeptech", "outcome": "active" },
+        { "company": "Saronic", "sector": "deeptech", "outcome": "active" },
+        { "company": "Castelion", "sector": "spacetech", "outcome": "active" },
+        { "company": "Impulse Space", "sector": "spacetech", "outcome": "active" },
+        { "company": "Hadrian", "sector": "deeptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Jackson Moses", "role": "Founder & Managing Partner" }
+    ],
+    "application": { "how_to_apply": "Contact legal@silentvc.com", "accepts_cold_inbound": true, "contact": "legal@silentvc.com" },
+    "summary": {
+      "en": "Dallas-based, concept-stage pre-seed/seed fund focused on aerospace, defense and national security, founded by Jackson Moses. Portfolio includes Anduril, Saronic, Castelion, Impulse Space and Hadrian.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://silentvc.com/",
+        "title": "Silent Ventures | Investors in Early Stage Defense & Deep Tech",
+        "publisher": "Silent Ventures",
+        "accessed": "2026-06-03",
+        "supports": "HQ, stage, sector focus, founder, portfolio",
+        "quote": "Primarily concept stage Pre-Seed and Seed investments ... exceptional founders building unrivaled aerospace, defense, and national security companies ... Jackson Moses (Founder & Managing Partner) ... Dallas, TX"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year not disclosed on site; check size and AUM undisclosed.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-balerion-space-ventures",
+    "name": { "en": "Balerion Space Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "united-states",
+    "country": "United States",
+    "website": "https://www.balerionspace.com/",
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["spacetech", "deeptech"],
+      "thesis": "Invests in space infrastructure and dual-use space technologies that 'secure freedom and define the new space frontier,' on the thesis that space will become the backbone of communications, security and industry."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Anduril", "sector": "deeptech", "outcome": "active" },
+        { "company": "Impulse Space", "sector": "spacetech", "outcome": "active" },
+        { "company": "Varda Space", "sector": "spacetech", "outcome": "active" },
+        { "company": "Apex Space", "sector": "spacetech", "outcome": "active" },
+        { "company": "Voyager Technologies", "sector": "spacetech", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Adranos", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Phil Scully", "role": "General Partner" },
+      { "name": "Daniel Kleinmann", "role": "General Partner" },
+      { "name": "Daniel Wallman", "role": "General Partner" }
+    ],
+    "application": { "how_to_apply": "Contact info@balerionspace.com or inquiry form", "accepts_cold_inbound": true, "contact": "info@balerionspace.com" },
+    "summary": {
+      "en": "Space-focused fund investing in space infrastructure and dual-use space technologies, with a team of aerospace engineers and institutional investors. Portfolio includes Anduril, Impulse Space, Varda, Apex and Voyager Technologies.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.balerionspace.com/",
+        "title": "Balerion Space Ventures | Invest in Space Innovation",
+        "publisher": "Balerion Space Ventures",
+        "accessed": "2026-06-03",
+        "supports": "sector focus, thesis, partners, portfolio",
+        "quote": "technologies that secure freedom and define the new space frontier ... Phil Scully (General Partner) ... Daniel Kleinmann (General Partner) ... Daniel Wallman (General Partner)"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year, HQ city, stages and check sizes not disclosed on the homepage; stages inferred from portfolio.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-veteran-ventures-capital",
+    "name": { "en": "Veteran Ventures Capital" },
+    "aka": ["VVC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "McLean",
+    "website": "https://veteranventures.us/",
+    "links": { "other": ["https://veteranventures.us/faqs"] },
+    "capital": {
+      "current_fund": { "raw": "$60M", "usd": 60000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": null, "size": { "raw": "$20M", "usd": 20000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2025, "size": { "raw": "$60M", "usd": 60000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["spacetech", "deeptech", "robotics", "cybersecurity", "ai-ml"],
+      "thesis": "Veteran-owned firm backing veteran-led companies at the nexus of national security and commercial technology across space, counter-UAS, autonomy, quantum sensing, robotics, edge computing, AI/ML and cyber."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Agile Space Industries", "sector": "spacetech", "outcome": "active" },
+        { "company": "Turion Space", "sector": "spacetech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Derren Burrell", "role": "Founder & Managing Partner" },
+      { "name": "Josh Weed", "role": "General Partner" },
+      { "name": "Steve Kiser", "role": "General Partner" }
+    ],
+    "summary": {
+      "en": "Veteran-owned, McLean VA firm founded in 2019 backing veteran-led dual-use national-security companies. Closed an oversubscribed $60M Fund II (triple its $20M Fund I). Space portfolio includes Agile Space Industries and Turion Space.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/veteran-ventures-capital-closes-oversubscribed-60-million-fund-ii-amid-record-aerospace--defense-momentum-302533707.html",
+        "title": "Veteran Ventures Capital Closes Oversubscribed $60 Million Fund II",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-03",
+        "supports": "founded year, HQ, fund sizes, founders, sectors, portfolio",
+        "quote": "Founded: 2019 ... HQ: McLean, Virginia ... Fund II: $60 million (20% oversubscribed) ... Fund I: $20 million ... Founder and Managing Partner: Derren Burrell"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund II vintage year (2025) inferred from the 2025 press release announcing the close.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-decisive-point",
+    "name": { "en": "Decisive Point" },
+    "aka": ["Decisive Point Ventures", "Decisive Point Group"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2018,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Beacon",
+    "offices": [
+      { "country": "United States", "city": "Beacon" },
+      { "country": "United States", "city": "Washington, D.C." },
+      { "country": "United States", "city": "Boston" }
+    ],
+    "website": "https://decisivepoint.com/",
+    "links": { "linkedin": "https://www.linkedin.com/company/decisivepointllc" },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$500K-$1M (seed) to $10M+ (Series A lead)", "usd_min": 500000, "usd_max": 10000000 },
+      "geo_focus": ["United States"],
+      "sector_focus": ["deeptech", "spacetech", "cybersecurity", "robotics", "climate-energy"],
+      "thesis": "Specialized fund focused exclusively on critical technologies for defense, national security, energy and infrastructure, providing portfolio companies with government-contracting expertise and federal R&D access."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Radiant", "sector": "climate-energy", "outcome": "active" }
+      ]
+    },
+    "application": { "how_to_apply": "Contact info@decisivepoint.com", "accepts_cold_inbound": true, "contact": "info@decisivepoint.com" },
+    "summary": {
+      "en": "Beacon NY-based fund (founded 2018) investing exclusively in defense, national security, energy and infrastructure deep tech at seed and Series A, with checks from $500K-$1M up to $10M+ for Series A leads. Also runs the NSIN Propel accelerator.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://decisivepoint.com/",
+        "title": "Decisive Point",
+        "publisher": "Decisive Point",
+        "accessed": "2026-06-03",
+        "supports": "HQ, offices, sector focus, thesis",
+        "quote": "founders on a mission, driving innovation across the industries critical to building a secure, healthy, and sustainable future ... 378C Main Street, Beacon, NY 12508"
+      },
+      {
+        "url": "https://goldi.ai/intelligence/vc/decisive-point",
+        "title": "Decisive Point — Investment Portfolio & Profile",
+        "publisher": "Goldi",
+        "accessed": "2026-06-03",
+        "supports": "founded year, stages, check size",
+        "quote": "Founded in 2018 ... invests primarily at the Seed and Series A stages, with check sizes ranging from $500K-$1M minimum to $10M+ for Series A leads"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded year (2018) from secondary aggregator; firm site confirms Beacon NY HQ and offices.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-scout-ventures",
+    "name": { "en": "Scout Ventures" },
+    "aka": ["Scout VC"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": null,
+    "region": "united-states",
+    "country": "United States",
+    "website": "https://www.scout.vc/",
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "check_size": { "raw": "$2-5M (seed lead), follow-on through Series B", "usd_min": 2000000, "usd_max": 5000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["spacetech", "ai-ml", "robotics", "cybersecurity", "deeptech", "climate-energy"],
+      "thesis": "Backs frontier technologies built by founders from the military, intelligence community and national research labs, leading seed rounds with $2-5M checks and reserving for follow-on through Series B."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Havoc AI", "sector": "robotics", "outcome": "active" },
+        { "company": "Voyager Technologies", "sector": "spacetech", "outcome": "active" },
+        { "company": "Tern AI", "sector": "deeptech", "outcome": "active" },
+        { "company": "EnCharge AI", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Brad Harrison", "role": "Managing Partner" },
+      { "name": "Cody Huggins", "role": "Partner" },
+      { "name": "Ian Folau", "role": "Operating Partner" }
+    ],
+    "application": { "how_to_apply": "Pitch via website; ir@scout.vc", "accepts_cold_inbound": true, "contact": "ir@scout.vc" },
+    "summary": {
+      "en": "Seed-stage fund leading rounds with $2-5M checks in frontier tech (space, AI, robotics, security) built by founders from the military, intelligence community and national labs. Portfolio includes Havoc AI, Voyager Technologies and EnCharge AI.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.scout.vc/",
+        "title": "Scout Ventures",
+        "publisher": "Scout Ventures",
+        "accessed": "2026-06-03",
+        "supports": "stage, check size, sector focus, partners, portfolio",
+        "quote": "Scout VC leads Seed Rounds with $2-5M checks while reserving capital to follow on through Series B ... founders from the military, its intelligence community, and national research labs ... Brad Harrison (Managing Partner)"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year and HQ city not on the fetched homepage.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-marlinspike-partners",
+    "name": { "en": "Marlinspike Partners" },
+    "aka": ["Marlinspike"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Arlington",
+    "website": "https://marlinspike.us/",
+    "links": { "linkedin": "https://www.linkedin.com/company/marlinspike" },
+    "capital": {
+      "funds": [
+        { "name": "Marlinspike Disruptive Technology Fund I", "vintage_year": 2022, "size": { "raw": null, "usd": null, "currency": null } },
+        { "name": "Marlinspike Disruptive Technology Fund II", "vintage_year": 2024, "size": { "raw": "$70M", "usd": 70000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["spacetech", "ai-ml", "robotics", "cybersecurity", "deeptech"],
+      "thesis": "Veteran-led, dual-use fund investing in pioneering technologies (aerospace, AI/ML, autonomy & robotics, cybersecurity, advanced manufacturing) that address national-security needs and possess massive commercial markets."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Anduril", "sector": "deeptech", "outcome": "active" },
+        { "company": "Armada", "sector": "deeptech", "outcome": "active" },
+        { "company": "Privateer", "sector": "spacetech", "outcome": "active" },
+        { "company": "Elroy Air", "sector": "robotics", "outcome": "active" }
+      ],
+      "exits": [
+        { "company": "Kodiak Robotics", "type": "M&A", "year": null, "value": { "raw": null, "usd": null, "currency": null } },
+        { "company": "Voyager Technologies", "type": "IPO", "year": null, "value": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "people": [
+      { "name": "Neil P. Keegan", "role": "Co-Managing Partner" },
+      { "name": "Mislav Tolusic", "role": "Co-Managing Partner" }
+    ],
+    "summary": {
+      "en": "Arlington VA veteran-led dual-use fund (founded 2020) investing in aerospace, AI/ML, autonomy, robotics and cyber; Fund II is a $70M vehicle targeting AI/advanced-manufacturing defense startups. Portfolio includes Anduril, Armada, Privateer and Elroy Air.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://marlinspike.us/",
+        "title": "Marlinspike",
+        "publisher": "Marlinspike Partners",
+        "accessed": "2026-06-03",
+        "supports": "HQ, sector focus, thesis, portfolio",
+        "quote": "We invest in companies with pioneering technologies addressing national security needs and possessing massive commercial markets ... Aerospace ... AI & Machine Learning ... Autonomy & Robotics ... Cybersecurity ... 4201 Wilson Boulevard, Arlington VA 22203"
+      },
+      {
+        "url": "https://www.defencefinancemonitor.com/p/marlinspike-launches-70-million-fund",
+        "title": "Marlinspike Launches $70 Million Fund",
+        "publisher": "Defence Finance Monitor",
+        "accessed": "2026-06-03",
+        "supports": "Fund II size",
+        "quote": "$70 million fund aimed at supporting early-stage startups operating at the intersection of artificial intelligence and advanced manufacturing"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2020 and fund vintages from secondary sources; Fund I size undisclosed.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-razors-edge-ventures",
+    "name": { "en": "Razor's Edge Ventures" },
+    "aka": ["Razor's Edge"],
+    "type": "growth-equity",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Reston",
+    "website": "https://www.razorsvc.com/",
+    "capital": {
+      "aum": { "raw": "more than $1.25 billion", "usd": 1250000000, "currency": "USD" },
+      "current_fund": { "raw": "$560M (Fund IV)", "usd": 560000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["growth", "series-b"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["spacetech", "cybersecurity", "ai-ml", "deeptech"],
+      "thesis": "Growth-equity firm supporting high-barrier-to-entry technology companies addressing US national security across space, autonomy, cyber, advanced sensing, signal processing and AI-enabled systems, combining growth capital with company-building and national-security insight."
+    },
+    "people": [
+      { "name": "Peggy Styer", "role": "Co-Founder & Managing Partner" },
+      { "name": "Jack Kerrigan", "role": "Co-Founder & Managing Partner" },
+      { "name": "Mark Spoto", "role": "Co-Founder & Managing Partner" }
+    ],
+    "summary": {
+      "en": "Reston VA national-security growth-equity firm founded in 2010; closed a $560M fourth fund (2025), bringing AUM above $1.25B. Invests across space, autonomy, cyber, advanced sensing and AI-enabled defense systems.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.businesswire.com/news/home/20250925756725/en/Razors-Edge-Closes-$560-Million-Fund-To-Accelerate-Mission-Critical-National-Security-Innovation",
+        "title": "Razor's Edge Closes $560 Million Fund",
+        "publisher": "Business Wire",
+        "accessed": "2026-06-03",
+        "supports": "founded year, HQ, fund size, AUM, sectors, founders",
+        "quote": "closed its fourth investment fundraising with $560 million in committed capital ... bringing the firm's total assets under management to more than $1.25 billion ... Since its founding in 2010 ... space, autonomy, cyber, advanced sensing, signal processing, artificial intelligence-enabled systems"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Reston VA HQ and $560M Fund IV confirmed; classified as growth-equity per firm's self-description.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-noosphere-ventures",
+    "name": { "en": "Noosphere Ventures" },
+    "aka": ["Noosphere Venture Partners", "Noosphere Venture Partners LP"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2014,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Menlo Park",
+    "website": "https://noosphereventures.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/noosphere-venture-partners",
+      "other": ["https://noosphereventures.com/about-us/"]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "geo_focus": ["United States", "Global"],
+      "sector_focus": ["spacetech", "deeptech"],
+      "thesis": "Space-focused international asset manager investing in the New Space industry from incubation through seed to emerging growth, combining capital with alternative resources and comfortable investing globally and in niche markets."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Firefly Aerospace", "sector": "spacetech", "outcome": "active" },
+        { "company": "EOS Data Analytics", "sector": "spacetech", "outcome": "active" },
+        { "company": "SETS (Space Electric Thruster Systems)", "sector": "spacetech", "outcome": "active" },
+        { "company": "D-Orbit", "sector": "spacetech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Max Polyakov", "role": "Founder" }
+    ],
+    "summary": {
+      "en": "Menlo Park CA space-focused asset manager (founded 2014 by Max Polyakov) investing in New Space from incubation to emerging growth. Portfolio includes Firefly Aerospace, EOS Data Analytics, SETS and D-Orbit.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://noosphereventures.com/about-us/",
+        "title": "About us | Noosphere Ventures",
+        "publisher": "Noosphere Ventures",
+        "accessed": "2026-06-03",
+        "supports": "HQ, founder, founded year, sector focus, portfolio",
+        "quote": "space-focused international asset management firm headquartered in Menlo Park, California ... founded on June 4, 2014, by Max Polyakov ... portfolio includes ... Firefly Aerospace ... EOSDA ... SETS ... D-Orbit"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Details aggregated from the firm's about page and secondary profiles; firm has international offices but is HQ'd in Menlo Park.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-cortado-ventures",
+    "name": { "en": "Cortado Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Oklahoma City",
+    "website": "https://www.cortado.ventures/",
+    "capital": {
+      "aum": { "raw": "$30M deployed", "usd": 30000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["spacetech", "deeptech", "climate-energy", "healthtech", "mobility", "logistics"],
+      "thesis": "Oklahoma City-based seed-stage frontier-tech fund backing companies serving large legacy industries (energy, healthcare, manufacturing, mobility/logistics) across the US Midcontinent, including space/aerospace via portfolio company Quantum Space."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Quantum Space", "sector": "spacetech", "outcome": "active" },
+        { "company": "Teren", "sector": "deeptech", "outcome": "active" }
+      ]
+    },
+    "application": { "how_to_apply": "Email investors@cortado.ventures", "accepts_cold_inbound": true, "contact": "investors@cortado.ventures" },
+    "summary": {
+      "en": "Oklahoma City seed-stage frontier-tech fund (founded 2020, ~$30M deployed) serving large legacy industries across the US Midcontinent, with space exposure via Quantum Space.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.cortado.ventures/",
+        "title": "Cortado Ventures",
+        "publisher": "Cortado Ventures",
+        "accessed": "2026-06-03",
+        "supports": "HQ, AUM, stage, sector focus, portfolio",
+        "quote": "$30M deployed ... Seed-stage frontier tech companies serving large legacy industries ... Oklahoma City based, investing throughout the U.S. Midcontinent ... Quantum Space"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Regional/generalist deep-tech fund with only partial space exposure (Quantum Space); included for space-tech relevance. Founded year from secondary sources.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-squadra-ventures",
+    "name": { "en": "Squadra Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Baltimore",
+    "offices": [
+      { "country": "United States", "city": "Baltimore" },
+      { "country": "United States", "city": "Washington, D.C." }
+    ],
+    "website": "https://www.squadra.vc/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/squadravc",
+      "other": ["https://www.squadra.vc/pages/team"]
+    },
+    "capital": {
+      "current_fund": { "raw": "$105M (Squadra II)", "usd": 105000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$2-4M", "usd_min": 2000000, "usd_max": 4000000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["cybersecurity", "deeptech", "ai-ml", "spacetech"],
+      "thesis": "Leads pre-seed to Series A rounds ($2-4M) in early-stage cyber and national-security companies building dual-use technologies for government, military and mission-critical industries."
+    },
+    "people": [
+      { "name": "Guy Filippelli", "role": "Founder" }
+    ],
+    "summary": {
+      "en": "Baltimore-based fund (founded 2019 by Guy Filippelli) leading pre-seed to Series A rounds with $2-4M checks in cyber and national-security dual-use companies. Raised a $105M Squadra II fund.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://medium.com/squadra-ventures/squadra-ventures-raises-105-million-to-invest-in-early-stage-cyber-and-national-security-companies-1fa855db8bfc",
+        "title": "Squadra Ventures raises $105 million",
+        "publisher": "Squadra Ventures (Medium)",
+        "accessed": "2026-06-03",
+        "supports": "founded year, HQ, fund size, check size, founder, sectors",
+        "quote": "$105 million in a new fund ... Squadra leads Pre-Seed to Series A rounds with investments of $2-4 million ... founded in 2019 by Guy Filippelli ... headquartered in Baltimore, MD, with an office in Washington, DC"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Primary national-security/cyber focus; space included as a dual-use adjacency.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-harpoon-ventures",
+    "name": { "en": "Harpoon Ventures" },
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "San Diego",
+    "website": "https://www.harpoon.vc/",
+    "links": { "linkedin": "https://www.linkedin.com/company/harpoon-ventures-portfolio" },
+    "capital": {
+      "aum": { "raw": "over $380 million", "usd": 380000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": null, "size": { "raw": "$3M", "usd": 3000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "$60M", "usd": 60000000, "currency": "USD" } },
+        { "name": "Fund III", "vintage_year": null, "size": { "raw": "$125M", "usd": 125000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["deeptech", "spacetech", "ai-ml", "cybersecurity", "robotics"],
+      "thesis": "Early-stage national-security investor acting as a bridge between startups and complex government buyers, with a team of former national-security operators who help founders navigate procurement and dual-use commercialization."
+    },
+    "program": {
+      "investment": { "raw": "$250,000-$1M", "usd": null, "currency": "USD" },
+      "format": "in-person",
+      "location": "San Diego",
+      "perks": ["Government funding program connections", "Palantir partnership"],
+      "eligibility": "Defense/critical-tech startups (Black Flag Accelerator)"
+    },
+    "people": [
+      { "name": "Larsen Jensen", "role": "Founder & General Partner" },
+      { "name": "William Allen", "role": "Co-founder & General Partner" }
+    ],
+    "summary": {
+      "en": "San Diego national-security fund (founded 2018 by Navy SEAL Larsen Jensen), ~$380M AUM across three funds, that bridges startups and government buyers. Runs the Black Flag Accelerator with $250K-$1M direct investments.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://businessofsandiego.substack.com/p/harpoon-ventures-inside-the-vc-firm",
+        "title": "Harpoon Ventures: Inside the VC Firm That Raised $183M",
+        "publisher": "Business of San Diego",
+        "accessed": "2026-06-03",
+        "supports": "founded year, HQ, fund sizes, AUM, founders, accelerator",
+        "quote": "founded in 2018 ... headquartered in San Diego ... started with $3 million for its first fund, raised $60 million for its second, and recently raised $125 million for its third fund ... manages over $380 million ... Black Flag Accelerator ... direct investments ranging from $250,000 to $1 million"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund vintage years not specified; AUM figure 'as of 2023'.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-champion-hill-ventures",
+    "name": { "en": "Champion Hill Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Chapel Hill",
+    "website": "https://www.championhillventures.com/",
+    "links": { "other": ["https://www.championhillventures.com/investments"] },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$300K-$500K", "usd_min": 300000, "usd_max": 500000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["United States"],
+      "sector_focus": ["deeptech", "spacetech", "hardware-semiconductor"],
+      "thesis": "Invests across three thematic areas: defense and hard technology; new computing regimes and digital sovereignty; and 'curveballs' that violate prevailing narratives. Leads pre-seed rounds with $300K-$500K checks."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "SpaceX", "sector": "spacetech", "outcome": "active" },
+        { "company": "Anduril", "sector": "deeptech", "outcome": "active" },
+        { "company": "True Anomaly", "sector": "spacetech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Josh Manchester", "role": "Founder & Managing Partner" },
+      { "name": "Robert Haddick", "role": "Co-Founder" }
+    ],
+    "summary": {
+      "en": "Chapel Hill NC micro-VC (founded 2014 by Marine Corps veteran Josh Manchester) leading pre-seed rounds with $300K-$500K checks in defense/hard tech and new computing. Early portfolio includes SpaceX, Anduril and True Anomaly.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.championhillventures.com/",
+        "title": "Home | Champion Hill Ventures",
+        "publisher": "Champion Hill Ventures",
+        "accessed": "2026-06-03",
+        "supports": "thesis, sector focus, founders",
+        "quote": "Defense and hard technology; New computing regimes and digital sovereignty; and Curveballs ... Josh Manchester ... Robert Haddick"
+      },
+      {
+        "url": "https://www.vcsheet.com/fund/champion-hill-ventures",
+        "title": "Champion Hill Ventures - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-03",
+        "supports": "founded year, HQ, check size, portfolio",
+        "quote": "founded in 2014 ... Chapel Hill, North Carolina ... invests $300k-$500k checks to lead pre-seed rounds ... SpaceX, Anduril, Flexport, True Anomaly"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Check size and founding year from secondary aggregator (VC Sheet); thesis and founders confirmed on firm site.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-countdown-capital",
+    "name": { "en": "Countdown Capital" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "inactive",
+    "founded_year": 2020,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Miami",
+    "links": { "crunchbase": "https://www.crunchbase.com/organization/countdown-capital" },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2020, "size": { "raw": "$3M", "usd": 3000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2022, "size": { "raw": "$15M", "usd": 15000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["spacetech", "deeptech", "hardware-semiconductor", "climate-energy"],
+      "thesis": "Pre-seed hard-tech fund backing 'titans of hard tech' rebuilding the American industrial base across aerospace, defense, manufacturing, energy and construction; wound down in 2024."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "K2 Space", "sector": "spacetech", "outcome": "active" },
+        { "company": "Hadrian", "sector": "deeptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Jai Malik", "role": "Founder & General Partner" }
+    ],
+    "summary": {
+      "en": "Miami-based pre-seed hard-tech fund (founded 2020 by Jai Malik) that backed aerospace/defense/industrial startups like K2 Space and Hadrian. Raised a $3M Fund I and $15M Fund II before announcing it would shut down in March 2024.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2024/01/02/early-stage-hard-tech-firm-countdown-capital-shutting-down/",
+        "title": "Early-stage hard tech firm Countdown Capital shutting down",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-03",
+        "supports": "status (shutdown), thesis, portfolio",
+        "quote": "Countdown Capital ... announced it would shut down by March 2024 ... funding industrial startups is not inefficient enough to justify our existence"
+      },
+      {
+        "url": "https://techcrunch.com/2022/09/07/countdown-capital-raises-15-million-to-back-the-next-industrial-revolution/",
+        "title": "Countdown Capital raises $15 million",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-03",
+        "supports": "founded year, fund sizes, founder, HQ",
+        "quote": "Founded in January 2020 by Jai Malik ... closed its first fund at $3 million and later raised a second fund of $15 million in 2022 ... Miami, Florida-based"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Firm wound down in 2024; included as a verifiable historical space/defense investor (status: inactive).",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-the-veteran-fund",
+    "name": { "en": "The Veteran Fund" },
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": null,
+    "region": "united-states",
+    "country": "United States",
+    "offices": [
+      { "country": "United States", "city": "San Diego" },
+      { "country": "United States", "city": "Silicon Valley" },
+      { "country": "United States", "city": "Washington, D.C." },
+      { "country": "United States", "city": "Austin" }
+    ],
+    "website": "https://www.veteran.fund/",
+    "links": { "other": ["https://www.veteran.fund/updates/2026may"] },
+    "capital": {
+      "funds": [
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "$50M", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": "$500K-$2M", "usd_min": 500000, "usd_max": 2000000 },
+      "geo_focus": ["United States"],
+      "sector_focus": ["spacetech", "ai-ml", "deeptech", "cybersecurity"],
+      "thesis": "Backs high-growth critical-technology startups led by elite US military veterans across AI, advanced manufacturing, space, cybersecurity and dual-use innovation, on the thesis that veteran-led companies outperform."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Havoc AI", "sector": "robotics", "outcome": "active" },
+        { "company": "Firestorm", "sector": "deeptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Ryan Micheletti", "role": "Managing Partner" },
+      { "name": "Mike Sherbakov", "role": "Managing Partner" },
+      { "name": "Justin Nahama", "role": "Managing Partner" }
+    ],
+    "application": { "how_to_apply": "Apply for veteran-led startups at veteran.fund/startup", "accepts_cold_inbound": true },
+    "summary": {
+      "en": "Seed-stage fund backing critical-tech startups led by elite US military veterans across AI, advanced manufacturing, space and cyber, with $500K-$2M checks. Fund II is a $50M vehicle; portfolio includes Havoc AI and Firestorm.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.veteran.fund/",
+        "title": "The Veteran Fund | Advancing America Through Venture Capital",
+        "publisher": "The Veteran Fund",
+        "accessed": "2026-06-03",
+        "supports": "stage, check size, sectors, partners",
+        "quote": "Seed stage ... $500K-$2M ... high-growth critical technology startups led by elite military veterans ... Artificial intelligence ... Advanced manufacturing ... Space ... Cybersecurity"
+      },
+      {
+        "url": "https://nvca.org/member-spotlight-the-veteran-fund-2/",
+        "title": "Member Spotlight: The Veteran Fund",
+        "publisher": "NVCA",
+        "accessed": "2026-06-03",
+        "supports": "Fund II size, portfolio",
+        "quote": "Fund II: '$50 million fund' ... HavocAI (raised $85M) ... Firestorm (raised $47M) ... Collectively, our portfolio companies have raised more than $350 million"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year not stated; firm operates across multiple US cities without a single stated HQ.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-americas-frontier-fund",
+    "name": { "en": "America's Frontier Fund" },
+    "aka": ["AFF"],
+    "type": "vc",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "united-states",
+    "country": "United States",
+    "website": "https://www.americasfrontier.com/",
+    "links": { "other": ["https://www.americasfrontier.com/team/gilman-louie"] },
+    "capital": {
+      "current_fund": { "raw": "raising ~$315M (reported)", "usd": 315000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "growth"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["deeptech", "ai-ml", "hardware-semiconductor", "biotech", "spacetech"],
+      "thesis": "Mission-driven (originally non-profit) strategic-capital fund investing in foundational technologies critical to US national security and economic competitiveness, including AI/compute, microelectronics, next-gen networks, synthetic biology, advanced manufacturing, new materials and quantum."
+    },
+    "people": [
+      { "name": "Gilman Louie", "role": "CEO & Co-Founder / Managing Partner" },
+      { "name": "Brian Wilcove", "role": "Managing Partner" }
+    ],
+    "summary": {
+      "en": "Strategic-capital fund (launched 2022) co-founded and led by ex-In-Q-Tel CEO Gilman Louie, investing in foundational national-security technologies: AI/compute, microelectronics, next-gen networks, synthetic biology, advanced manufacturing and quantum. Reported to be raising ~$315M.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.americasfrontier.com/",
+        "title": "America's Frontier Fund",
+        "publisher": "America's Frontier Fund",
+        "accessed": "2026-06-03",
+        "supports": "thesis, sector focus, leadership",
+        "quote": "frontier technologies that secure America's future ... Compute, Biology, Energy, Manufacturing ... Gilman Louie (Managing Partner) ... Brian Wilcove (Managing Partner)"
+      },
+      {
+        "url": "https://cyberscoop.com/white-house-backed-fund-deep-tech/",
+        "title": "White House backed fund promises to accelerate 'deep tech' advancements",
+        "publisher": "CyberScoop",
+        "accessed": "2026-06-03",
+        "supports": "founded year, structure, focus areas, CEO",
+        "quote": "launched in 2022 as a 'non-profit strategic investment fund' focused on deep tech and national security ... Gilman Louie is CEO and Co-Founder ... first CEO of In-Q-Tel"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Originally described as non-profit; current site framing reads more like a for-profit fund. The ~$315M figure is a reported fundraising target, not a confirmed close.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-snowpoint-ventures",
+    "name": { "en": "Snowpoint Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Palm Beach",
+    "website": "https://www.snowpoint.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/snowpoint-ventures",
+      "crunchbase": "https://www.crunchbase.com/organization/snowpoint-ventures",
+      "other": ["https://www.snowpoint.com/news"]
+    },
+    "capital": {
+      "aum": { "raw": "~$1B", "usd": 1000000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["deeptech", "spacetech", "cybersecurity", "ai-ml"],
+      "thesis": "Backs dual-use companies at the intersection of data, deep tech and frontier tech across aerospace, defense and cybersecurity, helping them navigate government and commercial markets to improve national security and societal resilience."
+    },
+    "track_record": {
+      "portfolio_count": 12,
+      "notable_investments": [
+        { "company": "Shield AI", "sector": "deeptech", "outcome": "active" },
+        { "company": "Gecko Robotics", "sector": "robotics", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Doug Philippone", "role": "Co-Founder & General Partner" }
+    ],
+    "summary": {
+      "en": "Palm Beach FL fund (founded 2021, ~$1B AUM) backing dual-use data/deep-tech/frontier-tech companies in aerospace, defense and cyber. Co-founded by Doug Philippone; portfolio includes Shield AI and Gecko Robotics.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.snowpoint.com/",
+        "title": "Snowpoint Ventures",
+        "publisher": "Snowpoint Ventures",
+        "accessed": "2026-06-03",
+        "supports": "AUM, portfolio count, thesis",
+        "quote": "~$1B ... 12 Investments to Date ... 22 Cities Globally ... data, deep tech, and frontier tech ... improve national security and societal resilience"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/snowpoint-ventures",
+        "title": "Snowpoint Ventures - Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-03",
+        "supports": "founded year, HQ, founder, portfolio",
+        "quote": "founded in 2021 ... Palm Beach, Florida ... Doug Philippone ... Shield AI ... Gecko Robotics"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Firm site shows ~$1B AUM; an earlier secondary source cited >$500M, indicating AUM has grown. Using the official figure.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-embedded-ventures",
+    "name": { "en": "Embedded Ventures" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Los Angeles",
+    "website": "https://www.embedded.ventures/",
+    "links": { "linkedin": "https://www.linkedin.com/company/embedded-ventures" },
+    "capital": {
+      "funds": [
+        { "name": "Shockwave Fund I", "vintage_year": 2024, "size": { "raw": "$100M", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$100K-$5M (sweet spot ~$1.5M)", "usd_min": 100000, "usd_max": 5000000 },
+      "geo_focus": ["United States"],
+      "sector_focus": ["spacetech", "deeptech", "hardware-semiconductor", "robotics"],
+      "thesis": "Early-stage deep-tech firm investing in digital engineering, advanced manufacturing and space infrastructure with a dual focus on commercial and defense applications; holds a partnership with the US Space Force."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Inversion Space", "sector": "spacetech", "outcome": "active" },
+        { "company": "Slingshot Aerospace", "sector": "spacetech", "outcome": "active" },
+        { "company": "Anduril", "sector": "deeptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Jenna Bryant", "role": "Co-Founder & CEO" },
+      { "name": "Jordan Noone", "role": "Co-Founder" }
+    ],
+    "summary": {
+      "en": "LA-based early-stage deep-tech firm (founded 2020) focused on digital engineering, advanced manufacturing and space infrastructure, with a US Space Force partnership. Closed a $100M Shockwave Fund I in 2024; portfolio includes Inversion Space and Slingshot Aerospace.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.cnbc.com/2023/01/31/vc-firm-embedded-ventures-fund-for-national-security-space.html",
+        "title": "LA-based Embedded Ventures launches inaugural fund, with focus on national security and space tech",
+        "publisher": "CNBC",
+        "accessed": "2026-06-03",
+        "supports": "HQ, founders, Space Force partnership, focus",
+        "quote": "LA-based Embedded Ventures launches inaugural fund, with focus on national security and space tech ... partnership with the United States Space Force"
+      },
+      {
+        "url": "https://pitchbook.com/profiles/fund/18436-42F",
+        "title": "Embedded Ventures Shockwave Fund I",
+        "publisher": "PitchBook",
+        "accessed": "2026-06-03",
+        "supports": "fund size, vintage",
+        "quote": "closing its first fund at $100 million ... 2024"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Check-size range from secondary aggregators; fund close ($100M, 2024) from PitchBook profile and reporting.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-booz-allen-ventures",
+    "name": { "en": "Booz Allen Ventures" },
+    "aka": ["Booz Allen Ventures, LLC"],
+    "type": "cvc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "McLean",
+    "website": "https://www.boozallen.com/expertise/tech-ecosystem/ventures.html",
+    "capital": {
+      "aum": { "raw": "$300M", "usd": 300000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "series-b"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["ai-ml", "cybersecurity", "deeptech", "spacetech", "hardware-semiconductor"],
+      "thesis": "Corporate venture arm of Booz Allen Hamilton investing in early-stage strategic dual-use commercial technologies for federal clients across AI, cybersecurity, deep tech, space, defense and manufacturing; invests for both financial returns and strategic alignment."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Firestorm Labs", "sector": "deeptech", "outcome": "active" },
+        { "company": "Hidden Level", "sector": "deeptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Brian MacCarthy", "role": "Head of Booz Allen Ventures" }
+    ],
+    "summary": {
+      "en": "Corporate venture arm of Booz Allen Hamilton (launched 2022, tripled to $300M AUM in 2025) investing in early-stage dual-use AI, cyber, deep tech, space and defense companies. Portfolio includes Firestorm Labs and Hidden Level.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.bloomberg.com/news/articles/2025-07-21/booz-allen-ventures-to-invest-200-million-in-defense-tech-startups",
+        "title": "Booz Allen Ventures to Invest $200 Million in Defense Tech Startups",
+        "publisher": "Bloomberg",
+        "accessed": "2026-06-03",
+        "supports": "founded year, AUM, focus, portfolio",
+        "quote": "Booz Allen Hamilton committed $200 million to its venture capital arm in 2025, tripling the assets under management of its venture group to $300 million ... Launched in 2022 ... AI, cybersecurity, deep tech, space and defense innovation ... Firestorm Labs ... Hidden Level"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "$300M total AUM after 2025 increase; HQ McLean VA (Booz Allen Hamilton headquarters).",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-washington-harbour-partners",
+    "name": { "en": "Washington Harbour Partners" },
+    "aka": ["Washington Harbour Partners LP"],
+    "type": "growth-equity",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Arlington",
+    "website": "https://washingtonharbour.com/",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/washington-harbour-partners-lp",
+      "crunchbase": "https://www.crunchbase.com/organization/washington-harbour-partners",
+      "other": ["https://washingtonharbour.com/investments/"]
+    },
+    "capital": {
+      "aum": { "raw": "$4.7B", "usd": 4700000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "series-c-plus", "growth"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["cybersecurity", "spacetech", "ai-ml", "deeptech", "saas-enterprise"],
+      "thesis": "Private investment firm scaling mission-critical technology companies at the intersection of national security, intelligence and advanced digital infrastructure, building category leaders for US and allied government customers across cyber, data, AI and defense; invests Series A through pre-IPO."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Striveworks", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Trusted Space", "sector": "spacetech", "outcome": "active" },
+        { "company": "Raft", "sector": "deeptech", "outcome": "active" }
+      ]
+    },
+    "summary": {
+      "en": "Arlington VA private investment firm (founded 2021, $4.7B) scaling national-security and defense-tech companies from Series A through pre-IPO. Portfolio includes Striveworks, Trusted Space and Raft, with 11 companies on the 2025 NatSec100.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.crunchbase.com/organization/washington-harbour-partners",
+        "title": "Washington Harbour Partners - Crunchbase",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-03",
+        "supports": "founded year, HQ, AUM, stages, focus",
+        "quote": "founded in 2021 ... based in Arlington, Virginia ... $4.7B private investment firm ... cybersecurity, government and enterprise technology ... invested ... from Series A through Pre-IPO"
+      },
+      {
+        "url": "https://washingtonharbour.com/svdg-natsec-100-2025-edition/",
+        "title": "Washington Harbour Partners Celebrates 11 Portfolio Companies Named to the 2025 NatSec100",
+        "publisher": "Washington Harbour Partners",
+        "accessed": "2026-06-03",
+        "supports": "portfolio, national-security focus",
+        "quote": "11 of its portfolio companies have been named to the Silicon Valley Defense Group's annual 2025 NatSec100"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Primarily growth-stage/buy-and-build; classified growth-equity. Space exposure via Trusted Space.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-type-one-ventures",
+    "name": { "en": "Type One Ventures" },
+    "aka": ["Type One", "T1 Ventures"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Los Angeles",
+    "offices": [
+      { "country": "United States", "city": "Los Angeles" },
+      { "country": "United Kingdom", "city": "London" }
+    ],
+    "website": "https://type1ventures.com/",
+    "links": { "other": ["https://type1ventures.com/newsroom/type-one-rasies-second-fund"] },
+    "capital": {
+      "funds": [
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "$34M raised of $50M target", "usd": 34000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["spacetech", "deeptech", "robotics", "ai-ml"],
+      "thesis": "Backs founders solving 'heavy problems' in space technology and deep tech (robotics, AI, automation, future of mobility, nanotech, longevity); name references the Kardashev Scale and the goal of a Type One civilization."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Orbit Fab", "sector": "spacetech", "outcome": "active" },
+        { "company": "Cosmic Shielding Corporation", "sector": "spacetech", "outcome": "active" },
+        { "company": "SpaceX", "sector": "spacetech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Tarek Waked", "role": "Founding Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "summary": {
+      "en": "LA-based pre-seed/seed fund (founded 2019 by Tarek Waked) investing in space tech and deep tech. Second fund raised $34M of a $50M target; portfolio includes Orbit Fab, Cosmic Shielding and SpaceX.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://spacenews.com/type-one-ventures-second-fund/",
+        "title": "Type One Ventures raises investment target",
+        "publisher": "SpaceNews",
+        "accessed": "2026-06-03",
+        "supports": "fund size, focus, portfolio, founded year",
+        "quote": "raised $34 million of the $50 million it plans to invest ... founded in 2019 to support founders focused on 'heavy problems' related to space technology ... Cosmic Shielding Corp ... OrbitFab ... SpaceX"
+      },
+      {
+        "url": "https://type1ventures.com/team/tarek-waked",
+        "title": "Tarek Waked - Founding Partner",
+        "publisher": "Type One Ventures",
+        "accessed": "2026-06-03",
+        "supports": "founder, HQ, offices",
+        "quote": "Founding Partner at Type One Ventures ... Operating from Los Angeles, CA, with an office in London, UK"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Has a London office but is US (LA) headquartered. Fund II vintage year not specified.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-stellar-ventures",
+    "name": { "en": "Stellar Ventures" },
+    "aka": ["SV Andromeda Fund"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Palo Alto",
+    "website": "https://svc.vc/",
+    "links": { "linkedin": "https://www.linkedin.com/company/stellarvc" },
+    "capital": {
+      "funds": [
+        { "name": "SV Andromeda Fund", "vintage_year": 2022, "size": { "raw": "$23M", "usd": 23000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["spacetech"],
+      "thesis": "Woman-led seed/pre-seed fund investing in the next generation of space technology companies aiming to bring products to government and commercial space markets, leveraging affiliated systems-engineering firm Stellar Solutions for deal flow, diligence and government introductions."
+    },
+    "people": [
+      { "name": "Celeste Ford", "role": "Founder & Managing Director" },
+      { "name": "Matt Patterson", "role": "Managing Director" },
+      { "name": "David Anderman", "role": "Operating Partner" }
+    ],
+    "summary": {
+      "en": "Woman-led Palo Alto seed/pre-seed space fund (founded 2022 by Celeste Ford) that closed a $23M SV Andromeda Fund, backed by affiliated engineering firm Stellar Solutions for government access.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://spacenews.com/introducing-stellar-ventures/",
+        "title": "Stellar Ventures unveils $23 million early-stage fund",
+        "publisher": "SpaceNews",
+        "accessed": "2026-06-03",
+        "supports": "fund size, founded year, founders, focus",
+        "quote": "Ford founded Stellar Ventures in 2022 with Managing Director Matt Patterson and Operating Partner David Anderman ... a new fund that has fetched $23 million in capital ... SV Andromeda Fund"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Affiliated with Stellar Solutions (Palo Alto). Seed/pre-seed space-only fund.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-interlagos-capital",
+    "name": { "en": "Interlagos Capital" },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "El Segundo",
+    "links": { "crunchbase": "https://pitchbook.com/profiles/investor/594258-31" },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2024, "size": { "raw": "$550M target (debut fund)", "usd": 550000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a", "series-b"],
+      "ownership_target_pct": "18-25%",
+      "geo_focus": ["United States"],
+      "sector_focus": ["deeptech", "spacetech", "robotics"],
+      "thesis": "Deep-tech fund founded by former senior SpaceX leaders investing from inception through Series B in space, defense and frontier hardware; plans 26-32 investments targeting 18-25% equity stakes."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Neros Technologies", "sector": "robotics", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Achal Upadhyaya", "role": "Founding Partner (ex-SpaceX, ex-Cantos Ventures)" },
+      { "name": "Tom Ochinero", "role": "Founding Partner (ex-SpaceX)" },
+      { "name": "Spencer Hemphill", "role": "CFO (ex-Sequoia)" }
+    ],
+    "summary": {
+      "en": "El Segundo CA deep-tech fund (founded 2024) led by former senior SpaceX executives, targeting a $550M debut fund to make 26-32 investments from inception through Series B in space, defense and frontier hardware.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://spaceinsider.tech/2024/10/10/former-spacex-executives-launch-interlagos-venture-fund-targeting-550m-for-deep-tech-investments/",
+        "title": "Former SpaceX Executives Launch Interlagos Venture Fund, Targeting $550M",
+        "publisher": "Space Insider",
+        "accessed": "2026-06-03",
+        "supports": "founded year, HQ, fund target, founders, stages, ownership",
+        "quote": "$550 million for its debut fund ... El Segundo, California ... Achal Upadhyaya - Former senior engineer at SpaceX ... Tom Ochinero - Former SpaceX executive ... 26-32 companies ... 18-25% equity stakes"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "$550M is a reported fundraising target, not a confirmed close. No standalone firm website confirmed at time of research.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  },
+  {
+    "id": "us-first-in-ventures",
+    "name": { "en": "First In Ventures" },
+    "aka": ["First In"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "united-states",
+    "country": "United States",
+    "website": "https://www.firstin.vc/",
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["cybersecurity", "deeptech", "spacetech", "ai-ml"],
+      "thesis": "Veteran/operator-led fund (former Marine Corps officers, CIA operatives and defense-tech operators) investing in early-stage security technologies across commercial, military and intelligence sectors—cyber, defense, data and critical infrastructure."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Anduril", "sector": "deeptech", "outcome": "active" },
+        { "company": "Castelion", "sector": "spacetech", "outcome": "active" },
+        { "company": "Shift5", "sector": "cybersecurity", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Renny McPherson", "role": "Co-Founder" },
+      { "name": "Arthur Karell", "role": "Co-Founder" },
+      { "name": "Lenore Karafa", "role": "Co-Founder" }
+    ],
+    "summary": {
+      "en": "Veteran/operator-led pre-seed and seed fund investing in security tech across commercial, military and intelligence sectors. Founded by Renny McPherson, Arthur Karell and Lenore Karafa; portfolio includes Anduril, Castelion and Shift5.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://outlander.vc/fieldguide/top-vc-funds-investing-in-dual-use-defense-technology/",
+        "title": "Top VC funds investing in dual-use & defense technology",
+        "publisher": "Outlander VC",
+        "accessed": "2026-06-03",
+        "supports": "stage, focus, portfolio",
+        "quote": "First In Ventures ... Pre-seed to Seed; veteran-led, invests across 'commercial, military, or intelligence sectors'"
+      },
+      {
+        "url": "https://www.vcsheet.com/fund/first-in",
+        "title": "First In - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-03",
+        "supports": "founders, focus, portfolio",
+        "quote": "founded by Renny McPherson, Arthur Karell, and Lenore Karafa ... notable investments include companies like Adlumin, Castelion, Shift5, and Anduril"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year and HQ not confirmed from primary source; details corroborated across Outlander VC field guide and VC Sheet.",
+    "accessed": "2026-06-03",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-space-defense"
+  }
+]

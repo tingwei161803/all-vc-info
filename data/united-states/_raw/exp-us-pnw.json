@@ -1,0 +1,1215 @@
+[
+  {
+    "id": "us-ascend-vc",
+    "name": { "en": "Ascend" },
+    "aka": ["Ascend.vc", "Ascend VC"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Seattle",
+    "website": "https://www.ascend.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/ascend-vc",
+      "other": ["https://www.ascend.vc/about"]
+    },
+    "capital": {
+      "aum": { "raw": "~$40M across two funds", "usd": 40000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2019, "size": { "raw": "$15M", "usd": 15000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2023, "size": { "raw": "$25M", "usd": 25000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed"],
+      "check_size": { "raw": "$250K–$750K", "usd_min": 250000, "usd_max": 750000 },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Pacific Northwest", "Seattle"],
+      "sector_focus": ["ai-ml", "saas-enterprise"],
+      "thesis": "Self-described most active pre-seed fund in the Pacific Northwest; invests in SaaS 3.0 (vertical AI agents), Gen AI 2.0 (horizontal AI/infrastructure) and Frontier AI (AI applied to the physical world)."
+    },
+    "track_record": {
+      "portfolio_count": "70+",
+      "notable_investments": [
+        { "company": "Attunely", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Kirby Winfield", "role": "Founding General Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["pre-seed", "pacific-northwest", "ai"],
+    "summary": {
+      "en": "Ascend is a Seattle-based pre-seed venture firm founded in 2019 by Kirby Winfield, billed as the most active pre-seed fund in the Pacific Northwest. It raised a $15M Fund I (2019) and $25M Fund II (2023), writing $250K–$750K checks into applied-AI and SaaS startups; Winfield has backed 70+ PNW startups."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2023/05/09/ascend-raises-25-million-for-pre-seed-ai-startups-in-the-pacific-northwest/",
+        "title": "Ascend raises $25 million for pre-seed AI startups in the Pacific Northwest",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-03",
+        "supports": "fund II size, stage, AI focus",
+        "quote": "Ascend raises $25 million for pre-seed AI startups in the Pacific Northwest"
+      },
+      {
+        "url": "https://www.ascend.vc/about",
+        "title": "About — Ascend.vc",
+        "publisher": "Ascend",
+        "accessed": "2026-06-03",
+        "supports": "founder, HQ, check size, thesis",
+        "quote": "Preferred check $250-$750K"
+      },
+      {
+        "url": "https://www.geekwire.com/2023/seattle-vc-firm-ascend-raises-25m-for-second-fund-plans-to-double-down-on-ai/",
+        "title": "Seattle VC firm Ascend raises $25M for second fund, plans to double down on AI",
+        "publisher": "GeekWire",
+        "accessed": "2026-06-03",
+        "supports": "Fund I $15M (2019), Fund II $25M, 70+ startups",
+        "quote": "Winfield raised $15 million for Ascend's initial fund in 2019 ... backed more than 70 startups across the Pacific Northwest"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-fortson-vc",
+    "name": { "en": "Fortson VC" },
+    "aka": ["Fortson", "Fortson Management Company", "Arnold Venture Group"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Seattle",
+    "website": "https://www.fortsonvc.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/fortson-vc",
+      "linkedin": "https://www.linkedin.com/company/fortson-vc"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fortson Gen I", "vintage_year": 2025, "size": { "raw": "$50M", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$500K–$1M initial", "usd_min": 500000, "usd_max": 1000000 },
+      "geo_focus": ["Pacific Northwest", "United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "Backs 'non-linear founders' building B2B software at pre-seed to Series A using a quantitative framework to evaluate founder traits; PNW-anchored but open beyond the region."
+    },
+    "track_record": {
+      "portfolio_count": "6+",
+      "notable_investments": [
+        { "company": "Hyperparam", "sector": "ai-ml", "outcome": "active" },
+        { "company": "Sturdy", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "CueZen", "sector": "healthtech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Cole Younger", "role": "Founder / Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["b2b-software", "pacific-northwest", "spinout"],
+    "summary": {
+      "en": "Fortson VC is a Seattle-area firm that spun out of a family office (formerly Arnold Venture Group) in 2025 under Cole Younger. Its debut $50M 'Fortson Gen I' fund backs B2B software startups at pre-seed to Series A with $500K–$1M initial checks, expecting 25–30 investments."
+    },
+    "sources": [
+      {
+        "url": "https://www.geekwire.com/2025/seattles-newest-vc-fund-fortson-raises-50m-to-invest-in-early-stage-software-startups/",
+        "title": "Seattle's newest VC fund: Fortson raises $50M to invest in early stage software startups",
+        "publisher": "GeekWire",
+        "accessed": "2026-06-03",
+        "supports": "fund size, founder, check size, stage, spinout",
+        "quote": "Fortson VC has raised $50 million ... initial check sizes ranging from $500,000 to $1 million ... led by Cole Younger ... previously led Arnold Venture Group"
+      },
+      {
+        "url": "https://www.fortsonvc.com",
+        "title": "Fortson",
+        "publisher": "Fortson VC",
+        "accessed": "2026-06-03",
+        "supports": "thesis, portfolio (Gen I)",
+        "quote": "We believe founders are the defining force behind enduring companies"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-founders-co-op",
+    "name": { "en": "Founders' Co-op" },
+    "aka": ["Founders Co-op", "FoundersCoop"],
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2008,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Seattle",
+    "website": "https://www.founderscoop.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/founders-co-op"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund IV", "vintage_year": 2018, "size": { "raw": "$25M", "usd": 25000000, "currency": "USD" } },
+        { "name": "Fund V", "vintage_year": 2021, "size": { "raw": "$50M", "usd": 50000000, "currency": "USD" } },
+        { "name": "Fund VI", "vintage_year": 2025, "size": { "raw": "$50M", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Pacific Northwest"],
+      "sector_focus": ["generalist", "saas-enterprise"],
+      "thesis": "Seed-stage fund built 'by founders, for founders' that backs the strongest Pacific Northwest entrepreneurs so global growth investors choose to back them later."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Remitly", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Outreach", "sector": "saas-enterprise", "outcome": "unicorn" },
+        { "company": "Auth0", "sector": "saas-enterprise", "outcome": "acquired" }
+      ]
+    },
+    "people": [
+      { "name": "Chris DeVore", "role": "Founding Managing Partner" },
+      { "name": "Andy Sack", "role": "Co-founder" },
+      { "name": "Rudy Gadre", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["seed", "pacific-northwest", "founder-led"],
+    "summary": {
+      "en": "Founders' Co-op is a Seattle seed-stage fund founded in 2008 by Andy Sack, Chris DeVore and Rudy Gadre. It raised a $25M Fund IV (2018), $50M Fund V (2021) and a $50M Fund VI (2025), and was an early backer of Remitly, Outreach and Auth0."
+    },
+    "sources": [
+      {
+        "url": "https://www.geekwire.com/2025/seattle-vc-firm-founders-co-op-raises-50m-for-new-fund-to-back-more-pacific-northwest-founders/",
+        "title": "Seattle VC firm Founders' Co-op raises $50M for new fund to back more Pacific Northwest founders",
+        "publisher": "GeekWire",
+        "accessed": "2026-06-03",
+        "supports": "Fund VI $50M, founders, fund history",
+        "quote": "raised $50 million for its fifth fund in 2021 and $25 million for its fourth fund in 2018 ... its sixth fund — $50 million"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/founders-co-op",
+        "title": "Founders' Co-op - Crunchbase Company Profile",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-03",
+        "supports": "founding year 2008, founders",
+        "quote": "established in 2008 ... founded by Andy Sack, Chris DeVore, and Rudy Gadre"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-trilogy-equity-partners",
+    "name": { "en": "Trilogy Equity Partners" },
+    "type": "vc",
+    "subtypes": ["family-office"],
+    "status": "active",
+    "founded_year": 2006,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Bellevue",
+    "website": "https://trilogyequity.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/trilogy-equity-partnership"
+    },
+    "capital": {
+      "aum": { "raw": "$300M+ invested", "usd": 300000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "$1M–$10M", "usd_min": 1000000, "usd_max": 10000000 },
+      "geo_focus": ["Greater Seattle", "Pacific Northwest"],
+      "sector_focus": ["saas-enterprise", "generalist"],
+      "thesis": "A closely held, evergreen fund taking a hands-on, long-haul approach to seed-stage founders in the Greater Seattle area and Pacific Northwest."
+    },
+    "track_record": {
+      "portfolio_count": "84",
+      "notable_investments": [
+        { "company": "Remitly", "sector": "fintech", "outcome": "IPO" },
+        { "company": "Owlet", "sector": "healthtech", "outcome": "IPO" },
+        { "company": "Skilljar", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Terry Gillespie", "role": "Managing Director" },
+      { "name": "Mikal Thomsen", "role": "Partner" },
+      { "name": "Peter Van Oppen", "role": "Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["seed", "bellevue", "evergreen"],
+    "summary": {
+      "en": "Trilogy Equity Partners is a Bellevue, WA evergreen/family-office venture fund formed in 2006 by former operators (Terry Gillespie, Mikal Thomsen, Peter Van Oppen). It has invested $300M+ across 84 companies with $1M–$10M checks, primarily seed-stage in the Greater Seattle area; investments include Remitly, Owlet and Skilljar."
+    },
+    "sources": [
+      {
+        "url": "https://trilogyequity.com",
+        "title": "Trilogy Equity Partners",
+        "publisher": "Trilogy Equity Partners",
+        "accessed": "2026-06-03",
+        "supports": "founding year, HQ, $300M+ invested, 84 companies, portfolio",
+        "quote": "$300M+ ... 84 Companies ... $2B+ Value Creation"
+      },
+      {
+        "url": "https://www.vcsheet.com/fund/trilogy-equity-partners",
+        "title": "Trilogy Equity Partners - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-03",
+        "supports": "check size, founders, stage",
+        "quote": "average check size is $1M-$10M ... founding partners include Terry Gillespie, Mikal Thomsen, and Peter Van Oppen"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-unlock-venture-partners",
+    "name": { "en": "Unlock Venture Partners" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Seattle",
+    "website": "https://unlockvp.com",
+    "offices": [
+      { "country": "United States", "city": "Seattle" },
+      { "country": "United States", "city": "Los Angeles" }
+    ],
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/unlock-venture-partners",
+      "linkedin": "https://www.linkedin.com/company/unlock-venture-partners"
+    },
+    "capital": {
+      "aum": { "raw": "$85M+ raised", "usd": 85000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund II", "vintage_year": null, "size": { "raw": "$60M", "usd": 60000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "geo_focus": ["Seattle", "Los Angeles"],
+      "sector_focus": ["ai-ml", "saas-enterprise"],
+      "thesis": "Backs entrepreneurs with deep conviction and unique insight on how to use data and AI to disrupt large industries, investing in Seattle- and Los Angeles-based startups."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Crowd Cow", "sector": "ecommerce", "outcome": "active" },
+        { "company": "Dolly", "sector": "logistics", "outcome": "acquired" },
+        { "company": "Concreit", "sector": "fintech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Andy Liu", "role": "Co-founder / Managing Partner" },
+      { "name": "Sanjay Reddy", "role": "Co-founder / Managing Partner" },
+      { "name": "Raazi Imam", "role": "Co-founder / Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["seed", "data-ai", "seattle-la"],
+    "summary": {
+      "en": "Unlock Venture Partners is a seed-stage firm dual-based in Seattle and Los Angeles, co-led by Andy Liu, Sanjay Reddy and Raazi Imam. It raised a $60M second fund (more than $85M total) to back data- and AI-driven startups disrupting large industries."
+    },
+    "sources": [
+      {
+        "url": "https://unlockvp.com/philosophy",
+        "title": "Philosophy | Unlock Venture Partners",
+        "publisher": "Unlock Venture Partners",
+        "accessed": "2026-06-03",
+        "supports": "thesis, data/AI focus, Seattle/LA",
+        "quote": "we invest in entrepreneurs that have deep conviction and unique insight on how best to utilize data and AI to disrupt large industries"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/unlock-venture-partners",
+        "title": "Unlock Venture Partners - Crunchbase Company Profile",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-03",
+        "supports": "$60M fund II, $85M+ total, co-founders",
+        "quote": "raised a $60 million fund ... has now raised more than $85 million ... co-led by Andy Liu ... Sanjay Reddy ... and Raazi Imam"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-wrf-capital",
+    "name": { "en": "WRF Capital" },
+    "aka": ["Washington Research Foundation Capital", "Washington Research Foundation"],
+    "type": "vc",
+    "subtypes": ["family-office"],
+    "status": "active",
+    "founded_year": 1996,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Seattle",
+    "website": "https://www.wrfseattle.org",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/wrf-capital-282a",
+      "linkedin": "https://www.linkedin.com/company/washington-research-foundation"
+    },
+    "capital": {
+      "aum": { "raw": "~$5M invested annually", "usd": 5000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "geo_focus": ["Washington"],
+      "sector_focus": ["biotech", "healthtech", "deeptech"],
+      "thesis": "Investment arm of the nonprofit Washington Research Foundation; backs Washington-based life-science, healthcare and enabling-technology spinouts from UW, WSU, Fred Hutch and ISB, often as first money in."
+    },
+    "track_record": {
+      "portfolio_count": "132"
+    },
+    "application": { "accepts_cold_inbound": true, "contact": "investments@wrfcapital.com" },
+    "tags": ["life-sciences", "university-spinout", "washington"],
+    "summary": {
+      "en": "WRF Capital is the venture investment arm of the nonprofit Washington Research Foundation in Seattle. Since 1996 it has invested in 132 Washington startups (about $5M/year), focusing on life-science and enabling-tech spinouts from UW, WSU, Fred Hutch and ISB at pre-seed through Series A, often as the first money in."
+    },
+    "sources": [
+      {
+        "url": "https://www.wrfseattle.org/startup-investments/",
+        "title": "Investing in Washington - Washington Research Foundation",
+        "publisher": "Washington Research Foundation",
+        "accessed": "2026-06-03",
+        "supports": "~$5M/year, 132 startups since 1996, life-science focus, stages",
+        "quote": "invest approximately $5 million annually in startup companies based in Washington ... Since 1996 they have invested in 132 local startups ... at the pre-seed, seed, and Series A stages"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-graham-walker",
+    "name": { "en": "Graham & Walker" },
+    "aka": ["Female Founders Alliance"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Seattle",
+    "website": "https://grahamwalker.com",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/graham-and-walker"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2021, "size": { "raw": "$10M", "usd": 10000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$25K–$400K", "usd_min": 25000, "usd_max": 400000 },
+      "geo_focus": ["United States"],
+      "sector_focus": ["generalist", "impact"],
+      "thesis": "Invests in technology companies led by women, deploying a fund whose investor base is two-thirds women and one-third people of color."
+    },
+    "track_record": {
+      "portfolio_count": "11+"
+    },
+    "people": [
+      { "name": "Leslie Feinzaig", "role": "Founder & CEO" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["women-founders", "diversity", "seattle"],
+    "summary": {
+      "en": "Graham & Walker is a Seattle venture fund founded in 2021 by Leslie Feinzaig (rebranded from the Female Founders Alliance). Its $10M debut fund invests $25K–$400K into women-led early-stage tech startups, with an investor base that is two-thirds women and one-third people of color."
+    },
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2021/10/14/female-founders-alliance-graham-walker/",
+        "title": "Female Founders Alliance raises a $10M fund, renames to Graham & Walker",
+        "publisher": "TechCrunch",
+        "accessed": "2026-06-03",
+        "supports": "rebrand, $10M fund, founder, women-led focus",
+        "quote": "Graham & Walker unveiled a $10 million venture fund that will invest in technology companies led by women"
+      },
+      {
+        "url": "https://www.geekwire.com/2021/female-founders-alliance-changes-name-graham-walker-raises-10m-venture-capital-fund/",
+        "title": "New Seattle VC firm raises $10M fund to back women-led startups",
+        "publisher": "GeekWire",
+        "accessed": "2026-06-03",
+        "supports": "check size $25K-$400K, 11 investments, investor base",
+        "quote": "average check size is between $25,000 and $400,000 for pre-seed and seed rounds ... already made 11 investments"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-seachange-fund",
+    "name": { "en": "SeaChange Fund" },
+    "aka": ["Seattle Angel Fund"],
+    "type": "angel-network",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Seattle",
+    "website": "https://seachange.fund",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/seattle-angel-fund",
+      "linkedin": "https://www.linkedin.com/company/seachangefund"
+    },
+    "capital": {
+      "funds": [
+        { "name": "SeaChange Fund", "vintage_year": null, "size": { "raw": "$4.6M", "usd": 4600000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed"],
+      "check_size": { "raw": "$500K–$600K", "usd_min": 500000, "usd_max": 600000 },
+      "geo_focus": ["Pacific Northwest"],
+      "sector_focus": ["generalist"],
+      "thesis": "Operates a 'Rule of One' model — one investor as point of contact, one month of due diligence, then one large check — making concentrated seed bets in PNW startups."
+    },
+    "track_record": {
+      "portfolio_count": "15+"
+    },
+    "people": [
+      { "name": "Susan Preston", "role": "Managing Member" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["angel", "seed", "rule-of-one"],
+    "summary": {
+      "en": "SeaChange Fund (founded 2015 as Seattle Angel Fund), led by Susan Preston, is a Seattle angel/seed fund that raised a $4.6M fund and has invested $5M+ in 15+ Pacific Northwest startups. Its 'Rule of One' model cuts single $500K–$600K checks after one month of diligence."
+    },
+    "sources": [
+      {
+        "url": "https://pitchbook.com/news/articles/seattle-angel-fund-rebrands-with-launch-of-seachange-its-largest-raise-to-date",
+        "title": "Seattle Angel Fund rebrands with launch of SeaChange, its largest raise to date",
+        "publisher": "PitchBook",
+        "accessed": "2026-06-03",
+        "supports": "managing member, Rule of One, check size $500-600K, 15 startups",
+        "quote": "Susan Preston, now the managing member at Seattle's SeaChange Fund ... cutting checks that range from $500,000 to $600,000"
+      },
+      {
+        "url": "https://seattlebusinessmag.com/seattle-angel-fund-raises-46-million-rebrands-seachange/",
+        "title": "Seattle Angel Fund Raises $4.6 Million, Rebrands as 'SeaChange'",
+        "publisher": "Seattle Business magazine",
+        "accessed": "2026-06-03",
+        "supports": "$4.6M raise, rebrand",
+        "quote": "Seattle Angel Fund Raises $4.6 Million, Rebrands as 'SeaChange'"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-ventureus",
+    "name": { "en": "VentureUs" },
+    "type": "angel-network",
+    "status": "active",
+    "founded_year": 2024,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Seattle",
+    "website": "https://ventureus.org",
+    "links": {
+      "other": ["https://ventureus.org/apply-for-funding/"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$100K–$400K", "usd_min": 100000, "usd_max": 400000 },
+      "geo_focus": ["Pacific Northwest"],
+      "sector_focus": ["generalist"],
+      "thesis": "Annual-fund angel group making 6–10 pre-seed and seed investments per year across the Pacific Northwest; an investment board (not member votes) makes the final call."
+    },
+    "team_size": "40+ investors",
+    "people": [
+      { "name": "Keith Laepple", "role": "Managing Partner" },
+      { "name": "Jonathan Kagle", "role": "Managing Partner" },
+      { "name": "Jenn Wrenn Henry", "role": "Managing Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["angel", "pacific-northwest", "ex-seachange"],
+    "summary": {
+      "en": "VentureUs is a Seattle angel group launched in 2024 by ex-SeaChange investors Keith Laepple, Jonathan Kagle and Jenn Wrenn Henry. Its 40+ members make 6–10 pre-seed/seed investments per year across the PNW, writing $100K–$400K checks, with a dedicated investment board making final decisions."
+    },
+    "sources": [
+      {
+        "url": "https://www.geekwire.com/2024/former-seachange-investors-form-new-angel-group-in-seattle-backing-early-stage-startups/",
+        "title": "Former SeaChange investors form new angel group in Seattle backing early stage startups",
+        "publisher": "GeekWire",
+        "accessed": "2026-06-03",
+        "supports": "founders, 6-10/yr, $100K-$400K, 40+ investors, 2024 launch",
+        "quote": "make 6-to-10 investments per year ... invest between $100,000 to $400,000 for each check. There are more than 40 investors in the group"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-cascade-seed-fund",
+    "name": { "en": "Cascade Seed Fund" },
+    "aka": ["Cascade Angels Fund", "44North Ventures"],
+    "type": "micro-vc",
+    "subtypes": ["angel-network"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Bend",
+    "website": "https://cascadeseedfund.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/cascade-angels-fund",
+      "linkedin": "https://www.linkedin.com/company/cascadeseedfund"
+    },
+    "capital": {
+      "aum": { "raw": "$6.5M+ across predecessor funds", "usd": 6500000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "~$200K–$250K", "usd_min": 200000, "usd_max": 250000 },
+      "geo_focus": ["Oregon", "Pacific Northwest"],
+      "sector_focus": ["generalist"],
+      "thesis": "Backs overlooked founders — market disruptors, minorities and entrepreneurs outside major metros and in rural communities — at the earliest stages across the Pacific Northwest."
+    },
+    "track_record": {
+      "portfolio_count": "30+"
+    },
+    "people": [
+      { "name": "Julie Harrelson", "role": "Managing Partner (44North Ventures)" },
+      { "name": "Robert Pease", "role": "Managing Partner (44North Ventures)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["bend-oregon", "rural", "underrepresented-founders"],
+    "summary": {
+      "en": "Cascade Seed Fund (founded 2013 as Cascade Angels Fund, managed by 44North Ventures under Julie Harrelson and Robert Pease) is a Bend, Oregon early-stage fund. Across five predecessor funds it deployed $6.5M+ into 30+ companies, writing ~$200K–$250K checks into overlooked and rural PNW founders."
+    },
+    "sources": [
+      {
+        "url": "https://cascadeseedfund.com/cascade-angels-fund-becomes-cascade-seed-fund/",
+        "title": "Cascade Angels Fund Becomes Cascade Seed Fund",
+        "publisher": "Cascade Seed Fund",
+        "accessed": "2026-06-03",
+        "supports": "2013 founding, $6.5M+, 30+ investments, managers",
+        "quote": "Julie Harrelson founded Cascade Angels Fund in 2013 and managed all five predecessor funds ... totaling over $6.5 million in early stage capital and over 30 investments"
+      },
+      {
+        "url": "https://www.vcsheet.com/fund/cascade-seed-fund",
+        "title": "Cascade Seed Fund - VC Fund Breakdown",
+        "publisher": "VC Sheet",
+        "accessed": "2026-06-03",
+        "supports": "Bend HQ, ~$200-250K check size",
+        "quote": "writes $250K checks into early Pacific Northwest and under-the-radar startups"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-portland-seed-fund",
+    "name": { "en": "Portland Seed Fund" },
+    "type": "micro-vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2010,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Portland",
+    "website": "https://www.portlandseedfund.com",
+    "capital": {
+      "aum": { "raw": "$45M across five funds", "usd": 45000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Portland", "Pacific Northwest"],
+      "sector_focus": ["deeptech", "generalist"],
+      "thesis": "Public-private early-stage fund demonstrating that small checks across a diverse range of sectors and entrepreneurs can generate superior returns and regional economic impact."
+    },
+    "track_record": {
+      "portfolio_count": "200+",
+      "notable_investments": [
+        { "company": "Auth0", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "ESS Inc", "sector": "climate-energy", "outcome": "IPO" }
+      ]
+    },
+    "people": [
+      { "name": "Angela Jackson", "role": "Managing Director" },
+      { "name": "Jenn Lynch", "role": "Managing Director" },
+      { "name": "Steve Eichenlaub", "role": "Managing Director" }
+    ],
+    "application": { "accepts_cold_inbound": true, "contact": "info@portlandseedfund.com" },
+    "tags": ["portland", "public-private", "early-stage"],
+    "summary": {
+      "en": "Portland Seed Fund is a public-private early-stage fund founded in 2010, managing $45M across five funds and having backed 200+ capital-efficient companies. Exits include Auth0 (acquired by Okta) and ESS Inc (NYSE IPO)."
+    },
+    "sources": [
+      {
+        "url": "https://www.portlandseedfund.com/",
+        "title": "Portland Seed Fund",
+        "publisher": "Portland Seed Fund",
+        "accessed": "2026-06-03",
+        "supports": "2010 founding, $45M/five funds, 200+ companies, managers, exits",
+        "quote": "$45M under management across five funds ... 200+ capital efficient companies"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-seven-peaks-ventures",
+    "name": { "en": "Seven Peaks Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc"],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Bend",
+    "website": "https://www.sevenpeaksventures.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/seven-peaks-ventures"
+    },
+    "capital": {
+      "funds": [
+        { "name": "Fund I", "vintage_year": 2013, "size": { "raw": "$15M", "usd": 15000000, "currency": "USD" } },
+        { "name": "Fund II", "vintage_year": 2018, "size": { "raw": "$28M", "usd": 28000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "geo_focus": ["Pacific Northwest", "Western US"],
+      "sector_focus": ["ai-ml", "robotics", "spacetech", "climate-energy", "fintech", "cybersecurity"],
+      "thesis": "Early-stage fund hunting scalable software and frontier-tech deals in regional startup hubs outside Silicon Valley; partners with entrepreneurs to build category-leading businesses."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Stoke Space", "sector": "spacetech", "outcome": "active" },
+        { "company": "Lunar Outpost", "sector": "spacetech", "outcome": "active" },
+        { "company": "CrowdStreet", "sector": "proptech", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Dino Vendetti", "role": "Founder & Managing Partner" },
+      { "name": "Tom Gonser", "role": "Partner" },
+      { "name": "Joe Franzi", "role": "CFO" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["bend-oregon", "frontier-tech", "non-coastal"],
+    "summary": {
+      "en": "Seven Peaks Ventures is a Bend, Oregon early-stage firm founded in 2013 by Dino Vendetti (ex-Bay Partners/Vulcan Ventures). It raised a $15M Fund I and a $28M Fund II (2018, then Oregon's largest), investing in AI, robotics, space-tech and fintech across PNW and Western US hubs; portfolio includes Stoke Space and Lunar Outpost."
+    },
+    "sources": [
+      {
+        "url": "https://bendbulletin.com/2013/12/20/seven-peaks-ventures-launches-in-bend/",
+        "title": "Seven Peaks Ventures launches in Bend",
+        "publisher": "The Bulletin",
+        "accessed": "2026-06-03",
+        "supports": "2013 founding, Bend HQ, founder, $15M Fund I",
+        "quote": "Seven Peaks Ventures was founded by Dino Vendetti in 2013 and is based in Bend, Oregon"
+      },
+      {
+        "url": "https://www.prnewswire.com/news-releases/seven-peaks-ventures-corrals-28-million-to-accelerate-startup-growth-in-pacific-northwest-and-western-us-regional-startup-hubs-300711934.html",
+        "title": "Seven Peaks Ventures Corrals $28 Million",
+        "publisher": "PR Newswire",
+        "accessed": "2026-06-03",
+        "supports": "$28M Fund II, regional hub focus",
+        "quote": "Seven Peaks Ventures Corrals $28 Million to Accelerate Startup Growth in Pacific Northwest and Western US Regional Startup Hubs"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-elevate-capital",
+    "name": { "en": "Elevate Capital" },
+    "type": "vc",
+    "subtypes": ["micro-vc", "impact"],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Beaverton",
+    "website": "https://elevate.vc",
+    "links": {
+      "other": ["https://elevate.vc/team/"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$25K–$2M (varies by fund)", "usd_min": 25000, "usd_max": 2000000 },
+      "geo_focus": ["Oregon", "Pacific Northwest"],
+      "sector_focus": ["saas-enterprise", "healthtech", "consumer", "impact"],
+      "thesis": "An inclusive venture fund targeting underserved entrepreneurs — women, ethnic minorities, LGBTQ+ and veterans — who have limited access to regional capital."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "BlendScore", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Goumi Kids", "sector": "consumer", "outcome": "active" }
+      ]
+    },
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["beaverton-oregon", "diversity", "inclusive"],
+    "summary": {
+      "en": "Elevate Capital is an inclusive venture fund in Beaverton, Oregon backing underserved entrepreneurs (women, ethnic minorities, LGBTQ+, veterans). Across its Inclusive Fund, Fund II and Innovation Gap Fund it writes $25K–$2M checks at pre-seed through Series A into SaaS, healthcare, CPG and sustainability."
+    },
+    "sources": [
+      {
+        "url": "https://elevate.vc/",
+        "title": "Elevate Capital",
+        "publisher": "Elevate Capital",
+        "accessed": "2026-06-03",
+        "supports": "HQ Beaverton, check sizes, stages, inclusive thesis",
+        "quote": "Inclusive Fund: $25k to $100k / Investment ... Fund II: $100k up to $2 Million ... An Inclusive Venture Capital Fund"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year (~2016) inferred from secondary profiles; not stated on official site fetched.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-3x5-partners",
+    "name": { "en": "3x5 Partners" },
+    "aka": ["3×5 Partners"],
+    "type": "vc",
+    "subtypes": ["growth-equity", "impact"],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Portland",
+    "website": "https://www.3x5partners.com",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/3x5-partners"
+    },
+    "capital": {
+      "aum": { "raw": "$400M+ invested", "usd": 400000000, "currency": "USD" },
+      "funds": [
+        { "name": "Fund III", "vintage_year": 2021, "size": { "raw": "$100M", "usd": 100000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-a", "series-b", "growth"],
+      "geo_focus": ["United States"],
+      "sector_focus": ["biotech", "healthtech", "climate-energy", "impact"],
+      "thesis": "Impact-oriented growth VC investing in companies addressing global health and climate crises (biotech, medical devices, diagnostics, clean technology), guided by the belief that human and planetary health are intertwined."
+    },
+    "application": { "accepts_cold_inbound": false },
+    "tags": ["portland", "impact", "growth"],
+    "summary": {
+      "en": "3x5 Partners is a Portland, Oregon impact-oriented growth VC founded in 2011, investing in health and climate solutions (biotech, medical devices, diagnostics, cleantech). It has invested $400M+ across multiple funds, including a $100M Fund III (2021); the impact team is being acquired by American Century Investments."
+    },
+    "sources": [
+      {
+        "url": "https://www.businesswire.com/news/home/20210316005295/en/3x5-Partners-Closes-Third-Fund-at-$100-Million",
+        "title": "3x5 Partners Closes Third Fund at $100 Million",
+        "publisher": "Business Wire",
+        "accessed": "2026-06-03",
+        "supports": "$100M Fund III, Portland HQ, 2011 founding, $400M+",
+        "quote": "Established in Portland, Oregon in 2011 and with over $400M in capital invested ... most recent $100 million Fund III"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-founder-first-fund",
+    "name": { "en": "Founder First Fund" },
+    "aka": ["Founder First Fund PDX", "1859 Ventures"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Portland",
+    "website": "https://www.founderfirst.vc",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/founderfirstfundpdx",
+      "other": ["https://www.founderfirst.vc/team"]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Pacific Northwest", "Oregon"],
+      "sector_focus": ["saas-enterprise", "climate-energy", "deeptech", "ai-ml", "fintech"],
+      "thesis": "First-money-in fund backing underrepresented founders across the Pacific Northwest in software, clean tech, deep tech, B2B SaaS, fintech and AI/ML — aiming to narrow the wealth gap."
+    },
+    "people": [
+      { "name": "Josh Carter", "role": "General Partner" },
+      { "name": "Justin Vandehey", "role": "General Partner" },
+      { "name": "Bobby Napiltonia", "role": "Venture Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["portland", "underrepresented-founders", "first-money-in"],
+    "summary": {
+      "en": "Founder First Fund is a Portland, Oregon pre-seed/seed firm raising its inaugural fund (led by Josh Carter and Justin Vandehey, with venture partner Bobby Napiltonia). It backs underrepresented founders across the PNW in software, clean tech, deep tech, B2B SaaS, fintech and AI/ML; backers include Plug and Play's Saeed Amidi."
+    },
+    "sources": [
+      {
+        "url": "https://www.geekwire.com/2025/new-fund-in-portland-aims-to-back-early-stage-startups-across-the-pacific-northwest/",
+        "title": "New fund in Portland aims to back early stage startups across the Pacific Northwest",
+        "publisher": "GeekWire",
+        "accessed": "2026-06-03",
+        "supports": "founders, stage, sector focus, underrepresented focus, backers",
+        "quote": "led by Josh Carter ... along with general partner Justin Vandehey ... added former Twilio exec Bobby Napiltonia as a venture partner ... focuses on underrepresented founders and industries like software, clean tech, deep tech, and AI/ML"
+      },
+      {
+        "url": "https://www.founderfirst.vc/",
+        "title": "Founder First Fund",
+        "publisher": "Founder First Fund",
+        "accessed": "2026-06-03",
+        "supports": "Portland HQ, first-money-in, wealth-gap thesis",
+        "quote": "narrow the wealth gap, help the founders who need help the most, and fuel growth at the earliest stages"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-oregon-venture-fund",
+    "name": { "en": "Oregon Venture Fund" },
+    "aka": ["OVF", "Oregon Angel Fund"],
+    "type": "vc",
+    "subtypes": ["angel-network"],
+    "status": "active",
+    "founded_year": 2007,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Portland",
+    "website": "https://www.oregonventurefund.com",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/oregon-venture-fund",
+      "other": ["https://en.wikipedia.org/wiki/Oregon_Venture_Fund"]
+    },
+    "capital": {
+      "aum": { "raw": "$180M+ invested from OVF", "usd": 180000000, "currency": "USD" }
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "$500K–$5M (up to $10M lifetime/company)", "usd_min": 500000, "usd_max": 5000000 },
+      "geo_focus": ["Oregon", "SW Washington"],
+      "sector_focus": ["saas-enterprise", "fintech", "biotech"],
+      "thesis": "Brings together 180+ venture partners (85% of whom founded or led a company) to invest in the best Oregon and SW Washington startups from pre-seed through Series A."
+    },
+    "track_record": {
+      "portfolio_count": "79"
+    },
+    "people": [
+      { "name": "Eric Rosenfeld", "role": "Fund Development" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["oregon", "investor-network", "early-stage"],
+    "summary": {
+      "en": "Oregon Venture Fund is a Portland-based, network-driven fund (180+ venture partners, 85% former founders/operators) investing in Oregon and SW Washington startups from pre-seed through Series A with $500K–$5M checks (up to $10M lifetime). It has deployed $180M+ across 79 startups, driving $1.8B in follow-on capital."
+    },
+    "sources": [
+      {
+        "url": "https://www.oregonventurefund.com/about-us",
+        "title": "About Us — Oregon Venture Fund",
+        "publisher": "Oregon Venture Fund",
+        "accessed": "2026-06-03",
+        "supports": "check size, stage, 180+ partners, thesis",
+        "quote": "OVF's $500K to $5M checks from pre-seed through Series A ... 180+ venture partners ... 85% of whom have founded or led a company themselves"
+      },
+      {
+        "url": "https://www.oregonventurefund.com/",
+        "title": "Oregon Venture Fund",
+        "publisher": "Oregon Venture Fund",
+        "accessed": "2026-06-03",
+        "supports": "$180M+ invested, 79 startups, $1.8B follow-on",
+        "quote": "$180M+ from OVF, $1.8B in follow-on capital, 79 startups funded"
+      }
+    ],
+    "confidence": "high",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-kernel-labs",
+    "name": { "en": "Kernel Labs" },
+    "type": "venture-studio",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Seattle",
+    "website": "https://kernellabs.io",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/kernel-labs",
+      "linkedin": "https://www.linkedin.com/company/kernellabs"
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Seattle"],
+      "sector_focus": ["ai-ml", "cybersecurity"],
+      "thesis": "Seattle startup studio with deep expertise in machine learning, computer vision and security that builds and disrupts big markets, taking ideas from concept to company."
+    },
+    "track_record": {
+      "portfolio_count": "10",
+      "notable_investments": [
+        { "company": "Blue Canoe", "sector": "edtech", "outcome": "active" },
+        { "company": "Forma Vision", "sector": "ai-ml", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Amit Mital", "role": "CEO / Founder" },
+      { "name": "Adam Kirk", "role": "Co-founder (Ph.D. Computer Vision)" }
+    ],
+    "application": { "accepts_cold_inbound": false },
+    "tags": ["startup-studio", "machine-learning", "computer-vision"],
+    "summary": {
+      "en": "Kernel Labs is a Seattle startup studio founded in 2015 by Amit Mital, with deep expertise in machine learning, computer vision and security. It builds companies from concept to market and has spun up ~10 companies including Blue Canoe and Forma Vision."
+    },
+    "sources": [
+      {
+        "url": "https://kernellabs.io/",
+        "title": "Kernel Labs",
+        "publisher": "Kernel Labs",
+        "accessed": "2026-06-03",
+        "supports": "Seattle studio, ML/CV/security expertise, CEO",
+        "quote": "Kernel Labs is a start-up studio based in Seattle with deep expertise in machine learning, computer vision, and security"
+      },
+      {
+        "url": "https://comotion.uw.edu/startups/kernel-labs/",
+        "title": "Kernel Labs - UW CoMotion",
+        "publisher": "University of Washington CoMotion",
+        "accessed": "2026-06-03",
+        "supports": "2015 founding",
+        "quote": "Founded in 2015, Kernel Labs is a start-up studio based in Seattle, Washington"
+      }
+    ],
+    "confidence": "medium",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-pie-portland-incubator-experiment",
+    "name": { "en": "PIE (Portland Incubator Experiment)" },
+    "aka": ["Portland Incubator Experiment", "PIE PDX"],
+    "type": "accelerator",
+    "subtypes": ["incubator"],
+    "status": "active",
+    "founded_year": 2009,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Portland",
+    "website": "http://www.piepdx.com",
+    "links": {
+      "linkedin": "https://www.linkedin.com/company/pie-portland-incubator-experiment",
+      "other": ["https://en.wikipedia.org/wiki/Portland_Incubator_Experiment"]
+    },
+    "program": {
+      "length_weeks": 12,
+      "equity_taken_pct": "6%",
+      "investment": { "raw": "$18,000", "usd": 18000, "currency": "USD" },
+      "format": "in-person",
+      "location": "Portland, OR (Wieden+Kennedy offices)",
+      "demo_day": true,
+      "eligibility": "Early-stage startups (SaaS, manufactured objects, consumer products)"
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Portland", "Oregon"],
+      "sector_focus": ["saas-enterprise", "consumer", "hardware-semiconductor"],
+      "thesis": "A community-development and ecosystem-building program disguised as a startup accelerator, run by ad agency Wieden+Kennedy to connect established institutions with the Portland startup community."
+    },
+    "people": [
+      { "name": "Rick Turoczy", "role": "Co-founder" },
+      { "name": "Renny Gleeson", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["portland", "accelerator", "wieden-kennedy"],
+    "summary": {
+      "en": "PIE (Portland Incubator Experiment) is a Portland accelerator informally launched in 2009 (formal program 2011) and run by ad agency Wieden+Kennedy, co-founded by Rick Turoczy and Renny Gleeson. Participants receive $18,000 for a 6% stake over a roughly three-month in-person program."
+    },
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Portland_Incubator_Experiment",
+        "title": "Portland Incubator Experiment - Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-03",
+        "supports": "founders, $18K for 6%, 3 months, W+K",
+        "quote": "Participants receive $18,000 in seed money in exchange for six percent stakes and spend three months at W+K's Northwest Portland offices"
+      },
+      {
+        "url": "http://www.piepdx.com/about",
+        "title": "About — PIE - Portland Incubator Experiment",
+        "publisher": "PIE",
+        "accessed": "2026-06-03",
+        "supports": "ecosystem-building mission, W+K origins",
+        "quote": "PIE is a community development and ecosystem building program disguised as a startup accelerator"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Program may run intermittently/virtually; $18K-for-6% terms reflect historic in-person cohorts.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-archivist-capital",
+    "name": { "en": "Archivist Capital" },
+    "aka": ["Archivist"],
+    "type": "micro-vc",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Portland",
+    "website": "https://www.archivist.vc",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/organization/archivist-capital"
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "~$500K–$1.25M", "usd_min": 500000, "usd_max": 1250000 },
+      "geo_focus": ["Portland", "United States"],
+      "sector_focus": ["saas-enterprise", "ai-ml"],
+      "thesis": "Invests in early-stage and seed-stage innovative technology companies, founded by Portland software executive Stephen Marsh."
+    },
+    "track_record": {
+      "portfolio_count": "3+",
+      "notable_investments": [
+        { "company": "Streem", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Responsive (RFPIO)", "sector": "saas-enterprise", "outcome": "active" },
+        { "company": "Brandlive", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Stephen Marsh", "role": "Founder / Partner" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["portland", "seed", "software"],
+    "summary": {
+      "en": "Archivist Capital is a Portland, Oregon seed-stage firm founded in 2015 by software executive Stephen Marsh, investing in early-stage innovative tech companies with average seed rounds around $1.25M. Portfolio includes Streem (acquired by Frontdoor), Responsive (RFPIO) and Brandlive."
+    },
+    "sources": [
+      {
+        "url": "https://www.crunchbase.com/organization/archivist-capital",
+        "title": "Archivist - Crunchbase Company Profile",
+        "publisher": "Crunchbase",
+        "accessed": "2026-06-03",
+        "supports": "2015 founding, Portland, founder, seed focus, round size",
+        "quote": "Archivist is a venture capital firm founded in 2015, primarily based out of Portland ... founded by Portland software executive Stephen Marsh ... average round size of $1.25M"
+      },
+      {
+        "url": "https://www.responsive.io/news/rfpio-receives-financing-from-archivist-capital",
+        "title": "Archivist Capital Invests Additional $500K in Responsive",
+        "publisher": "Responsive",
+        "accessed": "2026-06-03",
+        "supports": "$500K follow-on check, portfolio company",
+        "quote": "Archivist Capital Invests Additional $500K in Responsive"
+      }
+    ],
+    "confidence": "medium",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-curious-capital",
+    "name": { "en": "Curious Capital" },
+    "aka": ["Curious", "Curious VC"],
+    "type": "micro-vc",
+    "subtypes": ["angel-syndicate"],
+    "status": "active",
+    "founded_year": 2017,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Seattle",
+    "website": "https://www.curiouscapital.com",
+    "links": {
+      "crunchbase": "https://www.cbinsights.com/investor/curious-capital",
+      "linkedin": "https://www.linkedin.com/company/curiouscapital"
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": "$25K–$100K", "usd_min": 25000, "usd_max": 100000 },
+      "geo_focus": ["Pacific Northwest", "Seattle"],
+      "sector_focus": ["saas-enterprise", "generalist"],
+      "thesis": "A young pre-seed/seed fund backing Pacific Northwest companies that exhibit 'intellectual curiosity.'"
+    },
+    "track_record": {
+      "portfolio_count": "8",
+      "notable_investments": [
+        { "company": "Streem", "sector": "saas-enterprise", "outcome": "acquired" },
+        { "company": "Ad Lightning", "sector": "saas-enterprise", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Andrew Dumont", "role": "Co-founder" },
+      { "name": "Cameron Borumand", "role": "Co-founder" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["seattle", "pre-seed", "intellectual-curiosity"],
+    "summary": {
+      "en": "Curious Capital is a Seattle pre-seed/seed micro-fund founded in 2017 by Andrew Dumont and Cameron Borumand. It writes $25K–$100K checks into Pacific Northwest startups exhibiting 'intellectual curiosity,' with ~8 investments and 4 exits including Streem and Ad Lightning."
+    },
+    "sources": [
+      {
+        "url": "https://www.cbinsights.com/investor/curious-capital",
+        "title": "Curious Capital Portfolio Investments",
+        "publisher": "CB Insights",
+        "accessed": "2026-06-03",
+        "supports": "founders, 2017, check size, portfolio, exits",
+        "quote": "established by Andrew Dumont and Cameron Borumand in 2017 ... check size ... between $25,000 to $100,000 ... made 8 investments ... 4 portfolio exits"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Activity appears concentrated 2017–2019; current investing cadence uncertain.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  },
+  {
+    "id": "us-intentional-ventures",
+    "name": { "en": "Intentional Ventures" },
+    "type": "vc",
+    "subtypes": ["micro-vc", "impact"],
+    "status": "active",
+    "founded_year": null,
+    "region": "united-states",
+    "country": "United States",
+    "hq_city": "Seattle",
+    "website": "https://www.intentional.vc",
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "geo_focus": ["Pacific Northwest"],
+      "sector_focus": ["climate-energy", "healthtech", "edtech", "impact"],
+      "thesis": "Impact VC investing in pre-seed to seed-stage women and BIPOC founders driving climate, health and edtech innovation, with ~80% of capital deployed locally."
+    },
+    "track_record": {
+      "portfolio_count": null
+    },
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["seattle", "impact", "women-bipoc-founders"],
+    "summary": {
+      "en": "Intentional Ventures is a Pacific Northwest impact VC backing pre-seed to seed women and BIPOC founders in climate, health and edtech, with roughly 80% of capital deployed locally; its portfolio skews women-led (65%), BIPOC (50%) and rural (30%)."
+    },
+    "sources": [
+      {
+        "url": "https://www.betaboom.com/magazine/article/seattles-top-5-early-stage-vcs-firms-for-founders",
+        "title": "Seattle's Top 5 Early-Stage VC Funds for New Founders",
+        "publisher": "Beta Boom",
+        "accessed": "2026-06-03",
+        "supports": "impact focus, stage, women/BIPOC, local deployment",
+        "quote": "the Pacific Northwest's premier impact VC, investing in pre-seed to seed stage women/BIPOC founders driving climate, health and edtech innovation ... 80% local capital deployment"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "Founding year, fund size and portfolio count unverified; corroborated only by a secondary directory profile.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-us-pnw"
+  }
+]

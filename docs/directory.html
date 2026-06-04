@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>完整名錄 · All-VC-Info</title>
+  <meta name="description" content="完整可篩選的投資機構名錄:地區 × 類型 × 產業 × 階段 多軸篩選 + 全文搜尋,點任一卡片看全部面向與來源佐證。" />
+  <link rel="canonical" href="https://tingwei161803.github.io/all-vc-info/directory.html" />
+  <meta name="theme-color" content="#6750A4" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='88'%3E%F0%9F%8F%A6%3C/text%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,400..700&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <header class="appbar"><div class="appbar__inner">
+    <a class="brand" href="index.html"><span class="material-symbols-rounded brand__logo">account_balance</span><span class="brand__name" id="brandName">All-VC-Info</span></a>
+    <div class="appbar__actions">
+      <a class="gh-star" id="ghStar" href="https://github.com/tingwei161803/all-vc-info" data-repo="tingwei161803/all-vc-info" target="_blank" rel="noopener" aria-label="GitHub"><span class="material-symbols-rounded">star</span><span class="gh-star__count" id="ghStarCount">★</span></a>
+      <button class="icon-btn" id="langToggle" type="button" aria-label="Toggle language / 切換語言"><span class="material-symbols-rounded">translate</span><span class="icon-btn__txt" id="langLabel">中</span></button>
+      <button class="icon-btn" id="themeToggle" type="button" aria-label="Toggle theme / 切換主題"><span class="material-symbols-rounded" id="themeIcon">dark_mode</span></button>
+    </div>
+  </div></header>
+  <nav class="siterail" id="siteRail" aria-label="Site navigation"></nav>
+  <nav class="sectionnav" id="sectionNav" aria-label="Section navigation"><div class="sectionnav__inner" id="sectionNavInner"></div></nav>
+  <span id="top"></span>
+  <main id="sections" aria-live="polite"></main>
+  <dialog class="dialog" id="dialog" aria-labelledby="dialogTitle">
+    <div class="dialog__bar">
+      <button class="icon-btn" id="dialogPrev" type="button" aria-label="Previous / 上一個"><span class="material-symbols-rounded">chevron_left</span></button>
+      <button class="icon-btn" id="dialogNext" type="button" aria-label="Next / 下一個"><span class="material-symbols-rounded">chevron_right</span></button>
+      <span class="dialog__spacer"></span>
+      <button class="icon-btn" id="dialogClose" type="button" aria-label="Close / 關閉"><span class="material-symbols-rounded">close</span></button>
+    </div>
+    <div class="dialog__body" id="dialogBody"></div>
+  </dialog>
+  <footer class="footer"><p id="footerText"></p></footer>
+  <script>
+  window.SITE_PAGE = {
+    id:"directory", kind:"directory",
+    title:{en:"Full directory", zh:"完整名錄"},
+    sections:[ {type:"directory", id:"directory",
+      title:{en:"Browse all organizations", zh:"瀏覽全部機構"},
+      sub:{en:"Filter by region × type × sector × stage, search by name / country / thesis / portfolio, and open any card for its full detail and sources.",
+           zh:"以 地區 × 類型 × 產業 × 階段 篩選,用 機構名 / 國家 / 論點 / 被投公司 搜尋,點任一卡片看完整資料與來源佐證。"}} ]
+  };
+  </script>
+  <script src="data/meta.js"></script>
+  <script src="data/index.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

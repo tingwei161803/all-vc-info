@@ -1,0 +1,609 @@
+[
+  {
+    "id": "jp-japan-energy-fund",
+    "name": { "en": "Japan Energy Fund", "local": "ジャパン・エナジー・ファンド" },
+    "aka": ["JEF"],
+    "type": "vc",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.japanenergyfund-ventures.com/",
+    "links": { "other": ["https://www.japanenergyfund-ventures.com/strategy"] },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "$50M (2nd fund target)", "usd": 50000000, "currency": "USD" },
+      "funds": [
+        { "name": "Japan Energy Fund II", "vintage_year": null, "size": { "raw": "$50M target", "usd": 50000000, "currency": "USD" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["series-b", "series-c-plus", "growth"],
+      "check_size": { "raw": "$1-3M per company", "usd_min": 1000000, "usd_max": 3000000 },
+      "lead_or_follow": "follow",
+      "geo_focus": ["United States", "Europe", "Japan"],
+      "sector_focus": ["climate-energy", "deeptech"],
+      "thesis": "Climate-tech fund accelerating Japan's transition to a decarbonized society by investing in leading climate technology (battery tech, smart meters, offshore wind, virtual power plants, demand response) in US/European startups with potential to scale in Japan. Describes itself as the only fund from Japan purely focused on climate tech and US/Europe startups."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "LEAP", "sector": "distributed energy", "outcome": "active" },
+        { "company": "Ambri", "sector": "long-duration battery", "outcome": "active" },
+        { "company": "Sense", "sector": "home energy monitoring", "outcome": "active" },
+        { "company": "Akselos", "sector": "infrastructure digital twins", "outcome": "active" }
+      ],
+      "co_investors": ["BIPROGY", "ENECHANGE", "Toshiba Energy Systems & Solutions", "Sumitomo Mitsui Trust Bank"]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["climate", "decarbonization", "climate-tech", "energy"],
+    "summary": {
+      "en": "Tokyo-based climate-tech venture fund founded in 2019 to accelerate Japan's decarbonization by backing leading US/European climate-tech startups (battery, offshore wind, VPP, demand response). Second fund targets US$50M, with $1-3M checks at Series B and beyond. LPs/partners include BIPROGY, ENECHANGE, Toshiba Energy Systems and Sumitomo Mitsui Trust Bank.",
+      "local": "2019年設立、日本の脱炭素化を加速するため、世界（特に米欧）の有力な気候テック・スタートアップに投資する東京拠点のクライメートテック・ファンド。2号ファンドは5,000万米ドルを目標とし、1社あたり100〜300万米ドルを投資。"
+    },
+    "sources": [
+      { "url": "https://www.japanenergyfund-ventures.com/", "title": "Venture Capital Fund | Japan Energy Fund", "publisher": "Japan Energy Fund", "accessed": "2026-06-03", "supports": "founded year, HQ, climate-tech focus, partners", "quote": "Japan Energy Fund aims to accelerate the transition to a decarbonized society in Japan by investing in leading climate tech solutions around the world." },
+      { "url": "https://www.japanenergyfund-ventures.com/strategy", "title": "Strategy | Japan Energy Fund", "publisher": "Japan Energy Fund", "accessed": "2026-06-03", "supports": "check size, $50M fund target, stage", "quote": "the only fund from Japan that is purely focused on climate tech and investing in US/European startups" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Stage and check-size figures from secondary summary of the official site; precise current-fund close not officially disclosed beyond $50M target.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "jp-zebras-and-company",
+    "name": { "en": "Zebras and Company", "local": "株式会社ゼブラアンドカンパニー" },
+    "aka": ["Zebras & Company"],
+    "type": "vc",
+    "subtypes": ["venture-studio"],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.zebrasand.co.jp/",
+    "links": {
+      "other": ["https://www.zebrasand.co.jp/en/about", "https://www.zebrasand.co.jp/1276"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "¥100M raised (2021, direct investment, not a fund)", "usd": null, "currency": "JPY" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["seed", "series-a", "all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["impact", "generalist"],
+      "thesis": "Supports and invests in 'zebra companies' — businesses that pursue both social-issue resolution and sustainable profitability, rather than VC-style winner-take-all unicorn growth. Provides management support, direct equity and ecosystem-building; backed by SIIF."
+    },
+    "track_record": {
+      "portfolio_count": null,
+      "co_investors": ["SIIF"]
+    },
+    "people": [
+      { "name": "Yoshitaka Tabuchi", "role": "Co-Founder" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["zebra", "impact", "social-business", "sustainable"],
+    "summary": {
+      "en": "Tokyo firm founded March 2021 by experienced impact/startup investors to grow and support 'zebra companies' — firms balancing social impact with durable profitability that fall outside the unicorn-focused VC mainstream. Raised ¥100M in 2021 and invests directly (not as a fund); backed by SIIF.",
+      "local": "社会課題の解決と持続的経営の両立を目指す『ゼブラ企業』の創出・育成・経営支援を行う、2021年3月設立の東京の会社。1億円を調達しファンド形式ではなく直接投資でゼブラ企業を支援。SIIFが出資。"
+    },
+    "sources": [
+      { "url": "https://prtimes.jp/main/html/rd/p/000000001.000081881.html", "title": "社会課題の解決と持続的な経営の両立を目指す『ゼブラ企業』… ゼブラアンドカンパニーが発足", "publisher": "PR TIMES / Zebras and Company", "accessed": "2026-06-03", "supports": "founding 2021, zebra thesis", "quote": "インパクト投資やスタートアップ投資の経験者らによって2021年3月に設立" },
+      { "url": "https://www.nikkei.com/article/DGXZQOUC201J40Q1A620C2000000/", "title": "「ゼブラ企業」に投資、ゼブラアンドカンパニー 1億円を調達", "publisher": "Nikkei", "accessed": "2026-06-03", "supports": "¥100M raised, direct investment", "quote": "調達した1億円を活用し、ファンド形式ではなく直接投資のかたちでゼブラ企業を支援" },
+      { "url": "https://note.com/siif_pr/n/n2eb6dc2a30c2", "title": "持続的な経営で社会課題の解決を目指す“ゼブラ企業”を支援する。SIIFがZebras and Companyに出資", "publisher": "SIIF", "accessed": "2026-06-03", "supports": "SIIF backing" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Operates via direct investment rather than a pooled fund; check sizes not disclosed.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "jp-anri-green",
+    "name": { "en": "ANRI GREEN", "local": "ANRI GREEN 1号" },
+    "aka": ["ANRI-GREEN No.1", "ANRI GREEN No.1"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2022,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://anri.vc/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000020.000040191.html", "https://note.com/anri_vc/n/n90e05c5f789b"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "¥4.3B first close; ¥10B target", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "ANRI GREEN No.1", "vintage_year": 2022, "size": { "raw": "¥10B target (¥4.3B first close)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "lead",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["climate-energy", "deeptech"],
+      "thesis": "Climate-change/environment-specialized fund from independent VC ANRI, backing seed-stage deep-tech startups in solar/wind, batteries, hydrogen/ammonia, CCUS/DAC, artificial photosynthesis and fusion. Extended fund life (up to 15 years) to suit capital-intensive, long-horizon climate technologies."
+    },
+    "track_record": {
+      "co_investors": ["Japan Investment Corporation (JIC)", "K4 Ventures (Kansai Electric Power group)", "JAPEX"]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["climate", "decarbonization", "deep-tech", "carbon-neutral"],
+    "summary": {
+      "en": "ANRI GREEN No.1 is a climate-change/environment-specialized fund launched by independent VC ANRI in 2022, with a ¥4.3B first close (announced Jan 2022) targeting ¥10B. It invests mainly at seed in deep-tech (solar/wind, batteries, hydrogen/ammonia, CCUS/DAC, fusion) with an extended fund life suited to long-horizon climate tech. LPs include JIC, Kansai Electric's K4 Ventures and JAPEX.",
+      "local": "独立系VCのANRIが2022年に設立した気候変動・環境問題特化型ファンド。総額43億円の一次募集を完了し、最終的に100億円規模を予定。シード期を中心に太陽光/風力、蓄電池、水素/アンモニア、CCUS/DAC、核融合などのディープテックに投資。"
+    },
+    "sources": [
+      { "url": "https://prtimes.jp/main/html/rd/p/000000020.000040191.html", "title": "ベンチャーキャピタルANRI 気候変動・環境問題特化型の新ファンド「ANRI GREEN 1号」を設立", "publisher": "PR TIMES / ANRI", "accessed": "2026-06-03", "supports": "founding 2022, climate focus, fund target", "quote": "気候変動・環境問題特化型の新ファンド「ANRI GREEN 1号」を設立" },
+      { "url": "https://www.kepco.co.jp/corporate/pr/2022/pdf/20220126_1j.pdf", "title": "ANRI GREEN1号ファンドへの出資", "publisher": "Kansai Electric Power / K4 Ventures", "accessed": "2026-06-03", "supports": "¥4.3B first close, ¥10B target, LPs", "quote": "合計43億円の一次募集を完了し、最終的なファンド総額は100億円規模を予定" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund target ¥10B; first close ¥4.3B per secondary summary of LP press releases. Per-deal check size not disclosed.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "jp-jicn-decarbonization",
+    "name": { "en": "Japan Investment Corporation for Carbon Neutrality (JICN)", "local": "株式会社脱炭素化支援機構" },
+    "aka": ["JICN", "脱炭素化支援機構", "Green Finance Organisation Japan (predecessor)"],
+    "type": "government-program",
+    "subtypes": ["cvc"],
+    "status": "active",
+    "founded_year": 2022,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.jicn.co.jp/",
+    "links": { "other": ["https://www.jicn.co.jp/scheme/"] },
+    "capital": {
+      "aum": { "raw": "¥20.4B initial capital (¥10.2B public industrial investment + ¥10.2B private)", "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": null, "usd": null, "currency": "JPY" },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["all"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["climate-energy", "impact"],
+      "thesis": "Public-private decarbonization fund established under METI/Ministry of the Environment by converting the former Green Finance Organisation Japan into a joint-stock company. Supplies risk capital to a wide range of decarbonization projects — renewables, energy efficiency, hydrogen/ammonia, CCS/CCU, circular economy and green mobility."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Zeroboard", "sector": "carbon accounting", "outcome": "active" },
+        { "company": "WOTA", "sector": "water/climate", "outcome": "active" }
+      ],
+      "co_investors": ["3 megabanks", "regional banks (57 financial institutions)", "25 industrial companies"]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["climate", "decarbonization", "public-private", "government"],
+    "summary": {
+      "en": "Public-private decarbonization fund established 28 Oct 2022 under Japan's Ministry of the Environment, reorganizing the former Green Finance Organisation Japan into a joint-stock company. Initial capital of ¥20.4B (¥10.2B state industrial investment + ¥10.2B private from 57 financial institutions and 25 companies) supplies risk money to decarbonization projects (renewables, hydrogen/ammonia, CCS/CCU, circular economy, green mobility). Early support included Zeroboard and WOTA.",
+      "local": "2022年10月28日に環境省主導で設立された官民ファンド。前身のグリーンファイナンス推進機構を株式会社に改組。資本金204億円（国の産業投資102億円＋民間102億円）で、再エネ・水素/アンモニア・CCS/CCU・サーキュラーエコノミー・グリーンモビリティなど脱炭素事業にリスクマネーを供給。"
+    },
+    "sources": [
+      { "url": "https://rief-jp.org/ct5/129696", "title": "環境省主導で官民ファンド「脱炭素化支援機構（JICN）」設立", "publisher": "RIEF (環境金融研究機構)", "accessed": "2026-06-03", "supports": "founding, public-private capital structure", "quote": "財投から102億円拠出。銀行等も同額拠出。「グリーンファイナンス推進機構」を衣替え" },
+      { "url": "https://www.jicn.co.jp/scheme/", "title": "事業概要 | JICN 株式会社脱炭素化支援機構", "publisher": "JICN", "accessed": "2026-06-03", "supports": "sectors, scheme", "quote": "脱炭素に資する多種多様な事業に対する資金供給" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Government-affiliated entity rather than a classic VC; invests across project finance and equity. Zeroboard/WOTA support attributed to JICN per secondary source.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "jp-onlab-earthshot-fund",
+    "name": { "en": "Open Network Lab ESG / Earthshot Fund", "local": "Open Network Lab・ESG（Earthshot Fund）" },
+    "aka": ["Earthshot Fund", "Onlab ESG", "Open Network Lab ESG 1号"],
+    "type": "vc",
+    "subtypes": ["accelerator"],
+    "status": "active",
+    "founded_year": 2024,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://dgincubation.com/en/onlab/",
+    "links": { "other": ["https://onlab.jp/en/esg/", "https://startup-db.com/funds/gwj32OLosaal0rYo"] },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "Open Network Lab ESG 1 (Earthshot Fund)", "vintage_year": 2024, "size": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Global"],
+      "sector_focus": ["impact", "climate-energy"],
+      "thesis": "Described as an 'impact bridge fund' operated by DG Incubation alongside the Open Network Lab accelerator, backing seed/early-stage ESG and impact-driven startups (environmental, social, governance), leveraging Onlab's accelerator portfolio and sourcing network."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "280 Earth", "sector": "carbon capture (DAC)", "outcome": "active" },
+        { "company": "KAICO", "sector": "biotech/pharma proteins", "outcome": "active" },
+        { "company": "MentaRest", "sector": "mental health", "outcome": "active" }
+      ]
+    },
+    "people": [
+      { "name": "Sera Tsutsumi", "role": "DG Incubation (fund lead)" }
+    ],
+    "application": { "accepts_cold_inbound": true, "how_to_apply": "Via Open Network Lab accelerator program" },
+    "tags": ["impact", "esg", "climate", "accelerator-linked"],
+    "summary": {
+      "en": "ESG/impact 'bridge fund' (the Earthshot Fund) launched in 2024 by Digital Garage's DG Incubation alongside the Open Network Lab accelerator, investing in seed/early-stage impact-driven startups across environmental (direct air capture), social (mental health) and governance themes. Portfolio includes 280 Earth, KAICO and MentaRest.",
+      "local": "デジタルガレージ系のDGインキュベーションがアクセラレーター『Open Network Lab』と連動して2024年に設立したESG/インパクト志向のブリッジファンド（Earthshot Fund）。直接空気回収（DAC）やメンタルヘルスなど、環境・社会・ガバナンス領域のシード/アーリー期インパクトスタートアップに投資。"
+    },
+    "sources": [
+      { "url": "https://dgincubation.com/en/onlab/", "title": "Open Network Lab & ESG I Fund \"Earthshot Fund\" | DG Incubation", "publisher": "DG Incubation", "accessed": "2026-06-03", "supports": "operator, impact-bridge-fund thesis, stage, portfolio", "quote": "this vehicle leverages Onlab's portfolio, sourcing network, and proven expertise in startup development to pursue strong financial returns, while empowering and nurturing the next generation of seed- and early-stage impact-driven startups" },
+      { "url": "https://startup-db.com/funds/gwj32OLosaal0rYo", "title": "Open Network Lab・ESG1号投資事業有限責任組合 | STARTUP DB", "publisher": "STARTUP DB", "accessed": "2026-06-03", "supports": "fund vehicle existence, vintage" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Fund size not disclosed; founding year (~July 2024) inferred from secondary summaries. The '2nd fund' could not be confirmed.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "jp-social-x-impact-fund",
+    "name": { "en": "Social X Impact Fund", "local": "ソーシャルXインパクトファンド" },
+    "aka": ["SocialX Impact Fund"],
+    "type": "vc",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://gyaku-propo.com/",
+    "links": {
+      "other": ["https://prtimes.jp/main/html/rd/p/000000089.000088249.html", "https://www.hfhd.co.jp/news/20250327-2/", "https://www.janpia.or.jp/3642/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "¥1.0B target final close (Dec 2025)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "Social X Impact Fund", "vintage_year": 2025, "size": { "raw": "¥1.0B target", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": "¥5M–¥50M per company", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["impact"],
+      "thesis": "Japan's first impact investment fund using dormant bank deposits (休眠預金). Co-managed by Social X and QR Investment (Hokkoku Financial Holdings), it targets public-private co-creation solutions to local social issues — children/childcare, education, health/medical, welfare, disaster prevention, energy, agriculture/fisheries, tourism, transport and community."
+    },
+    "track_record": {
+      "co_investors": ["JANPIA (dormant-deposit designated body)", "Hokkoku Bank", "Mitoyo AI Society Promotion Organization"]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["impact", "dormant-deposits", "public-private", "social-issues"],
+    "summary": {
+      "en": "Japan's first impact investment fund financed by dormant bank deposits, established Feb 2025 with first close and targeting a ¥1.0B final close by end-2025. Co-managed by Social X and QR Investment (Hokkoku Financial Holdings), it makes ¥5M–¥50M seed/early-stage investments in startups solving local social issues via public-private co-creation (childcare, education, health, welfare, disaster, energy, agriculture, transport). Anchor LP is JANPIA.",
+      "local": "ソーシャル・エックスと北國フィナンシャルHDの投資子会社QRインベストメントが共同GPを務める、国内初の休眠預金を活用したインパクト投資ファンド。2025年2月組成、2025年12月末に10億円でのファイナルクローズを目指す。出資額は500〜5,000万円、シード〜アーリー期が対象。アンカーLPはJANPIA。"
+    },
+    "sources": [
+      { "url": "https://prtimes.jp/main/html/rd/p/000000089.000088249.html", "title": "国内初、休眠預金を活用したインパクト投資ファンドを設立", "publisher": "PR TIMES / Social X", "accessed": "2026-06-03", "supports": "dormant deposits first, GP, LPs", "quote": "国内初、休眠預金を活用したインパクト投資ファンドを設立" },
+      { "url": "https://www.hfhd.co.jp/news/20250327-2/", "title": "官民共創型インパクトファンド「ソーシャルXインパクトファンド」の設立について", "publisher": "Hokkoku Financial Holdings", "accessed": "2026-06-03", "supports": "co-GP QR Investment, fund size, check size, stage", "quote": "2025年12月末を期限として10億円でファイナルクローズを目指す … 出資予定額は500～5000万円、出資対象はシード～アーリーステージ" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Final close target ¥1.0B; figures from official Hokkoku FHD and Social X releases.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "jp-fermata-fund",
+    "name": { "en": "fermata Fund", "local": "フェルマータ・ファンド" },
+    "aka": ["Fermata Fund"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://hellofermata.com/",
+    "links": {
+      "other": ["https://bizzine.jp/article/detail/4295", "https://jp.techcrunch.com/2020/02/03/fermata-fund/"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "¥2.5B target (1st fund)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "fermata Fund I", "vintage_year": 2020, "size": { "raw": "¥2.5B target", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Asia"],
+      "sector_focus": ["healthtech", "consumer"],
+      "thesis": "Asia's first femtech-specialized investment fund, co-founded by fermata and Mistletoe Japan, backing femtech startups (fertility devices, menstrual/hygiene products, women's health) — Western companies entering Asia/Japan and Asia/Japan startups."
+    },
+    "track_record": { "co_investors": ["Mistletoe Japan"] },
+    "people": [
+      { "name": "Amina Sugimoto", "role": "fermata Founder / CEO" }
+    ],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["femtech", "women", "health", "diversity"],
+    "summary": {
+      "en": "Asia's first femtech-specialized fund, co-founded in 2020 by fermata (est. Oct 2019) and Mistletoe Japan, targeting a ¥2.5B first fund to back femtech startups in fertility, menstrual care and women's health — both Western companies entering Asia and Asian/Japanese startups.",
+      "local": "fermata（2019年10月設立）とMistletoe Japanが2020年に共同で設立した、アジア初のフェムテック特化型投資ファンド。25億円規模の1号ファンドを目標に、妊活デバイスや生理用品など女性の健康に関わるスタートアップ（欧米企業のアジア進出およびアジア・日本のスタートアップ）に投資。"
+    },
+    "sources": [
+      { "url": "https://bizzine.jp/article/detail/4295", "title": "fermataとMistletoe Japan、Femtech特化のファンドを設立", "publisher": "Biz/Zine", "accessed": "2026-06-03", "supports": "founding, femtech focus, GP", "quote": "fermataとMistletoe Japanは…fermata Fundを共同出資で設立" },
+      { "url": "https://jp.techcrunch.com/2020/02/03/fermata-fund/", "title": "フェムテック専門ファンド「フェルマータ ファンド」が始動", "publisher": "TechCrunch Japan", "accessed": "2026-06-03", "supports": "¥2.5B target, Asia first, scope", "quote": "アジアでは初めてのフェムテック特化型の投資ファンドで…25億円規模の1号ファンドを始動させる予定" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "¥2.5B was a 2020 launch target; final close size not confirmed in fetched sources.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "jp-sdg-impact-japan",
+    "name": { "en": "SDG Impact Japan", "local": "株式会社SDGインパクトジャパン" },
+    "aka": ["SIJ"],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2021,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://sdgimpactjapan.com/",
+    "links": {
+      "other": ["https://global.sdgimpactjapan.com/our-strategies/agrifood-tech-strategy/", "https://prtimes.jp/main/html/rd/p/000000005.000091539.html"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "AgFunder SIJ Impact Fund", "vintage_year": 2022, "size": { "raw": "$10M first close (Mar 2022); ¥3–5B target", "usd": 10000000, "currency": "USD" } },
+        { "name": "NextGen ESG Japan Fund", "vintage_year": null, "size": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan", "Asia", "Europe", "United States"],
+      "sector_focus": ["agritech", "climate-energy", "impact"],
+      "thesis": "Impact investment manager (est. Jan 2021) running an agri-food tech impact fund (AgFunder SIJ Impact Fund) targeting decarbonization, regenerative agriculture, food-loss reduction and digitalization, plus the SFDR Article 9 NextGen ESG Japan listed-equity fund with gender/diversity KPIs."
+    },
+    "track_record": {
+      "portfolio_count": "13 (AgFunder SIJ Impact Fund, as of Feb 2024)",
+      "co_investors": ["AgFunder", "Asahi Group Holdings", "Meiji Holdings", "Kewpie", "Fuyo General Lease"]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": null },
+    "tags": ["impact", "agrifood", "climate", "esg", "sdg"],
+    "summary": {
+      "en": "Tokyo impact investment firm founded January 2021. Its AgFunder SIJ Impact Fund (co-managed with AgFunder, first close $10M Mar 2022, ¥3–5B target, 10-year term) invests in agri-food tech for decarbonization, regenerative agriculture and food-loss reduction; it had backed 13 startups by Feb 2024. SIJ also runs the SFDR Article 9 NextGen ESG Japan listed-equity fund with gender/diversity KPIs.",
+      "local": "2021年1月設立の東京のインパクト投資会社。AgFunderと共同運営する『AgFunder SIJ Impact Fund』（2022年3月に1,000万米ドルで一次募集、規模30〜50億円）は、脱炭素・環境再生型農業・フードロス削減を目指すアグリフードテックに投資し、2024年2月時点で13社に出資。SFDR第9条準拠のNextGen ESG Japanファンドも運用。"
+    },
+    "sources": [
+      { "url": "https://www.dealstreetasia.com/stories/agfunder-sdg-impact-joint-fund-285323", "title": "AgFunder Asia, SDG Impact Japan makes first close of $10m joint fund", "publisher": "DealStreetAsia", "accessed": "2026-06-03", "supports": "$10M first close, agrifood impact", "quote": "AgFunder Asia and Japanese investment firm SDG Impact Japan made the first close of their joint vehicle – AgFunder SIJ Impact Fund – at $10 million" },
+      { "url": "https://global.sdgimpactjapan.com/our-strategies/agrifood-tech-strategy/", "title": "AgriFood tech strategy - SDG Impact Japan English", "publisher": "SDG Impact Japan", "accessed": "2026-06-03", "supports": "agrifood impact thesis, 13 portfolio companies", "quote": "invests in agri-tech and food-tech" },
+      { "url": "https://prtimes.jp/main/html/rd/p/000000005.000091539.html", "title": "インパクト重視のESGエンゲージメント NextGen ESG Japan Fund設立のお知らせ", "publisher": "PR TIMES / SDG Impact Japan", "accessed": "2026-06-03", "supports": "NextGen ESG fund, SFDR Article 9, gender KPIs", "quote": "all companies set gender indicators and diversity targets" }
+    ],
+    "confidence": "high",
+    "verification_notes": "AgFunder SIJ Impact Fund first close $10M confirmed; ¥3–5B target from secondary summary. Founding year January 2021.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "jp-plus-social-investment",
+    "name": { "en": "Plus Social Investment", "local": "プラスソーシャルインベストメント株式会社" },
+    "aka": ["PSI", "PLUS SOCIAL INVESTMENT"],
+    "type": "crowdfunding",
+    "subtypes": ["vc"],
+    "status": "active",
+    "founded_year": null,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Kyoto",
+    "website": "https://www.psinvestment.co.jp/",
+    "links": { "other": ["https://www.psinvestment.co.jp/sif/"] },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": []
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["impact"],
+      "thesis": "Kyoto-based social-investment firm (Type II Financial Instruments Business Operator) creating local-finance mechanisms: the 'en.try' hometown-support crowdfunding platform (investment/donation/purchase), social impact bonds, and operation of social impact funds such as the Ritsumeikan Social Impact Fund."
+    },
+    "track_record": {
+      "portfolio_count": "55 projects funded; 1,500 supporters; ¥18M+ raised (to date)"
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": true, "contact": "via en.try platform" },
+    "tags": ["impact", "crowdfunding", "social-impact-bond", "regional", "social-finance"],
+    "summary": {
+      "en": "Kyoto-based social-investment company (a Type II Financial Instruments Business Operator) building local capital-circulation mechanisms — the 'en.try' hometown-support crowdfunding platform, social impact bonds, and the operation of social impact funds including the Ritsumeikan Social Impact Fund. To date ~55 projects, 1,500 supporters and ¥18M+ raised on its platform.",
+      "local": "京都拠点の社会的投資会社（第二種金融商品取引業者）。ふるさと応援クラウドファンディング『エントライ』、ソーシャル・インパクト・ボンド(SIB)、立命館ソーシャルインパクトファンドなどのインパクトファンド運営を通じて地域の資金循環の仕組みを創出。これまで約55件のプロジェクト、1,500人の支援者、累計1,800万円超を調達。"
+    },
+    "sources": [
+      { "url": "https://www.psinvestment.co.jp/", "title": "プラスソーシャルインベストメント株式会社", "publisher": "Plus Social Investment", "accessed": "2026-06-03", "supports": "HQ Kyoto, business model, en.try, platform metrics, license", "quote": "Type II Financial Instruments Business Operator, licensed by the Kinki Financial Bureau (License No. 396); 1,500 supporters; 55 projects funded; ¥18 million+ in total capital raised" },
+      { "url": "https://www.psinvestment.co.jp/sif/", "title": "ソーシャルインパクトファンド | プラスソーシャルインベストメント", "publisher": "Plus Social Investment", "accessed": "2026-06-03", "supports": "operates social impact funds incl. Ritsumeikan" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year not stated on site. Platform metrics are cumulative 'to date' figures from the homepage.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "jp-ritsumeikan-social-impact-fund",
+    "name": { "en": "Ritsumeikan Social Impact Fund (RSIF)", "local": "立命館ソーシャルインパクトファンド" },
+    "aka": ["RSIF"],
+    "type": "vc",
+    "subtypes": ["university-affiliated"],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Kyoto",
+    "website": "https://r-rimix.com/fund/",
+    "links": { "other": ["https://www.ritsumei.ac.jp/profile/pressrelease_detail/?id=830", "https://r-rimix.com/archives/rsif-robocoop/"] },
+    "capital": {
+      "aum": { "raw": "¥1.0B–¥1.5B (RSIF)", "usd": null, "currency": "JPY" },
+      "current_fund": { "raw": "¥1.0B–¥1.5B", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "Ritsumeikan Social Impact Fund", "vintage_year": 2020, "size": { "raw": "¥1.0B (reported ¥1.5B more recently)", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed", "series-a"],
+      "check_size": { "raw": "up to ¥100M (e.g. ¥100M to Robo Co-op)", "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["impact"],
+      "thesis": "100%-Ritsumeikan-funded impact fund investing in social enterprises started (or to be started) by Ritsumeikan faculty, students and alumni. 'Grassroots innovation' policy linking investees with education/research; invests in for-profit and non-profit social ventures, including local-zebra companies. Operated by Plus Social Investment."
+    },
+    "track_record": {
+      "notable_investments": [
+        { "company": "Robo Co-op", "sector": "refugee employment / social", "outcome": "active" },
+        { "company": "Sakewo (しゃけを)", "sector": "regional / local-zebra (Hokkaido)", "outcome": "active" }
+      ]
+    },
+    "people": [],
+    "application": { "accepts_cold_inbound": false, "eligibility": "Ritsumeikan faculty, students, alumni solving social issues via business" },
+    "tags": ["impact", "university", "social-enterprise", "students", "local-zebra"],
+    "summary": {
+      "en": "Impact fund (est. FY2020) set up with 100% Ritsumeikan Academy capital, sized at ¥1.0B (reported ¥1.5B more recently), investing in social enterprises founded by Ritsumeikan faculty, students and alumni under a 'grassroots innovation' policy. Investments include ¥100M into refugee-employment social enterprise Robo Co-op (a non-profit's first such raise) and Hokkaido local-zebra firm Sakewo. Operated by Plus Social Investment.",
+      "local": "学校法人立命館が100％出資して設立した（2020年度）インパクトファンド。規模は10億円（より最近の情報では15億円）。社会課題をビジネスで解決する立命館の教職員・学生・卒業生に投資。一般社団法人Robo Co-opへの1億円出資（非営利組織として初）や、北海道のローカルゼブラ企業しゃけをへの投資など。運営はプラスソーシャルインベストメント。"
+    },
+    "sources": [
+      { "url": "https://r-rimix.com/fund/", "title": "RSIF｜立命館ソーシャルインパクトファンド", "publisher": "Ritsumeikan RIMIX", "accessed": "2026-06-03", "supports": "founding, 100% Ritsumeikan, eligibility, operator", "quote": "立命館のみの資産で創設され…社会課題をビジネスで解決しようとし起業している（もしくは起業予定の）立命館学園の教職員、学生、卒業生" },
+      { "url": "https://prtimes.jp/main/html/rd/p/000000012.000108210.html", "title": "Robo Co-opが立命館のインパクトファンドから非営利組織として初の1億円を調達", "publisher": "PR TIMES / Robo Co-op", "accessed": "2026-06-03", "supports": "¥100M investment in Robo Co-op", "quote": "総額一億円の匿名組合型出資による投資を実施" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size reported as ¥1.0B originally and ¥1.5B in more recent sources; both noted. Operated by Plus Social Investment.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "jp-scrum-impact-cube-fund",
+    "name": { "en": "Scrum Inc. / Impact Cube Fund", "local": "株式会社すくらむ／インパクト・キューブファンド" },
+    "aka": ["Sukuramu", "Impact Cube Fund", "インパクトキューブファンド"],
+    "type": "micro-vc",
+    "status": "active",
+    "founded_year": 2025,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Asahikawa",
+    "website": "https://li-scrum.com/fund",
+    "links": { "other": ["https://setouchi.vc/news/172", "https://ja.wikipedia.org/wiki/久保匠"] },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": null, "usd": null, "currency": null },
+      "funds": [
+        { "name": "Impact Cube Fund", "vintage_year": 2025, "size": { "raw": null, "usd": null, "currency": null } }
+      ]
+    },
+    "strategy": {
+      "stages": ["pre-seed", "seed"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["impact"],
+      "thesis": "Local × social impact micro-fund founded in Asahikawa, Hokkaido in 2025 to provide catalytic capital for the 'local-zebra' market — addressing regional social issues (welfare, disability, community) while building local capital circulation. Combines investment with fundraising support, impact management and community finance."
+    },
+    "track_record": { "portfolio_count": null },
+    "people": [
+      { "name": "Takumi Kubo", "role": "Founder / CEO (former welfare NPO, certified fundraiser)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["impact", "local-zebra", "regional", "welfare", "social-finance", "Hokkaido"],
+    "summary": {
+      "en": "Catalytic local-impact micro-fund established in 2025 in Asahikawa, Hokkaido by Takumi Kubo (b.1993; former disability-support welfare NPO worker and certified fundraiser). The Impact Cube Fund pursues a 'local × social' market — financing regional social-issue solutions (welfare, community) and building local capital circulation, paired with fundraising support and impact management.",
+      "local": "福祉系NPO出身・認定ファンドレイザーの久保匠氏が2025年に北海道旭川市で設立した株式会社すくらむが組成した『インパクトキューブファンド』。ローカル×ソーシャルの市場を切り開く触媒的資金を提供し、地域課題解決（福祉・コミュニティ等）と地域の資金循環を目指す。"
+    },
+    "sources": [
+      { "url": "https://setouchi.vc/news/172", "title": "【すくらむ／インパクト・キューブファンド】北海道からソーシャルインパクトを仕掛ける 久保匠", "publisher": "Setouchi Startups", "accessed": "2026-06-03", "supports": "founder, Asahikawa, local-impact thesis, 2025", "quote": "北海道からソーシャルインパクトを仕掛ける 久保匠" },
+      { "url": "https://www.chusho.meti.go.jp/keiei/chiiki_kigyou_kyousei/index.html", "title": "地域課題解決事業推進（ローカル・ゼブラ企業）", "publisher": "中小企業庁 (SME Agency)", "accessed": "2026-06-03", "supports": "context: local-zebra impact investment policy", "quote": "2025年に株式会社すくらむを創設し、同年にインパクトキューブファンドを組成して、ローカル×ソーシャルの市場を切り開く触媒的資金の投資を行っています" }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Very new and small; fund size and check size not disclosed. Founder background (welfare NPO, b.1993 Asahikawa) confirmed via Wikipedia/SME Agency context.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  },
+  {
+    "id": "jp-wpower-fund",
+    "name": { "en": "WPower Fund I", "local": "WPower Fund I投資事業有限責任組合" },
+    "aka": ["WPower Fund"],
+    "type": "vc",
+    "subtypes": ["government-program"],
+    "status": "active",
+    "founded_year": 2025,
+    "region": "japan",
+    "country": "Japan",
+    "hq_city": "Tokyo",
+    "website": "https://www.mpower-partners.com/wpower/",
+    "links": {
+      "other": ["https://www.mec.co.jp/news/detail/2025/03/07_mec250307_wpower", "https://startup-db.com/funds/bzQ9lGmsmZDnD42k", "https://www.sangyo-rodo.metro.tokyo.lg.jp/chushou/kinyu/fund/f_013"]
+    },
+    "capital": {
+      "aum": { "raw": null, "usd": null, "currency": null },
+      "current_fund": { "raw": "up to ¥8.0B (max ¥13.0B across two GP vehicles)", "usd": null, "currency": "JPY" },
+      "funds": [
+        { "name": "WPower Fund I", "vintage_year": 2025, "size": { "raw": "max ¥8.0B", "usd": null, "currency": "JPY" } }
+      ]
+    },
+    "strategy": {
+      "stages": ["seed", "series-a"],
+      "check_size": { "raw": null, "usd_min": null, "usd_max": null },
+      "lead_or_follow": "both",
+      "geo_focus": ["Japan"],
+      "sector_focus": ["impact", "generalist"],
+      "thesis": "Japan's first startup-support fund 100% dedicated to women's advancement — backing women founders and startups whose products/services advance women's participation. Established by the Tokyo Metropolitan Government with MUFG Bank, Mitsubishi Estate, Shionogi, Tokio Marine and MPower Partners; operated by GPs MPower and NEXTBLUE."
+    },
+    "track_record": {
+      "co_investors": ["Tokyo Metropolitan Government", "MUFG Bank", "Mitsubishi Estate", "Shionogi", "Tokio Marine Holdings"]
+    },
+    "people": [
+      { "name": "Kathy Matsui", "role": "GP (MPower)" },
+      { "name": "Kanako Inoue", "role": "GP (NEXTBLUE)" }
+    ],
+    "application": { "accepts_cold_inbound": true },
+    "tags": ["women", "diversity", "impact", "gender", "public-private"],
+    "summary": {
+      "en": "Japan's first startup-support fund 100% dedicated to women's advancement, established March 2025 by the Tokyo Metropolitan Government with MUFG Bank, Mitsubishi Estate, Shionogi, Tokio Marine and MPower Partners. Targets up to ¥8.0B (the program envisions up to ¥13.0B across two GP vehicles, with ¥4.0B from Tokyo). It backs women founders and startups advancing women's participation; operated by GPs MPower (Kathy Matsui) and NEXTBLUE (Kanako Inoue).",
+      "local": "東京都、三菱UFJ銀行、三菱地所、塩野義製薬、東京海上HD、MPower Partnersの連携により2025年3月に設立された、女性活躍推進に100％特化した国内初のスタートアップ支援ファンド。ファンド規模は最大80億円（2ファンド合計で最大130億円、うち都が40億円出資）。GPはMPower（キャシー松井）とNEXTBLUE（井上加奈子）。"
+    },
+    "sources": [
+      { "url": "https://www.mec.co.jp/news/detail/2025/03/07_mec250307_wpower", "title": "国内初 女性活躍推進に特化したスタートアップ支援ファンド「WPower Fund I」を設立", "publisher": "Mitsubishi Estate", "accessed": "2026-06-03", "supports": "Japan-first, women focus, sponsors, 2025", "quote": "国内初 女性活躍推進に特化したスタートアップ支援ファンド「WPower Fund I」を設立" },
+      { "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/chushou/kinyu/fund/f_013", "title": "女性活躍推進スタートアップ支援ファンド | 東京都産業労働局", "publisher": "Tokyo Metropolitan Government", "accessed": "2026-06-03", "supports": "GPs MPower & NEXTBLUE, ¥8B/¥13B sizing, ¥4B Tokyo", "quote": "ファンド運営事業者は「MPower」…および「NEXTBLUE」…の2社で、都が出資する40億円と民間資金とを合わせ…計80億円以上の規模を目指しており、最大130億円までを想定" }
+    ],
+    "confidence": "high",
+    "verification_notes": "Distinct LP vehicle operated by MPower + NEXTBLUE (both also covered separately); included as the actual fund entity. Per-deal check size not disclosed.",
+    "last_updated": "2026-06-03",
+    "accessed": "2026-06-03",
+    "researched_by": "exp-impact-diverse"
+  }
+]
