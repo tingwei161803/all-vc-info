@@ -1695,7 +1695,9 @@
     "links": {
       "linkedin": "https://ca.linkedin.com/company/centech-mtl"
     },
-    "capital": {},
+    "capital": {
+      "aum": {}
+    },
     "strategy": {
       "stages": [
         "pre-seed",
@@ -1744,6 +1746,8 @@
       "accepts_cold_inbound": true
     },
     "tags": [
+      "ETS",
+      "Montreal",
       "accelerator",
       "advanced-manufacturing",
       "deeptech",
@@ -1755,7 +1759,8 @@
       "montreal",
       "quebec",
       "transport",
-      "university"
+      "university",
+      "university-accelerator"
     ],
     "summary": {
       "en": "Centech is a Montreal deeptech and medtech incubator/accelerator founded in 1996 by ÉTS. Its free 12-week Acceleration Program for science/engineering startups feeds the National Bank-backed two-year Propulsion Program (entry grant up to $15,000). UBI Global ranked it among the world's top 10 university incubators in 2023.",
@@ -1827,6 +1832,14 @@
         "quote": "namely health (Medtech), automation, Industry 4.0, logistics and transportation, energy and the environment"
       },
       {
+        "url": "https://centech.co/en/acceleration-program/",
+        "title": "Acceleration Program — Centech",
+        "publisher": "Centech",
+        "accessed": "2026-06-03",
+        "supports": "Program length, equity, sector focus",
+        "quote": "free 12-week program for deeptech, medtech, and edtech startups ... Centech does not take any equity"
+      },
+      {
         "url": "https://centech.co/en/deeptech-en/centech-was-ranked-among-the-top-10-university-business-incubators-in-the-world-by-ubi-global/",
         "title": "Centech was ranked among the top 10 university business incubators in the world by UBI Global",
         "publisher": "Centech",
@@ -1844,7 +1857,7 @@
       }
     ],
     "confidence": "high",
-    "verification_notes": "Classified as incubator (its primary identity) with accelerator subtype; included here because its Acceleration and Propulsion programs are explicitly deeptech/medtech sector-specific. Cohort size and acceptance rate not disclosed. [merged from duplicate research rows] [merged from duplicate research rows] [merged from duplicate research rows]",
+    "verification_notes": "Classified as incubator (its primary identity) with accelerator subtype; included here because its Acceleration and Propulsion programs are explicitly deeptech/medtech sector-specific. Cohort size and acceptance rate not disclosed. [merged from duplicate research rows] [merged from duplicate research rows] [merged from duplicate research rows] [merged from duplicate research rows]",
     "last_updated": "2026-06-02",
     "researched_by": "accelerator-sector"
   },
@@ -1953,11 +1966,14 @@
       "en": "Foresight Canada"
     },
     "aka": [
-      "Foresight Cleantech Accelerator Centre",
-      "Foresight CAC"
+      "Foresight",
+      "Foresight CAC",
+      "Foresight Cleantech Accelerator Centre"
     ],
     "type": "accelerator",
-    "subtypes": [],
+    "subtypes": [
+      "incubator"
+    ],
     "status": "active",
     "founded_year": 2013,
     "region": "canada",
@@ -1981,7 +1997,9 @@
         "city": "Toronto"
       }
     ],
-    "capital": {},
+    "capital": {
+      "aum": {}
+    },
     "strategy": {
       "stages": [
         "pre-seed",
@@ -2040,9 +2058,11 @@
       "accepts_cold_inbound": true
     },
     "tags": [
+      "Foresight-50",
+      "Vancouver",
+      "accelerator",
       "cleantech",
       "climate",
-      "accelerator",
       "non-profit",
       "vancouver"
     ],
@@ -2065,10 +2085,18 @@
         "accessed": "2026-06-02",
         "supports": "Foresight 50 program and notable alumni",
         "quote": "Past honourees—which include top Canadian ventures like Arca, Carbon Upcycling, and Mangrove Lithium—have collectively raised over $3.2 billion in capital."
+      },
+      {
+        "url": "https://vantechjournal.com/p/foresight-canada-driving-sustainable-innovation",
+        "title": "Foresight Canada — Driving Sustainable Innovation",
+        "publisher": "Vancouver Tech Journal",
+        "accessed": "2026-06-03",
+        "supports": "Founding year, HQ, ventures supported, jobs, capital raised",
+        "quote": "Foresight Canada launched in 2013 ... supported over 1,210 ventures to create more than 8,560 high-paying jobs and raise $1.74 billion in capital"
       }
     ],
     "confidence": "high",
-    "verification_notes": "Portfolio (1,757) and capital ($2.52B) from the current About page; an older blog cited 1,210 ventures / $1.74B — figures grow over time. Equity policy inferred as no-equity (typical of Foresight's non-profit acceleration model); length_weeks not standardized across its multiple programs.",
+    "verification_notes": "Portfolio (1,757) and capital ($2.52B) from the current About page; an older blog cited 1,210 ventures / $1.74B — figures grow over time. Equity policy inferred as no-equity (typical of Foresight's non-profit acceleration model); length_weeks not standardized across its multiple programs. [merged from duplicate research rows]",
     "last_updated": "2026-06-02",
     "researched_by": "accelerator-sector"
   },
@@ -15714,6 +15742,7 @@
     },
     "type": "venture-studio",
     "subtypes": [
+      "incubator",
       "micro-vc",
       "vc"
     ],
@@ -15820,6 +15849,14 @@
       },
       {
         "url": "https://betakit.com/tandemlaunch-closes-37-million-fund-iv-to-create-and-back-deep-tech-startups/",
+        "title": "TandemLaunch closes $37-million Fund IV",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-03",
+        "supports": "Founding year, founder, fund size, model, ventures created, exits",
+        "quote": "founded in 2010 by Helge Seetzen ... closed its fourth fund ... at more than $37 million CAD ... created more than 30 successful ventures"
+      },
+      {
+        "url": "https://betakit.com/tandemlaunch-closes-37-million-fund-iv-to-create-and-back-deep-tech-startups/",
         "title": "TandemLaunch closes $37-million Fund IV to create and back deep tech startups",
         "publisher": "BetaKit",
         "accessed": "2026-06-02",
@@ -15836,13 +15873,15 @@
       }
     ],
     "confidence": "high",
-    "verification_notes": "Classified as venture-studio (its primary model is company creation) with a seed fund; subtype micro-vc. Fund IV final close $37M+ CAD (2025). [merged from duplicate research rows] [merged from duplicate research rows]",
+    "verification_notes": "Classified as venture-studio (its primary model is company creation) with a seed fund; subtype micro-vc. Fund IV final close $37M+ CAD (2025). [merged from duplicate research rows] [merged from duplicate research rows] [merged from duplicate research rows]",
     "last_updated": "2026-06-02",
     "researched_by": "deeptech-hardware-vc",
     "aka": [
       "TandemLaunch Technologies"
     ],
     "tags": [
+      "Montreal",
+      "company-builder",
       "deeptech",
       "hardware",
       "quebec",
@@ -19548,12 +19587,37 @@
         "accessed": "2026-06-03",
         "supports": "Coalition partners; ~C$7M funding; 155+ ventures; Atlantic Canada; top blue-economy accelerator",
         "quote": "The Ocean Startup Project brings together regional incubators and accelerators across Atlantic Canada ... has helped more than 155 new ocean ventures become established"
+      },
+      {
+        "url": "https://www.oceanstartupproject.ca/",
+        "title": "Ocean Startup Project",
+        "publisher": "Ocean Startup Project",
+        "accessed": "2026-06-03",
+        "supports": "Founding year, funds distributed, startups supported, jobs",
+        "quote": "Distributed ~$5.4-million in funds to support startup growth & development ... Supported 287+ startups & project teams ... Created 503+ FTE jobs"
       }
     ],
-    "confidence": "medium",
-    "verification_notes": "Founding year inferred from Ocean Supercluster launch timeline; cross-referenced via search summary rather than a single primary page stating the exact year.",
+    "confidence": "high",
+    "verification_notes": "Founding year inferred from Ocean Supercluster launch timeline; cross-referenced via search summary rather than a single primary page stating the exact year. [merged from duplicate research rows]",
     "last_updated": "2026-06-03",
-    "researched_by": "exp-agritech-food"
+    "researched_by": "exp-agritech-food",
+    "aka": [
+      "OSP"
+    ],
+    "tags": [
+      "Atlantic-Canada",
+      "blue-economy",
+      "ocean-supercluster",
+      "oceantech"
+    ],
+    "capital": {
+      "aum": {}
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to individual programs/challenges on the website",
+      "accepts_cold_inbound": true
+    }
   },
   {
     "id": "ca-fcc-capital",
@@ -22585,9 +22649,9 @@
       "en": "New Brunswick Innovation Foundation"
     },
     "aka": [
-      "NBIF",
+      "FINB",
       "Fondation de l'innovation du Nouveau-Brunswick",
-      "FINB"
+      "NBIF"
     ],
     "type": "government-program",
     "subtypes": [
@@ -22652,12 +22716,15 @@
       "contact": "proposals@nbif.ca"
     },
     "tags": [
+      "cybersecurity",
+      "evergreen",
+      "foundation",
+      "fredericton",
       "government",
       "ict",
-      "cybersecurity",
       "new-brunswick",
-      "pre-seed",
-      "evergreen"
+      "non-hub",
+      "pre-seed"
     ],
     "summary": {
       "en": "Fredericton-based evergreen government innovation foundation (est. 2003) acting as New Brunswick's pre-eminent pre-seed/seed venture investor. Backed by a $100M fund, it invests $50K–$1M in ICT, cybersecurity, cleantech, digital health and agritech startups headquartered in the province, often as the first cheque."
@@ -22686,12 +22753,34 @@
         "accessed": "2026-06-03",
         "supports": "$100M fund, sector focus, 113 companies",
         "quote": "Backed by a $100 million fund ... ICT, advanced manufacturing, cybersecurity, energy innovation, digital health, agritech, forestry and oceans ... helped to create over 113 companies"
+      },
+      {
+        "url": "https://nbif.ca/venture-capital-fund/",
+        "title": "Venture Capital Fund — NBIF",
+        "publisher": "New Brunswick Innovation Foundation",
+        "accessed": "2026-06-03",
+        "supports": "Fredericton HQ, $200K–$500K per round, NB-only focus, application process",
+        "quote": "$200,000 to $500,000 per round"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/New_Brunswick_Innovation_Foundation",
+        "title": "New Brunswick Innovation Foundation — Wikipedia",
+        "publisher": "Wikipedia",
+        "accessed": "2026-06-03",
+        "supports": "founding 2002, $120M managed / $310M leveraged, 17 exits, $50K–$1M equity",
+        "quote": "The Foundation manages $120 million, and leverages $310 million more from other sources"
       }
     ],
     "confidence": "high",
-    "verification_notes": "$100M fund and $50K–$1M cheque confirmed across official + secondary sources. USD min/max for check left null (CAD figures only). Classified as government-program with vc subtype.",
+    "verification_notes": "$100M fund and $50K–$1M cheque confirmed across official + secondary sources. USD min/max for check left null (CAD figures only). Classified as government-program with vc subtype. [merged from duplicate research rows]",
     "last_updated": "2026-06-03",
-    "researched_by": "exp-devtools-data"
+    "researched_by": "exp-devtools-data",
+    "offices": [
+      {
+        "country": "Canada",
+        "city": "Fredericton"
+      }
+    ]
   },
   {
     "id": "ca-build-ventures",
@@ -27607,6 +27696,1472 @@
     "researched_by": "exp-mobility-logistics"
   },
   {
+    "id": "ca-cultivator-agtech-accelerator",
+    "name": {
+      "en": "Cultivator AGTECH ACCELERATOR (powered by Conexus)",
+      "local": "Cultivator AGTECH ACCELERATOR"
+    },
+    "aka": [
+      "Cultivator",
+      "Cultivator powered by Conexus",
+      "Global AgTech Accelerator"
+    ],
+    "type": "accelerator",
+    "subtypes": [
+      "incubator"
+    ],
+    "status": "active",
+    "founded_year": 2019,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Regina",
+    "website": "https://www.cultivator.ca/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/cultivatorsk",
+      "other": [
+        "https://www.cultivator.ca/programs/agtech-accelerator"
+      ]
+    },
+    "capital": {
+      "aum": {}
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed",
+        "series-a"
+      ],
+      "check_size": {},
+      "geo_focus": [
+        "Canada"
+      ],
+      "sector_focus": [
+        "agritech",
+        "ai-ml",
+        "robotics",
+        "saas-enterprise"
+      ],
+      "thesis": "Canada's first credit-union-led tech incubator; its AGTECH ACCELERATOR is a national, equity-free program helping pre-seed to Series A agtech and foodtech founders reach product-market fit, run by Cultivator (Conexus Credit Union) with Emmertech and Economic Development Regina."
+    },
+    "program": {
+      "length_weeks": 12,
+      "cohort_size": "15-16",
+      "batches_per_year": 1,
+      "equity_taken_pct": "0",
+      "investment": {
+        "raw": "No fee or equity to participate"
+      },
+      "format": "hybrid",
+      "location": "Regina, Saskatchewan",
+      "application_url": "https://www.cultivator.ca/programs/agtech-accelerator",
+      "eligibility": "Agtech and foodtech companies from across Canada"
+    },
+    "track_record": {
+      "portfolio_count": "62 companies over 4 cohorts (AGTECH ACCELERATOR, as of July 2025); 170+ startups across all Cultivator programs since 2019"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via the AGTECH ACCELERATOR program page; questions to agtech@cultivator.ca",
+      "accepts_cold_inbound": true,
+      "contact": "agtech@cultivator.ca"
+    },
+    "tags": [
+      "agtech",
+      "foodtech",
+      "Saskatchewan",
+      "Prairies",
+      "credit-union"
+    ],
+    "summary": {
+      "en": "Regina-based agtech accelerator (run by Cultivator powered by Conexus, with Emmertech and Economic Development Regina) offering a 12-week, equity-free program for pre-seed to Series A agtech and foodtech startups from across Canada.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.cultivator.ca/programs/agtech-accelerator",
+        "title": "AGTECH ACCELERATOR | Cultivator",
+        "publisher": "Cultivator",
+        "accessed": "2026-06-03",
+        "supports": "Program length, cohort size, equity, sectors, count of companies",
+        "quote": "There is no financial cost or equity taken to participate in the AGTECH ACCELERATOR. ... 62 companies over 4 cohorts"
+      },
+      {
+        "url": "https://www.cultivator.ca/about",
+        "title": "About Us | Cultivator powered by Conexus",
+        "publisher": "Cultivator",
+        "accessed": "2026-06-03",
+        "supports": "Founding year, HQ city, total startups supported",
+        "quote": "launched in 2019 ... Cultivator has incubated and provided resources, mentorship, and support to over 170 startups."
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Cultivator (the incubator) founded 2019; the AGTECH ACCELERATOR ran its inaugural cohort in 2021/2022 (sources vary; 2021 launch per RealAgriculture and the company). No direct cash investment from the accelerator itself.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-niche-accelerators"
+  },
+  {
+    "id": "ca-cove-ocean-ventures",
+    "name": {
+      "en": "COVE — Centre for Ocean Ventures and Entrepreneurship",
+      "local": ""
+    },
+    "aka": [
+      "COVE"
+    ],
+    "type": "incubator",
+    "subtypes": [
+      "accelerator"
+    ],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Dartmouth",
+    "website": "https://coveocean.com/",
+    "links": {},
+    "capital": {
+      "aum": {}
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed",
+        "series-a"
+      ],
+      "check_size": {},
+      "geo_focus": [
+        "Canada",
+        "Atlantic Canada"
+      ],
+      "sector_focus": [
+        "deeptech",
+        "robotics",
+        "climate-energy",
+        "hardware-semiconductor"
+      ],
+      "thesis": "Canada's leading marine-technology hub on Halifax Harbour, providing shared physical space, real-world ocean testing infrastructure, and incubate/accelerate and research/commercialize programs for ocean-tech ventures."
+    },
+    "program": {
+      "investment": {},
+      "format": "in-person",
+      "location": "Dartmouth, Nova Scotia (Halifax Harbour)",
+      "eligibility": "Marine/ocean technology organizations and ventures"
+    },
+    "track_record": {},
+    "people": [],
+    "application": {
+      "how_to_apply": "Contact COVE via website",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "oceantech",
+      "marine-tech",
+      "Nova-Scotia",
+      "physical-hub"
+    ],
+    "summary": {
+      "en": "A marine-tech hub and incubator in Dartmouth, Nova Scotia on Halifax Harbour (officially launched 2018), offering shared space, ocean testing infrastructure, and incubation/commercialization programs for ocean-tech ventures.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://coveocean.com/",
+        "title": "Home - COVE",
+        "publisher": "COVE",
+        "accessed": "2026-06-03",
+        "supports": "What it is, programs, HQ city, founding partners",
+        "quote": "both a shared physical space, and a collaborative community that brings marine technology organizations together"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Launch year 2018 from secondary sources (search results); program economics (equity/investment) not publicly disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-niche-accelerators"
+  },
+  {
+    "id": "ca-acet-quantum",
+    "name": {
+      "en": "ACET Quantum",
+      "local": "ACET — Accélérateur de création d'entreprises technologiques"
+    },
+    "aka": [
+      "ACET"
+    ],
+    "type": "accelerator",
+    "subtypes": [],
+    "status": "active",
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Sherbrooke",
+    "website": "https://acetquantum.ca/",
+    "links": {},
+    "capital": {
+      "aum": {}
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed",
+        "series-a"
+      ],
+      "check_size": {},
+      "geo_focus": [
+        "Canada"
+      ],
+      "sector_focus": [
+        "deeptech",
+        "hardware-semiconductor",
+        "ai-ml"
+      ],
+      "thesis": "Described as Canada's first accelerator dedicated exclusively to quantum-technology startups, located in DistriQ (Sherbrooke's Quantum Innovation Zone), pairing quantum founders with C-suite-level mentors."
+    },
+    "program": {
+      "investment": {},
+      "format": "in-person",
+      "location": "DistriQ, Sherbrooke, Quebec",
+      "application_url": "https://acetquantum.ca/contact/",
+      "eligibility": "Quantum technology startups"
+    },
+    "track_record": {
+      "portfolio_count": "17 startups supported"
+    },
+    "people": [
+      {
+        "name": "Phil Rivard",
+        "role": "Head coach"
+      },
+      {
+        "name": "Nathalie Couët",
+        "role": "Head coach"
+      },
+      {
+        "name": "Philippe Thompson",
+        "role": "Head coach"
+      }
+    ],
+    "application": {
+      "how_to_apply": "Apply as founder via acetquantum.ca/contact",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "quantum",
+      "deeptech",
+      "Sherbrooke",
+      "Quebec",
+      "DistriQ"
+    ],
+    "summary": {
+      "en": "Quantum-technology startup accelerator based in DistriQ, Sherbrooke (the ACET organization's quantum-focused vertical), supporting 17 quantum startups that have collectively raised over $31M.",
+      "local": "Accélérateur de startups en technologies quantiques situé dans DistriQ à Sherbrooke."
+    },
+    "sources": [
+      {
+        "url": "https://acetquantum.ca/",
+        "title": "ACET Quantum - Canada's Premier Quantum Startup Accelerator",
+        "publisher": "ACET Quantum",
+        "accessed": "2026-06-03",
+        "supports": "Sector focus, HQ, coaches, startups supported, financing, jobs",
+        "quote": "17 startups supported ... Over $31M in financing ... 143 jobs created and maintained"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "ACET (the parent technology-startup accelerator) was founded earlier in Sherbrooke; the quantum-dedicated vertical's specific founding year is not stated on the page.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-niche-accelerators"
+  },
+  {
+    "id": "ca-sheboot",
+    "name": {
+      "en": "SheBoot",
+      "local": ""
+    },
+    "aka": [],
+    "type": "accelerator",
+    "subtypes": [
+      "angel-network"
+    ],
+    "status": "active",
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Ottawa",
+    "website": "https://sheboot.ca/",
+    "links": {},
+    "capital": {
+      "aum": {}
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_size": {},
+      "geo_focus": [
+        "Canada"
+      ],
+      "sector_focus": [
+        "generalist",
+        "ai-ml",
+        "saas-enterprise"
+      ],
+      "thesis": "National non-profit bootcamp that prepares early-stage women tech founders to pitch and secure investment, culminating in a pitch competition funded by a network of women angel investors."
+    },
+    "program": {
+      "length_weeks": 6,
+      "investment": {
+        "raw": "$300,000 in equity-based investment from 30 women angels (pitch competition pool)",
+        "currency": "CAD"
+      },
+      "format": "hybrid",
+      "location": "Ottawa, Ontario (national reach)",
+      "demo_day": true,
+      "eligibility": "Women tech founders across Canada"
+    },
+    "track_record": {
+      "portfolio_count": "78 graduate companies"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via the For Founders page",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "women-founders",
+      "diversity",
+      "Ottawa",
+      "pitch-competition"
+    ],
+    "summary": {
+      "en": "Ottawa-based national non-profit bootcamp and angel-investment program for women tech founders; 78 graduate companies, with a $300K equity pool from 30 women angels and $57M raised by alumnae.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://sheboot.ca/",
+        "title": "SheBoot",
+        "publisher": "SheBoot",
+        "accessed": "2026-06-03",
+        "supports": "HQ city, program length, investment pool, alumnae raise, graduates",
+        "quote": "$300,000 in equity-based investment from 30 women angels ... $57 M Raised by Alumnae ... 78 graduate companies"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year not stated on homepage.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-niche-accelerators"
+  },
+  {
+    "id": "ca-mica-mining-accelerator",
+    "name": {
+      "en": "MICA — Mining Innovation Commercialization Accelerator",
+      "local": "ACIM — Accélérateur de commercialisation de l'innovation minière"
+    },
+    "aka": [
+      "MICA Network",
+      "MICA-ACIM"
+    ],
+    "type": "government-program",
+    "subtypes": [
+      "accelerator"
+    ],
+    "status": "active",
+    "founded_year": 2021,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Sudbury",
+    "website": "https://micanetwork.ca/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/mining-innovation-commercialization-accelerator"
+    },
+    "capital": {
+      "aum": {
+        "raw": "$112.4M pan-Canadian initiative",
+        "currency": "CAD"
+      }
+    },
+    "strategy": {
+      "stages": [
+        "seed",
+        "series-a",
+        "growth"
+      ],
+      "check_size": {},
+      "geo_focus": [
+        "Canada"
+      ],
+      "sector_focus": [
+        "climate-energy",
+        "robotics",
+        "hardware-semiconductor",
+        "deeptech"
+      ],
+      "thesis": "Pan-Canadian, government-backed accelerator network commercializing autonomous and clean mining technologies; administered by CEMI (Sudbury) with regional partners in BC, Alberta, Saskatchewan, and Newfoundland."
+    },
+    "program": {
+      "equity_taken_pct": "0",
+      "investment": {
+        "raw": "project funding via calls for proposals (non-dilutive)",
+        "currency": "CAD"
+      },
+      "format": "hybrid",
+      "location": "Sudbury, Ontario (CEMI) with national partners",
+      "eligibility": "Companies developing mining innovation / clean & autonomous mining technologies"
+    },
+    "track_record": {
+      "portfolio_count": "50 unique projects funded through three calls for proposals"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply through MICA calls for proposals",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "mining",
+      "cleantech",
+      "Sudbury",
+      "commercialization",
+      "Strategic-Innovation-Fund"
+    ],
+    "summary": {
+      "en": "A $112.4M pan-Canadian, government-backed accelerator (administered by CEMI in Sudbury) commercializing clean and autonomous mining technologies; 50 projects funded across three calls, attracting $170M+ in private investment.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://micanetwork.ca/",
+        "title": "MICA-ACIM Mining Innovation Commercialization Accelerator",
+        "publisher": "MICA Network",
+        "accessed": "2026-06-03",
+        "supports": "Mission, sector focus, partner structure",
+        "quote": "accelerate the development and commercialization of innovative technologies to make the mining sector more productive and sustainable"
+      },
+      {
+        "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2025/03/government-invests-to-help-accelerate-innovation-in-canadas-mining-industry.html",
+        "title": "Government invests to help accelerate innovation in Canada's mining industry",
+        "publisher": "Government of Canada",
+        "accessed": "2026-06-03",
+        "supports": "Total initiative value, projects funded, private investment, jobs",
+        "quote": "$112.4 million pan-Canadian initiative ... 50 unique projects ... over $170 million in private-sector investment"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Created July 9, 2021 via $40M Strategic Innovation Fund investment; total initiative value $112.4M including partner contributions.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-niche-accelerators"
+  },
+  {
+    "id": "ca-spring-activator",
+    "name": {
+      "en": "Spring (Spring Activator)",
+      "local": ""
+    },
+    "aka": [
+      "Spring Activator",
+      "spring.is"
+    ],
+    "type": "accelerator",
+    "subtypes": [
+      "incubator"
+    ],
+    "status": "active",
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Vancouver",
+    "website": "https://spring.is/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/spring-is"
+    },
+    "capital": {
+      "aum": {}
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_size": {},
+      "geo_focus": [
+        "Canada",
+        "Global"
+      ],
+      "sector_focus": [
+        "impact",
+        "climate-energy",
+        "healthtech",
+        "generalist"
+      ],
+      "thesis": "Certified B-Corp global impact incubator/accelerator and advisory firm supporting purpose-driven founders building solutions to social and environmental challenges, and activating impact investors."
+    },
+    "program": {
+      "investment": {},
+      "format": "hybrid",
+      "location": "Vancouver, British Columbia",
+      "eligibility": "Impact-driven founders"
+    },
+    "track_record": {
+      "portfolio_count": "2,000+ entrepreneurs / 500+ businesses helped"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via spring.is programs",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "impact",
+      "social-enterprise",
+      "B-Corp",
+      "Vancouver",
+      "impact-investing"
+    ],
+    "summary": {
+      "en": "Vancouver-based certified B-Corp impact incubator/accelerator and advisory firm that has helped 2,000+ entrepreneurs across 500+ businesses raise more than $47.5M, plus an Impact Investor Challenge that has trained 130+ investors.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://spring.is/",
+        "title": "Spring — Connecting Purpose-Driven Investors & Founders",
+        "publisher": "Spring",
+        "accessed": "2026-06-03",
+        "supports": "Impact metrics, B-Corp status, focus",
+        "quote": "helped more than 2,000 entrepreneurs ... through 500+ businesses ... raise more than $47.5M in funding ... trained more than 130 impact investors since 2019"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year not confirmed from primary page; metrics drawn from homepage / search summary.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-niche-accelerators"
+  },
+  {
+    "id": "ca-venturepark-labs",
+    "name": {
+      "en": "Venturepark Labs",
+      "local": ""
+    },
+    "aka": [
+      "District Ventures Accelerator",
+      "District Ventures Kitchen",
+      "Venturepark"
+    ],
+    "type": "accelerator",
+    "subtypes": [
+      "incubator"
+    ],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Calgary",
+    "website": "https://www.ventureparklabs.ca/",
+    "links": {},
+    "capital": {
+      "aum": {}
+    },
+    "strategy": {
+      "stages": [
+        "seed",
+        "series-a"
+      ],
+      "check_size": {},
+      "geo_focus": [
+        "Canada"
+      ],
+      "sector_focus": [
+        "consumer",
+        "agritech",
+        "healthtech",
+        "ecommerce"
+      ],
+      "thesis": "Accelerator and shared-kitchen incubator for food, beverage, health and wellness CPG entrepreneurs, founded as District Ventures by Arlene Dickinson, connecting founders to experts, investors, and retailers."
+    },
+    "program": {
+      "investment": {},
+      "format": "hybrid",
+      "location": "Calgary, AB (Accelerator) and North York, ON (Food Incubator)",
+      "eligibility": "Early-stage food, beverage, health & wellness CPG companies"
+    },
+    "track_record": {
+      "portfolio_count": "Food Incubator: ~125 businesses since 2019"
+    },
+    "people": [
+      {
+        "name": "Arlene Dickinson",
+        "role": "Founder"
+      }
+    ],
+    "application": {
+      "how_to_apply": "Apply via Venturepark Labs programs",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "foodtech",
+      "CPG",
+      "consumer",
+      "wellness",
+      "Calgary",
+      "shared-kitchen"
+    ],
+    "summary": {
+      "en": "Food, beverage, health & wellness CPG accelerator and shared-kitchen incubator, founded 2015 as District Ventures by Arlene Dickinson; the Food Incubator alone has supported ~125 businesses since 2019.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.ventureparklabs.ca/food-incubator-2024",
+        "title": "Venturepark Labs — Food Incubator",
+        "publisher": "Venturepark Labs",
+        "accessed": "2026-06-03",
+        "supports": "Sector focus, kitchen facilities, businesses supported",
+        "quote": "Since 2019, the Food Incubator has supported close to 125 businesses, with an economic output of approximately $15M"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Originally founded 2015 as District Ventures Accelerator & Kitchen by Arlene Dickinson; rebranded Venturepark Labs (per search summary). HQ Calgary with ON food incubator.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-niche-accelerators"
+  },
+  {
+    "id": "ca-toronto-fashion-incubator",
+    "name": {
+      "en": "Toronto Fashion Incubator",
+      "local": ""
+    },
+    "aka": [
+      "TFI"
+    ],
+    "type": "incubator",
+    "subtypes": [],
+    "status": "active",
+    "founded_year": 1987,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://fashionincubator.com/",
+    "links": {
+      "other": [
+        "https://www.instagram.com/tfi_fashionincubator/"
+      ]
+    },
+    "capital": {
+      "aum": {}
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_size": {},
+      "geo_focus": [
+        "Canada"
+      ],
+      "sector_focus": [
+        "consumer",
+        "ecommerce"
+      ],
+      "thesis": "The world's first official fashion incubator (established 1987 by the City of Toronto), a non-profit providing studio space, equipment, mentoring, and business education for emerging Canadian fashion designers and apparel entrepreneurs."
+    },
+    "program": {
+      "equity_taken_pct": "0",
+      "investment": {},
+      "format": "in-person",
+      "location": "Toronto, Ontario",
+      "eligibility": "Emerging fashion designers and apparel entrepreneurs (Resident Membership by application)"
+    },
+    "track_record": {
+      "portfolio_count": "Instrumental in creating 18,000+ industry jobs (per TFI)"
+    },
+    "people": [
+      {
+        "name": "Susan Langdon",
+        "role": "Executive Director"
+      }
+    ],
+    "application": {
+      "how_to_apply": "Apply for membership (Outreach / Resident / Virtual Resident) via the website",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "fashion",
+      "apparel",
+      "Toronto",
+      "non-profit",
+      "creative"
+    ],
+    "summary": {
+      "en": "The world's first official fashion incubator (Toronto, established 1987 by the City of Toronto), a non-profit offering studio space, sewing equipment, mentorship, and education for emerging Canadian fashion entrepreneurs.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://fashionincubator.com/pages/about-us",
+        "title": "About Us — Toronto Fashion Incubator",
+        "publisher": "Toronto Fashion Incubator",
+        "accessed": "2026-06-03",
+        "supports": "Founding year, world-first status, executive director, jobs",
+        "quote": "the world's first official fashion incubator, established in 1987 by the City of Toronto ... over 18,000 industry jobs"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Long-established niche (fashion/apparel) incubator; non-investment model (membership/space/mentorship).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-niche-accelerators"
+  },
+  {
+    "id": "ca-health-innovation-hub-h2i",
+    "name": {
+      "en": "Health Innovation Hub (H2i)",
+      "local": ""
+    },
+    "aka": [
+      "H2i"
+    ],
+    "type": "accelerator",
+    "subtypes": [
+      "incubator"
+    ],
+    "status": "active",
+    "founded_year": 2014,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Toronto",
+    "website": "https://entrepreneurs.utoronto.ca/accelerator/h2i/",
+    "links": {},
+    "capital": {
+      "aum": {}
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_size": {},
+      "geo_focus": [
+        "Canada"
+      ],
+      "sector_focus": [
+        "healthtech",
+        "biotech"
+      ],
+      "thesis": "University of Toronto's health-focused accelerator, housed at the Temerty Faculty of Medicine, supporting aspiring and early-stage health entrepreneurs from idea to early traction."
+    },
+    "program": {
+      "equity_taken_pct": "0",
+      "investment": {},
+      "format": "in-person",
+      "location": "Toronto, Ontario (Temerty Faculty of Medicine, U of T)",
+      "eligibility": "Aspiring and early-stage health entrepreneurs (U of T-affiliated)"
+    },
+    "track_record": {},
+    "people": [],
+    "application": {
+      "how_to_apply": "Contact info.h2i@utoronto.ca",
+      "accepts_cold_inbound": true,
+      "contact": "info.h2i@utoronto.ca"
+    },
+    "tags": [
+      "healthtech",
+      "university-accelerator",
+      "Toronto",
+      "medicine"
+    ],
+    "summary": {
+      "en": "University of Toronto's health-focused accelerator (founded 2014, housed at the Temerty Faculty of Medicine), supporting early-stage health entrepreneurs.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://entrepreneurs.utoronto.ca/accelerator/h2i/",
+        "title": "Health Innovation Hub (H2i) — U of T Entrepreneurship",
+        "publisher": "University of Toronto",
+        "accessed": "2026-06-03",
+        "supports": "Founding year, focus, location, mission",
+        "quote": "U of T's health-focused accelerator ... started in 2014 ... housed at the Temerty Faculty of Medicine"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Program details (cohort size, equity) not specified on page; equity assumed 0 as a university non-dilutive program.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-niche-accelerators"
+  },
+  {
+    "id": "ca-bioenterprise-canada",
+    "name": {
+      "en": "Bioenterprise Canada",
+      "local": ""
+    },
+    "aka": [
+      "Bioenterprise",
+      "The Engine"
+    ],
+    "type": "incubator",
+    "subtypes": [
+      "accelerator"
+    ],
+    "status": "active",
+    "founded_year": 2003,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Guelph",
+    "website": "https://bioenterprise.ca/",
+    "links": {},
+    "capital": {
+      "aum": {}
+    },
+    "strategy": {
+      "stages": [
+        "seed",
+        "series-a"
+      ],
+      "check_size": {},
+      "geo_focus": [
+        "Canada"
+      ],
+      "sector_focus": [
+        "agritech",
+        "biotech",
+        "climate-energy"
+      ],
+      "thesis": "Canada's agri-tech alliance and commercialization engine, uniting innovators, partners and investors; runs the Grow Ontario Accelerator Hub, the Agri-Tech Accelerator and the Clean Agri-Tech Accelerator with tailored mentoring and business resources."
+    },
+    "program": {
+      "investment": {},
+      "format": "hybrid",
+      "location": "Guelph, Ontario (national)",
+      "eligibility": "Agri-food and agri-tech companies (Ontario and Canada-wide)"
+    },
+    "track_record": {
+      "portfolio_count": "375+ projects funded; 1,200+ Engine members"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via Bioenterprise programs",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "agritech",
+      "agri-food",
+      "Ontario",
+      "commercialization"
+    ],
+    "summary": {
+      "en": "Guelph-based national agri-tech alliance and commercialization engine with 20+ years of experience, 375+ projects funded and $35M+ in project funding; runs the Grow Ontario Accelerator Hub and the Agri-Tech/Clean Agri-Tech Accelerators.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://bioenterprise.ca/",
+        "title": "Bioenterprise — Canada's Food & Agri-Tech Engine",
+        "publisher": "Bioenterprise Canada",
+        "accessed": "2026-06-03",
+        "supports": "Mission, projects funded, members, experience",
+        "quote": "375+ Projects funded ... 35M+ Total amount of project funding ... 1200 + Engine members ... 20+ Years of experience"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "HQ Guelph and founding ~2003 inferred from '20+ years of experience' and well-known history; founding year not stated verbatim on the fetched page.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-niche-accelerators"
+  },
+  {
+    "id": "ca-esplanade-quebec",
+    "name": {
+      "en": "Esplanade Québec",
+      "local": "L'Esplanade"
+    },
+    "aka": [
+      "Esplanade",
+      "Esplanade Montreal"
+    ],
+    "type": "accelerator",
+    "subtypes": [
+      "incubator"
+    ],
+    "status": "active",
+    "founded_year": 2015,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Montreal",
+    "website": "https://esplanade.quebec/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/esplanade-quebec"
+    },
+    "capital": {
+      "aum": {}
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_size": {},
+      "geo_focus": [
+        "Canada",
+        "Quebec"
+      ],
+      "sector_focus": [
+        "impact",
+        "climate-energy",
+        "healthtech",
+        "agritech"
+      ],
+      "thesis": "Quebec's first accelerator dedicated to social and environmental impact entrepreneurs, offering a four-program support journey (validation, growth, commercialization, scale-up) plus an investment-support platform."
+    },
+    "program": {
+      "investment": {},
+      "format": "hybrid",
+      "location": "Montreal, Quebec",
+      "eligibility": "Social and environmental impact entrepreneurs (all legal statuses)"
+    },
+    "track_record": {
+      "portfolio_count": "400+ companies supported since 2015"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to Collision / Accélération programs via website",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "impact",
+      "social-economy",
+      "Montreal",
+      "Quebec",
+      "environment"
+    ],
+    "summary": {
+      "en": "Montreal-based, Quebec's first social and environmental impact accelerator (founded 2015), having propelled 400+ ventures across validation, growth, commercialization and scale-up programs.",
+      "local": "Premier accélérateur des entrepreneur.e.s d'impact social et environnemental du Québec, fondé en 2015; plus de 400 entreprises propulsées."
+    },
+    "sources": [
+      {
+        "url": "https://esplanade.quebec/a-propos/",
+        "title": "À propos — Esplanade Québec",
+        "publisher": "Esplanade Québec",
+        "accessed": "2026-06-03",
+        "supports": "Founding year, focus, number of companies",
+        "quote": "Depuis 2015, nous avons propulsé plus de 400 entreprises ... placent l'impact social et environnemental au cœur de leur modèle d'affaires"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "French-language primary source; figures verbatim from the À propos page.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-niche-accelerators"
+  },
+  {
+    "id": "ca-genesis-centre",
+    "name": {
+      "en": "Genesis",
+      "local": ""
+    },
+    "aka": [
+      "Genesis Centre",
+      "Genesis Centre Memorial University"
+    ],
+    "type": "incubator",
+    "subtypes": [
+      "accelerator"
+    ],
+    "status": "active",
+    "founded_year": 1997,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "St. John's",
+    "website": "https://www.genesiscentre.ca/",
+    "links": {},
+    "capital": {
+      "aum": {}
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed",
+        "series-a"
+      ],
+      "check_size": {},
+      "geo_focus": [
+        "Canada",
+        "Newfoundland and Labrador"
+      ],
+      "sector_focus": [
+        "deeptech",
+        "saas-enterprise",
+        "climate-energy",
+        "robotics"
+      ],
+      "thesis": "Newfoundland and Labrador's pre-eminent tech-startup hub at Memorial University, running the Evolution (ideation) and Enterprise (flagship three-year scaling) programs, with strength in ocean tech."
+    },
+    "program": {
+      "equity_taken_pct": "0",
+      "investment": {
+        "raw": "free program access (non-dilutive)"
+      },
+      "format": "in-person",
+      "location": "St. John's, Newfoundland and Labrador (Memorial University, Signal Hill Campus)",
+      "eligibility": "Early-stage technology companies in Newfoundland & Labrador"
+    },
+    "track_record": {
+      "portfolio_count": "Genesis companies have raised $624M in private capital; 2,500+ jobs created since 1997"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to Evolution or Enterprise programs via website",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "oceantech",
+      "Newfoundland",
+      "university-incubator",
+      "Atlantic-Canada",
+      "St-Johns"
+    ],
+    "summary": {
+      "en": "Newfoundland & Labrador's pre-eminent tech-startup incubator at Memorial University (since 1997), with Evolution (ideation) and Enterprise (three-year scaling) programs; companies have raised $624M and created 2,500+ jobs.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.genesiscentre.ca/",
+        "title": "Genesis — Grow Your Startup in Newfoundland & Labrador",
+        "publisher": "Genesis Centre",
+        "accessed": "2026-06-03",
+        "supports": "Founding year, programs, capital raised, jobs",
+        "quote": "Since opening in 1997, Genesis companies have raised $624M in private capital ... more than 2500 jobs have been created"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Affiliated with Memorial University; HQ St. John's (Signal Hill Campus). Notable ocean-tech / Atlantic Canada niche.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-niche-accelerators"
+  },
+  {
+    "id": "ca-natural-products-canada",
+    "name": {
+      "en": "Natural Products Canada",
+      "local": ""
+    },
+    "aka": [
+      "NPC"
+    ],
+    "type": "accelerator",
+    "subtypes": [
+      "government-program",
+      "micro-vc"
+    ],
+    "status": "active",
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Charlottetown",
+    "website": "https://www.naturalproductscanada.com/",
+    "links": {},
+    "capital": {
+      "aum": {
+        "raw": "Nàdarra Ventures (investment fund)"
+      }
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed",
+        "series-a"
+      ],
+      "check_size": {
+        "raw": "up to $350,000 in support per company"
+      },
+      "geo_focus": [
+        "Canada"
+      ],
+      "sector_focus": [
+        "biotech",
+        "agritech",
+        "healthtech",
+        "climate-energy"
+      ],
+      "thesis": "Drives Canada's Natural Product Innovation Cluster, commercializing naturally-derived products across health/life sciences, natural resources, agri-food and sustainable bioproducts via Proof-of-Concept, Access-to-Talent and Fast-Track-to-Financing programs and the Nàdarra Ventures fund."
+    },
+    "program": {
+      "investment": {
+        "raw": "up to $350,000 across its programs",
+        "currency": "CAD"
+      },
+      "format": "hybrid",
+      "location": "Charlottetown, PEI (PEI BioAlliance node) with national nodes",
+      "eligibility": "Canadian early-stage bioeconomy companies and research institutes"
+    },
+    "track_record": {
+      "portfolio_count": "92 Canadian innovators; over $11M deployed"
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via NPC commercialization programs",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "bioeconomy",
+      "natural-products",
+      "PEI",
+      "commercialization",
+      "cluster"
+    ],
+    "summary": {
+      "en": "Canada's Natural Product Innovation Cluster accelerator (PEI BioAlliance node, with national partners), offering up to $350K per company and the Nàdarra Ventures fund; has deployed $11M+ across 92 innovators with a 53x follow-on multiplier.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.naturalproductscanada.com/npc-invests-in-seven-canadian-start-ups-surpassing-10m-in-canadas-bioeconomy/",
+        "title": "NPC invests in seven Canadian start-ups, surpassing $10M in Canada's bioeconomy",
+        "publisher": "Natural Products Canada",
+        "accessed": "2026-06-03",
+        "supports": "Investment per company, total deployed, innovators, follow-on multiplier",
+        "quote": "up to $350,000 in support ... deployed over $11 million across 92 Canadian innovators ... secure an additional $53 in follow-on capital"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "HQ tied to PEI BioAlliance (Charlottetown) as lead node; founding year not confirmed (NPC formed under the federal CECR program). Hybrid accelerator/investor model.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-niche-accelerators"
+  },
+  {
+    "id": "ca-fireweed-institute",
+    "name": {
+      "en": "Fireweed Institute (Fireweed Fellowship)",
+      "local": ""
+    },
+    "aka": [
+      "Fireweed Fellowship",
+      "The Fireweed Institute"
+    ],
+    "type": "accelerator",
+    "subtypes": [
+      "incubator"
+    ],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Vancouver",
+    "website": "https://thefireweedinstitute.com/",
+    "links": {
+      "other": [
+        "https://www.fireweedfellowship.com/"
+      ]
+    },
+    "capital": {
+      "aum": {}
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_size": {},
+      "geo_focus": [
+        "Canada"
+      ],
+      "sector_focus": [
+        "impact",
+        "generalist"
+      ],
+      "thesis": "Described as the first national accelerator program for Indigenous entrepreneurship in Canada; a 10-month immersive, cohort-style fellowship blending online sessions, on-the-land learning and leadership development, designed to decolonize business programming."
+    },
+    "program": {
+      "length_weeks": 40,
+      "cohort_size": "15-20 (inaugural)",
+      "batches_per_year": 1,
+      "equity_taken_pct": "0",
+      "investment": {},
+      "format": "hybrid",
+      "location": "Canada-wide (originated at Simon Fraser University / RADIUS, supported by Raven Indigenous Capital Partners)",
+      "eligibility": "Indigenous entrepreneurs with operating, revenue-generating businesses"
+    },
+    "track_record": {},
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to the Fellowship/Accelerator via website",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "Indigenous",
+      "impact",
+      "national",
+      "decolonized-business",
+      "fellowship"
+    ],
+    "summary": {
+      "en": "The first national accelerator program for Indigenous entrepreneurship in Canada (launched 2020), a 10-month immersive fellowship now evolved into the Fireweed Institute; originated at SFU's RADIUS and supported by Raven Indigenous Capital Partners.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://thefireweedinstitute.com/accelerator/",
+        "title": "Accelerator — The Fireweed Institute",
+        "publisher": "Fireweed Institute",
+        "accessed": "2026-06-03",
+        "supports": "National Indigenous accelerator status, program format, length",
+        "quote": "the first national accelerator program for Indigenous entrepreneurship ... a 10-month-long, immersive, cohort-style fellowship program"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "First cohort 2020; now operates as the Fireweed Institute. HQ/affiliation tied to SFU RADIUS and Raven Indigenous Capital Partners.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-niche-accelerators"
+  },
+  {
+    "id": "ca-pow-wow-pitch",
+    "name": {
+      "en": "Pow Wow Pitch",
+      "local": ""
+    },
+    "aka": [],
+    "type": "accelerator",
+    "subtypes": [
+      "government-program"
+    ],
+    "status": "active",
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Ottawa",
+    "website": "https://www.powwowpitch.org/",
+    "links": {},
+    "capital": {
+      "aum": {}
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_size": {},
+      "geo_focus": [
+        "Canada",
+        "United States"
+      ],
+      "sector_focus": [
+        "generalist",
+        "consumer",
+        "impact"
+      ],
+      "thesis": "Pitch-competition and mentorship program empowering Indigenous entrepreneurs across Turtle Island (Canada and US) to access mentorship, visibility and funding; awards $100,000 CAD in total funding."
+    },
+    "program": {
+      "batches_per_year": 1,
+      "equity_taken_pct": "0",
+      "investment": {
+        "raw": "$100,000 CAD total funding (grants/prizes)",
+        "currency": "CAD"
+      },
+      "format": "hybrid",
+      "location": "Canada and US (Turtle Island)",
+      "demo_day": true,
+      "eligibility": "Indigenous entrepreneurs, artists, makers and innovators from all industries"
+    },
+    "track_record": {},
+    "people": [],
+    "application": {
+      "how_to_apply": "Submit a 1-minute pitch (virtual or in person) via website",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "Indigenous",
+      "pitch-competition",
+      "non-dilutive",
+      "grants"
+    ],
+    "summary": {
+      "en": "A pitch-competition and mentorship program for Indigenous entrepreneurs across Canada and the US, awarding $100,000 CAD in total non-dilutive funding plus mentorship, visibility and growth resources.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www2.fundsforngos.org/innovation/entries-open-for-pow-wow-pitch-competition-canada-and-us/",
+        "title": "Entries open for Pow Wow Pitch Competition (Canada and US)",
+        "publisher": "fundsforNGOs",
+        "accessed": "2026-06-03",
+        "supports": "Geo scope, funding pool, eligibility, format",
+        "quote": "empowers Indigenous entrepreneurs across Turtle Island ... compete for funding totaling $100,000 CAD ... pitch virtually or in person through a 1-minute pitch"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Funding is non-dilutive grant/prize money. Founding year not confirmed from the fetched source.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-niche-accelerators"
+  },
+  {
+    "id": "ca-radius-sfu",
+    "name": {
+      "en": "RADIUS SFU",
+      "local": ""
+    },
+    "aka": [
+      "RADIUS",
+      "RADical Ideas Useful to Society"
+    ],
+    "type": "incubator",
+    "subtypes": [
+      "accelerator"
+    ],
+    "status": "active",
+    "founded_year": 2013,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Vancouver",
+    "website": "https://radiussfu.com/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/radius-sfu"
+    },
+    "capital": {
+      "aum": {}
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_size": {},
+      "geo_focus": [
+        "Canada",
+        "British Columbia"
+      ],
+      "sector_focus": [
+        "impact",
+        "generalist",
+        "healthtech"
+      ],
+      "thesis": "Simon Fraser University's social innovation lab and venture incubator (RADical Ideas, Useful to Society) running cohort-based, equity-centred programs — including Indigenous-focused accelerators — for a just, sustainable economy."
+    },
+    "program": {
+      "equity_taken_pct": "0",
+      "investment": {},
+      "format": "hybrid",
+      "location": "Vancouver, British Columbia (Simon Fraser University)",
+      "eligibility": "Social innovators and impact ventures (incl. Indigenous-led)"
+    },
+    "track_record": {},
+    "people": [
+      {
+        "name": "Shawn Smith",
+        "role": "Co-founder"
+      }
+    ],
+    "application": {
+      "how_to_apply": "Apply to RADIUS programs (e.g. BUILD, First Peoples Enterprise Accelerator) via website",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "impact",
+      "social-innovation",
+      "Vancouver",
+      "Indigenous",
+      "university"
+    ],
+    "summary": {
+      "en": "Simon Fraser University's social-innovation lab and venture incubator (founded 2013 in Vancouver), running equity-centred and Indigenous-focused (First Peoples Enterprise Accelerator) cohort programs.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://radiussfu.com/about/",
+        "title": "About — RADIUS SFU",
+        "publisher": "RADIUS SFU",
+        "accessed": "2026-06-03",
+        "supports": "Founding year, mission, programs",
+        "quote": "RADIUS (RADical Ideas, Useful to Society) was created in 2013 ... a social innovation lab and venture incubator"
+      },
+      {
+        "url": "https://radiussfu.com/programs/labs-ventures/first-peoples/",
+        "title": "First Peoples Enterprise Accelerator Program — RADIUS SFU",
+        "publisher": "RADIUS SFU",
+        "accessed": "2026-06-03",
+        "supports": "Indigenous-focused accelerator program",
+        "quote": "First Peoples Enterprise Accelerator Program ... co-create entrepreneurship programming"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Niche social-innovation / impact incubator with Indigenous-focused vertical.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-niche-accelerators"
+  },
+  {
+    "id": "ca-protein-industries-canada",
+    "name": {
+      "en": "Protein Industries Canada",
+      "local": ""
+    },
+    "aka": [
+      "PIC"
+    ],
+    "type": "government-program",
+    "subtypes": [
+      "accelerator"
+    ],
+    "status": "active",
+    "founded_year": 2018,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Regina",
+    "website": "https://www.proteinindustriescanada.ca/",
+    "links": {},
+    "capital": {
+      "aum": {}
+    },
+    "strategy": {
+      "stages": [
+        "seed",
+        "series-a",
+        "growth"
+      ],
+      "check_size": {},
+      "geo_focus": [
+        "Canada"
+      ],
+      "sector_focus": [
+        "agritech",
+        "biotech",
+        "consumer"
+      ],
+      "thesis": "Industry-led, not-for-profit Global Innovation Cluster co-investing in projects that build Canada's plant-protein and plant-based food sector, targeting 10% of the world's plant-based ingredients by 2035."
+    },
+    "program": {
+      "equity_taken_pct": "0",
+      "investment": {
+        "raw": "co-investment in plant-protein projects (non-dilutive cost-share)",
+        "currency": "CAD"
+      },
+      "format": "hybrid",
+      "location": "Regina, Saskatchewan",
+      "eligibility": "Members building plant-protein / plant-based food and ingredient projects"
+    },
+    "track_record": {},
+    "people": [],
+    "application": {
+      "how_to_apply": "Join as a member and apply to co-investment projects via website",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "plant-protein",
+      "foodtech",
+      "agritech",
+      "Saskatchewan",
+      "innovation-cluster"
+    ],
+    "summary": {
+      "en": "One of Canada's five Global Innovation Clusters (Regina-based), an industry-led not-for-profit co-investing in plant-protein and plant-based food projects, aiming for 10% of global plant-based ingredients by 2035.",
+      "local": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.proteinindustriescanada.ca/what-we-do",
+        "title": "What We Do | Protein Industries Canada",
+        "publisher": "Protein Industries Canada",
+        "accessed": "2026-06-03",
+        "supports": "Mission, cluster status, 2035 target",
+        "quote": "by 2035, Canada will provide 10 per cent of the plant-based ingredients to the world ... contribute upwards of $25 billion a year"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "A Global Innovation Cluster (co-investment/cost-share model) rather than a classic cohort accelerator; included as a niche plant-protein vertical builder. HQ Regina; founded 2018 as one of the federal Innovation Superclusters.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-niche-accelerators"
+  },
+  {
     "id": "ca-alate-partners",
     "name": {
       "en": "Alate Partners"
@@ -28636,6 +30191,1766 @@
     "verification_notes": "Generalist B2B/AI fund rather than proptech-dedicated, but has a clear and active proptech vertical (Mave, Rhenti). Included as a relevant long-tail proptech-active investor; sector_focus reflects this.",
     "last_updated": "2026-06-03",
     "researched_by": "exp-proptech"
+  },
+  {
+    "id": "ca-conexus-venture-capital",
+    "name": {
+      "en": "Conexus Venture Capital"
+    },
+    "aka": [
+      "CVC",
+      "Conexus Venture Capital Inc."
+    ],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2019,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Regina",
+    "offices": [
+      {
+        "country": "Canada",
+        "city": "Regina"
+      }
+    ],
+    "website": "https://www.conexusventurecapital.ca/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/conexusventurecapital",
+      "crunchbase": "https://www.crunchbase.com/organization/conexus-venture-capital",
+      "other": [
+        "https://pitchbook.com/profiles/investor/342953-92"
+      ]
+    },
+    "capital": {
+      "aum": {
+        "raw": "$60 million",
+        "currency": "CAD"
+      },
+      "current_fund": {
+        "raw": "$30 million (CVC Fund #2)",
+        "currency": "CAD"
+      },
+      "funds": [
+        {
+          "name": "CVC Fund #1",
+          "vintage_year": 2019,
+          "size": {
+            "raw": "$30 million",
+            "currency": "CAD"
+          }
+        },
+        {
+          "name": "CVC Fund #2",
+          "vintage_year": 2024,
+          "size": {
+            "raw": "$30 million",
+            "currency": "CAD"
+          }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": [
+        "seed",
+        "series-a"
+      ],
+      "check_size": {},
+      "lead_or_follow": "both",
+      "geo_focus": [
+        "Saskatchewan",
+        "Canadian Prairies",
+        "Western Canada",
+        "Canada"
+      ],
+      "sector_focus": [
+        "generalist",
+        "agritech",
+        "saas-enterprise"
+      ],
+      "thesis": "Early-stage venture capital fund manager backed by Saskatchewan credit unions, focused on backing the most ambitious builders in the Canadian prairies and 'forgotten' Saskatchewan / western Canadian startups overlooked by coastal investors."
+    },
+    "track_record": {
+      "portfolio_count": 25,
+      "notable_investments": [
+        {
+          "company": "7shifts",
+          "sector": "saas-enterprise",
+          "outcome": "active"
+        },
+        {
+          "company": "Alto Technologies",
+          "sector": "generalist",
+          "outcome": "active"
+        },
+        {
+          "company": "Offstreet",
+          "sector": "proptech",
+          "outcome": "active"
+        },
+        {
+          "company": "Rivercity Innovations",
+          "sector": "generalist",
+          "outcome": "active"
+        }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      {
+        "name": "Alex Shimla",
+        "role": "Principal"
+      }
+    ],
+    "application": {
+      "how_to_apply": "Pitch via the firm's website / Conexus Credit Union innovation channels",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "saskatchewan",
+      "regina",
+      "prairies",
+      "credit-union",
+      "non-hub"
+    ],
+    "summary": {
+      "en": "Regina-based early-stage venture fund manager launched by Conexus Credit Union in 2019, managing $60M across two $30M funds (Fund #1 2019, Fund #2 2024, oversubscribed Dec 2025) and backing seed/Series A prairie tech startups."
+    },
+    "sources": [
+      {
+        "url": "https://www.conexusventurecapital.ca/",
+        "title": "Conexus Venture Capital — homepage",
+        "publisher": "Conexus Venture Capital",
+        "accessed": "2026-06-03",
+        "supports": "HQ Regina, two-fund structure, $60M AUM, prairie focus, portfolio",
+        "quote": "Investing time, knowledge, and capital in Saskatchewan and Canadian high-growth startups"
+      },
+      {
+        "url": "https://betakit.com/conexus-venture-capital-fund-closes-30-million-solely-from-saskatchewan-investors/",
+        "title": "Conexus hits $30 million fund target to support 'forgotten' startups",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-03",
+        "supports": "fund sizes, founding via Conexus Credit Union, Saskatchewan LP base",
+        "quote": "CVC Fund #1 is a $30 million fund launched in 2019 ... made 17 portfolio company investments"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Combined AUM of $60M and Fund #2 oversubscription per Dec 2025 release; exact check size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "ca-trillick-ventures",
+    "name": {
+      "en": "Trillick Ventures"
+    },
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2025,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Winnipeg",
+    "offices": [
+      {
+        "country": "Canada",
+        "city": "Winnipeg"
+      }
+    ],
+    "website": "https://trillick.ca/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/trillick-ventures",
+      "other": [
+        "https://pitchbook.com/profiles/investor/731973-88"
+      ]
+    },
+    "capital": {
+      "aum": {},
+      "current_fund": {
+        "raw": "$15 million (target)",
+        "currency": "CAD"
+      },
+      "funds": [
+        {
+          "name": "Trillick Ventures Fund I",
+          "vintage_year": 2025,
+          "size": {
+            "raw": "$15 million target (nearly $5M raised at first reporting)",
+            "currency": "CAD"
+          }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_size": {},
+      "lead_or_follow": "both",
+      "geo_focus": [
+        "Manitoba",
+        "Canada"
+      ],
+      "sector_focus": [
+        "generalist"
+      ],
+      "thesis": "Address Manitoba's standing as the most underrepresented province in Canadian VC; plans to back 20–25 pre-seed and seed tech companies, with roughly two-thirds of the fund earmarked for Manitoba-based startups and one-third for non-Manitoba deals where it follows other leads."
+    },
+    "track_record": {
+      "portfolio_count": "3+",
+      "notable_investments": [
+        {
+          "company": "Parallel",
+          "sector": "ecommerce",
+          "outcome": "active"
+        },
+        {
+          "company": "3Common",
+          "sector": "saas-enterprise",
+          "outcome": "active"
+        },
+        {
+          "company": "ConstructionClock",
+          "sector": "saas-enterprise",
+          "outcome": "active"
+        }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      {
+        "name": "Iain Crozier",
+        "role": "Founder & General Partner"
+      },
+      {
+        "name": "Noah Palansky",
+        "role": "Venture Partner (co-founder/CEO, Taiv)"
+      },
+      {
+        "name": "Mark Hlady",
+        "role": "Venture Partner (co-founder, TriplePlay)"
+      },
+      {
+        "name": "Saif Hashmi",
+        "role": "Venture Partner (former BDC Capital Seed Venture Fund principal)"
+      }
+    ],
+    "application": {
+      "how_to_apply": "Contact via trillick.ca",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "manitoba",
+      "winnipeg",
+      "pre-seed",
+      "non-hub",
+      "emerging-fund"
+    ],
+    "summary": {
+      "en": "Winnipeg-based early-stage VC launched in 2025 by Iain Crozier, raising a $15M Fund I to back 20–25 pre-seed/seed Manitoba tech founders and reverse the province's chronic VC underinvestment."
+    },
+    "sources": [
+      {
+        "url": "https://betakit.com/new-early-stage-vc-fund-trillick-ventures-aims-to-bring-funding-to-underrepresented-manitoba/",
+        "title": "Trillick Ventures to bring VC funding to 'underrepresented' Manitoba",
+        "publisher": "BetaKit",
+        "accessed": "2026-06-03",
+        "supports": "founder, HQ Winnipeg, $15M target fund, pre-seed/seed, Manitoba focus, portfolio, partners",
+        "quote": "back 20 to 25 pre-seed and seed-stage tech companies ... nearly $5 million towards its $15-million target to date"
+      },
+      {
+        "url": "https://www.startupecosystem.ca/news/trillick-ventures-aims-to-boost-manitobas-startup-ecosystem-with-new-vc-fund/",
+        "title": "Trillick Ventures Aims to Boost Manitoba's Startup Ecosystem with New VC Fund",
+        "publisher": "Startup Ecosystem Canada",
+        "accessed": "2026-06-03",
+        "supports": "fund close timeline (Feb/Mar/May 2025), $15M fund",
+        "quote": "Trillick Ventures Fund I closed as a $15M investment initiative in May 2025"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund was still actively raising toward its $15M target at time of reporting; closes held Feb/Mar/May 2025.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "ca-manitoba-first-fund",
+    "name": {
+      "en": "Manitoba First Fund"
+    },
+    "aka": [
+      "MFF"
+    ],
+    "type": "government-program",
+    "subtypes": [
+      "growth-equity"
+    ],
+    "status": "active",
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Winnipeg",
+    "offices": [
+      {
+        "country": "Canada",
+        "city": "Winnipeg"
+      }
+    ],
+    "website": "https://manitobafirstfund.com/",
+    "links": {
+      "other": [
+        "https://manitobafirstfund.com/about/",
+        "https://pitchbook.com/profiles/fund/24382-72F"
+      ]
+    },
+    "capital": {
+      "aum": {},
+      "current_fund": {},
+      "funds": []
+    },
+    "strategy": {
+      "stages": [
+        "all"
+      ],
+      "check_size": {},
+      "lead_or_follow": "follow",
+      "geo_focus": [
+        "Manitoba",
+        "Canada"
+      ],
+      "sector_focus": [
+        "generalist"
+      ],
+      "thesis": "A province-backed fund-of-funds that does not invest directly in Manitoba companies; instead it commits capital to venture capital and private equity funds that pledge to invest in Manitoba businesses, expanding the pool of growth capital available in the province."
+    },
+    "track_record": {
+      "notable_investments": [
+        {
+          "company": "Westcap Management Ltd. (fund commitment)",
+          "sector": "generalist",
+          "outcome": "active"
+        }
+      ],
+      "co_investors": [
+        "Westcap Mgt. Ltd.",
+        "Business Council of Manitoba",
+        "Manitoba Technology Accelerator"
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Fund managers / GPs apply to be backed; not a direct-investment vehicle for startups",
+      "accepts_cold_inbound": false
+    },
+    "tags": [
+      "manitoba",
+      "winnipeg",
+      "fund-of-funds",
+      "government-backed",
+      "non-hub"
+    ],
+    "summary": {
+      "en": "Winnipeg-based, province-initiated fund-of-funds that invests in VC/PE funds committed to deploying capital into Manitoba businesses; its first commitment was a $25M allocation to Saskatchewan manager Westcap Mgt. Ltd."
+    },
+    "sources": [
+      {
+        "url": "https://manitobafirstfund.com/about/",
+        "title": "About — Manitoba First Fund",
+        "publisher": "Manitoba First Fund",
+        "accessed": "2026-06-03",
+        "supports": "Winnipeg HQ, fund-of-funds structure, province funding, Manitoba focus, partners",
+        "quote": "The MFF does not invest directly in specific Manitoba companies; rather, it invests in venture capital and private equity funds that commit to investing in the Province of Manitoba."
+      },
+      {
+        "url": "https://connectmb.ca/manitobas-new-venture-capital-fund-makes-first-investment/",
+        "title": "Manitoba's New Venture Capital Fund Makes First Investment",
+        "publisher": "ConnectMB",
+        "accessed": "2026-06-03",
+        "supports": "first investment of $25M with Westcap Management",
+        "quote": "Manitoba First Fund — has made its first investment of $25 million with the veteran Saskatchewan venture capital money manager, WestCap Management Ltd."
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Founding year and total fund size not disclosed on public pages; structured as a fund-of-funds, so 'check size' to startups is not applicable.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "ca-north-forge-technology-exchange",
+    "name": {
+      "en": "North Forge Technology Exchange"
+    },
+    "aka": [
+      "North Forge",
+      "NF Angel Network"
+    ],
+    "type": "incubator",
+    "subtypes": [
+      "accelerator",
+      "angel-network"
+    ],
+    "status": "active",
+    "founded_year": 2016,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Winnipeg",
+    "offices": [
+      {
+        "country": "Canada",
+        "city": "Winnipeg"
+      }
+    ],
+    "website": "https://www.northforge.ca/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/northforge-manitoba",
+      "crunchbase": "https://www.crunchbase.com/organization/north-forge-technology-exchange",
+      "other": [
+        "https://www.northforge.ca/nf-angel-network"
+      ]
+    },
+    "capital": {
+      "aum": {},
+      "current_fund": {},
+      "funds": []
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_size": {},
+      "lead_or_follow": "both",
+      "geo_focus": [
+        "Manitoba",
+        "Canada"
+      ],
+      "sector_focus": [
+        "generalist",
+        "hardware-semiconductor",
+        "deeptech"
+      ],
+      "thesis": "Non-profit incubator-accelerator for technology, STEM and advanced-manufacturing startups, running a four-stage Founders Program and operating one of North America's largest publicly accessible fabrication labs; its NF Angel Network (launched Feb 2021 with NACO) connects accredited Canadian and US investors to program founders."
+    },
+    "program": {
+      "investment": {},
+      "format": "in-person",
+      "location": "Innovation Drive / Innovation Alley, Winnipeg (FabLab + co-working at U of Manitoba SmartPark)",
+      "perks": [
+        "FabLab access",
+        "mentorship",
+        "WeTech Loans",
+        "NF Angel Network introductions"
+      ],
+      "application_url": "https://www.northforge.ca/",
+      "eligibility": "Tech, STEM and advanced-manufacturing founders"
+    },
+    "track_record": {
+      "portfolio_count": "280+ companies (past 3 years)",
+      "notable_investments": [],
+      "co_investors": [
+        "National Angel Capital Organization (NACO)"
+      ]
+    },
+    "people": [
+      {
+        "name": "Joelle Foster",
+        "role": "CEO"
+      }
+    ],
+    "application": {
+      "how_to_apply": "Apply to the Founders Program via northforge.ca",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "manitoba",
+      "winnipeg",
+      "fablab",
+      "advanced-manufacturing",
+      "angel-network",
+      "non-hub"
+    ],
+    "summary": {
+      "en": "Winnipeg non-profit incubator-accelerator formed in 2016 from a merger of Eureka Project, AssentWorks, Ramp Up Manitoba and Startup Winnipeg; runs a four-stage Founders Program, a major FabLab and the NF Angel Network, having worked with 280+ companies in three years."
+    },
+    "sources": [
+      {
+        "url": "https://www.northforge.ca/nf-angel-network",
+        "title": "NF Angel Network — North Forge",
+        "publisher": "North Forge",
+        "accessed": "2026-06-03",
+        "supports": "angel network, Winnipeg base, programs",
+        "quote": "NF Angel Network is a network of accredited individuals from Canada and the US who wish to invest in and provide mentorship to founders who are a part of the North Forge Founders Program."
+      },
+      {
+        "url": "https://exchangedistrict.org/2024/05/16/empowering-innovators-inside-north-forge-technology-exchange/",
+        "title": "Empowering Innovators: Inside North Forge Technology Exchange",
+        "publisher": "The Exchange District BIZ",
+        "accessed": "2026-06-03",
+        "supports": "2016 merger origin, Winnipeg location, 280+ companies / 1,700 jobs",
+        "quote": "North Forge Technology Exchange is the result of a collaborative merger between The Eureka Project, AssentWorks, Ramp Up Manitoba and the Startup Winnipeg program ... On April 20, 2016"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Primarily an incubator/accelerator that channels capital via its angel network rather than a discretionary fund; specific cohort sizes and investment amounts not published.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "ca-co-labs-saskatoon",
+    "name": {
+      "en": "Co.Labs"
+    },
+    "aka": [
+      "Co.Labs Saskatoon"
+    ],
+    "type": "incubator",
+    "status": "active",
+    "founded_year": 2017,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Saskatoon",
+    "offices": [
+      {
+        "country": "Canada",
+        "city": "Saskatoon"
+      }
+    ],
+    "website": "https://www.co-labs.ca/",
+    "links": {
+      "other": [
+        "https://www.innovationplace.com/community/features/2020/11-Co.Labs.php",
+        "https://www.zoominfo.com/c/colabs/460950533"
+      ]
+    },
+    "capital": {
+      "aum": {},
+      "current_fund": {},
+      "funds": []
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_size": {},
+      "lead_or_follow": "follow",
+      "geo_focus": [
+        "Saskatchewan",
+        "Canada"
+      ],
+      "sector_focus": [
+        "generalist",
+        "hardware-semiconductor",
+        "saas-enterprise"
+      ],
+      "thesis": "Provincial non-profit technology incubator that exclusively supports teams building hardware and/or software products, working with founders from idea to ~$1M annual revenue with zero-cost programs, mentorship and office space to grow the Saskatchewan tech ecosystem."
+    },
+    "program": {
+      "equity_taken_pct": "0",
+      "investment": {
+        "raw": "no cash investment (zero-cost incubator)"
+      },
+      "format": "in-person",
+      "location": "Innovation Place, Saskatoon",
+      "perks": [
+        "mentorship",
+        "office space",
+        "programs (Co.Learn, Co.Launch, Co.Link, Co.Lead)",
+        "events"
+      ],
+      "application_url": "https://www.co-labs.ca/",
+      "eligibility": "Saskatchewan-based founders building hardware and/or software products"
+    },
+    "track_record": {
+      "portfolio_count": "230 startups incubated",
+      "notable_investments": [
+        {
+          "company": "Coconut Software",
+          "sector": "saas-enterprise",
+          "outcome": "active"
+        },
+        {
+          "company": "Agrimatics",
+          "sector": "agritech",
+          "outcome": "acquired"
+        },
+        {
+          "company": "7shifts",
+          "sector": "saas-enterprise",
+          "outcome": "active"
+        },
+        {
+          "company": "AndGo",
+          "sector": "saas-enterprise",
+          "outcome": "active"
+        }
+      ],
+      "co_investors": []
+    },
+    "people": [
+      {
+        "name": "Jordan Dutchak",
+        "role": "Founder / Executive Director"
+      }
+    ],
+    "application": {
+      "how_to_apply": "Apply via co-labs.ca",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "saskatchewan",
+      "saskatoon",
+      "incubator",
+      "hardware",
+      "non-hub"
+    ],
+    "summary": {
+      "en": "Saskatoon-based provincial non-profit tech incubator launched in 2017 (with $250K provincial seed funding) at Innovation Place; has incubated 230 startups credited with $68.4M private investment raised and $123.9M revenue generated."
+    },
+    "sources": [
+      {
+        "url": "https://www.co-labs.ca/",
+        "title": "Co.Labs — Saskatchewan's Tech Incubator",
+        "publisher": "Co.Labs",
+        "accessed": "2026-06-03",
+        "supports": "Saskatoon HQ, hardware/software focus, 230 startups, $68.4M investment, alumni",
+        "quote": "230 Startups Incubated ... $68.4M Private Investment Raised ... We exclusively support teams who are building hardware &/or software products."
+      },
+      {
+        "url": "https://www.saskatchewan.ca/government/news-and-media/2017/june/06/incubator-in-saskatoon",
+        "title": "Saskatchewan Launches Technology Incubator in Saskatoon",
+        "publisher": "Government of Saskatchewan",
+        "accessed": "2026-06-03",
+        "supports": "2017 launch, $250K provincial funding",
+        "quote": "the government committed $250,000 to support the operations of Co.Labs"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Non-cash incubator (no equity, no direct cheques); included as a non-hub ecosystem investor/enabler. Founder Jordan Dutchak per Innovation Place feature.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "ca-golden-opportunities-fund",
+    "name": {
+      "en": "Golden Opportunities Fund"
+    },
+    "aka": [
+      "Golden Opportunities Fund Inc.",
+      "Westcap Mgt."
+    ],
+    "type": "vc",
+    "subtypes": [
+      "growth-equity"
+    ],
+    "status": "active",
+    "founded_year": 1998,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Saskatoon",
+    "offices": [
+      {
+        "country": "Canada",
+        "city": "Saskatoon"
+      },
+      {
+        "country": "Canada",
+        "city": "Regina"
+      }
+    ],
+    "website": "https://goldenopportunities.ca/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/golden-opportunities-fund",
+      "other": [
+        "https://westcapmgt.ca/our-funds/"
+      ]
+    },
+    "capital": {
+      "aum": {
+        "raw": "~$1 billion AUM (manager Westcap Mgt. Ltd.)",
+        "currency": "CAD"
+      },
+      "current_fund": {},
+      "funds": [
+        {
+          "name": "Diversified Class",
+          "size": {
+            "currency": "CAD"
+          }
+        },
+        {
+          "name": "Innovation Class",
+          "size": {
+            "currency": "CAD"
+          }
+        },
+        {
+          "name": "Resource Class",
+          "size": {
+            "currency": "CAD"
+          }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": [
+        "growth",
+        "series-b",
+        "series-c-plus"
+      ],
+      "check_size": {},
+      "lead_or_follow": "both",
+      "geo_focus": [
+        "Saskatchewan",
+        "Manitoba"
+      ],
+      "sector_focus": [
+        "generalist",
+        "climate-energy"
+      ],
+      "thesis": "Saskatchewan's first and largest provincial retail labour-sponsored venture capital corporation; invests RRSP-eligible retail capital (with provincial tax credits) into Saskatchewan companies across diversified, innovation and resource share classes to keep investment dollars at home."
+    },
+    "track_record": {
+      "notable_investments": [
+        {
+          "company": "Smart Employee Benefits",
+          "sector": "saas-enterprise",
+          "outcome": "active"
+        }
+      ],
+      "co_investors": []
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Companies seeking capital apply via goldenopportunities.ca / Westcap Mgt.",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "saskatchewan",
+      "saskatoon",
+      "labour-sponsored",
+      "retail-vc",
+      "non-hub"
+    ],
+    "summary": {
+      "en": "Saskatchewan's first provincial retail (labour-sponsored) venture capital corporation, launched in 1998 and managed by Saskatoon-based Westcap Mgt. Ltd. (~$1B AUM); invests RRSP-eligible, tax-credited retail capital into Saskatchewan and Manitoba companies."
+    },
+    "sources": [
+      {
+        "url": "https://goldenopportunities.ca/about/",
+        "title": "About — Golden Opportunities",
+        "publisher": "Golden Opportunities Fund",
+        "accessed": "2026-06-03",
+        "supports": "labour-sponsored retail VC, Saskatchewan focus, share classes, manager Westcap, ~$1B AUM",
+        "quote": "Saskatchewan's First and Largest Provincial Labour-sponsored Venture Capital Corporation"
+      },
+      {
+        "url": "https://westcapmgt.ca/our-funds/",
+        "title": "Our Funds — Westcap Mgt. Ltd.",
+        "publisher": "Westcap Mgt. Ltd.",
+        "accessed": "2026-06-03",
+        "supports": "manager $1B AUM, 30+ years in Saskatchewan VC/PE",
+        "quote": "a leading venture capital and private equity Fund Manager in Saskatchewan with $1 billion in assets under management"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year reported as 1998 by BetaKit/search; 'about' page phrases it as 'over 25 years ago.' AUM figure is for manager Westcap across all mandates, not the fund alone.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "ca-east-valley-ventures",
+    "name": {
+      "en": "East Valley Ventures"
+    },
+    "type": "angel-network",
+    "subtypes": [
+      "accelerator"
+    ],
+    "status": "active",
+    "founded_year": 2012,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Saint John",
+    "offices": [
+      {
+        "country": "Canada",
+        "city": "Saint John"
+      }
+    ],
+    "website": "https://eastvalleyventures.com/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/east-valley-ventures",
+      "other": [
+        "https://www.cbinsights.com/investor/east-valley-ventures",
+        "https://aventure.vc/investors/firms/east-valley-ventures-saint-john-ca"
+      ]
+    },
+    "capital": {
+      "aum": {},
+      "current_fund": {},
+      "funds": []
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed",
+        "series-a"
+      ],
+      "check_size": {
+        "raw": "$1M–$5M (typical deals)"
+      },
+      "lead_or_follow": "both",
+      "geo_focus": [
+        "Atlantic Canada",
+        "New Brunswick"
+      ],
+      "sector_focus": [
+        "saas-enterprise",
+        "ai-ml",
+        "generalist"
+      ],
+      "thesis": "Saint John-based accelerator and angel investor group (a subsidiary of Mariner Partners) that helps Atlantic Canadian founders in IT, media and information services build enduring technology companies, providing capital plus governance and go-to-market support."
+    },
+    "track_record": {
+      "notable_investments": [
+        {
+          "company": "Resson",
+          "sector": "agritech",
+          "outcome": "active"
+        },
+        {
+          "company": "Swept",
+          "sector": "saas-enterprise",
+          "outcome": "active"
+        },
+        {
+          "company": "Versos AI",
+          "sector": "ai-ml",
+          "outcome": "active"
+        }
+      ],
+      "exits": [
+        {
+          "company": "Q1 Labs",
+          "type": "M&A",
+          "value": {}
+        },
+        {
+          "company": "Radian6",
+          "type": "M&A",
+          "value": {}
+        },
+        {
+          "company": "Brovada",
+          "type": "M&A",
+          "value": {}
+        }
+      ],
+      "co_investors": [
+        "Mariner Partners"
+      ]
+    },
+    "people": [
+      {
+        "name": "Gerry Pond",
+        "role": "Co-founder & Chair Emeritus"
+      },
+      {
+        "name": "Bob Justason",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Bob Neal",
+        "role": "Co-founder"
+      }
+    ],
+    "application": {
+      "how_to_apply": "Contact via eastvalleyventures.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "new-brunswick",
+      "saint-john",
+      "atlantic-canada",
+      "angel",
+      "accelerator",
+      "non-hub"
+    ],
+    "summary": {
+      "en": "Saint John, NB accelerator and angel group founded in 2012 by Gerry Pond and partners (a Mariner Partners subsidiary); backs early-stage Atlantic Canadian ICT/media startups with deals typically $1–5M, with portfolio exits exceeding $1B (Q1 Labs, Radian6, Brovada)."
+    },
+    "sources": [
+      {
+        "url": "https://www.cbinsights.com/investor/east-valley-ventures",
+        "title": "East Valley Ventures — Portfolio, Funds, Exits",
+        "publisher": "CB Insights",
+        "accessed": "2026-06-03",
+        "supports": "Saint John base, Atlantic Canada IT/media focus, deal range $1–5M",
+        "quote": "Deals in the range of 1-5 million dollars are typical for the fund"
+      },
+      {
+        "url": "https://eastvalleyventures.com/about/gerry-pond/",
+        "title": "Gerry Pond — East Valley Ventures",
+        "publisher": "East Valley Ventures",
+        "accessed": "2026-06-03",
+        "supports": "founding 2012, founders, Mariner Partners link, exits over $1B",
+        "quote": "Exits by East Valley's investees total more than $1 billion and include the acquisition of Q1 Labs, Radian6, and Brovada"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding given as 2011 by some profiles and 2012 by others; fund size not disclosed (operates as accelerator + angel group, deals via Mariner ecosystem).",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "ca-killick-capital",
+    "name": {
+      "en": "Killick Capital"
+    },
+    "aka": [
+      "Killick Capital Inc."
+    ],
+    "type": "vc",
+    "subtypes": [
+      "family-office"
+    ],
+    "status": "active",
+    "founded_year": 2004,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "St. John's",
+    "offices": [
+      {
+        "country": "Canada",
+        "city": "St. John's"
+      }
+    ],
+    "website": "https://killickcapital.com/",
+    "links": {
+      "crunchbase": "https://www.crunchbase.com/person/mark-dobbin",
+      "other": [
+        "https://killickcapital.com/people/",
+        "https://killickcapital.com/venture-nl-killick-fund-3-startups/"
+      ]
+    },
+    "capital": {
+      "aum": {},
+      "current_fund": {},
+      "funds": [
+        {
+          "name": "Killick Venture Fund",
+          "size": {}
+        },
+        {
+          "name": "Killick Aerospace Fund",
+          "size": {}
+        },
+        {
+          "name": "Killick Newfoundland & Labrador Fund",
+          "size": {}
+        }
+      ]
+    },
+    "strategy": {
+      "stages": [
+        "seed",
+        "series-a",
+        "growth"
+      ],
+      "check_size": {},
+      "lead_or_follow": "both",
+      "geo_focus": [
+        "Newfoundland and Labrador",
+        "Atlantic Canada"
+      ],
+      "sector_focus": [
+        "generalist",
+        "spacetech",
+        "biotech"
+      ],
+      "thesis": "St. John's-based private equity / venture firm investing primarily but not exclusively in technology-driven startups with high growth potential, plus aerospace and broader Atlantic Canadian businesses; often co-invests with the Venture NL fund and provides mentorship and governance support."
+    },
+    "track_record": {
+      "notable_investments": [
+        {
+          "company": "HeyOrca",
+          "sector": "saas-enterprise",
+          "outcome": "active"
+        },
+        {
+          "company": "Sequence Bio",
+          "sector": "biotech",
+          "outcome": "active"
+        },
+        {
+          "company": "PathFactory",
+          "sector": "saas-enterprise",
+          "outcome": "acquired"
+        },
+        {
+          "company": "Seaformatics",
+          "sector": "climate-energy",
+          "outcome": "active"
+        }
+      ],
+      "co_investors": [
+        "Pelorus Venture Capital",
+        "Venture Newfoundland and Labrador"
+      ]
+    },
+    "people": [
+      {
+        "name": "Mark Dobbin",
+        "role": "Founder & President"
+      }
+    ],
+    "application": {
+      "how_to_apply": "Contact via killickcapital.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "newfoundland",
+      "st-johns",
+      "atlantic-canada",
+      "aerospace",
+      "non-hub"
+    ],
+    "summary": {
+      "en": "St. John's, NL private equity / venture firm founded in 2004 by Mark Dobbin, running venture, aerospace and Newfoundland & Labrador funds and frequently co-investing with Pelorus and the Venture NL fund (HeyOrca, Sequence Bio, Seaformatics)."
+    },
+    "sources": [
+      {
+        "url": "https://killickcapital.com/",
+        "title": "Home — Killick Capital",
+        "publisher": "Killick Capital",
+        "accessed": "2026-06-03",
+        "supports": "St. John's base, venture/aerospace/NL funds, tech focus, mentorship model",
+        "quote": "Killick's Venture Fund invests primarily but not exclusively in technology-driven startups with high growth potential"
+      },
+      {
+        "url": "https://killickcapital.com/people/",
+        "title": "Mark Dobbin, Founder and President — Killick Capital",
+        "publisher": "Killick Capital",
+        "accessed": "2026-06-03",
+        "supports": "founder Mark Dobbin, founding 2004, St. John's NL",
+        "quote": "Mark Dobbin Founder and President"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding year (2004) and St. John's HQ per search/Crunchbase; fund sizes and check sizes not publicly disclosed. Operates partly as a family-office-style PE firm.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "ca-cindicates",
+    "name": {
+      "en": "Cindicates"
+    },
+    "type": "vc",
+    "subtypes": [
+      "angel-syndicate"
+    ],
+    "status": "active",
+    "founded_year": 2020,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Victoria",
+    "offices": [
+      {
+        "country": "Canada",
+        "city": "Victoria"
+      }
+    ],
+    "website": "https://cindicates.com/",
+    "links": {
+      "other": [
+        "https://www.douglasmagazine.com/introducing-cindicates-victorias-own-seed-vc-fund/"
+      ]
+    },
+    "capital": {
+      "aum": {},
+      "current_fund": {},
+      "funds": []
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_size": {},
+      "lead_or_follow": "both",
+      "geo_focus": [
+        "Victoria",
+        "Vancouver Island",
+        "British Columbia"
+      ],
+      "sector_focus": [
+        "saas-enterprise",
+        "ai-ml",
+        "ecommerce",
+        "consumer"
+      ],
+      "thesis": "Victoria-based Venture Capital Corporation (RRSP-eligible with 30% BC tax credit) backing pre-seed and seed-stage BC startups — with a focus on Vancouver Island companies in software, AI, marketplaces, e-commerce and consumer products — that are committed to ESG practices."
+    },
+    "track_record": {
+      "portfolio_count": "20 startups funded (5 cohorts)",
+      "notable_investments": [],
+      "co_investors": [
+        "Capital Investment Network",
+        "Women's Equity Lab",
+        "Alacrity"
+      ]
+    },
+    "people": [
+      {
+        "name": "James DeGreef",
+        "role": "Managing Director & President"
+      },
+      {
+        "name": "John Austin",
+        "role": "Managing Partner"
+      },
+      {
+        "name": "Stephanie Andrew",
+        "role": "General Partner & CFO"
+      },
+      {
+        "name": "Lisa Grandbois",
+        "role": "General Partner"
+      }
+    ],
+    "application": {
+      "how_to_apply": "Apply via cindicates.com",
+      "accepts_cold_inbound": true,
+      "contact": "contact@cindicates.com"
+    },
+    "tags": [
+      "british-columbia",
+      "victoria",
+      "vancouver-island",
+      "vcc",
+      "esg",
+      "non-hub"
+    ],
+    "summary": {
+      "en": "Victoria, BC venture capital corporation founded in 2020, providing RRSP-eligible (30% BC tax credit) pre-seed/seed funding to Vancouver Island and BC startups; has funded 20 startups across 5 cohorts alongside ~100 community investors."
+    },
+    "sources": [
+      {
+        "url": "https://cindicates.com/",
+        "title": "Cindicates — Win Together",
+        "publisher": "Cindicates",
+        "accessed": "2026-06-03",
+        "supports": "Victoria HQ, 2020 founding, VCC + 30% tax credit, pre-seed/seed BC focus, 20 startups, team",
+        "quote": "20 Startups Funded ... 100 Community Investors ... 777 Fort St, Victoria, BC V8W 1H2"
+      },
+      {
+        "url": "https://www.douglasmagazine.com/introducing-cindicates-victorias-own-seed-vc-fund/",
+        "title": "Introducing Cindicates, Victoria's own Seed VC Fund",
+        "publisher": "Douglas Magazine",
+        "accessed": "2026-06-03",
+        "supports": "Victoria/Vancouver Island focus, sectors, affiliations",
+        "quote": "Cindicates looks across B.C., with a focus on Victoria and Vancouver Island pre-seed and seed-stage companies"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Fund size and check size not publicly stated; positioned as a Victoria-based VCC fund closely affiliated with CIN, Women's Equity Lab and VIATEC.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "ca-acet",
+    "name": {
+      "en": "ACET (Accélérateur de création d'entreprises technologiques)",
+      "local": "Accélérateur de création d'entreprises technologiques"
+    },
+    "aka": [
+      "ACET",
+      "ACET Capital"
+    ],
+    "type": "accelerator",
+    "subtypes": [
+      "incubator",
+      "vc"
+    ],
+    "status": "active",
+    "founded_year": 2011,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Sherbrooke",
+    "offices": [
+      {
+        "country": "Canada",
+        "city": "Sherbrooke"
+      }
+    ],
+    "website": "https://acet.ca/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/acet-acc%C3%A9l%C3%A9rateur-de-cr%C3%A9ation-d-entreprises-technologiques",
+      "other": [
+        "https://reseaucapital.com/en/members/acet/"
+      ]
+    },
+    "capital": {
+      "aum": {},
+      "current_fund": {
+        "raw": "ACET Capital 2 — $7.6 million",
+        "currency": "CAD"
+      },
+      "funds": [
+        {
+          "name": "ACET Capital 2",
+          "size": {
+            "raw": "$7.6 million",
+            "currency": "CAD"
+          }
+        }
+      ]
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_size": {},
+      "lead_or_follow": "both",
+      "geo_focus": [
+        "Quebec",
+        "Estrie",
+        "Sherbrooke"
+      ],
+      "sector_focus": [
+        "deeptech",
+        "biotech",
+        "climate-energy",
+        "hardware-semiconductor"
+      ],
+      "thesis": "Sherbrooke-based technology incubator-accelerator (linked to Université de Sherbrooke) that helps entrepreneurs build innovative companies with positive societal impact in digital, green, life-science/health, quantum and advanced-manufacturing technologies, financing them through its angel-backed ACET Capital funds."
+    },
+    "program": {
+      "investment": {},
+      "format": "in-person",
+      "location": "Sherbrooke, Québec",
+      "perks": [
+        "coaching",
+        "mentorship",
+        "commercialization strategy",
+        "ACET Capital financing",
+        "ACET Boost pre-incubation with Université de Sherbrooke"
+      ],
+      "application_url": "https://acet.ca/planifions-un-appel/",
+      "eligibility": "Technology entrepreneurs (Quebec / Estrie focus)"
+    },
+    "track_record": {
+      "portfolio_count": "~80 business projects accompanied since 2011",
+      "notable_investments": [
+        {
+          "company": "InfinityQ",
+          "sector": "deeptech",
+          "outcome": "active"
+        },
+        {
+          "company": "Ki3 Photonics",
+          "sector": "deeptech",
+          "outcome": "active"
+        },
+        {
+          "company": "Classcraft",
+          "sector": "edtech",
+          "outcome": "acquired"
+        }
+      ],
+      "co_investors": [
+        "National Bank",
+        "Investissement Québec"
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Book a call via acet.ca/planifions-un-appel/",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "quebec",
+      "sherbrooke",
+      "estrie",
+      "deeptech",
+      "quantum",
+      "non-hub",
+      "french"
+    ],
+    "summary": {
+      "en": "Sherbrooke (Estrie) technology incubator-accelerator founded in 2011, tied to Université de Sherbrooke; has accompanied ~80 projects and finances them via its angel-backed ACET Capital funds, including the $7.6M ACET Capital 2.",
+      "local": "Incubateur-accélérateur technologique de Sherbrooke fondé en 2011, lié à l'Université de Sherbrooke ; a accompagné près de 80 projets et les finance via ses fonds ACET Capital soutenus par des anges, dont ACET Capital 2 de 7,6 M$."
+    },
+    "sources": [
+      {
+        "url": "https://acet.ca/",
+        "title": "ACET — Un accélérateur technologique à la hauteur de vos ambitions",
+        "publisher": "ACET",
+        "accessed": "2026-06-03",
+        "supports": "Sherbrooke base, sector focus, ACET Capital, portfolio, services",
+        "quote": "Un incubateur-accélérateur technologique qui aide les entrepreneur·es à bâtir le monde de demain"
+      },
+      {
+        "url": "https://acet.ca/actualites/fonds-de-76-m-pour-les-entreprises-technologiques-de-lacet/",
+        "title": "Fonds de 7,6 M$ pour les entreprises technologiques de l'ACET",
+        "publisher": "ACET",
+        "accessed": "2026-06-03",
+        "supports": "ACET Capital 2 size $7.6M, backers (Quebec govt, National Bank, 21 private investors), founding 2011, ~80 projects",
+        "quote": "ACET Capital 2 is capitalized at $7.6 million, with $2 million from the Quebec government, $1.4 million from National Bank, and $4.2 million from 21 private investors"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founding 2011 and ~80 projects per ACET/La Tribune; per-deal check size not disclosed. Quantacet (separate $20M quantum fund tied to ACET's ecosystem) already recorded elsewhere in the dataset.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "ca-one9-investments",
+    "name": {
+      "en": "ONE9 Investments"
+    },
+    "aka": [
+      "ONE9",
+      "One9",
+      "ONE9 (Kensington Capital Partners platform)"
+    ],
+    "type": "vc",
+    "status": "active",
+    "founded_year": 2013,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Ottawa",
+    "offices": [
+      {
+        "country": "Canada",
+        "city": "Ottawa"
+      }
+    ],
+    "website": "https://www.one9.ca/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/one-9-investments",
+      "other": [
+        "https://www.one9.ca/venture",
+        "https://obj.ca/one9-acquired-by-kensington-capital-partners/"
+      ]
+    },
+    "capital": {
+      "aum": {},
+      "current_fund": {},
+      "funds": []
+    },
+    "strategy": {
+      "stages": [
+        "seed",
+        "series-a",
+        "growth"
+      ],
+      "check_size": {},
+      "lead_or_follow": "both",
+      "geo_focus": [
+        "Canada",
+        "United States",
+        "North America"
+      ],
+      "sector_focus": [
+        "deeptech",
+        "cybersecurity",
+        "spacetech",
+        "robotics",
+        "ai-ml"
+      ],
+      "thesis": "Ottawa-founded venture capital firm dedicated to national security and defence technologies, bridging private capital and dual-use military innovation across advanced manufacturing, aerospace, autonomous systems/robotics, AI, critical-infrastructure protection, cybersecurity, IoT and quantum computing."
+    },
+    "track_record": {
+      "portfolio_count": "7 (6 active, 1 exit)",
+      "notable_investments": [
+        {
+          "company": "Slingshot Aerospace",
+          "sector": "spacetech",
+          "outcome": "active"
+        },
+        {
+          "company": "goTenna",
+          "sector": "deeptech",
+          "outcome": "active"
+        },
+        {
+          "company": "Hidden Level",
+          "sector": "deeptech",
+          "outcome": "active"
+        },
+        {
+          "company": "Tomahawk Robotics",
+          "sector": "robotics",
+          "outcome": "acquired"
+        }
+      ],
+      "co_investors": [
+        "Kensington Capital Partners",
+        "Invest Ottawa"
+      ]
+    },
+    "people": [
+      {
+        "name": "Glenn Cowan",
+        "role": "Founder & Managing Partner"
+      }
+    ],
+    "application": {
+      "how_to_apply": "Request info via one9.ca",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "ontario",
+      "ottawa",
+      "defence",
+      "national-security",
+      "dual-use",
+      "non-hub"
+    ],
+    "summary": {
+      "en": "Ottawa-founded national-security and defence venture firm launched in 2013 by ex-JTF2 officer Glenn Cowan; invests in dual-use defence/security tech (Slingshot Aerospace, goTenna, Hidden Level) and in April 2025 was acquired by Toronto's Kensington Capital Partners as its defence-tech VC platform."
+    },
+    "sources": [
+      {
+        "url": "https://obj.ca/one9-acquired-by-kensington-capital-partners/",
+        "title": "Ottawa-based defence VC fund ONE9 acquired by Kensington Capital Partners",
+        "publisher": "Ottawa Business Journal",
+        "accessed": "2026-06-03",
+        "supports": "Ottawa base, defence focus, founder Glenn Cowan, 2025 Kensington acquisition",
+        "quote": "Ottawa-based defence VC fund ONE9 acquired by Kensington Capital Partners"
+      },
+      {
+        "url": "https://www.one9.ca/venture",
+        "title": "Venture — ONE9",
+        "publisher": "ONE9",
+        "accessed": "2026-06-03",
+        "supports": "national security/defence focus, investment themes, portfolio, Kensington platform",
+        "quote": "A PLATFORM OF KENSINGTON CAPITAL PARTNERS"
+      }
+    ],
+    "confidence": "high",
+    "verification_notes": "Founded 2013 in Ottawa by Glenn Cowan; acquired by Toronto's Kensington Capital Partners in April 2025 and now run as Kensington's defence/security platform — Ottawa team and Invest Ottawa partnership remain, so retained under Ottawa. Fund size/check size not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "ca-accelerate-okanagan",
+    "name": {
+      "en": "Accelerate Okanagan"
+    },
+    "aka": [
+      "OKGN"
+    ],
+    "type": "accelerator",
+    "subtypes": [
+      "incubator"
+    ],
+    "status": "active",
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Kelowna",
+    "offices": [
+      {
+        "country": "Canada",
+        "city": "Kelowna"
+      }
+    ],
+    "website": "https://accelerateokanagan.com/",
+    "links": {
+      "linkedin": "https://ca.linkedin.com/company/accelerate-okanagan",
+      "other": [
+        "https://www.canada.ca/en/pacific-economic-development/campaigns/stories/accelerate-okanagan.html"
+      ]
+    },
+    "capital": {
+      "aum": {},
+      "current_fund": {},
+      "funds": []
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_size": {
+        "raw": "Delta program: up to $45,000 co-investment"
+      },
+      "lead_or_follow": "follow",
+      "geo_focus": [
+        "Okanagan",
+        "Southern Interior British Columbia"
+      ],
+      "sector_focus": [
+        "generalist",
+        "saas-enterprise",
+        "ai-ml"
+      ],
+      "thesis": "Kelowna-based non-profit technology accelerator giving Okanagan and Southern Interior BC founders mentorship, connections and community, plus capital-focused programming (Delta co-investment, Fundable, and the Okanagan Angel Summit) to help startups raise and grow."
+    },
+    "program": {
+      "length_weeks": 8,
+      "investment": {
+        "raw": "up to $45,000 co-investment (Delta); $200K+ deployed at Angel Summit finale",
+        "currency": "CAD"
+      },
+      "format": "hybrid",
+      "location": "Kelowna Innovation Centre, Kelowna, BC",
+      "demo_day": true,
+      "perks": [
+        "ThreeSixty advisory",
+        "Delta co-investment",
+        "Fundable capital program",
+        "Okanagan Angel Summit",
+        "Accelerate IP",
+        "OKGN Works coworking"
+      ],
+      "application_url": "https://accelerateokanagan.com/",
+      "eligibility": "Technology-driven Okanagan / BC Interior startups"
+    },
+    "track_record": {
+      "notable_investments": [],
+      "co_investors": [
+        "Okanagan Angel Summit investors"
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply to programs via accelerateokanagan.com",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "british-columbia",
+      "kelowna",
+      "okanagan",
+      "accelerator",
+      "angel-summit",
+      "non-hub"
+    ],
+    "summary": {
+      "en": "Kelowna-based non-profit tech accelerator serving the Okanagan / Southern Interior BC; runs founder programs plus capital initiatives including the Delta co-investment (up to $45K) and the 8-week Okanagan Angel Summit, which has deployed $200K+ at its finale."
+    },
+    "sources": [
+      {
+        "url": "https://accelerateokanagan.com/",
+        "title": "Accelerate Okanagan | Technology Business Accelerator",
+        "publisher": "Accelerate Okanagan",
+        "accessed": "2026-06-03",
+        "supports": "Kelowna base, programs, Delta co-investment up to $45K, Angel Summit",
+        "quote": "Delta ... Offers 'up to $45,000 in co-investment' for growth-stage tech companies"
+      },
+      {
+        "url": "https://www.canada.ca/en/pacific-economic-development/campaigns/stories/accelerate-okanagan.html",
+        "title": "Driving innovation: How Accelerate Okanagan is transforming the Okanagan tech community",
+        "publisher": "Government of Canada (PacifiCan)",
+        "accessed": "2026-06-03",
+        "supports": "Okanagan tech community role, Kelowna Innovation Centre",
+        "quote": "Accelerate Okanagan ... helping start-ups and growth-stage companies throughout the region"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Primarily an accelerator/angel-program organizer rather than a discretionary fund; founding year not confirmed. Okanagan Angel Summit deploys investor (not AO) capital. Included as a non-hub ecosystem investor.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "ca-invest-nova-scotia-vc",
+    "name": {
+      "en": "Invest Nova Scotia (Venture Capital)"
+    },
+    "aka": [
+      "Innovacorp",
+      "Invest Nova Scotia VC"
+    ],
+    "type": "government-program",
+    "subtypes": [
+      "vc"
+    ],
+    "status": "active",
+    "founded_year": 1995,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Halifax",
+    "offices": [
+      {
+        "country": "Canada",
+        "city": "Halifax"
+      }
+    ],
+    "website": "https://investnovascotia.ca/",
+    "links": {
+      "other": [
+        "https://investnovascotia.ca/start-up/investment",
+        "https://halifaxpartnership.com/news/article/halifaxs-cluster-of-venture-capital-funds-is-evolving/"
+      ]
+    },
+    "capital": {
+      "aum": {},
+      "current_fund": {},
+      "funds": []
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_size": {},
+      "lead_or_follow": "both",
+      "geo_focus": [
+        "Nova Scotia"
+      ],
+      "sector_focus": [
+        "generalist",
+        "deeptech",
+        "biotech"
+      ],
+      "thesis": "Nova Scotia's provincial economic development agency, which absorbed early-stage VC firm Innovacorp (est. 1995); continues pre-seed venture capital activity in Nova Scotia knowledge-based startups and backs a diverse portfolio of regional VC funds to strengthen the province's venture ecosystem."
+    },
+    "track_record": {
+      "notable_investments": [],
+      "co_investors": [
+        "Concrete Ventures",
+        "BDC Capital"
+      ]
+    },
+    "people": [],
+    "application": {
+      "how_to_apply": "Apply via investnovascotia.ca start-up / venture capital investment pages",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "nova-scotia",
+      "halifax",
+      "government-backed",
+      "pre-seed",
+      "non-hub"
+    ],
+    "summary": {
+      "en": "Halifax-based provincial agency that absorbed Innovacorp (Nova Scotia's early-stage VC firm founded 1995); continues pre-seed venture capital investing in Nova Scotia startups and invests in regional VC funds. It deployed $8.8M of VC investments in fiscal 2022-23."
+    },
+    "sources": [
+      {
+        "url": "https://investnovascotia.ca/start-up/investment",
+        "title": "Venture Capital Investment | Invest Nova Scotia",
+        "publisher": "Invest Nova Scotia",
+        "accessed": "2026-06-03",
+        "supports": "Nova Scotia VC mandate, fund investments, Innovacorp continuity",
+        "quote": "Invest Nova Scotia partners with venture capital funds that invest in innovative, high-growth Nova Scotia start-ups"
+      },
+      {
+        "url": "https://entrevestor.com/home/entry/invest-ns-made-8.8m-of-vc-investments-in-fiscal-22-23",
+        "title": "Invest NS Made $8.8M of VC Investments in Fiscal '22-'23",
+        "publisher": "Entrevestor",
+        "accessed": "2026-06-03",
+        "supports": "$8.8M VC investments fiscal 2022-23, Innovacorp integration",
+        "quote": "Invest NS Made $8.8M of VC Investments in Fiscal '22-'23"
+      }
+    ],
+    "confidence": "medium",
+    "verification_notes": "Innovacorp (founded 1995) was integrated into Invest Nova Scotia; this entry reflects the successor agency's pre-seed VC activity. Exact current fund sizes and check sizes not disclosed.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
+  },
+  {
+    "id": "ca-capital-investment-network",
+    "name": {
+      "en": "Capital Investment Network"
+    },
+    "aka": [
+      "CIN"
+    ],
+    "type": "angel-network",
+    "status": "active",
+    "founded_year": 2015,
+    "region": "canada",
+    "country": "Canada",
+    "hq_city": "Victoria",
+    "offices": [
+      {
+        "country": "Canada",
+        "city": "Victoria"
+      }
+    ],
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/pfelkins/",
+      "other": [
+        "https://www.timescolonist.com/business/group-aims-to-match-startups-investors-4608809"
+      ]
+    },
+    "capital": {
+      "aum": {},
+      "current_fund": {},
+      "funds": []
+    },
+    "strategy": {
+      "stages": [
+        "pre-seed",
+        "seed"
+      ],
+      "check_size": {},
+      "lead_or_follow": "both",
+      "geo_focus": [
+        "Victoria",
+        "Vancouver Island",
+        "British Columbia"
+      ],
+      "sector_focus": [
+        "generalist"
+      ],
+      "thesis": "Victoria-based angel investor network connecting accredited investors with entrepreneurs to cut the time startups spend raising; founders pitch via short video presentations routed to suitable investor groups, with an educational component for new angels and a focus on demographically diverse founders."
+    },
+    "track_record": {
+      "notable_investments": [],
+      "co_investors": [
+        "Cindicates"
+      ]
+    },
+    "people": [
+      {
+        "name": "Peter Elkins",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Stephanie Andrew",
+        "role": "Co-founder"
+      }
+    ],
+    "application": {
+      "how_to_apply": "Pitch via short video presentation routed to investor groups (through the network)",
+      "accepts_cold_inbound": true
+    },
+    "tags": [
+      "british-columbia",
+      "victoria",
+      "vancouver-island",
+      "angel-network",
+      "non-hub"
+    ],
+    "summary": {
+      "en": "Victoria, BC angel investor network founded in 2015 by Peter Elkins and Stephanie Andrew to connect accredited investors with founders (via short video pitches) and grow the Vancouver Island angel community; closely affiliated with the Cindicates VCC fund."
+    },
+    "sources": [
+      {
+        "url": "https://www.timescolonist.com/business/group-aims-to-match-startups-investors-4608809",
+        "title": "Group aims to match startups, investors",
+        "publisher": "Victoria Times Colonist",
+        "accessed": "2026-06-03",
+        "supports": "Victoria angel network, video-pitch model, educational component",
+        "quote": "The network brings together accredited investors to cut down on the time startups spend trying to lure investment"
+      },
+      {
+        "url": "https://www.douglasmagazine.com/introducing-cindicates-victorias-own-seed-vc-fund/",
+        "title": "Introducing Cindicates, Victoria's own Seed VC Fund",
+        "publisher": "Douglas Magazine",
+        "accessed": "2026-06-03",
+        "supports": "founders (Elkins, Andrew) founded CIN in 2015, affiliation with Cindicates",
+        "quote": "Peter Elkins and Stephanie Andrew founded the Capital Investment Network in 2015"
+      }
+    ],
+    "confidence": "low",
+    "verification_notes": "No active standalone website found at expected domain; details from Times Colonist and Douglas Magazine secondary coverage. Member count and deal volume not verified.",
+    "last_updated": "2026-06-03",
+    "researched_by": "exp-secondary-cities"
   },
   {
     "id": "ca-one9",
