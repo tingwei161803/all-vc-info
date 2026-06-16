@@ -12,7 +12,7 @@
 
 ## 🌐 線上互動圖鑑
 
-**<https://tingwei161803.github.io/all-vc-info/>**
+**<https://all-vc-info.peteraim.com/>**
 
 多軸篩選(地區 × 類型 × 產業 × 階段)· 全文搜尋(機構名/國家/論點/被投公司)· 中英雙語全頁切換 ·
 深淺色模式 · 點卡片看完整詳情與**來源 quote 佐證** · 可分享的 URL 篩選狀態 · CSV 匯出。
