@@ -30,7 +30,7 @@
   ];
 
   var I18N = {
-    en: { brand: "All-VC-Info", footer: "Unofficial research compilation · every figure is traceable to the sources on each entry. Verify before citing.",
+    en: { brand: "All-VC-Info", footer: "Unofficial research compilation · every figure is traceable to the sources on each entry. Verify before citing.", by: "Researched & compiled by Peter",
       close: "Close", search_ph: "Search name, country, thesis, portfolio…",
       f_region: "Region", f_type: "Type", f_sector: "Sector", f_stage: "Stage", f_conf: "Confidence",
       more_filters: "More filters", reset: "Reset", csv: "Export CSV", sort_label: "Sort",
@@ -42,7 +42,7 @@
       k_thesis: "Thesis", k_sectors: "Sectors", k_geo: "Geo focus", k_lead: "Lead/follow", k_funds: "Funds", k_cohort: "Cohort", k_batches: "Batches/yr", k_length: "Length", k_equity: "Equity",
       k_invest: "Investment", k_accept: "Acceptance", k_eligibility: "Eligibility", k_applyurl: "Apply", k_notable: "Notable investments", k_exits: "Exits", k_coinv: "Co-investors", k_cold: "Cold inbound", k_contact: "Contact",
       weeks: "wks", yes: "Yes", no: "No", view_region: "View region", entities: "organizations", top_types: "Top types", top_sectors: "Top sectors", rank: "Rank", count: "Count" },
-    zh: { brand: "全球創投名錄", footer: "非官方整理 · 每個數字都可回溯到該筆的來源。引用前請自行查證。",
+    zh: { brand: "全球創投名錄", footer: "非官方整理 · 每個數字都可回溯到該筆的來源。引用前請自行查證。", by: "由 Peter 搜尋整理",
       close: "關閉", search_ph: "搜尋 機構名 / 國家 / 論點 / 被投公司…",
       f_region: "地區", f_type: "類型", f_sector: "產業", f_stage: "階段", f_conf: "信心度",
       more_filters: "進階篩選", reset: "清除", csv: "匯出 CSV", sort_label: "排序",
@@ -450,7 +450,7 @@
     if(PAGE.kind==="region" && CUR_REGION){ var rl=L.region[CUR_REGION]; if(rl) ptitle=(rl[state.lang]||rl.en); }
     document.title=ptitle+" · All-VC-Info";
     var b=$("brandName"); if(b) b.textContent=ui("brand");
-    var f=$("footerText"); if(f) f.textContent=ui("footer");
+    var f=$("footerText"); if(f) f.innerHTML=esc(ui("footer"))+'<br><span class="footer__by">'+esc(ui("by"))+' · <a href="https://www.linkedin.com/in/ai-med/" target="_blank" rel="noopener noreferrer">LinkedIn</a></span>';
   }
   function render(){ paintChrome(); paintRail(); paint(); paintNav(); spy(); counters(); }
 
