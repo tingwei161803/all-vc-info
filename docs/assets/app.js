@@ -64,7 +64,7 @@
   var CUR_REGION = PAGE.kind === "region" ? (PARAMS.get("r") || "") : "";
 
   var state = {
-    lang: lsGet("lang") || "zh", theme: lsGet("theme") || "light",
+    lang: lsGet("lang") || "en", theme: lsGet("theme") || "light",
     q: "", region: new Set(), type: new Set(), sector: new Set(), stage: new Set(), conf: new Set(),
     sort: "name", limit: 48
   };
