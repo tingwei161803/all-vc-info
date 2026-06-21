@@ -450,7 +450,11 @@
     if(PAGE.kind==="region" && CUR_REGION){ var rl=L.region[CUR_REGION]; if(rl) ptitle=(rl[state.lang]||rl.en); }
     document.title=ptitle+" · All-VC-Info";
     var b=$("brandName"); if(b) b.textContent=ui("brand");
-    var f=$("footerText"); if(f) f.innerHTML=esc(ui("footer"))+'<br><span class="footer__by">'+esc(ui("by"))+' · <a href="https://www.linkedin.com/in/ai-med/" target="_blank" rel="noopener noreferrer">LinkedIn</a></span>';
+    var f=$("footerText"); if(f) f.innerHTML=esc(ui("footer"))+'<br><span class="footer__by">'+esc(ui("by"))+' · <a href="https://www.linkedin.com/in/ai-med/" target="_blank" rel="noopener noreferrer">LinkedIn</a></span>'
+      +'<div class="profile-links" style="display:flex;gap:12px;justify-content:center;align-items:center;margin-top:10px">'
+      +  '<a class="icon-btn" href="https://www.peteraim.com" target="_blank" rel="noopener" title="Home" aria-label="Back to peteraim.com / 返回首頁">'
+      +    '<span class="material-symbols-rounded">home</span>'
+      +  '</a>'      +'</div>';
   }
   function render(){ paintChrome(); paintRail(); paint(); paintNav(); spy(); counters(); }
 
