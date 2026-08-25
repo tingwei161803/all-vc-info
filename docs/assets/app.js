@@ -63,8 +63,14 @@
   var PARAMS = new URLSearchParams(location.search);
   var CUR_REGION = PAGE.kind === "region" ? (PARAMS.get("r") || "") : "";
 
+  /* 網址決定語言:每種語言有自己的頁面,頁面用 <html lang> 宣告自己是哪一種。
+     不從 localStorage 讀回來——訪客直接開 /en/ 就該看到英文,即使他上次選過中文;
+     爬蟲更是完全沒有 localStorage。 */
+  var PAGE_LANG = (document.documentElement.getAttribute("lang") || "en")
+    .toLowerCase().indexOf("zh") === 0 ? "zh" : "en";
+
   var state = {
-    lang: lsGet("lang") || "en", theme: lsGet("theme") || "light",
+    lang: PAGE_LANG, theme: lsGet("theme") || "light",
     q: "", region: new Set(), type: new Set(), sector: new Set(), stage: new Set(), conf: new Set(),
     sort: "name", limit: 48
   };
@@ -445,7 +451,6 @@
     railEl.innerHTML=PAGES.map(function(p){var on=p.id===PAGE.id;return '<a class="railpill'+(on?" railpill--on":"")+'" href="'+p.href+'"'+(on?' aria-current="page"':"")+'><span class="material-symbols-rounded">'+p.icon+"</span><span>"+esc(p[state.lang]||p.en)+"</span></a>";}).join("");
   }
   function paintChrome(){
-    document.documentElement.setAttribute("lang",state.lang==="zh"?"zh-Hant":"en");
     var ptitle = t(PAGE.title);
     if(PAGE.kind==="region" && CUR_REGION){ var rl=L.region[CUR_REGION]; if(rl) ptitle=(rl[state.lang]||rl.en); }
     document.title=ptitle+" · All-VC-Info";
@@ -474,12 +479,25 @@
   }
 
   function applyTheme(){document.documentElement.setAttribute("data-theme",state.theme);var i=$("themeIcon");if(i)i.textContent=state.theme==="dark"?"light_mode":"dark_mode";lsSet("theme",state.theme);}
-  function applyLangChrome(){var l=$("langLabel");if(l)l.textContent=state.lang==="en"?"EN":"中";lsSet("lang",state.lang);}
+  /* 切換鈕是一個真的連結,指向「這一頁」的另一語言版本(英文版在 /en/ 底下)。
+     href 由 location.pathname 推出來,所以新增頁面不必再回來改這裡。 */
+  function altLangHref(){
+    var p=location.pathname, en=p.indexOf("/en/")===0;
+    return en?(p.slice(3)||"/"):("/en"+(p==="/"?"/":p));
+  }
+  function applyLangChrome(){
+    var l=$("langLabel");if(l)l.textContent=state.lang==="en"?"EN":"中";
+    var a=$("langToggle");if(!a)return;
+    var to=state.lang==="en"?"zh":"en";
+    a.setAttribute("href",altLangHref());
+    a.setAttribute("hreflang",to==="zh"?"zh-Hant":"en");
+    a.setAttribute("lang",to==="zh"?"zh-Hant":"en");
+    a.setAttribute("aria-label",to==="zh"?"切換到中文版":"Switch to English");
+  }
   function ghStar(){var el=$("ghStarCount"),w=$("ghStar");if(!w)return;fetch("https://api.github.com/repos/"+w.dataset.repo).then(function(r){return r.ok?r.json():null;}).then(function(j){if(j&&typeof j.stargazers_count==="number"&&el)el.textContent=j.stargazers_count;}).catch(function(){});}
 
   function wire(){
     $("themeToggle").addEventListener("click",function(){state.theme=state.theme==="dark"?"light":"dark";applyTheme();});
-    $("langToggle").addEventListener("click",function(){state.lang=state.lang==="en"?"zh":"en";applyLangChrome();var open=dialog&&dialog.open?location.hash.slice(1):null;render();if(open)openDialog(open);});
     if(dialog){$("dialogClose").addEventListener("click",closeDialog);var dp=$("dialogPrev"),dn=$("dialogNext");if(dp)dp.addEventListener("click",function(){navBy(-1);});if(dn)dn.addEventListener("click",function(){navBy(1);});dialog.addEventListener("click",function(e){if(e.target===dialog)closeDialog();});dialog.addEventListener("close",function(){if(location.hash)history.replaceState(null,"",location.pathname+location.search);});document.addEventListener("keydown",function(e){if(!dialog.open)return;if(e.key==="ArrowLeft")navBy(-1);else if(e.key==="ArrowRight")navBy(1);});window.addEventListener("hashchange",function(){var s=location.hash.slice(1);if(s&&INDEX.find(function(r){return r.slug===s;})){if(!dialog.open||location.hash.slice(1)!==s)openDialog(s);}else if(!s&&dialog.open)dialog.close();});}
   }
   function init(){applyTheme();applyLangChrome();loadURL();render();wire();ghStar();var s=location.hash.slice(1);if(s&&INDEX.find(function(r){return r.slug===s;}))openDialog(s);}
